@@ -16,10 +16,10 @@
     *   bug-transition: data about the transition of bug.  
 5. RQ3-pattern: data used in RQ3.
     *   dc-fix: records about dc fixes.  
-    *   bug-file：data about the cost of patched files.
+    *   patch-file：data about the cost of patched files.
     *   all-dep： data about all dependencies.
-    *   dc-bug-dep: data about dependencies in dc bugs.
-    *   bug-dep: data about dependencies among patched files.
+    *   dc-patch-dep: data about dependencies in dc bugs.
+    *   patch-dep: data about dependencies among patched files.
     *   pattern-instance: data about deteted patterns. 
     *   pattern-file: data about file in detected patterns.  
 6. Data-Summary: part of our originial data and experiemnt results.
