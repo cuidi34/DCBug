@@ -17,7 +17,7 @@
 5. RQ3-pattern: data used in RQ3.
     *   dc-fix: records about dc fixes.  
     *   patch-file：data about the cost of patched files.
-    *   all-dep： data about all dependencies.
+    *   all-dep：data about all dependencies.
     *   dc-patch-dep: data about dependencies in dc bugs.
     *   pattern-instance: data about deteted patterns. 
     *   pattern-file: data about file in detected patterns.  
