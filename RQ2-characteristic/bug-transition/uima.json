@@ -1,0 +1,7352 @@
+{
+    "UIMA-2160": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 20s"
+        ]
+    ], 
+    "UIMA-5904": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 19m"
+        ]
+    ], 
+    "UIMA-5905": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 25m"
+        ]
+    ], 
+    "UIMA-1266": [
+        [
+            "Open", 
+            "Closed", 
+            "196d 21h 1m"
+        ]
+    ], 
+    "UIMA-1548": [
+        [
+            "Open", 
+            "Closed", 
+            "2m"
+        ]
+    ], 
+    "UIMA-1549": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 23h 33m"
+        ]
+    ], 
+    "UIMA-1956": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 23h 36m"
+        ]
+    ], 
+    "UIMA-2565": [
+        [
+            "Open", 
+            "In Progress", 
+            "26m 46s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 12h 26m"
+        ]
+    ], 
+    "UIMA-2166": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 1m"
+        ]
+    ], 
+    "UIMA-2560": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 4h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "98d 19h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 20h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 13s"
+        ]
+    ], 
+    "UIMA-2114": [
+        [
+            "Open", 
+            "Closed", 
+            "153d 4h 30m"
+        ]
+    ], 
+    "UIMA-2115": [
+        [
+            "Open", 
+            "Closed", 
+            "98d 5h 13m"
+        ]
+    ], 
+    "UIMA-2440": [
+        [
+            "Open", 
+            "Resolved", 
+            "326d 21h 5m"
+        ]
+    ], 
+    "UIMA-813": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 35s"
+        ]
+    ], 
+    "UIMA-1649": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 22h 7m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "15h 57m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1d 9h"
+        ]
+    ], 
+    "UIMA-2112": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 16s"
+        ]
+    ], 
+    "UIMA-2113": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 58s"
+        ]
+    ], 
+    "UIMA-1647": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21h 25m"
+        ]
+    ], 
+    "UIMA-1641": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 23s"
+        ]
+    ], 
+    "UIMA-1316": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 23h 2m"
+        ]
+    ], 
+    "UIMA-3794": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 16m"
+        ]
+    ], 
+    "UIMA-427": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 13s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1m 11s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "55s"
+        ]
+    ], 
+    "UIMA-426": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 21h 3m"
+        ]
+    ], 
+    "UIMA-421": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 23h 16m"
+        ]
+    ], 
+    "UIMA-422": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 30s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "36d 9h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2h 32m"
+        ]
+    ], 
+    "UIMA-26": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13d 19h 11m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "74d 23h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "36m 1s"
+        ]
+    ], 
+    "UIMA-27": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 54m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "88d 22h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 41s"
+        ]
+    ], 
+    "UIMA-429": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 13m"
+        ]
+    ], 
+    "UIMA-22": [
+        [
+            "Open", 
+            "Closed", 
+            "77d 20h 56m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 21m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "42m 56s"
+        ]
+    ], 
+    "UIMA-23": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 2m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "88d 20h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m"
+        ]
+    ], 
+    "UIMA-252": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 23m"
+        ]
+    ], 
+    "UIMA-158": [
+        [
+            "Open", 
+            "In Progress", 
+            "153d 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 7h 34m"
+        ]
+    ], 
+    "UIMA-1948": [
+        [
+            "Open", 
+            "Closed", 
+            "27m 36s"
+        ]
+    ], 
+    "UIMA-1866": [
+        [
+            "Open", 
+            "Closed", 
+            "362d 19h 43m"
+        ]
+    ], 
+    "UIMA-256": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "178d 20h 13m"
+        ]
+    ], 
+    "UIMA-1860": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 23h 7m"
+        ]
+    ], 
+    "UIMA-5830": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 10m"
+        ]
+    ], 
+    "UIMA-1942": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 10h 41m"
+        ]
+    ], 
+    "UIMA-153": [
+        [
+            "Open", 
+            "Closed", 
+            "12m 35s"
+        ]
+    ], 
+    "UIMA-1946": [
+        [
+            "Open", 
+            "Closed", 
+            "16m 58s"
+        ]
+    ], 
+    "UIMA-1944": [
+        [
+            "Open", 
+            "Closed", 
+            "26d 6h 26m"
+        ]
+    ], 
+    "UIMA-5839": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 8m"
+        ]
+    ], 
+    "UIMA-1576": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 46s"
+        ]
+    ], 
+    "UIMA-5121": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 58m"
+        ]
+    ], 
+    "UIMA-1107": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 35m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "32d 17h 4m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "48d 18h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "50d 22h 35m"
+        ]
+    ], 
+    "UIMA-1892": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 3m"
+        ]
+    ], 
+    "UIMA-1894": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 21h 39m"
+        ]
+    ], 
+    "UIMA-823": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 1s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "41m 7s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2h 33m"
+        ]
+    ], 
+    "UIMA-1896": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 38s"
+        ]
+    ], 
+    "UIMA-1897": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 50s"
+        ]
+    ], 
+    "UIMA-3540": [
+        [
+            "Open", 
+            "Resolved", 
+            "67d 2h 26m"
+        ]
+    ], 
+    "UIMA-693": [
+        [
+            "Open", 
+            "Closed", 
+            "51d 23h 42m"
+        ]
+    ], 
+    "UIMA-1105": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16h 26m"
+        ]
+    ], 
+    "UIMA-2011": [
+        [
+            "Open", 
+            "Closed", 
+            "89d 17h 39m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1m 56s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "204d 7h 55m"
+        ]
+    ], 
+    "UIMA-2012": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 17h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 1h 40m"
+        ]
+    ], 
+    "UIMA-6047": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 3h 38m"
+        ]
+    ], 
+    "UIMA-94": [
+        [
+            "Open", 
+            "Closed", 
+            "35d 9h 6m"
+        ]
+    ], 
+    "UIMA-99": [
+        [
+            "Open", 
+            "Closed", 
+            "52d 22h 49m"
+        ]
+    ], 
+    "UIMA-459": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 15h 49m"
+        ]
+    ], 
+    "UIMA-2383": [
+        [
+            "Open", 
+            "Resolved", 
+            "753d 13m"
+        ]
+    ], 
+    "UIMA-2382": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 59s"
+        ]
+    ], 
+    "UIMA-2384": [
+        [
+            "Open", 
+            "Resolved", 
+            "454d 17h 38m"
+        ]
+    ], 
+    "UIMA-4301": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 23m"
+        ]
+    ], 
+    "UIMA-1606": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 31m"
+        ]
+    ], 
+    "UIMA-1228": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 2m"
+        ]
+    ], 
+    "UIMA-5601": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 52m"
+        ]
+    ], 
+    "UIMA-936": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 10m"
+        ]
+    ], 
+    "UIMA-935": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 6s"
+        ]
+    ], 
+    "UIMA-1584": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 4h"
+        ]
+    ], 
+    "UIMA-1441": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 16s"
+        ]
+    ], 
+    "UIMA-1663": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 2h 32m"
+        ]
+    ], 
+    "UIMA-4493": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 18m"
+        ]
+    ], 
+    "UIMA-607": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 2h 21m"
+        ]
+    ], 
+    "UIMA-606": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 1h 14m"
+        ]
+    ], 
+    "UIMA-5460": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 5h 53m"
+        ]
+    ], 
+    "UIMA-5547": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 36m"
+        ]
+    ], 
+    "UIMA-1045": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 35m"
+        ]
+    ], 
+    "UIMA-1420": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 19s"
+        ]
+    ], 
+    "UIMA-5018": [
+        [
+            "Open", 
+            "Closed", 
+            "44m 18s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "35d 22h 45m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "27s"
+        ]
+    ], 
+    "UIMA-4015": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 12s"
+        ]
+    ], 
+    "UIMA-4542": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 50s"
+        ]
+    ], 
+    "UIMA-4390": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 4m"
+        ]
+    ], 
+    "UIMA-4392": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 42m"
+        ]
+    ], 
+    "UIMA-807": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10h 23m"
+        ]
+    ], 
+    "UIMA-4017": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 51s"
+        ]
+    ], 
+    "UIMA-805": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "32m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 23h 2m"
+        ]
+    ], 
+    "UIMA-4428": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 12s"
+        ]
+    ], 
+    "UIMA-4786": [
+        [
+            "Open", 
+            "Resolved", 
+            "162d 20h 30m"
+        ]
+    ], 
+    "UIMA-1344": [
+        [
+            "Open", 
+            "Closed", 
+            "18h 30m"
+        ]
+    ], 
+    "UIMA-1615": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 45m"
+        ]
+    ], 
+    "UIMA-1618": [
+        [
+            "Open", 
+            "Closed", 
+            "47m 19s"
+        ]
+    ], 
+    "UIMA-1619": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 7h 6m"
+        ]
+    ], 
+    "UIMA-4099": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 3h 36m"
+        ]
+    ], 
+    "UIMA-3112": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 8m"
+        ]
+    ], 
+    "UIMA-5308": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 55m"
+        ]
+    ], 
+    "UIMA-5267": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 15m"
+        ]
+    ], 
+    "UIMA-5264": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 31m"
+        ]
+    ], 
+    "UIMA-2406": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 53m"
+        ]
+    ], 
+    "UIMA-672": [
+        [
+            "Open", 
+            "Closed", 
+            "75d 7h 4m"
+        ]
+    ], 
+    "UIMA-5304": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 54m"
+        ]
+    ], 
+    "UIMA-2116": [
+        [
+            "Open", 
+            "Closed", 
+            "246d 3h 26m"
+        ]
+    ], 
+    "UIMA-1291": [
+        [
+            "Open", 
+            "Closed", 
+            "198d 11h 48m"
+        ]
+    ], 
+    "UIMA-5063": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 56m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4d 2h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "52s"
+        ]
+    ], 
+    "UIMA-4580": [
+        [
+            "Open", 
+            "In Progress", 
+            "23m 37s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "341d 11h 59m"
+        ]
+    ], 
+    "UIMA-4167": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 44m"
+        ]
+    ], 
+    "UIMA-336": [
+        [
+            "Open", 
+            "Closed", 
+            "21h 29m"
+        ]
+    ], 
+    "UIMA-1761": [
+        [
+            "Open", 
+            "Closed", 
+            "27m 17s"
+        ]
+    ], 
+    "UIMA-231": [
+        [
+            "Open", 
+            "Closed", 
+            "24m 11s"
+        ]
+    ], 
+    "UIMA-1536": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 40m"
+        ]
+    ], 
+    "UIMA-5285": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 28m"
+        ]
+    ], 
+    "UIMA-115": [
+        [
+            "Open", 
+            "In Progress", 
+            "34d 7h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 16h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 3h 23m"
+        ]
+    ], 
+    "UIMA-117": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 16h 26m"
+        ]
+    ], 
+    "UIMA-113": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 23h 28m"
+        ]
+    ], 
+    "UIMA-209": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 5h 35m"
+        ]
+    ], 
+    "UIMA-1281": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 6h 6m"
+        ]
+    ], 
+    "UIMA-3722": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 2m"
+        ]
+    ], 
+    "UIMA-1582": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 13h 10m"
+        ]
+    ], 
+    "UIMA-5607": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 3m"
+        ]
+    ], 
+    "UIMA-2247": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 4h 23m"
+        ]
+    ], 
+    "UIMA-2240": [
+        [
+            "Open", 
+            "Closed", 
+            "19m 26s"
+        ]
+    ], 
+    "UIMA-5600": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 25m"
+        ]
+    ], 
+    "UIMA-2242": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 1s"
+        ]
+    ], 
+    "UIMA-1990": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 25s"
+        ]
+    ], 
+    "UIMA-898": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 21h 22m"
+        ]
+    ], 
+    "UIMA-2051": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21m 27s"
+        ]
+    ], 
+    "UIMA-2050": [
+        [
+            "Open", 
+            "Closed", 
+            "41d 2h 11m"
+        ]
+    ], 
+    "UIMA-424": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 11h 41m"
+        ]
+    ], 
+    "UIMA-414": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 43m"
+        ]
+    ], 
+    "UIMA-415": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 24s"
+        ]
+    ], 
+    "UIMA-410": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 37m"
+        ]
+    ], 
+    "UIMA-411": [
+        [
+            "Open", 
+            "Closed", 
+            "22h 45m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7d 3h 28m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "9m 49s"
+        ]
+    ], 
+    "UIMA-362": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 51m"
+        ]
+    ], 
+    "UIMA-4342": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 4h 50m"
+        ]
+    ], 
+    "UIMA-4340": [
+        [
+            "Open", 
+            "In Progress", 
+            "25d 7h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11s"
+        ]
+    ], 
+    "UIMA-367": [
+        [
+            "Open", 
+            "Closed", 
+            "35d 20m"
+        ]
+    ], 
+    "UIMA-364": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 36s"
+        ]
+    ], 
+    "UIMA-365": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 21s"
+        ]
+    ], 
+    "UIMA-200": [
+        [
+            "Open", 
+            "Closed", 
+            "12m 17s"
+        ]
+    ], 
+    "UIMA-5845": [
+        [
+            "Open", 
+            "Resolved", 
+            "355d 20h 40m"
+        ]
+    ], 
+    "UIMA-5844": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 2m"
+        ]
+    ], 
+    "UIMA-205": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 25s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "25d 1h 18m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 42s"
+        ]
+    ], 
+    "UIMA-5841": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 21m"
+        ]
+    ], 
+    "UIMA-4267": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 1s"
+        ]
+    ], 
+    "UIMA-4263": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "113d 21h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 35m"
+        ]
+    ], 
+    "UIMA-6094": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "19h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "23h 31m"
+        ]
+    ], 
+    "UIMA-61": [
+        [
+            "Open", 
+            "Closed", 
+            "15d 2h 1m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6d 23h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1h 14m"
+        ]
+    ], 
+    "UIMA-3752": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14d 22h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "31m 47s"
+        ]
+    ], 
+    "UIMA-207": [
+        [
+            "Open", 
+            "Closed", 
+            "45m 41s"
+        ]
+    ], 
+    "UIMA-891": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 53s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 7s"
+        ]
+    ], 
+    "UIMA-206": [
+        [
+            "Open", 
+            "Resolved", 
+            "53m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 6h 39m"
+        ]
+    ], 
+    "UIMA-4863": [
+        [
+            "Open", 
+            "Closed", 
+            "28d 1h 35m"
+        ]
+    ], 
+    "UIMA-20": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 6h 17m"
+        ]
+    ], 
+    "UIMA-520": [
+        [
+            "Open", 
+            "Closed", 
+            "7h 1m"
+        ]
+    ], 
+    "UIMA-522": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 4h 38m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 6h 30m"
+        ]
+    ], 
+    "UIMA-163": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 14s"
+        ]
+    ], 
+    "UIMA-527": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 4h 44m"
+        ]
+    ], 
+    "UIMA-529": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "105d 2h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 45m"
+        ]
+    ], 
+    "UIMA-897": [
+        [
+            "Open", 
+            "Closed", 
+            "19m 39s"
+        ]
+    ], 
+    "UIMA-4192": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 33m"
+        ]
+    ], 
+    "UIMA-4190": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 24m"
+        ]
+    ], 
+    "UIMA-4191": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 15h 6m"
+        ]
+    ], 
+    "UIMA-484": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 36m"
+        ]
+    ], 
+    "UIMA-5368": [
+        [
+            "Open", 
+            "Resolved", 
+            "36m 12s"
+        ]
+    ], 
+    "UIMA-480": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19h 45m"
+        ]
+    ], 
+    "UIMA-4466": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 49m"
+        ]
+    ], 
+    "UIMA-1678": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 18m"
+        ]
+    ], 
+    "UIMA-659": [
+        [
+            "Open", 
+            "Closed", 
+            "4h"
+        ]
+    ], 
+    "UIMA-250": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 10s"
+        ]
+    ], 
+    "UIMA-488": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 55m"
+        ]
+    ], 
+    "UIMA-656": [
+        [
+            "Open", 
+            "Closed", 
+            "43m 27s"
+        ]
+    ], 
+    "UIMA-4743": [
+        [
+            "Open", 
+            "Resolved", 
+            "204d 23h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 8h 25m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 12h 20m"
+        ]
+    ], 
+    "UIMA-3504": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 43m"
+        ]
+    ], 
+    "UIMA-3054": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 25m"
+        ]
+    ], 
+    "UIMA-257": [
+        [
+            "Open", 
+            "Closed", 
+            "44m 51s"
+        ]
+    ], 
+    "UIMA-1714": [
+        [
+            "Open", 
+            "Closed", 
+            "259d 4h 15m"
+        ]
+    ], 
+    "UIMA-1499": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 15h 40m"
+        ]
+    ], 
+    "UIMA-1494": [
+        [
+            "Open", 
+            "Closed", 
+            "19m 29s"
+        ]
+    ], 
+    "UIMA-2212": [
+        [
+            "Open", 
+            "Closed", 
+            "11h 26m"
+        ]
+    ], 
+    "UIMA-1491": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 4h 44m"
+        ]
+    ], 
+    "UIMA-941": [
+        [
+            "Open", 
+            "Closed", 
+            "521d 15h 44m"
+        ]
+    ], 
+    "UIMA-738": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 19h 33m"
+        ]
+    ], 
+    "UIMA-735": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 8h 20m"
+        ]
+    ], 
+    "UIMA-730": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 10h 24m"
+        ]
+    ], 
+    "UIMA-733": [
+        [
+            "Open", 
+            "Closed", 
+            "26d 7h 18m"
+        ]
+    ], 
+    "UIMA-732": [
+        [
+            "Open", 
+            "Closed", 
+            "26m 41s"
+        ]
+    ], 
+    "UIMA-5595": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "23h 33m"
+        ]
+    ], 
+    "UIMA-5346": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 39s"
+        ]
+    ], 
+    "UIMA-5435": [
+        [
+            "Open", 
+            "Resolved", 
+            "24m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "83d 22h 46m"
+        ]
+    ], 
+    "UIMA-1012": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 34m"
+        ]
+    ], 
+    "UIMA-5021": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 29m"
+        ]
+    ], 
+    "UIMA-4126": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 2h 43m"
+        ]
+    ], 
+    "UIMA-1150": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 5m"
+        ]
+    ], 
+    "UIMA-1400": [
+        [
+            "Open", 
+            "Closed", 
+            "100d 1h 45m"
+        ]
+    ], 
+    "UIMA-2943": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 41s"
+        ]
+    ], 
+    "UIMA-1404": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 19h 39m"
+        ]
+    ], 
+    "UIMA-1158": [
+        [
+            "Open", 
+            "Closed", 
+            "111d 18h 25m"
+        ]
+    ], 
+    "UIMA-1408": [
+        [
+            "Open", 
+            "Closed", 
+            "57d 14h 41m"
+        ]
+    ], 
+    "UIMA-385": [
+        [
+            "Open", 
+            "Closed", 
+            "55s"
+        ]
+    ], 
+    "UIMA-387": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 1h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6d 22h 36m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11m 5s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4d 20h"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "18d 20h 31m"
+        ]
+    ], 
+    "UIMA-5935": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 13h 5m"
+        ]
+    ], 
+    "UIMA-1273": [
+        [
+            "Open", 
+            "Closed", 
+            "153d 19h 1m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "80d 6h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "29d 19h 30m"
+        ]
+    ], 
+    "UIMA-1275": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 19h 23m"
+        ]
+    ], 
+    "UIMA-2175": [
+        [
+            "Open", 
+            "Closed", 
+            "52m 51s"
+        ]
+    ], 
+    "UIMA-625": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 48m"
+        ]
+    ], 
+    "UIMA-1787": [
+        [
+            "Open", 
+            "Closed", 
+            "422d 9h 23m"
+        ]
+    ], 
+    "UIMA-623": [
+        [
+            "Open", 
+            "Closed", 
+            "33m 43s"
+        ]
+    ], 
+    "UIMA-5238": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 4h 6m"
+        ]
+    ], 
+    "UIMA-740": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 8m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 20h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m 57s"
+        ]
+    ], 
+    "UIMA-911": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 22h 37m"
+        ]
+    ], 
+    "UIMA-747": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 1h 22m"
+        ]
+    ], 
+    "UIMA-586": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 17h 28m"
+        ]
+    ], 
+    "UIMA-5333": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 11m"
+        ]
+    ], 
+    "UIMA-5339": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 16m"
+        ]
+    ], 
+    "UIMA-1650": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 55m"
+        ]
+    ], 
+    "UIMA-2716": [
+        [
+            "Open", 
+            "Closed", 
+            "36d 8m"
+        ]
+    ], 
+    "UIMA-2872": [
+        [
+            "Open", 
+            "Closed", 
+            "56m 14s"
+        ]
+    ], 
+    "UIMA-3784": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 42m"
+        ]
+    ], 
+    "UIMA-2712": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 23h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 14s"
+        ]
+    ], 
+    "UIMA-253": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 37s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 1h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "10m 32s"
+        ]
+    ], 
+    "UIMA-2308": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 45s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 23h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "5m 16s"
+        ]
+    ], 
+    "UIMA-5801": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 7h 3m"
+        ]
+    ], 
+    "UIMA-14": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 21h 39m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "88d 19h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m"
+        ]
+    ], 
+    "UIMA-583": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 4h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 56s"
+        ]
+    ], 
+    "UIMA-245": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 47m"
+        ]
+    ], 
+    "UIMA-1877": [
+        [
+            "Open", 
+            "Closed", 
+            "16m 1s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "5d 19h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "25d 3h 36m"
+        ]
+    ], 
+    "UIMA-247": [
+        [
+            "Open", 
+            "Closed", 
+            "46m 11s"
+        ]
+    ], 
+    "UIMA-128": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 2h 59m"
+        ]
+    ], 
+    "UIMA-1873": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 42s"
+        ]
+    ], 
+    "UIMA-1870": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 29s"
+        ]
+    ], 
+    "UIMA-1883": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 13h 52m"
+        ]
+    ], 
+    "UIMA-4133": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 13s"
+        ]
+    ], 
+    "UIMA-1879": [
+        [
+            "Open", 
+            "Closed", 
+            "26d 22h 18m"
+        ]
+    ], 
+    "UIMA-3655": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 48m"
+        ]
+    ], 
+    "UIMA-3652": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 56m"
+        ]
+    ], 
+    "UIMA-3807": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 49s"
+        ]
+    ], 
+    "UIMA-2374": [
+        [
+            "Open", 
+            "Resolved", 
+            "202d 18h 44m"
+        ]
+    ], 
+    "UIMA-2376": [
+        [
+            "Open", 
+            "Closed", 
+            "71d 14m"
+        ]
+    ], 
+    "UIMA-2279": [
+        [
+            "Open", 
+            "Closed", 
+            "17h 20m"
+        ]
+    ], 
+    "UIMA-2373": [
+        [
+            "Open", 
+            "Resolved", 
+            "789d 5h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 13h 8m"
+        ]
+    ], 
+    "UIMA-1573": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 21m"
+        ]
+    ], 
+    "UIMA-2270": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 38m"
+        ]
+    ], 
+    "UIMA-2379": [
+        [
+            "Open", 
+            "Resolved", 
+            "417d 4h 4m"
+        ]
+    ], 
+    "UIMA-686": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 15h 38m"
+        ]
+    ], 
+    "UIMA-680": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 6h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15h 26m"
+        ]
+    ], 
+    "UIMA-1256": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "266d 13h 33m"
+        ]
+    ], 
+    "UIMA-443": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 14h 24m"
+        ]
+    ], 
+    "UIMA-442": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 22h 56m"
+        ]
+    ], 
+    "UIMA-440": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 18h 6m"
+        ]
+    ], 
+    "UIMA-1889": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 44s"
+        ]
+    ], 
+    "UIMA-4095": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h"
+        ]
+    ], 
+    "UIMA-4094": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 20m"
+        ]
+    ], 
+    "UIMA-86": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 22h 25m"
+        ]
+    ], 
+    "UIMA-330": [
+        [
+            "Open", 
+            "Closed", 
+            "53s"
+        ]
+    ], 
+    "UIMA-449": [
+        [
+            "Open", 
+            "Closed", 
+            "18h 54m"
+        ]
+    ], 
+    "UIMA-85": [
+        [
+            "Open", 
+            "Closed", 
+            "42d 21h 52m"
+        ]
+    ], 
+    "UIMA-83": [
+        [
+            "Open", 
+            "Closed", 
+            "42d 1h 56m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "30s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "37s"
+        ]
+    ], 
+    "UIMA-80": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 6m"
+        ]
+    ], 
+    "UIMA-81": [
+        [
+            "Open", 
+            "Closed", 
+            "30d 3h 42m"
+        ]
+    ], 
+    "UIMA-230": [
+        [
+            "Open", 
+            "Closed", 
+            "16m 46s"
+        ]
+    ], 
+    "UIMA-4250": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 12s"
+        ]
+    ], 
+    "UIMA-233": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8m 26s"
+        ]
+    ], 
+    "UIMA-234": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 22m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "5d 8m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "23m 18s"
+        ]
+    ], 
+    "UIMA-397": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 9h 16m"
+        ]
+    ], 
+    "UIMA-2097": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 19h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 14s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 22h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "8d 18h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "139d 14h 1m"
+        ]
+    ], 
+    "UIMA-2099": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "UIMA-202": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 15h 49m"
+        ]
+    ], 
+    "UIMA-519": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 58m"
+        ]
+    ], 
+    "UIMA-4487": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 29m"
+        ]
+    ], 
+    "UIMA-1111": [
+        [
+            "Open", 
+            "Closed", 
+            "20h 2m"
+        ]
+    ], 
+    "UIMA-1839": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 5h 8m"
+        ]
+    ], 
+    "UIMA-5579": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 4m"
+        ]
+    ], 
+    "UIMA-5478": [
+        [
+            "Open", 
+            "Resolved", 
+            "41m 50s"
+        ]
+    ], 
+    "UIMA-5577": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 47m"
+        ]
+    ], 
+    "UIMA-5576": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 36s"
+        ]
+    ], 
+    "UIMA-5575": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 9m"
+        ]
+    ], 
+    "UIMA-5574": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 14m"
+        ]
+    ], 
+    "UIMA-1051": [
+        [
+            "Open", 
+            "Closed", 
+            "755d 22h 23m"
+        ]
+    ], 
+    "UIMA-5571": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m 31s"
+        ]
+    ], 
+    "UIMA-5570": [
+        [
+            "Open", 
+            "Resolved", 
+            "30m 47s"
+        ]
+    ], 
+    "UIMA-1114": [
+        [
+            "Open", 
+            "Resolved", 
+            "412d 6h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 16h 21m"
+        ]
+    ], 
+    "UIMA-4554": [
+        [
+            "Open", 
+            "Resolved", 
+            "98d 18h"
+        ]
+    ], 
+    "UIMA-1116": [
+        [
+            "Open", 
+            "Closed", 
+            "419d 21h 53m"
+        ]
+    ], 
+    "UIMA-1058": [
+        [
+            "Open", 
+            "Closed", 
+            "452d 10h 8m"
+        ]
+    ], 
+    "UIMA-4002": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 31s"
+        ]
+    ], 
+    "UIMA-5578": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m 38s"
+        ]
+    ], 
+    "UIMA-836": [
+        [
+            "Open", 
+            "Closed", 
+            "37m 30s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "9m 30s"
+        ]
+    ], 
+    "UIMA-835": [
+        [
+            "Open", 
+            "Closed", 
+            "23m 58s"
+        ]
+    ], 
+    "UIMA-4823": [
+        [
+            "Open", 
+            "Resolved", 
+            "129d 2h 37m"
+        ]
+    ], 
+    "UIMA-4820": [
+        [
+            "Open", 
+            "Resolved", 
+            "277d 22h 34m"
+        ]
+    ], 
+    "UIMA-4793": [
+        [
+            "Open", 
+            "Resolved", 
+            "192d 22h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "351d 1h 57m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13d 20h 29m"
+        ]
+    ], 
+    "UIMA-1625": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 13h 49m"
+        ]
+    ], 
+    "UIMA-1621": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 47s"
+        ]
+    ], 
+    "UIMA-514": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10h 54m"
+        ]
+    ], 
+    "UIMA-5689": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 30m"
+        ]
+    ], 
+    "UIMA-2148": [
+        [
+            "Open", 
+            "Closed", 
+            "153d 15h 51m"
+        ]
+    ], 
+    "UIMA-5683": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 6m"
+        ]
+    ], 
+    "UIMA-668": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9h 52m"
+        ]
+    ], 
+    "UIMA-5378": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 14m"
+        ]
+    ], 
+    "UIMA-2435": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26s"
+        ]
+    ], 
+    "UIMA-663": [
+        [
+            "Open", 
+            "Closed", 
+            "14m 35s"
+        ]
+    ], 
+    "UIMA-1123": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h 38m"
+        ]
+    ], 
+    "UIMA-667": [
+        [
+            "Open", 
+            "Closed", 
+            "13h 10m"
+        ]
+    ], 
+    "UIMA-665": [
+        [
+            "Open", 
+            "Closed", 
+            "18m"
+        ]
+    ], 
+    "UIMA-4171": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 54m"
+        ]
+    ], 
+    "UIMA-1750": [
+        [
+            "Open", 
+            "Closed", 
+            "174d 7h 34m"
+        ]
+    ], 
+    "UIMA-1025": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 20s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "21h 3m"
+        ]
+    ], 
+    "UIMA-1024": [
+        [
+            "Open", 
+            "In Progress", 
+            "49d 40m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "41m 2s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "1m 13s"
+        ]
+    ], 
+    "UIMA-1027": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 23h 51m"
+        ]
+    ], 
+    "UIMA-4418": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 2m"
+        ]
+    ], 
+    "UIMA-906": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 1h 32m"
+        ]
+    ], 
+    "UIMA-6054": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 20h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6m 32s"
+        ]
+    ], 
+    "UIMA-1248": [
+        [
+            "Open", 
+            "Resolved", 
+            "1948d 3h 52m"
+        ]
+    ], 
+    "UIMA-1939": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 19h 5m"
+        ]
+    ], 
+    "UIMA-1523": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 23m"
+        ]
+    ], 
+    "UIMA-1525": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 33s"
+        ]
+    ], 
+    "UIMA-2225": [
+        [
+            "Open", 
+            "Closed", 
+            "60d 3h 49m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "8d 5h 19m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "7d 16h 9m"
+        ]
+    ], 
+    "UIMA-1242": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 59m"
+        ]
+    ], 
+    "UIMA-1244": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 1h 21m"
+        ]
+    ], 
+    "UIMA-1247": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 1h 34m"
+        ]
+    ], 
+    "UIMA-6016": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 16m"
+        ]
+    ], 
+    "UIMA-547": [
+        [
+            "Open", 
+            "Closed", 
+            "21m 5s"
+        ]
+    ], 
+    "UIMA-5191": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 52m"
+        ]
+    ], 
+    "UIMA-84": [
+        [
+            "Open", 
+            "Closed", 
+            "42d 3h 12m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "45m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 18h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 12h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "189d 14h 2m"
+        ]
+    ], 
+    "UIMA-764": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 21h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11d 2h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "36m 21s"
+        ]
+    ], 
+    "UIMA-2101": [
+        [
+            "Open", 
+            "Resolved", 
+            "1117d 4h 30m"
+        ]
+    ], 
+    "UIMA-5201": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 54m"
+        ]
+    ], 
+    "UIMA-5202": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 9m"
+        ]
+    ], 
+    "UIMA-5613": [
+        [
+            "Open", 
+            "Resolved", 
+            "642d 4h 30m"
+        ]
+    ], 
+    "UIMA-2139": [
+        [
+            "Open", 
+            "Closed", 
+            "42m 29s"
+        ]
+    ], 
+    "UIMA-2136": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48m 25s"
+        ]
+    ], 
+    "UIMA-198": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 18h 30m"
+        ]
+    ], 
+    "UIMA-2983": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 37m"
+        ]
+    ], 
+    "UIMA-2829": [
+        [
+            "Open", 
+            "Closed", 
+            "21h 41m"
+        ]
+    ], 
+    "UIMA-462": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 46m"
+        ]
+    ], 
+    "UIMA-407": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "200d 12h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m 44s"
+        ]
+    ], 
+    "UIMA-2822": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 15s"
+        ]
+    ], 
+    "UIMA-404": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 18s"
+        ]
+    ], 
+    "UIMA-402": [
+        [
+            "Open", 
+            "In Progress", 
+            "32d 16h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "2d 3h 27m"
+        ]
+    ], 
+    "UIMA-2049": [
+        [
+            "Open", 
+            "Closed", 
+            "52d 2h 49m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "786d 8h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "6m 23s"
+        ]
+    ], 
+    "UIMA-374": [
+        [
+            "Open", 
+            "Closed", 
+            "52d 21h 30m"
+        ]
+    ], 
+    "UIMA-376": [
+        [
+            "Open", 
+            "Closed", 
+            "53s"
+        ]
+    ], 
+    "UIMA-279": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 5h 18m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 12h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 42s"
+        ]
+    ], 
+    "UIMA-4352": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 11h 27m"
+        ]
+    ], 
+    "UIMA-1808": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 18h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "167d 3h 31m"
+        ]
+    ], 
+    "UIMA-2295": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 57s"
+        ]
+    ], 
+    "UIMA-2293": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 18m"
+        ]
+    ], 
+    "UIMA-271": [
+        [
+            "Open", 
+            "Resolved", 
+            "118d 15h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 8h 40m"
+        ]
+    ], 
+    "UIMA-2291": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 23h 31m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "41m 28s"
+        ]
+    ], 
+    "UIMA-320": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 32m"
+        ]
+    ], 
+    "UIMA-58": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 49s"
+        ]
+    ], 
+    "UIMA-5103": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 30s"
+        ]
+    ], 
+    "UIMA-57": [
+        [
+            "Open", 
+            "Closed", 
+            "35m 5s"
+        ]
+    ], 
+    "UIMA-3404": [
+        [
+            "Open", 
+            "Resolved", 
+            "46m 20s"
+        ]
+    ], 
+    "UIMA-1929": [
+        [
+            "Open", 
+            "Closed", 
+            "8h 51m"
+        ]
+    ], 
+    "UIMA-1036": [
+        [
+            "Open", 
+            "Resolved", 
+            "371d 14h 30m"
+        ]
+    ], 
+    "UIMA-3567": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 41m"
+        ]
+    ], 
+    "UIMA-5532": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 5h 10m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 1h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1h 52m"
+        ]
+    ], 
+    "UIMA-534": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "99d 5h 11m"
+        ]
+    ], 
+    "UIMA-2917": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 22h 16m"
+        ]
+    ], 
+    "UIMA-300": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 22h 30m"
+        ]
+    ], 
+    "UIMA-873": [
+        [
+            "Open", 
+            "Closed", 
+            "22h 20m"
+        ]
+    ], 
+    "UIMA-302": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 18h 44m"
+        ]
+    ], 
+    "UIMA-303": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 4h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 23h 28m"
+        ]
+    ], 
+    "UIMA-304": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 20s"
+        ]
+    ], 
+    "UIMA-308": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 54s"
+        ]
+    ], 
+    "UIMA-878": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 21m"
+        ]
+    ], 
+    "UIMA-879": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 5m"
+        ]
+    ], 
+    "UIMA-3063": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 3h 51m"
+        ]
+    ], 
+    "UIMA-2486": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 2h 24m"
+        ]
+    ], 
+    "UIMA-761": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 25s"
+        ]
+    ], 
+    "UIMA-951": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 20h 19m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1d 3h 50m"
+        ]
+    ], 
+    "UIMA-899": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 4h 42m"
+        ]
+    ], 
+    "UIMA-1465": [
+        [
+            "Open", 
+            "Closed", 
+            "18m 49s"
+        ]
+    ], 
+    "UIMA-1467": [
+        [
+            "Open", 
+            "Closed", 
+            "4h"
+        ]
+    ], 
+    "UIMA-1466": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7h 44m"
+        ]
+    ], 
+    "UIMA-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "43m 53s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 41s"
+        ]
+    ], 
+    "UIMA-958": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 4s"
+        ]
+    ], 
+    "UIMA-892": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 15h 42m"
+        ]
+    ], 
+    "UIMA-1664": [
+        [
+            "Open", 
+            "Closed", 
+            "18m 45s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "20h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m 13s"
+        ]
+    ], 
+    "UIMA-894": [
+        [
+            "Open", 
+            "Closed", 
+            "42m 5s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4d 22h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "5h 8m"
+        ]
+    ], 
+    "UIMA-3985": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 43s"
+        ]
+    ], 
+    "UIMA-31": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 3h 53m"
+        ]
+    ], 
+    "UIMA-3080": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12m"
+        ]
+    ], 
+    "UIMA-1493": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 46m"
+        ]
+    ], 
+    "UIMA-3086": [
+        [
+            "Open", 
+            "Closed", 
+            "8m 6s"
+        ]
+    ], 
+    "UIMA-1386": [
+        [
+            "Open", 
+            "Closed", 
+            "8h 31m"
+        ]
+    ], 
+    "UIMA-1380": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 16s"
+        ]
+    ], 
+    "UIMA-589": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 1h 28m"
+        ]
+    ], 
+    "UIMA-4134": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 28m"
+        ]
+    ], 
+    "UIMA-4131": [
+        [
+            "Open", 
+            "In Progress", 
+            "41m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 20m"
+        ]
+    ], 
+    "UIMA-629": [
+        [
+            "Open", 
+            "Closed", 
+            "663d 2h 58m"
+        ]
+    ], 
+    "UIMA-5408": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 16m"
+        ]
+    ], 
+    "UIMA-1142": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 4m"
+        ]
+    ], 
+    "UIMA-1415": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 21s"
+        ]
+    ], 
+    "UIMA-4031": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 27s"
+        ]
+    ], 
+    "UIMA-393": [
+        [
+            "Open", 
+            "Resolved", 
+            "55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 5h 18m"
+        ]
+    ], 
+    "UIMA-392": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 4h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 1h 7m"
+        ]
+    ], 
+    "UIMA-4915": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 49m"
+        ]
+    ], 
+    "UIMA-1418": [
+        [
+            "Open", 
+            "Closed", 
+            "38m 8s"
+        ]
+    ], 
+    "UIMA-396": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 1h 22m"
+        ]
+    ], 
+    "UIMA-394": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 19h 1m"
+        ]
+    ], 
+    "UIMA-269": [
+        [
+            "Open", 
+            "Closed", 
+            "118d 18h 32m"
+        ]
+    ], 
+    "UIMA-1203": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 48s"
+        ]
+    ], 
+    "UIMA-1202": [
+        [
+            "Open", 
+            "Closed", 
+            "20h 18m"
+        ]
+    ], 
+    "UIMA-5394": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 29s"
+        ]
+    ], 
+    "UIMA-1208": [
+        [
+            "Open", 
+            "Closed", 
+            "49d 2h 55m"
+        ]
+    ], 
+    "UIMA-5390": [
+        [
+            "Open", 
+            "Resolved", 
+            "337d 2h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "UIMA-266": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 12m"
+        ]
+    ], 
+    "UIMA-1953": [
+        [
+            "Open", 
+            "Closed", 
+            "11h 27m"
+        ]
+    ], 
+    "UIMA-468": [
+        [
+            "Open", 
+            "Closed", 
+            "14m 51s"
+        ]
+    ], 
+    "UIMA-5719": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 34m"
+        ]
+    ], 
+    "UIMA-5713": [
+        [
+            "Open", 
+            "Resolved", 
+            "30m 10s"
+        ]
+    ], 
+    "UIMA-263": [
+        [
+            "Open", 
+            "Closed", 
+            "30m 22s"
+        ]
+    ], 
+    "UIMA-2463": [
+        [
+            "Open", 
+            "Resolved", 
+            "605d 9h 54m"
+        ]
+    ], 
+    "UIMA-5715": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 49s"
+        ]
+    ], 
+    "UIMA-1954": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 9s"
+        ]
+    ], 
+    "UIMA-1708": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 20m"
+        ]
+    ], 
+    "UIMA-4148": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 49m"
+        ]
+    ], 
+    "UIMA-261": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 56m"
+        ]
+    ], 
+    "UIMA-5497": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 1h 25m"
+        ]
+    ], 
+    "UIMA-77": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 5h 56m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 16h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 41s"
+        ]
+    ], 
+    "UIMA-1703": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 20h 53m"
+        ]
+    ], 
+    "UIMA-4147": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 34m"
+        ]
+    ], 
+    "UIMA-2977": [
+        [
+            "Open", 
+            "Resolved", 
+            "1230d 16h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "42m 51s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6h 50m"
+        ]
+    ], 
+    "UIMA-1512": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 10s"
+        ]
+    ], 
+    "UIMA-1840": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 2h 46m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7d 18h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "23d 51m"
+        ]
+    ], 
+    "UIMA-1847": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 4h 5m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1027d 20m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "6m 15s"
+        ]
+    ], 
+    "UIMA-1846": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 4h 34m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1027d 50m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "6m 15s"
+        ]
+    ], 
+    "UIMA-1844": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 47s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1048d 43m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "17m 39s"
+        ]
+    ], 
+    "UIMA-1960": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 10m"
+        ]
+    ], 
+    "UIMA-1688": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 10m"
+        ]
+    ], 
+    "UIMA-1965": [
+        [
+            "Open", 
+            "Closed", 
+            "14h 20m"
+        ]
+    ], 
+    "UIMA-1966": [
+        [
+            "Open", 
+            "Closed", 
+            "36m"
+        ]
+    ], 
+    "UIMA-138": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 5h 13m"
+        ]
+    ], 
+    "UIMA-137": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 49m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "51d 22h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 41s"
+        ]
+    ], 
+    "UIMA-136": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 6s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "52d 2h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 41s"
+        ]
+    ], 
+    "UIMA-1683": [
+        [
+            "Open", 
+            "Closed", 
+            "27m 42s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1d 23h 59m"
+        ]
+    ], 
+    "UIMA-1516": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22h 35m"
+        ]
+    ], 
+    "UIMA-133": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 2h 15m"
+        ]
+    ], 
+    "UIMA-1687": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 1h 16m"
+        ]
+    ], 
+    "UIMA-130": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 52m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "54d 19h"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m"
+        ]
+    ], 
+    "UIMA-901": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 21h 32m"
+        ]
+    ], 
+    "UIMA-633": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 53m"
+        ]
+    ], 
+    "UIMA-4541": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 36s"
+        ]
+    ], 
+    "UIMA-1566": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "22m 52s"
+        ]
+    ], 
+    "UIMA-2265": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 21h 41m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "38s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "23h 8m"
+        ]
+    ], 
+    "UIMA-1560": [
+        [
+            "Open", 
+            "Closed", 
+            "21m 17s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 21h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m 38s"
+        ]
+    ], 
+    "UIMA-5925": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 7m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "45s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "UIMA-5148": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 32m"
+        ]
+    ], 
+    "UIMA-3133": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "19h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 48s"
+        ]
+    ], 
+    "UIMA-6064": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 10h 3m"
+        ]
+    ], 
+    "UIMA-579": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 26m"
+        ]
+    ], 
+    "UIMA-1521": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 1m"
+        ]
+    ], 
+    "UIMA-575": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "81d 10h 15m"
+        ]
+    ], 
+    "UIMA-574": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 22h 33m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "47d 7h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 7s"
+        ]
+    ], 
+    "UIMA-2033": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 6s"
+        ]
+    ], 
+    "UIMA-2031": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 22h 14m"
+        ]
+    ], 
+    "UIMA-639": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 14h 14m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7d 53m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "28m 30s"
+        ]
+    ], 
+    "UIMA-476": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 6h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "23h 15m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "13s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "15d 1h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 15h 16m"
+        ]
+    ], 
+    "UIMA-474": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 49s"
+        ]
+    ], 
+    "UIMA-475": [
+        [
+            "Open", 
+            "Closed", 
+            "231d 16h 40m"
+        ]
+    ], 
+    "UIMA-4080": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 33m"
+        ]
+    ], 
+    "UIMA-4081": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 46s"
+        ]
+    ], 
+    "UIMA-4083": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 19m"
+        ]
+    ], 
+    "UIMA-347": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 59m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "132d 17h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "52s"
+        ]
+    ], 
+    "UIMA-479": [
+        [
+            "Open", 
+            "Closed", 
+            "25m 31s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 23h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 22s"
+        ]
+    ], 
+    "UIMA-223": [
+        [
+            "Open", 
+            "Closed", 
+            "17h 52m"
+        ]
+    ], 
+    "UIMA-222": [
+        [
+            "Open", 
+            "Closed", 
+            "47m 26s"
+        ]
+    ], 
+    "UIMA-188": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h 53m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "17m 27s"
+        ]
+    ], 
+    "UIMA-220": [
+        [
+            "Open", 
+            "Closed", 
+            "42m 51s"
+        ]
+    ], 
+    "UIMA-227": [
+        [
+            "Open", 
+            "Closed", 
+            "21m 48s"
+        ]
+    ], 
+    "UIMA-226": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 11s"
+        ]
+    ], 
+    "UIMA-225": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 33m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "19d 3h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 4s"
+        ]
+    ], 
+    "UIMA-389": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 57s"
+        ]
+    ], 
+    "UIMA-356": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 47s"
+        ]
+    ], 
+    "UIMA-229": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 45m"
+        ]
+    ], 
+    "UIMA-5593": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 14m"
+        ]
+    ], 
+    "UIMA-186": [
+        [
+            "Open", 
+            "Closed", 
+            "22m 43s"
+        ]
+    ], 
+    "UIMA-187": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 2h 45m"
+        ]
+    ], 
+    "UIMA-3143": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 43m"
+        ]
+    ], 
+    "UIMA-780": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 1h 30m"
+        ]
+    ], 
+    "UIMA-5446": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 15m"
+        ]
+    ], 
+    "UIMA-4548": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 43m"
+        ]
+    ], 
+    "UIMA-982": [
+        [
+            "Open", 
+            "In Progress", 
+            "41m 37s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "13m 9s"
+        ]
+    ], 
+    "UIMA-828": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 59m"
+        ]
+    ], 
+    "UIMA-383": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 21s"
+        ]
+    ], 
+    "UIMA-4565": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 47m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "53m 35s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 17h 50m"
+        ]
+    ], 
+    "UIMA-985": [
+        [
+            "Open", 
+            "Closed", 
+            "539d 50m"
+        ]
+    ], 
+    "UIMA-821": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 31m"
+        ]
+    ], 
+    "UIMA-2883": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 22s"
+        ]
+    ], 
+    "UIMA-988": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 33s"
+        ]
+    ], 
+    "UIMA-822": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 23s"
+        ]
+    ], 
+    "UIMA-826": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 11h 28m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "12d 7m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 22h 23m"
+        ]
+    ], 
+    "UIMA-44": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 21h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8m 19s"
+        ]
+    ], 
+    "UIMA-298": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 29s"
+        ]
+    ], 
+    "UIMA-4769": [
+        [
+            "Open", 
+            "Resolved", 
+            "173d 23h 39m"
+        ]
+    ], 
+    "UIMA-297": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 2h 46m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "11h 28m"
+        ]
+    ], 
+    "UIMA-294": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 46s"
+        ]
+    ], 
+    "UIMA-293": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 26m"
+        ]
+    ], 
+    "UIMA-290": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 53m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 19h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 59s"
+        ]
+    ], 
+    "UIMA-291": [
+        [
+            "Open", 
+            "Closed", 
+            "18m 46s"
+        ]
+    ], 
+    "UIMA-1325": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 54m"
+        ]
+    ], 
+    "UIMA-1320": [
+        [
+            "Open", 
+            "Resolved", 
+            "1543d 6h 30m"
+        ]
+    ], 
+    "UIMA-1736": [
+        [
+            "Open", 
+            "Closed", 
+            "250d 3h 1m"
+        ]
+    ], 
+    "UIMA-1086": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 12s"
+        ]
+    ], 
+    "UIMA-5691": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 48m"
+        ]
+    ], 
+    "UIMA-2422": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 58s"
+        ]
+    ], 
+    "UIMA-5369": [
+        [
+            "Open", 
+            "Resolved", 
+            "595d 20h 35m"
+        ]
+    ], 
+    "UIMA-5366": [
+        [
+            "Open", 
+            "Resolved", 
+            "51m 59s"
+        ]
+    ], 
+    "UIMA-654": [
+        [
+            "Open", 
+            "Closed", 
+            "41s"
+        ]
+    ], 
+    "UIMA-655": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 7s"
+        ]
+    ], 
+    "UIMA-5363": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 13m"
+        ]
+    ], 
+    "UIMA-5361": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h"
+        ]
+    ], 
+    "UIMA-4105": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 47m"
+        ]
+    ], 
+    "UIMA-5597": [
+        [
+            "Open", 
+            "Closed", 
+            "653d 1h 43m"
+        ]
+    ], 
+    "UIMA-4101": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 51s"
+        ]
+    ], 
+    "UIMA-4100": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 26m"
+        ]
+    ], 
+    "UIMA-5041": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 35m"
+        ]
+    ], 
+    "UIMA-4102": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 40s"
+        ]
+    ], 
+    "UIMA-1425": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 22s"
+        ]
+    ], 
+    "UIMA-4060": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 40s"
+        ]
+    ], 
+    "UIMA-989": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "19d 21h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 56s"
+        ]
+    ], 
+    "UIMA-1421": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 50s"
+        ]
+    ], 
+    "UIMA-5598": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 57s"
+        ]
+    ], 
+    "UIMA-1423": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 31m"
+        ]
+    ], 
+    "UIMA-1569": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 8h 58m"
+        ]
+    ], 
+    "UIMA-5913": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 11h 41m"
+        ]
+    ], 
+    "UIMA-1928": [
+        [
+            "Open", 
+            "Closed", 
+            "29m 47s"
+        ]
+    ], 
+    "UIMA-1882": [
+        [
+            "Open", 
+            "Closed", 
+            "84d 4m"
+        ]
+    ], 
+    "UIMA-2211": [
+        [
+            "Open", 
+            "Closed", 
+            "22h 38m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 7h 29m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 10s"
+        ]
+    ], 
+    "UIMA-1250": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 31m"
+        ]
+    ], 
+    "UIMA-1251": [
+        [
+            "Open", 
+            "Closed", 
+            "234d 4h 14m"
+        ]
+    ], 
+    "UIMA-1920": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 5m"
+        ]
+    ], 
+    "UIMA-496": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "24m 15s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 13m"
+        ]
+    ], 
+    "UIMA-1922": [
+        [
+            "Open", 
+            "Closed", 
+            "29d 1h 41m"
+        ]
+    ], 
+    "UIMA-1888": [
+        [
+            "Open", 
+            "Closed", 
+            "14h 11m"
+        ]
+    ], 
+    "UIMA-1268": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 24s"
+        ]
+    ], 
+    "UIMA-490": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22h 10m"
+        ]
+    ], 
+    "UIMA-491": [
+        [
+            "Open", 
+            "Closed", 
+            "21m 39s"
+        ]
+    ], 
+    "UIMA-2693": [
+        [
+            "Open", 
+            "In Progress", 
+            "189d 2h 48m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 11h 42m"
+        ]
+    ], 
+    "UIMA-5628": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 32m"
+        ]
+    ], 
+    "UIMA-2695": [
+        [
+            "Open", 
+            "Closed", 
+            "28d 13h 44m"
+        ]
+    ], 
+    "UIMA-2694": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 44m"
+        ]
+    ], 
+    "UIMA-2511": [
+        [
+            "Open", 
+            "Resolved", 
+            "221d 18h 6m"
+        ]
+    ], 
+    "UIMA-5621": [
+        [
+            "Open", 
+            "Resolved", 
+            "27m 17s"
+        ]
+    ], 
+    "UIMA-5620": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 27m"
+        ]
+    ], 
+    "UIMA-5627": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 28m"
+        ]
+    ], 
+    "UIMA-2515": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 41m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "41d 21h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1h 33m"
+        ]
+    ], 
+    "UIMA-5624": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 11m"
+        ]
+    ], 
+    "UIMA-5740": [
+        [
+            "Open", 
+            "Resolved", 
+            "119d 4h 15m"
+        ]
+    ], 
+    "UIMA-2453": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1m 31s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3d 9h 27m"
+        ]
+    ], 
+    "UIMA-2107": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 3h 14m"
+        ]
+    ], 
+    "UIMA-5961": [
+        [
+            "Open", 
+            "Resolved", 
+            "167d 1h 2m"
+        ]
+    ], 
+    "UIMA-2457": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 35s"
+        ]
+    ], 
+    "UIMA-1631": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 13s"
+        ]
+    ], 
+    "UIMA-437": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 26m"
+        ]
+    ], 
+    "UIMA-435": [
+        [
+            "Open", 
+            "Closed", 
+            "31m 7s"
+        ]
+    ], 
+    "UIMA-65": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 18h 20m"
+        ]
+    ], 
+    "UIMA-34": [
+        [
+            "Open", 
+            "Closed", 
+            "26d 33m"
+        ]
+    ], 
+    "UIMA-2677": [
+        [
+            "Open", 
+            "Closed", 
+            "54d 16h 2m"
+        ]
+    ], 
+    "UIMA-1958": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 45m"
+        ]
+    ], 
+    "UIMA-5827": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 50m"
+        ]
+    ], 
+    "UIMA-5826": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 44m"
+        ]
+    ], 
+    "UIMA-4208": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 23s"
+        ]
+    ], 
+    "UIMA-1817": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 17h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 16h 55m"
+        ]
+    ], 
+    "UIMA-1951": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 47m"
+        ]
+    ], 
+    "UIMA-1950": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 23m"
+        ]
+    ], 
+    "UIMA-4204": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 18m"
+        ]
+    ], 
+    "UIMA-264": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 48m"
+        ]
+    ], 
+    "UIMA-5829": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 15m"
+        ]
+    ], 
+    "UIMA-5828": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 25m"
+        ]
+    ], 
+    "UIMA-4200": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 48m"
+        ]
+    ], 
+    "UIMA-4201": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 35m"
+        ]
+    ], 
+    "UIMA-141": [
+        [
+            "Open", 
+            "Closed", 
+            "8h 33m"
+        ]
+    ], 
+    "UIMA-628": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 53s"
+        ]
+    ], 
+    "UIMA-148": [
+        [
+            "Open", 
+            "Closed", 
+            "57m 37s"
+        ]
+    ], 
+    "UIMA-3776": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 8m"
+        ]
+    ], 
+    "UIMA-3774": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 16h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8h 8m"
+        ]
+    ], 
+    "UIMA-43": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 1h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 19h 42m"
+        ]
+    ], 
+    "UIMA-40": [
+        [
+            "Open", 
+            "Resolved", 
+            "58m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "85d 6h 14m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 16h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 41s"
+        ]
+    ], 
+    "UIMA-41": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "12d 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "42m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 5h 38m"
+        ]
+    ], 
+    "UIMA-46": [
+        [
+            "Open", 
+            "Closed", 
+            "23m 29s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "86d 21h 40m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m"
+        ]
+    ], 
+    "UIMA-2350": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 2h 51m"
+        ]
+    ], 
+    "UIMA-2603": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 48m"
+        ]
+    ], 
+    "UIMA-313": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "165d 23h 9m"
+        ]
+    ], 
+    "UIMA-3003": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 24s"
+        ]
+    ], 
+    "UIMA-3415": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "24d 3h 43m"
+        ]
+    ], 
+    "UIMA-312": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 25m"
+        ]
+    ], 
+    "UIMA-5974": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 49m"
+        ]
+    ], 
+    "UIMA-6055": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 20h 39m"
+        ]
+    ], 
+    "UIMA-1718": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 32s"
+        ]
+    ], 
+    "UIMA-6057": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 11h 21m"
+        ]
+    ], 
+    "UIMA-6056": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 19h 31m"
+        ]
+    ], 
+    "UIMA-289": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 6h 3m"
+        ]
+    ], 
+    "UIMA-1561": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 5h 30m"
+        ]
+    ], 
+    "UIMA-3528": [
+        [
+            "Open", 
+            "Resolved", 
+            "56s"
+        ]
+    ], 
+    "UIMA-288": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 17h 47m"
+        ]
+    ], 
+    "UIMA-262": [
+        [
+            "Open", 
+            "Closed", 
+            "25m 27s"
+        ]
+    ], 
+    "UIMA-508": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 14s"
+        ]
+    ], 
+    "UIMA-316": [
+        [
+            "Open", 
+            "Closed", 
+            "153d 22h 52m"
+        ]
+    ], 
+    "UIMA-865": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 10h 19m"
+        ]
+    ], 
+    "UIMA-864": [
+        [
+            "Open", 
+            "Closed", 
+            "57m 5s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "8h 38m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2h 52m"
+        ]
+    ], 
+    "UIMA-310": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 18s"
+        ]
+    ], 
+    "UIMA-317": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 5h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6d 18h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 22s"
+        ]
+    ], 
+    "UIMA-860": [
+        [
+            "Open", 
+            "Closed", 
+            "513d 23h 21m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1m 9s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 20s"
+        ]
+    ], 
+    "UIMA-863": [
+        [
+            "Open", 
+            "Closed", 
+            "8h 15m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "22d 18h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "10m 8s"
+        ]
+    ], 
+    "UIMA-314": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 10s"
+        ]
+    ], 
+    "UIMA-4721": [
+        [
+            "Open", 
+            "Resolved", 
+            "193d 16h 47m"
+        ]
+    ], 
+    "UIMA-4722": [
+        [
+            "Open", 
+            "Resolved", 
+            "193d 5h 7m"
+        ]
+    ], 
+    "UIMA-1562": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 12m"
+        ]
+    ], 
+    "UIMA-2078": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "234d 15m"
+        ]
+    ], 
+    "UIMA-3072": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 6m"
+        ]
+    ], 
+    "UIMA-741": [
+        [
+            "Open", 
+            "Resolved", 
+            "40m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 38m"
+        ]
+    ], 
+    "UIMA-1473": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 32s"
+        ]
+    ], 
+    "UIMA-1470": [
+        [
+            "Open", 
+            "Closed", 
+            "41m 11s"
+        ]
+    ], 
+    "UIMA-888": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 47s"
+        ]
+    ], 
+    "UIMA-1478": [
+        [
+            "Open", 
+            "Resolved", 
+            "1407d 7h 20m"
+        ]
+    ], 
+    "UIMA-221": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 1m"
+        ]
+    ], 
+    "UIMA-4728": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 4m"
+        ]
+    ], 
+    "UIMA-619": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 56m"
+        ]
+    ], 
+    "UIMA-5797": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 5h 5m"
+        ]
+    ], 
+    "UIMA-5410": [
+        [
+            "Open", 
+            "Resolved", 
+            "126d 23h 48m"
+        ]
+    ], 
+    "UIMA-5976": [
+        [
+            "Open", 
+            "Resolved", 
+            "31m 19s"
+        ]
+    ], 
+    "UIMA-5799": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 7h 27m"
+        ]
+    ], 
+    "UIMA-5798": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 7h 32m"
+        ]
+    ], 
+    "UIMA-616": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 23h 18m"
+        ]
+    ], 
+    "UIMA-591": [
+        [
+            "Open", 
+            "Resolved", 
+            "147d 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 19h 14m"
+        ]
+    ], 
+    "UIMA-5553": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 21m"
+        ]
+    ], 
+    "UIMA-5552": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 51m"
+        ]
+    ], 
+    "UIMA-5554": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 11m"
+        ]
+    ], 
+    "UIMA-5557": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 7m"
+        ]
+    ], 
+    "UIMA-5556": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 59m"
+        ]
+    ], 
+    "UIMA-599": [
+        [
+            "Open", 
+            "Closed", 
+            "21d 18h 35m"
+        ]
+    ], 
+    "UIMA-5558": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 11m"
+        ]
+    ], 
+    "UIMA-4533": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 30m"
+        ]
+    ], 
+    "UIMA-4534": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 22m"
+        ]
+    ], 
+    "UIMA-2475": [
+        [
+            "Open", 
+            "Resolved", 
+            "252d 4h 18m"
+        ]
+    ], 
+    "UIMA-810": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 34s"
+        ]
+    ], 
+    "UIMA-4433": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 4h 18m"
+        ]
+    ], 
+    "UIMA-4920": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 22h 24m"
+        ]
+    ], 
+    "UIMA-814": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 58m"
+        ]
+    ], 
+    "UIMA-3396": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 21m"
+        ]
+    ], 
+    "UIMA-1601": [
+        [
+            "Open", 
+            "In Progress", 
+            "681d 4h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 5h 18m"
+        ]
+    ], 
+    "UIMA-1600": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 5s"
+        ]
+    ], 
+    "UIMA-2485": [
+        [
+            "Open", 
+            "Resolved", 
+            "185d 22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "UIMA-5384": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 16h 49m"
+        ]
+    ], 
+    "UIMA-5421": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 3h 11m"
+        ]
+    ], 
+    "UIMA-5387": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 30s"
+        ]
+    ], 
+    "UIMA-1609": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 3m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "15h 28m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 31s"
+        ]
+    ], 
+    "UIMA-1352": [
+        [
+            "Open", 
+            "Closed", 
+            "62d 22h 33m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 13h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "16d"
+        ]
+    ], 
+    "UIMA-2488": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 19h 23m"
+        ]
+    ], 
+    "UIMA-4562": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m"
+        ]
+    ], 
+    "UIMA-1304": [
+        [
+            "Open", 
+            "Closed", 
+            "153d 3h 43m"
+        ]
+    ], 
+    "UIMA-189": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "4h 43m"
+        ]
+    ], 
+    "UIMA-400": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 1h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 7h 46m"
+        ]
+    ], 
+    "UIMA-2418": [
+        [
+            "Open", 
+            "Resolved", 
+            "131d 19h 48m"
+        ]
+    ], 
+    "UIMA-5259": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 5h 3m"
+        ]
+    ], 
+    "UIMA-5704": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 13s"
+        ]
+    ], 
+    "UIMA-5706": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 56m"
+        ]
+    ], 
+    "UIMA-5252": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 59m"
+        ]
+    ], 
+    "UIMA-1280": [
+        [
+            "Open", 
+            "Closed", 
+            "216d 22h 38m"
+        ]
+    ], 
+    "UIMA-5250": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 58m"
+        ]
+    ], 
+    "UIMA-5251": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 34m"
+        ]
+    ], 
+    "UIMA-4158": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 1h 1m"
+        ]
+    ], 
+    "UIMA-4159": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 28m"
+        ]
+    ], 
+    "UIMA-1774": [
+        [
+            "Open", 
+            "Closed", 
+            "58m 36s"
+        ]
+    ], 
+    "UIMA-5097": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 29m"
+        ]
+    ], 
+    "UIMA-1771": [
+        [
+            "Open", 
+            "Closed", 
+            "138d 20h 15m"
+        ]
+    ], 
+    "UIMA-4248": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 52m"
+        ]
+    ], 
+    "UIMA-2634": [
+        [
+            "Open", 
+            "Resolved", 
+            "436d 22h 49m"
+        ]
+    ], 
+    "UIMA-1858": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 55s"
+        ]
+    ], 
+    "UIMA-1859": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 45m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "100d 21h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1h 6m"
+        ]
+    ], 
+    "UIMA-2633": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 17m"
+        ]
+    ], 
+    "UIMA-1854": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 28s"
+        ]
+    ], 
+    "UIMA-889": [
+        [
+            "Open", 
+            "Closed", 
+            "15m 22s"
+        ]
+    ], 
+    "UIMA-1853": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 1h 12m"
+        ]
+    ], 
+    "UIMA-100": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 20s"
+        ]
+    ], 
+    "UIMA-101": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 19h 58m"
+        ]
+    ], 
+    "UIMA-2481": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 18h 19m"
+        ]
+    ], 
+    "UIMA-105": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 52s"
+        ]
+    ], 
+    "UIMA-1692": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 11s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "8h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 33s"
+        ]
+    ], 
+    "UIMA-1690": [
+        [
+            "Open", 
+            "Closed", 
+            "40m 17s"
+        ]
+    ], 
+    "UIMA-677": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 2h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 14h 38m"
+        ]
+    ], 
+    "UIMA-1694": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 10h 29m"
+        ]
+    ], 
+    "UIMA-270": [
+        [
+            "Open", 
+            "Closed", 
+            "121d 19h 5m"
+        ]
+    ], 
+    "UIMA-5171": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 11m"
+        ]
+    ], 
+    "UIMA-5177": [
+        [
+            "Open", 
+            "In Progress", 
+            "23h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "29d 9h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "23h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4m 7s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5d 21h 15m"
+        ]
+    ], 
+    "UIMA-5176": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 15m"
+        ]
+    ], 
+    "UIMA-727": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 10h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 21h 56m"
+        ]
+    ], 
+    "UIMA-2253": [
+        [
+            "Open", 
+            "Closed", 
+            "19m 4s"
+        ]
+    ], 
+    "UIMA-5674": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 14m"
+        ]
+    ], 
+    "UIMA-272": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 11h 53m"
+        ]
+    ], 
+    "UIMA-1599": [
+        [
+            "Open", 
+            "Closed", 
+            "51m 45s"
+        ]
+    ], 
+    "UIMA-2155": [
+        [
+            "Open", 
+            "Closed", 
+            "153d 6h 26m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "718d 7h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "30d 14h 59m"
+        ]
+    ], 
+    "UIMA-469": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 30s"
+        ]
+    ], 
+    "UIMA-5353": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 24s"
+        ]
+    ], 
+    "UIMA-2022": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 14m"
+        ]
+    ], 
+    "UIMA-3121": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 7s"
+        ]
+    ], 
+    "UIMA-3695": [
+        [
+            "Open", 
+            "Closed", 
+            "100d 2h 16m"
+        ]
+    ], 
+    "UIMA-544": [
+        [
+            "Open", 
+            "Closed", 
+            "42d 15h 23m"
+        ]
+    ], 
+    "UIMA-545": [
+        [
+            "Open", 
+            "Closed", 
+            "8h 8m"
+        ]
+    ], 
+    "UIMA-549": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 6s"
+        ]
+    ], 
+    "UIMA-464": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 15h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "2h 50m"
+        ]
+    ], 
+    "UIMA-467": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 4m"
+        ]
+    ], 
+    "UIMA-1829": [
+        [
+            "Open", 
+            "Closed", 
+            "23m 15s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "16h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "9m 6s"
+        ]
+    ], 
+    "UIMA-359": [
+        [
+            "Open", 
+            "In Progress", 
+            "13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 39m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "43d 7h 20m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17d 22h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 16h 51m"
+        ]
+    ], 
+    "UIMA-4377": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 18m"
+        ]
+    ], 
+    "UIMA-2808": [
+        [
+            "Open", 
+            "In Progress", 
+            "31d 2h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 16m"
+        ]
+    ], 
+    "UIMA-16": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 3h 48m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "88d 20h 25m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m"
+        ]
+    ], 
+    "UIMA-578": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 27m"
+        ]
+    ], 
+    "UIMA-217": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 19h 42m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11d 20h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 42s"
+        ]
+    ], 
+    "UIMA-214": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 22h 56m"
+        ]
+    ], 
+    "UIMA-199": [
+        [
+            "Open", 
+            "Closed", 
+            "28m 3s"
+        ]
+    ], 
+    "UIMA-213": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 21h 24m"
+        ]
+    ], 
+    "UIMA-210": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 4h 51m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "18d 14h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 7h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 14h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 1m"
+        ]
+    ], 
+    "UIMA-195": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 5h 43m"
+        ]
+    ], 
+    "UIMA-194": [
+        [
+            "Open", 
+            "Closed", 
+            "133d 11h 26m"
+        ]
+    ], 
+    "UIMA-197": [
+        [
+            "Open", 
+            "Closed", 
+            "43m 47s"
+        ]
+    ], 
+    "UIMA-196": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 31s"
+        ]
+    ], 
+    "UIMA-191": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 11h 51m"
+        ]
+    ], 
+    "UIMA-190": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 9m"
+        ]
+    ], 
+    "UIMA-193": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 21h 21m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "13h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "5h 48m"
+        ]
+    ], 
+    "UIMA-192": [
+        [
+            "Open", 
+            "Closed", 
+            "42m 20s"
+        ]
+    ], 
+    "UIMA-649": [
+        [
+            "Open", 
+            "Closed", 
+            "18m 1s"
+        ]
+    ], 
+    "UIMA-3603": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 54s"
+        ]
+    ], 
+    "UIMA-75": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 58m"
+        ]
+    ], 
+    "UIMA-5658": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 23m"
+        ]
+    ], 
+    "UIMA-79": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 36s"
+        ]
+    ], 
+    "UIMA-3347": [
+        [
+            "Open", 
+            "Resolved", 
+            "114d 4h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2m 41s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 21h 25m"
+        ]
+    ], 
+    "UIMA-794": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 3h 16m"
+        ]
+    ], 
+    "UIMA-5055": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 28m"
+        ]
+    ], 
+    "UIMA-4184": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 46m"
+        ]
+    ], 
+    "UIMA-4187": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 27m"
+        ]
+    ], 
+    "UIMA-4181": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 17m"
+        ]
+    ], 
+    "UIMA-3090": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 28m"
+        ]
+    ], 
+    "UIMA-4183": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 14s"
+        ]
+    ], 
+    "UIMA-4182": [
+        [
+            "Open", 
+            "Resolved", 
+            "31m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 5h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12h 30m"
+        ]
+    ], 
+    "UIMA-494": [
+        [
+            "Open", 
+            "Closed", 
+            "16m 47s"
+        ]
+    ], 
+    "UIMA-5586": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 49m"
+        ]
+    ], 
+    "UIMA-2934": [
+        [
+            "Open", 
+            "Closed", 
+            "17h 31m"
+        ]
+    ], 
+    "UIMA-858": [
+        [
+            "Open", 
+            "Closed", 
+            "22m 20s"
+        ]
+    ], 
+    "UIMA-859": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3m 54s"
+        ]
+    ], 
+    "UIMA-492": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 11s"
+        ]
+    ], 
+    "UIMA-498": [
+        [
+            "Open", 
+            "Closed", 
+            "232d 4h 53m"
+        ]
+    ], 
+    "UIMA-852": [
+        [
+            "Open", 
+            "Closed", 
+            "526d 20h"
+        ]
+    ], 
+    "UIMA-853": [
+        [
+            "Open", 
+            "Closed", 
+            "526d 18h 33m"
+        ]
+    ], 
+    "UIMA-281": [
+        [
+            "Open", 
+            "Closed", 
+            "15h 36m"
+        ]
+    ], 
+    "UIMA-283": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 19h 38m"
+        ]
+    ], 
+    "UIMA-285": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 23h 34m"
+        ]
+    ], 
+    "UIMA-284": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 16h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 19m"
+        ]
+    ], 
+    "UIMA-286": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 30s"
+        ]
+    ], 
+    "UIMA-3513": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 19h 18m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 55m"
+        ]
+    ], 
+    "UIMA-3044": [
+        [
+            "Open", 
+            "Resolved", 
+            "167d 18h 8m"
+        ]
+    ], 
+    "UIMA-3510": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 5s"
+        ]
+    ], 
+    "UIMA-3747": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "8h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 35m"
+        ]
+    ], 
+    "UIMA-979": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 55s"
+        ]
+    ], 
+    "UIMA-978": [
+        [
+            "Open", 
+            "Closed", 
+            "9h 11m"
+        ]
+    ], 
+    "UIMA-1727": [
+        [
+            "Open", 
+            "Closed", 
+            "12m 50s"
+        ]
+    ], 
+    "UIMA-1483": [
+        [
+            "Open", 
+            "Closed", 
+            "17d 18h 50m"
+        ]
+    ], 
+    "UIMA-1485": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 2h 30m"
+        ]
+    ], 
+    "UIMA-1746": [
+        [
+            "Open", 
+            "Closed", 
+            "214d 8h 6m"
+        ]
+    ], 
+    "UIMA-729": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 14m"
+        ]
+    ], 
+    "UIMA-722": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 22h 35m"
+        ]
+    ], 
+    "UIMA-726": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 54m"
+        ]
+    ], 
+    "UIMA-4988": [
+        [
+            "Open", 
+            "In Progress", 
+            "18d 18h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 3h 33m"
+        ]
+    ], 
+    "UIMA-5058": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "169d 20h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8d 5h 49m"
+        ]
+    ], 
+    "UIMA-5352": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 39s"
+        ]
+    ], 
+    "UIMA-1679": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 8m"
+        ]
+    ], 
+    "UIMA-597": [
+        [
+            "Open", 
+            "Closed", 
+            "157d 21h 27m"
+        ]
+    ], 
+    "UIMA-5050": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 5h 46m"
+        ]
+    ], 
+    "UIMA-4698": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 31s"
+        ]
+    ], 
+    "UIMA-315": [
+        [
+            "Open", 
+            "Closed", 
+            "27m 27s"
+        ]
+    ], 
+    "UIMA-4501": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 32m"
+        ]
+    ], 
+    "UIMA-1430": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 28s"
+        ]
+    ], 
+    "UIMA-1438": [
+        [
+            "Open", 
+            "Closed", 
+            "13m 42s"
+        ]
+    ], 
+    "UIMA-598": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 23h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 18h 18m"
+        ]
+    ], 
+    "UIMA-1431": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 3m"
+        ]
+    ], 
+    "UIMA-1432": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 10h 20m"
+        ]
+    ], 
+    "UIMA-5588": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h"
+        ]
+    ], 
+    "UIMA-4119": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 18h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 2h 35m"
+        ]
+    ]
+}

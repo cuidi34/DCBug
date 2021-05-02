@@ -1,0 +1,4899 @@
+{
+    "JS2-203": [
+        [
+            "Open", 
+            "Closed", 
+            "24m 46s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "37s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 58s"
+        ]
+    ], 
+    "JS2-202": [
+        [
+            "Open", 
+            "Resolved", 
+            "244d 9h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2196d 12h 33m"
+        ]
+    ], 
+    "JS2-200": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 19h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2376d 13h 7m"
+        ]
+    ], 
+    "JS2-205": [
+        [
+            "Open", 
+            "Resolved", 
+            "234d 6h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2201d 3m"
+        ]
+    ], 
+    "JS2-562": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 5h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1898d 5h 3m"
+        ]
+    ], 
+    "JS2-564": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1844d 6h 49m"
+        ]
+    ], 
+    "JS2-180": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2464d 20h 31m"
+        ]
+    ], 
+    "JS2-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "245d 11h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "580d 20h 49m"
+        ]
+    ], 
+    "JS2-1133": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 15h 40m"
+        ]
+    ], 
+    "JS2-1030": [
+        [
+            "Open", 
+            "Resolved", 
+            "288d 3h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "560d 5h 45m"
+        ]
+    ], 
+    "JS2-1031": [
+        [
+            "Open", 
+            "Resolved", 
+            "282d 9h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "564d 3h 33m"
+        ]
+    ], 
+    "JS2-1033": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23h 7m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 13h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "838d 14h 3m"
+        ]
+    ], 
+    "JS2-1157": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "553d 2h 20m"
+        ]
+    ], 
+    "JS2-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 18h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2588d 5h 24m"
+        ]
+    ], 
+    "JS2-109": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 38m"
+        ]
+    ], 
+    "JS2-519": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2005d 19h 41m"
+        ]
+    ], 
+    "JS2-103": [
+        [
+            "Open", 
+            "Closed", 
+            "447d 23h 58m"
+        ]
+    ], 
+    "JS2-513": [
+        [
+            "Open", 
+            "Resolved", 
+            "1141d 9h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "882d 13h 15m"
+        ]
+    ], 
+    "JS2-512": [
+        [
+            "Open", 
+            "Resolved", 
+            "449d 5h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1580d 5h 2m"
+        ]
+    ], 
+    "JS2-511": [
+        [
+            "Open", 
+            "Closed", 
+            "31d 15h 47m"
+        ]
+    ], 
+    "JS2-298": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 14h 14m"
+        ]
+    ], 
+    "JS2-297": [
+        [
+            "Open", 
+            "In Progress", 
+            "8d 14h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "34d 23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15d 10h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "24d 9h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2219d 12h 39m"
+        ]
+    ], 
+    "JS2-1142": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "560d 1h 46m"
+        ]
+    ], 
+    "JS2-1145": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 4h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "3d 18h 56m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "553d 15m"
+        ]
+    ], 
+    "JS2-194": [
+        [
+            "Open", 
+            "In Progress", 
+            "94d 15h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 11h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2357d 3h 31m"
+        ]
+    ], 
+    "JS2-1148": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "559d 9h 21m"
+        ]
+    ], 
+    "JS2-745": [
+        [
+            "Open", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "37m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1552d 3h 23m"
+        ]
+    ], 
+    "JS2-586": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 6h 47m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1d 14h 15m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "JS2-580": [
+        [
+            "Open", 
+            "Resolved", 
+            "275d 5h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1580d 5h 39m"
+        ]
+    ], 
+    "JS2-582": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1844d 20h 1m"
+        ]
+    ], 
+    "JS2-588": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1831d 23h 23m"
+        ]
+    ], 
+    "JS2-589": [
+        [
+            "Open", 
+            "Resolved", 
+            "1686d 14h 41m"
+        ]
+    ], 
+    "JS2-81": [
+        [
+            "Open", 
+            "Closed", 
+            "47d 15h 50m"
+        ]
+    ], 
+    "JS2-1249": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 15h 25m"
+        ]
+    ], 
+    "JS2-338": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2237d 18h 42m"
+        ]
+    ], 
+    "JS2-737": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 3h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1553d 7h 56m"
+        ]
+    ], 
+    "JS2-735": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1568d 8h 20m"
+        ]
+    ], 
+    "JS2-733": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 12h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1562d 13h 59m"
+        ]
+    ], 
+    "JS2-731": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 3h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1d 1h 46m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1571d 23h 45m"
+        ]
+    ], 
+    "JS2-922": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1000d 4h 12m"
+        ]
+    ], 
+    "JS2-637": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 14h"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "38d 4h 52m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1684d 20h 50m"
+        ]
+    ], 
+    "JS2-920": [
+        [
+            "Open", 
+            "Resolved", 
+            "100d 4h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "908d 6h 20m"
+        ]
+    ], 
+    "JS2-635": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 7h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "42d 23h 47m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1692d 3h 36m"
+        ]
+    ], 
+    "JS2-633": [
+        [
+            "Open", 
+            "In Progress", 
+            "11h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "57d 12h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1692d 2h 58m"
+        ]
+    ], 
+    "JS2-448": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "357d 17h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1761d 1h 58m"
+        ]
+    ], 
+    "JS2-320": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 10h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2238d 2h 4m"
+        ]
+    ], 
+    "JS2-321": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2251d 19h 44m"
+        ]
+    ], 
+    "JS2-322": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2251d 22h 23m"
+        ]
+    ], 
+    "JS2-323": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2251d 14h 41m"
+        ]
+    ], 
+    "JS2-325": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2245d 14h 44m"
+        ]
+    ], 
+    "JS2-326": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 22h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18d 7h 46m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11d 12h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "33d 7h 33m"
+        ]
+    ], 
+    "JS2-816": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1406d 9h 2m"
+        ]
+    ], 
+    "JS2-814": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1412d 23h 10m"
+        ]
+    ], 
+    "JS2-815": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1406d 7h 31m"
+        ]
+    ], 
+    "JS2-810": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1427d 3h 14m"
+        ]
+    ], 
+    "JS2-819": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1399d 18h 41m"
+        ]
+    ], 
+    "JS2-43": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 9s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "26s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "7d 22h 9m"
+        ]
+    ], 
+    "JS2-45": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 6h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2657d 14h 12m"
+        ]
+    ], 
+    "JS2-47": [
+        [
+            "Open", 
+            "Closed", 
+            "26m 29s"
+        ]
+    ], 
+    "JS2-48": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 3h 53m"
+        ]
+    ], 
+    "JS2-49": [
+        [
+            "Open", 
+            "Closed", 
+            "144d 2h 9m"
+        ]
+    ], 
+    "JS2-951": [
+        [
+            "Open", 
+            "Resolved", 
+            "50m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "914d 8h 33m"
+        ]
+    ], 
+    "JS2-498": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2056d 23h 12m"
+        ]
+    ], 
+    "JS2-1194": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 23h 56m"
+        ]
+    ], 
+    "JS2-555": [
+        [
+            "Open", 
+            "In Progress", 
+            "11d 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "28m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1898d 3h 42m"
+        ]
+    ], 
+    "JS2-1190": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 33s"
+        ]
+    ], 
+    "JS2-496": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 6h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2043d 3h 31m"
+        ]
+    ], 
+    "JS2-497": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2057d 14h 2m"
+        ]
+    ], 
+    "JS2-495": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "158d 16h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1903d 31m"
+        ]
+    ], 
+    "JS2-1298": [
+        [
+            "Open", 
+            "In Progress", 
+            "44s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "55m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9d 15h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22d 10h 11m"
+        ]
+    ], 
+    "JS2-259": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 7h 24m"
+        ]
+    ], 
+    "JS2-393": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 8h 46m"
+        ]
+    ], 
+    "JS2-1294": [
+        [
+            "Open", 
+            "In Progress", 
+            "115d 5h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 13h 43m"
+        ]
+    ], 
+    "JS2-255": [
+        [
+            "Open", 
+            "Resolved", 
+            "79d 1h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2256d 21h 16m"
+        ]
+    ], 
+    "JS2-1296": [
+        [
+            "Open", 
+            "In Progress", 
+            "46d 17h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11d 9h 39m"
+        ]
+    ], 
+    "JS2-1297": [
+        [
+            "Open", 
+            "In Progress", 
+            "42d 6h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15m 54s"
+        ]
+    ], 
+    "JS2-250": [
+        [
+            "Open", 
+            "Resolved", 
+            "31m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2350d 8h 21m"
+        ]
+    ], 
+    "JS2-252": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2348d 22h 35m"
+        ]
+    ], 
+    "JS2-253": [
+        [
+            "Open", 
+            "Closed", 
+            "24d 8h 37m"
+        ]
+    ], 
+    "JS2-1109": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "592d 14m"
+        ]
+    ], 
+    "JS2-1107": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "593d 3h 54m"
+        ]
+    ], 
+    "JS2-1100": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 6h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "72d 13h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "472d 13h 43m"
+        ]
+    ], 
+    "JS2-1102": [
+        [
+            "Open", 
+            "In Progress", 
+            "14d 8h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "35d 14h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "552d 5h 55m"
+        ]
+    ], 
+    "JS2-1063": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "747d 10h 11m"
+        ]
+    ], 
+    "JS2-1064": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 6h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "694d 5h 52m"
+        ]
+    ], 
+    "JS2-1068": [
+        [
+            "Open", 
+            "Resolved", 
+            "145d 20h"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1m 38s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "29d 2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "564d 4h 1m"
+        ]
+    ], 
+    "JS2-2": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 16h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2738d 3h 52m"
+        ]
+    ], 
+    "JS2-784": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 22h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1442d 8h 8m"
+        ]
+    ], 
+    "JS2-7": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 14h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2732d 17h 20m"
+        ]
+    ], 
+    "JS2-6": [
+        [
+            "Open", 
+            "Closed", 
+            "40d 10h 57m"
+        ]
+    ], 
+    "JS2-96": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 8h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2632d 15h 42m"
+        ]
+    ], 
+    "JS2-9": [
+        [
+            "Open", 
+            "Closed", 
+            "294d 7h 12m"
+        ]
+    ], 
+    "JS2-176": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2473d 10h 22m"
+        ]
+    ], 
+    "JS2-179": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2464d 19h 1m"
+        ]
+    ], 
+    "JS2-1202": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 57m"
+        ]
+    ], 
+    "JS2-676": [
+        [
+            "Open", 
+            "Resolved", 
+            "757d 13h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "881d 13h 28m"
+        ]
+    ], 
+    "JS2-674": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 19h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 6h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1615d 1h 54m"
+        ]
+    ], 
+    "JS2-675": [
+        [
+            "Resolved", 
+            "Reopened", 
+            "1m 2s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "41d 2h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "6h 17m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "45d 2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1552d 16h"
+        ]
+    ], 
+    "JS2-475": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 10h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2074d 17h 27m"
+        ]
+    ], 
+    "JS2-471": [
+        [
+            "Open", 
+            "Resolved", 
+            "505d 16h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1580d 11h 36m"
+        ]
+    ], 
+    "JS2-473": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2079d 5h 23m"
+        ]
+    ], 
+    "JS2-478": [
+        [
+            "Open", 
+            "Closed", 
+            "80d 21h 26m"
+        ]
+    ], 
+    "JS2-1339": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "56s"
+        ]
+    ], 
+    "JS2-1334": [
+        [
+            "Open", 
+            "Resolved", 
+            "264d 13h 7m"
+        ]
+    ], 
+    "JS2-981": [
+        [
+            "Open", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "889d 1h 59m"
+        ]
+    ], 
+    "JS2-983": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "887d 20h 59m"
+        ]
+    ], 
+    "JS2-984": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "883d 2h 19m"
+        ]
+    ], 
+    "JS2-986": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "882d 23h 5m"
+        ]
+    ], 
+    "JS2-987": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "881d 22h 14m"
+        ]
+    ], 
+    "JS2-1181": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "544d 8h 44m"
+        ]
+    ], 
+    "JS2-607": [
+        [
+            "Open", 
+            "In Progress", 
+            "103d 5h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 8h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1688d 20h 18m"
+        ]
+    ], 
+    "JS2-605": [
+        [
+            "Open", 
+            "Resolved", 
+            "112d 5h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "8h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "9m 52s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 8h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1683d 1h 7m"
+        ]
+    ], 
+    "JS2-1182": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "544d 8h 36m"
+        ]
+    ], 
+    "JS2-914": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 16m"
+        ]
+    ], 
+    "JS2-854": [
+        [
+            "Open", 
+            "In Progress", 
+            "3s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "109d 21h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1217d 1h 19m"
+        ]
+    ], 
+    "JS2-106": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 13h 4m"
+        ]
+    ], 
+    "JS2-638": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 2h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1723d 2h 9m"
+        ]
+    ], 
+    "JS2-213": [
+        [
+            "Open", 
+            "Closed", 
+            "40d 1h 6m"
+        ]
+    ], 
+    "JS2-218": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 9h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2376d 13h 25m"
+        ]
+    ], 
+    "JS2-358": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 59s"
+        ]
+    ], 
+    "JS2-10": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2732d 17h 20m"
+        ]
+    ], 
+    "JS2-352": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2217d 14h 55m"
+        ]
+    ], 
+    "JS2-611": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1784d 7h 58m"
+        ]
+    ], 
+    "JS2-1029": [
+        [
+            "Open", 
+            "Closed", 
+            "284d 6h 48m"
+        ]
+    ], 
+    "JS2-1027": [
+        [
+            "Open", 
+            "Resolved", 
+            "289d 14h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "563d 16h 18m"
+        ]
+    ], 
+    "JS2-14": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 23h 26m"
+        ]
+    ], 
+    "JS2-1020": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "867d 9h 6m"
+        ]
+    ], 
+    "JS2-829": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 3h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1384d 20h 25m"
+        ]
+    ], 
+    "JS2-828": [
+        [
+            "Open", 
+            "Resolved", 
+            "194d 15h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 9h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "47m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1196d 21h 37m"
+        ]
+    ], 
+    "JS2-827": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 16h 48m"
+        ]
+    ], 
+    "JS2-826": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1397d 20h 37m"
+        ]
+    ], 
+    "JS2-824": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1386d 1h 14m"
+        ]
+    ], 
+    "JS2-820": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 11h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1386d 45m"
+        ]
+    ], 
+    "JS2-131": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 12s"
+        ]
+    ], 
+    "JS2-130": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 59m"
+        ]
+    ], 
+    "JS2-139": [
+        [
+            "Open", 
+            "Resolved", 
+            "280d 6h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2267d 19h 4m"
+        ]
+    ], 
+    "JS2-501": [
+        [
+            "Open", 
+            "Resolved", 
+            "27m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2055d 15h 28m"
+        ]
+    ], 
+    "JS2-502": [
+        [
+            "Open", 
+            "Resolved", 
+            "472d 2h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1580d 6h 42m"
+        ]
+    ], 
+    "JS2-503": [
+        [
+            "Open", 
+            "Closed", 
+            "50d 21h 53m"
+        ]
+    ], 
+    "JS2-1153": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 1h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "545d 7h 19m"
+        ]
+    ], 
+    "JS2-1151": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 21h 35m"
+        ]
+    ], 
+    "JS2-184": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21s"
+        ]
+    ], 
+    "JS2-187": [
+        [
+            "Open", 
+            "Closed", 
+            "71d 6h 17m"
+        ]
+    ], 
+    "JS2-1092": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "651d 1h 38m"
+        ]
+    ], 
+    "JS2-1093": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "636d 6h 45m"
+        ]
+    ], 
+    "JS2-1096": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "629d 19h 13m"
+        ]
+    ], 
+    "JS2-1097": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "614d 9h 54m"
+        ]
+    ], 
+    "JS2-439": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2124d 18h 43m"
+        ]
+    ], 
+    "JS2-434": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2128d 15h 47m"
+        ]
+    ], 
+    "JS2-759": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 13h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1516d 21h 43m"
+        ]
+    ], 
+    "JS2-727": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1553d 21h 59m"
+        ]
+    ], 
+    "JS2-643": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22d 20h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1692d 3h 9m"
+        ]
+    ], 
+    "JS2-641": [
+        [
+            "Open", 
+            "Closed", 
+            "39d 15h 18m"
+        ]
+    ], 
+    "JS2-646": [
+        [
+            "Open", 
+            "In Progress", 
+            "13h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21d 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1692d 2h 53m"
+        ]
+    ], 
+    "JS2-319": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 10h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 15h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "13m 25s"
+        ]
+    ], 
+    "JS2-315": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "252d 1h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1999d 17h 37m"
+        ]
+    ], 
+    "JS2-314": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2265d 19h 32m"
+        ]
+    ], 
+    "JS2-310": [
+        [
+            "Open", 
+            "Closed", 
+            "72d 7h 11m"
+        ]
+    ], 
+    "JS2-222": [
+        [
+            "Open", 
+            "Closed", 
+            "30d 19h 39m"
+        ]
+    ], 
+    "JS2-863": [
+        [
+            "Open", 
+            "Resolved", 
+            "178d 4h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44s"
+        ]
+    ], 
+    "JS2-862": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 8h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "75d 18h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1217d 1h 29m"
+        ]
+    ], 
+    "JS2-944": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "918d 12h 7m"
+        ]
+    ], 
+    "JS2-942": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "920d 22h 24m"
+        ]
+    ], 
+    "JS2-548": [
+        [
+            "Open", 
+            "Resolved", 
+            "1371d 12h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "559d 5h 6m"
+        ]
+    ], 
+    "JS2-268": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 14h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2267d 19h 6m"
+        ]
+    ], 
+    "JS2-381": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 23h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2157d 14h 26m"
+        ]
+    ], 
+    "JS2-1288": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 22m"
+        ]
+    ], 
+    "JS2-261": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 8h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2323d 13h 43m"
+        ]
+    ], 
+    "JS2-1286": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 37s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9m 4s"
+        ]
+    ], 
+    "JS2-1285": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "JS2-1284": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 41m"
+        ]
+    ], 
+    "JS2-1283": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 53m"
+        ]
+    ], 
+    "JS2-266": [
+        [
+            "Open", 
+            "In Progress", 
+            "26d 18h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2294d 9h 36m"
+        ]
+    ], 
+    "JS2-1119": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 14h 20m"
+        ]
+    ], 
+    "JS2-1114": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "580d 19h 40m"
+        ]
+    ], 
+    "JS2-1056": [
+        [
+            "Open", 
+            "Resolved", 
+            "200d 3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "574d 22h 17m"
+        ]
+    ], 
+    "JS2-1058": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "762d 11h 4m"
+        ]
+    ], 
+    "JS2-1059": [
+        [
+            "Open", 
+            "Resolved", 
+            "211d 2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "551d 21h 28m"
+        ]
+    ], 
+    "JS2-168": [
+        [
+            "Open", 
+            "In Progress", 
+            "126d 4h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "223d 21h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2145d 15h 56m"
+        ]
+    ], 
+    "JS2-160": [
+        [
+            "Open", 
+            "Resolved", 
+            "258d 9h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2254d 7h 38m"
+        ]
+    ], 
+    "JS2-1239": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "242d 1h 46m"
+        ]
+    ], 
+    "JS2-1236": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 11s"
+        ]
+    ], 
+    "JS2-147": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2544d 23h 50m"
+        ]
+    ], 
+    "JS2-689": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "20d 4h 43m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "3m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1600d 23h 53m"
+        ]
+    ], 
+    "JS2-688": [
+        [
+            "Open", 
+            "In Progress", 
+            "38m 30s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11d 22h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 7h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "7h 32m"
+        ]
+    ], 
+    "JS2-687": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 17h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1580d 13h 24m"
+        ]
+    ], 
+    "JS2-86": [
+        [
+            "Open", 
+            "Closed", 
+            "64d 7h 20m"
+        ]
+    ], 
+    "JS2-87": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 6h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2632d 15h 39m"
+        ]
+    ], 
+    "JS2-682": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 1h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "31d 6h 55m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1594d 1h 7m"
+        ]
+    ], 
+    "JS2-681": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 20h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "39d 5h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1569d 7h 41m"
+        ]
+    ], 
+    "JS2-768": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 16h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1502d 3h 24m"
+        ]
+    ], 
+    "JS2-769": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 4h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "38m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1505d 20h 46m"
+        ]
+    ], 
+    "JS2-761": [
+        [
+            "Open", 
+            "Resolved", 
+            "449d 2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1083d 5h 21m"
+        ]
+    ], 
+    "JS2-762": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 17h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1517d 14h 40m"
+        ]
+    ], 
+    "JS2-764": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 17h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20d 21h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 4h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1461d 12h 38m"
+        ]
+    ], 
+    "JS2-1308": [
+        [
+            "Open", 
+            "In Progress", 
+            "34s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4m 15s"
+        ]
+    ], 
+    "JS2-1306": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "110d 7h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 59s"
+        ]
+    ], 
+    "JS2-1300": [
+        [
+            "Open", 
+            "In Progress", 
+            "190d 4h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 38m"
+        ]
+    ], 
+    "JS2-900": [
+        [
+            "Open", 
+            "Resolved", 
+            "240d 23h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 4h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 9h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "881d 20h 54m"
+        ]
+    ], 
+    "JS2-903": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1043d 3h 42m"
+        ]
+    ], 
+    "JS2-905": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1103d 7h 46m"
+        ]
+    ], 
+    "JS2-612": [
+        [
+            "Open", 
+            "In Progress", 
+            "385d 5h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "5h 40m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1398d 21h 16m"
+        ]
+    ], 
+    "JS2-613": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 4h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10d 4h 34m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "58d 19h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "3h 55m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1691d 23h 40m"
+        ]
+    ], 
+    "JS2-909": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1085d 13h 1m"
+        ]
+    ], 
+    "JS2-18": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 19h 27m"
+        ]
+    ], 
+    "JS2-619": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 5h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1761d 3h 11m"
+        ]
+    ], 
+    "JS2-883": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1217d 15h 26m"
+        ]
+    ], 
+    "JS2-882": [
+        [
+            "Open", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1217d 15h 36m"
+        ]
+    ], 
+    "JS2-884": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1217d 15h 15m"
+        ]
+    ], 
+    "JS2-889": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 19h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1125d 13h 17m"
+        ]
+    ], 
+    "JS2-227": [
+        [
+            "Open", 
+            "Resolved", 
+            "229d 19h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2145d 15h 54m"
+        ]
+    ], 
+    "JS2-226": [
+        [
+            "Open", 
+            "In Progress", 
+            "613d 15h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "74d 7h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1688d 21h 24m"
+        ]
+    ], 
+    "JS2-221": [
+        [
+            "Open", 
+            "Closed", 
+            "15d 15h 29m"
+        ]
+    ], 
+    "JS2-348": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2231d 21h 19m"
+        ]
+    ], 
+    "JS2-349": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2231d 21h 17m"
+        ]
+    ], 
+    "JS2-1011": [
+        [
+            "Open", 
+            "Resolved", 
+            "49m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "874d 3h 59m"
+        ]
+    ], 
+    "JS2-1016": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "869d 4h"
+        ]
+    ], 
+    "JS2-1014": [
+        [
+            "Open", 
+            "Resolved", 
+            "43m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "22h 11m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "21m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "32d 1h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "838d 16h 8m"
+        ]
+    ], 
+    "JS2-1015": [
+        [
+            "Open", 
+            "In Progress", 
+            "42m 25s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "33d 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "838d 15h 52m"
+        ]
+    ], 
+    "JS2-1019": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "867d 7h 4m"
+        ]
+    ], 
+    "JS2-836": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1383d 4h 40m"
+        ]
+    ], 
+    "JS2-837": [
+        [
+            "Open", 
+            "Resolved", 
+            "57m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1383d 3h 50m"
+        ]
+    ], 
+    "JS2-68": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 12s"
+        ]
+    ], 
+    "JS2-833": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1385d 8h 29m"
+        ]
+    ], 
+    "JS2-122": [
+        [
+            "Open", 
+            "In Progress", 
+            "47s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2570d 23h 3m"
+        ]
+    ], 
+    "JS2-123": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2568d 22h 28m"
+        ]
+    ], 
+    "JS2-124": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 23h"
+        ]
+    ], 
+    "JS2-530": [
+        [
+            "Open", 
+            "Closed", 
+            "290d 6h 23m"
+        ]
+    ], 
+    "JS2-535": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1950d 15h 33m"
+        ]
+    ], 
+    "JS2-537": [
+        [
+            "Open", 
+            "In Progress", 
+            "1040d 19h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "909d 19h 40m"
+        ]
+    ], 
+    "JS2-1085": [
+        [
+            "Open", 
+            "In Progress", 
+            "20s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 2h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "678d 26m"
+        ]
+    ], 
+    "JS2-1081": [
+        [
+            "Open", 
+            "In Progress", 
+            "1s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "692d 1h 7m"
+        ]
+    ], 
+    "JS2-281": [
+        [
+            "Open", 
+            "In Progress", 
+            "44d 19h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 14h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 10h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2253d 12h 3m"
+        ]
+    ], 
+    "JS2-1083": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 17h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "684d 9h 5m"
+        ]
+    ], 
+    "JS2-405": [
+        [
+            "Open", 
+            "Closed", 
+            "154d 17h 54m"
+        ]
+    ], 
+    "JS2-404": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 10h 41m"
+        ]
+    ], 
+    "JS2-407": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 7h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2150d 3h 55m"
+        ]
+    ], 
+    "JS2-401": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2156d 13h 52m"
+        ]
+    ], 
+    "JS2-400": [
+        [
+            "Open", 
+            "Resolved", 
+            "1072d 2h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1086d 11h 18m"
+        ]
+    ], 
+    "JS2-1344": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 17s"
+        ]
+    ], 
+    "JS2-1265": [
+        [
+            "Open", 
+            "Resolved", 
+            "58s"
+        ]
+    ], 
+    "JS2-1268": [
+        [
+            "Open", 
+            "Resolved", 
+            "1195d 13h 23m"
+        ]
+    ], 
+    "JS2-928": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "965d 7h 49m"
+        ]
+    ], 
+    "JS2-659": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 23h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1667d 19h 17m"
+        ]
+    ], 
+    "JS2-714": [
+        [
+            "Open", 
+            "In Progress", 
+            "26d 12h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "18h 28m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1581d 20h 10m"
+        ]
+    ], 
+    "JS2-719": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1607d 22h 48m"
+        ]
+    ], 
+    "JS2-651": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 11h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1700d 16h 28m"
+        ]
+    ], 
+    "JS2-655": [
+        [
+            "Open", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1685d 13h 18m"
+        ]
+    ], 
+    "JS2-657": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 11h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1607d 22h 53m"
+        ]
+    ], 
+    "JS2-972": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 6h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "882d 17h 26m"
+        ]
+    ], 
+    "JS2-974": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "21h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "894d 6h 48m"
+        ]
+    ], 
+    "JS2-274": [
+        [
+            "Open", 
+            "In Progress", 
+            "22d 17h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2294d 9h 33m"
+        ]
+    ], 
+    "JS2-270": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 8h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "40m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2315d 6h 14m"
+        ]
+    ], 
+    "JS2-271": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 21h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2315d 17h 27m"
+        ]
+    ], 
+    "JS2-577": [
+        [
+            "Open", 
+            "In Progress", 
+            "48d 3h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1m 1s"
+        ]
+    ], 
+    "JS2-576": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 21h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1844d 6h 43m"
+        ]
+    ], 
+    "JS2-571": [
+        [
+            "Open", 
+            "In Progress", 
+            "64d 22h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "6d 15h 23m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1818d 44m"
+        ]
+    ], 
+    "JS2-376": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 5h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2178d 12h 27m"
+        ]
+    ], 
+    "JS2-370": [
+        [
+            "Open", 
+            "Resolved", 
+            "1315d 1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "890d 2h 41m"
+        ]
+    ], 
+    "JS2-1122": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 23h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "551d 3h 13m"
+        ]
+    ], 
+    "JS2-1041": [
+        [
+            "Open", 
+            "Resolved", 
+            "254d 19h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "563d 15h 41m"
+        ]
+    ], 
+    "JS2-1040": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "820d 7h 26m"
+        ]
+    ], 
+    "JS2-1128": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "571d 6h 22m"
+        ]
+    ], 
+    "JS2-1129": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 4h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "39m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "552d 3h 1m"
+        ]
+    ], 
+    "JS2-1047": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 23h 15m"
+        ]
+    ], 
+    "JS2-1046": [
+        [
+            "Open", 
+            "Resolved", 
+            "245d 21h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "558d 23h 25m"
+        ]
+    ], 
+    "JS2-98": [
+        [
+            "Open", 
+            "In Progress", 
+            "25s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "43d 2h 6m"
+        ]
+    ], 
+    "JS2-699": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 12h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1562d 13h 58m"
+        ]
+    ], 
+    "JS2-118": [
+        [
+            "Open", 
+            "Resolved", 
+            "1664d 3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "910d 21h 14m"
+        ]
+    ], 
+    "JS2-117": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "28d 16h 29m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "396d 12h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2153d 9h 10m"
+        ]
+    ], 
+    "JS2-1225": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 51m"
+        ]
+    ], 
+    "JS2-282": [
+        [
+            "Open", 
+            "Closed", 
+            "305d 18m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "438d 17h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13d 1h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1547d 8h 23m"
+        ]
+    ], 
+    "JS2-1227": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 6h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "JS2-280": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 14h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2297d 13h 11m"
+        ]
+    ], 
+    "JS2-1221": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 2s"
+        ]
+    ], 
+    "JS2-1222": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 36m"
+        ]
+    ], 
+    "JS2-692": [
+        [
+            "Open", 
+            "In Progress", 
+            "45d 22h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1559d 5h 29m"
+        ]
+    ], 
+    "JS2-94": [
+        [
+            "Open", 
+            "Closed", 
+            "265d 15h 50m"
+        ]
+    ], 
+    "JS2-718": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 9h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1562d 14h 31m"
+        ]
+    ], 
+    "JS2-754": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 19h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1504d 10h 16m"
+        ]
+    ], 
+    "JS2-756": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 17h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1504d 10h 10m"
+        ]
+    ], 
+    "JS2-698": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 13h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1588d 13h 10m"
+        ]
+    ], 
+    "JS2-750": [
+        [
+            "Open", 
+            "In Progress", 
+            "30d 9h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "3d 22h 12m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1504d 23h 41m"
+        ]
+    ], 
+    "JS2-752": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 19h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1504d 10h 13m"
+        ]
+    ], 
+    "JS2-694": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1596d 22h 59m"
+        ]
+    ], 
+    "JS2-696": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1596d 23h 2m"
+        ]
+    ], 
+    "JS2-697": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 13h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1588d 13h 11m"
+        ]
+    ], 
+    "JS2-690": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 37m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1d 1h 45m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1594d 1h 9m"
+        ]
+    ], 
+    "JS2-758": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 12h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1513d 19h 29m"
+        ]
+    ], 
+    "JS2-95": [
+        [
+            "Open", 
+            "Closed", 
+            "382d 12h 20m"
+        ]
+    ], 
+    "JS2-693": [
+        [
+            "Open", 
+            "In Progress", 
+            "59d 8h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1551d 8m"
+        ]
+    ], 
+    "JS2-593": [
+        [
+            "Open", 
+            "Closed", 
+            "388d 4h 19m"
+        ]
+    ], 
+    "JS2-591": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1825d 5h 53m"
+        ]
+    ], 
+    "JS2-458": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 20h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 1h 19m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2096d 4h 50m"
+        ]
+    ], 
+    "VELOCITY-24": [
+        [
+            "Open", 
+            "Resolved", 
+            "1832d 16h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "123d 4h 46m"
+        ]
+    ], 
+    "JS2-456": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 18h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2096d 4h 56m"
+        ]
+    ], 
+    "JS2-457": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 18h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2103d 12h 48m"
+        ]
+    ], 
+    "JS2-455": [
+        [
+            "Open", 
+            "In Progress", 
+            "35d 21h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2070d 18h 24m"
+        ]
+    ], 
+    "JS2-599": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "21h 8m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1818d 44m"
+        ]
+    ], 
+    "JS2-1259": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 6h 18m"
+        ]
+    ], 
+    "JS2-1256": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 9m"
+        ]
+    ], 
+    "JS2-1257": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 10s"
+        ]
+    ], 
+    "JS2-1024": [
+        [
+            "Open", 
+            "Resolved", 
+            "230d 22h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "627d 8h 34m"
+        ]
+    ], 
+    "JS2-450": [
+        [
+            "Open", 
+            "Closed", 
+            "114d 15h 40m"
+        ]
+    ], 
+    "JS2-625": [
+        [
+            "Open", 
+            "In Progress", 
+            "172d 16h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1h 20m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1583d 1h 6m"
+        ]
+    ], 
+    "JS2-931": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "943d 5h 21m"
+        ]
+    ], 
+    "JS2-932": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "902d 6h 5m"
+        ]
+    ], 
+    "JS2-238": [
+        [
+            "Open", 
+            "Resolved", 
+            "1250d 22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1103d 22h 19m"
+        ]
+    ], 
+    "JS2-337": [
+        [
+            "Open", 
+            "Resolved", 
+            "110d 5h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2127d 16h 48m"
+        ]
+    ], 
+    "JS2-232": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 27s"
+        ]
+    ], 
+    "JS2-233": [
+        [
+            "Open", 
+            "Closed", 
+            "41d 22h 14m"
+        ]
+    ], 
+    "JS2-894": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1172d 23h 36m"
+        ]
+    ], 
+    "JS2-231": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 11h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2357d 3h 30m"
+        ]
+    ], 
+    "JS2-1005": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 21m"
+        ]
+    ], 
+    "JS2-1007": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "874d 2h 35m"
+        ]
+    ], 
+    "JS2-1006": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "874d 16h 37m"
+        ]
+    ], 
+    "JS2-1001": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "876d 8h 9m"
+        ]
+    ], 
+    "JS2-1000": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "876d 8h 26m"
+        ]
+    ], 
+    "JS2-1003": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "30m 5s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "874d 5h 33m"
+        ]
+    ], 
+    "JS2-1002": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "876d 4h 32m"
+        ]
+    ], 
+    "JS2-1009": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "874d 5h 13m"
+        ]
+    ], 
+    "JS2-1008": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "874d 7h 13m"
+        ]
+    ], 
+    "JS2-800": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1426d 4h 53m"
+        ]
+    ], 
+    "JS2-803": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1429d 27m"
+        ]
+    ], 
+    "JS2-802": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 4h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1430d 19h 38m"
+        ]
+    ], 
+    "JS2-78": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 38m"
+        ]
+    ], 
+    "JS2-526": [
+        [
+            "Open", 
+            "Resolved", 
+            "170d 1h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1817d 23h 17m"
+        ]
+    ], 
+    "JS2-522": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1998d 18h 55m"
+        ]
+    ], 
+    "JS2-488": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2070d 18h 32m"
+        ]
+    ], 
+    "JS2-520": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2005d 19h 40m"
+        ]
+    ], 
+    "JS2-484": [
+        [
+            "Open", 
+            "Resolved", 
+            "492d 14h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1580d 7h 17m"
+        ]
+    ], 
+    "JS2-483": [
+        [
+            "Open", 
+            "Closed", 
+            "120d 20h 10m"
+        ]
+    ], 
+    "JS2-482": [
+        [
+            "Open", 
+            "Resolved", 
+            "1167d 14h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "908d 3h 11m"
+        ]
+    ], 
+    "JS2-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "552d 3h"
+        ]
+    ], 
+    "JS2-1173": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "550d 10h 33m"
+        ]
+    ], 
+    "JS2-1075": [
+        [
+            "Open", 
+            "Resolved", 
+            "130d 5h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "582d 4h 22m"
+        ]
+    ], 
+    "JS2-1076": [
+        [
+            "Open", 
+            "Resolved", 
+            "130d 4h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "582d 4h 22m"
+        ]
+    ], 
+    "JS2-1077": [
+        [
+            "Open", 
+            "In Progress", 
+            "163d 19h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "14h 14m"
+        ]
+    ], 
+    "JS2-799": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1426d 5h 20m"
+        ]
+    ], 
+    "JS2-145": [
+        [
+            "Open", 
+            "Closed", 
+            "29s"
+        ]
+    ], 
+    "JS2-411": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2138d 19h 51m"
+        ]
+    ], 
+    "JS2-143": [
+        [
+            "Open", 
+            "Closed", 
+            "54s"
+        ]
+    ], 
+    "JS2-795": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 22h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1429d 12h 2m"
+        ]
+    ], 
+    "JS2-796": [
+        [
+            "Open", 
+            "Closed", 
+            "12h 57m"
+        ]
+    ], 
+    "JS2-1217": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 26m"
+        ]
+    ], 
+    "JS2-1211": [
+        [
+            "Open", 
+            "Resolved", 
+            "27m 20s"
+        ]
+    ], 
+    "JS2-1218": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 39s"
+        ]
+    ], 
+    "JS2-1219": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 18s"
+        ]
+    ], 
+    "JS2-665": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 17h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1643d 23h 33m"
+        ]
+    ], 
+    "JS2-667": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1653d 21h 18m"
+        ]
+    ], 
+    "JS2-666": [
+        [
+            "Open", 
+            "In Progress", 
+            "258d 21h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 6h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1394d 20h 39m"
+        ]
+    ], 
+    "JS2-661": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 8h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1607d 22h 43m"
+        ]
+    ], 
+    "JS2-660": [
+        [
+            "Open", 
+            "In Progress", 
+            "61d 4h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1607d 2h 50m"
+        ]
+    ], 
+    "JS2-663": [
+        [
+            "Open", 
+            "In Progress", 
+            "84d 9h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "2d 3h 50m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "2m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1579d 20h 45m"
+        ]
+    ], 
+    "JS2-669": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 20h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "49d 22h 59m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1594d 32m"
+        ]
+    ], 
+    "JS2-668": [
+        [
+            "Open", 
+            "In Progress", 
+            "28d 5h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11d 17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1609d 4h 52m"
+        ]
+    ], 
+    "JS2-467": [
+        [
+            "Open", 
+            "Closed", 
+            "339d 5h 28m"
+        ]
+    ], 
+    "JS2-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 15h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1999d 23h 39m"
+        ]
+    ], 
+    "JS2-469": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 2h 9m"
+        ]
+    ], 
+    "JS2-468": [
+        [
+            "Open", 
+            "In Progress", 
+            "29d 13h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "38m 28s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2060d 16h 5m"
+        ]
+    ], 
+    "JS2-1328": [
+        [
+            "Open", 
+            "In Progress", 
+            "26s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16d 23h 42m"
+        ]
+    ], 
+    "JS2-1329": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 11h 55m"
+        ]
+    ], 
+    "JS2-1320": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "72d 2h 10m"
+        ]
+    ], 
+    "JS2-1323": [
+        [
+            "Open", 
+            "In Progress", 
+            "18d 19h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11d 18h 20m"
+        ]
+    ], 
+    "JS2-1327": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 7h 52m"
+        ]
+    ], 
+    "JS2-991": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "880d 14h 5m"
+        ]
+    ], 
+    "JS2-996": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "879d 11h 30m"
+        ]
+    ], 
+    "JS2-995": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6h 2m"
+        ]
+    ], 
+    "JS2-849": [
+        [
+            "Open", 
+            "In Progress", 
+            "134d 7h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1217d 4h 42m"
+        ]
+    ], 
+    "JS2-848": [
+        [
+            "Open", 
+            "Resolved", 
+            "275d 16h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1085d 15h 22m"
+        ]
+    ], 
+    "JS2-841": [
+        [
+            "Open", 
+            "Resolved", 
+            "284d 19h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1085d 6h 19m"
+        ]
+    ], 
+    "JS2-840": [
+        [
+            "Open", 
+            "Resolved", 
+            "284d 20h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1085d 6h 20m"
+        ]
+    ], 
+    "JS2-843": [
+        [
+            "Open", 
+            "Resolved", 
+            "284d 18h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1085d 6h 20m"
+        ]
+    ], 
+    "JS2-39": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2693d 35m"
+        ]
+    ], 
+    "JS2-258": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 7h 37m"
+        ]
+    ], 
+    "JS2-1299": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 27m"
+        ]
+    ]
+}

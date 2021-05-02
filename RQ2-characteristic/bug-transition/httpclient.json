@@ -1,0 +1,4452 @@
+{
+    "HTTPCLIENT-1565": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "935d 18h 39m"
+        ]
+    ], 
+    "HTTPCLIENT-1563": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "935d 19h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-1405": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1310d 2h 3m"
+        ]
+    ], 
+    "HTTPCORE-398": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1767": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 56m"
+        ]
+    ], 
+    "HTTPCLIENT-1760": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 21h 53m"
+        ]
+    ], 
+    "HTTPCLIENT-853": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "602d 14h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-852": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "602d 23h 59m"
+        ]
+    ], 
+    "HTTPCLIENT-856": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-859": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "564d 15h 28m"
+        ]
+    ], 
+    "HTTPCLIENT-2009": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 16m"
+        ]
+    ], 
+    "HTTPCLIENT-1662": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "679d 17h 42m"
+        ]
+    ], 
+    "HTTPCLIENT-1667": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "650d 18h 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1668": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "650d 50m"
+        ]
+    ], 
+    "HTTPCLIENT-1100": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 18h 42m"
+        ]
+    ], 
+    "HTTPCLIENT-1107": [
+        [
+            "Open", 
+            "In Progress", 
+            "71d 22h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 12h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "100d 12h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "631d 23h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-1066": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "137d 18h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-822": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 4h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "709d 17h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-1061": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "147d 22h 28m"
+        ]
+    ], 
+    "HTTPCLIENT-1069": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "135d 13m"
+        ]
+    ], 
+    "HTTPCLIENT-981": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "152d 22h 29m"
+        ]
+    ], 
+    "HTTPCLIENT-980": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49m 2s"
+        ]
+    ], 
+    "HTTPCLIENT-985": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "144d 13h 51m"
+        ]
+    ], 
+    "HTTPCLIENT-987": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 12h 58m"
+        ]
+    ], 
+    "HTTPCLIENT-986": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 14h 44m"
+        ]
+    ], 
+    "HTTPCLIENT-989": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 14h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1991": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 13h 12m"
+        ]
+    ], 
+    "HTTPCLIENT-1992": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 24m"
+        ]
+    ], 
+    "HTTPCLIENT-1997": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 20m"
+        ]
+    ], 
+    "HTTPCLIENT-763": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1008d 15h 52m"
+        ]
+    ], 
+    "HTTPCLIENT-765": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "997d 11h 8m"
+        ]
+    ], 
+    "HTTPCLIENT-767": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 4h 30m"
+        ]
+    ], 
+    "HTTPCLIENT-769": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 45m"
+        ]
+    ], 
+    "HTTPCLIENT-1200": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "492d 5h 9m"
+        ]
+    ], 
+    "HTTPCLIENT-1202": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "484d 23h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-1611": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "810d 13h 2m"
+        ]
+    ], 
+    "HTTPCLIENT-1192": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "495d 1h 9m"
+        ]
+    ], 
+    "HTTPCLIENT-1193": [
+        [
+            "Open", 
+            "Resolved", 
+            "46m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "498d 4h 21m"
+        ]
+    ], 
+    "HTTPCLIENT-1195": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "21d 20h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7d 8h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "465d 20h 13m"
+        ]
+    ], 
+    "HTTPCLIENT-1198": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "51m 40s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 22h 9m"
+        ]
+    ], 
+    "HTTPCLIENT-1199": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "489d 8h 4m"
+        ]
+    ], 
+    "HTTPCLIENT-837": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "672d 14h 48m"
+        ]
+    ], 
+    "HTTPCLIENT-1299": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 20h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15d 6h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 15h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 9h 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1298": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "254d 8h 34m"
+        ]
+    ], 
+    "HTTPCLIENT-1924": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 48m"
+        ]
+    ], 
+    "HTTPCLIENT-1291": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "270d 22h 31m"
+        ]
+    ], 
+    "HTTPCLIENT-1290": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "270d 7h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1296": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "268d 8h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-1294": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 21h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 8h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-617": [
+        [
+            "Open", 
+            "Resolved", 
+            "295d 14h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 9h 51m"
+        ]
+    ], 
+    "HTTPCLIENT-613": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 15h 5m"
+        ]
+    ], 
+    "HTTPCLIENT-1455": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1184d 23h 26m"
+        ]
+    ], 
+    "HTTPCLIENT-1338": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "173d 9h 15m"
+        ]
+    ], 
+    "HTTPCLIENT-1442": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1244d 18h 46m"
+        ]
+    ], 
+    "HTTPCLIENT-1443": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1221d 21h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-1440": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1253d 50m"
+        ]
+    ], 
+    "HTTPCLIENT-1441": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1249d 13h 15m"
+        ]
+    ], 
+    "HTTPCLIENT-1446": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1210d 7m"
+        ]
+    ], 
+    "HTTPCLIENT-1331": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "186d 9h 17m"
+        ]
+    ], 
+    "HTTPCLIENT-1324": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "228d 4h 17m"
+        ]
+    ], 
+    "HTTPCLIENT-1685": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 22h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "578d 19h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-687": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 22h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 4h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-688": [
+        [
+            "Open", 
+            "Resolved", 
+            "81d 9h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1167d 17h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1024": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 8h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 20h 24m"
+        ]
+    ], 
+    "HTTPCLIENT-1536": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1002d 21h 54m"
+        ]
+    ], 
+    "HTTPCLIENT-1537": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "996d 20h 7m"
+        ]
+    ], 
+    "HTTPCLIENT-1535": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1001d 19h 31m"
+        ]
+    ], 
+    "HTTPCLIENT-1531": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1437": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1255d 15h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-1435": [
+        [
+            "Open", 
+            "Resolved", 
+            "51m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1259d 18h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1431": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1275d 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1312": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "247d 22h 27m"
+        ]
+    ], 
+    "HTTPCLIENT-869": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "517d 23h 35m"
+        ]
+    ], 
+    "HTTPCLIENT-860": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "559d 14h 43m"
+        ]
+    ], 
+    "HTTPCLIENT-861": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "150d 13h 1m"
+        ]
+    ], 
+    "HTTPCLIENT-866": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "517d 16h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-1026": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 14h 20m"
+        ]
+    ], 
+    "HTTPCLIENT-865": [
+        [
+            "Open", 
+            "Resolved", 
+            "116d 23h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "425d 14h 17m"
+        ]
+    ], 
+    "HTTPCLIENT-944": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 4h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "225d 16h 6m"
+        ]
+    ], 
+    "HTTPCLIENT-940": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 16h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-942": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 19h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "227d 17m"
+        ]
+    ], 
+    "HTTPCLIENT-948": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 3h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 20h 37m"
+        ]
+    ], 
+    "HTTPCLIENT-1893": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 2h 51m"
+        ]
+    ], 
+    "HTTPCLIENT-1898": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-1976": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 24m"
+        ]
+    ], 
+    "HTTPCLIENT-1658": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "690d 17h 16m"
+        ]
+    ], 
+    "HTTPCLIENT-1873": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 19h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 11h 34m"
+        ]
+    ], 
+    "HTTPCLIENT-1655": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "699d 29m"
+        ]
+    ], 
+    "HTTPCLIENT-1155": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "651d 22h 40m"
+        ]
+    ], 
+    "HTTPCLIENT-1157": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 16h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 21m"
+        ]
+    ], 
+    "HTTPCLIENT-1152": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7m 26s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "18d 19h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58m 24s"
+        ]
+    ], 
+    "HTTPCLIENT-1153": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 19h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "626d 4h 4m"
+        ]
+    ], 
+    "HTTPCLIENT-1097": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 17h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 20h 46m"
+        ]
+    ], 
+    "HTTPCLIENT-1802": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1800": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-718": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1136d 17h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-711": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1136d 20h 21m"
+        ]
+    ], 
+    "HTTPCLIENT-1484": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1144d 20h 12m"
+        ]
+    ], 
+    "HTTPCLIENT-1370": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "57d 8h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 17h 33m"
+        ]
+    ], 
+    "HTTPCLIENT-1372": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 11h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 22h 32m"
+        ]
+    ], 
+    "HTTPCLIENT-1373": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 22h 56m"
+        ]
+    ], 
+    "HTTPCLIENT-1377": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 23h 59m"
+        ]
+    ], 
+    "HTTPCLIENT-1273": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "297d 8h 56m"
+        ]
+    ], 
+    "HTTPCLIENT-1277": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "295d 2h 32m"
+        ]
+    ], 
+    "HTTPCLIENT-1276": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20h 28m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "295d 6h 13m"
+        ]
+    ], 
+    "HTTPCLIENT-1571": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 20s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1m 12s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "30d 10h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "901d 13h 5m"
+        ]
+    ], 
+    "HTTPCLIENT-1575": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 4h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "901d 16h 59m"
+        ]
+    ], 
+    "HTTPCLIENT-1470": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1163d 23h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1474": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1155d 17h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-1479": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1150d 22h 29m"
+        ]
+    ], 
+    "HTTPCLIENT-1478": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1149d 19h 31m"
+        ]
+    ], 
+    "HTTPCLIENT-1770": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 1h 1m"
+        ]
+    ], 
+    "HTTPCLIENT-1772": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15m"
+        ]
+    ], 
+    "HTTPCLIENT-902": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "381d 15h 40m"
+        ]
+    ], 
+    "HTTPCLIENT-1833": [
+        [
+            "Open", 
+            "Resolved", 
+            "24m 55s"
+        ]
+    ], 
+    "HTTPCLIENT-1836": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 44m"
+        ]
+    ], 
+    "HTTPCLIENT-1835": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1116": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 19h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "748d 3h 8m"
+        ]
+    ], 
+    "HTTPCLIENT-1051": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 22h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 22h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "135d 20h 46m"
+        ]
+    ], 
+    "HTTPCLIENT-1053": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "164d 13h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-833": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1056": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "163d 20h 4m"
+        ]
+    ], 
+    "HTTPCLIENT-1058": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 18h 3m"
+        ]
+    ], 
+    "HTTPCLIENT-1946": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 46m"
+        ]
+    ], 
+    "HTTPCLIENT-1944": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 9h 52m"
+        ]
+    ], 
+    "HTTPCLIENT-1231": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "388d 10h 12m"
+        ]
+    ], 
+    "HTTPCLIENT-1230": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 15h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 8h 32m"
+        ]
+    ], 
+    "HTTPCLIENT-1232": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "388d 10h 12m"
+        ]
+    ], 
+    "HTTPCLIENT-1604": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "828d 23h 43m"
+        ]
+    ], 
+    "HTTPCLIENT-1605": [
+        [
+            "Open", 
+            "Resolved", 
+            "42m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 26m"
+        ]
+    ], 
+    "HTTPCLIENT-1606": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "815d 21h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-1603": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "828d 23h 6m"
+        ]
+    ], 
+    "HTTPCLIENT-1609": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "813d 1h 1m"
+        ]
+    ], 
+    "HTTPCLIENT-880": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 19h"
+        ]
+    ], 
+    "HTTPCLIENT-881": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "465d 22h 29m"
+        ]
+    ], 
+    "HTTPCLIENT-882": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "455d 21h 4m"
+        ]
+    ], 
+    "HTTPCLIENT-883": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "455d 20h 48m"
+        ]
+    ], 
+    "HTTPCLIENT-884": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 20h 39m"
+        ]
+    ], 
+    "HTTPCLIENT-885": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 20h 28m"
+        ]
+    ], 
+    "HTTPCLIENT-1288": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "276d 9h 1m"
+        ]
+    ], 
+    "HTTPCLIENT-1280": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "292d 2h 25m"
+        ]
+    ], 
+    "HTTPCLIENT-1933": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 36m"
+        ]
+    ], 
+    "HTTPCLIENT-1283": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "290d 8h 6m"
+        ]
+    ], 
+    "HTTPCLIENT-1284": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "289d 6h 42m"
+        ]
+    ], 
+    "HTTPCLIENT-1285": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23m 31s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 1h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "278d 2h 33m"
+        ]
+    ], 
+    "HTTPCLIENT-1934": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 6h 26m"
+        ]
+    ], 
+    "HTTPCLIENT-1287": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "277d 8m"
+        ]
+    ], 
+    "HTTPCLIENT-1550": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 9h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "440d 12h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11d 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "520d 13h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-622": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 2h 52m"
+        ]
+    ], 
+    "HTTPCLIENT-1281": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "292d 3h 24m"
+        ]
+    ], 
+    "HTTPCLIENT-1305": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "253d 6h 18m"
+        ]
+    ], 
+    "HTTPCLIENT-1307": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 5h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "243d 3h 52m"
+        ]
+    ], 
+    "HTTPCLIENT-1732": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 17h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "396d 23h 21m"
+        ]
+    ], 
+    "HTTPCLIENT-1286": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "277d 2h 10m"
+        ]
+    ], 
+    "HTTPASYNC-46": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 14h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-697": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 2h 15m"
+        ]
+    ], 
+    "HTTPCLIENT-758": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "643d 14h 33m"
+        ]
+    ], 
+    "HTTPCLIENT-759": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1042d 15h 34m"
+        ]
+    ], 
+    "HTTPCLIENT-693": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 1h 54m"
+        ]
+    ], 
+    "HTTPCLIENT-754": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1061d 20h 26m"
+        ]
+    ], 
+    "HTTPCLIENT-755": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "654d 49m"
+        ]
+    ], 
+    "HTTPCLIENT-757": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 10h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1022d 14m"
+        ]
+    ], 
+    "HTTPCLIENT-698": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 5h 13m"
+        ]
+    ], 
+    "HTTPCLIENT-1542": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "991d 22h 56m"
+        ]
+    ], 
+    "HTTPCLIENT-1541": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 13h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 13m"
+        ]
+    ], 
+    "HTTPCLIENT-1547": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "986d 21h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-1545": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 8m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 2m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 8h 32m"
+        ]
+    ], 
+    "HTTPCLIENT-1544": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "991d 22h 37m"
+        ]
+    ], 
+    "HTTPCLIENT-1425": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 14h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1289d 13h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1426": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1288d 15h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-1420": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1302d 1h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1421": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1302d 1h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1301d 1h 50m"
+        ]
+    ], 
+    "HTTPCLIENT-1423": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1294d 17m"
+        ]
+    ], 
+    "HTTPCLIENT-1460": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1175d 18h 56m"
+        ]
+    ], 
+    "HTTPCLIENT-870": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 8h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "509d 2h 43m"
+        ]
+    ], 
+    "HTTPCLIENT-875": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "502d 14h 26m"
+        ]
+    ], 
+    "HTTPCLIENT-874": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "507d 13h 35m"
+        ]
+    ], 
+    "HTTPCLIENT-974": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-1882": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "159d 22h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "61d 7h 15m"
+        ]
+    ], 
+    "HTTPCLIENT-1881": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 34m"
+        ]
+    ], 
+    "HTTPCLIENT-1885": [
+        [
+            "Open", 
+            "Resolved", 
+            "30m 7s"
+        ]
+    ], 
+    "HTTPCLIENT-1649": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "713d 2h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1900": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-1906": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 51m"
+        ]
+    ], 
+    "HTTPCLIENT-1904": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1640": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 2h 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1865": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-1643": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5m 52s"
+        ]
+    ], 
+    "HTTPCLIENT-1645": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "734d 37m"
+        ]
+    ], 
+    "HTTPCLIENT-1164": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 5h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "568d 4h 40m"
+        ]
+    ], 
+    "HTTPCLIENT-1166": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "599d 3h 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1168": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "581d 5h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-1080": [
+        [
+            "Open", 
+            "Resolved", 
+            "600d 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "304d 6h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-1087": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 20h 50m"
+        ]
+    ], 
+    "HTTPCLIENT-705": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "756d 1h 12m"
+        ]
+    ], 
+    "HTTPCLIENT-964": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 18h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-1349": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "155d 1h 5m"
+        ]
+    ], 
+    "HTTPCLIENT-1348": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "155d 25m"
+        ]
+    ], 
+    "HTTPCLIENT-1345": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 11h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 5h 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1344": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 11h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 5h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1346": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "164d 10h 58m"
+        ]
+    ], 
+    "HTTPCLIENT-1341": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 15h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "170d 10h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1340": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "175d 9h 1m"
+        ]
+    ], 
+    "HTTPCLIENT-1266": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "304d 6h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-1263": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 6h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-1260": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "322d 2h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1268": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 7h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "286d 22h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-1279": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 21h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-790": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9h 58m"
+        ]
+    ], 
+    "HTTPCLIENT-797": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "852d 13h 58m"
+        ]
+    ], 
+    "HTTPCLIENT-1585": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "877d 19m"
+        ]
+    ], 
+    "HTTPCLIENT-1588": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "876d 13h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-1749": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 33m"
+        ]
+    ], 
+    "HTTPCLIENT-1461": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1170d 19h 39m"
+        ]
+    ], 
+    "HTTPCLIENT-1466": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3h 8m"
+        ]
+    ], 
+    "HTTPCLIENT-1467": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1167d 22h 42m"
+        ]
+    ], 
+    "HTTPCLIENT-1744": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-1746": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 1h 42m"
+        ]
+    ], 
+    "HTTPCLIENT-936": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 5h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 16h 25m"
+        ]
+    ], 
+    "HTTPCLIENT-930": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "296d 16h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-932": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "268d 18h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-933": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49m 13s"
+        ]
+    ], 
+    "HTTPCLIENT-939": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "258d 15h 1m"
+        ]
+    ], 
+    "HTTPCLIENT-1519": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1050d 1h 54m"
+        ]
+    ], 
+    "HTTPCLIENT-1615": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "806d 12m"
+        ]
+    ], 
+    "HTTPCLIENT-1127": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 14h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "730d 6h 28m"
+        ]
+    ], 
+    "HTTPCLIENT-1120": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "25d 3h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9d 20h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "730d 6h 59m"
+        ]
+    ], 
+    "HTTPCLIENT-803": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 20h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "815d 21h 45m"
+        ]
+    ], 
+    "HTTPCLIENT-806": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "816d 20h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1381": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1383": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "12h 4m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "16h 22m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-1382": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "92d 7h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-1385": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 1m"
+        ]
+    ], 
+    "HTTPCLIENT-424": [
+        [
+            "Open", 
+            "Resolved", 
+            "1200d 10h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "976d 18h"
+        ]
+    ], 
+    "HTTPCLIENT-1224": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 3h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10d 23h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30s"
+        ]
+    ], 
+    "HTTPCLIENT-1788": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 10h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 16h 8m"
+        ]
+    ], 
+    "HTTPCLIENT-1631": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "784d 13h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-1633": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "780d 19h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-633": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 22h 32m"
+        ]
+    ], 
+    "HTTPCLIENT-738": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1085d 18h 55m"
+        ]
+    ], 
+    "HTTPCLIENT-1674": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "636d 2h 8m"
+        ]
+    ], 
+    "HTTPCLIENT-737": [
+        [
+            "Open", 
+            "Closed", 
+            "20h 34m"
+        ]
+    ], 
+    "HTTPCLIENT-730": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1096d 18h 4m"
+        ]
+    ], 
+    "HTTPCLIENT-1316": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 9h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "222d 9h"
+        ]
+    ], 
+    "HTTPCLIENT-1315": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 4h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "229d 23h 39m"
+        ]
+    ], 
+    "HTTPCLIENT-1709": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "HTTPCLIENT-1313": [
+        [
+            "Open", 
+            "Resolved", 
+            "31m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "248d 2h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-1311": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 23h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1704": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "506d 17h 20m"
+        ]
+    ], 
+    "HTTPCLIENT-1255": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 20h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "333d 2h 50m"
+        ]
+    ], 
+    "HTTPCLIENT-1254": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "332d 23h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1319": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 13h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 5h 44m"
+        ]
+    ], 
+    "HTTPCLIENT-741": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1081d 18h 13m"
+        ]
+    ], 
+    "HTTPCORE-524": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 17h 6m"
+        ]
+    ], 
+    "HTTPCLIENT-1419": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1303d 17h 28m"
+        ]
+    ], 
+    "HTTPCLIENT-1418": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1303d 17h 54m"
+        ]
+    ], 
+    "HTTPCLIENT-1556": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "944d 1h 33m"
+        ]
+    ], 
+    "HTTPCLIENT-1558": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "941d 22h 25m"
+        ]
+    ], 
+    "HTTPCLIENT-1413": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1307d 12h 54m"
+        ]
+    ], 
+    "HTTPCLIENT-1412": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1306d 22h 21m"
+        ]
+    ], 
+    "HTTPCLIENT-1417": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1303d 23h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-1416": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1304d 23h 39m"
+        ]
+    ], 
+    "HTTPCLIENT-1002": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 3h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1001": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 12h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 1h 10m"
+        ]
+    ], 
+    "HTTPCLIENT-841": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 16h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "591d 38m"
+        ]
+    ], 
+    "HTTPCLIENT-969": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "185d 14h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-1325": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "225d 10h 56m"
+        ]
+    ], 
+    "HTTPCLIENT-965": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 18h 48m"
+        ]
+    ], 
+    "HTTPCLIENT-1009": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 15h"
+        ]
+    ], 
+    "HTTPCLIENT-963": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 5h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 13h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-962": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 15h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-961": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "204d 21h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-960": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 16h 3m"
+        ]
+    ], 
+    "HTTPCLIENT-1859": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 12m"
+        ]
+    ], 
+    "HTTPCLIENT-1858": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9d 11h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15d 19h 18m"
+        ]
+    ], 
+    "HTTPCLIENT-1673": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 21h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "630d 19h 13m"
+        ]
+    ], 
+    "HTTPCLIENT-1177": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "544d 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1075": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "111d 22h 9m"
+        ]
+    ], 
+    "HTTPCLIENT-1073": [
+        [
+            "Open", 
+            "In Progress", 
+            "43m 38s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "23h 9m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49s"
+        ]
+    ], 
+    "HTTPCLIENT-1079": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 13h 26m"
+        ]
+    ], 
+    "HTTPCLIENT-1078": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 21h 3m"
+        ]
+    ], 
+    "HTTPCLIENT-991": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 14h 25m"
+        ]
+    ], 
+    "HTTPCLIENT-995": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 15h 54m"
+        ]
+    ], 
+    "HTTPCLIENT-1981": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 13h 9m"
+        ]
+    ], 
+    "HTTPCLIENT-773": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 8h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1359": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 6h 40m"
+        ]
+    ], 
+    "HTTPCLIENT-776": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "978d 17h 25m"
+        ]
+    ], 
+    "HTTPCLIENT-777": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "977d 16h 16m"
+        ]
+    ], 
+    "HTTPCLIENT-477": [
+        [
+            "Open", 
+            "Resolved", 
+            "840d 8h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 4h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1357": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "130d 7h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1354": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 5h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-1211": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "459d 8h 11m"
+        ]
+    ], 
+    "HTTPCLIENT-1210": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "469d 9h 47m"
+        ]
+    ], 
+    "HTTPCLIENT-1217": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "439d 23h 52m"
+        ]
+    ], 
+    "HTTPCLIENT-1216": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "440d 7h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-1215": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 7h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "360d 20m"
+        ]
+    ], 
+    "HTTPCLIENT-1180": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "543d 3m"
+        ]
+    ], 
+    "HTTPCLIENT-1187": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 8h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "514d 23h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-1186": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "529d 3h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-1189": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "518d 3h 43m"
+        ]
+    ], 
+    "HTTPCLIENT-784": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "928d 14h 41m"
+        ]
+    ], 
+    "HTTPCLIENT-781": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 24m"
+        ]
+    ], 
+    "HTTPCLIENT-1447": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1204d 21h 25m"
+        ]
+    ], 
+    "HTTPCLIENT-1595": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "844d 17h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-1458": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1175d 19h 18m"
+        ]
+    ], 
+    "HTTPCLIENT-1328": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "220d 4h 6m"
+        ]
+    ], 
+    "HTTPCLIENT-1327": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 3h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "186d 6h 37m"
+        ]
+    ], 
+    "HTTPCLIENT-1457": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1181d 13h 27m"
+        ]
+    ], 
+    "HTTPCLIENT-1456": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1181d 18h 31m"
+        ]
+    ], 
+    "HTTPCLIENT-1323": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "234d 9h 49m"
+        ]
+    ], 
+    "HTTPCLIENT-1322": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 18h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "191d 6h 7m"
+        ]
+    ], 
+    "HTTPCLIENT-1321": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "236d 52m"
+        ]
+    ], 
+    "HTTPCLIENT-1320": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 3h 1m"
+        ]
+    ], 
+    "HTTPCLIENT-1698": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 21h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "522d 20h 22m"
+        ]
+    ], 
+    "HTTPCLIENT-1696": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "538d 10h 37m"
+        ]
+    ], 
+    "HTTPCLIENT-1695": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "536d 12h 59m"
+        ]
+    ], 
+    "HTTPCLIENT-1718": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "441d 19h 46m"
+        ]
+    ], 
+    "HTTPASYNC-65": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-1690": [
+        [
+            "Open", 
+            "Resolved", 
+            "825d 57m"
+        ]
+    ], 
+    "HTTPCLIENT-923": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "27m 33s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "325d 21h 36m"
+        ]
+    ], 
+    "HTTPCLIENT-929": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "296d 16h 35m"
+        ]
+    ], 
+    "HTTPCLIENT-771": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 14h 18m"
+        ]
+    ], 
+    "HTTPCLIENT-1525": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 3h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "962d 1h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-1524": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1038d 21h 50m"
+        ]
+    ], 
+    "HTTPCLIENT-1527": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1024d 1h 28m"
+        ]
+    ], 
+    "HTTPCLIENT-1526": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1024d 2h 31m"
+        ]
+    ], 
+    "HTTPCLIENT-1130": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "735d 5h 38m"
+        ]
+    ], 
+    "HTTPCLIENT-1136": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "725d 1h 48m"
+        ]
+    ], 
+    "HTTPCLIENT-1135": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "728d 6h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-1033": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 20h 42m"
+        ]
+    ], 
+    "HTTPCLIENT-1032": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26s"
+        ]
+    ], 
+    "HTTPCLIENT-1031": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 14h 21m"
+        ]
+    ], 
+    "HTTPCLIENT-813": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 20m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "36d 1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "709d 18h 11m"
+        ]
+    ], 
+    "HTTPCLIENT-1036": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 10h 57m"
+        ]
+    ], 
+    "HTTPCLIENT-952": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "229d 13h 58m"
+        ]
+    ], 
+    "HTTPCLIENT-953": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "225d 18h 6m"
+        ]
+    ], 
+    "HTTPCLIENT-951": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 5h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 14h 28m"
+        ]
+    ], 
+    "HTTPCLIENT-958": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1968": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 12h 31m"
+        ]
+    ], 
+    "HTTPCLIENT-1628": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "784d 12h 53m"
+        ]
+    ], 
+    "HTTPCLIENT-1782": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "HTTPCLIENT-1960": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 45m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 18h 19m"
+        ]
+    ], 
+    "HTTPCLIENT-1623": [
+        [
+            "Open", 
+            "In Progress", 
+            "32m 11s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "40m 59s"
+        ]
+    ], 
+    "HTTPCLIENT-1621": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 23h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "36m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "794d 14h 13m"
+        ]
+    ], 
+    "HTTPCLIENT-1147": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 20h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "673d 5h 23m"
+        ]
+    ], 
+    "HTTPCLIENT-1229": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 14h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 8h 50m"
+        ]
+    ], 
+    "HTTPCLIENT-1143": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "697d 21h 52m"
+        ]
+    ], 
+    "HTTPCLIENT-1142": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "702d 3h 35m"
+        ]
+    ], 
+    "HTTPCLIENT-1958": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 37m"
+        ]
+    ], 
+    "HTTPCLIENT-1362": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "124d 7h 45m"
+        ]
+    ], 
+    "HTTPCLIENT-1361": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1343d 20h 8m"
+        ]
+    ], 
+    "HTTPCLIENT-1248": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "359d 22h 48m"
+        ]
+    ], 
+    "HTTPCLIENT-1494": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1120d 22h 4m"
+        ]
+    ], 
+    "HTTPCLIENT-1365": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 4h"
+        ]
+    ], 
+    "HTTPCLIENT-1498": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 14h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1100d 4m"
+        ]
+    ], 
+    "HTTPCLIENT-1710": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 14h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "487d 19h 24m"
+        ]
+    ], 
+    "HTTPCLIENT-1247": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "360d 9h 48m"
+        ]
+    ], 
+    "HTTPCLIENT-1716": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "461d 17h 31m"
+        ]
+    ], 
+    "HTTPCLIENT-1241": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "366d 8h 5m"
+        ]
+    ], 
+    "HTTPCLIENT-1715": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "463d 1h 14m"
+        ]
+    ], 
+    "HTTPCLIENT-1398": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1325d 19h 29m"
+        ]
+    ], 
+    "HTTPCLIENT-1399": [
+        [
+            "Open", 
+            "Resolved", 
+            "35m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1325d 20h 17m"
+        ]
+    ], 
+    "HTTPCLIENT-1397": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 9h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1306d 13h 42m"
+        ]
+    ], 
+    "HTTPCLIENT-1393": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1344d 15h 57m"
+        ]
+    ]
+}

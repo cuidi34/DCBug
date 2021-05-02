@@ -1,0 +1,6236 @@
+{
+    "AURORA-1325": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 1m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 11m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4m 32s"
+        ]
+    ], 
+    "AURORA-1322": [
+        [
+            "Open", 
+            "Accepted", 
+            "14s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4d 22h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "7d 18h 29m"
+        ]
+    ], 
+    "AURORA-1739": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 22h 46m"
+        ]
+    ], 
+    "AURORA-753": [
+        [
+            "Open", 
+            "Accepted", 
+            "13m 7s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2m 35s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "14h 37m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "9s"
+        ]
+    ], 
+    "AURORA-757": [
+        [
+            "Open", 
+            "Accepted", 
+            "4m 5s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "7m 18s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19m 42s"
+        ]
+    ], 
+    "AURORA-756": [
+        [
+            "Open", 
+            "Accepted", 
+            "16h 39m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3h 20m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 1h 59m"
+        ]
+    ], 
+    "AURORA-1745": [
+        [
+            "Open", 
+            "Reviewable", 
+            "10s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 22m"
+        ]
+    ], 
+    "AURORA-1741": [
+        [
+            "Open", 
+            "Reviewable", 
+            "20m 50s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 16h 49m"
+        ]
+    ], 
+    "AURORA-60": [
+        [
+            "Open", 
+            "Reviewable", 
+            "26m 4s"
+        ], 
+        [
+            "Reviewable", 
+            "Closed", 
+            "35m 9s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11d 3h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-1550": [
+        [
+            "Open", 
+            "Reviewable", 
+            "15h 38m"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "1h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 10m"
+        ]
+    ], 
+    "AURORA-135": [
+        [
+            "Open", 
+            "Accepted", 
+            "21d 1h 16m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "6d 23h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-134": [
+        [
+            "Open", 
+            "Accepted", 
+            "21d 1h 43m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "6d 23h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3s"
+        ]
+    ], 
+    "AURORA-136": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2d 8h 14m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 10h 25m"
+        ]
+    ], 
+    "AURORA-1633": [
+        [
+            "Open", 
+            "Reviewable", 
+            "23s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 10h 31m"
+        ]
+    ], 
+    "AURORA-1630": [
+        [
+            "Open", 
+            "Accepted", 
+            "32s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 18h 11m"
+        ]
+    ], 
+    "AURORA-1620": [
+        [
+            "Open", 
+            "In Progress", 
+            "49d 5h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "81d 15h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2d 23h 45m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "45m 5s"
+        ]
+    ], 
+    "AURORA-571": [
+        [
+            "Open", 
+            "Accepted", 
+            "8s"
+        ], 
+        [
+            "Reviewable", 
+            "Reopened", 
+            "21d 9h 48m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "22h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "39s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5m 57s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "3d 16h 2m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "3s"
+        ]
+    ], 
+    "AURORA-573": [
+        [
+            "Open", 
+            "Accepted", 
+            "52m 45s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "SHIRO-493": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9d 13h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "923d 4h 28m"
+        ]
+    ], 
+    "AURORA-1959": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 44m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5h 18m"
+        ]
+    ], 
+    "AURORA-349": [
+        [
+            "Open", 
+            "Accepted", 
+            "35m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "18d 18h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "46d 2h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-1953": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 44m"
+        ]
+    ], 
+    "AURORA-1952": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 19h 51m"
+        ]
+    ], 
+    "AURORA-344": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 39s"
+        ]
+    ], 
+    "AURORA-1950": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 1h 26m"
+        ]
+    ], 
+    "AURORA-478": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2d 3h 21m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20h 23m"
+        ]
+    ], 
+    "AURORA-1956": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 13h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "10m 53s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 1h 27m"
+        ]
+    ], 
+    "AURORA-1955": [
+        [
+            "Open", 
+            "Reviewable", 
+            "17h 48m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 18h 44m"
+        ]
+    ], 
+    "AURORA-221": [
+        [
+            "Open", 
+            "Accepted", 
+            "6d 1h 15m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "6d 1h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 38m"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "9d 19h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 7h 44m"
+        ]
+    ], 
+    "AURORA-223": [
+        [
+            "Open", 
+            "Reviewable", 
+            "4d 3h 38m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "11d 19h 23m"
+        ]
+    ], 
+    "AURORA-187": [
+        [
+            "Open", 
+            "Accepted", 
+            "132d 43m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "99d 5h 18m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 18h 5m"
+        ]
+    ], 
+    "AURORA-788": [
+        [
+            "Open", 
+            "Accepted", 
+            "39s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "58s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 18h 57m"
+        ]
+    ], 
+    "AURORA-786": [
+        [
+            "Open", 
+            "Accepted", 
+            "49m 28s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 2m"
+        ]
+    ], 
+    "AURORA-784": [
+        [
+            "Open", 
+            "Accepted", 
+            "1m 37s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "35d 8h 6m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 39m"
+        ]
+    ], 
+    "AURORA-1016": [
+        [
+            "Open", 
+            "Reviewable", 
+            "3h 1m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20h 25m"
+        ]
+    ], 
+    "AURORA-3": [
+        [
+            "Open", 
+            "Closed", 
+            "54d 8h 40m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "66d 11h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 8s"
+        ]
+    ], 
+    "AURORA-6": [
+        [
+            "Open", 
+            "Accepted", 
+            "318d 17h 48m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "9d 23h 30m"
+        ]
+    ], 
+    "AURORA-986": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 3m"
+        ]
+    ], 
+    "AURORA-823": [
+        [
+            "Open", 
+            "Accepted", 
+            "42d 21h 17m"
+        ], 
+        [
+            "Accepted", 
+            "Open", 
+            "57d 1h 51m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "3d 12m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "106d 19h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10s"
+        ]
+    ], 
+    "AURORA-989": [
+        [
+            "Open", 
+            "Accepted", 
+            "18m 5s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "2d 20h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2m 14s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 23h 42m"
+        ]
+    ], 
+    "AURORA-824": [
+        [
+            "Open", 
+            "Accepted", 
+            "6m 12s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "11d 20h 2m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "18h 30m"
+        ]
+    ], 
+    "AURORA-295": [
+        [
+            "Open", 
+            "Accepted", 
+            "13s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "11m 47s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 20h 23m"
+        ]
+    ], 
+    "AURORA-297": [
+        [
+            "Open", 
+            "Accepted", 
+            "3m 10s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3m 11s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "27d 6h 44m"
+        ]
+    ], 
+    "AURORA-5": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13s"
+        ]
+    ], 
+    "AURORA-968": [
+        [
+            "Open", 
+            "Accepted", 
+            "1d 21h 49m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "25d 23h 47m"
+        ]
+    ], 
+    "AURORA-14": [
+        [
+            "Open", 
+            "In Progress", 
+            "58s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "128d 5h 14m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "146d 6h 4m"
+        ]
+    ], 
+    "AURORA-1476": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 5h 48m"
+        ]
+    ], 
+    "AURORA-1479": [
+        [
+            "Open", 
+            "Accepted", 
+            "31s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "51m 15s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20h 37m"
+        ]
+    ], 
+    "AURORA-966": [
+        [
+            "Open", 
+            "Accepted", 
+            "34m 11s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "9s"
+        ]
+    ], 
+    "AURORA-965": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "41m 49s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 22h 16m"
+        ]
+    ], 
+    "AURORA-658": [
+        [
+            "Open", 
+            "Accepted", 
+            "15h 27m"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "23h 1m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "12d 47m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-1074": [
+        [
+            "Open", 
+            "Accepted", 
+            "144d 4h 8m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "19m 49s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 18h 11m"
+        ]
+    ], 
+    "AURORA-1076": [
+        [
+            "Open", 
+            "Reviewable", 
+            "1h 9m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 6m"
+        ]
+    ], 
+    "AURORA-1174": [
+        [
+            "Accepted", 
+            "Open", 
+            "7d 5h 13m"
+        ], 
+        [
+            "Open", 
+            "Accepted", 
+            "3d 23h 56m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1m 28s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20h 20m"
+        ]
+    ], 
+    "AURORA-1176": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2d 21h 42m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 4h 30m"
+        ]
+    ], 
+    "AURORA-1173": [
+        [
+            "Open", 
+            "Accepted", 
+            "7m 20s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "40m 40s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 26m"
+        ]
+    ], 
+    "AURORA-917": [
+        [
+            "Open", 
+            "Accepted", 
+            "2d 18h 21m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 38m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 4h 1m"
+        ]
+    ], 
+    "AURORA-916": [
+        [
+            "Open", 
+            "Accepted", 
+            "3m 38s"
+        ], 
+        [
+            "Accepted", 
+            "Open", 
+            "73d 22h 32m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "69d 2h 29m"
+        ]
+    ], 
+    "AURORA-912": [
+        [
+            "Open", 
+            "Accepted", 
+            "15s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1d 2h 25m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 22h 56m"
+        ]
+    ], 
+    "AURORA-1603": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4d 12h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1d 7h 21m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 4m"
+        ]
+    ], 
+    "AURORA-669": [
+        [
+            "Open", 
+            "Accepted", 
+            "15m 33s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "19d 1h 42m"
+        ]
+    ], 
+    "AURORA-1601": [
+        [
+            "Open", 
+            "Accepted", 
+            "3d 18h 12m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "20h 39m"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "1d 1h 20m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "11s"
+        ]
+    ], 
+    "AURORA-1217": [
+        [
+            "Open", 
+            "In Progress", 
+            "25m 44s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 29m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 5h 54m"
+        ]
+    ], 
+    "AURORA-1604": [
+        [
+            "Open", 
+            "Accepted", 
+            "1m 30s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3d 18h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14h 21m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "7d 2h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5h 59m"
+        ]
+    ], 
+    "AURORA-1354": [
+        [
+            "Open", 
+            "Accepted", 
+            "182d 18h 19m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 14m"
+        ]
+    ], 
+    "AURORA-1356": [
+        [
+            "Open", 
+            "Accepted", 
+            "19s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "18m 8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "18s"
+        ]
+    ], 
+    "AURORA-1353": [
+        [
+            "Open", 
+            "Accepted", 
+            "2m 22s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "38m 3s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "45s"
+        ]
+    ], 
+    "AURORA-88": [
+        [
+            "Open", 
+            "Reviewable", 
+            "9d 6h 19m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 14h 49m"
+        ]
+    ], 
+    "AURORA-702": [
+        [
+            "Open", 
+            "Accepted", 
+            "10m 52s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 6m"
+        ]
+    ], 
+    "AURORA-1285": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3h 50m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "23h 12m"
+        ]
+    ], 
+    "AURORA-1282": [
+        [
+            "Open", 
+            "Reviewable", 
+            "22d 10h 22m"
+        ], 
+        [
+            "Reviewable", 
+            "Reopened", 
+            "82d 2h 38m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "31d 21h"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h"
+        ]
+    ], 
+    "AURORA-1779": [
+        [
+            "Open", 
+            "Reviewable", 
+            "8h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "12h 15m"
+        ]
+    ], 
+    "AURORA-1777": [
+        [
+            "Open", 
+            "Accepted", 
+            "18h 8m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "28s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "59m 25s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 52m"
+        ]
+    ], 
+    "AURORA-1775": [
+        [
+            "Open", 
+            "Accepted", 
+            "17h 16m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 1h 18m"
+        ]
+    ], 
+    "AURORA-1506": [
+        [
+            "Open", 
+            "Accepted", 
+            "40d 20h 33m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "31d 3h 47m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 19h 55m"
+        ]
+    ], 
+    "AURORA-1507": [
+        [
+            "Open", 
+            "Reviewable", 
+            "71d 19h 34m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 45m"
+        ]
+    ], 
+    "AURORA-1914": [
+        [
+            "Open", 
+            "Accepted", 
+            "1m 48s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "33m 3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "8d 8h 52m"
+        ]
+    ], 
+    "AURORA-1913": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 50m"
+        ]
+    ], 
+    "AURORA-1912": [
+        [
+            "Open", 
+            "Accepted", 
+            "17s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 56m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "23h 17m"
+        ]
+    ], 
+    "AURORA-1911": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 37m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "8d 4h 47m"
+        ]
+    ], 
+    "AURORA-1910": [
+        [
+            "Open", 
+            "Accepted", 
+            "6s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "15m 1s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "18h 14m"
+        ]
+    ], 
+    "AURORA-265": [
+        [
+            "Open", 
+            "Reviewable", 
+            "25d 3h 58m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "26d 20h 29m"
+        ]
+    ], 
+    "AURORA-264": [
+        [
+            "Open", 
+            "Accepted", 
+            "2d 18h 36m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "3s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3s"
+        ]
+    ], 
+    "AURORA-267": [
+        [
+            "Open", 
+            "Accepted", 
+            "49d 7h 24m"
+        ], 
+        [
+            "Accepted", 
+            "Closed", 
+            "4s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "10d 2h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "33s"
+        ]
+    ], 
+    "AURORA-145": [
+        [
+            "Open", 
+            "Resolved", 
+            "179d 21h 46m"
+        ]
+    ], 
+    "AURORA-1593": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 51s"
+        ], 
+        [
+            "In Progress", 
+            "Accepted", 
+            "22s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3d 15h 35m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 37m"
+        ]
+    ], 
+    "AURORA-1596": [
+        [
+            "Open", 
+            "Accepted", 
+            "3h 40m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "6d 3h 11m"
+        ]
+    ], 
+    "AURORA-504": [
+        [
+            "Open", 
+            "In Progress", 
+            "135d 20h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "18s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19h 19m"
+        ]
+    ], 
+    "AURORA-502": [
+        [
+            "Open", 
+            "Accepted", 
+            "5s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 45m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "AURORA-863": [
+        [
+            "Open", 
+            "Accepted", 
+            "23h 32m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1m 42s"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "2d 18h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 41m"
+        ]
+    ], 
+    "AURORA-926": [
+        [
+            "Open", 
+            "Accepted", 
+            "12s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "49m 23s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19h 13m"
+        ]
+    ], 
+    "AURORA-923": [
+        [
+            "Open", 
+            "Accepted", 
+            "33s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "17h 5m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4m 47s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "8d 4h 20m"
+        ]
+    ], 
+    "AURORA-920": [
+        [
+            "Open", 
+            "Accepted", 
+            "17h 20m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "1h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Accepted", 
+            "3d 23h 30m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "12m 46s"
+        ]
+    ], 
+    "AURORA-921": [
+        [
+            "Open", 
+            "Accepted", 
+            "12m 54s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "2d 20h 5m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "13d 22h 48m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "22h 41m"
+        ]
+    ], 
+    "AURORA-884": [
+        [
+            "Open", 
+            "Accepted", 
+            "7d 2h 1m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "30m 17s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 17h 15m"
+        ]
+    ], 
+    "AURORA-1133": [
+        [
+            "Open", 
+            "Accepted", 
+            "14d 20h 11m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "45s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "26s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 1h 9m"
+        ]
+    ], 
+    "AURORA-1135": [
+        [
+            "Open", 
+            "Reviewable", 
+            "59d 23h 58m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "23h 54m"
+        ]
+    ], 
+    "AURORA-1134": [
+        [
+            "Open", 
+            "Accepted", 
+            "4s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5d 21m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 20h 43m"
+        ]
+    ], 
+    "AURORA-1138": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 10m"
+        ]
+    ], 
+    "AURORA-1489": [
+        [
+            "Open", 
+            "Reviewable", 
+            "20h 3m"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "AURORA-1724": [
+        [
+            "Open", 
+            "Accepted", 
+            "7h 59m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1d 6h 43m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 20h 56m"
+        ]
+    ], 
+    "AURORA-1094": [
+        [
+            "Open", 
+            "In Progress", 
+            "25m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3m 6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 4h 27m"
+        ]
+    ], 
+    "AURORA-1727": [
+        [
+            "Open", 
+            "Accepted", 
+            "2h 31m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 19h 56m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2m 30s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4h 7m"
+        ]
+    ], 
+    "AURORA-1728": [
+        [
+            "Open", 
+            "Accepted", 
+            "2d 2h 52m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "20m 16s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 21m"
+        ]
+    ], 
+    "AURORA-1729": [
+        [
+            "Open", 
+            "Accepted", 
+            "2d 3h 38m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 43m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "15h 18m"
+        ]
+    ], 
+    "AURORA-1484": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 17m"
+        ]
+    ], 
+    "AURORA-768": [
+        [
+            "Open", 
+            "Accepted", 
+            "3h"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "15h 55m"
+        ]
+    ], 
+    "AURORA-51": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 22h 50m"
+        ]
+    ], 
+    "AURORA-50": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 21m"
+        ]
+    ], 
+    "AURORA-57": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "66d 13h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 7s"
+        ]
+    ], 
+    "AURORA-56": [
+        [
+            "Open", 
+            "Accepted", 
+            "10d 1h 34m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "3s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "19s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "34s"
+        ]
+    ], 
+    "AURORA-55": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 21h 46m"
+        ]
+    ], 
+    "AURORA-1002": [
+        [
+            "Open", 
+            "Accepted", 
+            "11m 47s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "2h 27m"
+        ]
+    ], 
+    "AURORA-1435": [
+        [
+            "Open", 
+            "Accepted", 
+            "10s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "19m 8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "22m 46s"
+        ]
+    ], 
+    "AURORA-59": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 57m"
+        ]
+    ], 
+    "AURORA-1431": [
+        [
+            "Open", 
+            "Accepted", 
+            "8s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "16m 8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "13h 2m"
+        ]
+    ], 
+    "AURORA-1541": [
+        [
+            "Open", 
+            "Reviewable", 
+            "425d 19h 59m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 4h 19m"
+        ]
+    ], 
+    "AURORA-1266": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 25m"
+        ]
+    ], 
+    "AURORA-1549": [
+        [
+            "Open", 
+            "Accepted", 
+            "1m 28s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "18h 44m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5h 20m"
+        ]
+    ], 
+    "AURORA-1263": [
+        [
+            "Open", 
+            "Accepted", 
+            "6s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2m 49s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 1h 37m"
+        ]
+    ], 
+    "AURORA-101": [
+        [
+            "Open", 
+            "Accepted", 
+            "35d 49m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "11s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "27d 16h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 8s"
+        ]
+    ], 
+    "AURORA-102": [
+        [
+            "Open", 
+            "Reviewable", 
+            "42d 22h 42m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 3h 21m"
+        ]
+    ], 
+    "AURORA-1798": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 56m"
+        ]
+    ], 
+    "AURORA-1795": [
+        [
+            "Open", 
+            "Accepted", 
+            "11h 6m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4m 12s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20h 40m"
+        ]
+    ], 
+    "AURORA-1793": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 46m"
+        ]
+    ], 
+    "AURORA-1792": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 3h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "8m 10s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 54m"
+        ]
+    ], 
+    "AURORA-1647": [
+        [
+            "Open", 
+            "In Progress", 
+            "45m 29s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "18h 46m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 20m"
+        ]
+    ], 
+    "AURORA-1315": [
+        [
+            "Open", 
+            "Accepted", 
+            "6s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "28s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "27m 31s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "22m 33s"
+        ]
+    ], 
+    "AURORA-1642": [
+        [
+            "Open", 
+            "Accepted", 
+            "19s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "6d 19h 59m"
+        ]
+    ], 
+    "AURORA-1641": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 23h 26m"
+        ]
+    ], 
+    "AURORA-1316": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2m 3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 7h 45m"
+        ]
+    ], 
+    "AURORA-543": [
+        [
+            "Open", 
+            "Accepted", 
+            "2d 22h 10m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "25s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6h 22m"
+        ]
+    ], 
+    "AURORA-547": [
+        [
+            "Open", 
+            "In Progress", 
+            "505d 20h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2h 26m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "11d 23h 46m"
+        ]
+    ], 
+    "AURORA-359": [
+        [
+            "Open", 
+            "Accepted", 
+            "29m 36s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "18s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 21m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16s"
+        ]
+    ], 
+    "AURORA-1943": [
+        [
+            "Open", 
+            "Reviewable", 
+            "28m 49s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 10h 34m"
+        ]
+    ], 
+    "AURORA-1945": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 48m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 16h 6m"
+        ]
+    ], 
+    "AURORA-210": [
+        [
+            "Open", 
+            "Accepted", 
+            "50m 48s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-213": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 5m"
+        ]
+    ], 
+    "AURORA-194": [
+        [
+            "Open", 
+            "Accepted", 
+            "5m 13s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "8d 14h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "22s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-190": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 24m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "8h 1m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 12h 20m"
+        ]
+    ], 
+    "AURORA-1898": [
+        [
+            "Open", 
+            "Reviewable", 
+            "277d 15h 56m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "12d 1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 17h 19m"
+        ]
+    ], 
+    "AURORA-1890": [
+        [
+            "Open", 
+            "Accepted", 
+            "1d 23h 36m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "19h 46m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 59m"
+        ]
+    ], 
+    "AURORA-798": [
+        [
+            "Open", 
+            "Reviewable", 
+            "12m 54s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "1d 23h 56m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "37d 6h 5m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 1h 5m"
+        ]
+    ], 
+    "AURORA-793": [
+        [
+            "Open", 
+            "Accepted", 
+            "21d 1h 36m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "12d 5h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 17m"
+        ]
+    ], 
+    "AURORA-997": [
+        [
+            "Open", 
+            "Reviewable", 
+            "24m 42s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20m 32s"
+        ]
+    ], 
+    "AURORA-996": [
+        [
+            "Open", 
+            "Accepted", 
+            "3d 10m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1d 6h 20m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 21h 18m"
+        ]
+    ], 
+    "AURORA-495": [
+        [
+            "Accepted", 
+            "Open", 
+            "15d 1h 14m"
+        ], 
+        [
+            "Open", 
+            "Accepted", 
+            "88d 15h 24m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "22h 16m"
+        ]
+    ], 
+    "AURORA-992": [
+        [
+            "Open", 
+            "Reviewable", 
+            "53m 31s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "16m 52s"
+        ]
+    ], 
+    "AURORA-991": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 35m"
+        ], 
+        [
+            "Accepted", 
+            "Open", 
+            "10d 3h 41m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "61d 17h 16m"
+        ]
+    ], 
+    "AURORA-990": [
+        [
+            "Open", 
+            "Accepted", 
+            "15h 20m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "6h 12m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 16h 26m"
+        ]
+    ], 
+    "AURORA-498": [
+        [
+            "Open", 
+            "Accepted", 
+            "3h 35m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "144d 39m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 50m"
+        ]
+    ], 
+    "AURORA-499": [
+        [
+            "Open", 
+            "Accepted", 
+            "4m 17s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "37m 20s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6m 41s"
+        ]
+    ], 
+    "AURORA-288": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "14m 40s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4h 27m"
+        ]
+    ], 
+    "AURORA-1191": [
+        [
+            "Open", 
+            "Accepted", 
+            "11s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1d 14h"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 27m"
+        ]
+    ], 
+    "ZOOKEEPER-2347": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 8h 21m"
+        ]
+    ], 
+    "AURORA-976": [
+        [
+            "Open", 
+            "Accepted", 
+            "3m 26s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3h 31m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19d 2h 56m"
+        ]
+    ], 
+    "AURORA-728": [
+        [
+            "Open", 
+            "Accepted", 
+            "8h 34m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "17d 23h 10m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 25m"
+        ]
+    ], 
+    "AURORA-729": [
+        [
+            "Open", 
+            "Accepted", 
+            "6s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "9m 22s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "23m 46s"
+        ]
+    ], 
+    "AURORA-315": [
+        [
+            "Open", 
+            "Reviewable", 
+            "41m 55s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "11d 16h 41m"
+        ]
+    ], 
+    "AURORA-722": [
+        [
+            "Open", 
+            "Accepted", 
+            "35s"
+        ], 
+        [
+            "In Progress", 
+            "Accepted", 
+            "8d 4h 10m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "3d 20h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "9d 8h 10m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 21h 36m"
+        ]
+    ], 
+    "AURORA-641": [
+        [
+            "Open", 
+            "Accepted", 
+            "8m 13s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5m 14s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17m 46s"
+        ]
+    ], 
+    "AURORA-640": [
+        [
+            "Open", 
+            "Accepted", 
+            "28m 23s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "3s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5m 27s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 9m"
+        ]
+    ], 
+    "AURORA-1045": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 58m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "32s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "18h 7m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 4h 20m"
+        ]
+    ], 
+    "AURORA-644": [
+        [
+            "Open", 
+            "Reviewable", 
+            "23d 23h 14m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 19h 40m"
+        ]
+    ], 
+    "AURORA-648": [
+        [
+            "Open", 
+            "Accepted", 
+            "21s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "12m 34s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "54m 5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "12m 2s"
+        ]
+    ], 
+    "AURORA-1166": [
+        [
+            "Open", 
+            "Accepted", 
+            "11s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 18m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 3m"
+        ]
+    ], 
+    "AURORA-1165": [
+        [
+            "Open", 
+            "Accepted", 
+            "22s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 9m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 3m"
+        ]
+    ], 
+    "AURORA-1342": [
+        [
+            "Open", 
+            "Accepted", 
+            "14s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "43d 6h 55m"
+        ]
+    ], 
+    "AURORA-1614": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "15m 42s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "4s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 30m"
+        ]
+    ], 
+    "AURORA-1615": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5h 9m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 27m"
+        ]
+    ], 
+    "AURORA-1345": [
+        [
+            "Open", 
+            "Accepted", 
+            "83d 1h 42m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "42s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 23h 41m"
+        ]
+    ], 
+    "AURORA-1296": [
+        [
+            "Open", 
+            "Accepted", 
+            "7m 47s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "20d 6h"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 25m"
+        ]
+    ], 
+    "AURORA-1020": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "41d 21h 42m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 14m"
+        ]
+    ], 
+    "AURORA-1761": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "22s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 47m"
+        ]
+    ], 
+    "AURORA-1538": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 36s"
+        ]
+    ], 
+    "AURORA-1537": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2m 27s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 29m"
+        ]
+    ], 
+    "AURORA-1533": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 57m"
+        ]
+    ], 
+    "AURORA-250": [
+        [
+            "Open", 
+            "Accepted", 
+            "29s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "6m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3s"
+        ]
+    ], 
+    "AURORA-770": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 16h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2h 49m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "7d 4h 3m"
+        ]
+    ], 
+    "AURORA-150": [
+        [
+            "Open", 
+            "Accepted", 
+            "3d 22h 49m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "6s"
+        ], 
+        [
+            "Reviewable", 
+            "Closed", 
+            "31m 50s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-1909": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 8h 31m"
+        ]
+    ], 
+    "AURORA-1580": [
+        [
+            "Open", 
+            "Accepted", 
+            "3h 14m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "7d 20h 1m"
+        ]
+    ], 
+    "AURORA-1582": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 8m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3h 16m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "7d 44m"
+        ]
+    ], 
+    "AURORA-1587": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "50m 40s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 15h 52m"
+        ]
+    ], 
+    "AURORA-1990": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4h 8m"
+        ]
+    ], 
+    "AURORA-889": [
+        [
+            "Open", 
+            "Accepted", 
+            "1d 1h 32m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "11d 5h 47m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "17h 24m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "12h 1m"
+        ]
+    ], 
+    "AURORA-694": [
+        [
+            "Open", 
+            "Accepted", 
+            "2m 27s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "7h 1m"
+        ]
+    ], 
+    "AURORA-697": [
+        [
+            "Open", 
+            "Reviewable", 
+            "21h 34m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 23m"
+        ]
+    ], 
+    "AURORA-698": [
+        [
+            "Open", 
+            "Accepted", 
+            "251d 18h 51m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "33d 4h 19m"
+        ]
+    ], 
+    "AURORA-512": [
+        [
+            "Open", 
+            "Accepted", 
+            "5s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1d 19h 52m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 21h 17m"
+        ]
+    ], 
+    "AURORA-514": [
+        [
+            "Open", 
+            "Accepted", 
+            "5s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 7m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 21h 53m"
+        ]
+    ], 
+    "AURORA-452": [
+        [
+            "Open", 
+            "Accepted", 
+            "19m 58s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "37m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "18h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 45m"
+        ]
+    ], 
+    "AURORA-453": [
+        [
+            "Open", 
+            "Accepted", 
+            "5m 54s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "3s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "14m 39s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "23m 31s"
+        ]
+    ], 
+    "AURORA-457": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 24m"
+        ]
+    ], 
+    "AURORA-455": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2d 6h 54m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 17h 46m"
+        ]
+    ], 
+    "AURORA-1401": [
+        [
+            "Open", 
+            "Accepted", 
+            "34m 31s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4m 39s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5h 40m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 17m"
+        ]
+    ], 
+    "AURORA-45": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 57m"
+        ]
+    ], 
+    "AURORA-1684": [
+        [
+            "Open", 
+            "Reviewable", 
+            "230d 22h 37m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "48d 17m"
+        ]
+    ], 
+    "AURORA-937": [
+        [
+            "Open", 
+            "Reviewable", 
+            "23h 28m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 6m"
+        ]
+    ], 
+    "AURORA-936": [
+        [
+            "Open", 
+            "Accepted", 
+            "2m 57s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "6d 22h 53m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 3h 8m"
+        ]
+    ], 
+    "AURORA-1407": [
+        [
+            "Open", 
+            "Accepted", 
+            "12s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "6h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "11h"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 2m"
+        ]
+    ], 
+    "AURORA-939": [
+        [
+            "Open", 
+            "Accepted", 
+            "6d 22h 16m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 2m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 23h 20m"
+        ]
+    ], 
+    "AURORA-938": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 23m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "16s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 50m"
+        ]
+    ], 
+    "AURORA-609": [
+        [
+            "Open", 
+            "Accepted", 
+            "8s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3m 54s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "2d 20h 39m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-607": [
+        [
+            "Open", 
+            "Reviewable", 
+            "3d 10h 27m"
+        ], 
+        [
+            "Reviewable", 
+            "Closed", 
+            "52d 14h 10m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "18d 3h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-605": [
+        [
+            "Open", 
+            "Accepted", 
+            "15m 9s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "12h 32m"
+        ]
+    ], 
+    "AURORA-1124": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "6m 33s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 34m"
+        ]
+    ], 
+    "AURORA-801": [
+        [
+            "Open", 
+            "Accepted", 
+            "3m 24s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "23h 38m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "17h 52m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "26s"
+        ]
+    ], 
+    "AURORA-802": [
+        [
+            "Open", 
+            "Accepted", 
+            "6h 5m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "10s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 20h 31m"
+        ]
+    ], 
+    "AURORA-807": [
+        [
+            "Open", 
+            "Accepted", 
+            "25s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "16h 31m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 20m"
+        ]
+    ], 
+    "AURORA-1712": [
+        [
+            "Open", 
+            "Reviewable", 
+            "115d 10h 3m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "118d 11h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "99d 9h 33m"
+        ]
+    ], 
+    "AURORA-1494": [
+        [
+            "Open", 
+            "Accepted", 
+            "5m 41s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "8m 15s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "16h 36m"
+        ]
+    ], 
+    "AURORA-1719": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 1h 4m"
+        ]
+    ], 
+    "AURORA-1391": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 35m"
+        ]
+    ], 
+    "AURORA-1390": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "46s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5m 26s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "36m 21s"
+        ]
+    ], 
+    "AURORA-1018": [
+        [
+            "Open", 
+            "Reviewable", 
+            "41m 27s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "46m 6s"
+        ]
+    ], 
+    "AURORA-1019": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "6m 25s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 22m"
+        ]
+    ], 
+    "AURORA-1395": [
+        [
+            "Open", 
+            "Accepted", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Accepted", 
+            "12d 2h 33m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "20h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "11d 2h 16m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "9d 16h 5m"
+        ]
+    ], 
+    "AURORA-1399": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "23m 58s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "25m 24s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 30m"
+        ]
+    ], 
+    "AURORA-670": [
+        [
+            "Open", 
+            "Reviewable", 
+            "4h 8m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-676": [
+        [
+            "Open", 
+            "Reviewable", 
+            "41m 19s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 23h 52m"
+        ]
+    ], 
+    "AURORA-1153": [
+        [
+            "Open", 
+            "Accepted", 
+            "8m 22s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3h 5m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5h 26m"
+        ]
+    ], 
+    "AURORA-1400": [
+        [
+            "Open", 
+            "Reviewable", 
+            "40s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "49m 49s"
+        ]
+    ], 
+    "AURORA-1403": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2h 38m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 13m"
+        ]
+    ], 
+    "AURORA-41": [
+        [
+            "Open", 
+            "Accepted", 
+            "3m 50s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "13h 41m"
+        ]
+    ], 
+    "AURORA-1155": [
+        [
+            "Open", 
+            "Accepted", 
+            "6h 40m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "47s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "50s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "15s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 26m"
+        ]
+    ], 
+    "AURORA-1406": [
+        [
+            "Open", 
+            "Accepted", 
+            "2m 18s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "20h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "33m 55s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19h"
+        ]
+    ], 
+    "AURORA-1409": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "7d 22h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 38m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "37m 11s"
+        ]
+    ], 
+    "AURORA-1379": [
+        [
+            "Open", 
+            "Accepted", 
+            "2m 13s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "20h 24m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 4h 7m"
+        ]
+    ], 
+    "AURORA-1378": [
+        [
+            "Open", 
+            "Accepted", 
+            "23m 3s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "22h 52m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "22s"
+        ]
+    ], 
+    "AURORA-475": [
+        [
+            "Open", 
+            "In Progress", 
+            "44s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 35m"
+        ]
+    ], 
+    "AURORA-1782": [
+        [
+            "Open", 
+            "Reviewable", 
+            "114d 7m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 10h 42m"
+        ]
+    ], 
+    "AURORA-1783": [
+        [
+            "Open", 
+            "Reviewable", 
+            "16m 43s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "37m 39s"
+        ]
+    ], 
+    "AURORA-1784": [
+        [
+            "Open", 
+            "Accepted", 
+            "16h 29m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "23h 13m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "37m 46s"
+        ]
+    ], 
+    "AURORA-1789": [
+        [
+            "Open", 
+            "Accepted", 
+            "32s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "11d 20h 29m"
+        ]
+    ], 
+    "AURORA-596": [
+        [
+            "Open", 
+            "Accepted", 
+            "1m 5s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "3s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "12m 53s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "54m 48s"
+        ]
+    ], 
+    "AURORA-1752": [
+        [
+            "Open", 
+            "Reviewable", 
+            "10m 25s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 18h 18m"
+        ]
+    ], 
+    "AURORA-1309": [
+        [
+            "Open", 
+            "Accepted", 
+            "14s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1m 9s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "29m 19s"
+        ]
+    ], 
+    "AURORA-1307": [
+        [
+            "Open", 
+            "Accepted", 
+            "26m 41s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "1h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "6h 47m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 21h 47m"
+        ]
+    ], 
+    "AURORA-1304": [
+        [
+            "Open", 
+            "Accepted", 
+            "8m 40s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1m 18s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "220d 20h 18m"
+        ]
+    ], 
+    "AURORA-1650": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 8h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "23m 27s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 14h 38m"
+        ]
+    ], 
+    "AURORA-1301": [
+        [
+            "Open", 
+            "Accepted", 
+            "13s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "3m 34s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "44m 36s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19m 44s"
+        ]
+    ], 
+    "AURORA-1610": [
+        [
+            "Open", 
+            "Accepted", 
+            "6s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1h 8m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "52m 25s"
+        ]
+    ], 
+    "AURORA-416": [
+        [
+            "Open", 
+            "Accepted", 
+            "19h 47m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "7s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8s"
+        ]
+    ], 
+    "AURORA-410": [
+        [
+            "Open", 
+            "Accepted", 
+            "12s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5h 7m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 1h 29m"
+        ]
+    ], 
+    "AURORA-411": [
+        [
+            "Open", 
+            "Accepted", 
+            "8m 56s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "21h 5m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5h 57m"
+        ]
+    ], 
+    "AURORA-1875": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 18h"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "3d 3h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 21m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 4m"
+        ]
+    ], 
+    "AURORA-366": [
+        [
+            "Open", 
+            "Accepted", 
+            "22h 26m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "33s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "23h 42m"
+        ]
+    ], 
+    "AURORA-1873": [
+        [
+            "Open", 
+            "Reviewable", 
+            "5d 4h 11m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9h 42m"
+        ]
+    ], 
+    "AURORA-368": [
+        [
+            "Open", 
+            "Accepted", 
+            "22h 41m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "15d 19h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "116d 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-1879": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 7h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "12m 6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 10h 22m"
+        ]
+    ], 
+    "AURORA-204": [
+        [
+            "Open", 
+            "Accepted", 
+            "47s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "84d 21h 19m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-1571": [
+        [
+            "Open", 
+            "Reviewable", 
+            "7h 22m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "13h 11m"
+        ]
+    ], 
+    "AURORA-1570": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 5m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 34m"
+        ]
+    ], 
+    "AURORA-1574": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 2h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "58m 36s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "14h 44m"
+        ]
+    ], 
+    "AURORA-1577": [
+        [
+            "Open", 
+            "Accepted", 
+            "3d 21h 27m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "30d 1h 3m"
+        ]
+    ], 
+    "AURORA-1008": [
+        [
+            "Open", 
+            "Reviewable", 
+            "32m 47s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20d 33m"
+        ]
+    ], 
+    "AURORA-523": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1m 37s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 20h 8m"
+        ]
+    ], 
+    "AURORA-525": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2m 16s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "11d 23h 14m"
+        ]
+    ], 
+    "AURORA-529": [
+        [
+            "Open", 
+            "In Progress", 
+            "29m 9s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3d 1h 56m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 17h 33m"
+        ]
+    ], 
+    "AURORA-485": [
+        [
+            "Accepted", 
+            "Open", 
+            "1s"
+        ], 
+        [
+            "Open", 
+            "Accepted", 
+            "59m 53s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "7s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "29m 56s"
+        ]
+    ], 
+    "AURORA-480": [
+        [
+            "Open", 
+            "Accepted", 
+            "5d 20h 57m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "18d 4h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3d 17h 36m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17s"
+        ]
+    ], 
+    "AURORA-483": [
+        [
+            "Open", 
+            "Accepted", 
+            "11h 22m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 51m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 16h"
+        ]
+    ], 
+    "AURORA-844": [
+        [
+            "Open", 
+            "Reviewable", 
+            "5h 8m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20h 37m"
+        ]
+    ], 
+    "AURORA-846": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2h 46m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 54m"
+        ]
+    ], 
+    "AURORA-1459": [
+        [
+            "Open", 
+            "Accepted", 
+            "1d 20h 17m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "14d 9h 5m"
+        ]
+    ], 
+    "AURORA-988": [
+        [
+            "Open", 
+            "Reviewable", 
+            "1d 27m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 55m"
+        ]
+    ], 
+    "AURORA-822": [
+        [
+            "Open", 
+            "Accepted", 
+            "22h 6m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4h 8m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "AURORA-1186": [
+        [
+            "Open", 
+            "Reviewable", 
+            "173d 5h 22m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "12h 21m"
+        ]
+    ], 
+    "AURORA-949": [
+        [
+            "Open", 
+            "Accepted", 
+            "6s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "2s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "21h 46m"
+        ], 
+        [
+            "Reviewable", 
+            "Closed", 
+            "6d 2h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 8h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "AURORA-946": [
+        [
+            "Open", 
+            "Accepted", 
+            "23s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 12m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 3h 56m"
+        ]
+    ], 
+    "AURORA-730": [
+        [
+            "Open", 
+            "Accepted", 
+            "5s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "18m 35s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "31m 40s"
+        ]
+    ], 
+    "AURORA-1053": [
+        [
+            "Open", 
+            "Accepted", 
+            "2h 43m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "18s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 2h 55m"
+        ]
+    ], 
+    "AURORA-1050": [
+        [
+            "Open", 
+            "Accepted", 
+            "34m 57s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "3h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "39m 32s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 18h 42m"
+        ]
+    ], 
+    "AURORA-1115": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 42m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5h 58m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 16h 47m"
+        ]
+    ], 
+    "AURORA-1113": [
+        [
+            "Open", 
+            "Accepted", 
+            "2d 19h 53m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "4d 3h 39m"
+        ]
+    ], 
+    "AURORA-1625": [
+        [
+            "Open", 
+            "Accepted", 
+            "13s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3h 9m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "58m 13s"
+        ]
+    ], 
+    "AURORA-1332": [
+        [
+            "Open", 
+            "Accepted", 
+            "8m 6s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "46d 23h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2h 31m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19h 42m"
+        ]
+    ], 
+    "AURORA-1628": [
+        [
+            "Open", 
+            "Accepted", 
+            "5m 29s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "13m 6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "22h 20m"
+        ]
+    ], 
+    "AURORA-1339": [
+        [
+            "Open", 
+            "Accepted", 
+            "12s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 5m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19h 28m"
+        ]
+    ], 
+    "AURORA-873": [
+        [
+            "Open", 
+            "Accepted", 
+            "10s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "19h 28m"
+        ]
+    ], 
+    "AURORA-748": [
+        [
+            "Open", 
+            "Accepted", 
+            "4d 17h 14m"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "6d 23h 51m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "31m 48s"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "9h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11s"
+        ]
+    ], 
+    "AURORA-339": [
+        [
+            "Open", 
+            "Reviewable", 
+            "13d 17h 56m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "38m 10s"
+        ]
+    ], 
+    "AURORA-1023": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "12d 14h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5h 59m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 23h 39m"
+        ]
+    ], 
+    "AURORA-1753": [
+        [
+            "Open", 
+            "In Progress", 
+            "44s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "34m 33s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 23m"
+        ]
+    ], 
+    "AURORA-442": [
+        [
+            "Open", 
+            "Accepted", 
+            "2h 5m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "15s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2m 8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6d 9m"
+        ]
+    ], 
+    "AURORA-120": [
+        [
+            "Open", 
+            "Accepted", 
+            "5d 16h 27m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "7s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "35d 1h 16m"
+        ]
+    ], 
+    "AURORA-1939": [
+        [
+            "Open", 
+            "In Progress", 
+            "25d 4h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "19s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 23h 39m"
+        ]
+    ], 
+    "AURORA-1248": [
+        [
+            "Open", 
+            "Accepted", 
+            "22d 9h 8m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "19h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "48m 52s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 17h 49m"
+        ]
+    ], 
+    "AURORA-1524": [
+        [
+            "Open", 
+            "Accepted", 
+            "7s"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "18h 13m"
+        ]
+    ], 
+    "AURORA-1933": [
+        [
+            "Open", 
+            "Accepted", 
+            "2m 31s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "18h 32m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 1m"
+        ]
+    ], 
+    "AURORA-1529": [
+        [
+            "Open", 
+            "Reviewable", 
+            "3h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "13h 19m"
+        ]
+    ], 
+    "AURORA-247": [
+        [
+            "Open", 
+            "Accepted", 
+            "57m 3s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "1s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 28m"
+        ]
+    ], 
+    "AURORA-244": [
+        [
+            "Open", 
+            "Reviewable", 
+            "41d 1h 59m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3d 19h 16m"
+        ]
+    ], 
+    "AURORA-126": [
+        [
+            "Open", 
+            "Resolved", 
+            "43m 54s"
+        ]
+    ], 
+    "AURORA-249": [
+        [
+            "Open", 
+            "Reviewable", 
+            "26d 28m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "15d 22h 23m"
+        ]
+    ], 
+    "AURORA-1233": [
+        [
+            "Open", 
+            "Resolved", 
+            "1041d 13h 38m"
+        ]
+    ], 
+    "AURORA-683": [
+        [
+            "Open", 
+            "Accepted", 
+            "47m 22s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "1s"
+        ], 
+        [
+            "In Progress", 
+            "Accepted", 
+            "3m 14s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6m 39s"
+        ]
+    ], 
+    "AURORA-682": [
+        [
+            "Open", 
+            "Reviewable", 
+            "10h 34m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 9h 3m"
+        ]
+    ], 
+    "AURORA-566": [
+        [
+            "Open", 
+            "Accepted", 
+            "88d 1h 58m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5d 15h 57m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 20m"
+        ]
+    ], 
+    "AURORA-564": [
+        [
+            "Open", 
+            "Accepted", 
+            "9s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 21m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "14h 21m"
+        ]
+    ], 
+    "AURORA-563": [
+        [
+            "Open", 
+            "Accepted", 
+            "1d 21h 29m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2h 15m"
+        ]
+    ], 
+    "AURORA-560": [
+        [
+            "Open", 
+            "Accepted", 
+            "3d 22h 6m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "3h 55m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 18h 2m"
+        ]
+    ], 
+    "AURORA-561": [
+        [
+            "Open", 
+            "Accepted", 
+            "5s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "31d 18h 59m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 32m"
+        ]
+    ], 
+    "AURORA-443": [
+        [
+            "Open", 
+            "Accepted", 
+            "66d 22h 55m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "58m 24s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "18h 37m"
+        ]
+    ], 
+    "AURORA-338": [
+        [
+            "Open", 
+            "Reviewable", 
+            "14h 8m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 10h 4m"
+        ]
+    ], 
+    "AURORA-1809": [
+        [
+            "Open", 
+            "Reviewable", 
+            "85d 17h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 2h 49m"
+        ]
+    ], 
+    "AURORA-1808": [
+        [
+            "Open", 
+            "Accepted", 
+            "49s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "6h 46m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 17h 48m"
+        ]
+    ], 
+    "AURORA-330": [
+        [
+            "Open", 
+            "Accepted", 
+            "188d 20h 44m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "96d 5h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "17h 35m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 8h 6m"
+        ]
+    ], 
+    "AURORA-1801": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 7h 26m"
+        ]
+    ], 
+    "AURORA-1802": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 9h 21m"
+        ]
+    ], 
+    "AURORA-836": [
+        [
+            "Open", 
+            "Accepted", 
+            "16s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "13m 26s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6m 25s"
+        ]
+    ], 
+    "AURORA-837": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 30m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "18s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 42m"
+        ]
+    ], 
+    "AURORA-26": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 58s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 20m"
+        ]
+    ], 
+    "AURORA-27": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 37m"
+        ]
+    ], 
+    "AURORA-25": [
+        [
+            "Accepted", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "6s"
+        ], 
+        [
+            "Open", 
+            "Accepted", 
+            "5d 1h 50m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "23h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "28s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "7m 21s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "AURORA-1386": [
+        [
+            "Open", 
+            "Accepted", 
+            "8s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "19h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 25m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "AURORA-1385": [
+        [
+            "Open", 
+            "In Progress", 
+            "162d 53m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "7s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "21h 27m"
+        ]
+    ], 
+    "AURORA-1382": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 46m"
+        ]
+    ], 
+    "AURORA-1383": [
+        [
+            "Open", 
+            "Accepted", 
+            "6m 44s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "5m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1m 31s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 10m"
+        ]
+    ], 
+    "AURORA-1381": [
+        [
+            "Accepted", 
+            "Open", 
+            "12m 30s"
+        ], 
+        [
+            "Open", 
+            "Accepted", 
+            "19d 3h 53m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "21h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "43m 17s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "11d 22h 6m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "130d 50m"
+        ]
+    ], 
+    "AURORA-1067": [
+        [
+            "Open", 
+            "Reviewable", 
+            "1m 4s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "46m 50s"
+        ]
+    ], 
+    "AURORA-667": [
+        [
+            "Open", 
+            "Accepted", 
+            "1d 7h 57m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "15s"
+        ], 
+        [
+            "Reviewable", 
+            "Accepted", 
+            "21h 48m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-1060": [
+        [
+            "Open", 
+            "Reviewable", 
+            "1d 6h 27m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5m 40s"
+        ]
+    ], 
+    "AURORA-900": [
+        [
+            "Open", 
+            "Accepted", 
+            "17s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5m 49s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "17h 31m"
+        ]
+    ], 
+    "AURORA-901": [
+        [
+            "Open", 
+            "Accepted", 
+            "17m 58s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 40m"
+        ]
+    ], 
+    "AURORA-1201": [
+        [
+            "Open", 
+            "Accepted", 
+            "8s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "30m 5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3m 23s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "30s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13m 11s"
+        ]
+    ], 
+    "AURORA-1361": [
+        [
+            "Open", 
+            "Accepted", 
+            "13s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "9m 27s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "11m 55s"
+        ]
+    ], 
+    "AURORA-1663": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "2h 21m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "22h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "69d 1h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 49m"
+        ]
+    ], 
+    "AURORA-1709": [
+        [
+            "Open", 
+            "Accepted", 
+            "13h 59m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1h 38m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 38m"
+        ]
+    ], 
+    "AURORA-1665": [
+        [
+            "Open", 
+            "Accepted", 
+            "3d 1h 37m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2h 35m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "45m 58s"
+        ]
+    ], 
+    "AURORA-1392": [
+        [
+            "Open", 
+            "Accepted", 
+            "5s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "7m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "22m 19s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 5m"
+        ]
+    ], 
+    "AURORA-1841": [
+        [
+            "Open", 
+            "In Progress", 
+            "14h 24m"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "4d 15h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "1m 56s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "75d 21h 9m"
+        ]
+    ], 
+    "AURORA-1840": [
+        [
+            "Open", 
+            "Accepted", 
+            "2h 57m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5h 15m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1h 34m"
+        ]
+    ], 
+    "AURORA-1511": [
+        [
+            "Open", 
+            "Accepted", 
+            "50s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "23d 10h 53m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 14h 21m"
+        ]
+    ], 
+    "AURORA-1510": [
+        [
+            "Open", 
+            "Accepted", 
+            "3m 17s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "25d 2h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "43m 59s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 21h 50m"
+        ]
+    ], 
+    "AURORA-402": [
+        [
+            "Open", 
+            "Reviewable", 
+            "1h 14m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 1m"
+        ]
+    ], 
+    "AURORA-377": [
+        [
+            "Open", 
+            "Accepted", 
+            "59d 3h 38m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5m 13s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "20d 21h 39m"
+        ]
+    ], 
+    "AURORA-375": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 20s"
+        ]
+    ], 
+    "AURORA-374": [
+        [
+            "Accepted", 
+            "Open", 
+            "3d 3h 51m"
+        ], 
+        [
+            "Open", 
+            "Accepted", 
+            "4h 20m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "5s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "54m 46s"
+        ]
+    ], 
+    "AURORA-373": [
+        [
+            "Open", 
+            "Reviewable", 
+            "3h 4m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1m 40s"
+        ]
+    ], 
+    "AURORA-1965": [
+        [
+            "Open", 
+            "Reviewable", 
+            "18h 43m"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "29m 36s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "AURORA-271": [
+        [
+            "Open", 
+            "Accepted", 
+            "13s"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "20s"
+        ], 
+        [
+            "Reviewable", 
+            "In Progress", 
+            "1d 20h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "5m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-179": [
+        [
+            "Open", 
+            "Accepted", 
+            "22h 25m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "15d 5h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "8s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 14h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "30d 22h 28m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 9s"
+        ]
+    ], 
+    "AURORA-1600": [
+        [
+            "Open", 
+            "Accepted", 
+            "5s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "12m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 16h 42m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "8d 6h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "3s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "3h 30m"
+        ]
+    ], 
+    "AURORA-537": [
+        [
+            "Open", 
+            "Accepted", 
+            "4s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "8m 10s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 4h 52m"
+        ]
+    ], 
+    "AURORA-536": [
+        [
+            "Open", 
+            "Accepted", 
+            "15h 41m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "16s"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "13s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "2d 7h 12m"
+        ]
+    ], 
+    "AURORA-302": [
+        [
+            "Open", 
+            "Accepted", 
+            "5d 21h 55m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "5s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-301": [
+        [
+            "Open", 
+            "Accepted", 
+            "63d 23h 15m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "6s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 2h 21m"
+        ]
+    ], 
+    "AURORA-877": [
+        [
+            "Open", 
+            "Accepted", 
+            "1h 3m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "4m 7s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "58m 59s"
+        ]
+    ], 
+    "AURORA-952": [
+        [
+            "Open", 
+            "Accepted", 
+            "23h 2m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2m 17s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "39m 8s"
+        ]
+    ], 
+    "AURORA-899": [
+        [
+            "Open", 
+            "Accepted", 
+            "31m 54s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "9s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19h 12m"
+        ]
+    ], 
+    "AURORA-956": [
+        [
+            "Open", 
+            "Accepted", 
+            "23m 41s"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "1m 40s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "28m 10s"
+        ]
+    ], 
+    "AURORA-954": [
+        [
+            "Open", 
+            "In Progress", 
+            "345d 2h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "27m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "19h 1m"
+        ]
+    ], 
+    "AURORA-897": [
+        [
+            "Open", 
+            "Accepted", 
+            "2h 24m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "50m 41s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "22m 37s"
+        ]
+    ], 
+    "AURORA-1108": [
+        [
+            "Open", 
+            "Accepted", 
+            "3d 22h 55m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "9d 21m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "4d 20h 41m"
+        ]
+    ], 
+    "AURORA-584": [
+        [
+            "Open", 
+            "Accepted", 
+            "1d 7h 36m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "4d 19h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "AURORA-1106": [
+        [
+            "Open", 
+            "Reviewable", 
+            "85d 8h 32m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1d 23h 23m"
+        ]
+    ], 
+    "AURORA-628": [
+        [
+            "Open", 
+            "Accepted", 
+            "2h 7m"
+        ], 
+        [
+            "Accepted", 
+            "Reviewable", 
+            "2m 26s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "34m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18h 29m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "88d 3h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3s"
+        ]
+    ], 
+    "AURORA-582": [
+        [
+            "Open", 
+            "Accepted", 
+            "2d 21h 41m"
+        ], 
+        [
+            "Accepted", 
+            "Resolved", 
+            "3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "AURORA-583": [
+        [
+            "Open", 
+            "Accepted", 
+            "4h 43m"
+        ], 
+        [
+            "Accepted", 
+            "In Progress", 
+            "1h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Reviewable", 
+            "57s"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "1m 22s"
+        ]
+    ], 
+    "AURORA-393": [
+        [
+            "Open", 
+            "Reviewable", 
+            "2d 3h 26m"
+        ], 
+        [
+            "Reviewable", 
+            "Resolved", 
+            "5d 23h 59m"
+        ]
+    ]
+}

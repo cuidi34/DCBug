@@ -1,0 +1,2278 @@
+True,configuration-issue,configuration-issue
+["fop's", 'configuration', 'file', 'is', 'distributed', 'under', 'Apache', 'License']
+False,configuration-issue,functional-issue
+['Apache;', 'mod_jk', '+', 'APJ13', 'problems', 'with', 'RequestDispatcher,forward()', 'BugRat', 'Report#373']
+True,configuration-issue,configuration-issue
+['LineNumberTable', 'toString', 'method', 'uses', 'jdk', '1,4', 'StringBuffer', 'append(StringBuffer)', 'method,']
+False,configuration-issue,network-issue
+['httpd-2,2,14', 'hangs', 'in', 'port_getn']
+False,configuration-issue,network-issue
+['binding', 'to', 'an', 'invalid', 'ip', 'address', 'in', 'Linux']
+False,configuration-issue,not sure
+['duplicate', 'license,txt', 'constrains', 'ClassLoader']
+True,configuration-issue,configuration-issue
+['Deep', 'link', 'into', 'Bugzilla', 'broken', 'on', 'ROOT/index,jsp']
+False,configuration-issue,functional-issue
+['Focus', 'problems', 'under', 'jdk', '1,4,1']
+False,configuration-issue,network-issue
+['HttpServletRequest,isAsyncStarted()', 'returns', 'false', 'when', 'a', 'Runnable', 'is', 'started']
+True,configuration-issue,configuration-issue
+['JSPs', 'no', 'longer', 'compile', 'in', 'Java', '8']
+False,configuration-issue,network-issue
+['Handling', 'of', 'font', 'URL', 'pointing', 'to', 'a', 'JAR', 'entry', "don't", 'work']
+False,configuration-issue,functional-issue
+['makeurl', 'command', 'does', 'not', 'allow', 'relative', 'paths']
+False,configuration-issue,network-issue
+['PATCH', 'Refactored', 'configuration;', 'font', 'detection', 'and', 'caching;', 'url', 'resolution']
+False,configuration-issue,network-issue
+['URL', 'mapping', 'case', 'sensitive']
+True,configuration-issue,configuration-issue
+['Undeploy', 'of', 'webapps', 'with', 'antiResourceLocking', 'in', 'META-INF\\context,xml', 'fails', 'after', 'Tomcat', 'restart']
+True,configuration-issue,configuration-issue
+['APR', 'compile', 'failure', 'with', 'Visual', 'Studio', '2013']
+False,configuration-issue,functional-issue
+['Building', '1,3', 'fails', 'with', 'NCDFE', 'SerializerTrace']
+False,configuration-issue,network-issue
+['missing', 'classpath', 'entry', 'in', '/buildbat', 'and', '/buildsh']
+True,configuration-issue,configuration-issue
+['Collections', "doesn't", 'build', 'with', 'jdk12', 'javac']
+True,configuration-issue,configuration-issue
+['Starting', 'and', 'stopping', 'the', 'servlet', 'engine', 'in', 'ant']
+False,configuration-issue,functional-issue
+['Could', 'not', 'compile']
+False,configuration-issue,not sure
+['sessionget-attribute', 'bug']
+False,configuration-issue,functional-issue
+['lock', 'files', "don't", 'work', 'in', 'JDK', '11']
+True,configuration-issue,configuration-issue
+['Error', 'building', 'XercesC']
+True,configuration-issue,configuration-issue
+['Problem', 'to', 'config', 'Soap', '23', '+', 'Tomcat', '405', '+', 'xerces', '144']
+False,configuration-issue,functional-issue
+['xdatatable', "doesn't", 'support', 'Set']
+False,configuration-issue,network-issue
+['Document', 'API', 'incompatibility', 'with', 'HttpClient', '20']
+True,configuration-issue,configuration-issue
+['Build', 'fails', 'on', 'AIX', '433', '(IBM', 'RS/6000),', 'VisualAge', 'C++', 'Pro', 'v5']
+True,configuration-issue,configuration-issue
+['Bug', 'Reporting', "System'", 'link', 'on', 'Struts', 'home', 'page', 'is', 'broken']
+False,configuration-issue,not sure
+['Accounts', 'with', '']
+True,configuration-issue,configuration-issue
+['Headers', 'install', 'in', 'wrong', 'directory']
+True,configuration-issue,configuration-issue
+['Bad', 'links']
+False,configuration-issue,functional-issue
+['Sending', 'mail', 'to', 'local', 'recipient', 'and', 'remote', 'recipient', 'fails', 'to', 'send', 'to', 'remote', 'recipient']
+False,configuration-issue,functional-issue
+['Error', '500']
+False,configuration-issue,network-issue
+['Bounced', 'mail', 'to', 'unknown', 'sender', 'address', 'or', 'SMTP', 'server', 'hangs', 'James']
+True,configuration-issue,configuration-issue
+['Microsoft', 'Update', 'KB920342;', 'Apache', '2,2,3', 'service', "doesn't", 'start']
+False,configuration-issue,functional-issue
+['nph-', 'CGIs', 'and/or', 'server-pushed', 'methodes', 'not', 'working', 'properly']
+False,configuration-issue,network-issue
+['FOP', '0,95', 'does', 'not', 'resolve', 'server', 'path', 'names,']
+False,configuration-issue,functional-issue
+['Problem', 'clustering', 'tomcat', 'when', 'a', 'failed', 'server', 'is', 'restarting']
+False,configuration-issue,network-issue
+['Sendfile', 'broken', 'in', '2,2,2', 'on', 'Solaris', '10', 'when', 'using', 'Server', 'parsed', 'html', 'includes']
+False,configuration-issue,network-issue
+['Unable', 'to', 'connect', 'via', 'DAV', '(server', 'is', '10,4,9;', 'client', 'is', '10,4,9)']
+False,configuration-issue,network-issue
+['iPlanet', '/', 'SunONE', 'web', 'server', 'tomcat', 'connector', 'connection', 're-use', 'disabled']
+False,configuration-issue,functional-issue
+['(OS', '10048)', 'error', 'during', 'installation']
+False,configuration-issue,functional-issue
+['PATCH', 'cforms', 'libraries', 'are', 'not', 'loaded']
+False,configuration-issue,functional-issue
+['PATCH', 'Endorsed', 'libraries', 'are', 'not', 'considered', 'properly,']
+False,configuration-issue,functional-issue
+['Execute', 'does', 'not', 'properly', 'change', 'drive', 'for', 'Windows']
+False,configuration-issue,gui-issue
+['Tomcat', '(4,1,7', '-', '4,1,9)-LE-jdk14', 'ignores', 'error', 'page', 'specified', 'in', 'web,xml']
+True,configuration-issue,configuration-issue
+['JDK', '1,4,2_05', 'has', 'new', 'org,apache,xpath,compiler', 'api,,,', 'now', 'private', 'm_functions', 'field']
+False,configuration-issue,permission-issue
+['cope', 'with', 'OpenSSL', '0,9,7g', 'API', 'changes']
+False,configuration-issue,permission-issue
+['Fix', 'incompatible', 'API', 'changes', 'to', 'TransformSpi']
+True,configuration-issue,configuration-issue
+['Add', 'a', 'text-search', 'in', 'the', 'SVG', 'Browser']
+False,configuration-issue,not sure
+['Add', 'marker', 'support']
+True,configuration-issue,configuration-issue
+['JUnit', 'task', 'not', 'compatible', 'w/', 'JUnit', '3,5']
+True,configuration-issue,configuration-issue
+['PATCH', 'jdk1,3', 'compatibility', 'fix', 'for', 'fop-0_94']
+True,configuration-issue,configuration-issue
+['Transform', 'TRANSFORM_XPATH2FILTER', 'subtract', 'filter', 'bug', 'in', '1,3', 'release']
+False,configuration-issue,not sure
+['NoClassDefFoundError', 'IDebugViewAdapter']
+False,configuration-issue,not sure
+['Bug', 'resolving', 'CollectionTypes', 'in', 'AbstractTypeResolver']
+True,configuration-issue,configuration-issue
+['SysML', '14releng', 'promote', 'bug']
+True,configuration-issue,configuration-issue
+['Debugger', 'mapping', '-', 'when', 'an', 'extra', 'directory', 'is', 'added', 'to', 'the', 'project', '-', 'breakpoints', 'are', 'ignored']
+True,configuration-issue,configuration-issue
+['Run/Debug', 'As', '->', 'PHP', 'Script', 'will', 'not', 'start', 'if', 'a', 'configuration', 'with', 'xdebug', 'was', 'used', 'before', 'that']
+False,configuration-issue,network-issue
+['Incorrect', 'default', 'Launch', 'URL', 'when', 'Run/Debug', 'As', 'PHP', 'Web', 'Page']
+False,configuration-issue,gui-issue
+['get', 'rid', 'of', 'all', 'fragmentproperties', 'in', 'UI', 'fragments']
+True,configuration-issue,configuration-issue
+['DBCS', 'DBCS', 'file', 'and', 'path', 'name']
+False,configuration-issue,gui-issue
+['Adding', 'a', 'bug', 'reports', 'page', 'to', 'the', 'Web', 'site']
+False,configuration-issue,gui-issue
+['RTSC', 'build', 'profile', 'should', 'be', 'set', 'to', "'whole_program_debug'", 'in', 'wizard', 'page']
+True,configuration-issue,configuration-issue
+['Unnecessary', 'dependency', 'of', 'rseui', '->', 'debugui']
+True,configuration-issue,configuration-issue
+['Facet', 'actions', 'sort', 'does', 'not', 'termination', 'for', 'certain', 'version', 'change', 'actions']
+True,configuration-issue,configuration-issue
+['New', 'UI', 'plugin', 'dependency', 'introduced', 'in', 'WTP', '15', 'model', 'plugin']
+True,configuration-issue,configuration-issue
+['j2ee', 'EAR', 'with', 'J2EE', 'modules', 'in', 'a', 'directory', 'fail', 'to', 'import', 'properly']
+True,configuration-issue,configuration-issue
+['Make', 'JETEmitter', 'project', 'optional']
+True,configuration-issue,configuration-issue
+['Workarounds', 'need', 'fixing', 'for', 'capability', 'with', 'Eclipse', '31']
+False,configuration-issue,database-issue
+['perf*', 'BeaninfoClassAdapter', 'should', 'specify', 'parser', 'pool', 'option']
+False,configuration-issue,network-issue
+['http//javasuncom/xml/ns/j2ee/jsp_2_0xsd', 'does', 'not', 'have', 'license', 'associated']
+True,configuration-issue,configuration-issue
+['Investigate', 'Dependency', 'graph', 'builder', 'as', 'resource', 'change', 'listener']
+True,configuration-issue,configuration-issue
+['EAR', 'import', 'does', 'not', 'place', 'classes', 'in', 'correct', 'location']
+True,configuration-issue,configuration-issue
+['j2ee', "'EAR", "Libraries'", 'does', 'not', 'include', 'JAR', 'files', 'in', 'directories']
+True,configuration-issue,configuration-issue
+['hotbug', 'JEE5', 'Web', 'model', 'does', 'not', 'update', 'on', 'changes', 'in', 'webxml']
+False,configuration-issue,performance-issue
+['J2EEModuleVirtualComponentgetManifestReferences()', 'performance']
+True,configuration-issue,configuration-issue
+['SDK', "doesn't", 'include', 'other', 'source', 'files']
+True,configuration-issue,configuration-issue
+['Two', 'SDK', 'source', 'plugins', 'mistakenly', 'jarred']
+False,configuration-issue,gui-issue
+['arch', 'orgeclipsewstwsi', 'mixes', 'model', 'and', 'UI', 'code']
+False,configuration-issue,functional-issue
+['Turn', 'off', 'the', 'Execution', 'framework', 'debug']
+False,configuration-issue,not sure
+['NLS33plugins', 'referenced', 'by', 'orgeclipsewstrdb_userdocfeature', 'is', 'missing']
+False,configuration-issue,not sure
+['bugs', 'in', 'tptp_decodeBase64()']
+False,configuration-issue,test-issue
+['orgeclipsehyadestest*', 'plugins', 'missing', 'in', 'WSWB', '30']
+True,configuration-issue,configuration-issue
+['EMF', 'Java', 'Example', 'installed', 'causes', 'problem']
+True,configuration-issue,configuration-issue
+['coredump', 'while', 'parsing', 'optHeap', 'on', 'ThreeTierQueues', 'applet']
+True,configuration-issue,configuration-issue
+['coredump', 'while', 'parsing', 'optHeap', 'on', 'ThreeTierQueues', 'applet']
+True,configuration-issue,configuration-issue
+['Version', 'mismatch', 'in', 'orgeclipsehyadesmodelshierarchy', 'feature', 'and', 'plugin']
+False,configuration-issue,functional-issue
+['Trace', 'loaders', "don't", 'work', 'in', 'the', '40', 'environment']
+True,configuration-issue,configuration-issue
+['Platform', 'Specific', 'The', 'automation', 'framework', 'has', 'issues', 'on', 'non-Windows', 'platforms']
+False,configuration-issue,functional-issue
+['libpiAgentso', 'missing', 'from', 'z/OS', 'Agent', 'Controller', 'zip', 'due', 'to', 'build', 'error']
+False,configuration-issue,functional-issue
+['zOS', 'manual', 'build', 'of', 'the', 'piAgent/RAC', 'fails', '-', 'initial', 'c89', 'compile', 'exits', 'with', 'code', '137']
+True,configuration-issue,configuration-issue
+['Agent', 'Controller', 'in', '401', 'configuration', 'incorrect', 'due', 'to', 'plugin', 'jar', 'name', 'change']
+True,configuration-issue,configuration-issue
+['Broken', 'link', 'in', 'on-line', 'navigation', 'tree']
+False,configuration-issue,functional-issue
+['Statistical', 'Agents', 'do', 'not', 'work', 'through', 'the', 'IAC']
+False,configuration-issue,test-issue
+['Attachment', 'viewing', 'in', 'Test', 'Log', 'Viewer', "doesn't", 'work', 'for', 'JPG', 'files']
+True,configuration-issue,configuration-issue
+['Update', 'legal', 'doc', 'for', 'log4J']
+False,configuration-issue,not sure
+['(New', 'AC)', 'Default', 'setting', 'for', 'TPTP_AC_HOME', 'in', 'serviceconfgxml', 'is', 'bad']
+True,configuration-issue,configuration-issue
+['Webdoc', '(README)', 'Cannot', 'use', 'IAC', 'in', 'multiple', 'instances', 'of', 'the', 'Eclipse', 'workbench']
+True,configuration-issue,configuration-issue
+['Remote', 'Log', 'Import', 'with', 'Filter', 'does', 'not', 'work', 'due', 'to', 'change', 'in', 'File', 'Transfer', 'behaviour']
+False,configuration-issue,gui-issue
+['Restore', 'the', 'UML2SD', 'log', 'interactions', 'view', 'as', 'in', 'AC12']
+False,configuration-issue,gui-issue
+['placeholder', 'for', 'the', 'UML2SD', 'view']
+False,configuration-issue,functional-issue
+['VE', 'hangs;', 'times', 'out;', 'then', 'throws', 'NPE', 'doing', 'pause/reload']
+True,configuration-issue,configuration-issue
+['(Plat)', 'RAC', 'plugin', 'system', 'has', 'version', 'number', 'dependency', 'in', 'requires']
+True,configuration-issue,configuration-issue
+['Should', 'remove', 'some', 'plugin', 'dependencies', 'from', 'pluginxml']
+True,configuration-issue,configuration-issue
+['(Provisional)', 'Remote', 'console', 'feature', 'not', 'working', 'if', 'target', 'OS', 'is', 'Linux']
+False,configuration-issue,functional-issue
+['Cannot', 'add', 'JFace', 'support', 'to', 'project', '-', 'NPE']
+False,configuration-issue,functional-issue
+['VE', 'errors', 'on', 'M6']
+False,configuration-issue,functional-issue
+['Broken', 'link', 'to', 'download', 'ChartBase', 'module']
+False,configuration-issue,not sure
+['review', 'usedependencies', 'must', 'die;', 'Patch', 'v2']
+False,configuration-issue,functional-issue
+['review', 'Problem', 'with', 'the', 'regex', 'in', 'checksetuppl', 'to', 'find', 'dependancies;', 'v2']
+False,configuration-issue,functional-issue
+['review', 'Importxml', 'will', 'fail', 'if', 'versioncache', 'needs', 'update;', 'Fix', '-', 'needed', 'on', '216', 'as', 'well', 'as', '217']
+False,configuration-issue,functional-issue
+['review', 'Importxml', 'will', 'fail', 'if', 'versioncache', 'needs', 'update;', 'Fix', '-', 'needed', 'on', '216', 'as', 'well', 'as', '217']
+False,configuration-issue,test-issue
+['review', 'run', 'checksetuppl', 'non-interactively', '(for', 'use', 'with', 'cron', 'jobs', 'on', 'test', 'installs);', 'Optionally', 'non-interactive', 'checksetuppl']
+False,configuration-issue,performance-issue
+['review', 'If', 'multiple', 'cookies', 'exist;', 'the', 'least', 'significant', 'is', 'assigned;', 'Fix', 'for', 'both', '121419', 'and', '165685']
+False,configuration-issue,test-issue
+['review', 'run', 'checksetuppl', 'non-interactively', '(for', 'use', 'with', 'cron', 'jobs', 'on', 'test', 'installs);', 'v2']
+False,configuration-issue,gui-issue
+['review', 'Linkify', 'script', 'to', 'use', 'GetBugLink', 'on', 'texts', 'provided', 'by', 'user;', 'Patch', 'v2']
+False,configuration-issue,gui-issue
+['review', 'Templatise', 'all', 'calls', 'to', 'DisplayError;', 'Patch', 'v1']
+False,configuration-issue,not sure
+['review', 'Start', 'using', 'CGIpm;', 'v3']
+False,configuration-issue,functional-issue
+['review', 'Fix', 'site-navigationhtmltmpl', 'to', 'link', 'to', 'flags', 'CGI', 'and', 'not', 'attachments', 'one;', 'Patch', 'v1']
+False,configuration-issue,not sure
+['review', 'Start', 'using', 'CGIpm;', 'v51']
+True,configuration-issue,configuration-issue
+['perl', '56', 'configcgi', 'dies', 'when', 'it', 'tries', 'to', 'use', 'BugzillaDB']
+False,configuration-issue,not sure
+['Trailing', 'slash']
+False,configuration-issue,not sure
+['DOGFOOD', 'PORKJOCKEYURL', 'Dispatching', 'Part', 'II']
+False,configuration-issue,not sure
+['Remove', '#ifndef', 'NECKO', 'from', 'tree']
+False,configuration-issue,not sure
+['replace', 'nsIIOService', 'constructors', 'with', 'CreateInstance']
+False,configuration-issue,network-issue
+['url', 'bar', 'does', 'not', 'update']
+False,configuration-issue,functional-issue
+['Initial', 'installation', 'of', 'M10', 'on', 'OpenVMS', 'fails', 'in', 'LIBGTK']
+True,configuration-issue,configuration-issue
+['DOGFOODIME', 'CJK', 'input', 'disabled', 'in', 'location', 'field']
+False,configuration-issue,network-issue
+['figure', 'out', 'what', 'resource', 'URLs', 'should', 'really', 'be']
+False,configuration-issue,permission-issue
+['Outdated', 'plug-in', 'Sherlock', 'plug-in', 'for', 'Google', 'is', 'outdated']
+False,configuration-issue,network-issue
+['browser', "doesn't", 'handle', 'simple', 'response', 'of', 'HTTP', 'protocol']
+True,configuration-issue,configuration-issue
+['Inappropriate', 'source', 'into', 'the', 'plaintext', 'copy']
+False,configuration-issue,gui-issue
+['Multi-paragraph', 'blockquotes', 'do', 'not', 'render', 'correctly']
+False,configuration-issue,security-issue
+['Plug-in', 'for', 'ActiveX', 'Switched', 'parameter', 'in', 'XPconnectcpp', '/', 'xpc_GetCLSIDForType', '/', 'keyMimeTypeQueryValue']
+True,configuration-issue,configuration-issue
+['implement', 'RDF', 'resource', 'pseudo-aggregation']
+False,configuration-issue,not sure
+['remove', 'STREAM_CONVERTER_HACK', 'from', 'file', 'channel']
+False,configuration-issue,functional-issue
+['use', 'of', '#ifndef', 'XP_MAC', 'is', 'not', 'needed', 'in', 'walletcpp']
+False,configuration-issue,functional-issue
+['triple', 'static', 'link', 'of', 'dbm', 'code']
+False,configuration-issue,functional-issue
+['trace-malloc', 'broken', 'on', 'fxdbug-win32-tbox', '(due', 'to', 'Vista', 'SDK?)']
+False,configuration-issue,functional-issue
+['Windows', 'After', 'bug', '551254,', 'Firefox/SeaMonkey', 'fails', 'to', 'build', 'or', 'run', 'with', 'error', 'like', '?']
+True,configuration-issue,configuration-issue
+['Cannot', 'build', 'old', 'Windows', 'SDKs', 'since', 'Bug', '830347']
+False,configuration-issue,not sure
+['Bug', '906072', 'completely', 'broke', 'IME', 'context', 'management', 'when', 'password', 'field', 'gets', 'focus']
+False,configuration-issue,not sure
+['browser_pluginCrashCommentAndURLjs', 'hangs', 'ubuntu', 'ec2', 'slaves', 'in', 'conjunction', 'with', 'browser_bug410900js']
+True,configuration-issue,configuration-issue
+['SeaMonkey', 'Windows', 'bustage', 'in', 'nsUrlWidget', 'after', 'bug', '581596', 'landing']
+False,configuration-issue,network-issue
+['Core', 'dump', 'on', 'http//wwwvecernji-listhr/', 'page', 'load']
+False,configuration-issue,test-issue
+['alfred', 'chrome', 'out', 'of', "date--won't", 'run', 'on', 'moz081']
+True,configuration-issue,configuration-issue
+['Web', 'console', 'is', 'buggy', 'in', 'window', 'mode']
+False,configuration-issue,test-issue
+['Today', 'repository', 'cause', 'a', 'black', 'display', 'on', 'SGS2/Otoro', 'due', 'to', 'regression', 'from', 'bug', '778079']
+True,configuration-issue,configuration-issue
+['bugzilla', 'searches', 'timing', 'out', '(loading', 'bugs', 'directly', 'works', 'fine)']
+False,configuration-issue,functional-issue
+['Port', '|Bug', '600435', '-', 'XULRunner', 'universal', 'for', 'i386/x64_64', 'fails', 'to', 'unify', 'nspr-config|', 'to', 'comm-central']
+False,configuration-issue,functional-issue
+['Trunk', 'builds', 'broken', 'by', 'bug', '556214', 'undeclared', "'MonitorAutoEnter'"]
+True,configuration-issue,configuration-issue
+['Port', 'build', 'system', 'changes', 'from', 'Bug', '585016', 'and', 'Bug', '924615', 'to', 'comm-central']
+True,configuration-issue,configuration-issue
+['Port', '|Bug', '1044162', '-', 'make', 'install', 'locations', 'for', 'EXTRA_{PP_,}JS_MODULES', 'better|', 'to', 'comm-central']
+False,configuration-issue,functional-issue
+['Fix', 'build', 'problems', 'caused', 'by', 'Bug', '847195', 'error', 'nsIDOMNamedNodeMaph', 'No', 'such', 'file', 'or', 'directory']
+True,configuration-issue,configuration-issue
+['no', 'response', 'from', 'email', 'to', 'ftp-stage@mozillaorg', 'for', 'releases']
+True,configuration-issue,configuration-issue
+['Old', 'link', 'to', 'Bugzilla', 'Helper']
+False,configuration-issue,not sure
+['Alt-Start', '=>', 'Alt-Home', '(in', 'Ga', 'naar)']
+True,configuration-issue,configuration-issue
+['Navigator', "doesn't", 'build']
+True,configuration-issue,configuration-issue
+['Mozilla', 'does', 'not', 'compile', 'on', 'NetBSD/arm32']
+False,configuration-issue,functional-issue
+['No', 'not', 'shared', 'library', 'support', 'in', 'Makefiles']
+False,configuration-issue,not sure
+['libplds21so', "can't", 'open', 'file', 'errno=2']
+True,configuration-issue,configuration-issue
+['BUILD', 'messages', 'about', 'OSF', 'in', 'Linux', 'build']
+True,configuration-issue,configuration-issue
+['PP', 'NSPR', 'building', 'incorrectly', 'on', 'FreeBSD', '30']
+False,configuration-issue,not sure
+['PR_ImportFile;', 'etc', 'should', 'initialize', 'NSPR', 'implicitly']
+True,configuration-issue,configuration-issue
+['Shared', 'library', 'suffix', 'incorrectly', 'assumed', 'to', 'be', 'so', 'in', 'several', 'places']
+False,configuration-issue,not sure
+['minor', 'tweak', 'to', 'Makefilein', 'for', 'editor/txmgr/src', 'and', 'editor/txtsvc/src']
+False,configuration-issue,gui-issue
+['JAPR2', 'Bargain', 'America', 'link', 'incorrect', 'in', 'sidebar']
+False,configuration-issue,functional-issue
+['DEPR1', 'investorworld', 'link', 'not', 'working']
+True,configuration-issue,configuration-issue
+['DECustomize', 'link', 'for', 'InvestorWorld', 'should', 'be', 'disabled']
+False,configuration-issue,network-issue
+['FIXabout', 'protocol', 'directory', 'needs', 'clean', 'up']
+False,configuration-issue,gui-issue
+['Nightly', '13', 'are', 'debug', 'builds', '(file', 'size', '~', '40MB)', '(missing', 'MSVCRTDDLL)']
+False,configuration-issue,not sure
+['14', "won't", 'launch']
+True,configuration-issue,configuration-issue
+['Checkin', 'for', 'Bug', '240552', 'broke', 'clobber', 'builds', 'and', 'builds', 'w/', 'disable-cookie']
+False,configuration-issue,functional-issue
+['SuiteRunner', "doesn't", 'compile', 'with', '--enable-debug']
+False,configuration-issue,test-issue
+['Recover', 'from', 'bug', '552703', 'test', 'outage', 'after', 'upgrading', 'buildbotcustom']
+True,configuration-issue,configuration-issue
+['Port', '|Bug', '827303', '-', 'Firefox', 'core', 'and', 'crypto', 'services', 'components', 'assume', 'services/sync', 'is', 'built|']
+False,configuration-issue,not sure
+['Fix', 'OSX64', 'buildage', 'from', '|Bug', '780561', '-', '(new-packager)', 'Overhaul', 'the', 'packager|']
+False,configuration-issue,security-issue
+['nsFilePickercpp', 'deallocates', 'buffer', 'incorrectly']
+False,configuration-issue,network-issue
+['DEPR2', 'Location', 'Search', 'w/o', 'Search', 'entry']
+True,configuration-issue,configuration-issue
+['567920', 'byte', 'leak', 'on', 'Linux']
+False,configuration-issue,gui-issue
+['icomputerbe', '-', 'has', 'some', 'text', 'truncated']
+False,configuration-issue,test-issue
+['Testopia', 'is', 'not', 'compatible', 'with', 'Bugzilla', '45', 'due', 'to', 'a', 'DB', 'schema', 'change']
+False,configuration-issue,network-issue
+['Thunderbird', 'mozilla-central', "'Linux", 'comm-central', "build'", 'do', 'not', 'compile', 'after', 'bug', '511326', 'landing']
+True,configuration-issue,configuration-issue
+['OSX', 'bustage', 'from', 'bug', '895047']
+True,configuration-issue,configuration-issue
+['OSX', 'build', 'bustage', 'on', 'comm-central', 'from', 'bug', '941409', '(layout/xul/nsMenuFramecpp68264', 'error', 'no', 'member', 'named', "'anonid'", 'in', "'nsGkAtoms')"]
+False,configuration-issue,functional-issue
+['Port', 'bug', '1101170', '(Move', 'Linux', 'desktop', 'sandboxing', 'code', 'into', 'plugin-container)', 'to', 'fix', 'bustage', 'Missing', 'file(s)', 'bin/libmozsandboxso']
+True,database-issue,database-issue
+['SQL', 'task', "doesn't", 'work', 'with', 'Informix', 'IDS', '9,2']
+False,database-issue,functional-issue
+['Search', 'result', 'of', 'Bugzilla', "isn't", 'correct']
+True,database-issue,database-issue
+['Selection', 'section(selection', 'radio/selection', 'table)', 'of', 'ConnectionFilterPropertyPage', 'needs', 'to', 'be', 'disabled', 'for', 'database', 'connection', 'profile', 'objects']
+True,database-issue,database-issue
+['need', 'a', 'similar', 'allowQuotedDML()', 'api', 'on', 'database']
+True,database-issue,database-issue
+['Failed', 'to', 'run', 'the', 'sql', 'if', 'the', 'database', 'is', 'disconnect']
+True,database-issue,database-issue
+['a', "'-'", 'in', 'de', 'database', 'name', 'crashes', 'the', 'connection']
+True,database-issue,database-issue
+['appclassphp', 'Patch', 'to', 'add', 'Marketplace', 'Database', 'Connections']
+True,database-issue,database-issue
+['An', 'issue', 'with', 'Action', 'in', 'Symptom', 'Database', 'Editor']
+True,database-issue,database-issue
+['EDT', 'Supports', 'more', 'database', 'vendors']
+True,database-issue,database-issue
+['Encoding', 'error', 'while', 'export', 'Symptom', 'Database', 'that', 'contains', 'GB18030', 'chars']
+True,database-issue,database-issue
+['RT', 'Database', 'Cursors', 'are', 'not', 'closed', 'when', 'using', 'Batch', 'mode']
+True,database-issue,database-issue
+['Symptom', 'Database', 'preference', 'page', 'should', 'be', 'under', 'Profiling', 'and', 'logging']
+True,database-issue,database-issue
+['An', 'Issue', 'with', 'Localized', 'Message', 'in', 'Symptom', 'Database', 'editor']
+True,database-issue,database-issue
+['Set', 'Profile', 'for', 'Editor', 'drop', 'down', 'Database', 'Name', 'selection', 'does', 'not', 'work']
+True,database-issue,database-issue
+['Data', 'Source', 'Explorer', 'view', '-', 'properties', 'on', 'Database', 'root', 'has', 'blank', 'dialog']
+True,database-issue,database-issue
+['SQL', 'database', 'binding', 'resources', 'should', 'not', 'let', 'user', 'create', 'duplicate', 'name']
+True,database-issue,database-issue
+['Error', 'message', 'of', 'create', 'records', 'from', 'sql', 'database', 'does', 'not', 'clear']
+True,database-issue,database-issue
+['Update', 'of', 'problems', 'database', 'fails']
+True,database-issue,database-issue
+['Test', 'Connection', "doesn't", 'give', 'any', 'feedback', 'if', 'the', 'wrong', 'database', 'type', 'is', 'selected']
+True,database-issue,database-issue
+['review', 'Remembered', 'query', 'options', 'need', 'regrouping;', 'Patch', 'v1']
+True,database-issue,database-issue
+['review', 'Remembered', 'query', 'options', 'need', 'regrouping;', 'Patch', 'v2']
+True,database-issue,database-issue
+['review', 'Remembered', 'query', 'options', 'need', 'regrouping;', 'Patch', 'v3']
+True,database-issue,database-issue
+['review', 'Move', 'the', 'quip', 'list', 'into', 'the', 'database;', 'patch;', 'atttempt', '3']
+True,database-issue,database-issue
+['review', 'Remembered', 'query', 'options', 'need', 'regrouping;', 'Patch', 'v3']
+True,database-issue,database-issue
+['review', 'Query', '-', 'multiple-select', 'product', '(and', 'probably', 'component)', 'broken;', 'Patch']
+True,database-issue,database-issue
+['review', 'Query', 'for', 'CC/longdesc/OR', 'takes', 'long', 'time;', 'Revised', 'with', 'readability', 'improvements']
+False,database-issue,functional-issue
+['rampant', 'uninitialized', 'value', 'error', 'in', 'log', 'with', 'fix', 'for', 'bug', '255512']
+True,database-issue,database-issue
+['Startup', 'failure', 'since', 'Bug', '589032', '-', 'Error', 'Error', 'setting', 'up', 'timezone', 'database', 'TypeError', "Componentsclassesmozillaorg/storage/statement-wrapper;1'", 'is', 'undefined']
+False,database-issue,gui-issue
+['IMEIME-CommitIME-HighLightDB', 'text', 'input', 'always', 'appended', 'regardless', 'of', 'cursor', 'position']
+False,database-issue,functional-issue
+['Is', 'DBM', 'needed', 'if', 'the', 'DiskCache', 'is', 'not', 'used?']
+True,database-issue,database-issue
+['Run', 'SQL', 'from', 'bug', '495740', 'on', 'support-stage', 'for', 'testing']
+False,database-issue,configuration-issue
+['bugzilla', 'searches', 'take', 'forever', '(or', 'never', 'complete)']
+True,database-issue,database-issue
+['db-authenticator', 'wont', 'reuse', 'pool', 'connections']
+True,database-issue,database-issue
+['DatabaseServlet', 'reads', 'from', 'getResourceStream', 'and', 'writes', 'to', 'getRealPath']
+True,database-issue,database-issue
+['Database', 'connection', 'stops', 'action', 'servlet', 'from', 'loading']
+True,functional-issue,functional-issue
+['Logging', 'level', 'now', 'defaults', 'to', 'debug', '-', 'crashed', 'server']
+True,functional-issue,functional-issue
+['patch', 'Blockjava', 'loop', 'terminator', 'fails', 'due', 'to', 'a', 'bug']
+True,functional-issue,functional-issue
+['case', 'matching', 'failure', 'in', '<?xml', '', '?>', 'tag']
+False,functional-issue,test-issue
+['testXSLT', 'linked', 'with', 'hard', 'coded', 'path', 'to', 'xerces', 'library']
+True,functional-issue,functional-issue
+['error', 'messages', "don't", 'show', 'the', 'error', 'name']
+True,functional-issue,functional-issue
+['Cannot', 'find', 'ActionMappings']
+True,functional-issue,functional-issue
+['Parser', 'do', 'not', 'throw', 'exceptions']
+True,functional-issue,functional-issue
+['Exception', 'when', 'running', 'browser', 'in', 'binary', 'distribution']
+False,functional-issue,gui-issue
+['MultiboxTagdoAfterBody()', 'always', 'aborts', 'page', 'rendering']
+True,functional-issue,functional-issue
+['getLength', 'error']
+True,functional-issue,functional-issue
+['NULL', 'sysId', 'causes', 'exception', 'when', 'using', 'a', 'DOM_Document', 'as', 'XSLTInputSource']
+True,functional-issue,functional-issue
+['javaxservletjspJspException', 'Cannot', 'find', 'message', 'resources', 'under', 'key', 'orgapachestrutsactionMESSAGE']
+True,functional-issue,functional-issue
+['accessing', 'localhost8080/cocoon/', 'gives', 'ComponentException']
+False,functional-issue,not sure
+['Calendar', 'replacing', 'Date', 'is', 'wsdl', 'transformation']
+True,functional-issue,functional-issue
+['Upper', 'case', 'conversion', 'of', 'special', 'characters', 'causes', 'javac', 'error']
+True,functional-issue,functional-issue
+['email', 'Errors', 'when', 'sending', 'MultiPartEmail', 'with', 'another', 'email', 'as', 'an', 'attachment']
+True,functional-issue,functional-issue
+['Exception', 'javalangException', 'FIXME']
+True,functional-issue,functional-issue
+['ServletContextProviderImpljava36', 'cannot', 'resolve', 'symbol']
+False,functional-issue,network-issue
+['Exception', 'handling', 'in', 'HttpClient', 'requires', 'redesign']
+False,functional-issue,gui-issue
+['Xalan', 'C', 'crashes', 'with', 'this', 'style', 'sheet']
+False,functional-issue,not sure
+['Bugs', 'in', 'TTFReader']
+False,functional-issue,not sure
+['PATCH', 'Bugfix', 'for', 'XMLReader', 'Support', 'for', 'other', 'ImageReaders']
+False,functional-issue,not sure
+['mod_rewrite', 'Set-Cookie', 'bug']
+False,functional-issue,configuration-issue
+['Unable', 'to', 'create', 'document', 'on', 'repeating', 'basis']
+True,functional-issue,functional-issue
+['orgapachefopappsCommandLineOptions#checkSettings()', '(0181-DEV)', 'throws', 'NullPointerException']
+False,functional-issue,not sure
+['ImageTag', 'bug', 'in', 'altKey', 'attribute']
+True,functional-issue,functional-issue
+['orgapachecocoonProcessingException', 'Exception', 'in', 'HandlerjavautilNoSuchElementException', 'when', 'starting', 'Cocoon']
+True,functional-issue,functional-issue
+['Error', 'DTD', 'file', 'not', 'found', 'if', 'XML', 'file', 'name', 'contains', 'character', 'such', 'as', '%']
+False,functional-issue,network-issue
+['checking', 'out', 'a', 'url', 'ending', 'in', 'slash', '(/)', 'makes', 'lossy', 'wc']
+True,functional-issue,functional-issue
+['no', 'match', 'with', 'simple', 'xml', 'file']
+True,functional-issue,functional-issue
+['null', 'pointer', 'exception', 'in', 'TransportMessageread()']
+True,functional-issue,functional-issue
+['Error', 'masked', 'by', 'nested', 'try-catch', 'blocks']
+False,functional-issue,security-issue
+['LinkTag/RequestUtilscomputeParameters', '-', 'no', 'longer', 'supports', 'non-String', 'bean', 'properties', 'as', 'parameters']
+True,functional-issue,functional-issue
+['Assigning', 'null', 'value', 'to', 'variable', 'appears', 'to', 'be', 'a', 'no-op']
+True,functional-issue,functional-issue
+['calling', 'MessageElement#getChildren', 'with', 'a', 'Text-Only', 'content', 'returns', 'an', 'empty', 'list']
+False,functional-issue,configuration-issue
+['Error', 'when', '<import>', 'refers', 'to', 'a', 'schema', 'inlined', 'in', 'another', 'XML', 'document']
+True,functional-issue,functional-issue
+['Exception', 'is', 'thrown', 'when', 'building', 'a', 'project', 'that', 'uses', 'extend', 'in', 'projectxml']
+True,functional-issue,functional-issue
+['javanetInetAddressgetAllByName(null)', 'throws', 'UnknownHostException', 'instead', 'of', 'valid', 'InetAddress']
+False,functional-issue,gui-issue
+['Problems', 'uploading', 'image', 'file', 'using', 'multipart', 'form', 'request']
+True,functional-issue,functional-issue
+['unintuitive', 'NullPointerException', 'for', 'wrong', 'configuration', 'entry']
+False,functional-issue,permission-issue
+['ISAPI', 'redirector', 'crashes', 'IIS', 'with', 'access', 'violation']
+True,functional-issue,functional-issue
+['NullPointerException', '-', 'Parsing', 'document']
+True,functional-issue,functional-issue
+['tomcat-connectors-1,2,23-src', 'source', 'code', 'fails', 'to', 'compile']
+True,functional-issue,functional-issue
+['CGI', 'and', 'POST-requests', 'broken', 'when', 'DAV', 'enabled']
+True,functional-issue,functional-issue
+['MessageTag', 'causes', 'NullPointer', 'Exception']
+True,functional-issue,functional-issue
+['Crash', 'on', 'console', 'startup', 'in', 'ap_recent_ctime']
+True,functional-issue,functional-issue
+['balancer', 'setup', 'crashes', 'apache', 'during', 'start']
+True,functional-issue,functional-issue
+['Delete', 'Language', 'Version', 'does', 'not', 'work']
+True,functional-issue,functional-issue
+['timers', 'control', 'doesnt', 'match', 'with', 'results']
+False,functional-issue,configuration-issue
+['-noclasspath', 'crashes', 'ant', 'if', 'no', 'system', 'classpath', 'is', 'set']
+True,functional-issue,functional-issue
+['FATAL', 'ERROR', 'no', 'transformer', 'class', 'found']
+False,functional-issue,not sure
+['Different', 'behaviour', 'with', 'NodeSet', 'and', 'RootNode', 'with', 'InclusiveNamespaces']
+True,functional-issue,functional-issue
+['NullPointerExeption', 'on', 'table', 'with', 'border-separation=value']
+True,functional-issue,functional-issue
+['Signing', 'throws', 'an', 'exception', 'if', 'custom', 'resource', 'resolver', 'is', 'registered']
+False,functional-issue,configuration-issue
+['win32', 'Apache', '2,0,48', 'build', 'broken!!!', 'missing', 'ssl-std,conf']
+True,functional-issue,functional-issue
+['<', 'and', '>', 'are', 'not', 'quoted', 'properly', 'in', 'HTML', 'and', 'XHTML', 'output']
+True,functional-issue,functional-issue
+['java,lang,ClassCastException', 'org,apache,fop,layoutmgr,inline,WrapperLayoutManager']
+False,functional-issue,test-issue
+['Build', 'fails', 'due', 'to', 'publication-tests,xml', 'build', 'target']
+False,functional-issue,network-issue
+['version', '1,6', 'JMeterThread', 'calls', 'getSampler', 'with', 'entry', '==', 'null']
+True,functional-issue,functional-issue
+['Fail', 'to', 'handle', 'the', 'external', 'entity,,,']
+False,functional-issue,configuration-issue
+['Fixes', 'to', 'ResponseAssertion', 'to', 'make', 'it', 'thread', 'safe']
+True,functional-issue,functional-issue
+['Random', '(frequent)', 'error', '-', 'pages', 'not', 'loading', 'in', 'Netscape', '4,x']
+True,functional-issue,functional-issue
+['table-omit-footer-at-break', 'sometimes', 'cause', 'crash']
+True,functional-issue,functional-issue
+['mod_proxy_fcgi', 'crashes', 'Apache', 'on', 'invalid', 'headers']
+True,functional-issue,functional-issue
+['Apache', 'is', 'crashing', 'during', 'graceful', 'restart']
+False,functional-issue,configuration-issue
+['mod_rewrite', 'logging', 'crashes', 'apache', '64', 'bit', 'builds', 'on', 'windows']
+True,functional-issue,functional-issue
+['loading', 'mod_logio,so', 'on', 'win2k', 'resulting', 'apache', 'crash']
+False,functional-issue,gui-issue
+['FOP', 'SVN', 'TRUNK', 'crashes', 'at', 'inline', 'page', 'manager', 'and', 'Knuth', 'inline', 'box,']
+True,functional-issue,functional-issue
+['fop', 'crashes', 'on', 'break-after']
+False,functional-issue,gui-issue
+['PFMFile,load()', 'crashes', 'if', 'a', 'font', 'has', 'a', 'name', 'longer', 'than', '16', 'characters', 'and', 'also', 'if', 'parsing', 'pfm', 'files', 'larger', 'than', '2048', 'bytes']
+True,functional-issue,functional-issue
+['The', 'parser', 'does', 'not', 'raise', 'an', 'error', 'when', 'the', 'facet', 'minLength', 'for', 'the', 'datatype', 'language', 'has', 'a', 'value', 'other', 'than', 'nonNegativeInteger,']
+True,functional-issue,functional-issue
+['Error', 'in', 'org\\apache\\fop\\apps\\Options,java']
+True,functional-issue,functional-issue
+['Gradient', 'stops', 'error', 'handling']
+True,functional-issue,functional-issue
+['i', 'am', 'getting', 'Error', 'preallocating', 'sequence', 'numbers', 'while', 'inserting', 'row', 'into', 'oracle', 'tablre', 'using', 'toplink']
+True,functional-issue,functional-issue
+['1,6', 'introduced', 'errors', 'with', 'SVG', 'saving']
+True,functional-issue,functional-issue
+['mod_proxy_fcgi+mod_deflate', 'error', 'with', 'header-only', 'output', 'stream', 'record']
+True,functional-issue,functional-issue
+['There', 'is', 'an', 'error', 'while', 'writing', 'the', "TLE's", 'while', 'writing', 'the', 'attribute', 'qualifier', 'in', 'the', 'afp', 'output,']
+True,functional-issue,functional-issue
+['Font', 'metrics-url', 'and', 'embed-url', 'are', 'aways', 'absolute;', 'fails', 'without', 'good', 'error', 'message']
+True,functional-issue,functional-issue
+['mod_jk', 'JkLogLevel', 'set', 'to', 'error;', 'however', 'apparently', 'logging', 'at', 'info']
+False,functional-issue,configuration-issue
+['compilation', 'error;', 'missing', 'axis', 'jar', 'on', 'classpath']
+True,functional-issue,functional-issue
+['FOP', '0,20,5', 'AWTRenderer', 'Sometimes', 'rendering', 'fails', 'in', 'the', 'middle', 'of', 'a', 'table', 'with', 'no', 'error', 'message']
+True,functional-issue,functional-issue
+['Error', 'parsing', 'parameters', 'mandatory', 'parameter', "'document-language'", 'not', 'found', 'doculiveexpires']
+False,functional-issue,gui-issue
+['Invalid', 'Content-Length', 'error', 'for', 'the', 'binary', 'file', 'size', 'greater', 'than', '2,1GB']
+True,functional-issue,functional-issue
+['Error', 'message', 'document', 'checked', 'out', 'not', 'i18n-ized']
+True,functional-issue,functional-issue
+['error', 'notification', 'for', 'wrong', 'characters', 'in', 'uploaded', 'filename', 'and', 'define', 'space', 'as', 'wrong', 'character']
+True,functional-issue,functional-issue
+['PATCH', 'Fop', 'CLI', 'Errors']
+True,functional-issue,functional-issue
+['ClassCastException', 'when', 'fowrapper', 'is', 'used', 'as', 'a', 'child', 'of', 'foblock-container']
+True,functional-issue,functional-issue
+['Running', 'xindice,war', 'in', 'Tomcat', '-', 'error', 'java,lang,NullPointerException']
+True,functional-issue,functional-issue
+['PATCH', 'JCR', 'ConfigurationException', 'on', 'start-up,']
+True,functional-issue,functional-issue
+['FOP', '0,17', 'throws', 'exception', 'with', 'basic-link', 'in', 'xsl-region-before/after']
+True,functional-issue,functional-issue
+['StringIndexOutOfBoundsException', 'During', 'Simple', 'Perl5Util,split']
+True,functional-issue,functional-issue
+['NullPointerException', 'in', 'AFPRendererConfigurator']
+True,functional-issue,functional-issue
+['GRAVE', 'Exception', 'java,lang,NullPointerException', 'when', 'unsing', 'fop']
+True,functional-issue,functional-issue
+['NullpointerException', 'in', 'RTFHandler']
+True,functional-issue,functional-issue
+['PATCH', 'NullPointerException', 'in', 'RtfTableRow', '', 'tableBorderAttributes']
+True,functional-issue,functional-issue
+['Webresources', 'class', 'AbstractResourceSet', 'throws', 'exception', 'upon', 'callong', 'ServletContext,getRealPath()']
+True,functional-issue,functional-issue
+['PATCH', 'FOP', 'with', 'fop-pdf-images', 'throws', 'ImageException']
+True,functional-issue,functional-issue
+['NullPointerException', 'when', 'min-height', 'is', 'specified', 'for', 'table-row']
+True,functional-issue,functional-issue
+['X509CertificateResolver', 'throws', 'NullPointerException']
+True,functional-issue,functional-issue
+['IndexOutOfBoundsException', 'in', 'TableCellLayoutManager']
+True,functional-issue,functional-issue
+['ClassCastException', 'InlineLayoutManager', 'cannot', 'be', 'cast', 'to', 'BlockLevelLayoutManager']
+True,functional-issue,functional-issue
+['NullPointerException', 'in', 'LineHeightPropertyMaker,java57']
+True,functional-issue,functional-issue
+['Checkin', 'menu', 'item', 'leads', 'to', 'exception']
+True,functional-issue,functional-issue
+['IndexOutOfBoundsException', 'due', 'to', 'absent', 'table-cells']
+True,functional-issue,functional-issue
+['Base64', 'Transform', 'throws', 'Stream', 'is', 'closed', 'IOExceptions']
+True,functional-issue,functional-issue
+['NullPointerException', 'when', 'redering', ',fo', 'file', 'in', 'TableLayoutManager,initialize']
+True,functional-issue,functional-issue
+['break-before=page', 'causes', 'IllegalArgumentException']
+True,functional-issue,functional-issue
+['Patch', 'White-space', 'fo', 'character', 'element', 'throws', 'NullPointerException']
+True,functional-issue,functional-issue
+['nullpointer', 'exception', 'in', 'ListItemContentLayoutManager,addAreas']
+True,functional-issue,functional-issue
+['Canonicalizing', 'an', 'empty', 'node-set', 'throws', 'an', 'ArrayIndexOutOfBoundsException']
+True,functional-issue,functional-issue
+['java,lang,ClassCastException', 'org,apache,fop,layoutmgr,PaddingElement']
+True,functional-issue,functional-issue
+['Regression', 'soft', 'hyphen', 'character', 'gives', 'IllegalArgumentException']
+True,functional-issue,functional-issue
+['Null', 'Pointer', 'Exception', '(when', 'a', 'table', 'cloned', 'due', 'to', 'a', 'retrieve-marker', 'operation)']
+True,functional-issue,functional-issue
+['PATCH', 'IndexOutOfBoundsException', 'at', 'ListItemLayoutManager,java495']
+True,functional-issue,functional-issue
+['NullPointerException', 'in', '-rtf', 'only', '(not', 'pdf;', 'txt;', 'png,,)']
+True,functional-issue,functional-issue
+['NullpointerException', 'on', 'invalid', 'attribute', 'values', 'for', 'text-decoration,']
+True,functional-issue,functional-issue
+['id', 'already', 'exists', 'error', 'when', 'using', 'span=all', 'attribute']
+True,functional-issue,functional-issue
+['File', 'upload', 'broken']
+True,functional-issue,functional-issue
+['AddCharset', 'default', 'conf', 'is', 'wrong', 'from', 'latin5', 'to', 'latin9']
+True,functional-issue,functional-issue
+['request,getSession(false)', 'fails', 'to', 'return', 'null,']
+True,functional-issue,functional-issue
+['PropPatchMethod()', 'fails', 'with', 'duplicate', 'names', 'in', 'different', 'namespaces']
+True,functional-issue,functional-issue
+['Build', 'fails', 'XConfToolTask', 'not', 'found']
+True,functional-issue,functional-issue
+['CYGWIN', 'fails', 'to', 'load', 'modules']
+True,functional-issue,functional-issue
+['ant', 'task', 'fails', 'in', 'fop-trunk']
+False,functional-issue,gui-issue
+['parse,tcl', 'auto_path', 'failes', 'for', 'pathes', 'with', 'spaces']
+False,functional-issue,not sure
+['mod_jk', 'segfaults;', 'if', 'fail_on_status', 'is', 'used']
+False,functional-issue,configuration-issue
+['java', 'compilation', 'bugs']
+False,functional-issue,not sure
+['Fix', 'segmentation', 'fault', 'on', 'stale', 'cache', 'when', 'mod_disk_cache', 'is', 'used']
+True,functional-issue,functional-issue
+['Problem', 'compiling', 'with', 'new', 'TTFs', 'because', 'ttffont-file,xsl', 'not', 'found']
+True,functional-issue,functional-issue
+['caching', 'is', 'broken', 'in', 'trunk']
+False,functional-issue,not sure
+['No', 'content', 'in', 'the', 'generated', 'rtf', 'file', 'using', 'FOP', 'after', 'revision', '1036000']
+True,functional-issue,functional-issue
+['mod_jk', 'fails', 'to', 'pass', 'correct', 'path', 'after', 'mod_rewrite']
+True,functional-issue,functional-issue
+['erroneous', 'cell', 'overlap', 'code']
+True,functional-issue,functional-issue
+['KeyValue,getPublicKey', 'does', 'not', 'work']
+False,functional-issue,gui-issue
+['Search', 'page', 'loses', 'results', 'when', 'switching', 'the', 'language']
+True,functional-issue,functional-issue
+['SOAP-call', 'does', 'not', 'support', 'Unicode', 'data']
+True,functional-issue,functional-issue
+['NDC', 'column', 'does', 'not', 'sort', 'properly', 'on', 'double-click', 'if', 'some', 'of', 'the', 'NDC', 'values', 'are', 'null']
+True,functional-issue,functional-issue
+['Undeclared', 'identifier', 'BINDPROCESS']
+True,functional-issue,functional-issue
+['Cannot', 'compile', 'on', 'Japanese', 'locale', '(ja_JP,EUC)']
+True,functional-issue,functional-issue
+['Copy', 'Paste', 'of', 'Japanese', 'charactres', 'are', 'not', 'working', 'in', 'PDF', 'document']
+True,functional-issue,functional-issue
+['NPE', 'when', 'having', 'an', 'empty', '<foinline>-element', 'with', 'hyphenation', 'turned', 'on']
+False,functional-issue,configuration-issue
+["Can't", 'compile', 'with', 'bundled', 'apr/apr-util']
+True,functional-issue,functional-issue
+['NPE', 'SignedInfo,getCanonicalizationMethodURI', '1,4,Beta2']
+True,functional-issue,functional-issue
+['Broken', 'build']
+True,functional-issue,functional-issue
+['keep-with-next', 'broken']
+True,functional-issue,functional-issue
+['Corruption', 'issues', 'writing', 'PPT']
+True,functional-issue,functional-issue
+['Problem', 'creating', 'header', 'and', 'footer']
+True,functional-issue,functional-issue
+['Workflow', 'Role', 'condition', 'applies', 'to', 'request', 'roles;', 'not', 'to', 'actual', 'roles']
+True,functional-issue,functional-issue
+['XMLCipher-loadEncryptedKey()', "doesn't", 'set', 'the', 'correct', 'CarriedKeyName', 'element,']
+False,functional-issue,configuration-issue
+["Can't", 'create', 'internal', 'links', 'with', 'Kupu']
+True,functional-issue,functional-issue
+['RuntimeController', 'not', 'working', 'correctly']
+True,functional-issue,functional-issue
+['restore', 'out', 'of', 'the', 'trash', 'and', 'out', 'of', 'the', 'archive', 'does', 'not', 'work']
+False,functional-issue,gui-issue
+['Bug', 'with', 'last', 'font', 'character', 'at', 'PFMReader', 'and', 'TTFReader']
+True,functional-issue,functional-issue
+['Under', 'Cygwin;', 'fop', 'bash', 'script', 'CLASSPATH', 'problem']
+True,functional-issue,functional-issue
+['RTF', 'files', "don't", 'work', 'in', 'TextEdit,app', 'or', 'Pages,app', 'on', 'the', 'Mac']
+False,functional-issue,not sure
+['While', 'generating', 'output', 'as', 'image/tiff', 'it', 'is', 'only', 'possible', 'to', 'use', 'PackBits', 'compression,']
+True,functional-issue,functional-issue
+['Percentages', 'not', 'working', 'for', 'provisional-distance-between-starts']
+True,functional-issue,functional-issue
+['NPE', 'in', 'PropertyList']
+True,functional-issue,functional-issue
+['import', 'content', 'heuristics', 'fail', 'when', 'index', 'page', 'language', 'is', 'not', 'english,']
+True,functional-issue,functional-issue
+['Schema', 'constraint', 'voilation', 'not', 'reported', 'by', 'the', 'parser']
+True,functional-issue,functional-issue
+['ORO', 'dies', 'while', 'trying', 'to', 'match', 'a', 'String', 'with', 'wierd', 'characters', 'BugRat', 'Report#831']
+False,functional-issue,gui-issue
+['two', 'text', 'nodes', 'with', 'the', 'value', "'\\n'", 'in', 'succession', 'within', '<dsSignedInfo>', 'and', '<dsX509IssuerSerial>']
+True,functional-issue,functional-issue
+['NPE', 'with', 'fotitle']
+True,functional-issue,functional-issue
+['Java', 'launch', 'debug', 'session', 'aborts', 'after', '10', 'seconds']
+False,functional-issue,configuration-issue
+['orgeclipsebirtreportdebugui', 'compiles', 'error', 'in', 'daily', 'build', '20060321']
+True,functional-issue,functional-issue
+['Structure', 'Changed', 'event', 'is', 'fired', 'in', 'the', 'wrong', 'drawing', 'sequence']
+True,functional-issue,functional-issue
+['Debugger', "don't", 'show', 'Variables']
+True,functional-issue,functional-issue
+['NullPointerException', 'and', 'failed', 'to', 'launch', 'debug', 'session', 'for', 'a', 'project']
+True,functional-issue,functional-issue
+['Parsing', 'of', 'function', 'declarations', 'in', 'stdioh', 'is', 'broken']
+True,functional-issue,functional-issue
+['Fix', 'Parser', 'Error', 'Handling']
+True,functional-issue,functional-issue
+['TVT30', 'In', 'japanese', 'locale;', 'automated', 'discovery', 'of', 'include', 'paths', "doesn't", 'seem', 'to', 'work']
+True,functional-issue,functional-issue
+['jdtdebuggerrit', 'jobs', 'failing']
+False,functional-issue,not sure
+['Generate', 'some', 'of', 'Roadmap', 'from', 'project', 'information', 'files']
+True,functional-issue,functional-issue
+['Rhino', 'Debug', 'Debugger', 'fails', 'when', 'trying', 'to', 'evaluate', 'function', 'arguments']
+False,functional-issue,not sure
+['EDAPT', 'Bug', 'in', 'ChangeAttributeType']
+True,functional-issue,functional-issue
+['Bug', 'between', 'facets', 'and', 'customizations', '', 'BasicIndexOutOfBoundsException']
+False,functional-issue,gui-issue
+['Persistency', 'bug', 'processes', 'store', 'from', 'href', 'for', 'selected', 'Steps']
+False,functional-issue,not sure
+['Step', 'into', 'resumes', 'instead']
+True,functional-issue,functional-issue
+['IllegalThreadStateException', 'reconciling', 'editor']
+True,functional-issue,functional-issue
+['NPE', 'in', 'NewMethodCompletionProposalapply']
+True,functional-issue,functional-issue
+['Unable', 'to', 'create', 'multiple', 'source', 'folders', 'when', 'not', 'using', 'bin', 'for', 'output']
+False,functional-issue,network-issue
+['Builder', 'Build', 'output', 'folder', 'not', 'getting', 'flushed', 'because', 'files', 'are', 'not', 'marked', 'as', 'derived']
+False,functional-issue,configuration-issue
+['Replace', 'bug', 'key', 'input', 'delay', 'environment', 'property']
+False,functional-issue,configuration-issue
+['Bugzilla', 'launch', 'contains', 'reference', 'to', '/Users/mffiedler/m2', 'in', 'source', 'lookup', 'path']
+False,functional-issue,not sure
+['Fix', 'bugs', 'in', 'Xtend', '/', 'Xpand', 'middleend', 'related', 'to', 'changes', 'in', 'MWE']
+False,functional-issue,not sure
+['Bug', 'in', 'OperationCallExpOperationscheckArgumentsConform', 'restriction']
+False,functional-issue,performance-issue
+['J2EEModuleVirtualComponentgetManifestReferences()', 'performance']
+True,functional-issue,functional-issue
+['There', 'is', 'the', 'error', 'displayed', 'in', 'the', 'concole', 'when', 'running', 'a', 'file', 'without', 'Debug', 'Info', 'option']
+True,functional-issue,functional-issue
+['There', 'is', 'exception', 'thrown', 'if', 'choosing', 'directory', 'for', 'debug']
+True,functional-issue,functional-issue
+['NullPointerException', 'in', 'PHPDebugPlugingetDebuggerId']
+True,functional-issue,functional-issue
+['Viewers', 'Error', 'while', 'debugging', 'but', 'no', 'log']
+True,functional-issue,functional-issue
+['NullPointerException', 'in', 'OpenWithMenufill()']
+True,functional-issue,functional-issue
+['decorator', 'creation', 'not', 'protected', 'from', 'failed', 'plugin', 'activation']
+True,functional-issue,functional-issue
+['NPE', 'in', 'OleEditor']
+True,functional-issue,functional-issue
+['Cycle', 'Actions', 'do', 'not', 'work', 'in', 'German']
+True,functional-issue,functional-issue
+['Dialogs', 'SelectionDialog', 'should', 'not', 'return', 'an', 'initial', 'selection', 'of', 'null']
+True,functional-issue,functional-issue
+['NPE', 'in', 'TitleAreaDialog', '-', "Can't", 'create', 'a', 'Java', 'class']
+False,functional-issue,configuration-issue
+['Workbench', 'startup', 'is', 'throwing', 'dialog', 'rather', 'than', 'logging', 'to', 'log']
+False,functional-issue,gui-issue
+['Preferences', 'NPE', 'in', 'font', 'preference', 'page', 'on', 'Apply']
+False,functional-issue,configuration-issue
+['Preferences', 'Import', 'Preferences', 'Crashes', 'on', 'eclipse']
+True,functional-issue,functional-issue
+['Dialogs', 'AssertionFailedException', 'with', 'M4', 'build', 'while', 'rebuilding', 'my', 'project']
+True,functional-issue,functional-issue
+['DBCSCopy/Paste', 'DBCS', 'failed', 'between', 'eclipse', 'and', 'gedit']
+True,functional-issue,functional-issue
+['DBCS', 'shown', 'up', 'GnomeVFS-WARNING', 'messages']
+False,functional-issue,gui-issue
+['Jobs', 'concurrent', 'modification', 'in', 'progress', 'view']
+True,functional-issue,functional-issue
+['Progress', 'NPE', 'when', 'deleting', 'project']
+True,functional-issue,functional-issue
+['NPE', 'on', 'startup', '(all', 'the', 'time!)']
+True,functional-issue,functional-issue
+['NPE', 'on', 'startup', '(part', '2)']
+True,functional-issue,functional-issue
+['Encoding', 'NullPointerException', 'when', 'changing', 'file', 'encoding']
+False,functional-issue,not sure
+['Dangerous', 'change', 'to', 'setSystem', 'in', 'MarkersViews']
+True,functional-issue,functional-issue
+['BUG', 'BinaryStorage', 'Access', 'since', 'rev300', 'BinaryStorage', 'can', 'not', 'Access', 'some', 'files', '(see', 'bug', '269967)']
+True,functional-issue,functional-issue
+['NullPointerException', 'in', 'DebugSourceInstallingCompilationParticipantbuildFinished', '(149)']
+True,functional-issue,functional-issue
+['emfworkbench', 'SetCommand', 'created', 'by', 'ModelModifier', 'causes', 'NPE', 'when', 'unset', 'feature']
+False,functional-issue,not sure
+['validation', 'Fix', 'constructors', 'for', 'EnabledValidatorsOperation', 'to', 'remove', 'asynch', 'flag']
+True,functional-issue,functional-issue
+['emfworkbench', 'NPE', 'in', 'ResourceSetImplgetResource()', 'during', 'AutoBuild']
+True,functional-issue,functional-issue
+['Flexible', 'Project', 'findResourcesBySourcePath', 'with', 'workspace', 'relative', 'path', 'returns', 'null']
+True,functional-issue,functional-issue
+['validator', 'extension', 'schema', 'files', 'are', 'not', 'in', 'the', 'builds']
+True,functional-issue,functional-issue
+['hotbug', 'Exceptions', 'when', 'XDoclet', 'version', 'is', 'changed']
+False,functional-issue,gui-issue
+['XQDT', 'SF', 'BUG#2883207', 'two', 'dashes', 'in', 'an', 'element']
+False,functional-issue,network-issue
+['Module', 'factory', 'is', 'failing', 'to', 'show', 'the', 'connector', 'module']
+False,functional-issue,not sure
+['WebResourcegetPath()', 'is', 'incorrect', 'for', 'a', 'JSP', 'unless', 'the', 'web', 'folder', 'is', 'set', 'to', 'WebContent']
+False,functional-issue,configuration-issue
+['emfworkbench', 'ResourceSetWorkBenchEditSynchronizer', 'releasing', 'projecgt', 'resource', 'when', 'it', "shouldn't"]
+False,functional-issue,configuration-issue
+['j2ee', 'Bad', 'import', 'generated', 'for', 'package', 'class', 'from', 'referenced', 'generator', 'model']
+True,functional-issue,functional-issue
+['Extending', 'an', 'abstract', 'class', 'fails']
+False,functional-issue,network-issue
+['JavaReflectionAdaptor', 'tries', 'to', 'load', 'classes', 'on', 'a', 'flush']
+False,functional-issue,configuration-issue
+['Missing', 'servlet', 'class', 'when', 'import', 'EAR']
+True,functional-issue,functional-issue
+['IVirtualFileexist()', 'returns', 'incorrect', 'value']
+False,functional-issue,configuration-issue
+['Flexible', 'Project', 'J2EE', 'Web', 'Module', 'and', 'builder', 'creates', 'incorrect', 'structure', 'and', 'extra', 'folders']
+False,functional-issue,configuration-issue
+['Fix', 'both', 'SynchHelpers', 'for', 'Linux', 'combo', 'events']
+False,functional-issue,configuration-issue
+['Fix', 'EJBArtifactEditgetEJBModuleRelative()', 'to', 'handle', 'paths', 'already', 'relative']
+False,functional-issue,configuration-issue
+['EAR', 'import', 'does', 'not', 'hook', 'up', 'EJB', 'module', 'and', 'EJB', 'client', 'module']
+True,functional-issue,functional-issue
+['Opening', 'xml', 'from', 'jar', 'causes', 'exception']
+True,functional-issue,functional-issue
+['Race', 'condition', 'getting', 'model', 'causes', 'UI', 'adapters', 'not', 'to', 'be', 'registered', 'in', 'StructuredTextEditor']
+True,functional-issue,functional-issue
+['ModelManager#getNewModelForRead/Edit', 'always', 'throws', 'ResourceAlreadyExists', 'exception']
+True,functional-issue,functional-issue
+['IStructuredModel#releaseFromEdit()', 'throws', 'AssertionFailed', 'Exception']
+True,functional-issue,functional-issue
+['Typing', 'enters', 'text', 'in', 'place', 'if', 'exception', 'occurs']
+True,functional-issue,functional-issue
+["Can't", 'find', 'tld', 'files', 'by', 'filename']
+True,functional-issue,functional-issue
+['Error', 'in', 'log', 'when', 'creating', 'new', 'Web', 'project']
+True,functional-issue,functional-issue
+['Validate', 'XML', 'File;', 'is', 'always', 'returning', 'no', 'constraints', 'detected', '-', 'patch', 'supplied']
+True,functional-issue,functional-issue
+['Accidently', 'included', 'unintended', '3PC', 'code', 'related', 'to', 'JS', 'parser']
+False,functional-issue,network-issue
+['File', 'protocol', 'gets', 'truncated', 'in', 'CMDocumentFactoryXSDcreateCMDocument()']
+False,functional-issue,configuration-issue
+['Unable', 'to', 'Create', 'Web', 'Service', 'in', 'J2EE', '14', 'Web', 'Project']
+True,functional-issue,functional-issue
+['NullPointerException', 'when', 'associating', 'service', 'project', 'with', 'EAR', 'project']
+True,functional-issue,functional-issue
+['OverwriteFilesEnabled=true', 'does', 'not', 'have', 'any', 'effect', 'in', 'ant', 'tasks']
+True,functional-issue,functional-issue
+['Nullpointer', 'Exception', 'from', 'WSDLNewFileOptionsPage']
+False,functional-issue,gui-issue
+['WSExplorer', 'does', 'not', 'show', 'any', 'input', 'field', 'in', 'the', 'form', 'view']
+True,functional-issue,functional-issue
+['WSDL', 'in', 'Java', 'Project', 'causes', 'NPE', 'in', 'Web', 'service', 'Client', 'wizard']
+True,functional-issue,functional-issue
+['Xtend', 'debugging', 'intermittently', 'stops', 'working']
+False,functional-issue,not sure
+['debugger', 'line', 'mapping', 'different', 'for', 'Xtend-as-primary-source', 'vs', 'SMAP']
+True,functional-issue,functional-issue
+['Bug', 'in', 'generated', 'code', 'when', 'method', 'throws', 'an', 'exception', 'in', 'constructor']
+True,functional-issue,functional-issue
+['AC', "doesn't", 'filter', 'requests', 'by', 'interface']
+True,functional-issue,functional-issue
+['AC', "doesn't", 'send', 'error', 'responses']
+False,functional-issue,not sure
+['TVT', '31', '-', 'TCT', '421', '-', 'Non-external', 'string']
+False,functional-issue,not sure
+['Bug', 'in', 'JSDLJobDescription#getJSDLString']
+True,functional-issue,functional-issue
+['AgentController', 'crashes', 'when', 'set', 'to', 'DEBUG', 'log', 'level']
+True,functional-issue,functional-issue
+['z/OS', 'RAC', 'ASCII/EBCDIC', 'translation', 'problem']
+True,functional-issue,functional-issue
+['IllegalArguementException', 'in', 'GoToSource', 'action']
+False,functional-issue,permission-issue
+['Profiling', 'Launch', 'IProfilingTypelaunch', "doesn't", 'always', 'get', 'called']
+False,functional-issue,configuration-issue
+['Deployment', 'corrupts', 'local', 'jar', 'files']
+False,functional-issue,not sure
+['Child', 'lost', 'on', 'snippet', 'update']
+False,functional-issue,configuration-issue
+['Hyades', 'M9', 'build', 'breaks', 'on', '20040521', 'IES', 'build']
+True,functional-issue,functional-issue
+['Renaming', 'project', 'with', 'VE', 'open', 'crashes', 'Eclipse']
+False,functional-issue,network-issue
+['Perfmon', 'agent', 'remote', 'registry', 'connect', 'fails']
+False,functional-issue,configuration-issue
+['Build', 'break;', 'PDE', 'internal', 'change']
+False,functional-issue,configuration-issue
+['LINUX', 'OS/390', '??\xef\xbf\xbd\xef\xbf\xbd', 'RAC', 'dies', 'if', 'terminate', 'the', 'java', 'app', 'through', 'workbench']
+True,functional-issue,functional-issue
+['Non-English', 'EMF', 'CBE', 'resources', 'are', 'corrupted']
+False,functional-issue,configuration-issue
+['JJet', 'compilation', 'of', 'templates', 'cause', 'extra', 'CR\\LF']
+True,functional-issue,functional-issue
+['new', 'visual', 'bean', 'wizard', 'generates', 'wrong', 'code', 'for', 'OTHER']
+True,functional-issue,functional-issue
+['Exception', 'error', 'occurs', 'when', 'selecting', 'SWT', 'style', 'on', 'new', 'Visual', 'Class', 'dialog']
+True,functional-issue,functional-issue
+['Snippet', 'update', 'of', 'all', 'components', 'caused', 'remote', 'vm', 'to', 'crash;', 'error', 'message']
+False,functional-issue,gui-issue
+['Deadlock', 'between', 'image', 'refresh', 'and', 'instantiate']
+True,functional-issue,functional-issue
+['getClassPath', 'in', 'TemplateUtil', 'always', 'failing', 'on', 'Linux', 'and', 'OS-X']
+False,functional-issue,database-issue
+['parameters/return', 'value', 'should', 'be', 'constructed', 'only', 'when', 'there', 'is', 'data', 'available']
+True,functional-issue,functional-issue
+['Application', 'template', 'puts', 'settings', 'in', 'wrong', 'order']
+False,functional-issue,configuration-issue
+['Importing', 'log', 'files', 'from', 'AIX', 'fails', 'altogether;', 'causing', 'the', 'RAC', 'to', 'shut-down']
+False,functional-issue,network-issue
+['HTTP', 'Recorder', "doesn't", 'stop;', 'no', 'test', 'can', 'be', 'generated']
+True,functional-issue,functional-issue
+['Dynamic', 'discovery', 'not', 'working', 'properly']
+True,functional-issue,functional-issue
+['Dynamic', 'discovery', 'not', 'working', 'properly']
+False,functional-issue,gui-issue
+['Expose', 'public', 'access', 'to', 'existing', 'method', 'in', 'internal', 'package', 'to', 'enable', 'access', 'to', 'Editor', 'extensions']
+True,functional-issue,functional-issue
+['Opening', 'a', 'class', 'with', 'a', 'SWT', 'Shell', 'throws', 'StringIndexOutOfBoundsException']
+False,functional-issue,network-issue
+['(Mon)', 'When', 'trying', 'to', 'import', 'an', 'HTTP', 'access', 'log', 'file', 'and', 'error', 'occurs']
+False,functional-issue,gui-issue
+['Properties', 'view', 'does', 'not', 'work', 'in', 'Eclipse', '31']
+False,functional-issue,database-issue
+['TableColumn', 'data', 'property', 'issues']
+True,functional-issue,functional-issue
+['Error', 'in', 'JavaBeans', 'Window']
+True,functional-issue,functional-issue
+['perf', 'Load', 'from', 'model', 'cache', 'fails', 'in', 'second', 'startup']
+False,functional-issue,gui-issue
+['Default', 'JLabel', 'text', 'Incorrect']
+False,functional-issue,gui-issue
+['31', 'SWT', 'GridLayout', 'does', 'not', 'work', 'correctly']
+True,functional-issue,functional-issue
+['Project', 'clean', "doesn't", 'work', 'correctly']
+False,functional-issue,gui-issue
+['TVT', '31', '-', 'TCT', '526', '-', 'Translated', 'strings', 'not', 'being', 'pulled', 'from', 'NL', 'fragment', 'for', 'japanese', 'for', 'preferences', 'and', 'help', 'plugins']
+False,functional-issue,not sure
+['TVT', '31', 'TCT573', 'TPTP', '-', 'incorrect', 'Decimal', 'separator']
+True,functional-issue,functional-issue
+['TVT', '31', 'TCT', '585', '-', 'Execution', 'Verdict', 'Decorator', 'not', 'translated']
+False,functional-issue,not sure
+['Untranslated', 'in', 'filters', 'customization']
+True,functional-issue,functional-issue
+['When', 'starting', 'a', 'RAC', 'in', 'a', 'command', 'prompt', 'window', 'I', 'get', 'an', 'error', 'when', 'starting', 'it']
+False,functional-issue,configuration-issue
+['Remove', 'references', 'to', 'Eclipse', 'classes', 'from', 'standalone', 'plugin']
+True,functional-issue,functional-issue
+['Remote', 'import', 'log', 'files', 'got', 'an', 'error', 'message']
+True,functional-issue,functional-issue
+['Exception', 'orgeclipsehyadesloggingeventscbeValidationException', '', 'IWAT0207']
+False,functional-issue,not sure
+['New', 'AC', 'Failure', 'to', 'launch', 'application', 'results', 'in', 'dup', 'of', 'ProcessController']
+False,functional-issue,configuration-issue
+['Clients', "aren't", 'notified', 'if', 'their', 'agents', 'deregister', ';', 'to', 'add', 'client', 'listener', 'notification']
+False,functional-issue,not sure
+['Validation', 'failure', 'with', 'noValue', "EDE's"]
+True,functional-issue,functional-issue
+['Run', 'HyadesLoggingLog4JSample', 'sample', 'got', 'compile', 'error']
+False,functional-issue,test-issue
+['Functionality;', 'Reliability', 'Exception', 'thrown', 'by', 'Agent', 'Controller', 'on', 'remote', 'host', 'when', 'launching', 'remote', 'test', 'suite']
+True,functional-issue,functional-issue
+['Regression', 'NullPointerException', 'when', 'importing', 'log', 'file', 'with', 'filters', 'from', 'remote', 'Linux', 'IA32']
+True,functional-issue,functional-issue
+['Parsing', 'of', 'shipped', 'sample', 'Apache', 'error', 'log', 'with', 'default', 'UTF-8', 'file', 'encoding', 'fails']
+False,functional-issue,configuration-issue
+['Agent', 'Manager', 'ID', 'is', 'in', 'agent', 'ID', 'range']
+False,functional-issue,not sure
+['Named', 'pipe', 'gets', 'in', 'blocking', 'state']
+False,functional-issue,test-issue
+['Regression', 'Put', 'file', 'command', 'in', 'file', 'system', 'services', 'fails', 'on', 'Linux']
+False,functional-issue,configuration-issue
+['Regression', 'Automation', 'services', 'framework', 'failures', 'on', 'Windows']
+True,functional-issue,functional-issue
+['Rule', 'for', 'OtherSitutation', 'gives', 'error', 'on', 'GLA', 'run']
+False,functional-issue,configuration-issue
+['Platform', 'Specific;', 'Regression', 'Automation', 'client', 'adapter', 'shell', 'script', 'incorrect']
+False,functional-issue,database-issue
+['Exceptions', 'thrown', 'when', 'opening', 'Database', 'Explorer', 'View', 'related', 'to', 'loading', 'images']
+True,functional-issue,functional-issue
+['Configuration', 'not', 'picking', 'up', 'Profiling', 'settings', 'in', 'certain', 'cases']
+False,functional-issue,configuration-issue
+['globalInstanceId', 'and', 'localInstanceId', 'are', 'null', 'for', 'all', 'import', 'log', 'records']
+False,functional-issue,configuration-issue
+['Perfmom', 'Data', 'Collection', 'Agent', 'launch', 'configuration', 'create', '2', 'agents']
+True,functional-issue,functional-issue
+['Extensibility', 'does', 'not', 'work', 'at', 'the', 'second', 'level', 'in', 'the', "'requires'", 'chain']
+False,functional-issue,gui-issue
+['Unknown', 'method', 'names', 'appearing', 'in', 'the', 'Method', 'Statistics', 'view']
+False,functional-issue,not sure
+['SimpleAttributeDecoder;', 'need', 'parse', 'tree', 'for', 'non-new', 'type', 'args', 'too']
+True,functional-issue,functional-issue
+['ArrayIndexOutOfBoundsException', 'when', 'gathering', 'data', 'via', 'Agent', 'Controller']
+True,functional-issue,functional-issue
+['New', 'Class', 'Creation', 'Wizard', 'Fails', 'for', 'JFrame']
+True,functional-issue,functional-issue
+['RCP', 'Launcher', 'Fails']
+True,functional-issue,functional-issue
+['IllegalStateException', 'Expression', 'type', 'sent', 'in', 'invalid', 'order']
+True,functional-issue,functional-issue
+['Eclipse', 'crashes', 'when', 'checking', 'out', 'a', 'large', 'project', 'from', 'CVS']
+True,functional-issue,functional-issue
+['Changing', 'Certain', 'SWT', 'Table', 'Properties', 'Causes', 'Exceptions']
+False,functional-issue,configuration-issue
+['(Plat)', 'Configuration', 'fails', 'with', 'JVM', 'located', 'in', 'a', 'directory', 'name', 'with', 'double', 'byte', 'chars']
+True,functional-issue,functional-issue
+['Exceptions', 'when', 'editing', 'layoutproperties']
+True,functional-issue,functional-issue
+['Link', 'Message', 'Box', 'Errors']
+False,functional-issue,gui-issue
+['SWT', 'Dropping', 'Components', 'causes', 'Incorrect', 'Code']
+True,functional-issue,functional-issue
+['Rename', 'of', "ViewPart's", 'parent', 'argument', 'not', 'working']
+True,functional-issue,functional-issue
+['Incorrect', 'code', 'generated', 'for', 'EditorPart', 'and', 'ViewPart', 'instances']
+False,functional-issue,configuration-issue
+['(MON)', 'Log', 'import', 'with', 'filters', 'of', 'non-TPTP', 'log', 'file', 'types', 'is', 'failing']
+True,functional-issue,functional-issue
+['(Provisional)', 'Parallel', 'transfer', 'of', 'files', 'causing', 'exception', 'in', 'base', 'agent']
+False,functional-issue,gui-issue
+['Deleting', 'a', 'method/components', 'may', 'render', 'the', 'VE', 'unusable']
+False,functional-issue,configuration-issue
+['Agent', 'launch', 'configuration', 'bugs']
+True,functional-issue,functional-issue
+['Choose', 'Bean', 'Dialog', 'Exception']
+False,functional-issue,configuration-issue
+['(Provisional)', 'Timing', 'issues', 'with', 'the', 'Agent', 'Tech', 'Preview', 'Linux', 'build']
+True,functional-issue,functional-issue
+['Name', 'Pipe', 'TL', 'not', 'working', 'properly', 'on', 'RH', 'EL3']
+False,functional-issue,configuration-issue
+['Clients', "aren't", 'notified', 'if', 'their', 'agents', 'deregister']
+False,functional-issue,not sure
+['TVT31', 'tct393', '-', 'TPTP', 'Example', 'IType', 'Count', 'Template', 'is', 'in']
+True,functional-issue,functional-issue
+['buglistcgi', 'crashes', 'for', 'logged', 'out', 'users', 'if', 'the', 'Reporter', 'column', 'is', 'displayed']
+True,functional-issue,functional-issue
+['New', 'STS', 'header', 'in', 'BugzillaCGI', 'causes', 'malformed', 'header', 'error', 'due', 'to', 'lack', 'of', 'Content-Type', 'naming']
+False,functional-issue,gui-issue
+['review', 'Footer', 'on', 'create', 'attachment', 'page', 'looks', 'wrong;', 'v1']
+True,functional-issue,functional-issue
+['review', 'list/listhtmltmpl', 'Error', 'in', 'hash', 'initialisation;', 'v1', 'move', "'}'", 'one', 'line', 'down', 'and', 'add', 'a', 'comma']
+False,functional-issue,gui-issue
+['review', 'search/knobhtmltmpl', 'script', 'type', 'missing;', 'space', 'missing;', 'v1', 'simple', 'three-liner', 'patch']
+True,functional-issue,functional-issue
+['review', 'xmlcgi', '-', 'attachments', 'is', 'broken', 'and', 'insiders', 'not', 'enforced;', 'Fix']
+True,functional-issue,functional-issue
+['review', 'checksetup', 'gives', 'torrent', 'of', 'cryptic', 'errors', 'if', 'my_webservergroup', 'is', 'not', 'found;', 'die', 'with', 'sensible', 'message']
+True,functional-issue,functional-issue
+['review', 'On', 'failure', 'in', 'template->new;', 'a', 'template', 'is', 'used', 'to', 'display', 'error;', 'Replace', 'DisplayError', 'with', 'die']
+False,functional-issue,configuration-issue
+['review', 'Document', 'CheckCanChangeField', 'so', 'sites', 'can', 'modify', 'it', 'for', 'local', 'needs;', 'Patch', 'v1']
+False,functional-issue,not sure
+['review', 'clean', 'up', 'format', 'ambiguities;', 'Patch', 'v2']
+True,functional-issue,functional-issue
+['review', 'colchangecgi', 'is', 'not', 'localisable;', 'Patch', 'v1']
+True,functional-issue,functional-issue
+['review', 'Fix', "pagecgi's", 'method', 'of', 'finding', 'templates;', 'Patch', 'v1']
+False,functional-issue,database-issue
+['review', 'boolean', 'chart', 'addition', "doesn't", 'keep', 'query', 'template', 'format;', 'Patch', 'v1']
+True,functional-issue,functional-issue
+['review', 'Regression', '-', 'buglist', 'highlighting', 'broken;', 'Patch']
+False,functional-issue,not sure
+['review', 'Remove', 'hard-coded', 'titles', 'and', 'things;', 'Patch', 'A', 'v2']
+False,functional-issue,not sure
+['review', 'Remove', 'hard-coded', 'titles', 'and', 'things;', 'Patch', 'B', 'v1']
+False,functional-issue,not sure
+['review', 'Remove', 'old', 'reporting', '(most', 'doomed', 'etc);', 'Patch', 'v2']
+False,functional-issue,permission-issue
+['review', 'field', 'names', 'should', 'be', 'l10n', 'in', 'user-errorshtmltmpl', 'called', 'by', 'Add', 'Estimated;', 'Actual;', 'Remaining', 'Time', 'Fields;', 'Patch', 'v1']
+True,functional-issue,functional-issue
+['regetlastlist', 'returns', 'all', 'bugs']
+False,functional-issue,gui-issue
+['review', 'Templatise', 'colchangecgi;', 'Patch', 'v1']
+False,functional-issue,not sure
+['review', 'tokencgi', 'localize', 'strings', 'send', 'to', 'messagehtmltmpl', '(Part', 'one);', 'v1', 'Patch', 'tokencgi']
+False,functional-issue,gui-issue
+['review', 'Templatise', 'all', 'calls', 'to', 'DisplayError;', 'Patch', 'D', 'v1']
+False,functional-issue,permission-issue
+['chimera', 'crash', 'on', '1021', 'while', 'calling', 'SetThemeCursor', '@', 'QDIsPortBuffered']
+True,functional-issue,functional-issue
+['Merge', 'userjs', 'program', 'Not', 'correct', 'outjs', 'file', 'is', 'created']
+True,functional-issue,functional-issue
+['Creation', 'of', 'JSC', 'component', 'does', 'not', 'create', 'an', 'output', 'JSC', 'file']
+True,functional-issue,functional-issue
+['Wrong', 'error', 'message', 'is', 'displayed', 'on', 'the', 'DOS-box']
+True,functional-issue,functional-issue
+['nsCookieServiceGetCookieString', 'returns', 'NS_OK', 'in', 'all', 'cases']
+False,functional-issue,gui-issue
+['PP', 'Error', 'in', 'page', 'loading']
+True,functional-issue,functional-issue
+['Recent', 'fixes', 'to', 'nsChromeRegistrycpp', 'cause', 'HP', 'builds', 'to', 'fail']
+True,functional-issue,functional-issue
+["hr's", "don't", 'float', 'correctly']
+False,functional-issue,configuration-issue
+["Can't", 'build', 'current', 'CVS', 'Tree', '(21199)', 'Getting', 'internal', 'compiler', 'error']
+True,functional-issue,functional-issue
+['warnings', 'hiding', 'inherited', 'virtual', 'functions']
+False,functional-issue,test-issue
+['Scribble', '(widget', 'test)', "won't", 'compile', 'on', 'AIX']
+True,functional-issue,functional-issue
+['Error', 'in', 'Makefile', 'widget/src/xpwidgets']
+True,functional-issue,functional-issue
+['Crash', 'on', 'nsPluginsDirWincpp']
+True,functional-issue,functional-issue
+['GetNextSibling', 'returns', 'node', 'with', 'value', 'of', 'child;', 'not', 'sibling']
+True,functional-issue,functional-issue
+['warnings', '/', 'bugs', 'in', 'EditTablecpp']
+True,functional-issue,functional-issue
+['compiler', 'warning']
+True,functional-issue,functional-issue
+['ServiceImplUnregisterResource', 'does', 'not', 'catch', 'null', 'uri']
+False,functional-issue,network-issue
+['Assert/abort', 'on', 'this', 'URL']
+True,functional-issue,functional-issue
+['Use', 'of', 'uninitialized', 'class', 'pointer']
+False,functional-issue,network-issue
+['resource', 'protocol', 'handler', 'not', 'up', 'to', 'current', 'XPCOM', 'registry', 'file', 'location', 'standards']
+False,functional-issue,not sure
+['RDF/XML', 'datasource', 'Refresh()', 'sends', 'bad', 'notifications']
+True,functional-issue,functional-issue
+['dogfood', 'crash', 'visiting', 'various', 'websites', 'in', 'the', 'image', '/', 'networking', 'code']
+False,functional-issue,gui-issue
+['crash', 'on', 'page', '(not', 'reproducable)']
+True,functional-issue,functional-issue
+['talkback', 'random', 'but', 'high', 'hit', 'crash', 'in', 'cache', 'code?']
+True,functional-issue,functional-issue
+['reproducible', 'crash;', 'build', 'id', '200013114;', 'NSGetModule()', 'loop?']
+True,functional-issue,functional-issue
+['Crashes', 'every', 'time;', 'under', 'Windows', '98;', 'with', 'M14']
+True,functional-issue,functional-issue
+['startDownload', 'string', 'not', 'localizable']
+True,functional-issue,functional-issue
+['warning', '(bug!)', 'when', 'compiling', 'nsUnicodeToGBKcpp']
+False,functional-issue,not sure
+['nsToolboxFrameHandleEvent', 'hides', 'inherited', 'methods']
+True,functional-issue,functional-issue
+['Browser', 'is', 'crashing', 'while', 'loading', 'big', 'images(', '>', '5MB)']
+False,functional-issue,not sure
+['nsHTMLEditorIsEmptyCell', 'should', 'be', 'rewritten']
+True,functional-issue,functional-issue
+['uneval();', 'ErrorprototypetoSource()', 'does', 'not', 'escape', 'quotes', 'correctly']
+False,functional-issue,configuration-issue
+['-remote', "'openURL(xyz)'", 'while', 'no', 'browser', 'window', 'up', 'causes', 'an', 'unchromed', 'browser', 'window', 'to', 'display']
+False,functional-issue,not sure
+['last', 'alljs', 'checkin', 'has', 'bad', 'useragentoverride']
+True,functional-issue,functional-issue
+['Trunk', 'M099', 'crashes', '@', 'FrameManagerReResolveStyleContext', '@', 'RuleProcessorDataRuleProcessorData@', 'nsXULElementGetID']
+False,functional-issue,not sure
+['view-source', 'handles', 'CDATA', 'sections', 'badly']
+False,functional-issue,gui-issue
+['Combo', 'boxes', 'submit', '%0D%0A', 'for', 'no', 'value/label/content']
+False,functional-issue,network-issue
+['DOGFOOD', 'Enable', 'network', 'cache', 'by', 'default']
+False,functional-issue,database-issue
+['improperly', 'parented', 'modal', 'dialog', 'in', 'nsWalletService']
+True,functional-issue,functional-issue
+['warning', 'in', 'nsMenuBarcpp']
+True,functional-issue,functional-issue
+['Accessing', 'cross', 'frame', 'properties', 'from', 'signed', 'jar', 'file', 'fails']
+False,functional-issue,not sure
+['mach-o', 'bustage', 'in', 'nsNativeThemeMaccpp']
+False,functional-issue,not sure
+['EUC-KR', 'decoder', '', 'a', 'bug', 'in', '8byte', 'seq', 'rep', 'of', 'Hangul', 'syllables']
+True,functional-issue,functional-issue
+['crash', 'when', 'I', 'go', 'to', 'my', '091', 'bug', 'list,', 'and', 'then', 'to', 'my', '092', 'bug', 'list,', 'Trunk', '&', 'M091']
+False,functional-issue,gui-issue
+['rendering', 'breaks', '(or', 'crash)', 'when', 'going', 'from', 'tweakersnet', 'to', 'bugzilla', '-', 'Trunk']
+False,functional-issue,configuration-issue
+['browser', 'hangs', 'on', 'bugzilla', 'and', 'bonsai', 'pages']
+False,functional-issue,permission-issue
+['crash', 'caused', 'by', 'GetImageData;', 'buggy', 'JSObject', 'allocation']
+True,functional-issue,functional-issue
+['Crash', 'on', 'startup', 'from', 'bug', '580407']
+True,functional-issue,functional-issue
+['Impossible', 'to', 'sanely', 'debug', 'JSValue', 'code', 'because', 'all', 'the', 'functions', 'get', 'inlined', 'and', "can't", 'be', 'called', 'by', 'gdb']
+True,functional-issue,functional-issue
+['Build', 'failure', 'with', 'syntax', 'error', 'in', 'nsDebugh']
+False,functional-issue,gui-issue
+['The', 'ASCII', 'text', 'rendering', 'is', 'broken', 'on', 'Linux', '(regression', 'of', 'bug', '356235)']
+False,functional-issue,not sure
+['Invoking', 'Node->getFirstChild', 'method', 'dumps', 'core']
+False,functional-issue,not sure
+['Invoking', 'Node->getLastChild', 'method', 'dumps', 'core']
+True,functional-issue,functional-issue
+['Loading', 'photocube', 'applet', 'twice', 'crashes', 'apprunner']
+False,functional-issue,gui-issue
+['AutoTranslate', 'does', 'not', 'translate', 'Japanese', 'pages', 'into', 'English']
+False,functional-issue,gui-issue
+['AutoTranslate-Source', 'Language', 'detects', 'this', 'page', 'as', 'German']
+True,functional-issue,functional-issue
+['LiveConnect', 'crashes', 'when', 'Java', 'not', 'present']
+True,functional-issue,functional-issue
+['LiveConnect', 'crash', 'in', 'gc_root_marker', 'with', '(char*)he->value', '=', 'member_val->field_val']
+True,functional-issue,functional-issue
+['crash', 'on', 'startup', 'with', 'IBM', 'JRE']
+False,functional-issue,configuration-issue
+['Crash', 'when', 'clicking', 'on', 'links', 'in', 'Java', 'applet']
+False,functional-issue,configuration-issue
+['psm', 'hangs', 'on', 'solaris']
+False,functional-issue,configuration-issue
+['Bugfix', 'for', '215981', 'kills', 'build', 'process', 'of', 'MozillaFirebird']
+False,functional-issue,not sure
+['SkipList', 'Add', 'mozalloc_abort', 'and', 'NS_DebugBreak_P', 'to', 'irrelevantSignatureRegEx']
+False,functional-issue,configuration-issue
+['Build', 'bustage', 'from', 'bug', '384374', 'landing']
+True,functional-issue,functional-issue
+['crash', 'opening', 'bugtraq-digest', 'mails', 'via', 'IMAP,', 'no', 'error', 'message']
+False,functional-issue,configuration-issue
+['unable', 'to', 'compile', 'mozilla/mailnews/base/src/nsMsgMD5cpp']
+True,functional-issue,functional-issue
+['PPSelect', 'Message|Mark|As', 'Read', 'crashes', 'my', 'system']
+False,functional-issue,configuration-issue
+['mozilla', 'Windows', 'build', 'of', '12/13', 'crashes', 'reading', 'particular', 'message']
+False,functional-issue,configuration-issue
+['Browser', 'crashed', 'when', 'navigating', 'between', 'folders', 'in', 'a', 'POP', 'mail', 'account', 'for', 'Netscape', '60']
+False,functional-issue,gui-issue
+['Changing', 'Headers', 'View', 'Causes', 'Crash', 'In', 'NECKODLL']
+True,functional-issue,functional-issue
+['Crash', 'if', 'reading', 'email', 'when', 'profile', 'is', 'non-local', 'and', 'another', 'instance', 'of', 'mozilla', 'is', 'running']
+True,functional-issue,functional-issue
+['Cannot', 'move', 'mail', 'from', 'Subfolder', 'of', '(IMAP-)INBOX', 'to', 'my', 'Local', 'Folders']
+True,functional-issue,functional-issue
+['Crash', 'on', 'multipart', 'messages', '@', 'nsPropertiesSet', '']
+False,functional-issue,network-issue
+['Password', "isn't", 'remembered', 'or', 'sent', 'properly', 'during', 'auto-mass', 'retrieval']
+True,functional-issue,functional-issue
+['dead', 'link', 'to', 'cryptographic', 'code']
+True,functional-issue,functional-issue
+['Source', 'for', '121', 'is', 'not', 'available', 'from', 'FTP']
+False,functional-issue,not sure
+['missing', 'dot', 'in', 'chinese', 'win32', 'Talkback', 'enabled', 'Zipfile']
+False,functional-issue,gui-issue
+['Invalid', 'Return', 'in', 'JavaScript']
+True,functional-issue,functional-issue
+['PL_GetNextOpt', 'asserts', 'if', 'an', 'option', 'with', 'an', 'associated', 'value', 'is', 'not', 'immediately', 'followed', 'by', 'its', 'value']
+False,functional-issue,configuration-issue
+['NSPR', 'gives', 'me', 'a', 'compile', 'error', 'on', 'Linux']
+True,functional-issue,functional-issue
+['Warning', 'fix', '-DBSD', 'on', 'BSD', 'platforms']
+False,functional-issue,configuration-issue
+['Mozilla', 'fails', 'to', 'build', 'correctly', 'on', 'any', 'non-gcc/g++', 'HP-UX', 'compiler']
+False,functional-issue,not sure
+['incomplete', 'zip', 'file']
+False,functional-issue,not sure
+['EXPORT', '-', 'interface', 'methods', 'on', 'services', '-', 'appcores']
+True,functional-issue,functional-issue
+['PPSearch', 'Messagesopen', 'dropdowns', "don't", 'collapse', 'correctly']
+False,functional-issue,not sure
+['__STDC__', 'in', 'intl/uconv/src/Makefilein']
+False,functional-issue,not sure
+['Minor', 'fixup', 'to', 'protypesh', 'for', 'OpenVMS']
+True,functional-issue,functional-issue
+['Warnings', 'and', 'error', 'first', 'time', 'mozilla', 'is', 'run']
+True,functional-issue,functional-issue
+['Mac', 'build', 'scripts', 'can', 'fail', 'to', 'pull', 'NSPR']
+True,functional-issue,functional-issue
+['compile-time', 'error', 'in', 'nsWebShellcpp', 'on', 'AIX-432']
+False,functional-issue,database-issue
+['Netcenter', 'search', 'pages', 'are', 'supposedly', 'UTF-8', 'encoded;', 'but', 'are', 'sending', 'back', 'bad', 'data']
+False,functional-issue,gui-issue
+['JA', 'The', 'orange', 'gif', 'in', 'center', 'of', 'side', 'bar', 'panel', 'rakuten', 'ichiba', 'produces', 'a', 'page', 'not', 'found', 'error', 'when', 'clicked', 'on', 'in', 'the', 'sidebar', 'pannel', 'its', 'self']
+True,functional-issue,functional-issue
+['Ticket', 'OnlineEvents', 'search', 'extended', 'char', 'problem']
+False,functional-issue,gui-issue
+['DEPR1', 'investorworld', 'spacing', 'after', 'Anmelden', 'has', 'to', 'be', 'fixed']
+True,functional-issue,functional-issue
+['DEPR1', 'investorworld', 'link', 'problems']
+True,functional-issue,functional-issue
+['Save', 'As', "doesn't", 'work', 'on', 'OpenVMS']
+True,functional-issue,functional-issue
+['Client', 'generates', 'corrupted', 'UTF-8', 'for', 'keyword', 'search']
+True,functional-issue,functional-issue
+['Profile', 'Manager', 'XML', 'Parsing', 'Error']
+True,functional-issue,functional-issue
+['Crash', 'accessing', 'non', 'existent', 'jar', 'files']
+False,functional-issue,not sure
+['Mail/News', 'startup', 'Default', 'Website', 'defaced']
+False,functional-issue,test-issue
+['Bug', '22056', 'checkin', 'regressed', 'Ts', 'and', 'Txul']
+False,functional-issue,not sure
+['OpenVMS', 'Process', 'hangs', 'after', 'quit']
+False,functional-issue,configuration-issue
+['HP-UX', '1100', 'Builds', 'no', 'longer', 'run']
+False,functional-issue,not sure
+['Where', 'the', 'hell', 'is', 'Kerz']
+False,functional-issue,not sure
+['OS/2', 'gmake', 'choking', 'on', 'REGCHROME', 'lines']
+False,functional-issue,configuration-issue
+['OS/2', '-', 'Mozilla', 'stays', 'in', 'Window', 'List']
+True,functional-issue,functional-issue
+['Multiple', 'reciepients', 'are', 'shown', 'wrong']
+True,functional-issue,functional-issue
+['Tab', 'control', 'misdrawn', 'with', "Windows's", 'Rainy', 'Day', 'in', 'classic']
+False,functional-issue,network-issue
+['Unable', 'to', 'login', 'at', 'http//wwwinboxru']
+False,functional-issue,not sure
+['ficcom', '--', 'missing', 'content', 'due', 'to', 'malformed', 'comment', 'tags']
+False,functional-issue,not sure
+['Refactoring', 'Rename', '*,getDocumentIdentityMap()', 'to', '*,get(Document)Factory()']
+False,functional-issue,not sure
+['faulty', 'implementation', 'of', 'org,w3c,dom,css,CSSValue']
+True,functional-issue,functional-issue
+['log4j', 'does', 'not', 'show', 'Class', 'Name;', 'Method;', 'or', 'Line', 'Number', 'on', 'AS400']
+False,gui-issue,functional-issue
+['Username', 'display', 'broken', 'on', 'whimsyao']
+False,gui-issue,not sure
+['struts-htmlxml', 'doesnt', 'support', "'file'", 'tag', "'size'", 'attribute']
+True,gui-issue,gui-issue
+['text', 'color', 'not', 'working', 'after', 'a', 'page', 'break']
+True,gui-issue,gui-issue
+['aligning', 'text', 'to', "'right'"]
+True,gui-issue,gui-issue
+['Text', 'alignment', 'in', 'table', 'cells']
+True,gui-issue,gui-issue
+['right', 'align', 'with', 'euro', 'symbol']
+True,gui-issue,gui-issue
+['this', 'special', 'character', 'is', 'not', 'rendered', 'correctly', 'in', 'the', 'pdf,']
+True,gui-issue,gui-issue
+['Image', 'loading', 'in', 'pdf,']
+True,gui-issue,gui-issue
+['Adobe', 'Acrobat', 'claims', 'Fop', 'output', 'has', 'bad', 'page', 'contents']
+True,gui-issue,gui-issue
+['Problem', 'with', 'monospaced', 'font']
+True,gui-issue,gui-issue
+['Text', 'alignment', 'in', 'table', 'cells']
+True,gui-issue,gui-issue
+['Multi-byte', 'characters', 'in', 'default', 'error', 'page', "aren't", 'printed', 'out', 'correctly,']
+True,gui-issue,gui-issue
+['Problems', 'font', 'subset', 'embedding']
+True,gui-issue,gui-issue
+['Table', 'rows', 'of', 'a', 'table', 'in', 'a', 'page', 'body', 'with', 'two', 'columns', 'are', 'ommitted', 'on', 'last', 'page,']
+False,gui-issue,functional-issue
+['Problems', 'with', 'UTF-8', 'hyphenation', 'patterns']
+False,gui-issue,functional-issue
+['Lists', 'do', 'not', 'display', 'correctly']
+False,gui-issue,configuration-issue
+['Browsers', "can't", 'display', 'html', 'documentation', 'pages', 'correctly', '(versions', '2,0;', '2,2;', '2,4)']
+False,gui-issue,functional-issue
+['Error', 'screen', 'is', 'not', 'displayed', 'when', 'usecase', 'failed']
+False,gui-issue,functional-issue
+['Site', 'overview', 'not', 'displayed', 'if', 'dublin', 'core', 'title', 'is', 'empty']
+False,gui-issue,functional-issue
+['Error', 'in', 'Font-Documentation']
+True,gui-issue,gui-issue
+['Attempt', 'to', 'render', 'xml', 'with', 'inline', 'image', 'causes', 'java,lang,OutOfMemoryError']
+False,gui-issue,functional-issue
+['PATCH', 'PostScript', 'PDF-image', 'causes', 'error']
+False,gui-issue,network-issue
+['Cannot', 'delete', 'users', 'using', 'Administration', 'Tool', 'webapp', '(HTTP', '500', 'error)']
+True,gui-issue,gui-issue
+['the', 'chinese', 'font', 'cannot', 'view', 'all']
+True,gui-issue,gui-issue
+['NPE', 'Area', 'is', 'missing', 'in', 'site', 'view']
+False,gui-issue,functional-issue
+['PFMReader', 'throws', 'Exception', 'No', 'scheme', 'found', 'in', 'URI', 'charlist,xml']
+False,gui-issue,functional-issue
+['Rendering', 'fails', 'with', 'IndexOutOfBoundsException', 'in', 'LineLayoutManager']
+False,gui-issue,functional-issue
+['IndexOutOfBoundsException', 'when', 'missing', 'fotable-cell', 'column-number', 'and', 'number-rows-spanned', 'used', 'in', 'the', 'same', 'fotable']
+True,gui-issue,gui-issue
+['Horizontal', 'space', 'needed', 'for', 'a', 'text', 'block', 'is', 'always', 'too', 'large']
+False,gui-issue,functional-issue
+['text-decoration', 'does', 'not', 'work']
+True,gui-issue,gui-issue
+['border', 'width', 'in', 'tables', 'adds', 'up']
+True,gui-issue,gui-issue
+['foexternal-graphic', 'rendered', 'as', 'block', 'level', 'object']
+True,gui-issue,gui-issue
+['problem', 'with', 'rendering', 'of', 'external-graphic', 'in', 'Fop-18']
+True,gui-issue,gui-issue
+['PATCH', 'PDFRenderer', '-', 'text-decoration', '(e,g,', 'underline)', 'not', 'being', 'renderered', 'with', 'Type1', 'fonts']
+True,gui-issue,gui-issue
+['Incorrect', 'hyperlinks', 'area', 'rendering', 'in', 'justified', 'text', 'blocks']
+True,gui-issue,gui-issue
+['right', 'border', 'of', 'cell', 'spanning', 'multiple', 'columns', 'is', 'not', 'rendered']
+True,gui-issue,gui-issue
+['When', 'using', 'AWTRenderer', 'for', 'printing', 'of', 'document', 'incorrect', 'imageable', 'area', 'is', 'specified', 'in', 'java,awt,print,PageFormat']
+True,gui-issue,gui-issue
+['Solid', 'bottom', 'border', 'not', 'rendered', 'correctly', 'since', '0,94']
+True,gui-issue,gui-issue
+['PATCH', 'CMYK', 'colors', 'converted', 'to', 'RGB', 'when', 'not', 'provided', '<fodeclarations>', 'tag']
+True,gui-issue,gui-issue
+['Tables', 'on', 'multi-column', 'pages', 'sometimes', 'come', 'out', 'wrong']
+True,gui-issue,gui-issue
+['Alignment', 'of', 'page-number-citation', 'inside', 'a', 'ToC']
+True,gui-issue,gui-issue
+['Bug', 'with', 'fopage-number-citation', 'and', 'CID', 'fonts']
+True,gui-issue,gui-issue
+['backgroud-color', 'in', 'fotable-cell', 'and', 'fotable-column', 'produce', 'no', 'output']
+True,gui-issue,gui-issue
+['table-cell', 'background', 'colour', "doesn't", 'work,']
+True,gui-issue,gui-issue
+['text', 'color', 'not', 'working', 'after', 'a', 'page', 'break']
+False,gui-issue,configuration-issue
+['Asset', 'properties', '(size', 'etc,)', 'are', 'stored', 'in', 'the', 'download', 'link']
+True,gui-issue,gui-issue
+['Wrong', 'page', 'break', 'with', '2', 'columned', 'region', 'and', 'tables']
+True,gui-issue,gui-issue
+['Wrong', 'generation', 'of', 'merged', 'elements', 'if', 'footer', 'has', 'thicker', 'borders', 'than', 'normal']
+True,gui-issue,gui-issue
+['PATCH', 'To', 'render', 'GIF', 'external', 'images', 'in', 'RTF', 'output', 'via', 'PNG']
+True,gui-issue,gui-issue
+['Setting', 'the', 'property', 'width', 'on', 'cell', 'does', 'not', 'take', 'effect,']
+True,gui-issue,gui-issue
+['Extra', 'space', 'added', 'after', 'table', 'under', 'some', 'circumstances']
+True,gui-issue,gui-issue
+['Background-color', 'attribute', 'handling', 'for', 'foblock', 'in', 'RTF', 'rendering']
+True,gui-issue,gui-issue
+['BXE', 'menu', 'images', 'do', 'not', 'show']
+False,gui-issue,functional-issue
+['Live', 'Sites', 'section', 'on', 'website', 'File', 'not', 'found']
+False,gui-issue,configuration-issue
+['Multolingual', 'support', 'in', 'converting', 'xml', '-', 'pdf']
+True,gui-issue,gui-issue
+['Border-right', 'not', 'visible', 'if', 'hyphenation', 'is', 'activated']
+False,gui-issue,functional-issue
+['Percentages', 'in', 'proportional-column-width()', 'not', 'supported']
+True,gui-issue,gui-issue
+['Wrong', 'border', 'resolution', 'when', 'header/footer', 'omitted', 'at', 'break']
+False,gui-issue,network-issue
+['Saving', 'a', 'document', 'in', 'the', 'default', 'pub', 'produces', 'multiple', 'html', 'meta', 'charset', 'entries']
+True,gui-issue,gui-issue
+['table', 'header', 'is', 'missing', 'when', 'table', 'is', 'inside', 'a', 'list', 'and', 'splitted']
+False,gui-issue,not sure
+['Filter', 'doc', 'example', 'misleading', 'for', 'usage']
+True,gui-issue,gui-issue
+['The', 'collapsing', 'border', 'model', 'on', 'an', 'fotable', 'is', 'currently', 'not', 'supported', 'by', 'FOP']
+True,gui-issue,gui-issue
+['Dynamically', 'generated', 'HTML', 'pages', 'compressed', 'with', 'mod_deflate', 'are', 'sometimes', 'truncated']
+False,gui-issue,not sure
+['focharacter', 'generates', 'invalid', 'PDF']
+True,gui-issue,gui-issue
+['ensure', 'that', 'launcher', 'does', 'not', 'launch', 'if', 'selected', 'project', 'is', 'closed']
+True,gui-issue,gui-issue
+['remote', 'editing', 'of', 'files']
+False,gui-issue,configuration-issue
+['Maintaining', 'bugzilla', 'data', 'for', 'technologymat']
+False,gui-issue,functional-issue
+['Committer', 'nomination', 'failing', 'with', 'a', 'known', 'good', 'Bugzilla', 'address']
+True,gui-issue,gui-issue
+['Description', 'of', 'bug', 'in', 'Events', 'area', 'should', 'stretch', 'with', 'area']
+False,gui-issue,functional-issue
+['Source', 'does', 'not', 'show', 'up', 'on', 'debug']
+True,gui-issue,gui-issue
+['PHP', 'Preferences', '-', 'in', 'servers', 'page', '-', 'add', 'a', 'make', 'default', 'in', 'servers', 'and', 'executables', '(currently', 'only', 'in', 'debug', 'page)']
+True,gui-issue,gui-issue
+['regression', 'PHP', 'Debug', 'perspective', '-', 'Debug', 'view', '-', "'Use", 'step', "filters'", 'button', 'is', 'enabled']
+False,gui-issue,functional-issue
+['Debug', 'annotations', 'not', 'going', 'away']
+False,gui-issue,functional-issue
+['NPE', 'attempting', 'to', 'Show', 'View', 'Menu', 'for', 'a', 'view', 'that', 'does', 'not', 'have', 'this', 'menu']
+False,gui-issue,not sure
+['DBCS', 'Add', 'from', 'Local', 'History', 'incorrect', 'for', 'DBCS', 'project', 'name']
+True,gui-issue,gui-issue
+['need', 'default', 'hpux', 'fonts', 'to', 'be', 'defined']
+False,gui-issue,database-issue
+['DBCS', 'Pasted', 'string', "can't", 'be', 'shown', 'correctly', 'in', 'Search', 'dialog']
+False,gui-issue,functional-issue
+['DBCS', 'DBCS', 'project', 'name', 'cannot', 'retrieve', 'from', 'CVS', 'repository']
+False,gui-issue,not sure
+['DBCS', 'Perspective', 'change', 'caused', 'core', 'dump', 'after', 'adding', 'DBCS', 'project', 'to', 'the', 'workspace']
+True,gui-issue,gui-issue
+['Dialogs', 'widget', 'is', 'disposed', 'in', 'open', 'type', 'dialog']
+False,gui-issue,configuration-issue
+['Coverage', 'Statistics', 'view', 'deletes', 'all', 'the', 'Java', 'packages', 'in', 'the', 'agent', 'but', 'default', 'package']
+True,gui-issue,gui-issue
+['Show', 'lifeline', 'name', 'when', 'scroll', 'down', 'the', 'view']
+True,gui-issue,gui-issue
+['(M8)', 'Missing', 'icon', 'link', 'with', 'viewer']
+True,gui-issue,gui-issue
+['log', 'graph', 'node', 'expend', 'and', 'collapse', 'support', 'in', 'log', 'interactions', 'view']
+True,gui-issue,gui-issue
+['show', 'correlations', 'of', 'group', 'log', 'node', 'base', 'on', 'user', 'selection']
+True,gui-issue,gui-issue
+['When', 'no', 'profiling', 'is', 'selected;', 'UI', 'should', 'set', 'TRACE_MODE', 'to', 'none']
+True,gui-issue,gui-issue
+['Widgets', 'with', 'no', 'text', "don't", 'show', 'on', 'Composite', 'w/GridLayout']
+False,gui-issue,functional-issue
+['Launched', 'app', 'w/Composite', 'and', 'Gridlayout', "doesn't", 'show', 'controls']
+True,gui-issue,gui-issue
+['SWT', 'ToolItem', 'figure', "doesn't", 'position', 'correctly', 'in', 'graph', 'viewer']
+False,gui-issue,functional-issue
+['Profile', 'to', 'file', "doesn't", 'create', 'UTF-8', 'compliant', 'files']
+True,gui-issue,gui-issue
+['Problems', 'setting', 'BoxLayout', 'with', 'under', 'a', 'TabbedPane']
+True,gui-issue,gui-issue
+['MoreSwingComponents', 'not', 'rendering', 'properly']
+False,gui-issue,functional-issue
+['Editor', 'fails', 'to', 'open', '-', 'throws', 'NPEs']
+True,gui-issue,gui-issue
+['Snippet', 'update', 'kicking', 'in', 'during', 'top', 'down', 'updates']
+True,gui-issue,gui-issue
+['Editing', 'RCP', 'Mail', 'causes', 'codegen', 'to', 'write', 'syntax', 'errors']
+False,gui-issue,functional-issue
+['TVT', '31', '-', 'TCT', '545', '-', 'Probekit-detected', 'Problem', 'untranslated', 'in', 'Filters', 'Customization']
+False,gui-issue,configuration-issue
+['TVT', '31', '-', 'About', '>', 'Plugins', 'contains', 'plug-in', 'names', '', '#%pluginname']
+False,gui-issue,not sure
+['Unable', 'to', 'add', 'Equivalence', 'classes', 'to', 'the', 'datapool']
+True,gui-issue,gui-issue
+["Refresh'", 'in', 'Profiling', 'Monitor', 'view', 'without', 'saving', 'lost', 'active', 'attach', 'agent(s)']
+False,gui-issue,configuration-issue
+['Properties', 'action', 'object', 'contribution', 'for', 'Log', 'Node/Correlations']
+True,gui-issue,gui-issue
+['ensureVisible(GraphNode)', 'does', 'not', 'show', 'selection']
+True,gui-issue,gui-issue
+['TargetVM', 'does', 'not', 'refresh']
+True,gui-issue,gui-issue
+['Sometimes', 'the', 'Console', 'contents', 'are', 'wiped', 'when', 'profiling']
+False,gui-issue,functional-issue
+['New', 'Visual', 'Class', 'wizard', 'extend', 'Composite', 'gens', 'bad', 'code', 'and', 'errors']
+True,gui-issue,gui-issue
+['Deleting', 'populated', 'TabFolder', 'causes', 'editor', 'to', 'hang', 'until', 'remote', 'vm', 'times', 'out']
+True,gui-issue,gui-issue
+['SWT', 'ToolItem', 'problems', 'with', 'modeling', 'and', 'setting', 'styles']
+True,gui-issue,gui-issue
+['Pause/Reload', 'doesnt', 'display', 'UI', 'editparts', 'correctly', 'for', 'CardLayout']
+True,gui-issue,gui-issue
+['JVECDGEN01', 'Changing', 'location', 'annotations', 'does', 'not', 'update', 'GUI']
+True,gui-issue,gui-issue
+['Accessibility', 'Method', 'invocation', 'details', 'table', 'not', 'accessible', 'using', 'keyboard', 'only']
+False,gui-issue,test-issue
+['AccessibilityScreen', 'reader', 'unable', 'to', 'read', 'text', 'in', 'the', 'manual', 'test', 'execution', 'application']
+True,gui-issue,gui-issue
+['Reload', 'of', 'a', 'dirty', 'editor', 'causes', 'the', 'cache', 'to', 'be', 'written', 'even', 'though', 'file', "wasn't", 'saved']
+True,gui-issue,gui-issue
+['NPE', 'with', 'Customize', 'Layout', 'dialog', 'and', 'switching', 'tabs', 'in', 'TabFolder']
+True,gui-issue,gui-issue
+['SWT', 'Launcher', 'causes', 'huge', 'Composites']
+False,gui-issue,not sure
+['Incorrect', 'Ordering', 'for', 'Swing', 'Components']
+False,gui-issue,functional-issue
+['JVELAYT01', 'Change', 'Location', 'Property', 'then', 'Undo', 'Hides', 'control']
+True,gui-issue,gui-issue
+['SWT', 'renderer', 'does', 'not', 'support', 'horizontal', 'bar', 'and', 'horizontal', 'stack', 'bar', 'charts']
+True,gui-issue,gui-issue
+['TVT31', 'tct', '416-BIDI', 'icon', 'not', 'flipped', 'in', 'the', 'product-PDE']
+True,gui-issue,gui-issue
+['Templatise', 'post_bugcgi']
+True,gui-issue,gui-issue
+['Templatise', 'process_bugcgi']
+False,gui-issue,not sure
+['Audit', 'show_bughtmltmpl', 'for', 'FILTER', 'usage']
+False,gui-issue,not sure
+['review', 'Add', '<label>', 'to', 'email', 'prefs;', 'v2', 'Update', 'using', 'account/prefs/emailhtmltmpl']
+False,gui-issue,not sure
+['review', 'search/knobhtmltmpl', 'should', 'use', '<label>', 'for', 'the', 'radiobuttons;', 'v2', 'Add', '<label>', 'to', 'the', 'check/radiobuttons', 'of', 'search/knobhtmltmpl']
+False,gui-issue,permission-issue
+['review', 'bug/create/createhtmltmpl', 'should', 'use', '<label>;', 'Patch', 'for', 'the', 'group', 'permission', 'checkboxes', 'in', 'bug/create/createhtmltmpl']
+False,gui-issue,not sure
+['review', 'attachment/*tmpl', 'should', 'use', '<label>;', 'v1', 'Patch', '/edithtmltmpl', 'and', '/createhtmltmpl', 'in', '/attachment/*']
+True,gui-issue,gui-issue
+['review', 'Turn', 'all', 'selected', 'into', 'none', 'selected', 'for', 'efficiency;', 'Patch', 'v2']
+True,gui-issue,gui-issue
+['review', 'Turn', 'all', 'selected', 'into', 'none', 'selected', 'for', 'efficiency;', 'Patch', 'v3']
+True,gui-issue,gui-issue
+['review', 'Turn', 'all', 'selected', 'into', 'none', 'selected', 'for', 'efficiency;', 'Patch', 'v3']
+True,gui-issue,gui-issue
+['review', 'Button', 'Add', 'another', 'boolean', 'chart', 'appears', 'twice', 'after', 'clicking', 'And;', 'Patch', 'v1']
+False,gui-issue,functional-issue
+['Crash', 'when', 'changing', 'the', 'status', 'of', 'a', 'bug', 'which', 'has', 'dependencies']
+False,gui-issue,not sure
+['Setting', 'a', 'flag', '(from', 'attachment', 'details,', 'or', 'while', 'uploading', 'an', 'attachment)', 'results', 'in', 'Missing', 'bug', 'ID']
+True,gui-issue,gui-issue
+['review', 'More', '<link>', 'elements', '&', 'templatization', 'of', 'navigation_links;', 'Patch', 'v1']
+True,gui-issue,gui-issue
+['4xP', 'GIF', 'does', 'not', 'serve', 'as', 'link']
+True,gui-issue,gui-issue
+['Related', 'Links', 'titles', 'get', 'displayed', 'over', 'scroll', 'bar', 'arrows']
+False,gui-issue,not sure
+['Menu', 'accesskey', '(shortcut', 'key)', 'info', 'should', 'be', 'in', 'DTD']
+True,gui-issue,gui-issue
+['Make', 'normally', 'empty', 'inline', 'elements', '(eg', 'named', 'anchor)', 'visible', 'in', 'editor']
+True,gui-issue,gui-issue
+['REFLOWEntire', 'HTML', 'content', 'area', 'repaints', 'when', 'mousing', 'over', 'a', 'link']
+True,gui-issue,gui-issue
+['horizontal', 'rules', "don't", 'center', 'correctly', 'over', 'a', 'floating', 'table']
+True,gui-issue,gui-issue
+['Italics', 'are', 'measured', 'and', 'rendered', 'incorrectly']
+True,gui-issue,gui-issue
+['MFBTNFIXbuttons', 'text', "isn't", 'shown', 'when', 'using', 'HTML', 'strict', 'and', 'css', 'height']
+True,gui-issue,gui-issue
+['Javascript', "won't", 'change', 'image', 'over', 'frames']
+True,gui-issue,gui-issue
+['Suggested', 'Baltic', 'fonts', 'are', 'only', 'iso-8859-4']
+True,gui-issue,gui-issue
+["Sun's", 'Copy/Cut/Paste', 'key', "don't", 'work', 'on', 'HTML', 'Editor']
+False,gui-issue,functional-issue
+['Lack', 'of', 'semicolons', 'on', 'escape', 'characters', 'causes', 'browser', 'to', 'crash']
+False,gui-issue,functional-issue
+['Character', 'coding', "can't", 'be', 'applied', 'to', 'the', 'ALL', 'frame', 'of', 'the', 'homepage']
+True,gui-issue,gui-issue
+['setting', 'image', 'source', 'via', 'dom', 'methods', 'no', 'longer', 'working']
+True,gui-issue,gui-issue
+['CJK', 'titles/links', 'on', 'Sidebar', 'Related', 'Links', 'displayed', 'garbage']
+True,gui-issue,gui-issue
+['Auto', 'translate', 'feature', 'View', 'Original', 'shows', 'a', 'blank', 'page']
+False,gui-issue,database-issue
+['html', 'form', 'select', 'is', 'broken', 'so', 'cannot', 'use', 'Bugzilla', 'for', 'reporting,', 'updating', 'or', 'querying', 'bugs']
+True,gui-issue,gui-issue
+['Incorrect', 'form', 'submission', 'on', 'bug', 'pages', '(wrong', 'form', 'submitted)']
+False,gui-issue,functional-issue
+['Shadow', 'layers', 'on', 'android', 'broken', 'by', 'bug', '594553']
+True,gui-issue,gui-issue
+['Virtual', 'keyboard', 'taking', 'full', 'screen', 'after', 'bug', '860318']
+False,gui-issue,functional-issue
+['Bugzilla', 'helper', 'is', 'broken']
+False,gui-issue,functional-issue
+['words', 'between', '<', 'and', '>', 'is', 'not', 'displayed', '(in', 'bugmail)']
+False,gui-issue,network-issue
+['Entering', 'a', '#', 'in', 'the', 'smtp', 'auth', 'username', 'textbox', 'results', 'in', 'the', 'smtp', 'servers', 'name', 'dissapearing', 'from', 'the', 'smtp', 'server', 'dropdown', 'list', '(Mozilla', 'Mail', '13)']
+False,gui-issue,functional-issue
+['<IFRAME>', 'tag', 'not', 'supported', 'correctly']
+False,gui-issue,configuration-issue
+['Mail', '&', 'Nieuws', '|', 'Account', 'instellingen', '|', 'Cancel->Annuleren']
+True,gui-issue,gui-issue
+['Mac', 'loses', '4', 'pixels', 'at', 'top', 'of', 'browser', 'window']
+True,gui-issue,gui-issue
+['JA', 'A', 'gray', 'dotted', 'outline', 'appears', 'around', 'the', 'edge', 'of', 'the', 'pull-down', 'menu', 'and', 'the', 'submit', 'buttons', '']
+True,gui-issue,gui-issue
+['First', 'pull-down', 'menu', 'form', 'the', 'top;', 'when', 'an', 'idem', 'is', 'selected', 'form', 'this', 'menu', 'and', 'you', 'hit', 'the', 'go', 'button', 'the', 'host', 'is', 'not', 'resolved', 'constantly']
+True,gui-issue,gui-issue
+['JA', 'Rakuten', 'The', 'target', 'page', 'of', 'the', 'third', 'link', 'from', 'bottom', 'appears', 'to', 'have', 'moved']
+False,gui-issue,configuration-issue
+['JAPR2', 'there', 'are', 'two', 'eBay', 'links', 'with', 'same', 'name']
+False,gui-issue,functional-issue
+['DEPR1', 'eBay', 'item', 'in', 'pull-down', 'list', 'spelled', 'wrong']
+False,gui-issue,functional-issue
+['DEPR1', 'eBay', 'items', 'in', 'pull-down', 'not', 'alphabetized']
+False,gui-issue,functional-issue
+['DEPR1', 'change', 'Events', 'to', 'Highlights', 'in', 'eBay', 'pull-down', 'list']
+False,gui-issue,functional-issue
+['DEPR1', 'investorworld-Finanzcommunity', 'search', 'problem']
+True,gui-issue,gui-issue
+['DE', 'Investor', 'World;', 'Arrow', 'image', 'next', 'to', '??\xef\xbf\xbd\xef\xbf\xbdAnmelden???', 'appears', 'too', 'high']
+False,gui-issue,functional-issue
+['DEPR1', 'investorworld', 'logo', "doesn't", 'fit', 'into', 'panel']
+True,gui-issue,gui-issue
+['DEPR1', 'some', 'sidebar', 'items', "don't", 'fit', 'the', 'default', 'panel', 'size']
+False,gui-issue,functional-issue
+['Some', 'content', "doesn't", 'fit', 'vertically', 'in', 'panels']
+True,gui-issue,gui-issue
+['FR/DEPR1', "ALaFolie's", 'background', 'image', 'is', 'duplicated', 'in', 'tab', 'window']
+True,gui-issue,gui-issue
+['DEPR1', 'alafoliede', 'not', 'appearing', 'in', 'sidebar', 'customization']
+True,gui-issue,gui-issue
+['DEPR1', 'alafolide', 'links', 'take', 'user', 'to', 'FR', 'pages']
+True,gui-issue,gui-issue
+['Clicking', 'off', 'of', 'Browser', 'Menu', 'selection', "doesn't", 'close', 'Warpzilla', 'menus']
+True,gui-issue,gui-issue
+['priority', 'color', 'should', 'be', 'for', 'all', 'text', 'columns']
+True,gui-issue,gui-issue
+['Hyper', 'Text', 'Markup', 'Language', 'should', 'be', 'HyperText', 'Markup', 'Language']
+True,gui-issue,gui-issue
+['Page', 'location', 'is', 'not', 'preserved', 'when', 'going', 'back', 'inside', 'any', 'tab', 'after', 'the', '1st', 'one']
+True,gui-issue,gui-issue
+['Linked', 'image', 'files', 'truncated', 'to', '16kB', 'after', 'editing', 'image', 'links', 'in', 'source', 'view']
+False,gui-issue,configuration-issue
+['emails', 'disappearing', 'from', 'mail', 'folders']
+True,gui-issue,gui-issue
+['Panels', 'window', 'is', 'empty;', 'cannot', 'add', 'new', 'panels', 'to', 'Sidebar']
+True,gui-issue,gui-issue
+['Default', 'Sidebar', 'Tabs', 'open', 'are', 'not', 'according', 'to', 'spec']
+True,gui-issue,gui-issue
+['Default', 'popup', 'text', 'and', 'text', 'background', 'colours', 'are', 'difficult', 'to', 'read', 'on', 'Warpzilla']
+False,gui-issue,configuration-issue
+['Incorrect', 'build', 'ID', 'in', 'Warpzilla', 'titlebar']
+True,gui-issue,gui-issue
+['Cannot', 'Grab', 'separator', 'bar', 'in', 'three-pane', 'view', 'to', 'resize']
+True,gui-issue,gui-issue
+['billu', '-', 'Page', "doesn't", 'display', 'everything']
+True,gui-issue,gui-issue
+['JavaScript', 'drop-down', 'menus', "don't", 'work']
+True,gui-issue,gui-issue
+['Missing', 'header', 'images', 'on', 'Tiny', 'Software', 'web', 'site']
+True,gui-issue,gui-issue
+['text', 'when', 'typing', 'in', 'input', 'box', 'is', 'not', 'viewable', 'because', 'it', 'is', 'too', 'small']
+False,gui-issue,functional-issue
+['The', 'homepage', 'field', 'in', 'my', 'stored', 'info', 'will', 'not', 'get', 'remembered']
+False,gui-issue,functional-issue
+['Exception', 'when', 'using', 'a', 'badly', 'formed', 'layout']
+False,gui-issue,functional-issue
+['Greek', 'Extended', 'character', 'throwing', 'ArrayIndexOutOfBoundException,']
+False,gui-issue,functional-issue
+['Exception', 'when', 'editing', 'new', 'German', 'document', 'with', 'Kupu']
+False,gui-issue,functional-issue
+['text-align=end', "doesn't", 'work', 'properly']
+True,gui-issue,gui-issue
+['fo', 'document', 'output', 'is', 'placed', 'in', 'page', 'margins']
+True,gui-issue,gui-issue
+['info', 'area', 'sitetree', 'not', 'reloaded', 'after', 'cut', '&', 'paste']
+True,gui-issue,gui-issue
+['No', 'UUIDs', 'used', 'for', 'image', 'links']
+True,gui-issue,gui-issue
+['Cannot', 'find', 'font', 'if', 'font', 'family', 'name', 'contains', 'space']
+True,gui-issue,gui-issue
+['Content', 'after', 'forced', 'break', 'in', 'block-container', 'is', 'not', 'rendered']
+True,network-issue,network-issue
+['refactor', 'HttpRequestExecutor', 'and', 'AsyncHttpProcessor']
+True,network-issue,network-issue
+['Redefine', 'HttpClient', 'vs', 'HttpMultiClient', 'interface', 'for', '20']
+True,network-issue,network-issue
+['Scripts', 'using', 'HTTP', 'Redirects', 'difficult', 'to', 'debug']
+True,network-issue,network-issue
+['IP', 'adresses', 'banned/blacklisted', 'on', 'apacheorg']
+True,network-issue,network-issue
+['URL', 'Encoding', 'of', 'jsessionid', 'when', 'browser', 'supports', 'cookies']
+True,network-issue,network-issue
+['AutoReadHttpURLConnection', 'automatically', 'follows', 'redirects']
+False,network-issue,functional-issue
+['SSL', 'connection', 'gives', 'error', '500', 'NullPointerExeption', 'at', 'at', 'orgapachestrutstaglibhtmlLinkTaghyperlink(LinkTagjava497)']
+False,network-issue,database-issue
+['Connection', 'Pool', 'does', 'not', 'handle', 'stale', '(closed)', 'connections']
+False,network-issue,security-issue
+['HTTP', 'Status', '403', '-', 'SecurityConstraintsImplcheckConstraints()', 'Access', 'for', 'view', 'not', 'permitted']
+True,network-issue,network-issue
+['entities', 'and', 'connection', 'handling', 'incomplete']
+True,network-issue,network-issue
+['Incorrect', 'bytes', 'sent', 'logged', 'for', 'aborted', 'connection']
+True,network-issue,network-issue
+['HTTPS', 'BIO/NIO', 'connector', 'does', 'not', 'enable', 'TLS', '1,1', 'and', 'TLS', '1,2', 'by', 'default']
+True,network-issue,network-issue
+['HTTP', 'APR', 'connector', 'does', 'not', 'supply', 'certificate', 'chain']
+True,network-issue,network-issue
+['IIS', 'Tomcat', 'Connector', 'URL', 'Rewrite', 'only', 'works', 'in', 'debug', 'mode']
+True,network-issue,network-issue
+['Uninitialised', 'jk_ws_service_t', 'fields', 'prevent', 'AJP13', 'connection', 'reuse', 'and', 'cause', 'flushing']
+False,network-issue,functional-issue
+['stopping', 'a', 'connector', 'produces', 'intermittent', 'SocketException']
+False,network-issue,database-issue
+['Major', 'bug', 'on', 'EclipseCon', 'NA', '2011', 'web', 'page', '', 'Unable', 'to', 'connect', 'to', 'the', 'database', 'server', 'at', 'this', 'time']
+False,network-issue,database-issue
+['DSE', 'connections', 'should', 'be', 'registered', 'in', 'SQL', 'Debugger', 'framework']
+False,network-issue,configuration-issue
+['Window', '>', 'Preferences', '>', 'PHP', '>', 'Debug', 'will', 'break', 'if', 'an', 'invalid', 'server', 'config', 'is', 'entered', 'and', 'cannot', 'be', 'fixed']
+False,network-issue,functional-issue
+['When', 'connecting', 'to', 'a', 'non-existing', 'debugger', 'or', 'wrong', 'version', 'debugger', '-', 'no', 'message', 'appears']
+False,network-issue,functional-issue
+['Debugging', 'with', 'xDebug', 'over', 'SSH', 'Tunnel', "doesn't", 'work']
+True,network-issue,network-issue
+['Two', '\xef\xbf\xbd\xef\xbf\xbdGeneric', 'Server\xef\xbf\xbd\xef\xbf\xbd', 'entries', 'in', 'Run/Debug', 'dialog']
+True,network-issue,network-issue
+['Restart', 'the', 'server', 'option', 'in', 'Run/Debug/Profile', 'On', 'Server', 'dialog']
+False,network-issue,configuration-issue
+['class', 'path', 'errors', 'after', 'ejb', 'jar', 'import', 'with', 'server', 'target']
+True,network-issue,network-issue
+['SSL', 'recording', 'no', 'longer', 'works']
+True,network-issue,network-issue
+['Regression;', 'Linux', 'Socket', 'reader', 'class', 'receives', '-1', 'and', 'disconnects', 'connection']
+True,network-issue,network-issue
+['tmlprotocolbug', 'There', 'is', 'no', 'support', 'for', 'proxies', 'when', 'connecting', 'the', 'protocol']
+True,network-issue,network-issue
+['the', 'connection', 'was', 'refused', 'message', 'should', 'ignore', 'ip', 'addressess', '==', '0000']
+True,network-issue,network-issue
+['HTTP', 'needs', 'to', 'arbitrarily', 'retrieve', 'data']
+True,network-issue,network-issue
+['DogfoodNeed', 'to', 'implement', 'nsHTTPChannelOpenInputStream']
+False,network-issue,configuration-issue
+['Unable', 'to', 'file/update', 'bugs', 'in', 'bugzilla']
+False,network-issue,functional-issue
+["we're", 'sometimes', 'submitting', 'the', 'wrong', 'thing', 'to', 'bugzilla']
+False,network-issue,configuration-issue
+["Can't", 'build', 'a', 'working', 'optimized', 'Windows', 'from', 'trunk', 'since', 'bug', '715821', 'landed;', 'resulting', 'build', 'crashes', 'on', 'startup', 'and', 'attempting', 'to', 'build', 'installer', 'crashes', 'during', 'build']
+False,network-issue,test-issue
+['Enable', 'SSL', 'on', 'landfillbugzillaorg', '(for', 'QA', 'testing)']
+True,network-issue,network-issue
+['BzAPI', 'cannot', 'connect', 'to', 'bugzillamozillaorg']
+False,network-issue,not sure
+['fxdbug-linux-tbox', 'wont', 'restart']
+False,network-issue,functional-issue
+['Internal', 'Server', 'Error', 'messages', 'when', 'loading', 'pages', 'from', 'bugzillamozillaorg']
+False,network-issue,functional-issue
+['local', '(POP3)', 'move', 'filter', 'ends', 'up', 'corrupting', 'messages,', 'even', 'after', 'fix', 'of', 'bug', '736539']
+False,network-issue,functional-issue
+['Thunderbird', 'build', 'is', 'broken', 'after', 'Bug', '807678', '(error', 'no', 'matching', 'function', 'for', 'call', 'to', '\xef\xbf\xbd\xef\xbf\xbdnsIDNSRecordGetNextAddr(int,', 'PRNetAddr*)\xef\xbf\xbd\xef\xbf\xbd)']
+False,network-issue,functional-issue
+['mozilla', 'not', 'identified']
+False,network-issue,functional-issue
+['Data', 'URI', 'Support', 'for', 'RTF', 'ExternalGraphic', 'Throws', 'Null', 'Pointer', 'Exception']
+True,network-issue,network-issue
+['getRemoteAddr()', 'returns', 'IPv6', 'address', 'on', 'RedHat', '9', 'when', 'IPv6', 'is', 'disabled']
+False,network-issue,security-issue
+['buffer', 'overrun', 'in', 'ssl_callback_SSLVerify_CRL(', ')', '(ssl_engine_kernel,c)']
+True,network-issue,network-issue
+['Landing', 'of', '|Bug', '654201', '-', 'avoid', 'nsHttpConnectionIsAlive()', 'running', 'event', 'loop', 'for', 'unused', 'SSL', 'connections|', 'broke', 'nsImapProtocol']
+False,performance-issue,functional-issue
+['svn', 'up', 'fails', 'if', 'too', 'much', 'svndiff', 'data', 'received']
+False,performance-issue,permission-issue
+['Memory', 'allocation', 'problem', 'in', 'DOMString', 'class']
+True,performance-issue,performance-issue
+['memory', 'leaks', 'in', 'DOM_ElementsetAttribute']
+True,performance-issue,performance-issue
+['Huge', 'performance', 'problem', 'with', 'the', 'parser', 'in', 'XMLScannersendCharData()']
+True,performance-issue,performance-issue
+['Huge', 'memory', 'leak', 'resulting', 'from', 'the', 'use', 'of', 'ThreadLocal']
+True,performance-issue,performance-issue
+['OutOfMemoryError', 'after', 'generating', 'several', 'thousand', 'pdfs']
+True,performance-issue,performance-issue
+['Infinite', 'loop', 'when', 'matching', 'regular', 'expression', '(Jakarta-ORO', 'v2,0,1)']
+True,performance-issue,performance-issue
+['read', 'of', 'unitialized', 'memory']
+True,performance-issue,performance-issue
+['Memory', 'leak', 'in', 'JUnit', 'task']
+False,performance-issue,functional-issue
+['OutOfMemory', 'or', 'NullPointer', 'exception', 'with', 'short', 'xml/xsl-fo']
+False,performance-issue,functional-issue
+['StackOverflow', 'problem', 'when', 'using', 'FOP', 'in', 'multi', 'threaded', 'environment']
+True,performance-issue,performance-issue
+['FilePolicyManager', 'infinite', 'loop']
+False,performance-issue,network-issue
+['Ant', '1,8', 'exec', 'task', 'changes', 'have', 'slowed', 'exec', 'to', 'a', 'crawl']
+True,performance-issue,performance-issue
+['Attribute', 'number-columns-spanned', 'leads', 'to', 'the', 'endless', 'loop']
+True,performance-issue,performance-issue
+['unreliable', 'coordination', 'between', 'daemon', 'and', 'request', 'thread', 'for', 'BusyTimeout', 'processing']
+True,performance-issue,performance-issue
+['XMLWhiteSpaceHandler', 'leaks', 'memory']
+True,performance-issue,performance-issue
+['Performance', 'problem', 'in', 'method', 'TypeUtilresolveInParents()']
+False,performance-issue,not sure
+['eclipseme', 'Include', 'EclipseME', '179', 'bug', 'fix']
+False,performance-issue,functional-issue
+['Error', 'when', 'debugging', 'using', 'xDebug']
+False,performance-issue,gui-issue
+['Decorators', 'UI', 'freezes', 'while', 'checking', 'out', 'project']
+False,performance-issue,security-issue
+['Bug', 'in', 'computation', 'of', 'Standard', 'Disease', 'Models,', 'possible', 'underflow', 'for', 'extreme', 'parameters']
+True,performance-issue,performance-issue
+['JSP', 'Editor', 'Memory', 'leaking', 'after', 'a', 'working', 'a', 'few', 'hours', 'with', 'jsp', 'files']
+True,performance-issue,performance-issue
+['infinite', 'loop', 'when', 'trying', 'to', 'initialize', 'datapool', 'with', 'CSV', 'containing', 'embedded', 'commas', 'in', 'fields']
+False,performance-issue,test-issue
+['New', 'PC', 'fails', 'testing', 'with', 'PCTestAgent', 'sending', 'error', 'to', 'self']
+True,performance-issue,performance-issue
+['Performance', 'concerns', 'in', 'the', 'application', 'context', 'system']
+False,performance-issue,configuration-issue
+['New', 'AC', 'passes', 'bad', 'environment', 'to', 'process', 'being', 'launched']
+False,performance-issue,functional-issue
+['Object', 'references', 'are', 'not', 'collected']
+True,performance-issue,performance-issue
+['(MON)', 'GLA', 'performance', 'degradation', 'reported', 'by', 'downstream', 'product']
+True,performance-issue,performance-issue
+['SWT', 'container', 'goes', 'into', 'infinite', 'loop', '-', 'NewClassCreationWizard', 'Fails']
+False,performance-issue,functional-issue
+['M9', 'Profiling', 'options', 'not', 'applied']
+True,performance-issue,performance-issue
+['review', 'Improve', 'performance', 'of', 'duplicatescgi;', 'Patch', 'v2']
+True,performance-issue,performance-issue
+['Multiple', 'Threads', 'Are', 'Loaded']
+True,performance-issue,performance-issue
+['Mozilla', 'rapidly', 'repeats', 'requests', 'multiple', 'times']
+True,performance-issue,performance-issue
+['Memory', 'leak', 'on', 'wwwbhunnet']
+True,performance-issue,performance-issue
+['Performance', 'Speed', 'up', 'loading', 'of', 'bookmarkshtml']
+True,performance-issue,performance-issue
+['Takes', 'several', 'reloads', 'for', 'web', 'page', 'to', 'load', 'fully']
+True,performance-issue,performance-issue
+['Necko', 'Performance', 'Review']
+False,performance-issue,gui-issue
+['Reduce', 'the', 'size', 'of', 'debug', 'browser-chrome', 'logs,', 'exceeding', 'the', 'maximum', 'log', 'size', 'and', 'thus', 'closing', 'trunk', 'and', 'aurora', 'trees']
+False,performance-issue,test-issue
+['B2G-Inbound', 'closed', 'due', 'to', 'ICS', 'Emulator', 'Debug', 'Mochitests', 'Leaks', 'in', 'most', 'of', 'the', 'tests']
+True,performance-issue,performance-issue
+['Loading', 'a', 'large', 'script', 'in', 'the', 'Rhino', 'debugger', 'results', 'in', 'an', 'endless', 'loop', '(100%', 'CPU', 'utilization)']
+False,performance-issue,not sure
+['large', 'number', 'of', 'process', 'sections']
+False,performance-issue,configuration-issue
+['Building', 'process', 'while', 'compiling', 'in', 'NsModulecpp', '-', 'related', 'to', 'bugfix', 'for', 'bug', '182928', '?']
+False,permission-issue,not sure
+['new', 'IndexReaderterms(myterm)', 'skips', 'over', 'first', 'term']
+False,permission-issue,test-issue
+['xerces2b3', 'smoketest', 'api', 'tests', 'add', '&#13;', 'char', 'to', 'lineends']
+True,permission-issue,permission-issue
+['Access', 'violation', 'in', 'DOMServicesgetNamespaceForPrefix', '(DOMServicescpp759)']
+True,permission-issue,permission-issue
+['deprecated', 'example', 'code', 'for', 'form']
+True,permission-issue,permission-issue
+['mod_rewrite;', 'RewriteLock', 'permissions', 'failure']
+True,permission-issue,permission-issue
+['PATCH', '(Almost)', 'silent', 'failure', 'of', 'grantPermission', 'in', 'RDBMS', 'adapters']
+True,permission-issue,permission-issue
+['PATCH', 'Permission', 'management', 'uses', 'wrong', 'URI', 'in', 'RDBMS', 'adapters']
+True,permission-issue,permission-issue
+['obsolete', 'neutron', 'usecase', 'policy', 'in', 'the', 'default', 'pub,']
+True,permission-issue,permission-issue
+['Remove', 'useless', 'call']
+False,permission-issue,configuration-issue
+["Doesn't", 'compile', 'with', 'OpenSSL', '0,9,8', '(works', 'with', 'olders)']
+True,permission-issue,permission-issue
+['Outdated', 'documentation', 'pages,']
+True,permission-issue,permission-issue
+['setTrackModification(boolean)', 'not', 'deprecated;', 'but', 'does', 'not', 'work']
+True,permission-issue,permission-issue
+['Migrate', 'Servlet', 'operation', 'to', 'new', 'data', 'model', 'provider', 'framework']
+True,permission-issue,permission-issue
+['WSDL4J', 'orgwsdl4j', 'plugin', 'uses', 'obsolete', 'WSDL', 'MIME', 'binding', 'schema']
+False,permission-issue,functional-issue
+['New', 'warning', 'messages', 'for', 'deprecated', 'code', 'in', '33RC1']
+True,permission-issue,permission-issue
+['Deprecate', 'TransferState', 'in', 'favor', 'of', 'transfer-specific', 'listener']
+False,permission-issue,test-issue
+['Remove', 'deprecated', 'AbstractPDTTTest']
+True,permission-issue,permission-issue
+['Discovery', 'Deprecate', 'String', 'IServiceID#getServiceType', 'in', 'favor', 'of', 'IServiceTypeID', 'IServiceID#getServiceTypeID']
+True,permission-issue,permission-issue
+['Remove', 'deprecated', 'Code', 'for', 'Scout', '310/40']
+True,permission-issue,permission-issue
+['Deprecate', 'the', 'version', 'attribute', 'of', 'the', 'phpExe', 'ext', 'point']
+True,permission-issue,permission-issue
+['Filtering', 'of', 'Deprecated', 'and', 'Wrapper', 'ODA', 'Data', 'Source', 'Types', 'in', 'DSE']
+True,permission-issue,permission-issue
+['Delete', 'deprecated', 'orgeclipseaetherutilrepositorylayout', 'package']
+True,permission-issue,permission-issue
+['Delete', 'deprecated', 'class', 'DiagramsUtil']
+True,permission-issue,permission-issue
+['EGL', 'Deprecate', 'store', 'in', 'favour', 'of', 'generate']
+True,permission-issue,permission-issue
+['Delete', 'deprecated', 'orgeclipseaetherspiconnectorTransferState', 'enum']
+True,permission-issue,permission-issue
+['Remove', 'deprecated', 'class', 'DestructionEventHelperAdvice']
+False,permission-issue,configuration-issue
+['Hibernate', 'CVS', 'Move', 'hibernate', 'example', 'plugins', 'from', 'deprecated', 'to', 'other', 'location', 'in', 'cvs']
+True,permission-issue,permission-issue
+['Deprecate', 'and', 'cleanup', 'ordered', 'bundle', 'list']
+True,permission-issue,permission-issue
+['Implement', 'FactsService', 'for', '@Deprecated']
+True,permission-issue,permission-issue
+['Remove', 'all', 'usage', 'of', 'deprecated', 'SWTObservables']
+True,permission-issue,permission-issue
+['Much', 'of', 'Probekit', 'uses', 'deprecated', 'APIs']
+True,permission-issue,permission-issue
+['Mark', '@ConfigPropertyValue', 'as', 'deprecated']
+True,permission-issue,permission-issue
+['Use', 'MouseEventHelper', 'and', 'deprecate', 'AbstractModeEventHandler#eventOnSameCell()']
+True,permission-issue,permission-issue
+['New', 'version', 'of', 'UBMs', 'not', 'including', 'any', 'deprecated', 'modules']
+True,permission-issue,permission-issue
+['Pupulate', 'deprecated', 'flag', 'to', 'type', 'members']
+True,permission-issue,permission-issue
+['Enable', 'additional', 'permission', 'for', 'Jon', "Rubin's", 'bugzilla', 'account']
+False,permission-issue,network-issue
+['Bug', '599428', 'broke', 'Thunderbird', 'and', 'Sunbird', 'builds']
+False,permission-issue,not sure
+['Fix', 'for', 'bug', '15345', 'breaks', 'webclient', 'and', 'javadom']
+False,permission-issue,configuration-issue
+['Trunk', 'mailnews', 'mac', 'builds', 'broken', 'by', 'bug', '489344', '(port', 'uriloader', 'to', 'x86_64', 'Mac', 'OS', 'X)']
+True,security-issue,security-issue
+['Java', 'SecurityManager', 'javalangRuntimePermission', 'createSecurityManager', 'required', 'for', 'cocoon', '2']
+True,security-issue,security-issue
+['Admin', 'resetting', 'password', 'when', 'encryption', 'is', 'turned', 'on']
+True,security-issue,security-issue
+['FIX', 'Default', 'security', 'constraint', 'can', 'override', 'registry-level', 'portlet', 'security']
+True,security-issue,security-issue
+['Signature', 'checking', 'vulnerability']
+False,security-issue,functional-issue
+['JVM', 'crashes', 'with', 'unexpected', 'exception', 'in', 'native', 'code']
+True,security-issue,security-issue
+['org,apache,xml,security,keys,content,KeyValue,getPublicKey()', 'returns', 'null', 'for', 'DSA', 'key']
+True,security-issue,security-issue
+['Xml', 'canonization', '-', 'UTF-8', 'encoding', 'issue', 'in', 'Xml', 'security', '1,4,0']
+True,security-issue,security-issue
+['Patch', 'Disable', 'cocoon', 'reload', 'parameter', 'for', 'security', 'reasons,']
+True,security-issue,security-issue
+['Security', 'access', 'to', 'server', 'and', 'database']
+True,security-issue,security-issue
+['org,apache,xml,internal,security,utils,Base64', 'is', 'not', 'working', 'in', 'EBCDIC', 'platform']
+True,security-issue,security-issue
+['packageaccess', 'security', 'check', 'too', 'general', 'for', 'Jasper', '-', 'precompiled', 'JSPs', 'get', 'package-access', 'violation']
+True,security-issue,security-issue
+['SOAP', 'Security']
+True,security-issue,security-issue
+['SECURITY', 'Apache', 'serving', "'private'", 'files!']
+True,security-issue,security-issue
+['documentation', 'suggests', 'insecure', 'file', 'permissions']
+True,security-issue,security-issue
+['security', 'tips', 'should', 'suggest', 'subscribing', 'to', 'announcements', 'list']
+True,security-issue,security-issue
+['Memory', 'retention', 'problem', 'in', 'XMLSecurity', '110', 'java', 'library']
+True,security-issue,security-issue
+['Patch', 'Disable', 'cocoon', 'reload', 'parameter', 'for', 'security', 'reasons']
+True,security-issue,security-issue
+['JK', 'Status', 'Worker', 'Security', 'User', 'Case', 'Problem', 'in', 'Windows']
+True,security-issue,security-issue
+['Xml', 'canonization', '-', 'UTF-8', 'encoding', 'issue', 'in', 'Xml', 'security', '140']
+True,security-issue,security-issue
+['orgapachexmlsecuritykeyscontentKeyValuegetPublicKey()', 'returns', 'null', 'for', 'DSA', 'key']
+True,security-issue,security-issue
+['XML', 'Security', '140', 'does', 'not', 'build', 'with', "IBM's", 'JDK']
+True,security-issue,security-issue
+['Security', 'access', 'to', 'server', 'and', 'database']
+True,security-issue,security-issue
+['packageaccess', 'security', 'check', 'too', 'general', 'for', 'Jasper', '-', 'precompiled', 'JSPs', 'get', 'package-access', 'violation']
+True,security-issue,security-issue
+['SOAP', 'Security']
+True,security-issue,security-issue
+['SECURITY', 'Apache', 'serving', "'private'", 'files!']
+True,security-issue,security-issue
+['documentation', 'suggests', 'insecure', 'file', 'permissions']
+True,security-issue,security-issue
+['security', 'tips', 'should', 'suggest', 'subscribing', 'to', 'announcements', 'list']
+True,security-issue,security-issue
+['Memory', 'retention', 'problem', 'in', 'XMLSecurity', '110', 'java', 'library']
+True,security-issue,security-issue
+['Patch', 'Disable', 'cocoon', 'reload', 'parameter', 'for', 'security', 'reasons']
+True,security-issue,security-issue
+['JK', 'Status', 'Worker', 'Security', 'User', 'Case', 'Problem', 'in', 'Windows']
+True,security-issue,security-issue
+['Xml', 'canonization', '-', 'UTF-8', 'encoding', 'issue', 'in', 'Xml', 'security', '140']
+True,security-issue,security-issue
+['orgapachexmlsecuritykeyscontentKeyValuegetPublicKey()', 'returns', 'null', 'for', 'DSA', 'key']
+True,security-issue,security-issue
+['XML', 'Security', '140', 'does', 'not', 'build', 'with', "IBM's", 'JDK']
+True,security-issue,security-issue
+['Security', 'access', 'to', 'server', 'and', 'database']
+True,security-issue,security-issue
+['Store', 'author', 'of', 'comment', 'as', 'user', 'id']
+False,security-issue,configuration-issue
+['Unable', 'to', 'login', 'on', 'a', 'fresh', 'Bugzilla', 'install', 'using', 'the', 'login', 'form', 'on', 'the', 'home', 'page']
+True,security-issue,security-issue
+['Security', 'Advisory', 'for', 'Bugzilla', '304,', '314,', '2224,', 'and', '2206']
+True,security-issue,security-issue
+['Security', 'Advisory', 'for', 'Bugzilla', '324', 'and', '34rc1']
+True,security-issue,security-issue
+['Security', 'advisory', 'for', 'Bugzilla', '432,', '422,', '407', 'and', '3610']
+True,security-issue,security-issue
+['automated', 'security', 'audit', 'of', 'the', 'code']
+False,security-issue,test-issue
+['Bug', '754202', 'regressed', 'IsCapabilityEnabled']
+False,security-issue,functional-issue
+['file', 'protections', 'are', 'wrong']
+True,security-issue,security-issue
+['Functionality', 'Port', 'file', 'transfer', 'service', 'changes', '(bugzilla', '75002)', 'to', 'secure', 'file', 'server']
+True,security-issue,security-issue
+['Security', 'Test', 'execution', 'does', 'not', 'work', 'with', 'secure', 'RAC']
+True,test-issue,test-issue
+['Test', 'crashes', 'when', 'run', 'multithreaded,', 'but', 'not', 'when', 'run', 'serially']
+True,test-issue,test-issue
+['tearDown()', 'not', 'called', 'when', 'test', 'method', 'fails']
+True,test-issue,test-issue
+['Test', 'results', 'requested', 'before', 'they', 'are', 'available']
+False,test-issue,gui-issue
+['Error', 'by', 'appending', 'a', 'text', 'node', 'to', 'a', 'child']
+False,test-issue,functional-issue
+['JUnitReport', 'does', 'not', 'work']
+True,test-issue,test-issue
+['Broken', 'link', 'to', 'Running', 'a', 'test', 'script']
+True,test-issue,test-issue
+['JUnitTestRunner', 'masks', 'exceptions']
+False,test-issue,database-issue
+['ClassCastException', 'Testing', 'Database', 'in', '1,6']
+True,test-issue,test-issue
+['XMLCipherTester,testSameDocumentCipherReference', 'test', 'fails', '(regression)']
+True,test-issue,test-issue
+['PATCH', 'font-size', 'testcases']
+True,test-issue,test-issue
+['PATCH', 'Cleanup', 'and', 'tests', 'to', 'TTFFile', '(subsetting', 'Glyf)']
+True,test-issue,test-issue
+['PATCH', 'word-spacing', 'testcases']
+True,test-issue,test-issue
+['Tests', "don't", 'run', 'on', 'Solaris', '(id', 'command', 'has', 'different', 'output', 'format)']
+True,test-issue,test-issue
+['PATCH', 'Test', 'cases', 'for', 'font-family;', 'font-style', 'and', 'font-weight']
+True,test-issue,test-issue
+['Test', 'datas']
+False,test-issue,functional-issue
+['NullPointerException', 'in', 'junit', 'task']
+False,test-issue,configuration-issue
+['Setting', 'accessibility', 'in', 'Java']
+False,test-issue,not sure
+['Presentation', 'Files']
+False,test-issue,configuration-issue
+['TVT34TCT611', 'TRK-No', 'data', 'in', 'the', 'JPA', 'details', 'window']
+True,test-issue,test-issue
+['Unit', 'Test', 'Failure', 'orgeclipseemffacetwidgetstabletestsinternalv0_2swtbotBug344563TesttestBug344563']
+True,test-issue,test-issue
+['Unit', 'Test', 'Failure', 'orgeclipseemffacetinfraquerytestsinternalUnitTestsbug307095/bug307095v2/bug307095v3/emfmqQueryTest/osgiReload/resourceSet/simpleEval/test001']
+True,test-issue,test-issue
+['Unit', 'Test', 'Faillure', 'orgeclipseemffacetinfraquerytestsinternalUnitTestsbug307187']
+True,test-issue,test-issue
+['Investigate', 'possible', 'test', 'suite', 'bug', 'when', 'ServiceProviderCatalog', 'contains', 'ref', 'to', 'serviceProvider', 'resource']
+True,test-issue,test-issue
+['FacetTestsbug308947()', 'error', 'during', 'Catalog', 'Notifications']
+True,test-issue,test-issue
+['Unit', 'Test', 'Failure', 'orgeclipsegmtmodiscoinfrabrowsercustomtestsBrowserCustomTesttestBug299277']
+True,test-issue,test-issue
+['Failing', 'JUnit', 'tests', 'wstcommon']
+False,test-issue,performance-issue
+['web', 'services', 'webserviceNewProjectListener', 'initialization', 'takes', '35%', 'cpu', 'time', 'of', 'CommonNavigatorcreatePartControl()']
+False,test-issue,functional-issue
+['problem', 'validating', 'xml', 'when', "there's", 'relative', 'schemas', 'and', 'only', 'the', "'top'", 'schema', 'is', "reg'd", 'in', 'catalog']
+True,test-issue,test-issue
+['Testing', 'Refactor', 'the', 'TPTP', 'test', 'suite', 'to', 'contain', 'the', 'name', 'of', 'the', 'bugzilla', 'component']
+False,test-issue,performance-issue
+['NPE', 'raised', 'while', 'performing', 'TestUITestNavigator_bugzilla_242645']
+True,test-issue,test-issue
+['Launching', 'consecutive', 'tests', 'on', 'Linux', 'causes', 'hangs', 'with', 'no', 'indication', 'of', 'problems']
+True,test-issue,test-issue
+['Executing', 'a', 'test', 'suite', 'that', 'invokes', 'another', 'test', 'suite', 'in', 'a', 'loop', 'generates', 'erroneous', 'verdict', 'events']
+True,test-issue,test-issue
+['hyadestest', 'feature', 'refs', 'hyadestestcommon', 'at', '301', 'level;', 'but', 'plugin', 'at', '302', 'level']
+True,test-issue,test-issue
+['Usability', 'Tests', "don't", 'run', 'when', 'firewall', 'blocks', "workbench's", 'incoming', 'connections']
+True,test-issue,test-issue
+['TVT', '31', '-', 'TCT', '426', '-', 'Test', 'is', 'translated', 'in', 'JUnit', 'generated', 'code', 'and', 'should', 'not', 'be']
+False,test-issue,functional-issue
+['TVT', '31', 'TCT', '393', '-', 'NPE', 'when', 'creating', 'new', 'TPTP', 'Example', 'IType', 'Count', 'Template']
+False,test-issue,functional-issue
+['TVT', '31', '-', 'TCT', '561', 'Probe', 'content', 'type', 'not', 'externalized']
+True,test-issue,test-issue
+['TestExecutionHarness', 'cleanup', 'enters', 'an', 'infinite', 'wait', 'and', 'prevents', 'from', 'executing', 'further', 'tests']
+True,test-issue,test-issue
+['Regression', 'Test', 'harness', 'hangs', 'on', 'launch', 'after', 'previously', 'cancelling', 'a', 'harness']
+True,test-issue,test-issue
+['Testing', 'Deliver', 'automated', 'tests', 'for', 'test', 'execution', 'service']
+True,test-issue,test-issue
+['Functionality', 'Integration', 'and', 'testing', 'of', 'shell', 'adapter', 'scripts', 'for', 'test', 'execution', 'service']
+True,test-issue,test-issue
+['Regression;', 'IAC', 'Not', 'all', 'execution', 'history', 'events', 'when', 'running', 'tests', 'using', 'IAC']
+True,test-issue,test-issue
+['Review', 'documentation', 'test', 'case', 'fails', '(bad', 'links)']
+True,test-issue,test-issue
+['Refresh', 'test', 'methods', 'from', 'code', 'button', 'in', 'the', 'JUnit', 'test', 'editor', 'throws', 'an', 'exception']
+True,test-issue,test-issue
+['Historical', 'reference', 'to', 'test', 'suite', 'not', 'deleted']
+True,test-issue,test-issue
+['Platform', 'Specific;', 'Regression', 'Test', 'execution', 'broken', 'on', 'z/OS']
+True,test-issue,test-issue
+['Improve', 'GLA', 'testsuites']
+True,test-issue,test-issue
+['Reliability', 'Canceling', 'a', 'test', 'execution', "doesn't", 'work', 'properly']
+True,test-issue,test-issue
+['Regression', 'Test', 'from', 'recording', 'dynamic', 'deployment', 'broken']
+True,test-issue,test-issue
+['JVM', 'Specific;', 'Platform', 'Specific;', 'Regression', 'Test', 'execution', 'hangs', 'on', 'Linux', 'with', 'Sun', 'JDK', '142']
+True,test-issue,test-issue
+['Webdoc', '(README)', '(IAC;', 'Platform', 'specific)', 'Test', 'execution', 'and', 'test', 'recorder', 'hangs', 'on', 'Linux']
+False,test-issue,functional-issue
+['Dialog;', 'JDialog;', 'Frame;', 'and', 'Window', 'do', 'not', 'come', 'up']
+True,test-issue,test-issue
+['JUnit', 'test', 'hangs', 'when', 'run', 'it', 'via', 'the', 'Run->Test', 'context', 'menu', 'selection', 'in', 'the', 'Test', 'Navigator', 'view']
+True,test-issue,test-issue
+['(Plat)', 'Unable', 'to', 'run', 'a', 'JUnit', 'test', 'as', 'test', 'from', 'launch', 'configuration']
+True,test-issue,test-issue
+['Reliability', 'Test', 'run', 'terminates', 'prematurely', 'before', 'all', 'execution', 'events', 'are', 'loaded', 'in', 'the', 'model']
+True,test-issue,test-issue
+['(Test)', 'Downstream', 'products', 'should', 'have', 'control', 'over', 'time-out', 'delays']
+True,test-issue,test-issue
+['(Provisional)', 'Add', 'regression', 'tests', 'for', 'tech', 'preview', 'agent', 'controller', 'to', 'TPTP', 'regression', 'test', 'suite', 'to', 'enable', 'recording', 'of', 'test', 'results', 'and', 'report', 'generation']
+True,test-issue,test-issue
+['TVT', '31', 'TCT', '409', '-', 'Test', 'Navigator', 'view', 'local', 'dropdown', 'menu', "'ToggleLinkingActiontext'", 'label', 'missing']
+True,test-issue,test-issue
+['TEST']
+True,test-issue,test-issue
+['TEST']
+True,test-issue,test-issue
+['testing;', 'ignore']
+True,test-issue,test-issue
+['test', 'bug']
+True,test-issue,test-issue
+['test;', 'please', 'ignore']
+True,test-issue,test-issue
+['test;', 'please', 'ignore']
+True,test-issue,test-issue
+['layout/generic/test/test_bug496275html', 'makes', 'mochitest-plain', 'time', 'out', 'when', 'the', 'HTML5', 'parser', 'is', 'enabled']
+True,test-issue,test-issue
+['Debug', 'MacOSX', 'SeaMonkey', 'leak', 'test', 'ASSERTION', 'Want', 'to', 'fire', 'mutation', 'events,', 'but', "it's", 'not', 'safe', 'since', 'bug', '429175landing', '(all', 'other', 'test', 'suites', 'too)']
+False,test-issue,not sure
+['Fix', '#ifdef', 'MOZ_WINSDK_TARGETVER', '>=', 'MOZ_NTDDI_LONGHORN', 'from', 'bug', '441197']
+True,test-issue,test-issue
+['mochitest-3', 'is', 'nearly', 'perma-orange', 'on', 'm-c', 'nightly', 'builds', '(test_bug445544html', '|', 'Part', '1', 'successfully', 'loaded', 'from', 'the', 'application', 'cache', 'and', 'more)']
+True,test-issue,test-issue
+['layout/generic/test/test_bug496275html', 'makes', 'mochitest-plain', 'time', 'out', 'when', 'the', 'HTML5', 'parser', 'is', 'enabled']
+False,test-issue,not sure
+['bug1103273-1js', 'and', 'bug1103273-2js', 'are', 'going', 'to', 'permafail', 'when', 'Gecko', '36', 'merges', 'to', 'Aurora', 'tomorrow']
+True,test-issue,test-issue
+['test', 'for', 'bug', '419731', 'failing', 'on', 'qm-win2k3-pgo01', '(VM,', 'PGO)']
+True,test-issue,test-issue
+['Fix', 'holly', 'after', 'bug', '805374', 'broke', 'tests']
+True,test-issue,test-issue
+['Gaia', 'unit', 'tests', 'are', 'perma-failing', 'on', 'b2g30_v1_4', 'since', 'bug', '874510', 'was', 'merged', 'into', 'production']
+True,test-issue,test-issue
+['mach', 'reftest', '--debugger', 'is', 'broken']
+True,test-issue,test-issue
+['JavaScript', 'Debug', 'assertions', 'in', 'gloda', 'mime', 'tests']
+False,test-issue,functional-issue
+['nsMsgDBFoldercpp180', 'error', 'cannot', 'convert', '\xef\xbf\xbd\xef\xbf\xbdconst', 'char*\xef\xbf\xbd\xef\xbf\xbd', 'to', '\xef\xbf\xbd\xef\xbf\xbdnsStringBuffer*\xef\xbf\xbd\xef\xbf\xbd', 'in', 'initialization', '(port', 'bug', '534136)']
+True,test-issue,test-issue
+['Test', 'failure', 'mailnews/news/test/unit/test_bug540288js', '|', 'Exception', 'Component', 'returned', 'failure', 'code', '0x80040111', '(NS_ERROR_NOT_AVAILABLE)', 'nsICacheSessionopenCacheEntry', 'nsresult', '0x80040111', '(NS_ERROR_NOT_AVAILABLE)']
+True,test-issue,test-issue
+['Test', 'bug']
+True,test-issue,test-issue
+['Unhide', 'gaia-ui-test', 'once', 'bug', '911552', 'is', 'successfully', 'merged', 'and', 'date-based', 'test', 'failures', 'are', 'no', 'longer', 'occurring']

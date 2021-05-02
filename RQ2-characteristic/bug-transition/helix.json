@@ -1,0 +1,1320 @@
+{
+    "HELIX-550": [
+        [
+            "Open", 
+            "Closed", 
+            "24d 36m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "95d 23h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "HELIX-552": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 40m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "117d 22h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "HELIX-395": [
+        [
+            "Open", 
+            "Closed", 
+            "145d 23h 34m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "31d 17h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7s"
+        ]
+    ], 
+    "HELIX-555": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 17h 32m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "95d 23h 40m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "HELIX-390": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 15h 48m"
+        ]
+    ], 
+    "HELIX-491": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 39m"
+        ]
+    ], 
+    "HELIX-495": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 19h"
+        ]
+    ], 
+    "HELIX-394": [
+        [
+            "Open", 
+            "Closed", 
+            "146d 22h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "31d 17h 45m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10s"
+        ]
+    ], 
+    "HELIX-398": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 11m"
+        ]
+    ], 
+    "HELIX-399": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 18m"
+        ]
+    ], 
+    "HELIX-41": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 18h 39m"
+        ]
+    ], 
+    "HELIX-40": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "282d 16h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 9s"
+        ]
+    ], 
+    "HELIX-44": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 1h 21m"
+        ]
+    ], 
+    "HELIX-47": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 1h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "238d 16h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10s"
+        ]
+    ], 
+    "HELIX-46": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "231d 18h 36m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9s"
+        ]
+    ], 
+    "HELIX-48": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 23h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "238d 18h 20m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9s"
+        ]
+    ], 
+    "HELIX-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 45m"
+        ]
+    ], 
+    "HELIX-465": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 18m"
+        ]
+    ], 
+    "HELIX-466": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 33m"
+        ]
+    ], 
+    "HELIX-305": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 29s"
+        ]
+    ], 
+    "HELIX-155": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 47s"
+        ]
+    ], 
+    "HELIX-306": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 50s"
+        ]
+    ], 
+    "HELIX-150": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 44m"
+        ]
+    ], 
+    "HELIX-151": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 5m"
+        ]
+    ], 
+    "HELIX-153": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 2h 26m"
+        ]
+    ], 
+    "HELIX-264": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 22h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 2h 27m"
+        ]
+    ], 
+    "HELIX-288": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 25s"
+        ]
+    ], 
+    "HELIX-521": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 5h 44m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "154d 21h 54m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "HELIX-30": [
+        [
+            "Open", 
+            "Resolved", 
+            "60d 3h 25m"
+        ]
+    ], 
+    "HELIX-216": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 47m"
+        ]
+    ], 
+    "HELIX-257": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 8m"
+        ]
+    ], 
+    "HELIX-410": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 8m"
+        ]
+    ], 
+    "HELIX-412": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 39s"
+        ]
+    ], 
+    "HELIX-414": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 29m"
+        ]
+    ], 
+    "HELIX-653": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 32m"
+        ]
+    ], 
+    "HELIX-650": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 20h 58m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "48d 1h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "HELIX-657": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 18h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 47m"
+        ]
+    ], 
+    "HELIX-258": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 19h 35m"
+        ]
+    ], 
+    "HELIX-537": [
+        [
+            "Open", 
+            "Closed", 
+            "37d 22h 41m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "95d 23h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "HELIX-631": [
+        [
+            "Open", 
+            "Resolved", 
+            "146d 6h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "121d 9h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "165d 7h 16m"
+        ]
+    ], 
+    "HELIX-633": [
+        [
+            "Open", 
+            "Closed", 
+            "15d 5h 48m"
+        ]
+    ], 
+    "HELIX-635": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "22d 5h 44m"
+        ]
+    ], 
+    "HELIX-634": [
+        [
+            "Open", 
+            "Closed", 
+            "15d 5h 44m"
+        ]
+    ], 
+    "HELIX-637": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "HELIX-636": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "19h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "38s"
+        ]
+    ], 
+    "HELIX-25": [
+        [
+            "Open", 
+            "Resolved", 
+            "70d 20h 18m"
+        ]
+    ], 
+    "HELIX-24": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 3h 29m"
+        ]
+    ], 
+    "HELIX-129": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 43s"
+        ]
+    ], 
+    "HELIX-549": [
+        [
+            "Open", 
+            "Closed", 
+            "24d 1h 2m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "95d 23h 36m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "HELIX-350": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 19h 15m"
+        ]
+    ], 
+    "HELIX-622": [
+        [
+            "Open", 
+            "Closed", 
+            "230d 21h 35m"
+        ]
+    ], 
+    "HELIX-648": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 18h 12m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "48d 1h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "HELIX-649": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 21h 13m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "48d 1h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "18s"
+        ]
+    ], 
+    "HELIX-132": [
+        [
+            "Open", 
+            "Closed", 
+            "392d 18h 23m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "39d 23h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "HELIX-133": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 49m"
+        ]
+    ], 
+    "HELIX-646": [
+        [
+            "Open", 
+            "Closed", 
+            "23d 21h 31m"
+        ]
+    ], 
+    "HELIX-131": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 50m"
+        ]
+    ], 
+    "HELIX-12": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 4h 33m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "46d 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 23h 29m"
+        ]
+    ], 
+    "HELIX-623": [
+        [
+            "Open", 
+            "Closed", 
+            "230d 21h 29m"
+        ]
+    ], 
+    "HELIX-10": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 23h 56m"
+        ]
+    ], 
+    "HELIX-15": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 7h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 16h 4m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1m 51s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "14s"
+        ]
+    ], 
+    "HELIX-7": [
+        [
+            "Open", 
+            "Resolved", 
+            "186d 1h 29m"
+        ]
+    ], 
+    "HELIX-433": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 23m"
+        ]
+    ], 
+    "HELIX-430": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 47m"
+        ]
+    ], 
+    "HELIX-618": [
+        [
+            "Open", 
+            "Closed", 
+            "248d 1h 22m"
+        ]
+    ], 
+    "HELIX-616": [
+        [
+            "Open", 
+            "Closed", 
+            "279d 22h 39m"
+        ]
+    ], 
+    "HELIX-615": [
+        [
+            "Open", 
+            "Closed", 
+            "279d 22h 59m"
+        ]
+    ], 
+    "HELIX-614": [
+        [
+            "Open", 
+            "Closed", 
+            "279d 23h 3m"
+        ]
+    ], 
+    "HELIX-613": [
+        [
+            "Open", 
+            "Closed", 
+            "292d 16h 1m"
+        ]
+    ], 
+    "HELIX-199": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 11m"
+        ]
+    ], 
+    "HELIX-197": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 28m"
+        ]
+    ], 
+    "HELIX-583": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 20h 13m"
+        ]
+    ], 
+    "HELIX-429": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 1s"
+        ]
+    ], 
+    "HELIX-3": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 8h 4m"
+        ]
+    ], 
+    "HELIX-6": [
+        [
+            "Open", 
+            "Closed", 
+            "35d 5h 28m"
+        ]
+    ], 
+    "HELIX-584": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 10m"
+        ]
+    ], 
+    "HELIX-589": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 8h 32m"
+        ]
+    ], 
+    "HELIX-423": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 28m"
+        ]
+    ], 
+    "ZOOKEEPER-2775": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 21h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 19h 20m"
+        ]
+    ], 
+    "HELIX-87": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 5h 59m"
+        ]
+    ], 
+    "HELIX-221": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 52m"
+        ]
+    ], 
+    "HELIX-343": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 19h 49m"
+        ]
+    ], 
+    "HELIX-91": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 8m"
+        ]
+    ], 
+    "HELIX-345": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 21h 50m"
+        ]
+    ], 
+    "HELIX-118": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 2m"
+        ]
+    ], 
+    "HELIX-119": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "HELIX-569": [
+        [
+            "Open", 
+            "Closed", 
+            "29d 15h 55m"
+        ]
+    ], 
+    "HELIX-568": [
+        [
+            "Open", 
+            "Resolved", 
+            "667d 4h 30m"
+        ]
+    ], 
+    "HELIX-563": [
+        [
+            "Open", 
+            "Closed", 
+            "54d 21h 35m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "HELIX-562": [
+        [
+            "Open", 
+            "Closed", 
+            "70d 18h 3m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "HELIX-518": [
+        [
+            "Open", 
+            "Closed", 
+            "84d 4h 54m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "95d 22h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "HELIX-75": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 11m"
+        ]
+    ], 
+    "HELIX-76": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 4h 25m"
+        ]
+    ], 
+    "HELIX-591": [
+        [
+            "Open", 
+            "Closed", 
+            "195d 1h 20m"
+        ]
+    ], 
+    "HELIX-592": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 4h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "HELIX-453": [
+        [
+            "Open", 
+            "Closed", 
+            "36d 18h 38m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "39d 23h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9s"
+        ]
+    ], 
+    "HELIX-299": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 38s"
+        ]
+    ], 
+    "HELIX-298": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "HELIX-356": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m"
+        ]
+    ], 
+    "HELIX-519": [
+        [
+            "Open", 
+            "Closed", 
+            "84d 4h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "95d 22h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "28s"
+        ]
+    ], 
+    "HELIX-514": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 2h 50m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "173d 21h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "21s"
+        ]
+    ], 
+    "HELIX-292": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 1m"
+        ]
+    ], 
+    "HELIX-89": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 1h 33m"
+        ]
+    ], 
+    "HELIX-512": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 23h 57m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "173d 21h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "30s"
+        ]
+    ], 
+    "HELIX-600": [
+        [
+            "Open", 
+            "Closed", 
+            "151d 9h 22m"
+        ]
+    ], 
+    "HELIX-578": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 35m"
+        ]
+    ], 
+    "HELIX-676": [
+        [
+            "Open", 
+            "Closed", 
+            "46d 5h 37m"
+        ]
+    ], 
+    "HELIX-673": [
+        [
+            "Open", 
+            "Closed", 
+            "17h 48m"
+        ]
+    ], 
+    "HELIX-572": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 23h 32m"
+        ]
+    ], 
+    "HELIX-574": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 15h 30m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "HELIX-575": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 10h 25m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "HELIX-448": [
+        [
+            "Open", 
+            "Resolved", 
+            "57m 20s"
+        ]
+    ], 
+    "HELIX-445": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 16h 7m"
+        ]
+    ], 
+    "HELIX-443": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 23h 41m"
+        ]
+    ], 
+    "HELIX-363": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 23m"
+        ]
+    ], 
+    "HELIX-280": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 11m"
+        ]
+    ], 
+    "HELIX-281": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 1h 55m"
+        ]
+    ], 
+    "HELIX-380": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 14h 15m"
+        ]
+    ], 
+    "HELIX-383": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 16m"
+        ]
+    ], 
+    "HELIX-382": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 39m"
+        ]
+    ], 
+    "HELIX-547": [
+        [
+            "Open", 
+            "Closed", 
+            "124d 18h 20m"
+        ]
+    ], 
+    "HELIX-543": [
+        [
+            "Open", 
+            "Closed", 
+            "716d 14h 45m"
+        ]
+    ], 
+    "HELIX-541": [
+        [
+            "Open", 
+            "Closed", 
+            "33d 32m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "95d 23h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "22s"
+        ]
+    ], 
+    "HELIX-59": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 3h 21m"
+        ]
+    ], 
+    "HELIX-57": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 14h 12m"
+        ]
+    ], 
+    "HELIX-55": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 15h 50m"
+        ]
+    ], 
+    "HELIX-50": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 18h 19m"
+        ]
+    ], 
+    "HELIX-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3m"
+        ]
+    ], 
+    "HELIX-148": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 56m"
+        ]
+    ], 
+    "HELIX-141": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 8h 8m"
+        ]
+    ], 
+    "HELIX-140": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 17s"
+        ]
+    ], 
+    "HELIX-147": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 2h 41m"
+        ]
+    ], 
+    "HELIX-144": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 17h 37m"
+        ]
+    ], 
+    "HELIX-279": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 23h 33m"
+        ]
+    ]
+}

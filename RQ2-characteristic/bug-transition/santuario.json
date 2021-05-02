@@ -1,0 +1,559 @@
+{
+    "WSS-462": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "294d 23h 33m"
+        ]
+    ], 
+    "SANTUARIO-379": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 3h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 23h 35m"
+        ]
+    ], 
+    "SANTUARIO-415": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 31m"
+        ]
+    ], 
+    "WSS-508": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 1h 37m"
+        ]
+    ], 
+    "SANTUARIO-373": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "156d 3h 44m"
+        ]
+    ], 
+    "SANTUARIO-371": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 3h 15m"
+        ]
+    ], 
+    "SANTUARIO-441": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 14h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 19h 2m"
+        ]
+    ], 
+    "SANTUARIO-443": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 19h 7m"
+        ]
+    ], 
+    "SANTUARIO-408": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 17h 48m"
+        ]
+    ], 
+    "SANTUARIO-445": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 15h 1m"
+        ]
+    ], 
+    "SANTUARIO-446": [
+        [
+            "Open", 
+            "Resolved", 
+            "57m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 22h 43m"
+        ]
+    ], 
+    "SANTUARIO-462": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 23h 6m"
+        ]
+    ], 
+    "SANTUARIO-463": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "123d 4h 28m"
+        ]
+    ], 
+    "SANTUARIO-406": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 22h 45m"
+        ]
+    ], 
+    "SANTUARIO-401": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "97d 1h 47m"
+        ]
+    ], 
+    "SANTUARIO-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8d 17h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 3h 23m"
+        ]
+    ], 
+    "SANTUARIO-465": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "81d 3h 48m"
+        ]
+    ], 
+    "SANTUARIO-394": [
+        [
+            "Open", 
+            "Resolved", 
+            "203d 2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 16h 50m"
+        ]
+    ], 
+    "SANTUARIO-504": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 22h 38m"
+        ]
+    ], 
+    "SANTUARIO-424": [
+        [
+            "Open", 
+            "Resolved", 
+            "115d 23h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 2h 33m"
+        ]
+    ], 
+    "SANTUARIO-397": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 23h 11m"
+        ]
+    ], 
+    "SANTUARIO-393": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 2h 13m"
+        ]
+    ], 
+    "SANTUARIO-398": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 14h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 4h 8m"
+        ]
+    ], 
+    "SANTUARIO-399": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 5h 14m"
+        ]
+    ], 
+    "SANTUARIO-372": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 2h 29m"
+        ]
+    ], 
+    "SANTUARIO-481": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 6h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 18h 36m"
+        ]
+    ], 
+    "SANTUARIO-483": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 4h 25m"
+        ]
+    ], 
+    "SANTUARIO-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "277d 25m"
+        ]
+    ], 
+    "SANTUARIO-369": [
+        [
+            "Open", 
+            "Resolved", 
+            "47m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "186d 18h 5m"
+        ]
+    ], 
+    "SANTUARIO-368": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 3h 56m"
+        ]
+    ], 
+    "WSS-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "278d"
+        ]
+    ], 
+    "WSS-452": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "322d 22h 26m"
+        ]
+    ], 
+    "SANTUARIO-365": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "261d 4h 48m"
+        ]
+    ], 
+    "SANTUARIO-457": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 20h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 22h 34m"
+        ]
+    ], 
+    "SANTUARIO-450": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 19h 38m"
+        ]
+    ], 
+    "WSS-436": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 45m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 1h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 18h 18m"
+        ]
+    ], 
+    "WSS-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "374d 21h 52m"
+        ]
+    ], 
+    "SANTUARIO-459": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 22h 44m"
+        ]
+    ], 
+    "SANTUARIO-436": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 36m"
+        ]
+    ], 
+    "SANTUARIO-431": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 22h 40m"
+        ]
+    ], 
+    "SANTUARIO-430": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 2h 49m"
+        ]
+    ], 
+    "SANTUARIO-433": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 20h 21m"
+        ]
+    ], 
+    "SANTUARIO-414": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 16h 22m"
+        ]
+    ], 
+    "SANTUARIO-383": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 4h 11m"
+        ]
+    ], 
+    "SANTUARIO-387": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 14h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 18h 39m"
+        ]
+    ], 
+    "SANTUARIO-499": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 58m"
+        ]
+    ]
+}

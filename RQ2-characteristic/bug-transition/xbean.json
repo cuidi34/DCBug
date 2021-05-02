@@ -1,0 +1,925 @@
+{
+    "XBEAN-99": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 41m"
+        ]
+    ], 
+    "XBEAN-94": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 15h 35m"
+        ]
+    ], 
+    "XBEAN-95": [
+        [
+            "Open", 
+            "Closed", 
+            "133d 8h 4m"
+        ]
+    ], 
+    "XBEAN-91": [
+        [
+            "Open", 
+            "Closed", 
+            "9h 35m"
+        ]
+    ], 
+    "XBEAN-92": [
+        [
+            "Open", 
+            "Closed", 
+            "735d 6h 36m"
+        ]
+    ], 
+    "XBEAN-93": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 29s"
+        ]
+    ], 
+    "XBEAN-15": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "595d 16h 31m"
+        ]
+    ], 
+    "XBEAN-16": [
+        [
+            "Open", 
+            "Closed", 
+            "24m 42s"
+        ]
+    ], 
+    "XBEAN-13": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "595d 16h 24m"
+        ]
+    ], 
+    "XBEAN-122": [
+        [
+            "Open", 
+            "Closed", 
+            "71d 22h 44m"
+        ], 
+        [
+            "Closed", 
+            "Open", 
+            "120d 22h 13m"
+        ]
+    ], 
+    "XBEAN-121": [
+        [
+            "Open", 
+            "Closed", 
+            "1331d 18h 41m"
+        ]
+    ], 
+    "XBEAN-238": [
+        [
+            "Open", 
+            "Closed", 
+            "38d 6h 3m"
+        ]
+    ], 
+    "XBEAN-127": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 25s"
+        ], 
+        [
+            "Closed", 
+            "Open", 
+            "1d 4h 3m"
+        ]
+    ], 
+    "XBEAN-126": [
+        [
+            "Open", 
+            "Closed", 
+            "32d 4h 12m"
+        ]
+    ], 
+    "XBEAN-125": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 47m"
+        ]
+    ], 
+    "XBEAN-233": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 22s"
+        ]
+    ], 
+    "XBEAN-6": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 11h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 7h 38m"
+        ]
+    ], 
+    "XBEAN-141": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 48m"
+        ]
+    ], 
+    "XBEAN-258": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 9m"
+        ]
+    ], 
+    "XBEAN-89": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 36m"
+        ]
+    ], 
+    "XBEAN-146": [
+        [
+            "Open", 
+            "Closed", 
+            "922d 21h 28m"
+        ]
+    ], 
+    "XBEAN-84": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 5s"
+        ]
+    ], 
+    "XBEAN-254": [
+        [
+            "Open", 
+            "In Progress", 
+            "44s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "XBEAN-81": [
+        [
+            "Open", 
+            "Closed", 
+            "28m 32s"
+        ]
+    ], 
+    "XBEAN-80": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 28s"
+        ]
+    ], 
+    "XBEAN-134": [
+        [
+            "Closed", 
+            "Open", 
+            "17s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "15d 53m"
+        ]
+    ], 
+    "XBEAN-135": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 52m"
+        ]
+    ], 
+    "XBEAN-136": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 27m"
+        ]
+    ], 
+    "XBEAN-130": [
+        [
+            "Open", 
+            "Closed", 
+            "107d 16h 51m"
+        ]
+    ], 
+    "XBEAN-132": [
+        [
+            "Open", 
+            "Closed", 
+            "92d 16h 49m"
+        ]
+    ], 
+    "XBEAN-133": [
+        [
+            "Closed", 
+            "Open", 
+            "16h 30m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "2d 23h 28m"
+        ]
+    ], 
+    "XBEAN-139": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "7h 37m"
+        ]
+    ], 
+    "XBEAN-153": [
+        [
+            "Open", 
+            "Closed", 
+            "20m 42s"
+        ]
+    ], 
+    "XBEAN-248": [
+        [
+            "Open", 
+            "Closed", 
+            "51s"
+        ]
+    ], 
+    "XBEAN-249": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 47m"
+        ]
+    ], 
+    "XBEAN-156": [
+        [
+            "Open", 
+            "Closed", 
+            "638d 18h 46m"
+        ]
+    ], 
+    "XBEAN-154": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 21s"
+        ]
+    ], 
+    "XBEAN-155": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 26s"
+        ]
+    ], 
+    "XBEAN-242": [
+        [
+            "Open", 
+            "Closed", 
+            "38d 20h 39m"
+        ]
+    ], 
+    "XBEAN-241": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 7h 26m"
+        ]
+    ], 
+    "XBEAN-39": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 12h 11m"
+        ]
+    ], 
+    "XBEAN-32": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "540d 8h 34m"
+        ]
+    ], 
+    "XBEAN-30": [
+        [
+            "Open", 
+            "Resolved", 
+            "49m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "541d 5m"
+        ]
+    ], 
+    "XBEAN-37": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 25m"
+        ]
+    ], 
+    "XBEAN-279": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 22h 5m"
+        ]
+    ], 
+    "XBEAN-161": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 50s"
+        ]
+    ], 
+    "XBEAN-278": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 22h 6m"
+        ]
+    ], 
+    "XBEAN-277": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 29s"
+        ]
+    ], 
+    "XBEAN-274": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 21s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "47s"
+        ]
+    ], 
+    "XBEAN-272": [
+        [
+            "Open", 
+            "Closed", 
+            "29m 3s"
+        ]
+    ], 
+    "OPENEJB-1252": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 23s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4d 2h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "196d 23h 43m"
+        ]
+    ], 
+    "XBEAN-270": [
+        [
+            "Open", 
+            "Closed", 
+            "23m 43s"
+        ]
+    ], 
+    "XBEAN-29": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 22h 27m"
+        ]
+    ], 
+    "XBEAN-26": [
+        [
+            "Open", 
+            "Closed", 
+            "17d 15h 52m"
+        ]
+    ], 
+    "XBEAN-21": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 18h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "561d 4h 23m"
+        ]
+    ], 
+    "XBEAN-23": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "561d 4h 29m"
+        ]
+    ], 
+    "XBEAN-263": [
+        [
+            "Closed", 
+            "Open", 
+            "1h 39m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "23h 19m"
+        ]
+    ], 
+    "XBEAN-264": [
+        [
+            "Closed", 
+            "Open", 
+            "1h 39m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "21h 41m"
+        ]
+    ], 
+    "XBEAN-266": [
+        [
+            "Open", 
+            "Closed", 
+            "7h 4m"
+        ]
+    ], 
+    "XBEAN-268": [
+        [
+            "Open", 
+            "Closed", 
+            "50s"
+        ]
+    ], 
+    "XBEAN-150": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 18h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "40s"
+        ]
+    ], 
+    "XBEAN-51": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 45s"
+        ]
+    ], 
+    "XBEAN-52": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 31s"
+        ]
+    ], 
+    "XBEAN-53": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 56s"
+        ]
+    ], 
+    "XBEAN-54": [
+        [
+            "Open", 
+            "Closed", 
+            "23m 8s"
+        ]
+    ], 
+    "XBEAN-55": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h 26m"
+        ]
+    ], 
+    "XBEAN-56": [
+        [
+            "Open", 
+            "Closed", 
+            "43m 25s"
+        ]
+    ], 
+    "XBEAN-57": [
+        [
+            "Open", 
+            "Closed", 
+            "20m 12s"
+        ]
+    ], 
+    "ARIES-111": [
+        [
+            "Open", 
+            "Closed", 
+            "30d 7h 51m"
+        ]
+    ], 
+    "XBEAN-185": [
+        [
+            "Open", 
+            "Closed", 
+            "42m 44s"
+        ]
+    ], 
+    "XBEAN-181": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 7h 22m"
+        ]
+    ], 
+    "XBEAN-188": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 19h 25m"
+        ]
+    ], 
+    "XBEAN-49": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "2h 12m"
+        ]
+    ], 
+    "XBEAN-48": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 46s"
+        ]
+    ], 
+    "XBEAN-43": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 8h 7m"
+        ]
+    ], 
+    "XBEAN-42": [
+        [
+            "Open", 
+            "Closed", 
+            "45m 43s"
+        ]
+    ], 
+    "XBEAN-41": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 6h 47m"
+        ]
+    ], 
+    "XBEAN-40": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 39m"
+        ]
+    ], 
+    "XBEAN-47": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 41m"
+        ]
+    ], 
+    "XBEAN-46": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 3h 10m"
+        ]
+    ], 
+    "XBEAN-44": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 12h 9m"
+        ]
+    ], 
+    "XBEAN-178": [
+        [
+            "Open", 
+            "Closed", 
+            "339d 3h 4m"
+        ]
+    ], 
+    "XBEAN-179": [
+        [
+            "Open", 
+            "Closed", 
+            "319d 10h 32m"
+        ]
+    ], 
+    "XBEAN-239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 22h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "36s"
+        ]
+    ], 
+    "XBEAN-195": [
+        [
+            "Open", 
+            "Closed", 
+            "187d 14h 43m"
+        ]
+    ], 
+    "XBEAN-192": [
+        [
+            "Closed", 
+            "Open", 
+            "18s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "1m 48s"
+        ]
+    ], 
+    "XBEAN-193": [
+        [
+            "Open", 
+            "Closed", 
+            "21d 10h 32m"
+        ]
+    ], 
+    "XBEAN-190": [
+        [
+            "Open", 
+            "Closed", 
+            "358d 9h 59m"
+        ]
+    ], 
+    "XBEAN-298": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 53s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "XBEAN-76": [
+        [
+            "Open", 
+            "Closed", 
+            "45m 33s"
+        ]
+    ], 
+    "XBEAN-75": [
+        [
+            "Open", 
+            "In Progress", 
+            "20m 7s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1m 33s"
+        ]
+    ], 
+    "XBEAN-73": [
+        [
+            "Open", 
+            "Closed", 
+            "29d 17h 40m"
+        ]
+    ], 
+    "XBEAN-3": [
+        [
+            "Open", 
+            "Closed", 
+            "130d 6h 40m"
+        ]
+    ], 
+    "XBEAN-1": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 1h 12m"
+        ]
+    ], 
+    "XBEAN-109": [
+        [
+            "Open", 
+            "In Progress", 
+            "291d 21h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "5m 20s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "125d 1h 36m"
+        ]
+    ], 
+    "XBEAN-7": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 7h 38m"
+        ]
+    ], 
+    "XBEAN-107": [
+        [
+            "Closed", 
+            "Open", 
+            "7d 23h 12m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "3m 56s"
+        ]
+    ], 
+    "XBEAN-106": [
+        [
+            "Closed", 
+            "Open", 
+            "7d 22h 3m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "8d 2h 9m"
+        ]
+    ], 
+    "XBEAN-101": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "XBEAN-65": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 17s"
+        ]
+    ], 
+    "XBEAN-67": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 38s"
+        ]
+    ], 
+    "XBEAN-289": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 17s"
+        ]
+    ], 
+    "XBEAN-286": [
+        [
+            "Closed", 
+            "Open", 
+            "1m 11s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "28s"
+        ]
+    ], 
+    "XBEAN-284": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 11s"
+        ]
+    ], 
+    "XBEAN-282": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 35s"
+        ]
+    ], 
+    "XBEAN-283": [
+        [
+            "Open", 
+            "Closed", 
+            "10h 15m"
+        ]
+    ], 
+    "XBEAN-280": [
+        [
+            "Open", 
+            "Closed", 
+            "32s"
+        ]
+    ], 
+    "XBEAN-119": [
+        [
+            "Open", 
+            "Closed", 
+            "1380d 15h 42m"
+        ]
+    ], 
+    "XBEAN-115": [
+        [
+            "Closed", 
+            "Open", 
+            "7m 28s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "1m 39s"
+        ]
+    ]
+}

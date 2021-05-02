@@ -1,0 +1,950 @@
+{
+    "CURATOR-358": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "CURATOR-410": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 18m"
+        ]
+    ], 
+    "CURATOR-354": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 5h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "CURATOR-110": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 50m"
+        ]
+    ], 
+    "CURATOR-420": [
+        [
+            "Open", 
+            "Resolved", 
+            "32m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 42s"
+        ]
+    ], 
+    "CURATOR-224": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 38m"
+        ]
+    ], 
+    "CURATOR-423": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 26m"
+        ]
+    ], 
+    "CURATOR-119": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 9h 8m"
+        ]
+    ], 
+    "CURATOR-228": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 20h 40m"
+        ]
+    ], 
+    "CURATOR-190": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 20h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "29d 20m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "26d 2h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3h 41m"
+        ]
+    ], 
+    "CURATOR-491": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 3m"
+        ]
+    ], 
+    "CURATOR-495": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 38m"
+        ]
+    ], 
+    "CURATOR-498": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 14h 25m"
+        ]
+    ], 
+    "CURATOR-419": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 22h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 18h 16m"
+        ]
+    ], 
+    "CURATOR-126": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 25m"
+        ]
+    ], 
+    "CURATOR-329": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 15m"
+        ]
+    ], 
+    "CURATOR-326": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 50m"
+        ]
+    ], 
+    "CURATOR-127": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 45m"
+        ]
+    ], 
+    "CURATOR-254": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13m 2s"
+        ]
+    ], 
+    "CURATOR-121": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 21h 17m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7m 1s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "20s"
+        ]
+    ], 
+    "CURATOR-128": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 43m"
+        ]
+    ], 
+    "CURATOR-258": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 2h 47m"
+        ]
+    ], 
+    "CURATOR-21": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 23h 27m"
+        ]
+    ], 
+    "CURATOR-27": [
+        [
+            "Open", 
+            "Resolved", 
+            "136d 2h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "19h 48m"
+        ]
+    ], 
+    "CURATOR-369": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 17m"
+        ]
+    ], 
+    "CURATOR-480": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 23h 48m"
+        ]
+    ], 
+    "CURATOR-481": [
+        [
+            "Open", 
+            "Closed", 
+            "145d 7h 7m"
+        ]
+    ], 
+    "CURATOR-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 59m"
+        ]
+    ], 
+    "CURATOR-139": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 7h 50m"
+        ]
+    ], 
+    "CURATOR-409": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 30m"
+        ]
+    ], 
+    "CURATOR-132": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 22h 37m"
+        ]
+    ], 
+    "CURATOR-130": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 58s"
+        ]
+    ], 
+    "CURATOR-405": [
+        [
+            "Open", 
+            "Resolved", 
+            "586d 2h 35m"
+        ]
+    ], 
+    "CURATOR-136": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 15m"
+        ]
+    ], 
+    "CURATOR-137": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 16m"
+        ]
+    ], 
+    "CURATOR-332": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 6h 5m"
+        ]
+    ], 
+    "CURATOR-244": [
+        [
+            "Open", 
+            "Resolved", 
+            "160d 4h 41m"
+        ]
+    ], 
+    "CURATOR-240": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 33m"
+        ]
+    ], 
+    "CURATOR-241": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 29m"
+        ]
+    ], 
+    "CURATOR-58": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 19h 12m"
+        ]
+    ], 
+    "CURATOR-56": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 39m"
+        ]
+    ], 
+    "CURATOR-270": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 12m"
+        ]
+    ], 
+    "CURATOR-52": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 13h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13d 6h 44m"
+        ]
+    ], 
+    "CURATOR-53": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "61d 7h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 1h 13m"
+        ]
+    ], 
+    "CURATOR-278": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 2h 56m"
+        ]
+    ], 
+    "CURATOR-302": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 45m"
+        ]
+    ], 
+    "CURATOR-308": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 13h 58m"
+        ]
+    ], 
+    "CURATOR-141": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 18h 54m"
+        ]
+    ], 
+    "CURATOR-388": [
+        [
+            "Open", 
+            "Resolved", 
+            "298d 6h 18m"
+        ]
+    ], 
+    "CURATOR-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "91d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16m 8s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 1h 37m"
+        ]
+    ], 
+    "CURATOR-116": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 19h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 33s"
+        ]
+    ], 
+    "CURATOR-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "132d 19h 47m"
+        ]
+    ], 
+    "CURATOR-476": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 12h"
+        ]
+    ], 
+    "CURATOR-475": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 18h 17m"
+        ]
+    ], 
+    "CURATOR-45": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 20h 47m"
+        ]
+    ], 
+    "CURATOR-394": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 16h 58m"
+        ]
+    ], 
+    "CURATOR-42": [
+        [
+            "Open", 
+            "Closed", 
+            "398d 23h 2m"
+        ]
+    ], 
+    "CURATOR-317": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 18m"
+        ]
+    ], 
+    "CURATOR-315": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 21h 58m"
+        ]
+    ], 
+    "CURATOR-311": [
+        [
+            "Open", 
+            "Resolved", 
+            "474d 22h 23m"
+        ]
+    ], 
+    "CURATOR-154": [
+        [
+            "Open", 
+            "Closed", 
+            "183d 7h 15m"
+        ]
+    ], 
+    "CURATOR-156": [
+        [
+            "Open", 
+            "Closed", 
+            "13h 39m"
+        ]
+    ], 
+    "CURATOR-262": [
+        [
+            "Open", 
+            "Resolved", 
+            "255d 2h 25m"
+        ]
+    ], 
+    "CURATOR-460": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 6h 39m"
+        ]
+    ], 
+    "CURATOR-462": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 13h 49m"
+        ]
+    ], 
+    "CURATOR-392": [
+        [
+            "Open", 
+            "Resolved", 
+            "131d 21h 56m"
+        ]
+    ], 
+    "CURATOR-391": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 18h 12m"
+        ]
+    ], 
+    "CURATOR-71": [
+        [
+            "Open", 
+            "Closed", 
+            "276d 15h 47m"
+        ]
+    ], 
+    "CURATOR-72": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 17h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "79d 21h 54m"
+        ]
+    ], 
+    "CURATOR-73": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 11h 50m"
+        ]
+    ], 
+    "CURATOR-75": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 20h 32m"
+        ]
+    ], 
+    "CURATOR-79": [
+        [
+            "Open", 
+            "Resolved", 
+            "266d 18h"
+        ]
+    ], 
+    "CURATOR-18": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 23h 58m"
+        ]
+    ], 
+    "CURATOR-290": [
+        [
+            "Open", 
+            "Resolved", 
+            "47m 33s"
+        ]
+    ], 
+    "CURATOR-297": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 11m"
+        ]
+    ], 
+    "CURATOR-167": [
+        [
+            "Open", 
+            "Resolved", 
+            "280d 13h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 24m"
+        ]
+    ], 
+    "CURATOR-299": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 16h 15m"
+        ]
+    ], 
+    "CURATOR-362": [
+        [
+            "Open", 
+            "Resolved", 
+            "224d 5h 9m"
+        ]
+    ], 
+    "CURATOR-361": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "CURATOR-218": [
+        [
+            "Open", 
+            "Resolved", 
+            "104d 1h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 5h 34m"
+        ]
+    ], 
+    "CURATOR-367": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 7h 2m"
+        ]
+    ], 
+    "CURATOR-105": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 22h 29m"
+        ]
+    ], 
+    "CURATOR-364": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 5h 20m"
+        ]
+    ], 
+    "CURATOR-211": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 35m"
+        ]
+    ], 
+    "CURATOR-210": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 1m"
+        ]
+    ], 
+    "CURATOR-452": [
+        [
+            "Open", 
+            "Resolved", 
+            "135d 14h 28m"
+        ]
+    ], 
+    "CURATOR-67": [
+        [
+            "Open", 
+            "Closed", 
+            "291d 6h 44m"
+        ]
+    ], 
+    "CURATOR-281": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 1m"
+        ]
+    ], 
+    "CURATOR-175": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 8h 4m"
+        ]
+    ], 
+    "CURATOR-284": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 6m"
+        ]
+    ], 
+    "CURATOR-173": [
+        [
+            "Open", 
+            "Closed", 
+            "117d 22h 52m"
+        ]
+    ], 
+    "CURATOR-286": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 24m"
+        ]
+    ], 
+    "CURATOR-81": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 14m"
+        ]
+    ], 
+    "CURATOR-85": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 20h 15m"
+        ]
+    ], 
+    "CURATOR-179": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 22h 31m"
+        ]
+    ], 
+    "CURATOR-208": [
+        [
+            "Open", 
+            "Resolved", 
+            "282d 14h 54m"
+        ]
+    ], 
+    "CURATOR-443": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 8h 7m"
+        ]
+    ], 
+    "CURATOR-337": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "CURATOR-376": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 31m"
+        ]
+    ], 
+    "CURATOR-400": [
+        [
+            "Open", 
+            "Resolved", 
+            "99d 11h 45m"
+        ]
+    ], 
+    "CURATOR-131": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 9h 10m"
+        ]
+    ], 
+    "CURATOR-344": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 6h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "CURATOR-341": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 12h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "CURATOR-431": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 11h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "CURATOR-430": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 15h 58m"
+        ]
+    ], 
+    "CURATOR-235": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3m"
+        ]
+    ], 
+    "CURATOR-234": [
+        [
+            "Open", 
+            "In Progress", 
+            "32d 8h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "8d 14h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 1h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 2h 15m"
+        ]
+    ], 
+    "CURATOR-236": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 30s"
+        ]
+    ], 
+    "CURATOR-231": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 23h 27m"
+        ]
+    ]
+}

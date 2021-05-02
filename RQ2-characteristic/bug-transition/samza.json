@@ -1,0 +1,7445 @@
+{
+    "SAMZA-731": [
+        [
+            "Open", 
+            "In Progress", 
+            "69d 6h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 9h 59m"
+        ]
+    ], 
+    "SAMZA-1817": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 20h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15d 2h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 2h 55m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "35d 17h 37m"
+        ]
+    ], 
+    "SAMZA-1428": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 13s"
+        ]
+    ], 
+    "SAMZA-1813": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 21h 6m"
+        ]
+    ], 
+    "SAMZA-1954": [
+        [
+            "Open", 
+            "Resolved", 
+            "154d 21h 43m"
+        ]
+    ], 
+    "SAMZA-795": [
+        [
+            "Open", 
+            "In Progress", 
+            "53m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 55m"
+        ]
+    ], 
+    "SAMZA-1956": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 31m"
+        ]
+    ], 
+    "SAMZA-797": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 2h 43m"
+        ]
+    ], 
+    "SAMZA-791": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 9h 29m"
+        ]
+    ], 
+    "SAMZA-792": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "14h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56m 31s"
+        ]
+    ], 
+    "SAMZA-1953": [
+        [
+            "Open", 
+            "Resolved", 
+            "154d 22h 35m"
+        ]
+    ], 
+    "SAMZA-798": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 14h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 7m"
+        ]
+    ], 
+    "SAMZA-151": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "63d 3h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 48m"
+        ]
+    ], 
+    "SAMZA-156": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 7h 33m"
+        ]
+    ], 
+    "SAMZA-157": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 23h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "20h 33m"
+        ]
+    ], 
+    "SAMZA-154": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 4h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 16h 1m"
+        ]
+    ], 
+    "SAMZA-155": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 2h 49m"
+        ]
+    ], 
+    "SAMZA-158": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 41m"
+        ]
+    ], 
+    "SAMZA-1550": [
+        [
+            "Open", 
+            "Resolved", 
+            "73d 1h 8m"
+        ]
+    ], 
+    "SAMZA-1220": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 11m"
+        ]
+    ], 
+    "SAMZA-1553": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 3h 39m"
+        ]
+    ], 
+    "SAMZA-1556": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46s"
+        ]
+    ], 
+    "SAMZA-1557": [
+        [
+            "Open", 
+            "In Progress", 
+            "39s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "37d 19h 11m"
+        ]
+    ], 
+    "SAMZA-1653": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 5h 42m"
+        ]
+    ], 
+    "SAMZA-1651": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 54m"
+        ]
+    ], 
+    "SAMZA-1229": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 3h 48m"
+        ]
+    ], 
+    "SAMZA-1656": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1723": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2s"
+        ]
+    ], 
+    "SAMZA-59": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 4h 23m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "263d 7h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 57m"
+        ]
+    ], 
+    "SAMZA-1720": [
+        [
+            "Open", 
+            "Resolved", 
+            "305d 18h 13m"
+        ]
+    ], 
+    "SAMZA-299": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 13m"
+        ]
+    ], 
+    "SAMZA-1725": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 44m"
+        ]
+    ], 
+    "SAMZA-1042": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 38m"
+        ]
+    ], 
+    "SAMZA-294": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 27m"
+        ]
+    ], 
+    "SAMZA-1040": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 20s"
+        ]
+    ], 
+    "SAMZA-1728": [
+        [
+            "Open", 
+            "Resolved", 
+            "64d 12h 12m"
+        ]
+    ], 
+    "SAMZA-1046": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 6h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 20m"
+        ]
+    ], 
+    "SAMZA-1047": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 15h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 12h 27m"
+        ]
+    ], 
+    "SAMZA-56": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 10m"
+        ]
+    ], 
+    "SAMZA-57": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 48m"
+        ]
+    ], 
+    "SAMZA-842": [
+        [
+            "Open", 
+            "Patch Available", 
+            "259d 9h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 14h 33m"
+        ]
+    ], 
+    "SAMZA-1138": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 11h 44m"
+        ]
+    ], 
+    "SAMZA-846": [
+        [
+            "Open", 
+            "In Progress", 
+            "49m 32s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 3h 27m"
+        ]
+    ], 
+    "SAMZA-481": [
+        [
+            "Open", 
+            "Resolved", 
+            "60d 22h 56m"
+        ]
+    ], 
+    "SAMZA-486": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 11m"
+        ]
+    ], 
+    "SAMZA-487": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 9h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 22m"
+        ]
+    ], 
+    "SAMZA-796": [
+        [
+            "Open", 
+            "In Progress", 
+            "14m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 59m"
+        ]
+    ], 
+    "SAMZA-28": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 3h 19m"
+        ]
+    ], 
+    "SAMZA-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 22m"
+        ]
+    ], 
+    "SAMZA-999": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 17h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 50m"
+        ]
+    ], 
+    "SAMZA-25": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 5h 39m"
+        ]
+    ], 
+    "SAMZA-994": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 17h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1m 27s"
+        ]
+    ], 
+    "SAMZA-995": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54d 15h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21s"
+        ]
+    ], 
+    "SAMZA-992": [
+        [
+            "Open", 
+            "In Progress", 
+            "14s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16d 17h 56m"
+        ]
+    ], 
+    "SAMZA-20": [
+        [
+            "Open", 
+            "Patch Available", 
+            "297d 13h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 2m"
+        ]
+    ], 
+    "SAMZA-658": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 20h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 7h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14d 4h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9h 39m"
+        ]
+    ], 
+    "SAMZA-793": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 6h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "19h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24d 22h 37m"
+        ]
+    ], 
+    "SAMZA-206": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "40m 36s"
+        ]
+    ], 
+    "SAMZA-893": [
+        [
+            "Open", 
+            "In Progress", 
+            "12m 8s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 18h 52m"
+        ]
+    ], 
+    "SAMZA-202": [
+        [
+            "Open", 
+            "Patch Available", 
+            "126d 22h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 1m"
+        ]
+    ], 
+    "SAMZA-579": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 5m"
+        ]
+    ], 
+    "SAMZA-201": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 32s"
+        ]
+    ], 
+    "SAMZA-574": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 6m"
+        ]
+    ], 
+    "SAMZA-576": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 4h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 34m"
+        ]
+    ], 
+    "SAMZA-577": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 35m"
+        ]
+    ], 
+    "SAMZA-572": [
+        [
+            "Open", 
+            "Patch Available", 
+            "105d 17h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 4h 15m"
+        ]
+    ], 
+    "SAMZA-209": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 23m"
+        ]
+    ], 
+    "SAMZA-778": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 14h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 47m"
+        ]
+    ], 
+    "SAMZA-1508": [
+        [
+            "Open", 
+            "Resolved", 
+            "176d 20h 58m"
+        ]
+    ], 
+    "SAMZA-470": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 59m"
+        ]
+    ], 
+    "SAMZA-473": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 32m"
+        ]
+    ], 
+    "SAMZA-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 53m"
+        ]
+    ], 
+    "SAMZA-897": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 53m"
+        ]
+    ], 
+    "SAMZA-770": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 20h 58m"
+        ]
+    ], 
+    "SAMZA-2111": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 17h 33m"
+        ]
+    ], 
+    "SAMZA-2309": [
+        [
+            "Open", 
+            "In Progress", 
+            "46m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 15s"
+        ]
+    ], 
+    "SAMZA-1921": [
+        [
+            "Open", 
+            "Resolved", 
+            "172d 22h 34m"
+        ]
+    ], 
+    "SAMZA-337": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 58m"
+        ]
+    ], 
+    "SAMZA-2231": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 21h 16m"
+        ]
+    ], 
+    "SAMZA-503": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 4h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 8h 29m"
+        ]
+    ], 
+    "SAMZA-505": [
+        [
+            "Open", 
+            "Patch Available", 
+            "57d 3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 9m"
+        ]
+    ], 
+    "SAMZA-507": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 17m"
+        ]
+    ], 
+    "SAMZA-1914": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 33m"
+        ]
+    ], 
+    "SAMZA-1667": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-1664": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 22h 57m"
+        ]
+    ], 
+    "SAMZA-1397": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "SAMZA-1121": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 9m"
+        ]
+    ], 
+    "SAMZA-1033": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 21h 55m"
+        ]
+    ], 
+    "SAMZA-922": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 20h 29m"
+        ]
+    ], 
+    "SAMZA-1392": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 2h 8m"
+        ]
+    ], 
+    "SAMZA-114": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 12m"
+        ]
+    ], 
+    "SAMZA-115": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 42m"
+        ]
+    ], 
+    "SAMZA-110": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 5h 41m"
+        ]
+    ], 
+    "SAMZA-111": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 4h 44m"
+        ]
+    ], 
+    "SAMZA-1187": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 7h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 57m"
+        ]
+    ], 
+    "SAMZA-1222": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 20h 27m"
+        ]
+    ], 
+    "SAMZA-1183": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 7h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "22h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "363d 21h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1182": [
+        [
+            "Open", 
+            "In Progress", 
+            "13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18d 18m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "58m 8s"
+        ]
+    ], 
+    "SAMZA-1181": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 35m"
+        ]
+    ], 
+    "SAMZA-1269": [
+        [
+            "Open", 
+            "Resolved", 
+            "151d 4h 23m"
+        ]
+    ], 
+    "SAMZA-1266": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 8m"
+        ]
+    ], 
+    "SAMZA-1267": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 54m"
+        ]
+    ], 
+    "SAMZA-1264": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 7h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SAMZA-1263": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 14s"
+        ]
+    ], 
+    "SAMZA-1189": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 40m"
+        ]
+    ], 
+    "SAMZA-1261": [
+        [
+            "Open", 
+            "Resolved", 
+            "368d 2h"
+        ]
+    ], 
+    "SAMZA-1340": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 15h 30m"
+        ]
+    ], 
+    "SAMZA-1615": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 13m"
+        ]
+    ], 
+    "SAMZA-1221": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 15m"
+        ]
+    ], 
+    "SAMZA-1611": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 2m"
+        ]
+    ], 
+    "SAMZA-882": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "3d 18h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 6h 21m"
+        ]
+    ], 
+    "SAMZA-1619": [
+        [
+            "Open", 
+            "In Progress", 
+            "37d 23h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-1618": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 58s"
+        ]
+    ], 
+    "SAMZA-1007": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 11h 11m"
+        ]
+    ], 
+    "SAMZA-1004": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 1h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SAMZA-1711": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 30m"
+        ]
+    ], 
+    "SAMZA-1224": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14d 7h 16m"
+        ]
+    ], 
+    "SAMZA-805": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 7h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 17h 49m"
+        ]
+    ], 
+    "SAMZA-1167": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 44m"
+        ]
+    ], 
+    "SAMZA-1558": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 37m"
+        ]
+    ], 
+    "SAMZA-920": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 4h 2m"
+        ]
+    ], 
+    "SAMZA-47": [
+        [
+            "Open", 
+            "Resolved", 
+            "169d 2h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 4h 55m"
+        ]
+    ], 
+    "SAMZA-1860": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 8h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 19h 13m"
+        ]
+    ], 
+    "SAMZA-1988": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 16m"
+        ]
+    ], 
+    "SAMZA-1228": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 23h 33m"
+        ]
+    ], 
+    "SAMZA-602": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31m 16s"
+        ]
+    ], 
+    "SAMZA-600": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 15m"
+        ]
+    ], 
+    "SAMZA-1650": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 22h 35m"
+        ]
+    ], 
+    "SAMZA-605": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 22m"
+        ]
+    ], 
+    "SAMZA-1460": [
+        [
+            "Open", 
+            "In Progress", 
+            "139d 5h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "1d 13h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SAMZA-1198": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 42m"
+        ]
+    ], 
+    "SAMZA-1463": [
+        [
+            "Open", 
+            "Resolved", 
+            "43m 9s"
+        ]
+    ], 
+    "SAMZA-1464": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 56m"
+        ]
+    ], 
+    "SAMZA-1465": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 8m"
+        ]
+    ], 
+    "SAMZA-1466": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 39m"
+        ]
+    ], 
+    "SAMZA-1502": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 2h 4m"
+        ]
+    ], 
+    "SAMZA-898": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 1h 7m"
+        ]
+    ], 
+    "SAMZA-1507": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 18h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1506": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 3h 20m"
+        ]
+    ], 
+    "SAMZA-1505": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 48m"
+        ]
+    ], 
+    "SAMZA-1504": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 12m"
+        ]
+    ], 
+    "SAMZA-58": [
+        [
+            "Open", 
+            "In Progress", 
+            "163d 4h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 11h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 35m"
+        ]
+    ], 
+    "SAMZA-1718": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 19h 42m"
+        ]
+    ], 
+    "SAMZA-132": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 43s"
+        ]
+    ], 
+    "SAMZA-1712": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 17h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SAMZA-2084": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 1h 3m"
+        ]
+    ], 
+    "SAMZA-2169": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 4h 54m"
+        ]
+    ], 
+    "SAMZA-2081": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 12s"
+        ]
+    ], 
+    "SAMZA-970": [
+        [
+            "Open", 
+            "In Progress", 
+            "37d 15h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 24m"
+        ]
+    ], 
+    "SAMZA-971": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 2h 32m"
+        ]
+    ], 
+    "SAMZA-972": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 15h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-973": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 8h 36m"
+        ]
+    ], 
+    "SAMZA-978": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 19h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-979": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 16h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 57m"
+        ]
+    ], 
+    "SAMZA-1480": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 23h 42m"
+        ]
+    ], 
+    "SAMZA-872": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 23h 18m"
+        ]
+    ], 
+    "SAMZA-1487": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 19m"
+        ]
+    ], 
+    "SAMZA-1870": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 3h 49m"
+        ]
+    ], 
+    "SAMZA-464": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 54m"
+        ]
+    ], 
+    "SAMZA-1825": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 43s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-874": [
+        [
+            "Open", 
+            "In Progress", 
+            "35d 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "92d 20h 7m"
+        ]
+    ], 
+    "SAMZA-736": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 17h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 20h 14m"
+        ]
+    ], 
+    "SAMZA-737": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 6h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 13h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41m 55s"
+        ]
+    ], 
+    "SAMZA-2013": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 10m"
+        ]
+    ], 
+    "SAMZA-1769": [
+        [
+            "Open", 
+            "Resolved", 
+            "249d 22h 59m"
+        ]
+    ], 
+    "SAMZA-1768": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 2h 22m"
+        ]
+    ], 
+    "SAMZA-2019": [
+        [
+            "Open", 
+            "Resolved", 
+            "108d 15h 36m"
+        ]
+    ], 
+    "SAMZA-52": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 40m"
+        ]
+    ], 
+    "SAMZA-738": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 8h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 22h 41m"
+        ]
+    ], 
+    "SAMZA-2260": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 46m"
+        ]
+    ], 
+    "SAMZA-2266": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 5h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49d 18h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SAMZA-54": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 14m"
+        ]
+    ], 
+    "SAMZA-461": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 12h 36m"
+        ]
+    ], 
+    "SAMZA-290": [
+        [
+            "Open", 
+            "Patch Available", 
+            "74d 8h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 35m"
+        ]
+    ], 
+    "SAMZA-878": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 11m"
+        ]
+    ], 
+    "SAMZA-1368": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-377": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 20h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23m 45s"
+        ]
+    ], 
+    "SAMZA-1359": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 19h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "SAMZA-372": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 46m"
+        ]
+    ], 
+    "SAMZA-373": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 51m"
+        ]
+    ], 
+    "SAMZA-370": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 6h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 28m"
+        ]
+    ], 
+    "SAMZA-276": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 4h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 21m"
+        ]
+    ], 
+    "SAMZA-275": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2m 21s"
+        ]
+    ], 
+    "SAMZA-272": [
+        [
+            "Open", 
+            "Resolved", 
+            "1047d 4h 4m"
+        ]
+    ], 
+    "SAMZA-271": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 46m"
+        ]
+    ], 
+    "SAMZA-379": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 8h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 47m"
+        ]
+    ], 
+    "SAMZA-544": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23d 4h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 17m"
+        ]
+    ], 
+    "SAMZA-547": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 3h 42m"
+        ]
+    ], 
+    "SAMZA-543": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47d 21h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 17m"
+        ]
+    ], 
+    "SAMZA-422": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 21h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 16m"
+        ]
+    ], 
+    "SAMZA-420": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 5h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 41m"
+        ]
+    ], 
+    "SAMZA-426": [
+        [
+            "Open", 
+            "Resolved", 
+            "118d 48m"
+        ]
+    ], 
+    "SAMZA-548": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 19h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 22m"
+        ]
+    ], 
+    "SAMZA-1051": [
+        [
+            "Open", 
+            "In Progress", 
+            "10m 54s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "17h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-63": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 7m"
+        ]
+    ], 
+    "SAMZA-62": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 48m"
+        ]
+    ], 
+    "SAMZA-64": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17h 42m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "180d 6h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 41s"
+        ]
+    ], 
+    "SAMZA-1482": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "32s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 19h 59m"
+        ]
+    ], 
+    "SAMZA-1693": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 36m"
+        ]
+    ], 
+    "SAMZA-1304": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 23h 27m"
+        ]
+    ], 
+    "SAMZA-1307": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 24s"
+        ]
+    ], 
+    "SAMZA-66": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 13s"
+        ]
+    ], 
+    "SAMZA-1079": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 16h 2m"
+        ]
+    ], 
+    "SAMZA-1820": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-1821": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 17h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-1822": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 9h 28m"
+        ]
+    ], 
+    "SAMZA-1948": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 56m"
+        ]
+    ], 
+    "SAMZA-1288": [
+        [
+            "Open", 
+            "Resolved", 
+            "147d 17h 11m"
+        ]
+    ], 
+    "SAMZA-1289": [
+        [
+            "Open", 
+            "Resolved", 
+            "193d 24m"
+        ]
+    ], 
+    "SAMZA-1826": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 18h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-1535": [
+        [
+            "Open", 
+            "Resolved", 
+            "93d 22h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 20h 25m"
+        ]
+    ], 
+    "SAMZA-1943": [
+        [
+            "Open", 
+            "Resolved", 
+            "160d 22h 35m"
+        ]
+    ], 
+    "SAMZA-1538": [
+        [
+            "Open", 
+            "Resolved", 
+            "91d 1h 44m"
+        ]
+    ], 
+    "SAMZA-1539": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 47m"
+        ]
+    ], 
+    "SAMZA-1282": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 23h 38m"
+        ]
+    ], 
+    "SAMZA-166": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 30m"
+        ]
+    ], 
+    "SAMZA-165": [
+        [
+            "Open", 
+            "Patch Available", 
+            "106d 18h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 46m"
+        ]
+    ], 
+    "SAMZA-160": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 57m"
+        ]
+    ], 
+    "SAMZA-169": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 18h 23m"
+        ]
+    ], 
+    "SAMZA-168": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 20h 30m"
+        ]
+    ], 
+    "SAMZA-1547": [
+        [
+            "Open", 
+            "Resolved", 
+            "84d 29m"
+        ]
+    ], 
+    "SAMZA-1540": [
+        [
+            "Open", 
+            "Resolved", 
+            "180d 16h 51m"
+        ]
+    ], 
+    "SAMZA-1627": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 2h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SAMZA-1624": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 22h 6m"
+        ]
+    ], 
+    "SAMZA-1622": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 44m"
+        ]
+    ], 
+    "SAMZA-1548": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 2h 35m"
+        ]
+    ], 
+    "SAMZA-1756": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 34m"
+        ]
+    ], 
+    "SAMZA-49": [
+        [
+            "Open", 
+            "Resolved", 
+            "87d 19h 49m"
+        ]
+    ], 
+    "SAMZA-1752": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 3m"
+        ]
+    ], 
+    "SAMZA-1753": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 19h 10m"
+        ]
+    ], 
+    "SAMZA-289": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 34m"
+        ]
+    ], 
+    "SAMZA-43": [
+        [
+            "Open", 
+            "Resolved", 
+            "165d 13h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 6h 16m"
+        ]
+    ], 
+    "SAMZA-41": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1035d 4h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 28m"
+        ]
+    ], 
+    "SAMZA-1856": [
+        [
+            "Open", 
+            "In Progress", 
+            "34d 17h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29s"
+        ]
+    ], 
+    "SAMZA-1055": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10s"
+        ]
+    ], 
+    "SAMZA-932": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 23h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 27m"
+        ]
+    ], 
+    "SAMZA-44": [
+        [
+            "Open", 
+            "In Progress", 
+            "211d 20h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 22h 59m"
+        ]
+    ], 
+    "SAMZA-834": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10s"
+        ]
+    ], 
+    "SAMZA-837": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25d 8h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "101d 19h 18m"
+        ]
+    ], 
+    "SAMZA-836": [
+        [
+            "Open", 
+            "In Progress", 
+            "63d 22h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 2h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 15m"
+        ]
+    ], 
+    "SAMZA-831": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 4h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 12h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 18m"
+        ]
+    ], 
+    "SAMZA-833": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 20h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "55d 6h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "71d 1h 59m"
+        ]
+    ], 
+    "SAMZA-838": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 19h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "68d 11h 51m"
+        ]
+    ], 
+    "SAMZA-1146": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 50m"
+        ]
+    ], 
+    "SAMZA-871": [
+        [
+            "Open", 
+            "Resolved", 
+            "456d 11h 34m"
+        ]
+    ], 
+    "SAMZA-1809": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 42m"
+        ]
+    ], 
+    "SAMZA-1806": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 16h 40m"
+        ]
+    ], 
+    "SAMZA-1439": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 3m"
+        ]
+    ], 
+    "SAMZA-1437": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-1435": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 28m"
+        ]
+    ], 
+    "SAMZA-1434": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 49m"
+        ]
+    ], 
+    "SAMZA-948": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 47m"
+        ]
+    ], 
+    "SAMZA-233": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 56m"
+        ]
+    ], 
+    "SAMZA-940": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 54m"
+        ]
+    ], 
+    "SAMZA-943": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 3h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 20h 5m"
+        ]
+    ], 
+    "SAMZA-944": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 11m"
+        ]
+    ], 
+    "SAMZA-947": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 18h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 4m"
+        ]
+    ], 
+    "SAMZA-946": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 37m"
+        ]
+    ], 
+    "SAMZA-581": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 27m"
+        ]
+    ], 
+    "SAMZA-583": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 53m"
+        ]
+    ], 
+    "SAMZA-584": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 35m"
+        ]
+    ], 
+    "SAMZA-586": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 22h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 55m"
+        ]
+    ], 
+    "SAMZA-589": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 13h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 51m"
+        ]
+    ], 
+    "SAMZA-588": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 14h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 45m"
+        ]
+    ], 
+    "SAMZA-466": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 15h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 32m"
+        ]
+    ], 
+    "SAMZA-2122": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2m"
+        ]
+    ], 
+    "SAMZA-748": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 4h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 45m"
+        ]
+    ], 
+    "SAMZA-747": [
+        [
+            "Open", 
+            "Patch Available", 
+            "76d 19h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 9m"
+        ]
+    ], 
+    "SAMZA-745": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "SAMZA-744": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 2h 15m"
+        ]
+    ], 
+    "SAMZA-743": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 29m"
+        ]
+    ], 
+    "SAMZA-469": [
+        [
+            "Open", 
+            "Patch Available", 
+            "256d 16h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "507d 15h 59m"
+        ]
+    ], 
+    "SAMZA-2259": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 21h 48m"
+        ]
+    ], 
+    "SAMZA-1292": [
+        [
+            "Open", 
+            "Resolved", 
+            "146d 21h 40m"
+        ]
+    ], 
+    "SAMZA-309": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 37m"
+        ]
+    ], 
+    "SAMZA-304": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 8m"
+        ]
+    ], 
+    "SAMZA-303": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 8h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 14s"
+        ]
+    ], 
+    "SAMZA-1681": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 49m"
+        ]
+    ], 
+    "SAMZA-512": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 16h 25m"
+        ]
+    ], 
+    "SAMZA-511": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 12m"
+        ]
+    ], 
+    "SAMZA-1900": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 17h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "14d 7h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 2s"
+        ]
+    ], 
+    "SAMZA-191": [
+        [
+            "Open", 
+            "Resolved", 
+            "54m 50s"
+        ]
+    ], 
+    "SAMZA-1685": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 42m"
+        ]
+    ], 
+    "SAMZA-120": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 26m"
+        ]
+    ], 
+    "SAMZA-127": [
+        [
+            "Open", 
+            "Resolved", 
+            "54m 11s"
+        ]
+    ], 
+    "SAMZA-126": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 1m"
+        ]
+    ], 
+    "SAMZA-145": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 45m"
+        ]
+    ], 
+    "SAMZA-1279": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h"
+        ]
+    ], 
+    "SAMZA-1275": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 56m"
+        ]
+    ], 
+    "SAMZA-1274": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 3m"
+        ]
+    ], 
+    "SAMZA-1277": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 16m"
+        ]
+    ], 
+    "SAMZA-1276": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 14m"
+        ]
+    ], 
+    "SAMZA-1271": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 18h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-1272": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 2m"
+        ], 
+        [
+            "Open", 
+            "Reopened", 
+            "22h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15s"
+        ]
+    ], 
+    "SAMZA-1370": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SAMZA-1100": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 21h 48m"
+        ]
+    ], 
+    "SAMZA-249": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43d 2h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 9m"
+        ]
+    ], 
+    "SAMZA-1015": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 22h 43m"
+        ]
+    ], 
+    "SAMZA-1401": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 32s"
+        ]
+    ], 
+    "SAMZA-1406": [
+        [
+            "Open", 
+            "Resolved", 
+            "132d 21h 14m"
+        ]
+    ], 
+    "SAMZA-1404": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 19h 3m"
+        ]
+    ], 
+    "SAMZA-1012": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 17h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 3h 33m"
+        ]
+    ], 
+    "SAMZA-1155": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 17h 44m"
+        ]
+    ], 
+    "SAMZA-1157": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 11h 58m"
+        ]
+    ], 
+    "SAMZA-1150": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 23h 41m"
+        ]
+    ], 
+    "SAMZA-1018": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 15h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 9h"
+        ]
+    ], 
+    "SAMZA-53": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 38m"
+        ]
+    ], 
+    "SAMZA-1971": [
+        [
+            "Open", 
+            "Resolved", 
+            "139d 21h 27m"
+        ]
+    ], 
+    "SAMZA-1978": [
+        [
+            "Open", 
+            "Resolved", 
+            "133d 15h 34m"
+        ]
+    ], 
+    "SAMZA-80": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 19h 33m"
+        ]
+    ], 
+    "SAMZA-634": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 20h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 37m"
+        ]
+    ], 
+    "SAMZA-98": [
+        [
+            "Open", 
+            "In Progress", 
+            "84d 12h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 11m"
+        ]
+    ], 
+    "SAMZA-99": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 55m"
+        ]
+    ], 
+    "SAMZA-94": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 1h 12m"
+        ]
+    ], 
+    "SAMZA-95": [
+        [
+            "Open", 
+            "In Progress", 
+            "85d 7h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "54d 16h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 6m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "7m 14s"
+        ]
+    ], 
+    "SAMZA-96": [
+        [
+            "Open", 
+            "In Progress", 
+            "64d 13h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 7h 52m"
+        ]
+    ], 
+    "SAMZA-97": [
+        [
+            "Open", 
+            "In Progress", 
+            "84d 12h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "28m 44s"
+        ]
+    ], 
+    "SAMZA-92": [
+        [
+            "Open", 
+            "Patch Available", 
+            "194d 19h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 31m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 42m"
+        ]
+    ], 
+    "SAMZA-1477": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 1h 47m"
+        ]
+    ], 
+    "SAMZA-1476": [
+        [
+            "Open", 
+            "Resolved", 
+            "182d 4h 53m"
+        ]
+    ], 
+    "SAMZA-886": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 12h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 1h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "3m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 22h 30m"
+        ]
+    ], 
+    "SAMZA-1472": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 10s"
+        ]
+    ], 
+    "SAMZA-1578": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 8m"
+        ]
+    ], 
+    "SAMZA-1470": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 5m"
+        ]
+    ], 
+    "SAMZA-1572": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 21h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-889": [
+        [
+            "Open", 
+            "In Progress", 
+            "51d 13h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "58d 7h 13m"
+        ]
+    ], 
+    "SAMZA-1479": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 2h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-1571": [
+        [
+            "Open", 
+            "Resolved", 
+            "109d 22h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-2070": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-2076": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 51m"
+        ]
+    ], 
+    "SAMZA-1707": [
+        [
+            "Open", 
+            "Resolved", 
+            "314d 13h 53m"
+        ]
+    ], 
+    "SAMZA-905": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 19h 52m"
+        ]
+    ], 
+    "SAMZA-1498": [
+        [
+            "Open", 
+            "Resolved", 
+            "112d 8h 17m"
+        ]
+    ], 
+    "SAMZA-906": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 23h 5m"
+        ]
+    ], 
+    "SAMZA-862": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 19h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 33m"
+        ]
+    ], 
+    "SAMZA-1490": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 33m"
+        ]
+    ], 
+    "SAMZA-1492": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 3m"
+        ]
+    ], 
+    "SAMZA-1495": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 39m"
+        ]
+    ], 
+    "SAMZA-867": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 1h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 23h 37m"
+        ]
+    ], 
+    "SAMZA-864": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 20h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 23h 46m"
+        ]
+    ], 
+    "SAMZA-203": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 6m"
+        ]
+    ], 
+    "SAMZA-1886": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 11h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-707": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 3h 40m"
+        ]
+    ], 
+    "SAMZA-1888": [
+        [
+            "Open", 
+            "Resolved", 
+            "181d 20h 57m"
+        ]
+    ], 
+    "SAMZA-1889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 22h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 6h 43m"
+        ]
+    ], 
+    "SAMZA-1790": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 56m"
+        ]
+    ], 
+    "SAMZA-349": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 11h 52m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 14h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 5m"
+        ]
+    ], 
+    "SAMZA-208": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 14h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 13h 58m"
+        ]
+    ], 
+    "SAMZA-346": [
+        [
+            "Open", 
+            "Patch Available", 
+            "88d 8h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 27m"
+        ]
+    ], 
+    "SAMZA-260": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 27m"
+        ]
+    ], 
+    "SAMZA-266": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 3h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 52m"
+        ]
+    ], 
+    "SAMZA-267": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 59m"
+        ]
+    ], 
+    "SAMZA-269": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 34m"
+        ]
+    ], 
+    "SAMZA-779": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 18m"
+        ]
+    ], 
+    "SAMZA-550": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 21h 8m"
+        ]
+    ], 
+    "SAMZA-2172": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 19h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "26d 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "SAMZA-2170": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 22h 45m"
+        ]
+    ], 
+    "SAMZA-413": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 4m"
+        ]
+    ], 
+    "SAMZA-1824": [
+        [
+            "Open", 
+            "Resolved", 
+            "207d 22m"
+        ]
+    ], 
+    "SAMZA-410": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 17h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49m 50s"
+        ]
+    ], 
+    "SAMZA-1330": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 53m"
+        ]
+    ], 
+    "SAMZA-1334": [
+        [
+            "Open", 
+            "Resolved", 
+            "274d 21h 1m"
+        ]
+    ], 
+    "SAMZA-1335": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 46m"
+        ]
+    ], 
+    "SAMZA-1208": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 8m"
+        ]
+    ], 
+    "SAMZA-1837": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 17h 59m"
+        ]
+    ], 
+    "SAMZA-1689": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 33m"
+        ]
+    ], 
+    "SAMZA-1523": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 22h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SAMZA-1290": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 40s"
+        ]
+    ], 
+    "SAMZA-1832": [
+        [
+            "Open", 
+            "Resolved", 
+            "202d 11h 25m"
+        ]
+    ], 
+    "SAMZA-1938": [
+        [
+            "Open", 
+            "Resolved", 
+            "164d 18h 29m"
+        ]
+    ], 
+    "SAMZA-1937": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 2h 59m"
+        ]
+    ], 
+    "SAMZA-1934": [
+        [
+            "Open", 
+            "Resolved", 
+            "167d 22h 31m"
+        ]
+    ], 
+    "SAMZA-1933": [
+        [
+            "Open", 
+            "Resolved", 
+            "168d 11m"
+        ]
+    ], 
+    "SAMZA-1686": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-173": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 14m"
+        ]
+    ], 
+    "SAMZA-175": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 13h 21m"
+        ]
+    ], 
+    "SAMZA-725": [
+        [
+            "Open", 
+            "In Progress", 
+            "28m 25s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "63d 1h 31m"
+        ]
+    ], 
+    "SAMZA-1204": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13d 23h 8m"
+        ]
+    ], 
+    "SAMZA-1205": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 6h 4m"
+        ]
+    ], 
+    "SAMZA-1206": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 11m"
+        ]
+    ], 
+    "SAMZA-1200": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 6h 37m"
+        ]
+    ], 
+    "SAMZA-1638": [
+        [
+            "Open", 
+            "Resolved", 
+            "244d 21h 33m"
+        ]
+    ], 
+    "SAMZA-1202": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 7h 5m"
+        ]
+    ], 
+    "SAMZA-77": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 43m"
+        ]
+    ], 
+    "SAMZA-1631": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 42m"
+        ]
+    ], 
+    "SAMZA-1632": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 1h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19s"
+        ]
+    ], 
+    "SAMZA-1744": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 38m"
+        ]
+    ], 
+    "SAMZA-75": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 11s"
+        ]
+    ], 
+    "SAMZA-1741": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 17h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8s"
+        ]
+    ], 
+    "SAMZA-1069": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 57m"
+        ]
+    ], 
+    "SAMZA-79": [
+        [
+            "Open", 
+            "In Progress", 
+            "14d 12h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "136d 6h 42m"
+        ]
+    ], 
+    "SAMZA-1065": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 21h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 34m"
+        ]
+    ], 
+    "SAMZA-1066": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 53m"
+        ]
+    ], 
+    "SAMZA-1067": [
+        [
+            "Open", 
+            "In Progress", 
+            "75d 6m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 42m"
+        ]
+    ], 
+    "SAMZA-1060": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 2m"
+        ]
+    ], 
+    "SAMZA-826": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 6h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 34m"
+        ]
+    ], 
+    "SAMZA-827": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26m 43s"
+        ]
+    ], 
+    "SAMZA-822": [
+        [
+            "Open", 
+            "In Progress", 
+            "23h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-820": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 22h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 11m"
+        ]
+    ], 
+    "SAMZA-1845": [
+        [
+            "Open", 
+            "Resolved", 
+            "193d 19h 18m"
+        ]
+    ], 
+    "SAMZA-493": [
+        [
+            "Open", 
+            "Resolved", 
+            "24m 16s"
+        ]
+    ], 
+    "SAMZA-1596": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 17h 41m"
+        ]
+    ], 
+    "SAMZA-829": [
+        [
+            "Open", 
+            "In Progress", 
+            "49s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "53m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42s"
+        ]
+    ], 
+    "SAMZA-55": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 28m"
+        ]
+    ], 
+    "SAMZA-686": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 26m"
+        ]
+    ], 
+    "SAMZA-728": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 23h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 18h 56m"
+        ]
+    ], 
+    "SAMZA-185": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 13h 42m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 8h 22m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "5d 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 2m"
+        ]
+    ], 
+    "SAMZA-186": [
+        [
+            "Open", 
+            "Patch Available", 
+            "73d 8h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 23m"
+        ]
+    ], 
+    "SAMZA-180": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 2h 11m"
+        ]
+    ], 
+    "SAMZA-1447": [
+        [
+            "Open", 
+            "Resolved", 
+            "161d 2h 38m"
+        ]
+    ], 
+    "SAMZA-1112": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 4h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38d 5h 31m"
+        ]
+    ], 
+    "SAMZA-1442": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 40m"
+        ]
+    ], 
+    "SAMZA-188": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 1m"
+        ]
+    ], 
+    "SAMZA-1440": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 17m"
+        ]
+    ], 
+    "SAMZA-2143": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 12h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 1h 16m"
+        ]
+    ], 
+    "SAMZA-2146": [
+        [
+            "Open", 
+            "Resolved", 
+            "77d 23h 41m"
+        ]
+    ], 
+    "SAMZA-385": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 45s"
+        ]
+    ], 
+    "SAMZA-1016": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 22h 44m"
+        ]
+    ], 
+    "SAMZA-383": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 53s"
+        ]
+    ], 
+    "SAMZA-382": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 21h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 1m"
+        ]
+    ], 
+    "SAMZA-381": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 20h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 20s"
+        ]
+    ], 
+    "SAMZA-1532": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-950": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 47m"
+        ]
+    ], 
+    "SAMZA-227": [
+        [
+            "Open", 
+            "Resolved", 
+            "297d 57m"
+        ]
+    ], 
+    "SAMZA-220": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 20h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9m"
+        ]
+    ], 
+    "SAMZA-957": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 20h 23m"
+        ]
+    ], 
+    "SAMZA-389": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 41m"
+        ]
+    ], 
+    "SAMZA-592": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 1h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 56m"
+        ]
+    ], 
+    "SAMZA-590": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 58m"
+        ]
+    ], 
+    "SAMZA-458": [
+        [
+            "Open", 
+            "Patch Available", 
+            "131d 7h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 9h 56m"
+        ]
+    ], 
+    "SAMZA-596": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 56m"
+        ]
+    ], 
+    "SAMZA-597": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 46m"
+        ]
+    ], 
+    "SAMZA-453": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 11m"
+        ]
+    ], 
+    "SAMZA-452": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 34m"
+        ]
+    ], 
+    "SAMZA-450": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 13m"
+        ]
+    ], 
+    "SAMZA-456": [
+        [
+            "Open", 
+            "Patch Available", 
+            "133d 17h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 25m"
+        ]
+    ], 
+    "SAMZA-699": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 16h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 3h 38m"
+        ]
+    ], 
+    "SAMZA-2134": [
+        [
+            "Open", 
+            "Resolved", 
+            "83d 23h 58m"
+        ]
+    ], 
+    "SAMZA-754": [
+        [
+            "Open", 
+            "In Progress", 
+            "103d 10h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 10h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 56s"
+        ]
+    ], 
+    "SAMZA-691": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 18h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 24m"
+        ]
+    ], 
+    "SAMZA-690": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38d 5h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38d 4h 53m"
+        ]
+    ], 
+    "SAMZA-2035": [
+        [
+            "Open", 
+            "Resolved", 
+            "98d 4h 19m"
+        ]
+    ], 
+    "SAMZA-2030": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 23h 37m"
+        ]
+    ], 
+    "SAMZA-1409": [
+        [
+            "Open", 
+            "Resolved", 
+            "87d 47m"
+        ]
+    ], 
+    "SAMZA-2245": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 59m"
+        ]
+    ], 
+    "SAMZA-32": [
+        [
+            "Open", 
+            "In Progress", 
+            "257d 16h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 18h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 13h 43m"
+        ]
+    ], 
+    "SAMZA-296": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 41m"
+        ]
+    ], 
+    "SAMZA-109": [
+        [
+            "Open", 
+            "Patch Available", 
+            "221d 17h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 2h 38m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 23m"
+        ]
+    ], 
+    "SAMZA-30": [
+        [
+            "Open", 
+            "In Progress", 
+            "171d 18h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19d 14h 24m"
+        ]
+    ], 
+    "SAMZA-259": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10d 22h 29m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "93d 5h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 46m"
+        ]
+    ], 
+    "SAMZA-251": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 9h 57m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "100d 9h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13h 54m"
+        ]
+    ], 
+    "SAMZA-319": [
+        [
+            "Open", 
+            "Patch Available", 
+            "123d 18h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "8d 7h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 24m"
+        ]
+    ], 
+    "SAMZA-254": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 2m"
+        ]
+    ], 
+    "SAMZA-529": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 4m"
+        ]
+    ], 
+    "SAMZA-527": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 25s"
+        ]
+    ], 
+    "SAMZA-526": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 33s"
+        ]
+    ], 
+    "SAMZA-35": [
+        [
+            "Open", 
+            "Patch Available", 
+            "301d 17h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 31m"
+        ]
+    ], 
+    "SAMZA-522": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 15h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 32m"
+        ]
+    ], 
+    "SAMZA-520": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 7m"
+        ]
+    ], 
+    "SAMZA-1396": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 13m"
+        ]
+    ], 
+    "SAMZA-1645": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 16h 2m"
+        ]
+    ], 
+    "SAMZA-1647": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 20h 8m"
+        ]
+    ], 
+    "SAMZA-1640": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-1390": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SAMZA-1643": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 20h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1530": [
+        [
+            "Open", 
+            "Resolved", 
+            "86d 23h 57m"
+        ]
+    ], 
+    "SAMZA-1399": [
+        [
+            "Open", 
+            "Resolved", 
+            "704d 4h"
+        ]
+    ], 
+    "SAMZA-134": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 45m"
+        ]
+    ], 
+    "SAMZA-135": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 16m"
+        ]
+    ], 
+    "SAMZA-130": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 6m"
+        ]
+    ], 
+    "KAFKA-6100": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 37m"
+        ]
+    ], 
+    "SAMZA-1536": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 56m"
+        ]
+    ], 
+    "SAMZA-1537": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17h 50m"
+        ]
+    ], 
+    "SAMZA-1241": [
+        [
+            "Open", 
+            "In Progress", 
+            "8d 11h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-1243": [
+        [
+            "Open", 
+            "Resolved", 
+            "369d 20h 40m"
+        ]
+    ], 
+    "SAMZA-1534": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 23m"
+        ]
+    ], 
+    "SAMZA-1246": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 19h 28m"
+        ]
+    ], 
+    "SAMZA-1247": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 19m"
+        ]
+    ], 
+    "SAMZA-1248": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 3h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 22m"
+        ]
+    ], 
+    "SAMZA-1249": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 9m"
+        ]
+    ], 
+    "SAMZA-1361": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 3h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1122": [
+        [
+            "Open", 
+            "In Progress", 
+            "52m 51s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 1h 13m"
+        ]
+    ], 
+    "SAMZA-1366": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 39m"
+        ]
+    ], 
+    "SAMZA-1365": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 23h 53m"
+        ]
+    ], 
+    "SAMZA-1364": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 9m"
+        ]
+    ], 
+    "SAMZA-1413": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 6m"
+        ]
+    ], 
+    "SAMZA-1287": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 4m"
+        ]
+    ], 
+    "SAMZA-1414": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 6h 43m"
+        ]
+    ], 
+    "SAMZA-1416": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 22h 4m"
+        ]
+    ], 
+    "SAMZA-1419": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SAMZA-1804": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 4h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 13h 40m"
+        ]
+    ], 
+    "SAMZA-1803": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 1m"
+        ]
+    ], 
+    "SAMZA-628": [
+        [
+            "Open", 
+            "Patch Available", 
+            "70d 18h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 8m"
+        ]
+    ], 
+    "SAMZA-780": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 22m"
+        ]
+    ], 
+    "SAMZA-787": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 22h 36m"
+        ], 
+        [
+            "Closed", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1964": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 18m"
+        ]
+    ], 
+    "SAMZA-1967": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 12h 9m"
+        ]
+    ], 
+    "SAMZA-620": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 5m"
+        ]
+    ], 
+    "SAMZA-621": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 51m"
+        ]
+    ], 
+    "SAMZA-789": [
+        [
+            "Open", 
+            "In Progress", 
+            "12m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 6h 57m"
+        ]
+    ], 
+    "SAMZA-788": [
+        [
+            "Open", 
+            "In Progress", 
+            "44d 1h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 55m"
+        ]
+    ], 
+    "SAMZA-141": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 14m"
+        ]
+    ], 
+    "SAMZA-140": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "SAMZA-143": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 3h 17m"
+        ]
+    ], 
+    "SAMZA-142": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 23h 7m"
+        ]
+    ], 
+    "SAMZA-1099": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 47m"
+        ]
+    ], 
+    "SAMZA-144": [
+        [
+            "Open", 
+            "Patch Available", 
+            "113d 1h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 36m"
+        ]
+    ], 
+    "SAMZA-146": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 42m"
+        ]
+    ], 
+    "SAMZA-87": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 17h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 21m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11m 7s"
+        ]
+    ], 
+    "SAMZA-1094": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 15h 6m"
+        ]
+    ], 
+    "SAMZA-1097": [
+        [
+            "Open", 
+            "In Progress", 
+            "50m 3s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23s"
+        ]
+    ], 
+    "SAMZA-1096": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 5h 23m"
+        ]
+    ], 
+    "SAMZA-2017": [
+        [
+            "Open", 
+            "Resolved", 
+            "108d 16h 14m"
+        ]
+    ], 
+    "SAMZA-82": [
+        [
+            "Open", 
+            "In Progress", 
+            "26d 26m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 21h 42m"
+        ]
+    ], 
+    "SAMZA-1093": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 18h 29m"
+        ]
+    ], 
+    "SAMZA-1092": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 1h 31m"
+        ]
+    ], 
+    "SAMZA-1568": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 2h 4m"
+        ]
+    ], 
+    "SAMZA-1561": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 1h 5m"
+        ]
+    ], 
+    "SAMZA-1560": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 21h 17m"
+        ]
+    ], 
+    "SAMZA-250": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 41m"
+        ]
+    ], 
+    "SAMZA-2061": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 3h 2m"
+        ]
+    ], 
+    "SAMZA-236": [
+        [
+            "Open", 
+            "Patch Available", 
+            "168d 8h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 9h 37m"
+        ]
+    ], 
+    "SAMZA-246": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 49s"
+        ]
+    ], 
+    "SAMZA-1736": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 29m"
+        ]
+    ], 
+    "SAMZA-1730": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 5h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SAMZA-1731": [
+        [
+            "Open", 
+            "Resolved", 
+            "297d 15h 56m"
+        ]
+    ], 
+    "SAMZA-1732": [
+        [
+            "Open", 
+            "Resolved", 
+            "296d 18h 15m"
+        ]
+    ], 
+    "SAMZA-247": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 51m"
+        ]
+    ], 
+    "SAMZA-913": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 7m"
+        ]
+    ], 
+    "SAMZA-910": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 23h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 53m"
+        ]
+    ], 
+    "SAMZA-911": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 20h 57m"
+        ]
+    ], 
+    "SAMZA-857": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 56m"
+        ]
+    ], 
+    "SAMZA-1666": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 52m"
+        ]
+    ], 
+    "SAMZA-855": [
+        [
+            "Open", 
+            "Resolved", 
+            "344d 16h 15m"
+        ]
+    ], 
+    "SAMZA-853": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23d 2h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23s"
+        ]
+    ], 
+    "SAMZA-852": [
+        [
+            "Open", 
+            "Patch Available", 
+            "120d 22h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 7m"
+        ]
+    ], 
+    "SAMZA-851": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 12h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 19h 36m"
+        ]
+    ], 
+    "SAMZA-919": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h 54m"
+        ]
+    ], 
+    "SAMZA-530": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 38m"
+        ]
+    ], 
+    "SAMZA-495": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 15m"
+        ]
+    ], 
+    "SAMZA-494": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 55m"
+        ]
+    ], 
+    "SAMZA-1891": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 4h 7m"
+        ]
+    ], 
+    "SAMZA-1890": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 41m"
+        ]
+    ], 
+    "SAMZA-491": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 49m"
+        ]
+    ], 
+    "SAMZA-714": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 44s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "38m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "22d 23h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 5h 58m"
+        ]
+    ], 
+    "SAMZA-716": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 56m"
+        ]
+    ], 
+    "SAMZA-711": [
+        [
+            "Open", 
+            "Patch Available", 
+            "58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 59m"
+        ]
+    ], 
+    "SAMZA-712": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 8h 46m"
+        ]
+    ], 
+    "SAMZA-351": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 44m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 22s"
+        ]
+    ], 
+    "SAMZA-1028": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-38": [
+        [
+            "Open", 
+            "In Progress", 
+            "97d 15h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "40d 12h 1m"
+        ]
+    ], 
+    "SAMZA-1782": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 54m"
+        ]
+    ], 
+    "SAMZA-1785": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 23h 26m"
+        ]
+    ], 
+    "SAMZA-988": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 3h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41d 22h 9m"
+        ]
+    ], 
+    "SAMZA-1020": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 19h 16m"
+        ]
+    ], 
+    "SAMZA-1021": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 6h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "427d 19h 2m"
+        ]
+    ], 
+    "SAMZA-1022": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 6m"
+        ]
+    ], 
+    "SAMZA-1023": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 11h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 48m"
+        ]
+    ], 
+    "SAMZA-982": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "19h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38m 48s"
+        ]
+    ], 
+    "SAMZA-1471": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "SAMZA-359": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 9m"
+        ]
+    ], 
+    "SAMZA-357": [
+        [
+            "Open", 
+            "Patch Available", 
+            "59m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h"
+        ]
+    ], 
+    "SAMZA-350": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 27m"
+        ]
+    ], 
+    "SAMZA-2198": [
+        [
+            "Open", 
+            "In Progress", 
+            "118d 2h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 8m"
+        ]
+    ], 
+    "SAMZA-352": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 34s"
+        ]
+    ], 
+    "SAMZA-213": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 57m"
+        ]
+    ], 
+    "SAMZA-2298": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 11h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36s"
+        ]
+    ], 
+    "SAMZA-2299": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SAMZA-2296": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 10h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 13h 5m"
+        ]
+    ], 
+    "SAMZA-888": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 5m"
+        ]
+    ], 
+    "SAMZA-2294": [
+        [
+            "Open", 
+            "In Progress", 
+            "20m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "37m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 20h 28m"
+        ]
+    ], 
+    "SAMZA-567": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 54m"
+        ]
+    ], 
+    "SAMZA-2293": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SAMZA-400": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 5h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 5m"
+        ]
+    ], 
+    "SAMZA-563": [
+        [
+            "Open", 
+            "Patch Available", 
+            "160d 14h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "64d 5h 29m"
+        ]
+    ], 
+    "SAMZA-959": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 3h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "44m 34s"
+        ]
+    ], 
+    "SAMZA-765": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 49m"
+        ]
+    ], 
+    "SAMZA-767": [
+        [
+            "Open", 
+            "Patch Available", 
+            "79d 21h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 36m"
+        ]
+    ], 
+    "SAMZA-766": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 21h 59m"
+        ]
+    ], 
+    "SAMZA-219": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 46m"
+        ]
+    ], 
+    "SAMZA-222": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 8m"
+        ]
+    ], 
+    "SAMZA-218": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 3h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "21h 32m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "10d 7h 20m"
+        ]
+    ], 
+    "SAMZA-224": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 11h 20m"
+        ]
+    ], 
+    "SAMZA-226": [
+        [
+            "Open", 
+            "Patch Available", 
+            "227d 2h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 11h 20m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "21d 13h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 14h"
+        ]
+    ], 
+    "SAMZA-1327": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 5h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1326": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 2m"
+        ]
+    ], 
+    "SAMZA-768": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 10h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 20h 1m"
+        ]
+    ], 
+    "SAMZA-321": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 20h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 6s"
+        ]
+    ], 
+    "SAMZA-322": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 21h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "36m 39s"
+        ]
+    ], 
+    "SAMZA-325": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 7h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 23m"
+        ]
+    ], 
+    "SAMZA-221": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 22h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 10m"
+        ]
+    ], 
+    "SAMZA-954": [
+        [
+            "Open", 
+            "Patch Available", 
+            "65d 21h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18m 50s"
+        ]
+    ], 
+    "SAMZA-1514": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 55m"
+        ]
+    ], 
+    "SAMZA-1516": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 49m"
+        ]
+    ], 
+    "SAMZA-1512": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 1h 54m"
+        ]
+    ], 
+    "SAMZA-1698": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1925": [
+        [
+            "Open", 
+            "Resolved", 
+            "171d 20h 4m"
+        ]
+    ], 
+    "SAMZA-1696": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 14h 25m"
+        ]
+    ], 
+    "SAMZA-1695": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 8h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SAMZA-1518": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 43m"
+        ]
+    ], 
+    "SAMZA-1692": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 13h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1691": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 21h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 8h 19m"
+        ]
+    ], 
+    "SAMZA-2": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 19h 40m"
+        ]
+    ], 
+    "SAMZA-3": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 16h 41m"
+        ]
+    ], 
+    "SAMZA-660": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 24m"
+        ]
+    ], 
+    "SAMZA-7": [
+        [
+            "Open", 
+            "Patch Available", 
+            "294d 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 12h 7m"
+        ]
+    ], 
+    "SAMZA-662": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 3h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 2h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "28d 4h 18m"
+        ]
+    ], 
+    "SAMZA-104": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 8m"
+        ]
+    ], 
+    "SAMZA-9": [
+        [
+            "Open", 
+            "Resolved", 
+            "70d 17h 22m"
+        ]
+    ], 
+    "SAMZA-1191": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SAMZA-1192": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 5m"
+        ]
+    ], 
+    "SAMZA-1193": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 18h 21m"
+        ]
+    ], 
+    "SAMZA-1194": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 55m"
+        ]
+    ], 
+    "SAMZA-1195": [
+        [
+            "In Progress", 
+            "Open", 
+            "2d 19h 43m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "12m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 51m"
+        ]
+    ], 
+    "SAMZA-1196": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 2h 59m"
+        ]
+    ], 
+    "SAMZA-1213": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 37m"
+        ]
+    ], 
+    "SAMZA-1212": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19d 22h 12m"
+        ]
+    ], 
+    "SAMZA-1211": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 37m"
+        ]
+    ], 
+    "SAMZA-1217": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 55m"
+        ]
+    ], 
+    "SAMZA-1216": [
+        [
+            "Open", 
+            "Resolved", 
+            "54m 15s"
+        ]
+    ], 
+    "SAMZA-1215": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 4s"
+        ]
+    ], 
+    "SAMZA-1214": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 5h 16m"
+        ]
+    ], 
+    "SAMZA-1600": [
+        [
+            "Open", 
+            "In Progress", 
+            "47m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-1356": [
+        [
+            "Open", 
+            "Resolved", 
+            "171d 21h 2m"
+        ]
+    ], 
+    "SAMZA-1607": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 13h 12m"
+        ]
+    ], 
+    "SAMZA-1608": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "17h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 6m"
+        ]
+    ], 
+    "SAMZA-1358": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 33m"
+        ]
+    ], 
+    "SAMZA-1621": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 21h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SAMZA-61": [
+        [
+            "Open", 
+            "In Progress", 
+            "30d 12h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 12h 42m"
+        ]
+    ], 
+    "SAMZA-60": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 16h 25m"
+        ]
+    ], 
+    "SAMZA-819": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 24m"
+        ]
+    ], 
+    "SAMZA-599": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 24m"
+        ]
+    ], 
+    "SAMZA-1077": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 21h 36m"
+        ]
+    ], 
+    "SAMZA-1076": [
+        [
+            "Open", 
+            "Resolved", 
+            "101d 1h 58m"
+        ]
+    ], 
+    "SAMZA-1075": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42d 20h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 45m"
+        ]
+    ], 
+    "SAMZA-1074": [
+        [
+            "Open", 
+            "Resolved", 
+            "103d 22h 16m"
+        ]
+    ], 
+    "SAMZA-1172": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 59m"
+        ]
+    ], 
+    "SAMZA-812": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 38m"
+        ]
+    ], 
+    "SAMZA-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 5h 1m"
+        ]
+    ], 
+    "SAMZA-1171": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 42m"
+        ]
+    ], 
+    "SAMZA-1176": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 7h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 20h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22h 7m"
+        ]
+    ], 
+    "SAMZA-816": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 13h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "11h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 34m"
+        ]
+    ], 
+    "SAMZA-1582": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 3h 24m"
+        ]
+    ], 
+    "SAMZA-1852": [
+        [
+            "Open", 
+            "In Progress", 
+            "25d 1h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9s"
+        ]
+    ], 
+    "SAMZA-1854": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 16h 51m"
+        ]
+    ], 
+    "SAMZA-1584": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 21h 11m"
+        ]
+    ], 
+    "SAMZA-1990": [
+        [
+            "Open", 
+            "Patch Available", 
+            "101d 22h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 53m"
+        ]
+    ], 
+    "SAMZA-938": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 1h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 5s"
+        ]
+    ], 
+    "SAMZA-1994": [
+        [
+            "Open", 
+            "Resolved", 
+            "123d 22h 34m"
+        ]
+    ], 
+    "SAMZA-616": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 13h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "43d 14h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9h 19m"
+        ]
+    ], 
+    "SAMZA-866": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 1h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 13m"
+        ]
+    ], 
+    "SAMZA-197": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 16s"
+        ]
+    ], 
+    "SAMZA-753": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "105d 2h 2m"
+        ]
+    ], 
+    "SAMZA-193": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 27m"
+        ]
+    ], 
+    "SAMZA-1108": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 2h 53m"
+        ]
+    ], 
+    "SAMZA-1454": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 4h 32m"
+        ]
+    ], 
+    "SAMZA-1457": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 18h 46m"
+        ]
+    ], 
+    "SAMZA-1101": [
+        [
+            "Open", 
+            "Resolved", 
+            "104d 2m"
+        ]
+    ], 
+    "SAMZA-199": [
+        [
+            "Open", 
+            "Patch Available", 
+            "98d 13h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 13m"
+        ]
+    ], 
+    "SAMZA-399": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 31m"
+        ]
+    ], 
+    "SAMZA-2155": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 22h 39m"
+        ]
+    ], 
+    "SAMZA-2090": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 52m"
+        ]
+    ], 
+    "SAMZA-930": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 22h 55m"
+        ]
+    ], 
+    "SAMZA-392": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 28m"
+        ]
+    ], 
+    "SAMZA-397": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 37s"
+        ]
+    ], 
+    "SAMZA-45": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 1m"
+        ]
+    ], 
+    "SAMZA-969": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 6m"
+        ]
+    ], 
+    "SAMZA-968": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 3h 31m"
+        ]
+    ], 
+    "SAMZA-964": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 24m"
+        ]
+    ], 
+    "SAMZA-933": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 2h 20m"
+        ]
+    ], 
+    "SAMZA-83": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 35m"
+        ]
+    ], 
+    "SAMZA-446": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 43m"
+        ]
+    ], 
+    "SAMZA-447": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 12h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 44m"
+        ]
+    ], 
+    "SAMZA-440": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 40m"
+        ]
+    ], 
+    "SAMZA-443": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 17m"
+        ]
+    ], 
+    "SAMZA-1778": [
+        [
+            "Open", 
+            "Resolved", 
+            "241d 22h 41m"
+        ]
+    ], 
+    "SAMZA-688": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 19h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 23h 23m"
+        ]
+    ], 
+    "SAMZA-720": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 39m"
+        ]
+    ], 
+    "SAMZA-723": [
+        [
+            "Open", 
+            "In Progress", 
+            "38d 6h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "9d 23h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "74d 23h"
+        ]
+    ], 
+    "SAMZA-1774": [
+        [
+            "Open", 
+            "Resolved", 
+            "242d 20h 21m"
+        ]
+    ], 
+    "SAMZA-1775": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16h 43m"
+        ]
+    ], 
+    "SAMZA-1777": [
+        [
+            "Open", 
+            "Resolved", 
+            "241d 23h 36m"
+        ]
+    ], 
+    "SAMZA-2278": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 23h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 46m"
+        ]
+    ], 
+    "SAMZA-2277": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 5h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 21h 1m"
+        ]
+    ], 
+    "SAMZA-16": [
+        [
+            "Open", 
+            "Resolved", 
+            "207d 19h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 23h 6m"
+        ]
+    ], 
+    "SAMZA-1452": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 43s"
+        ]
+    ], 
+    "SAMZA-1005": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 19h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 11h 33m"
+        ]
+    ], 
+    "SAMZA-1003": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "14m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 7m"
+        ]
+    ], 
+    "SAMZA-365": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 1s"
+        ]
+    ], 
+    "SAMZA-248": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 15m"
+        ]
+    ], 
+    "SAMZA-366": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 39s"
+        ]
+    ], 
+    "SAMZA-361": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 8h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 25m"
+        ]
+    ], 
+    "SAMZA-360": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 50m"
+        ]
+    ], 
+    "SAMZA-240": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 19h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 45s"
+        ]
+    ], 
+    "SAMZA-241": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 21h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42m 32s"
+        ]
+    ], 
+    "SAMZA-369": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34d 3h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 28m"
+        ]
+    ], 
+    "SAMZA-368": [
+        [
+            "Open", 
+            "Patch Available", 
+            "391d 12h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46d 10h 18m"
+        ]
+    ], 
+    "SAMZA-245": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 18h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "88d 8h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 41m"
+        ]
+    ], 
+    "SAMZA-439": [
+        [
+            "Open", 
+            "Patch Available", 
+            "101d 1h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 23m"
+        ]
+    ], 
+    "SAMZA-534": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15m 58s"
+        ]
+    ], 
+    "SAMZA-433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "190d 7h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 20m"
+        ]
+    ], 
+    "SAMZA-432": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 16m"
+        ]
+    ], 
+    "SAMZA-435": [
+        [
+            "Open", 
+            "Patch Available", 
+            "110d 9h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 3m"
+        ]
+    ], 
+    "SAMZA-434": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 2h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 3m"
+        ]
+    ], 
+    "SAMZA-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 27m"
+        ]
+    ], 
+    "SAMZA-1385": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 44m"
+        ]
+    ], 
+    "SAMZA-1384": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 54m"
+        ]
+    ], 
+    "SAMZA-1387": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 38m"
+        ]
+    ], 
+    "SAMZA-1386": [
+        [
+            "Open", 
+            "Resolved", 
+            "103d 19h 41m"
+        ]
+    ], 
+    "SAMZA-1382": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 20h 58m"
+        ]
+    ], 
+    "SAMZA-1389": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 56s"
+        ]
+    ], 
+    "SAMZA-21": [
+        [
+            "Open", 
+            "Resolved", 
+            "143d 20h 30m"
+        ]
+    ], 
+    "SAMZA-1257": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 2m"
+        ]
+    ], 
+    "SAMZA-1256": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 34m"
+        ]
+    ], 
+    "SAMZA-1253": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h"
+        ]
+    ], 
+    "SAMZA-1250": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 21m"
+        ]
+    ], 
+    "SAMZA-1317": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 50m"
+        ]
+    ], 
+    "SAMZA-1312": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 20h 42m"
+        ]
+    ], 
+    "SAMZA-1259": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 3m"
+        ]
+    ]
+}

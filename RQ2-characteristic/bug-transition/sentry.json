@@ -1,0 +1,7723 @@
+{
+    "SENTRY-466": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 50m"
+        ]
+    ], 
+    "SENTRY-468": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 25s"
+        ]
+    ], 
+    "SENTRY-469": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 59m"
+        ]
+    ], 
+    "SENTRY-1609": [
+        [
+            "Open", 
+            "In Progress", 
+            "24s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "15d 4h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 11m"
+        ]
+    ], 
+    "SENTRY-1320": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 9m"
+        ]
+    ], 
+    "SENTRY-1602": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 16h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 19h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 6h 5m"
+        ]
+    ], 
+    "SENTRY-1605": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 19h"
+        ]
+    ], 
+    "SENTRY-2209": [
+        [
+            "Open", 
+            "Patch Available", 
+            "61d 20h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 4m"
+        ]
+    ], 
+    "SENTRY-381": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 15m"
+        ]
+    ], 
+    "SENTRY-380": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 59m"
+        ]
+    ], 
+    "SENTRY-2205": [
+        [
+            "Open", 
+            "In Progress", 
+            "284d 22h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 9h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 15h 38m"
+        ]
+    ], 
+    "SENTRY-2200": [
+        [
+            "In Progress", 
+            "Open", 
+            "2d 19h 16m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "5d 15h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 29m"
+        ]
+    ], 
+    "SENTRY-388": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22m 56s"
+        ]
+    ], 
+    "SENTRY-140": [
+        [
+            "Open", 
+            "Patch Available", 
+            "247d 19h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 10h 22m"
+        ]
+    ], 
+    "SENTRY-412": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 6h 7m"
+        ]
+    ], 
+    "SENTRY-411": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 47m"
+        ]
+    ], 
+    "SENTRY-2417": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 11m"
+        ]
+    ], 
+    "SENTRY-368": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2m 4s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 15h 27m"
+        ]
+    ], 
+    "SENTRY-204": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 30m"
+        ]
+    ], 
+    "SENTRY-205": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1m 7s"
+        ]
+    ], 
+    "SENTRY-202": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 1h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 14m"
+        ]
+    ], 
+    "SENTRY-203": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 53s"
+        ]
+    ], 
+    "SENTRY-200": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 4m"
+        ]
+    ], 
+    "SENTRY-201": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "52m 32s"
+        ]
+    ], 
+    "SENTRY-363": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 29m"
+        ]
+    ], 
+    "SENTRY-362": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 14h 50m"
+        ]
+    ], 
+    "SENTRY-208": [
+        [
+            "Open", 
+            "Patch Available", 
+            "107d 2h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 32m"
+        ]
+    ], 
+    "SENTRY-209": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 59m"
+        ]
+    ], 
+    "SENTRY-2021": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 22h 52m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 14h 27m"
+        ]
+    ], 
+    "SENTRY-2020": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "19m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 49m"
+        ]
+    ], 
+    "SENTRY-2024": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 2h 46m"
+        ]
+    ], 
+    "SENTRY-2143": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 10h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "105d 20h 41m"
+        ]
+    ], 
+    "SENTRY-2141": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 21h 43m"
+        ]
+    ], 
+    "SENTRY-2146": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "345d 20h 52m"
+        ]
+    ], 
+    "SENTRY-2144": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "84d 15h 38m"
+        ]
+    ], 
+    "SENTRY-660": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 21m"
+        ]
+    ], 
+    "SENTRY-664": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 8m"
+        ]
+    ], 
+    "SENTRY-665": [
+        [
+            "Patch Available", 
+            "In Progress", 
+            "6m 53s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "17m 22s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 22m"
+        ]
+    ], 
+    "SENTRY-703": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 9h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 20m"
+        ]
+    ], 
+    "SENTRY-702": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 4h 44m"
+        ]
+    ], 
+    "SENTRY-509": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 22h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 57m"
+        ]
+    ], 
+    "SENTRY-1739": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 6h 54m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 19h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "32d 6h 36m"
+        ]
+    ], 
+    "SENTRY-1302": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24d 21h 52m"
+        ]
+    ], 
+    "SENTRY-512": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 21h 41m"
+        ]
+    ], 
+    "SENTRY-841": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 5h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 17h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 49m"
+        ]
+    ], 
+    "SENTRY-842": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 46m"
+        ]
+    ], 
+    "SENTRY-511": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 46m"
+        ]
+    ], 
+    "SENTRY-847": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 10h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 1m"
+        ]
+    ], 
+    "SENTRY-962": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 49m"
+        ]
+    ], 
+    "SENTRY-960": [
+        [
+            "Patch Available", 
+            "In Progress", 
+            "18m 19s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 5h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 7h 50m"
+        ]
+    ], 
+    "SENTRY-966": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 13h 17m"
+        ]
+    ], 
+    "SENTRY-965": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 23h 36m"
+        ]
+    ], 
+    "SENTRY-683": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 25m"
+        ]
+    ], 
+    "SENTRY-968": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 21h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 12m"
+        ]
+    ], 
+    "SENTRY-687": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 57m"
+        ]
+    ], 
+    "SENTRY-1868": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13h 8m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 4m"
+        ]
+    ], 
+    "SENTRY-90": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 2m"
+        ]
+    ], 
+    "SENTRY-1231": [
+        [
+            "Open", 
+            "Patch Available", 
+            "527d 50m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5m 6s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "4d 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 32m"
+        ]
+    ], 
+    "SENTRY-1230": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 6h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 42m"
+        ]
+    ], 
+    "SENTRY-1234": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 39m"
+        ]
+    ], 
+    "SENTRY-1236": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 23h 34m"
+        ]
+    ], 
+    "SENTRY-564": [
+        [
+            "Open", 
+            "Resolved", 
+            "30m 38s"
+        ]
+    ], 
+    "SENTRY-563": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "57d 1h 15m"
+        ]
+    ], 
+    "SENTRY-560": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 58m"
+        ]
+    ], 
+    "SENTRY-1018": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 32m"
+        ]
+    ], 
+    "SENTRY-1548": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 23h 33m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "7d 18h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "75d 2h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "25d 2h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 19h 24m"
+        ]
+    ], 
+    "SENTRY-1546": [
+        [
+            "Open", 
+            "In Progress", 
+            "17d 3h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "70d 23h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10d 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 34m"
+        ]
+    ], 
+    "SENTRY-1788": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 40s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 1h 1m"
+        ]
+    ], 
+    "SENTRY-1783": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 52m"
+        ]
+    ], 
+    "SENTRY-1785": [
+        [
+            "In Progress", 
+            "Open", 
+            "1m 25s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "2m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "50m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "10h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 50m"
+        ]
+    ], 
+    "SENTRY-1994": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 57m"
+        ]
+    ], 
+    "SENTRY-1995": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 51m"
+        ]
+    ], 
+    "SENTRY-1997": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 4h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 42m"
+        ]
+    ], 
+    "SENTRY-1990": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 17m"
+        ]
+    ], 
+    "SENTRY-1993": [
+        [
+            "Open", 
+            "In Progress", 
+            "51m 8s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 2h 15m"
+        ]
+    ], 
+    "SENTRY-556": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 27m"
+        ]
+    ], 
+    "SENTRY-557": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 28m"
+        ]
+    ], 
+    "SENTRY-1644": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 1h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 22h 30m"
+        ]
+    ], 
+    "SENTRY-1646": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "70d 58m"
+        ]
+    ], 
+    "SENTRY-1640": [
+        [
+            "Open", 
+            "In Progress", 
+            "42d 21h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "222d 18h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 23m"
+        ]
+    ], 
+    "SENTRY-2240": [
+        [
+            "Open", 
+            "Patch Available", 
+            "389d 9h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 43m"
+        ]
+    ], 
+    "SENTRY-693": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 15h 28m"
+        ]
+    ], 
+    "SENTRY-553": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 13h 13m"
+        ]
+    ], 
+    "SENTRY-1498": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 26m"
+        ]
+    ], 
+    "SENTRY-416": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 11m"
+        ]
+    ], 
+    "SENTRY-1157": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 7s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 58m"
+        ]
+    ], 
+    "SENTRY-2511": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 53m"
+        ]
+    ], 
+    "SENTRY-321": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "40m 49s"
+        ]
+    ], 
+    "SENTRY-320": [
+        [
+            "Open", 
+            "Patch Available", 
+            "706d 6h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 16m"
+        ]
+    ], 
+    "SENTRY-888": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 20h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 5h 25m"
+        ]
+    ], 
+    "SENTRY-739": [
+        [
+            "Open", 
+            "Patch Available", 
+            "99d 6h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 42m"
+        ]
+    ], 
+    "SENTRY-329": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31m 37s"
+        ]
+    ], 
+    "SENTRY-328": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "31d 20h 12m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "86d 11h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 23h 46m"
+        ]
+    ], 
+    "SENTRY-810": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 7h 42m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 8h 34m"
+        ]
+    ], 
+    "SENTRY-1217": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 25m"
+        ]
+    ], 
+    "SENTRY-1216": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 23m"
+        ]
+    ], 
+    "SENTRY-65": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 22m"
+        ]
+    ], 
+    "SENTRY-2046": [
+        [
+            "Patch Available", 
+            "Open", 
+            "9h 19m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 2h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 8m"
+        ]
+    ], 
+    "SENTRY-66": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 19h 4m"
+        ]
+    ], 
+    "SENTRY-746": [
+        [
+            "Open", 
+            "Patch Available", 
+            "90d 12h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 17h 35m"
+        ]
+    ], 
+    "SENTRY-744": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 41m"
+        ]
+    ], 
+    "SENTRY-428": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 16m"
+        ]
+    ], 
+    "SENTRY-424": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 36m"
+        ]
+    ], 
+    "SENTRY-425": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 28m"
+        ]
+    ], 
+    "SENTRY-423": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 22h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 50m"
+        ]
+    ], 
+    "SENTRY-421": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 5h 58m"
+        ]
+    ], 
+    "SENTRY-884": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 22m"
+        ]
+    ], 
+    "SENTRY-885": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 52m"
+        ]
+    ], 
+    "SENTRY-886": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 57m"
+        ]
+    ], 
+    "SENTRY-555": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 46m"
+        ]
+    ], 
+    "SENTRY-552": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 1h 15m"
+        ]
+    ], 
+    "SENTRY-881": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 5h 12m"
+        ]
+    ], 
+    "SENTRY-207": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 7h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 1h 56m"
+        ]
+    ], 
+    "SENTRY-251": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 20h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "51m 44s"
+        ]
+    ], 
+    "SENTRY-923": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 23h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 5h 29m"
+        ]
+    ], 
+    "SENTRY-922": [
+        [
+            "Open", 
+            "Patch Available", 
+            "136d 20h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 3m"
+        ]
+    ], 
+    "SENTRY-257": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49d 13h 59m"
+        ]
+    ], 
+    "SENTRY-559": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 12h 28m"
+        ]
+    ], 
+    "SENTRY-58": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26m 25s"
+        ]
+    ], 
+    "SENTRY-2078": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 19h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 21m"
+        ]
+    ], 
+    "SENTRY-2079": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 40m"
+        ]
+    ], 
+    "SENTRY-2072": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "25m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 55m"
+        ]
+    ], 
+    "SENTRY-51": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 1h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "29m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 3m"
+        ]
+    ], 
+    "SENTRY-52": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 1h 56m"
+        ]
+    ], 
+    "SENTRY-53": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7d 5h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 57m"
+        ]
+    ], 
+    "SENTRY-54": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "17m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28m 56s"
+        ]
+    ], 
+    "SENTRY-1": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 19h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 57m"
+        ]
+    ], 
+    "SENTRY-636": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 18h 50m"
+        ]
+    ], 
+    "SENTRY-1464": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 8h 20m"
+        ]
+    ], 
+    "SENTRY-255": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 51m"
+        ]
+    ], 
+    "SENTRY-2178": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 10h 4m"
+        ]
+    ], 
+    "SENTRY-1745": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 19h 27m"
+        ]
+    ], 
+    "SENTRY-1294": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 13m"
+        ]
+    ], 
+    "SENTRY-953": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 1h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 6h 12m"
+        ]
+    ], 
+    "SENTRY-1749": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 26m"
+        ]
+    ], 
+    "SENTRY-1898": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 47m"
+        ]
+    ], 
+    "SENTRY-1890": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 8m"
+        ]
+    ], 
+    "SENTRY-1897": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 24m"
+        ]
+    ], 
+    "SENTRY-2086": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 11m"
+        ]
+    ], 
+    "SENTRY-2085": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 22h 28m"
+        ]
+    ], 
+    "SENTRY-2084": [
+        [
+            "Open", 
+            "In Progress", 
+            "39s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "40m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 6s"
+        ]
+    ], 
+    "SENTRY-1345": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 46m"
+        ]
+    ], 
+    "SENTRY-2082": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 41m"
+        ]
+    ], 
+    "SENTRY-2081": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 45m"
+        ]
+    ], 
+    "SENTRY-1346": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 17m"
+        ]
+    ], 
+    "SENTRY-1260": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 9h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "160d 14h 23m"
+        ]
+    ], 
+    "SENTRY-1265": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 33m"
+        ]
+    ], 
+    "SENTRY-1128": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "32d 17h"
+        ]
+    ], 
+    "SENTRY-1683": [
+        [
+            "Open", 
+            "In Progress", 
+            "40m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "42s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 14m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 8h 5m"
+        ]
+    ], 
+    "SENTRY-1122": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 13m"
+        ]
+    ], 
+    "SENTRY-1515": [
+        [
+            "Patch Available", 
+            "In Progress", 
+            "11d 19h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "26d 2h 31m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "31d 1h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 25m"
+        ]
+    ], 
+    "SENTRY-2283": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "9d 20h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 10m"
+        ]
+    ], 
+    "SENTRY-2282": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 1m"
+        ]
+    ], 
+    "SENTRY-2490": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 11h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 12h 8m"
+        ]
+    ], 
+    "SENTRY-2491": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 46m"
+        ]
+    ], 
+    "SENTRY-2492": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 6h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 2m"
+        ]
+    ], 
+    "SENTRY-2493": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 28m"
+        ]
+    ], 
+    "SENTRY-2494": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 15m"
+        ]
+    ], 
+    "SENTRY-2497": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11s"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "4h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10d 16h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 21m"
+        ]
+    ], 
+    "SENTRY-2498": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 42m"
+        ]
+    ], 
+    "SENTRY-997": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 17h 4m"
+        ]
+    ], 
+    "SENTRY-1190": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 14h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 12h 57m"
+        ]
+    ], 
+    "SENTRY-1193": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 22h 14m"
+        ]
+    ], 
+    "SENTRY-470": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 5h 29m"
+        ]
+    ], 
+    "SENTRY-472": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h"
+        ]
+    ], 
+    "SENTRY-475": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15m"
+        ]
+    ], 
+    "SENTRY-2212": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 8m"
+        ]
+    ], 
+    "SENTRY-2213": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 29m"
+        ]
+    ], 
+    "SENTRY-2359": [
+        [
+            "Open", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "11m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 51m"
+        ]
+    ], 
+    "SENTRY-2214": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 45m"
+        ]
+    ], 
+    "SENTRY-2352": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 43m"
+        ]
+    ], 
+    "SENTRY-175": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 21h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 37m"
+        ]
+    ], 
+    "SENTRY-176": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 20h 20m"
+        ]
+    ], 
+    "SENTRY-1416": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "449d 17h 29m"
+        ]
+    ], 
+    "SENTRY-2429": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 15m"
+        ]
+    ], 
+    "SENTRY-2428": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 4h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 31m"
+        ]
+    ], 
+    "SENTRY-178": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 22h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 6m"
+        ]
+    ], 
+    "SENTRY-602": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 42m"
+        ]
+    ], 
+    "SENTRY-214": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 5h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 13m"
+        ]
+    ], 
+    "SENTRY-217": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 26m"
+        ]
+    ], 
+    "SENTRY-604": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 39m"
+        ]
+    ], 
+    "SENTRY-212": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 23m"
+        ]
+    ], 
+    "SENTRY-609": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 8h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 54m"
+        ]
+    ], 
+    "SENTRY-219": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 6h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 1m"
+        ]
+    ], 
+    "SENTRY-218": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 7m"
+        ]
+    ], 
+    "SENTRY-2036": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 3m"
+        ]
+    ], 
+    "SENTRY-2037": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 51m"
+        ]
+    ], 
+    "SENTRY-2034": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 21h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "62d 6h 44m"
+        ]
+    ], 
+    "SENTRY-2035": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 14m"
+        ]
+    ], 
+    "SENTRY-2032": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 22h 14m"
+        ]
+    ], 
+    "SENTRY-2033": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 8m"
+        ]
+    ], 
+    "SENTRY-2136": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 45m"
+        ]
+    ], 
+    "SENTRY-18": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 3h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "SENTRY-288": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 58m"
+        ]
+    ], 
+    "SENTRY-289": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 11m"
+        ]
+    ], 
+    "SENTRY-284": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 31m"
+        ]
+    ], 
+    "SENTRY-283": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 34m"
+        ]
+    ], 
+    "SENTRY-280": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 51m"
+        ]
+    ], 
+    "SENTRY-281": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 19h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 21m"
+        ]
+    ], 
+    "SENTRY-676": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 23h 7m"
+        ]
+    ], 
+    "SENTRY-674": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 33m"
+        ]
+    ], 
+    "SENTRY-673": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16m"
+        ]
+    ], 
+    "SENTRY-670": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 2h 20m"
+        ]
+    ], 
+    "SENTRY-777": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 13h 42m"
+        ]
+    ], 
+    "SENTRY-678": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 18h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 41m"
+        ]
+    ], 
+    "SENTRY-1253": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 15m"
+        ]
+    ], 
+    "SENTRY-1252": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 1h 33m"
+        ]
+    ], 
+    "SENTRY-500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "161d 6h 13m"
+        ]
+    ], 
+    "SENTRY-850": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 21m"
+        ]
+    ], 
+    "SENTRY-699": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 7h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 15h 10m"
+        ]
+    ], 
+    "SENTRY-698": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 3h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "SENTRY-914": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 13h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 21m"
+        ]
+    ], 
+    "SENTRY-1918": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 17h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "4s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 1m"
+        ]
+    ], 
+    "SENTRY-1919": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 14h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 53m"
+        ]
+    ], 
+    "SENTRY-669": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 8h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 16h 11m"
+        ]
+    ], 
+    "SENTRY-1915": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 4h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "17h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 58m"
+        ]
+    ], 
+    "SENTRY-1916": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 19h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "19s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 4h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 3m"
+        ]
+    ], 
+    "SENTRY-1913": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 6h 43m"
+        ]
+    ], 
+    "SENTRY-60": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 44m"
+        ]
+    ], 
+    "SENTRY-63": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 55m"
+        ]
+    ], 
+    "SENTRY-2040": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 2h 33m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 23h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 40m"
+        ]
+    ], 
+    "SENTRY-2047": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4m"
+        ]
+    ], 
+    "SENTRY-1850": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 43m"
+        ]
+    ], 
+    "SENTRY-1852": [
+        [
+            "In Progress", 
+            "Open", 
+            "3h 31m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "9m 11s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 41m"
+        ]
+    ], 
+    "SENTRY-2049": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 4h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 20h 1m"
+        ]
+    ], 
+    "SENTRY-591": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41d 1h 22m"
+        ]
+    ], 
+    "SENTRY-594": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 5h 53m"
+        ]
+    ], 
+    "SENTRY-599": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "77d 13h 10m"
+        ]
+    ], 
+    "SENTRY-1228": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 19m"
+        ]
+    ], 
+    "SENTRY-1008": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 17h 46m"
+        ]
+    ], 
+    "SENTRY-1007": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 13h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 22h 19m"
+        ]
+    ], 
+    "SENTRY-1002": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "18d 4h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 48m"
+        ]
+    ], 
+    "SENTRY-1003": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 2h 38m"
+        ]
+    ], 
+    "SENTRY-829": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 52m"
+        ]
+    ], 
+    "SENTRY-822": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 54m"
+        ]
+    ], 
+    "SENTRY-1797": [
+        [
+            "Open", 
+            "Patch Available", 
+            "572d 23h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 22h 50m"
+        ]
+    ], 
+    "SENTRY-826": [
+        [
+            "Open", 
+            "Patch Available", 
+            "143d 5h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 11h 30m"
+        ]
+    ], 
+    "SENTRY-827": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 10h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 4m"
+        ]
+    ], 
+    "SENTRY-825": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17m 49s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59m 7s"
+        ]
+    ], 
+    "SENTRY-442": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "80d 12h 36m"
+        ]
+    ], 
+    "SENTRY-443": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 39m"
+        ]
+    ], 
+    "SENTRY-1095": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 27m"
+        ]
+    ], 
+    "SENTRY-1094": [
+        [
+            "Open", 
+            "Patch Available", 
+            "100d 5h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 1m"
+        ]
+    ], 
+    "SENTRY-1097": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 49m"
+        ]
+    ], 
+    "SENTRY-513": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 3h 32m"
+        ]
+    ], 
+    "SENTRY-1099": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 8h 29m"
+        ]
+    ], 
+    "SENTRY-1313": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35d 7h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "110d 12h 53m"
+        ]
+    ], 
+    "SENTRY-1311": [
+        [
+            "Patch Available", 
+            "Open", 
+            "19s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 19h 7m"
+        ]
+    ], 
+    "SENTRY-1679": [
+        [
+            "Open", 
+            "Patch Available", 
+            "623d 2h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 20m"
+        ]
+    ], 
+    "SENTRY-1096": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15m"
+        ]
+    ], 
+    "SENTRY-2259": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 18h 8m"
+        ]
+    ], 
+    "SENTRY-1071": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 19h 34m"
+        ]
+    ], 
+    "SENTRY-515": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 22h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "383d 5h 51m"
+        ]
+    ], 
+    "SENTRY-2469": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33d 20h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 9h 23m"
+        ]
+    ], 
+    "SENTRY-2316": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 8h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 15h 34m"
+        ]
+    ], 
+    "SENTRY-2315": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 23h 12m"
+        ]
+    ], 
+    "SENTRY-133": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 31m"
+        ]
+    ], 
+    "SENTRY-1486": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 22m"
+        ]
+    ], 
+    "SENTRY-2310": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "13h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 10h 14m"
+        ]
+    ], 
+    "SENTRY-2464": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 40m"
+        ]
+    ], 
+    "SENTRY-2502": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "11h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 23m"
+        ]
+    ], 
+    "SENTRY-2503": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 5h 37m"
+        ]
+    ], 
+    "SENTRY-2500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 18m"
+        ]
+    ], 
+    "SENTRY-2501": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 36m"
+        ]
+    ], 
+    "SENTRY-721": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 21h 56m"
+        ]
+    ], 
+    "SENTRY-489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 47m"
+        ]
+    ], 
+    "SENTRY-482": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22m 29s"
+        ]
+    ], 
+    "SENTRY-483": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 9m"
+        ]
+    ], 
+    "SENTRY-484": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 13m"
+        ]
+    ], 
+    "SENTRY-487": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 11m"
+        ]
+    ], 
+    "SENTRY-526": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 4h 33m"
+        ]
+    ], 
+    "SENTRY-2226": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 13m"
+        ]
+    ], 
+    "SENTRY-431": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26m 19s"
+        ]
+    ], 
+    "SENTRY-430": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 2h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 50m"
+        ]
+    ], 
+    "SENTRY-545": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 23h 26m"
+        ]
+    ], 
+    "SENTRY-544": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 20h 11m"
+        ]
+    ], 
+    "SENTRY-547": [
+        [
+            "Open", 
+            "Patch Available", 
+            "57m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 5h 42m"
+        ]
+    ], 
+    "SENTRY-933": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "169d 21h 47m"
+        ]
+    ], 
+    "SENTRY-540": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 54m"
+        ]
+    ], 
+    "SENTRY-266": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 55m"
+        ]
+    ], 
+    "SENTRY-549": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 8h 59m"
+        ]
+    ], 
+    "SENTRY-262": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 19h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 24m"
+        ]
+    ], 
+    "SENTRY-263": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 21m"
+        ]
+    ], 
+    "SENTRY-408": [
+        [
+            "Open", 
+            "In Progress", 
+            "69d 9h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "51m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 9h 16m"
+        ]
+    ], 
+    "SENTRY-29": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 52s"
+        ]
+    ], 
+    "SENTRY-799": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 7h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 13h 14m"
+        ]
+    ], 
+    "SENTRY-794": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59m 57s"
+        ]
+    ], 
+    "SENTRY-796": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 20h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 45m"
+        ]
+    ], 
+    "SENTRY-797": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 43m"
+        ]
+    ], 
+    "SENTRY-790": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 22h 35m"
+        ]
+    ], 
+    "SENTRY-791": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "SENTRY-792": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 38m"
+        ]
+    ], 
+    "SENTRY-2164": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 49m"
+        ]
+    ], 
+    "SENTRY-2167": [
+        [
+            "In Progress", 
+            "Open", 
+            "1s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "19d 4h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 20h 14m"
+        ]
+    ], 
+    "SENTRY-2168": [
+        [
+            "In Progress", 
+            "Open", 
+            "1s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "19d 4h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 34m"
+        ]
+    ], 
+    "SENTRY-318": [
+        [
+            "Open", 
+            "Patch Available", 
+            "64d 4h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 23m"
+        ]
+    ], 
+    "SENTRY-319": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 13m"
+        ]
+    ], 
+    "SENTRY-648": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 15h 3m"
+        ]
+    ], 
+    "SENTRY-310": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 6m"
+        ]
+    ], 
+    "SENTRY-311": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 13h 30m"
+        ]
+    ], 
+    "SENTRY-312": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 51s"
+        ]
+    ], 
+    "SENTRY-313": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 19m"
+        ]
+    ], 
+    "SENTRY-314": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 28m"
+        ]
+    ], 
+    "SENTRY-315": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 35m"
+        ]
+    ], 
+    "SENTRY-317": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 19s"
+        ]
+    ], 
+    "SENTRY-1759": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 57m"
+        ]
+    ], 
+    "SENTRY-1459": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 19h 11m"
+        ]
+    ], 
+    "SENTRY-860": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 26m"
+        ]
+    ], 
+    "SENTRY-945": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 5h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 10h 12m"
+        ]
+    ], 
+    "SENTRY-944": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 1h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 20h 40m"
+        ]
+    ], 
+    "SENTRY-947": [
+        [
+            "Open", 
+            "In Progress", 
+            "213d 14h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "21m 1s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 42m"
+        ]
+    ], 
+    "SENTRY-1888": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 22h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 14m"
+        ]
+    ], 
+    "SENTRY-1889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15m 3s"
+        ]
+    ], 
+    "SENTRY-1886": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 23h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 18m"
+        ]
+    ], 
+    "SENTRY-1357": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 23h 19m"
+        ]
+    ], 
+    "SENTRY-1354": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 16h 53m"
+        ]
+    ], 
+    "SENTRY-2092": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 33m"
+        ]
+    ], 
+    "SENTRY-1218": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 16m"
+        ]
+    ], 
+    "SENTRY-893": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 7h 53m"
+        ]
+    ], 
+    "SENTRY-892": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h"
+        ]
+    ], 
+    "SENTRY-1215": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 42m"
+        ]
+    ], 
+    "SENTRY-1213": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "47m 52s"
+        ]
+    ], 
+    "SENTRY-1212": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 12m"
+        ]
+    ], 
+    "SENTRY-2299": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 44m"
+        ]
+    ], 
+    "SENTRY-131": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 58m"
+        ]
+    ], 
+    "SENTRY-2293": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 7h 12m"
+        ]
+    ], 
+    "SENTRY-1037": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 19m"
+        ]
+    ], 
+    "SENTRY-1524": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 17h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 5h 47m"
+        ]
+    ], 
+    "SENTRY-1035": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 23h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 23h 2m"
+        ]
+    ], 
+    "SENTRY-1526": [
+        [
+            "Open", 
+            "In Progress", 
+            "31d 8h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 41m"
+        ]
+    ], 
+    "SENTRY-1039": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 55m"
+        ]
+    ], 
+    "SENTRY-444": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 13h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 37m"
+        ]
+    ], 
+    "SENTRY-445": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 20h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 1m"
+        ]
+    ], 
+    "SENTRY-446": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39m 47s"
+        ]
+    ], 
+    "SENTRY-447": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 20h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 49m"
+        ]
+    ], 
+    "SENTRY-192": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 10m"
+        ]
+    ], 
+    "SENTRY-1044": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 57m"
+        ]
+    ], 
+    "SENTRY-190": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 20h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 47s"
+        ]
+    ], 
+    "SENTRY-191": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 14h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 6m"
+        ]
+    ], 
+    "SENTRY-1624": [
+        [
+            "Open", 
+            "In Progress", 
+            "58m 30s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 24m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 19m"
+        ]
+    ], 
+    "SENTRY-2267": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 42m"
+        ]
+    ], 
+    "SENTRY-169": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 44m"
+        ]
+    ], 
+    "SENTRY-788": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 38m"
+        ]
+    ], 
+    "SENTRY-2262": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 1h 9m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1h 51m"
+        ]
+    ], 
+    "SENTRY-162": [
+        [
+            "Open", 
+            "Patch Available", 
+            "77d 12h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 11h"
+        ]
+    ], 
+    "SENTRY-161": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "40m 12s"
+        ]
+    ], 
+    "SENTRY-166": [
+        [
+            "Open", 
+            "In Progress", 
+            "66d 3h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 31m"
+        ]
+    ], 
+    "SENTRY-2432": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 35m"
+        ]
+    ], 
+    "SENTRY-2433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 20m"
+        ]
+    ], 
+    "SENTRY-2437": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6m"
+        ]
+    ], 
+    "SENTRY-615": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 44m"
+        ]
+    ], 
+    "SENTRY-2124": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 20h 27m"
+        ]
+    ], 
+    "SENTRY-2127": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 9m"
+        ]
+    ], 
+    "SENTRY-2120": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 16m"
+        ]
+    ], 
+    "SENTRY-2123": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 27m"
+        ]
+    ], 
+    "SENTRY-108": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 18m"
+        ]
+    ], 
+    "SENTRY-294": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 21m"
+        ]
+    ], 
+    "SENTRY-297": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 42m"
+        ]
+    ], 
+    "SENTRY-296": [
+        [
+            "Open", 
+            "In Progress", 
+            "187d 9h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8d 6h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "116d 20h 47m"
+        ]
+    ], 
+    "SENTRY-290": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8m 5s"
+        ]
+    ], 
+    "SENTRY-769": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 14h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "23h 47m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "117d 21h 11m"
+        ]
+    ], 
+    "SENTRY-764": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 37m"
+        ]
+    ], 
+    "SENTRY-763": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 45m"
+        ]
+    ], 
+    "SENTRY-418": [
+        [
+            "Open", 
+            "In Progress", 
+            "34m 13s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1042d 20h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 48m"
+        ]
+    ], 
+    "SENTRY-488": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 12m"
+        ]
+    ], 
+    "SENTRY-1712": [
+        [
+            "Open", 
+            "Patch Available", 
+            "195d 7h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 7m"
+        ]
+    ], 
+    "SENTRY-534": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 45m"
+        ]
+    ], 
+    "SENTRY-536": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 7m"
+        ]
+    ], 
+    "SENTRY-904": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 14h 36m"
+        ]
+    ], 
+    "SENTRY-900": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 53m"
+        ]
+    ], 
+    "SENTRY-1927": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 44m"
+        ]
+    ], 
+    "SENTRY-902": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45d 20h 41m"
+        ]
+    ], 
+    "SENTRY-1929": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6h 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 9m"
+        ]
+    ], 
+    "SENTRY-1928": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 53m"
+        ]
+    ], 
+    "SENTRY-1844": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 5h 21m"
+        ]
+    ], 
+    "SENTRY-1845": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 19h 56m"
+        ]
+    ], 
+    "SENTRY-73": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 57m"
+        ]
+    ], 
+    "HIVE-8916": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 14m"
+        ]
+    ], 
+    "SENTRY-2190": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "111d 3h 31m"
+        ]
+    ], 
+    "SENTRY-2193": [
+        [
+            "Open", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "16h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 41m"
+        ]
+    ], 
+    "SENTRY-2192": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 17h 13m"
+        ]
+    ], 
+    "SENTRY-229": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 57m"
+        ]
+    ], 
+    "SENTRY-586": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 27m"
+        ]
+    ], 
+    "SENTRY-220": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 54m"
+        ]
+    ], 
+    "SENTRY-221": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 29m"
+        ]
+    ], 
+    "SENTRY-994": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 1h 20m"
+        ]
+    ], 
+    "SENTRY-224": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 26m"
+        ]
+    ], 
+    "SENTRY-991": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33d 15h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 59m"
+        ]
+    ], 
+    "SENTRY-2395": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 34m"
+        ]
+    ], 
+    "SENTRY-2394": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 5s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "30m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 15m"
+        ]
+    ], 
+    "SENTRY-1405": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 12m"
+        ]
+    ], 
+    "SENTRY-839": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 4h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 30m"
+        ]
+    ], 
+    "SENTRY-835": [
+        [
+            "Open", 
+            "Patch Available", 
+            "109d 4h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 22h 18m"
+        ]
+    ], 
+    "SENTRY-834": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 14h 37m"
+        ]
+    ], 
+    "SENTRY-836": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 1h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 5m"
+        ]
+    ], 
+    "SENTRY-1087": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 7h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 10m"
+        ]
+    ], 
+    "SENTRY-300": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 19m"
+        ]
+    ], 
+    "SENTRY-1331": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 23h 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 23h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 26m"
+        ]
+    ], 
+    "SENTRY-1667": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "214d 23h 9m"
+        ]
+    ], 
+    "SENTRY-1665": [
+        [
+            "Open", 
+            "In Progress", 
+            "98d 8h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "18m 3s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 4h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 14m"
+        ]
+    ], 
+    "SENTRY-1662": [
+        [
+            "Open", 
+            "Patch Available", 
+            "239d 10h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 1h 7m"
+        ]
+    ], 
+    "SENTRY-1663": [
+        [
+            "Open", 
+            "In Progress", 
+            "9h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 45m"
+        ]
+    ], 
+    "SENTRY-1105": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 57m"
+        ]
+    ], 
+    "SENTRY-1060": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11m"
+        ]
+    ], 
+    "SENTRY-1064": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 49m"
+        ]
+    ], 
+    "SENTRY-1066": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 13h 41m"
+        ]
+    ], 
+    "SENTRY-2477": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "62d 23h 56m"
+        ]
+    ], 
+    "SENTRY-2308": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "36d 22h 18m"
+        ]
+    ], 
+    "SENTRY-2471": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "65d 18h 52m"
+        ]
+    ], 
+    "SENTRY-717": [
+        [
+            "Open", 
+            "In Progress", 
+            "19h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 30m"
+        ]
+    ], 
+    "SENTRY-496": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m 14s"
+        ]
+    ], 
+    "SENTRY-528": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 46m"
+        ]
+    ], 
+    "SENTRY-494": [
+        [
+            "Open", 
+            "In Progress", 
+            "47d 7h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "33m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56d 6h 22m"
+        ]
+    ], 
+    "SENTRY-177": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 54m"
+        ]
+    ], 
+    "SENTRY-2238": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38d 20h 6m"
+        ]
+    ], 
+    "SENTRY-396": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 9h 32m"
+        ]
+    ], 
+    "SENTRY-2231": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38d 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 48m"
+        ]
+    ], 
+    "SENTRY-1586": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 42m"
+        ]
+    ], 
+    "SENTRY-152": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 9h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 27m"
+        ]
+    ], 
+    "SENTRY-2409": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 12h 53m"
+        ]
+    ], 
+    "SENTRY-407": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 5h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 20h 29m"
+        ]
+    ], 
+    "SENTRY-2403": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 3m"
+        ]
+    ], 
+    "SENTRY-409": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 20h 27m"
+        ]
+    ], 
+    "SENTRY-2406": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 41m"
+        ]
+    ], 
+    "SENTRY-273": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 44m"
+        ]
+    ], 
+    "SENTRY-271": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 50s"
+        ]
+    ], 
+    "SENTRY-277": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 21m"
+        ]
+    ], 
+    "SENTRY-276": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 6s"
+        ]
+    ], 
+    "SENTRY-275": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 23m"
+        ]
+    ], 
+    "SENTRY-274": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 10h 29m"
+        ]
+    ], 
+    "SENTRY-279": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 8h 25m"
+        ]
+    ], 
+    "SENTRY-278": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 31m"
+        ]
+    ], 
+    "SENTRY-780": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45d 13h 1m"
+        ]
+    ], 
+    "SENTRY-2018": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 22h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 23h 28m"
+        ]
+    ], 
+    "SENTRY-1801": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 25m"
+        ]
+    ], 
+    "SENTRY-2014": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 47m"
+        ]
+    ], 
+    "SENTRY-789": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 52m"
+        ]
+    ], 
+    "SENTRY-2017": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 8s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6d 5h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "6d 12h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 2h 23m"
+        ]
+    ], 
+    "SENTRY-30": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29m 36s"
+        ]
+    ], 
+    "SENTRY-971": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 2h 17m"
+        ]
+    ], 
+    "SENTRY-64": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 17m"
+        ]
+    ], 
+    "SENTRY-658": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 32m"
+        ]
+    ], 
+    "SENTRY-309": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 32m"
+        ]
+    ], 
+    "SENTRY-307": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 57m"
+        ]
+    ], 
+    "SENTRY-654": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 21h 9m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 19h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "4d 17h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 38m"
+        ]
+    ], 
+    "SENTRY-305": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 50m"
+        ]
+    ], 
+    "SENTRY-304": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 3m"
+        ]
+    ], 
+    "SENTRY-301": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 14m"
+        ]
+    ], 
+    "SENTRY-652": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 13h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 16m"
+        ]
+    ], 
+    "SENTRY-1447": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 22h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 38m"
+        ]
+    ], 
+    "SENTRY-1334": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 7h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 15h 53m"
+        ]
+    ], 
+    "SENTRY-1336": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11m 31s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 8m"
+        ]
+    ], 
+    "SENTRY-1727": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 2m"
+        ]
+    ], 
+    "SENTRY-974": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 9h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "78d 14h 32m"
+        ]
+    ], 
+    "SENTRY-878": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 19m"
+        ]
+    ], 
+    "SENTRY-89": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 35m"
+        ]
+    ], 
+    "SENTRY-1874": [
+        [
+            "Open", 
+            "In Progress", 
+            "18h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "53s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 5h 1m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 31m"
+        ]
+    ], 
+    "SENTRY-87": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 12m"
+        ]
+    ], 
+    "SENTRY-85": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 2m"
+        ]
+    ], 
+    "SENTRY-579": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 55m"
+        ]
+    ], 
+    "SENTRY-1209": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 9h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45d 17h 28m"
+        ]
+    ], 
+    "SENTRY-1169": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6h 9m"
+        ]
+    ], 
+    "SENTRY-573": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 54m"
+        ]
+    ], 
+    "SENTRY-1201": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 23h 3m"
+        ]
+    ], 
+    "SENTRY-576": [
+        [
+            "Patch Available", 
+            "Open", 
+            "19h 53m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45d 2h 13m"
+        ]
+    ], 
+    "SENTRY-577": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "90d 3h 57m"
+        ]
+    ], 
+    "SENTRY-1532": [
+        [
+            "Open", 
+            "In Progress", 
+            "41d 2h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "5d 17m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "18m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 8h 10m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 32m"
+        ]
+    ], 
+    "SENTRY-1534": [
+        [
+            "Patch Available", 
+            "In Progress", 
+            "10d 4h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "37d 2h 32m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "2h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 15h 10m"
+        ]
+    ], 
+    "SENTRY-1438": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 49m"
+        ]
+    ], 
+    "SENTRY-269": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 24m"
+        ]
+    ], 
+    "SENTRY-259": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 13h 47m"
+        ]
+    ], 
+    "SENTRY-244": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 22h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "SENTRY-1987": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 11m"
+        ]
+    ], 
+    "SENTRY-1985": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 35m"
+        ]
+    ], 
+    "SENTRY-1984": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 35m"
+        ]
+    ], 
+    "SENTRY-1983": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 37m"
+        ]
+    ], 
+    "SENTRY-187": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 7m"
+        ]
+    ], 
+    "SENTRY-186": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 5m"
+        ]
+    ], 
+    "SENTRY-181": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 8h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 35m"
+        ]
+    ], 
+    "SENTRY-183": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 5h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 52m"
+        ]
+    ], 
+    "SENTRY-260": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 2h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "3m 6s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 1h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 20h 14m"
+        ]
+    ], 
+    "SENTRY-188": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1m 13s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 19h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 29m"
+        ]
+    ], 
+    "SENTRY-571": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "57d 17h 58m"
+        ]
+    ], 
+    "SENTRY-1155": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 16h 6m"
+        ]
+    ], 
+    "SENTRY-1156": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 13h 11m"
+        ]
+    ], 
+    "SENTRY-1658": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 59m"
+        ]
+    ], 
+    "SENTRY-2276": [
+        [
+            "Open", 
+            "In Progress", 
+            "376d 18h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "22m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 9h 23m"
+        ]
+    ], 
+    "SENTRY-2270": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 57m"
+        ]
+    ], 
+    "SENTRY-2271": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 18h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 45m"
+        ]
+    ], 
+    "SENTRY-118": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m 46s"
+        ]
+    ], 
+    "SENTRY-2375": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 3h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 10h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 33m"
+        ]
+    ], 
+    "SENTRY-2373": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 16m"
+        ]
+    ], 
+    "SENTRY-575": [
+        [
+            "Open", 
+            "Patch Available", 
+            "51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 23h 15m"
+        ]
+    ], 
+    "SENTRY-2528": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 35m"
+        ]
+    ], 
+    "SENTRY-529": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13h 22m"
+        ]
+    ], 
+    "SENTRY-2441": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 4h 9m"
+        ]
+    ], 
+    "SENTRY-78": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 17m"
+        ]
+    ], 
+    "SENTRY-1111": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "8m 37s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "7m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 9h 12m"
+        ]
+    ], 
+    "SENTRY-336": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 18h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 1h 41m"
+        ]
+    ], 
+    "SENTRY-337": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 11m"
+        ]
+    ], 
+    "SENTRY-79": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14m 13s"
+        ]
+    ], 
+    "SENTRY-332": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 8m"
+        ]
+    ], 
+    "SENTRY-736": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 9m"
+        ]
+    ], 
+    "SENTRY-338": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 23h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 20h 12m"
+        ]
+    ], 
+    "SENTRY-339": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 3h 19m"
+        ]
+    ], 
+    "SENTRY-1819": [
+        [
+            "Open", 
+            "Patch Available", 
+            "194d 22h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 20h 11m"
+        ]
+    ], 
+    "SENTRY-2115": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 18h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "25d 7h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 13h 16m"
+        ]
+    ], 
+    "SENTRY-2330": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "17m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 22h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 50m"
+        ]
+    ], 
+    "SENTRY-441": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 47m"
+        ]
+    ], 
+    "SENTRY-2332": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 20m"
+        ]
+    ], 
+    "SENTRY-213": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 41m"
+        ]
+    ], 
+    "SENTRY-194": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 58m"
+        ]
+    ], 
+    "SENTRY-750": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 44m"
+        ]
+    ], 
+    "SENTRY-752": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 1m"
+        ]
+    ], 
+    "SENTRY-23": [
+        [
+            "Open", 
+            "In Progress", 
+            "28s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 3h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 23h 49m"
+        ]
+    ], 
+    "SENTRY-2028": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 20h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 12m"
+        ]
+    ], 
+    "SENTRY-452": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50m 59s"
+        ]
+    ], 
+    "SENTRY-451": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 10m"
+        ]
+    ], 
+    "SENTRY-450": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 44s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 18m"
+        ]
+    ], 
+    "SENTRY-455": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 45m"
+        ]
+    ], 
+    "SENTRY-454": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "58m 31s"
+        ]
+    ], 
+    "SENTRY-523": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 22m"
+        ]
+    ], 
+    "SENTRY-248": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "SENTRY-357": [
+        [
+            "Open", 
+            "Patch Available", 
+            "112d 20h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "89d 2h 29m"
+        ]
+    ], 
+    "SENTRY-195": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24s"
+        ]
+    ], 
+    "SENTRY-1270": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 2h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "160d 12h 21m"
+        ]
+    ], 
+    "SENTRY-525": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 22h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 47m"
+        ]
+    ], 
+    "SENTRY-243": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 56m"
+        ]
+    ], 
+    "SENTRY-932": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45d 23h 17m"
+        ]
+    ], 
+    "SENTRY-241": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 7m"
+        ]
+    ], 
+    "SENTRY-246": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 3m"
+        ]
+    ], 
+    "SENTRY-247": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 6h 3m"
+        ]
+    ], 
+    "SENTRY-936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 16m"
+        ]
+    ], 
+    "SENTRY-1934": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 34m"
+        ]
+    ], 
+    "SENTRY-1933": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 2m"
+        ]
+    ], 
+    "SENTRY-1931": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 57m"
+        ]
+    ], 
+    "SENTRY-1939": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "36m 28s"
+        ]
+    ], 
+    "SENTRY-2066": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 8m"
+        ]
+    ], 
+    "SENTRY-15": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41m 39s"
+        ]
+    ], 
+    "SENTRY-2184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 44m"
+        ]
+    ], 
+    "SENTRY-2068": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 34m"
+        ]
+    ], 
+    "SENTRY-989": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 23h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53d 22h 56m"
+        ]
+    ], 
+    "SENTRY-988": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 8m"
+        ]
+    ], 
+    "SENTRY-237": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 24m"
+        ]
+    ], 
+    "SENTRY-236": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 5m"
+        ]
+    ], 
+    "SENTRY-235": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 13m"
+        ]
+    ], 
+    "SENTRY-227": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "26d 6h 44m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "336d 15h 25m"
+        ]
+    ], 
+    "SENTRY-231": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 2h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 49m"
+        ]
+    ], 
+    "SENTRY-1476": [
+        [
+            "Patch Available", 
+            "In Progress", 
+            "8d 18h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "3m 54s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "76d 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 52m"
+        ]
+    ], 
+    "SENTRY-1471": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 18h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 4m"
+        ]
+    ], 
+    "SENTRY-808": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 7h 23m"
+        ]
+    ], 
+    "SENTRY-805": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 17h 48m"
+        ]
+    ], 
+    "SENTRY-806": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 20h 32m"
+        ]
+    ], 
+    "SENTRY-800": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 37m"
+        ]
+    ], 
+    "SENTRY-801": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 8h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 5h 21m"
+        ]
+    ], 
+    "SENTRY-802": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 34m"
+        ]
+    ], 
+    "SENTRY-803": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 41m"
+        ]
+    ], 
+    "SENTRY-1942": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1m 4s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 21h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 1m"
+        ]
+    ], 
+    "SENTRY-1941": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 49m"
+        ]
+    ], 
+    "SENTRY-1940": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "36m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 57m"
+        ]
+    ], 
+    "SENTRY-1946": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 15m"
+        ]
+    ], 
+    "SENTRY-1378": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 48m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "34s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 21h 9m"
+        ]
+    ], 
+    "SENTRY-1376": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 1m"
+        ]
+    ], 
+    "SENTRY-1692": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 15m"
+        ]
+    ], 
+    "SENTRY-1401": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 21h 15m"
+        ]
+    ], 
+    "SENTRY-1114": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 15h 20m"
+        ]
+    ], 
+    "SENTRY-1116": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 31s"
+        ]
+    ], 
+    "SENTRY-1058": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 5h"
+        ]
+    ], 
+    "SENTRY-1112": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 10m"
+        ]
+    ], 
+    "SENTRY-1504": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 1m"
+        ]
+    ], 
+    "SENTRY-1055": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 17h 28m"
+        ]
+    ], 
+    "SENTRY-1054": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 1h 8m"
+        ]
+    ], 
+    "SENTRY-1508": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 22h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49d 4h 19m"
+        ]
+    ], 
+    "SENTRY-1050": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 17h 1m"
+        ]
+    ], 
+    "SENTRY-2337": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 15m"
+        ]
+    ], 
+    "SENTRY-2480": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 34m"
+        ]
+    ], 
+    "SENTRY-2486": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 14h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 5m"
+        ]
+    ], 
+    "SENTRY-1184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 13h 20m"
+        ]
+    ]
+}

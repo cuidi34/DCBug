@@ -1,0 +1,6969 @@
+{
+    "OWB-192": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 28s"
+        ]
+    ], 
+    "OWB-1042": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 1h 54m"
+        ]
+    ], 
+    "OWB-211": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 11h 13m"
+        ]
+    ], 
+    "OWB-210": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 16h 20m"
+        ]
+    ], 
+    "OWB-199": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 5s"
+        ]
+    ], 
+    "OWB-215": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 9h 59m"
+        ]
+    ], 
+    "OWB-217": [
+        [
+            "Open", 
+            "Closed", 
+            "54s"
+        ]
+    ], 
+    "OWB-216": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 18h 31m"
+        ]
+    ], 
+    "OWB-1204": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 18s"
+        ]
+    ], 
+    "OWB-1205": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 3h 19m"
+        ]
+    ], 
+    "OWB-514": [
+        [
+            "Open", 
+            "Closed", 
+            "21h 53m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "48d 22h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "79d 4h 3m"
+        ]
+    ], 
+    "OWB-1207": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 12h 33m"
+        ]
+    ], 
+    "OWB-698": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 12h 42m"
+        ]
+    ], 
+    "OWB-510": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 16h 33m"
+        ]
+    ], 
+    "OWB-1203": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 38s"
+        ]
+    ], 
+    "OWB-694": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 8h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 12h 19m"
+        ]
+    ], 
+    "OWB-697": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 12h 18m"
+        ]
+    ], 
+    "OWB-696": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 22h 10m"
+        ]
+    ], 
+    "OWB-1209": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "12h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16d 15h 34m"
+        ]
+    ], 
+    "OWB-693": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 12h 5m"
+        ]
+    ], 
+    "OWB-519": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 20h 39m"
+        ]
+    ], 
+    "OWB-457": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 21h 27m"
+        ]
+    ], 
+    "OWB-456": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 6h"
+        ]
+    ], 
+    "OWB-455": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 22h 34m"
+        ]
+    ], 
+    "OWB-454": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 23h 17m"
+        ]
+    ], 
+    "OWB-450": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 2h 9m"
+        ]
+    ], 
+    "OWB-677": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 23h 7m"
+        ]
+    ], 
+    "OWB-998": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 34m"
+        ]
+    ], 
+    "OWB-850": [
+        [
+            "Open", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 14h 9m"
+        ]
+    ], 
+    "OWB-857": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 11h 27m"
+        ]
+    ], 
+    "OWB-672": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 10h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 9h 49m"
+        ]
+    ], 
+    "OWB-855": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 21h 15m"
+        ]
+    ], 
+    "OWB-992": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 22h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "20m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "194d 1h 50m"
+        ]
+    ], 
+    "OWB-993": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "232d 19h 27m"
+        ]
+    ], 
+    "OWB-774": [
+        [
+            "Open", 
+            "In Progress", 
+            "102d 10h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "170d 10h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 4h 35m"
+        ]
+    ], 
+    "OWB-991": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 3h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "248d 11h 13m"
+        ]
+    ], 
+    "OWB-997": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "228d 6h 9m"
+        ]
+    ], 
+    "OWB-994": [
+        [
+            "Open", 
+            "Resolved", 
+            "32m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "232d 19h 13m"
+        ]
+    ], 
+    "OWB-771": [
+        [
+            "Open", 
+            "Resolved", 
+            "841d 8h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 1h 54m"
+        ]
+    ], 
+    "OWB-289": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 3m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "10d 8h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "78d 2h 46m"
+        ]
+    ], 
+    "OWB-284": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 21h 52m"
+        ]
+    ], 
+    "OWB-285": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 9h 52m"
+        ]
+    ], 
+    "OWB-283": [
+        [
+            "Open", 
+            "Closed", 
+            "10h 55m"
+        ]
+    ], 
+    "OWB-958": [
+        [
+            "Open", 
+            "Resolved", 
+            "328d 8h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 59m"
+        ]
+    ], 
+    "OWB-351": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18m 34s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "15d 17h 45m"
+        ]
+    ], 
+    "OWB-600": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 11h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14h 23m"
+        ]
+    ], 
+    "TOMEE-1531": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 3h 23m"
+        ]
+    ], 
+    "OWB-354": [
+        [
+            "Open", 
+            "Closed", 
+            "49d 15h 58m"
+        ]
+    ], 
+    "OWB-208": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 16h 41m"
+        ]
+    ], 
+    "OWB-359": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "90d 18h 32m"
+        ]
+    ], 
+    "OWB-608": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 20h 42m"
+        ]
+    ], 
+    "OWB-84": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 4h 15m"
+        ]
+    ], 
+    "OWB-83": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 3h 59m"
+        ]
+    ], 
+    "OWB-82": [
+        [
+            "Open", 
+            "Closed", 
+            "17d 7h 7m"
+        ]
+    ], 
+    "OWB-81": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 8h 36m"
+        ]
+    ], 
+    "OWB-80": [
+        [
+            "Open", 
+            "Resolved", 
+            "30m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 8h 35m"
+        ]
+    ], 
+    "OWB-1264": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 1h 22m"
+        ]
+    ], 
+    "OWB-1103": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 5h 56m"
+        ]
+    ], 
+    "OWB-1102": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 17h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "31d 21h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 11h 41m"
+        ]
+    ], 
+    "OWB-1100": [
+        [
+            "Open", 
+            "Resolved", 
+            "50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 10h 16m"
+        ]
+    ], 
+    "OWB-143": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 6h 43m"
+        ]
+    ], 
+    "OWB-153": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 22h 42m"
+        ]
+    ], 
+    "OWB-142": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 3m"
+        ]
+    ], 
+    "OWB-150": [
+        [
+            "Open", 
+            "In Progress", 
+            "22d 11h 48m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 11h 2m"
+        ]
+    ], 
+    "OWB-1033": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9d 23h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "76d 15h 40m"
+        ]
+    ], 
+    "OWB-515": [
+        [
+            "Open", 
+            "Resolved", 
+            "329d 13h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 2h 36m"
+        ]
+    ], 
+    "OWB-1036": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 17h"
+        ]
+    ], 
+    "OWB-1035": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 22h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 18h 58m"
+        ]
+    ], 
+    "OWB-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 11h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 39m"
+        ]
+    ], 
+    "OWB-974": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "295d 18h 14m"
+        ]
+    ], 
+    "OWB-975": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "295d 18h 17m"
+        ]
+    ], 
+    "OWB-976": [
+        [
+            "Open", 
+            "Resolved", 
+            "288d 21h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 20h"
+        ]
+    ], 
+    "OWB-970": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 20h 28m"
+        ]
+    ], 
+    "OWB-971": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 18h 26m"
+        ]
+    ], 
+    "OWB-511": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 19h 44m"
+        ]
+    ], 
+    "OWB-679": [
+        [
+            "Open", 
+            "Resolved", 
+            "998d 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 20h 17m"
+        ]
+    ], 
+    "OWB-979": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "294d 21h 54m"
+        ]
+    ], 
+    "OWB-158": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 19h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "95d 14h 28m"
+        ]
+    ], 
+    "OWB-317": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 21h 46m"
+        ]
+    ], 
+    "OWB-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 20h 41m"
+        ]
+    ], 
+    "OWB-480": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 12h 4m"
+        ]
+    ], 
+    "OWB-482": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 1m"
+        ]
+    ], 
+    "OWB-486": [
+        [
+            "Open", 
+            "Closed", 
+            "11h 1m"
+        ]
+    ], 
+    "OWB-690": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 12h 27m"
+        ]
+    ], 
+    "OWB-54": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 2h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 1h 43m"
+        ]
+    ], 
+    "OWB-558": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 23h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "145d 12h 32m"
+        ]
+    ], 
+    "OWB-417": [
+        [
+            "Open", 
+            "Resolved", 
+            "245d 22h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 18h 8m"
+        ]
+    ], 
+    "OWB-416": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 2h 23m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4m 24s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 7h 41m"
+        ]
+    ], 
+    "OWB-415": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 2h 26m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4m 5s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 7h 41m"
+        ]
+    ], 
+    "OWB-1084": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "30d 2h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 41m"
+        ]
+    ], 
+    "OWB-418": [
+        [
+            "Open", 
+            "Closed", 
+            "9h 25m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4m 25s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 7h 41m"
+        ]
+    ], 
+    "OWB-1082": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 14h 4m"
+        ]
+    ], 
+    "OWB-1083": [
+        [
+            "Open", 
+            "In Progress", 
+            "13h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 14h 57m"
+        ]
+    ], 
+    "OWB-554": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "145d 12h 30m"
+        ]
+    ], 
+    "OWB-329": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 13h 34m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 19h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2d 7h 9m"
+        ]
+    ], 
+    "OWB-633": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 11h 33m"
+        ]
+    ], 
+    "OWB-631": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 3h 9m"
+        ]
+    ], 
+    "OWB-630": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 16h 26m"
+        ]
+    ], 
+    "OWB-636": [
+        [
+            "Open", 
+            "Resolved", 
+            "108d 11h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 10h 14m"
+        ]
+    ], 
+    "OWB-634": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 19h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 12h 45m"
+        ]
+    ], 
+    "OWB-1251": [
+        [
+            "Open", 
+            "Resolved", 
+            "54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 22h 17m"
+        ]
+    ], 
+    "OWB-1257": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 20h 53m"
+        ]
+    ], 
+    "OWB-156": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 15h 52m"
+        ]
+    ], 
+    "OWB-157": [
+        [
+            "Open", 
+            "Closed", 
+            "18h 31m"
+        ]
+    ], 
+    "OWB-154": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 4h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "113d 17h 39m"
+        ]
+    ], 
+    "OWB-155": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 21h 42m"
+        ]
+    ], 
+    "OWB-152": [
+        [
+            "Open", 
+            "Closed", 
+            "92d 12h 49m"
+        ]
+    ], 
+    "OWB-258": [
+        [
+            "Open", 
+            "Closed", 
+            "8m 56s"
+        ]
+    ], 
+    "OWB-529": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 4h 11m"
+        ]
+    ], 
+    "OWB-151": [
+        [
+            "Open", 
+            "Closed", 
+            "93d 22h 35m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1m 56s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1084d 14h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 2h 55m"
+        ]
+    ], 
+    "OWB-524": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 3h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25d 21h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 1h 36m"
+        ]
+    ], 
+    "OWB-523": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 11h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 22h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 21h 13m"
+        ]
+    ], 
+    "OWB-522": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "OWB-521": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "101d 17h 42m"
+        ]
+    ], 
+    "OWB-252": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 12h 27m"
+        ]
+    ], 
+    "OWB-747": [
+        [
+            "Open", 
+            "Resolved", 
+            "830d 8h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 41m"
+        ]
+    ], 
+    "OWB-745": [
+        [
+            "Open", 
+            "Resolved", 
+            "830d 8h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 41m"
+        ]
+    ], 
+    "OWB-743": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 6h 9m"
+        ]
+    ], 
+    "OWB-742": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 20h 43m"
+        ]
+    ], 
+    "OWB-675": [
+        [
+            "Open", 
+            "Resolved", 
+            "456d 4h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 22h 19m"
+        ]
+    ], 
+    "OWB-749": [
+        [
+            "Open", 
+            "Resolved", 
+            "51m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 8h 35m"
+        ]
+    ], 
+    "OWB-748": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "174d 7h 56m"
+        ]
+    ], 
+    "OWB-673": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "40d 1h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 18h 3m"
+        ]
+    ], 
+    "OWB-807": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 19h 27m"
+        ]
+    ], 
+    "OWB-801": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "93d 9h 34m"
+        ]
+    ], 
+    "OWB-802": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "34d 18h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 23h 39m"
+        ]
+    ], 
+    "OWB-856": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 11h 27m"
+        ]
+    ], 
+    "OWB-778": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "135d 22h 42m"
+        ]
+    ], 
+    "OWB-733": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 19h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 3h 1m"
+        ]
+    ], 
+    "OWB-730": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 16h 46m"
+        ]
+    ], 
+    "OWB-736": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 23h 35m"
+        ]
+    ], 
+    "OWB-777": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "135d 22h 49m"
+        ]
+    ], 
+    "OWB-858": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 23h 47m"
+        ]
+    ], 
+    "OWB-643": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 9h 57m"
+        ]
+    ], 
+    "OWB-1077": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 12h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 11h 41m"
+        ]
+    ], 
+    "OWB-1076": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 16h 40m"
+        ]
+    ], 
+    "OWB-764": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "156d 14h 51m"
+        ]
+    ], 
+    "OWB-1071": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 10h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 16m"
+        ]
+    ], 
+    "OWB-1177": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 4h 57m"
+        ]
+    ], 
+    "OWB-1175": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 20h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 4h 9m"
+        ]
+    ], 
+    "OWB-1172": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 16h 16m"
+        ]
+    ], 
+    "OWB-1173": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 20h 37m"
+        ]
+    ], 
+    "OWB-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 24s"
+        ]
+    ], 
+    "OWB-1171": [
+        [
+            "Open", 
+            "Resolved", 
+            "273d 5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 18h 34m"
+        ]
+    ], 
+    "OWB-995": [
+        [
+            "Open", 
+            "Closed", 
+            "32d 12h 29m"
+        ]
+    ], 
+    "OWB-1179": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 12h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 2h 12m"
+        ]
+    ], 
+    "OWB-938": [
+        [
+            "Open", 
+            "Resolved", 
+            "27m 50s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "151d 12h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 2h 3m"
+        ]
+    ], 
+    "OWB-939": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 22h 9m"
+        ]
+    ], 
+    "OWB-930": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 9h 44m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "151d 12h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "123d 1h 40m"
+        ]
+    ], 
+    "OWB-933": [
+        [
+            "Open", 
+            "Resolved", 
+            "471d 1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 12m"
+        ]
+    ], 
+    "OWB-934": [
+        [
+            "Open", 
+            "In Progress", 
+            "195d 22h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "227d 9h 33m"
+        ]
+    ], 
+    "OWB-861": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 22h 55m"
+        ]
+    ], 
+    "OWB-169": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 11h 11m"
+        ]
+    ], 
+    "OWB-166": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 59m"
+        ]
+    ], 
+    "OWB-165": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "14h 22m"
+        ]
+    ], 
+    "OWB-161": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 48m"
+        ]
+    ], 
+    "OWB-311": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 14h 40m"
+        ]
+    ], 
+    "OWB-1215": [
+        [
+            "Open", 
+            "Resolved", 
+            "107d 22h 25m"
+        ]
+    ], 
+    "OWB-689": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 12h 4m"
+        ]
+    ], 
+    "OWB-1213": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 16m"
+        ]
+    ], 
+    "OWB-566": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 19h 58m"
+        ]
+    ], 
+    "OWB-1211": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 11h 12m"
+        ]
+    ], 
+    "OWB-1210": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 16m"
+        ]
+    ], 
+    "OWB-682": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 14h 19m"
+        ]
+    ], 
+    "OWB-683": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 1h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 12h 43m"
+        ]
+    ], 
+    "OWB-680": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 16h 1m"
+        ]
+    ], 
+    "OWB-681": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 14h 38m"
+        ]
+    ], 
+    "OWB-686": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 31s"
+        ]
+    ], 
+    "OWB-687": [
+        [
+            "Open", 
+            "Resolved", 
+            "30m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 22h 16m"
+        ]
+    ], 
+    "OWB-1219": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 3h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 22h 21m"
+        ]
+    ], 
+    "OWB-449": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "356d 12h 50m"
+        ]
+    ], 
+    "OWB-444": [
+        [
+            "Open", 
+            "Resolved", 
+            "213d 5h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 21h 12m"
+        ]
+    ], 
+    "OWB-445": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 1h 20m"
+        ]
+    ], 
+    "OWB-446": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 22h 30m"
+        ]
+    ], 
+    "OWB-447": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "356d 22h 16m"
+        ]
+    ], 
+    "OWB-440": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 11h 49m"
+        ]
+    ], 
+    "OWB-442": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 4m"
+        ]
+    ], 
+    "OWB-443": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 16h 52m"
+        ]
+    ], 
+    "OWB-664": [
+        [
+            "Open", 
+            "Resolved", 
+            "90d 23h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 18h 29m"
+        ]
+    ], 
+    "OWB-841": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 17h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "819d 6h 27m"
+        ]
+    ], 
+    "OWB-842": [
+        [
+            "Open", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 21h 49m"
+        ]
+    ], 
+    "OWB-708": [
+        [
+            "Open", 
+            "Resolved", 
+            "48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 12h 40m"
+        ]
+    ], 
+    "OWB-660": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 1m"
+        ]
+    ], 
+    "OWB-845": [
+        [
+            "Open", 
+            "Resolved", 
+            "51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 9h 37m"
+        ]
+    ], 
+    "OWB-663": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 1h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 18h 57m"
+        ]
+    ], 
+    "OWB-848": [
+        [
+            "Open", 
+            "Resolved", 
+            "33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 14h 59m"
+        ]
+    ], 
+    "OWB-849": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 14h 46m"
+        ]
+    ], 
+    "OWB-707": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 12h 35m"
+        ]
+    ], 
+    "OWB-669": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6d 11h 21m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21d 15h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 11h 55m"
+        ]
+    ], 
+    "OWB-705": [
+        [
+            "Open", 
+            "Resolved", 
+            "410d 13h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "637d 11h 22m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "125d 17h 22m"
+        ]
+    ], 
+    "OWB-181": [
+        [
+            "Open", 
+            "Resolved", 
+            "52m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 11h 27m"
+        ]
+    ], 
+    "OWB-182": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 10h 27m"
+        ]
+    ], 
+    "OWB-352": [
+        [
+            "Open", 
+            "Closed", 
+            "35d 48m"
+        ]
+    ], 
+    "OWB-206": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 12h 55m"
+        ]
+    ], 
+    "OWB-207": [
+        [
+            "Open", 
+            "In Progress", 
+            "24d 4h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "20h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 21h 43m"
+        ]
+    ], 
+    "OWB-601": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 9h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 15h 31m"
+        ]
+    ], 
+    "OWB-369": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 13h 33m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "50d 9h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "28m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2d 4h 24m"
+        ]
+    ], 
+    "OWB-200": [
+        [
+            "Open", 
+            "Closed", 
+            "42s"
+        ]
+    ], 
+    "OWB-201": [
+        [
+            "Open", 
+            "Closed", 
+            "27d 21h 24m"
+        ]
+    ], 
+    "OWB-366": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 17m"
+        ]
+    ], 
+    "OWB-361": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 12h 57m"
+        ]
+    ], 
+    "OWB-363": [
+        [
+            "Open", 
+            "Closed", 
+            "14h 6m"
+        ]
+    ], 
+    "OWB-1130": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 4h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 17h 17m"
+        ]
+    ], 
+    "OWB-1131": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 15h 16m"
+        ]
+    ], 
+    "OWB-1136": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 57m"
+        ]
+    ], 
+    "OWB-1139": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 1h 59m"
+        ]
+    ], 
+    "OWB-387": [
+        [
+            "Open", 
+            "Closed", 
+            "36m 22s"
+        ]
+    ], 
+    "OWB-385": [
+        [
+            "Open", 
+            "Resolved", 
+            "95d 13h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 1h 44m"
+        ]
+    ], 
+    "OWB-384": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 1h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 12m"
+        ]
+    ], 
+    "OWB-382": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "61d 13h 37m"
+        ]
+    ], 
+    "OWB-381": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 15h 22m"
+        ]
+    ], 
+    "OWB-380": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 17h 8m"
+        ]
+    ], 
+    "OWB-85": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "358d 42m"
+        ]
+    ], 
+    "OWB-654": [
+        [
+            "Open", 
+            "Resolved", 
+            "1162d 8h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "8d 12h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 14h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 22h 50m"
+        ]
+    ], 
+    "OWB-1006": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 2h 3m"
+        ]
+    ], 
+    "OWB-1007": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "214d 23h 7m"
+        ]
+    ], 
+    "OWB-1005": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "219d 7h 59m"
+        ]
+    ], 
+    "OWB-1002": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 1h 1m"
+        ]
+    ], 
+    "OWB-1003": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "221d 18h 22m"
+        ]
+    ], 
+    "OWB-1001": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "224d 19h 38m"
+        ]
+    ], 
+    "OWB-1008": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "212d 21h 12m"
+        ]
+    ], 
+    "OWB-1009": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 19h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 5h 55m"
+        ]
+    ], 
+    "OWB-945": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 13h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "368d 15h 38m"
+        ]
+    ], 
+    "OWB-261": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "53m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 23h 36m"
+        ]
+    ], 
+    "OWB-948": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "456d 18h 42m"
+        ]
+    ], 
+    "OWB-42": [
+        [
+            "Open", 
+            "Closed", 
+            "58d 2h 18m"
+        ]
+    ], 
+    "OWB-400": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 19h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 7h 55m"
+        ]
+    ], 
+    "OWB-1095": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 21h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 11h 8m"
+        ]
+    ], 
+    "OWB-405": [
+        [
+            "Open", 
+            "Resolved", 
+            "58m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 12h 18m"
+        ]
+    ], 
+    "OWB-406": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 7h 10m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3m 58s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "403d 7h 14m"
+        ]
+    ], 
+    "OWB-658": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 17h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 20h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 15h 39m"
+        ]
+    ], 
+    "OWB-581": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "87d 5h 44m"
+        ]
+    ], 
+    "OWB-629": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 20h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 3h 5m"
+        ]
+    ], 
+    "OWB-587": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 23h 22m"
+        ]
+    ], 
+    "OWB-586": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 22h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 18h 38m"
+        ]
+    ], 
+    "OWB-620": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 5h 12m"
+        ]
+    ], 
+    "OWB-588": [
+        [
+            "Open", 
+            "Resolved", 
+            "52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 8h 18m"
+        ]
+    ], 
+    "OWB-624": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 5h 44m"
+        ]
+    ], 
+    "OWB-625": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 17h 40m"
+        ]
+    ], 
+    "OWB-231": [
+        [
+            "Open", 
+            "In Progress", 
+            "124d 17h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 16h 3m"
+        ]
+    ], 
+    "OWB-78": [
+        [
+            "Open", 
+            "Closed", 
+            "29d 12h 43m"
+        ]
+    ], 
+    "OWB-38": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 9h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 1h 31m"
+        ]
+    ], 
+    "OWB-1269": [
+        [
+            "Open", 
+            "Resolved", 
+            "31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 41m"
+        ]
+    ], 
+    "OWB-34": [
+        [
+            "Open", 
+            "Closed", 
+            "21h"
+        ]
+    ], 
+    "OWB-33": [
+        [
+            "Open", 
+            "Closed", 
+            "21h 3m"
+        ]
+    ], 
+    "OWB-123": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "238d 13h 16m"
+        ]
+    ], 
+    "OWB-122": [
+        [
+            "Open", 
+            "Closed", 
+            "179d 1h 54m"
+        ]
+    ], 
+    "OWB-121": [
+        [
+            "Open", 
+            "Closed", 
+            "34d 1m"
+        ]
+    ], 
+    "OWB-249": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 13h 40m"
+        ]
+    ], 
+    "OWB-127": [
+        [
+            "Open", 
+            "Closed", 
+            "22d 20h 56m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "93d 19h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 27m"
+        ]
+    ], 
+    "OWB-126": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 22h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "20d 2h 14m"
+        ]
+    ], 
+    "OWB-124": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 23m"
+        ]
+    ], 
+    "OWB-129": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 16h 13m"
+        ]
+    ], 
+    "OWB-241": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 3m"
+        ]
+    ], 
+    "OWB-530": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 15h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 16h 3m"
+        ]
+    ], 
+    "OWB-247": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 19h 33m"
+        ]
+    ], 
+    "OWB-244": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 15h 28m"
+        ]
+    ], 
+    "OWB-533": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "79d 2h 52m"
+        ]
+    ], 
+    "OWB-750": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 13h 24m"
+        ]
+    ], 
+    "OWB-751": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 23h 35m"
+        ]
+    ], 
+    "OWB-759": [
+        [
+            "Open", 
+            "Resolved", 
+            "57m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "160d 14h 43m"
+        ]
+    ], 
+    "OWB-839": [
+        [
+            "Open", 
+            "Resolved", 
+            "26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 5m"
+        ]
+    ], 
+    "OWB-838": [
+        [
+            "Open", 
+            "Resolved", 
+            "26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 22m"
+        ]
+    ], 
+    "OWB-831": [
+        [
+            "Open", 
+            "Resolved", 
+            "41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 23h 38m"
+        ]
+    ], 
+    "OWB-833": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 21h 9m"
+        ]
+    ], 
+    "OWB-832": [
+        [
+            "Open", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 22h 9m"
+        ]
+    ], 
+    "OWB-835": [
+        [
+            "Open", 
+            "Resolved", 
+            "24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 17h 51m"
+        ]
+    ], 
+    "OWB-834": [
+        [
+            "Open", 
+            "Resolved", 
+            "18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 21h 9m"
+        ]
+    ], 
+    "OWB-837": [
+        [
+            "Open", 
+            "Resolved", 
+            "47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 10h 12m"
+        ]
+    ], 
+    "OWB-836": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 15h 13m"
+        ]
+    ], 
+    "OWB-336": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 19h 45m"
+        ]
+    ], 
+    "OWB-337": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 13h 51m"
+        ]
+    ], 
+    "OWB-334": [
+        [
+            "In Progress", 
+            "Open", 
+            "14s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "3h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 13s"
+        ]
+    ], 
+    "OWB-332": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 8s"
+        ]
+    ], 
+    "OWB-333": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 10s"
+        ]
+    ], 
+    "OWB-339": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 3h 29m"
+        ]
+    ], 
+    "OWB-1169": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 19h 56m"
+        ]
+    ], 
+    "OWB-1043": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 10h 24m"
+        ]
+    ], 
+    "OWB-1040": [
+        [
+            "Open", 
+            "Resolved", 
+            "79d 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 13h 56m"
+        ]
+    ], 
+    "OWB-1041": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 12h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 40m"
+        ]
+    ], 
+    "OWB-1046": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 20h 28m"
+        ]
+    ], 
+    "OWB-1047": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 12h 49m"
+        ]
+    ], 
+    "OWB-1160": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "112d 23h 52m"
+        ]
+    ], 
+    "OWB-1163": [
+        [
+            "Open", 
+            "Resolved", 
+            "55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 7h 21m"
+        ]
+    ], 
+    "OWB-1162": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 11h 9m"
+        ]
+    ], 
+    "OWB-1164": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 13h 49m"
+        ]
+    ], 
+    "OWB-905": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 10h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 15h 39m"
+        ]
+    ], 
+    "OWB-904": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 15h 34m"
+        ]
+    ], 
+    "OWB-901": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 1h 39m"
+        ]
+    ], 
+    "OWB-902": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 1h 42m"
+        ]
+    ], 
+    "OWB-822": [
+        [
+            "Open", 
+            "Resolved", 
+            "57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 20h 5m"
+        ]
+    ], 
+    "OWB-909": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 15h 40m"
+        ]
+    ], 
+    "OWB-908": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 19h 50m"
+        ]
+    ], 
+    "OWB-823": [
+        [
+            "Open", 
+            "Resolved", 
+            "26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 20h 5m"
+        ]
+    ], 
+    "OWB-769": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "151d 20h 50m"
+        ]
+    ], 
+    "OWB-1295": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 11s"
+        ]
+    ], 
+    "OWB-1294": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 55s"
+        ]
+    ], 
+    "OWB-1292": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 48m"
+        ]
+    ], 
+    "OWB-828": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 15h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 22h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8d 4h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 13h 14m"
+        ]
+    ], 
+    "OWB-404": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 13h 29m"
+        ]
+    ], 
+    "OWB-829": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 9h 13m"
+        ]
+    ], 
+    "OWB-1194": [
+        [
+            "Open", 
+            "Resolved", 
+            "57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 17h"
+        ]
+    ], 
+    "OWB-1196": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 1h 27m"
+        ]
+    ], 
+    "OWB-1197": [
+        [
+            "Open", 
+            "Resolved", 
+            "25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 22h 3m"
+        ]
+    ], 
+    "OWB-1199": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 47m"
+        ]
+    ], 
+    "OWB-179": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 20h 14m"
+        ]
+    ], 
+    "OWB-175": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 24m"
+        ]
+    ], 
+    "OWB-176": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 3h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "87d 18h 50m"
+        ]
+    ], 
+    "OWB-171": [
+        [
+            "Open", 
+            "Closed", 
+            "58d 22h 54m"
+        ]
+    ], 
+    "OWB-172": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27s"
+        ]
+    ], 
+    "OWB-173": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 49m"
+        ]
+    ], 
+    "OWB-1228": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 22h 9m"
+        ]
+    ], 
+    "OWB-1229": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 8s"
+        ]
+    ], 
+    "OWB-90": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "330d 9h 57m"
+        ]
+    ], 
+    "OWB-1222": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 13h 43m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "110d 9h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 27s"
+        ]
+    ], 
+    "OWB-1223": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 24m"
+        ]
+    ], 
+    "OWB-1220": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 22h 21m"
+        ]
+    ], 
+    "OWB-79": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 10h 14m"
+        ]
+    ], 
+    "OWB-1226": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m"
+        ]
+    ], 
+    "OWB-1224": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 30m"
+        ]
+    ], 
+    "OWB-1225": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 19s"
+        ]
+    ], 
+    "OWB-571": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 6h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15h 19m"
+        ]
+    ], 
+    "OWB-573": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 7h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "24d 5h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 5h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 12h 23m"
+        ]
+    ], 
+    "OWB-574": [
+        [
+            "Open", 
+            "Resolved", 
+            "316d 8h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 11h 31m"
+        ]
+    ], 
+    "OWB-577": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "90d 22h 26m"
+        ]
+    ], 
+    "OWB-578": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 6h 16m"
+        ]
+    ], 
+    "OWB-579": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 6h 11m"
+        ]
+    ], 
+    "OWB-307": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 13h"
+        ]
+    ], 
+    "OWB-306": [
+        [
+            "Open", 
+            "Resolved", 
+            "1158d 21h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 13h 11m"
+        ]
+    ], 
+    "OWB-471": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 16h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "192d 3h 20m"
+        ]
+    ], 
+    "OWB-470": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 3h 15m"
+        ]
+    ], 
+    "OWB-473": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 9h 43m"
+        ]
+    ], 
+    "OWB-474": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "167d 5h 22m"
+        ]
+    ], 
+    "OWB-476": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 2m"
+        ]
+    ], 
+    "OWB-718": [
+        [
+            "Open", 
+            "Closed", 
+            "17m 58s"
+        ]
+    ], 
+    "OWB-719": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 21h"
+        ]
+    ], 
+    "OWB-876": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "160d 2h 34m"
+        ]
+    ], 
+    "OWB-878": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "137d 13h 3m"
+        ]
+    ], 
+    "OWB-309": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 14h 35m"
+        ]
+    ], 
+    "OWB-308": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 33m"
+        ]
+    ], 
+    "OWB-659": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 19h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 10h 28m"
+        ]
+    ], 
+    "OWB-711": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23d 1h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 1h 33m"
+        ]
+    ], 
+    "OWB-877": [
+        [
+            "Open", 
+            "Resolved", 
+            "27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "147d 13h 57m"
+        ]
+    ], 
+    "OWB-713": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 19h 38m"
+        ]
+    ], 
+    "OWB-714": [
+        [
+            "Open", 
+            "Resolved", 
+            "197d 7h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 13h 53m"
+        ]
+    ], 
+    "OWB-870": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "167d 13h 35m"
+        ]
+    ], 
+    "OWB-872": [
+        [
+            "Open", 
+            "Resolved", 
+            "99d 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 22h 27m"
+        ]
+    ], 
+    "OWB-785": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "105d 4h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "780d 3h 16m"
+        ]
+    ], 
+    "OWB-788": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 9h 22m"
+        ]
+    ], 
+    "OWB-273": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 22h 17m"
+        ]
+    ], 
+    "OWB-272": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 13h 48m"
+        ]
+    ], 
+    "OWB-378": [
+        [
+            "Open", 
+            "Resolved", 
+            "24m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 19h 25m"
+        ]
+    ], 
+    "OWB-270": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 23h 55m"
+        ]
+    ], 
+    "OWB-274": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 12h 55m"
+        ]
+    ], 
+    "OWB-372": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 11h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 1h 20m"
+        ]
+    ], 
+    "OWB-373": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 31m"
+        ]
+    ], 
+    "OWB-370": [
+        [
+            "Open", 
+            "Closed", 
+            "14m 27s"
+        ]
+    ], 
+    "OWB-371": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 30m"
+        ]
+    ], 
+    "OWB-377": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 22h 50m"
+        ]
+    ], 
+    "OWB-374": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 23h 25m"
+        ]
+    ], 
+    "OWB-628": [
+        [
+            "Open", 
+            "In Progress", 
+            "108d 6h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 8h 21m"
+        ]
+    ], 
+    "OWB-1123": [
+        [
+            "Open", 
+            "Resolved", 
+            "176d 18h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 1h 19m"
+        ]
+    ], 
+    "OWB-580": [
+        [
+            "Open", 
+            "Resolved", 
+            "306d 6h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 10h 57m"
+        ]
+    ], 
+    "OWB-1129": [
+        [
+            "Open", 
+            "Resolved", 
+            "34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 15h 37m"
+        ]
+    ], 
+    "OWB-396": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 1h 56m"
+        ]
+    ], 
+    "OWB-390": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 20h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 1h 53m"
+        ]
+    ], 
+    "OWB-666": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 22h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 16h 46m"
+        ]
+    ], 
+    "OWB-398": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13d 8h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 1h 45m"
+        ]
+    ], 
+    "OWB-615": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 17h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 5h 2m"
+        ]
+    ], 
+    "OWB-342": [
+        [
+            "Open", 
+            "Resolved", 
+            "47m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 21h 38m"
+        ]
+    ], 
+    "OWB-589": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 17h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 5h 44m"
+        ]
+    ], 
+    "OWB-340": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 21h 41m"
+        ]
+    ], 
+    "OWB-1019": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "197d 5h 3m"
+        ]
+    ], 
+    "OWB-1018": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "298d 19h"
+        ]
+    ], 
+    "OWB-1011": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 22h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 3h 15m"
+        ]
+    ], 
+    "OWB-233": [
+        [
+            "Open", 
+            "Closed", 
+            "22m 25s"
+        ]
+    ], 
+    "OWB-1013": [
+        [
+            "Open", 
+            "Resolved", 
+            "198d 10h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 36m"
+        ]
+    ], 
+    "OWB-1012": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 6h 5m"
+        ]
+    ], 
+    "OWB-1014": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 1h 38m"
+        ]
+    ], 
+    "OWB-1017": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 8h 22m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 20h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "302d 6h 5m"
+        ]
+    ], 
+    "OWB-232": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 18h"
+        ]
+    ], 
+    "OWB-1150": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 8h 11m"
+        ]
+    ], 
+    "OWB-1154": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 20h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 12h 53m"
+        ]
+    ], 
+    "OWB-1157": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 14h 33m"
+        ]
+    ], 
+    "OWB-1158": [
+        [
+            "Open", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 7h 35m"
+        ]
+    ], 
+    "OWB-1159": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 7h 18m"
+        ]
+    ], 
+    "OWB-896": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 21h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "78d 14h 59m"
+        ]
+    ], 
+    "OWB-894": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 19h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "656d 18h 52m"
+        ]
+    ], 
+    "OWB-893": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 5h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 21h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 3h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 13h 49m"
+        ]
+    ], 
+    "OWB-891": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 1h 26m"
+        ]
+    ], 
+    "OWB-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 15h 2m"
+        ]
+    ], 
+    "OWB-956": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 6h 34m"
+        ]
+    ], 
+    "OWB-957": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 3s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "170d 17h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 4h 38m"
+        ]
+    ], 
+    "OWB-955": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 18h 25m"
+        ]
+    ], 
+    "OWB-952": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 2h 56m"
+        ]
+    ], 
+    "OWB-898": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 16h 48m"
+        ]
+    ], 
+    "OWB-439": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 4s"
+        ]
+    ], 
+    "OWB-438": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 19s"
+        ]
+    ], 
+    "OWB-434": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 1h 54m"
+        ]
+    ], 
+    "OWB-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 10h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 1h 44m"
+        ]
+    ], 
+    "OWB-436": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 12h 39m"
+        ]
+    ], 
+    "OWB-271": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 7h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 13h 1m"
+        ]
+    ], 
+    "OWB-184": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "103d 10h 11m"
+        ]
+    ], 
+    "OWB-228": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 17h 14m"
+        ]
+    ], 
+    "OWB-180": [
+        [
+            "Open", 
+            "Closed", 
+            "46d 22h 58m"
+        ]
+    ], 
+    "OWB-598": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 11h 6m"
+        ]
+    ], 
+    "OWB-599": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 23h 50m"
+        ]
+    ], 
+    "OWB-224": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 8h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 17h 12m"
+        ]
+    ], 
+    "OWB-225": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 7h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "18d 21h 3m"
+        ]
+    ], 
+    "OWB-595": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 22h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 15h 59m"
+        ]
+    ], 
+    "OWB-189": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "90d 13h 3m"
+        ]
+    ], 
+    "OWB-593": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 8h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 15h 16m"
+        ]
+    ], 
+    "OWB-590": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 9h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "57m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 9h 54m"
+        ]
+    ], 
+    "OWB-591": [
+        [
+            "Open", 
+            "Closed", 
+            "53d 20h 58m"
+        ]
+    ], 
+    "OWB-1273": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 49s"
+        ]
+    ], 
+    "OWB-1275": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 53s"
+        ]
+    ], 
+    "OWB-1274": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 18s"
+        ]
+    ], 
+    "OWB-1276": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 17s"
+        ]
+    ], 
+    "OWB-509": [
+        [
+            "Open", 
+            "Resolved", 
+            "55m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "139d 9h 15m"
+        ]
+    ], 
+    "OWB-132": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 52m"
+        ]
+    ], 
+    "OWB-502": [
+        [
+            "Open", 
+            "Closed", 
+            "36d 14h 3m"
+        ]
+    ], 
+    "OWB-505": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 22h 6m"
+        ]
+    ], 
+    "OWB-504": [
+        [
+            "Open", 
+            "Resolved", 
+            "50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "159d 22h 20m"
+        ]
+    ], 
+    "OWB-886": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 8h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 16h 13m"
+        ]
+    ], 
+    "OWB-824": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 18h 48m"
+        ]
+    ], 
+    "OWB-825": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 18h 49m"
+        ]
+    ], 
+    "OWB-989": [
+        [
+            "Open", 
+            "Resolved", 
+            "281d 12h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 16h 45m"
+        ]
+    ], 
+    "OWB-988": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "254d 21h 13m"
+        ]
+    ], 
+    "OWB-767": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "152d 23h 58m"
+        ]
+    ], 
+    "OWB-1124": [
+        [
+            "Open", 
+            "Resolved", 
+            "161d 15h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 1h 19m"
+        ]
+    ], 
+    "OWB-985": [
+        [
+            "Open", 
+            "Resolved", 
+            "19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "277d 21h 32m"
+        ]
+    ], 
+    "OWB-986": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4m 59s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "51m 43s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "297d 18h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 3m"
+        ]
+    ], 
+    "OWB-981": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "403d 22h 25m"
+        ]
+    ], 
+    "OWB-983": [
+        [
+            "Open", 
+            "Resolved", 
+            "284d 18h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 35m"
+        ]
+    ], 
+    "OWB-982": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 27s"
+        ]
+    ], 
+    "OWB-291": [
+        [
+            "Open", 
+            "Resolved", 
+            "12m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 17h 53m"
+        ]
+    ], 
+    "OWB-292": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 17h 12m"
+        ]
+    ], 
+    "OWB-294": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 25m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "6d 11h 44m"
+        ]
+    ], 
+    "OWB-297": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 16h 32m"
+        ]
+    ], 
+    "OWB-299": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 19h 25m"
+        ]
+    ], 
+    "OWB-298": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 12h 40m"
+        ]
+    ], 
+    "OWB-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "167d 7h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 19h 10m"
+        ]
+    ], 
+    "OWB-1122": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "192d 20h 46m"
+        ]
+    ], 
+    "OWB-343": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 21h 40m"
+        ]
+    ], 
+    "OWB-614": [
+        [
+            "Open", 
+            "In Progress", 
+            "54m 9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 22h 52m"
+        ]
+    ], 
+    "OWB-617": [
+        [
+            "Open", 
+            "Resolved", 
+            "168d 13h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 9h 54m"
+        ]
+    ], 
+    "OWB-616": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 5h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 17m"
+        ]
+    ], 
+    "OWB-94": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 3h 49m"
+        ]
+    ], 
+    "OWB-345": [
+        [
+            "Open", 
+            "Resolved", 
+            "32m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 20h 10m"
+        ]
+    ], 
+    "OWB-619": [
+        [
+            "Open", 
+            "In Progress", 
+            "16d 7h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 52m"
+        ]
+    ], 
+    "OWB-618": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 21h 38m"
+        ]
+    ], 
+    "OWB-1056": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "37d 23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 18h 11m"
+        ]
+    ], 
+    "OWB-1118": [
+        [
+            "Open", 
+            "Resolved", 
+            "36m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 4h 34m"
+        ]
+    ], 
+    "OWB-1116": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 13h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 11h 6m"
+        ]
+    ], 
+    "OWB-1117": [
+        [
+            "Open", 
+            "Resolved", 
+            "49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 12h 55m"
+        ]
+    ], 
+    "OWB-1059": [
+        [
+            "Open", 
+            "Resolved", 
+            "44m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 11h 3m"
+        ]
+    ], 
+    "OWB-1111": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 8h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 2h 6m"
+        ]
+    ], 
+    "OWB-1113": [
+        [
+            "Open", 
+            "Resolved", 
+            "48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 19m"
+        ]
+    ], 
+    "OWB-912": [
+        [
+            "Open", 
+            "Resolved", 
+            "523d 4h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 52m"
+        ]
+    ], 
+    "OWB-910": [
+        [
+            "Open", 
+            "Resolved", 
+            "529d 10h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 53m"
+        ]
+    ], 
+    "OWB-916": [
+        [
+            "Open", 
+            "Resolved", 
+            "156d 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29s"
+        ]
+    ], 
+    "OWB-917": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 6h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 2h 28m"
+        ]
+    ], 
+    "OWB-914": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "217d 21h 40m"
+        ]
+    ], 
+    "OWB-567": [
+        [
+            "Open", 
+            "Resolved", 
+            "326d 5h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 11h 5m"
+        ]
+    ], 
+    "OWB-918": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 2h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 14m"
+        ]
+    ], 
+    "OWB-919": [
+        [
+            "Open", 
+            "Resolved", 
+            "47m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "188d 1h 14m"
+        ]
+    ], 
+    "OWB-128": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 17h 58m"
+        ]
+    ], 
+    "ARIES-668": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 34s"
+        ]
+    ], 
+    "OWB-569": [
+        [
+            "Open", 
+            "Resolved", 
+            "704d 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 10h 22m"
+        ]
+    ], 
+    "OWB-568": [
+        [
+            "Open", 
+            "Resolved", 
+            "746d 2h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 12h 52m"
+        ]
+    ], 
+    "OWB-392": [
+        [
+            "Open", 
+            "In Progress", 
+            "901d 23h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "212d 11h 9m"
+        ]
+    ], 
+    "OWB-1023": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "193d 9h 32m"
+        ]
+    ], 
+    "OWB-1024": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 7h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "152d 21h 17m"
+        ]
+    ], 
+    "OWB-966": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "53m 48s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 18h 58m"
+        ]
+    ], 
+    "OWB-1184": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 16h 45m"
+        ]
+    ], 
+    "OWB-1183": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "93d 16h 20m"
+        ]
+    ], 
+    "OWB-962": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "423d 11h 31m"
+        ]
+    ], 
+    "OWB-961": [
+        [
+            "Open", 
+            "Resolved", 
+            "175d 3h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "248d 11h 10m"
+        ]
+    ], 
+    "OWB-960": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 23h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "322d 3h 46m"
+        ]
+    ], 
+    "OWB-969": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 17h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 23h 30m"
+        ]
+    ], 
+    "OWB-968": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 18h 17m"
+        ]
+    ], 
+    "OWB-149": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 15h 49m"
+        ]
+    ], 
+    "OWB-148": [
+        [
+            "Open", 
+            "Closed", 
+            "50d 2h 50m"
+        ]
+    ], 
+    "OWB-493": [
+        [
+            "Open", 
+            "Closed", 
+            "54d 21m"
+        ]
+    ], 
+    "OWB-492": [
+        [
+            "Open", 
+            "Resolved", 
+            "125d 18h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 1h 6m"
+        ]
+    ], 
+    "OWB-491": [
+        [
+            "Open", 
+            "Resolved", 
+            "112d 15h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 46m"
+        ]
+    ], 
+    "OWB-490": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 6h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 1h 24m"
+        ]
+    ], 
+    "OWB-496": [
+        [
+            "Open", 
+            "Resolved", 
+            "121d 12h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 20h 35m"
+        ]
+    ], 
+    "OWB-147": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 56m"
+        ]
+    ], 
+    "OWB-61": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 3h 13m"
+        ]
+    ], 
+    "OWB-62": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 1h 24m"
+        ]
+    ], 
+    "OWB-561": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 9h 10m"
+        ]
+    ], 
+    "OWB-1235": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 15h 57m"
+        ]
+    ], 
+    "OWB-1231": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 24s"
+        ]
+    ], 
+    "OWB-1230": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 53m"
+        ]
+    ], 
+    "OWB-1233": [
+        [
+            "Open", 
+            "In Progress", 
+            "44d 8h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 15h 32m"
+        ]
+    ], 
+    "OWB-466": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 2h 47m"
+        ]
+    ], 
+    "OWB-464": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "20m 13s"
+        ]
+    ], 
+    "OWB-549": [
+        [
+            "Open", 
+            "Resolved", 
+            "750d 8h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 9h 37m"
+        ]
+    ], 
+    "OWB-548": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 1h 15m"
+        ]
+    ], 
+    "OWB-460": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 6h 13m"
+        ]
+    ], 
+    "OWB-545": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 3h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 20h 39m"
+        ]
+    ], 
+    "OWB-547": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 6h 42m"
+        ]
+    ], 
+    "OWB-546": [
+        [
+            "Open", 
+            "Resolved", 
+            "41m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 17h 38m"
+        ]
+    ], 
+    "OWB-541": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 22h 24m"
+        ]
+    ], 
+    "OWB-543": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 6h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 1h 25m"
+        ]
+    ], 
+    "OWB-542": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 4h 37m"
+        ]
+    ], 
+    "OWB-419": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 7h 56m"
+        ]
+    ], 
+    "OWB-840": [
+        [
+            "Open", 
+            "Resolved", 
+            "25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 23h 33m"
+        ]
+    ], 
+    "OWB-868": [
+        [
+            "Open", 
+            "Resolved", 
+            "194d 22h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "588d 15h 18m"
+        ]
+    ], 
+    "OWB-318": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 26m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "50d 8h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "173d 22h 51m"
+        ]
+    ], 
+    "OWB-648": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 3h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 14h 22m"
+        ]
+    ], 
+    "OWB-649": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 10h 16m"
+        ]
+    ], 
+    "OWB-644": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 17h 2m"
+        ]
+    ], 
+    "OWB-645": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 3h 33m"
+        ]
+    ], 
+    "OWB-709": [
+        [
+            "Open", 
+            "Resolved", 
+            "43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 12h 38m"
+        ]
+    ], 
+    "OWB-312": [
+        [
+            "Open", 
+            "Closed", 
+            "76d 18h 6m"
+        ]
+    ], 
+    "OWB-667": [
+        [
+            "Open", 
+            "Resolved", 
+            "72d 1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 23h 56m"
+        ]
+    ], 
+    "OWB-550": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 23h 18m"
+        ]
+    ], 
+    "OWB-1248": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 22h 7m"
+        ]
+    ], 
+    "OWB-791": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 20h 44m"
+        ]
+    ], 
+    "OWB-793": [
+        [
+            "Open", 
+            "Resolved", 
+            "35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 14h 57m"
+        ]
+    ], 
+    "OWB-794": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 14h 46m"
+        ]
+    ], 
+    "OWB-1241": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "86d 14h 51m"
+        ]
+    ], 
+    "OWB-1247": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 15h 26m"
+        ]
+    ], 
+    "OWB-260": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 3h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 18h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 19h 23m"
+        ]
+    ], 
+    "OWB-703": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 16h 19m"
+        ]
+    ], 
+    "OWB-262": [
+        [
+            "Open", 
+            "In Progress", 
+            "40s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "56m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 23h 34m"
+        ]
+    ], 
+    "OWB-263": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 22h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "26m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 22h 44m"
+        ]
+    ], 
+    "OWB-266": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 21h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 13h 1m"
+        ]
+    ], 
+    "OWB-267": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 2h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 13h 1m"
+        ]
+    ], 
+    "OWB-269": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 48m"
+        ]
+    ], 
+    "OWB-706": [
+        [
+            "Open", 
+            "Resolved", 
+            "449d 1h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "598d 3h 32m"
+        ]
+    ], 
+    "OWB-818": [
+        [
+            "Open", 
+            "In Progress", 
+            "13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 11h 48m"
+        ]
+    ], 
+    "OWB-817": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 8h 44m"
+        ]
+    ], 
+    "OWB-813": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "81d 18h 34m"
+        ]
+    ], 
+    "OWB-812": [
+        [
+            "Open", 
+            "Resolved", 
+            "217d 20h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 4h 16m"
+        ]
+    ], 
+    "OWB-725": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 3h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 16h 44m"
+        ]
+    ], 
+    "OWB-724": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 2h 35m"
+        ]
+    ], 
+    "OWB-720": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 34s"
+        ]
+    ], 
+    "OWB-722": [
+        [
+            "Open", 
+            "Closed", 
+            "49s"
+        ]
+    ], 
+    "OWB-728": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 3h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 3h 13m"
+        ]
+    ], 
+    "OWB-1069": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 10h 51m"
+        ]
+    ], 
+    "OWB-1064": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 23h 1m"
+        ]
+    ], 
+    "OWB-1065": [
+        [
+            "Open", 
+            "In Progress", 
+            "16d 12h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 23h 16m"
+        ]
+    ], 
+    "OWB-1066": [
+        [
+            "Open", 
+            "In Progress", 
+            "17d 12h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 3h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 20h 15m"
+        ]
+    ], 
+    "OWB-1061": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "27d 1h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "41m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 9h 26m"
+        ]
+    ], 
+    "OWB-1062": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 17h 24m"
+        ]
+    ], 
+    "OWB-305": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 14h 30m"
+        ]
+    ], 
+    "OWB-1149": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 12h 3m"
+        ]
+    ], 
+    "OWB-688": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 9h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 12h 3m"
+        ]
+    ], 
+    "OWB-885": [
+        [
+            "Open", 
+            "Resolved", 
+            "42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "130d 5h 15m"
+        ]
+    ], 
+    "OWB-929": [
+        [
+            "Open", 
+            "In Progress", 
+            "57m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16h 59m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "151d 12h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 10h 19m"
+        ]
+    ], 
+    "OWB-881": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "131d 4h 35m"
+        ]
+    ], 
+    "OWB-923": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 22h 55m"
+        ]
+    ], 
+    "OWB-922": [
+        [
+            "Open", 
+            "Resolved", 
+            "470d 23h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 28m"
+        ]
+    ], 
+    "OWB-920": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "187d 23h 10m"
+        ]
+    ], 
+    "OWB-888": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 53s"
+        ]
+    ], 
+    "OWB-889": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "110d 21h 56m"
+        ]
+    ], 
+    "OWB-924": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 6h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "148d 38m"
+        ]
+    ], 
+    "OWB-1010": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 8h 54m"
+        ]
+    ], 
+    "OWB-776": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 10h 32m"
+        ]
+    ], 
+    "OWB-353": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 19h 24m"
+        ]
+    ], 
+    "OWB-303": [
+        [
+            "Open", 
+            "Resolved", 
+            "185d 21h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 2h 15m"
+        ]
+    ], 
+    "OWB-253": [
+        [
+            "Open", 
+            "Closed", 
+            "59s"
+        ]
+    ], 
+    "OWB-1016": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "199d 3h 43m"
+        ]
+    ], 
+    "OWB-429": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 22h 38m"
+        ]
+    ], 
+    "OWB-422": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 2h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10d 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12d 22h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "206d 19h 59m"
+        ]
+    ], 
+    "OWB-420": [
+        [
+            "Open", 
+            "In Progress", 
+            "9m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 21h 54m"
+        ]
+    ], 
+    "OWB-421": [
+        [
+            "Open", 
+            "Resolved", 
+            "12m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 16h 17m"
+        ]
+    ], 
+    "OWB-426": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 24s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1h 5m"
+        ]
+    ]
+}

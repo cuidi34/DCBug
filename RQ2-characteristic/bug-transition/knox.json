@@ -1,0 +1,8619 @@
+{
+    "KNOX-298": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 17s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1848d 14h 16m"
+        ]
+    ], 
+    "KNOX-294": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1848d 7h 54m"
+        ]
+    ], 
+    "KNOX-920": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 15h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "715d 15h 34m"
+        ]
+    ], 
+    "KNOX-921": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3m 14s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "212d 21h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "506d 19h 20m"
+        ]
+    ], 
+    "KNOX-489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 23h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1511d 2h 59m"
+        ]
+    ], 
+    "KNOX-488": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 23h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1520d 11h 41m"
+        ]
+    ], 
+    "KNOX-845": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 7h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "762d 12h 20m"
+        ]
+    ], 
+    "KNOX-849": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 8h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "697d 13h 12m"
+        ]
+    ], 
+    "KNOX-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 20h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2018d 20h 15m"
+        ]
+    ], 
+    "KNOX-485": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1521d 15m"
+        ]
+    ], 
+    "KNOX-467": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 16h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1594d 22h 13m"
+        ]
+    ], 
+    "KNOX-1375": [
+        [
+            "Open", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "267d 15h 17m"
+        ]
+    ], 
+    "KNOX-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1608d 21h"
+        ]
+    ], 
+    "KNOX-995": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "590d 23h 54m"
+        ]
+    ], 
+    "KNOX-994": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "593d 56m"
+        ]
+    ], 
+    "KNOX-1911": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "111d 19h 13m"
+        ]
+    ], 
+    "KNOX-297": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1844d 18h 28m"
+        ]
+    ], 
+    "KNOX-748": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 16h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "933d 2h 55m"
+        ]
+    ], 
+    "KNOX-749": [
+        [
+            "Open", 
+            "Resolved", 
+            "111d 1h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "826d 18h 24m"
+        ]
+    ], 
+    "KNOX-206": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 8h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1896d 15h 24m"
+        ]
+    ], 
+    "KNOX-205": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1951d 23h 23m"
+        ]
+    ], 
+    "KNOX-1187": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42d 22h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 7h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "350d 16h 49m"
+        ]
+    ], 
+    "KNOX-1269": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "338d 19h 18m"
+        ]
+    ], 
+    "KNOX-1268": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "338d 21h 59m"
+        ]
+    ], 
+    "KNOX-1182": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 19h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "352d 16h 58m"
+        ]
+    ], 
+    "KNOX-1264": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 7h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 6h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "330d 17h 56m"
+        ]
+    ], 
+    "KNOX-1267": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "338d 21h 22m"
+        ]
+    ], 
+    "KNOX-576": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1338d 18h 2m"
+        ]
+    ], 
+    "KNOX-1261": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "342d 12h 15m"
+        ]
+    ], 
+    "KNOX-1263": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "342d 18h 20m"
+        ]
+    ], 
+    "KNOX-1342": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "295d 10h 40m"
+        ]
+    ], 
+    "KNOX-1340": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "296d 13h 7m"
+        ]
+    ], 
+    "KNOX-1341": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "295d 11h 35m"
+        ]
+    ], 
+    "KNOX-1346": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "289d 18h 2m"
+        ]
+    ], 
+    "KNOX-1347": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "293d 1h 40m"
+        ]
+    ], 
+    "KNOX-1344": [
+        [
+            "Open", 
+            "In Progress", 
+            "14s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "37m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "293d 22h 51m"
+        ]
+    ], 
+    "KNOX-1348": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "292d 23h 4m"
+        ]
+    ], 
+    "KNOX-1349": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 8h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "280d 8h 2m"
+        ]
+    ], 
+    "KNOX-776": [
+        [
+            "Open", 
+            "Patch Available", 
+            "234d 21h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "639d 2h 5m"
+        ]
+    ], 
+    "KNOX-1005": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 19h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "561d 16h 10m"
+        ]
+    ], 
+    "KNOX-1004": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "563d 22m"
+        ]
+    ], 
+    "KNOX-1168": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "427d 14h 31m"
+        ]
+    ], 
+    "KNOX-1169": [
+        [
+            "Open", 
+            "In Progress", 
+            "14s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "418d 19h 14m"
+        ]
+    ], 
+    "KNOX-1001": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 10h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50d 1h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "524d 15h 52m"
+        ]
+    ], 
+    "KNOX-1003": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "580d 17h 22m"
+        ]
+    ], 
+    "KNOX-1160": [
+        [
+            "Open", 
+            "Resolved", 
+            "124d 2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "323d 18h"
+        ]
+    ], 
+    "KNOX-1166": [
+        [
+            "Open", 
+            "Resolved", 
+            "130d 4h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "309d 12h 38m"
+        ]
+    ], 
+    "KNOX-1167": [
+        [
+            "Open", 
+            "In Progress", 
+            "28d 5h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "401d 10h 2m"
+        ]
+    ], 
+    "KNOX-1866": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 16h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "145d 21h 7m"
+        ]
+    ], 
+    "KNOX-1864": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "151d 21h 9m"
+        ]
+    ], 
+    "KNOX-1988": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 50m"
+        ]
+    ], 
+    "KNOX-1861": [
+        [
+            "Open", 
+            "In Progress", 
+            "10m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "46m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "158d 22h 34m"
+        ]
+    ], 
+    "KNOX-490": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 23h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1511d 2h 59m"
+        ]
+    ], 
+    "KNOX-337": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 13h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 20h 29m"
+        ]
+    ], 
+    "KNOX-501": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1504d 22h 29m"
+        ]
+    ], 
+    "KNOX-505": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1500d 20h 47m"
+        ]
+    ], 
+    "KNOX-507": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 19h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "320d 12h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1156d 16h 56m"
+        ]
+    ], 
+    "KNOX-112": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1m 8s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2028d 21h 40m"
+        ]
+    ], 
+    "KNOX-96": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2044d 21h 50m"
+        ]
+    ], 
+    "KNOX-95": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2052d 10h 30m"
+        ]
+    ], 
+    "KNOX-805": [
+        [
+            "Open", 
+            "In Progress", 
+            "17d 19h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 6h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "805d 18h 11m"
+        ]
+    ], 
+    "KNOX-804": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 4h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "827d 20h 18m"
+        ]
+    ], 
+    "KNOX-530": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1443d 13h 39m"
+        ]
+    ], 
+    "KNOX-1379": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "261d 17h 34m"
+        ]
+    ], 
+    "KNOX-603": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1274d 17h 24m"
+        ]
+    ], 
+    "KNOX-601": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1275d 18h 48m"
+        ]
+    ], 
+    "KNOX-600": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 21h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1233d 22h 45m"
+        ]
+    ], 
+    "KNOX-1289": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "328d 21h 27m"
+        ]
+    ], 
+    "KNOX-604": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1246d 15h 52m"
+        ]
+    ], 
+    "KNOX-608": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 20h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1191d 22h 9m"
+        ]
+    ], 
+    "KNOX-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "762d 9h 7m"
+        ]
+    ], 
+    "KNOX-897": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "747d 19h 33m"
+        ]
+    ], 
+    "KNOX-879": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 10h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "770d 12h 19m"
+        ]
+    ], 
+    "KNOX-973": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 4h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "618d 16h 29m"
+        ]
+    ], 
+    "KNOX-972": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 20h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "599d 23h 48m"
+        ]
+    ], 
+    "KNOX-975": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 2h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "614d 17h 46m"
+        ]
+    ], 
+    "KNOX-974": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25d 4h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "616d 10h 15m"
+        ]
+    ], 
+    "KNOX-977": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "643d 42m"
+        ]
+    ], 
+    "KNOX-873": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "778d 10h 56m"
+        ]
+    ], 
+    "KNOX-874": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "770d 18h 41m"
+        ]
+    ], 
+    "KNOX-875": [
+        [
+            "Open", 
+            "In Progress", 
+            "18m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "771d 17h 41m"
+        ]
+    ], 
+    "KNOX-877": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "776d 17h 41m"
+        ]
+    ], 
+    "KNOX-1308": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "317d 18h 59m"
+        ]
+    ], 
+    "KNOX-1309": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "317d 1h 5m"
+        ]
+    ], 
+    "KNOX-1306": [
+        [
+            "Open", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "32m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "322d 16h 25m"
+        ]
+    ], 
+    "KNOX-1305": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "322d 17h 26m"
+        ]
+    ], 
+    "KNOX-1300": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "324d 14h 4m"
+        ]
+    ], 
+    "KNOX-1367": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "17h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 5h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "271d 17h 38m"
+        ]
+    ], 
+    "KNOX-733": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 11h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "930d 23h 26m"
+        ]
+    ], 
+    "KNOX-732": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 8h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 19h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "922d 20h 7m"
+        ]
+    ], 
+    "KNOX-731": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "968d 20h 10m"
+        ]
+    ], 
+    "KNOX-730": [
+        [
+            "Open", 
+            "Resolved", 
+            "207d 8h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "766d 17h 51m"
+        ]
+    ], 
+    "KNOX-738": [
+        [
+            "Open", 
+            "Resolved", 
+            "376d 16h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "574d 4h 33m"
+        ]
+    ], 
+    "KNOX-1124": [
+        [
+            "Open", 
+            "In Progress", 
+            "23m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "481d 19h 1m"
+        ]
+    ], 
+    "KNOX-1125": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "478d 19h"
+        ]
+    ], 
+    "KNOX-1827": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 19h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "178d 33m"
+        ]
+    ], 
+    "KNOX-1120": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 20h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "482d 26m"
+        ]
+    ], 
+    "KNOX-1288": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "329d 23h 53m"
+        ]
+    ], 
+    "KNOX-1287": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "328d 22h 2m"
+        ]
+    ], 
+    "KNOX-1828": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "215d 22h 49m"
+        ]
+    ], 
+    "KNOX-1283": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "334d 23h"
+        ]
+    ], 
+    "KNOX-1282": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "335d 35m"
+        ]
+    ], 
+    "KNOX-1281": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "335d 17h 52m"
+        ]
+    ], 
+    "KNOX-1129": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 17h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "46m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 10h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "478d 11h 35m"
+        ]
+    ], 
+    "KNOX-377": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1777d 20h 5m"
+        ]
+    ], 
+    "KNOX-278": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1860d 10h 50m"
+        ]
+    ], 
+    "KNOX-279": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1860d 10h 51m"
+        ]
+    ], 
+    "KNOX-273": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 14h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 22h 18m"
+        ]
+    ], 
+    "KNOX-270": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1860d 12h 25m"
+        ]
+    ], 
+    "KNOX-271": [
+        [
+            "Open", 
+            "In Progress", 
+            "47s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "50d 6h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 22h 11m"
+        ]
+    ], 
+    "KNOX-544": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1406d 22h 19m"
+        ]
+    ], 
+    "KNOX-1233": [
+        [
+            "Open", 
+            "In Progress", 
+            "24m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "359d 19h 47m"
+        ]
+    ], 
+    "KNOX-1230": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "362d 22h 36m"
+        ]
+    ], 
+    "KNOX-1231": [
+        [
+            "Open", 
+            "In Progress", 
+            "37m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "363d 54m"
+        ]
+    ], 
+    "KNOX-1236": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 12h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "33d 14h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "322d 21h 17m"
+        ]
+    ], 
+    "KNOX-1541": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "150d 13h 23m"
+        ]
+    ], 
+    "KNOX-422": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 15h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1623d 8h 52m"
+        ]
+    ], 
+    "KNOX-1238": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "357d 17h 16m"
+        ]
+    ], 
+    "KNOX-1239": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "34m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "356d 22h 54m"
+        ]
+    ], 
+    "KNOX-426": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1653d 14h 20m"
+        ]
+    ], 
+    "KNOX-425": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1653d 22h 19m"
+        ]
+    ], 
+    "KNOX-424": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1652d 17h 33m"
+        ]
+    ], 
+    "KNOX-1058": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "552d 4h 28m"
+        ]
+    ], 
+    "KNOX-1054": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "553d 12h 19m"
+        ]
+    ], 
+    "KNOX-1193": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 20h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "254d 2h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "139d 18h 51m"
+        ]
+    ], 
+    "KNOX-147": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2013d 18h 41m"
+        ]
+    ], 
+    "KNOX-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 13h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1562d 21h 38m"
+        ]
+    ], 
+    "KNOX-1430": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 14h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "174d 51m"
+        ]
+    ], 
+    "KNOX-1434": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 3h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "190d 19h 57m"
+        ]
+    ], 
+    "KNOX-1436": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 4h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 20h"
+        ]
+    ], 
+    "KNOX-70": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 21h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2108d 20h 14m"
+        ]
+    ], 
+    "KNOX-75": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 23h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2078d 17h 17m"
+        ]
+    ], 
+    "KNOX-77": [
+        [
+            "Open", 
+            "In Progress", 
+            "62d 7h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2046d 15h 23m"
+        ]
+    ], 
+    "KNOX-76": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 20h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2095d 17h 24m"
+        ]
+    ], 
+    "KNOX-79": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 14h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2095d 17h 22m"
+        ]
+    ], 
+    "KNOX-78": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 14h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2095d 17h 24m"
+        ]
+    ], 
+    "KNOX-644": [
+        [
+            "Open", 
+            "Resolved", 
+            "269d 2h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "906d 19h 38m"
+        ]
+    ], 
+    "KNOX-162": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2004d 23h 18m"
+        ]
+    ], 
+    "KNOX-163": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "23h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2007d 20h 10m"
+        ]
+    ], 
+    "KNOX-545": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1405d 22h 56m"
+        ]
+    ], 
+    "KNOX-546": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1405d 14h 23m"
+        ]
+    ], 
+    "KNOX-939": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "684d 22h 39m"
+        ]
+    ], 
+    "KNOX-938": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "683d 21h 21m"
+        ]
+    ], 
+    "KNOX-289": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1847d 20h 25m"
+        ]
+    ], 
+    "KNOX-286": [
+        [
+            "Open", 
+            "In Progress", 
+            "15h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "42d 5h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 22h 20m"
+        ]
+    ], 
+    "KNOX-936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "688d 16m"
+        ]
+    ], 
+    "KNOX-1186": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 15h"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "400d 18h 31m"
+        ]
+    ], 
+    "KNOX-933": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 6h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "676d 20h 26m"
+        ]
+    ], 
+    "KNOX-280": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1857d 16h 17m"
+        ]
+    ], 
+    "KNOX-836": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 18h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "812d 22h 25m"
+        ]
+    ], 
+    "KNOX-830": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "824d 20h 9m"
+        ]
+    ], 
+    "KNOX-203": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1951d 23h 22m"
+        ]
+    ], 
+    "KNOX-421": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 5h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1644d 18h 12m"
+        ]
+    ], 
+    "KNOX-1181": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "398d 17h 51m"
+        ]
+    ], 
+    "KNOX-598": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1290d 18h 35m"
+        ]
+    ], 
+    "KNOX-1266": [
+        [
+            "Open", 
+            "In Progress", 
+            "18d 21h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 1h 7m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "321d 2h 10m"
+        ]
+    ], 
+    "KNOX-1188": [
+        [
+            "Open", 
+            "In Progress", 
+            "11h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "401d 15h 24m"
+        ]
+    ], 
+    "KNOX-949": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 9h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 16h 24m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "19d 22h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "629d 1h 25m"
+        ]
+    ], 
+    "KNOX-239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1906d 15h 35m"
+        ]
+    ], 
+    "KNOX-209": [
+        [
+            "Open", 
+            "Resolved", 
+            "135d 21h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 18h 15m"
+        ]
+    ], 
+    "KNOX-944": [
+        [
+            "Open", 
+            "Resolved", 
+            "24m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "676d 21h 21m"
+        ]
+    ], 
+    "KNOX-237": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1076d 1h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 11h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "833d 14h 9m"
+        ]
+    ], 
+    "KNOX-947": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 4h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "662d 20h 52m"
+        ]
+    ], 
+    "KNOX-580": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 23h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1279d 23h 56m"
+        ]
+    ], 
+    "KNOX-581": [
+        [
+            "Open", 
+            "Resolved", 
+            "140d 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1190d 18h 49m"
+        ]
+    ], 
+    "KNOX-582": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1324d 23h 57m"
+        ]
+    ], 
+    "KNOX-1199": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 9h 16m"
+        ]
+    ], 
+    "KNOX-584": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1309d 23h 22m"
+        ]
+    ], 
+    "KNOX-1278": [
+        [
+            "Open", 
+            "In Progress", 
+            "16s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "336d 18h 46m"
+        ]
+    ], 
+    "KNOX-1279": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "336d 18h 46m"
+        ]
+    ], 
+    "KNOX-1276": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "337d 16h 55m"
+        ]
+    ], 
+    "KNOX-1277": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "334d 23h 49m"
+        ]
+    ], 
+    "KNOX-1274": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "22h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "16d 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "51m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "320d 22h 45m"
+        ]
+    ], 
+    "KNOX-1275": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 3h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "322d 15h 47m"
+        ]
+    ], 
+    "KNOX-1272": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "338d 14m"
+        ]
+    ], 
+    "KNOX-1271": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "338d 14m"
+        ]
+    ], 
+    "KNOX-1377": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "265d 15h 18m"
+        ]
+    ], 
+    "KNOX-465": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 18h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1594d 23h 2m"
+        ]
+    ], 
+    "KNOX-1374": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 59s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "267d 17h 58m"
+        ]
+    ], 
+    "KNOX-1373": [
+        [
+            "Open", 
+            "In Progress", 
+            "53m 37s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "267d 19h 10m"
+        ]
+    ], 
+    "KNOX-1372": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "268d 20h 49m"
+        ]
+    ], 
+    "KNOX-1371": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "269d 22h 25m"
+        ]
+    ], 
+    "KNOX-1370": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "271d 22h 42m"
+        ]
+    ], 
+    "KNOX-740": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 22h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "936d 19h 2m"
+        ]
+    ], 
+    "KNOX-1378": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "264d 17h 45m"
+        ]
+    ], 
+    "KNOX-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1594d 22h 18m"
+        ]
+    ], 
+    "KNOX-1157": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 4h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "133d 18h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "315d 19h 16m"
+        ]
+    ], 
+    "KNOX-1874": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "135d 20h 27m"
+        ]
+    ], 
+    "KNOX-1875": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 23h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "123d 1h 9m"
+        ]
+    ], 
+    "KNOX-1151": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "20m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 23h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "448d 22h 14m"
+        ]
+    ], 
+    "KNOX-1318": [
+        [
+            "Open", 
+            "In Progress", 
+            "18m 46s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "43m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 23h 25m"
+        ]
+    ], 
+    "KNOX-308": [
+        [
+            "Open", 
+            "In Progress", 
+            "29m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1839d 19h 42m"
+        ]
+    ], 
+    "KNOX-309": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1839d 21h 34m"
+        ]
+    ], 
+    "KNOX-306": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1836d 12h 49m"
+        ]
+    ], 
+    "KNOX-307": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 1h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 22h 28m"
+        ]
+    ], 
+    "KNOX-305": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1843d 40m"
+        ]
+    ], 
+    "KNOX-1081": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "531d 16h 38m"
+        ]
+    ], 
+    "KNOX-303": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1846d 14h 45m"
+        ]
+    ], 
+    "KNOX-1083": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 22h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "25d 2h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "477d 17h 39m"
+        ]
+    ], 
+    "KNOX-301": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 3h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 22h 19m"
+        ]
+    ], 
+    "KNOX-445": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1610d 21h 17m"
+        ]
+    ], 
+    "KNOX-519": [
+        [
+            "Patch Available", 
+            "Open", 
+            "321d 8h 33m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1156d 16h 25m"
+        ]
+    ], 
+    "KNOX-444": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1625d 11h 45m"
+        ]
+    ], 
+    "KNOX-1258": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 17h 36m"
+        ]
+    ], 
+    "KNOX-910": [
+        [
+            "Open", 
+            "In Progress", 
+            "18s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 13h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "730d 20h"
+        ]
+    ], 
+    "KNOX-1259": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 18h 56m"
+        ]
+    ], 
+    "KNOX-120": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2024d 17h 31m"
+        ]
+    ], 
+    "KNOX-126": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2022d 13h 25m"
+        ]
+    ], 
+    "KNOX-127": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 14h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 10h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2015d 10h 13m"
+        ]
+    ], 
+    "KNOX-124": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2023d 21h 30m"
+        ]
+    ], 
+    "KNOX-128": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2014d 16h 54m"
+        ]
+    ], 
+    "KNOX-442": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1625d 20h 45m"
+        ]
+    ], 
+    "KNOX-81": [
+        [
+            "Open", 
+            "In Progress", 
+            "60d 1h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2045d 22h 58m"
+        ]
+    ], 
+    "KNOX-84": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2095d 17h 23m"
+        ]
+    ], 
+    "KNOX-1880": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "122d 18h 21m"
+        ]
+    ], 
+    "KNOX-89": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 5h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2044d 19h 51m"
+        ]
+    ], 
+    "KNOX-689": [
+        [
+            "Open", 
+            "Resolved", 
+            "28m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1114d 18h 9m"
+        ]
+    ], 
+    "KNOX-431": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1644d 16h 25m"
+        ]
+    ], 
+    "KNOX-2000": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 43m"
+        ]
+    ], 
+    "KNOX-2001": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 36s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "46m 55s"
+        ]
+    ], 
+    "KNOX-494": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 2h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1511d 11h 5m"
+        ]
+    ], 
+    "KNOX-1320": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 19h 11m"
+        ]
+    ], 
+    "KNOX-636": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1211d 19h 56m"
+        ]
+    ], 
+    "KNOX-637": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1206d 23h 3m"
+        ]
+    ], 
+    "KNOX-632": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1192d 25m"
+        ]
+    ], 
+    "KNOX-633": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1219d 17h 7m"
+        ]
+    ], 
+    "KNOX-630": [
+        [
+            "Open", 
+            "In Progress", 
+            "111d 4h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1112d 10h 53m"
+        ]
+    ], 
+    "KNOX-631": [
+        [
+            "Open", 
+            "In Progress", 
+            "112d 1h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 10h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1107d 12h 50m"
+        ]
+    ], 
+    "KNOX-433": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 21h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1610d 21h 15m"
+        ]
+    ], 
+    "KNOX-638": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1203d 23h 40m"
+        ]
+    ], 
+    "KNOX-639": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 19h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1191d 22h 37m"
+        ]
+    ], 
+    "KNOX-881": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "774d 23h 13m"
+        ]
+    ], 
+    "KNOX-711": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 2h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 20h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1009d 2h 32m"
+        ]
+    ], 
+    "KNOX-904": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "748d 22h 7m"
+        ]
+    ], 
+    "KNOX-905": [
+        [
+            "Open", 
+            "Resolved", 
+            "329d 21h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "418d 20h 38m"
+        ]
+    ], 
+    "KNOX-906": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "744d 22h 16m"
+        ]
+    ], 
+    "KNOX-907": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "744d 33m"
+        ]
+    ], 
+    "KNOX-900": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "754d 19h 27m"
+        ]
+    ], 
+    "KNOX-901": [
+        [
+            "Open", 
+            "Resolved", 
+            "213d 13h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "540d 13h 28m"
+        ]
+    ], 
+    "KNOX-903": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "749d 14h 28m"
+        ]
+    ], 
+    "KNOX-908": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "742d 18h 35m"
+        ]
+    ], 
+    "KNOX-909": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 13h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "699d 22h 24m"
+        ]
+    ], 
+    "KNOX-1333": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "306d 23h"
+        ]
+    ], 
+    "KNOX-1331": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "308d 20h 36m"
+        ]
+    ], 
+    "KNOX-1330": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "308d 17h 25m"
+        ]
+    ], 
+    "KNOX-1336": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "306d 13h 1m"
+        ]
+    ], 
+    "KNOX-1335": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "306d 18h 9m"
+        ]
+    ], 
+    "KNOX-700": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1094d 11h 10m"
+        ]
+    ], 
+    "KNOX-701": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1090d 17h 56m"
+        ]
+    ], 
+    "KNOX-706": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1084d 19h 1m"
+        ]
+    ], 
+    "KNOX-707": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1084d 19h 1m"
+        ]
+    ], 
+    "KNOX-704": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1089d 21h 26m"
+        ]
+    ], 
+    "KNOX-705": [
+        [
+            "Open", 
+            "Resolved", 
+            "78d 11h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1009d 23h 31m"
+        ]
+    ], 
+    "KNOX-1290": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 10h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "309d 15h 59m"
+        ]
+    ], 
+    "KNOX-1523": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 15h 10m"
+        ]
+    ], 
+    "KNOX-1292": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "328d 13h 20m"
+        ]
+    ], 
+    "KNOX-1293": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "325d 13m"
+        ]
+    ], 
+    "KNOX-1294": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "328d 13h 16m"
+        ]
+    ], 
+    "KNOX-1296": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "327d 17h 42m"
+        ]
+    ], 
+    "KNOX-1297": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "326d 22h 23m"
+        ]
+    ], 
+    "KNOX-1680": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 18h 28m"
+        ]
+    ], 
+    "KNOX-1249": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 1h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "330d 22h 1m"
+        ]
+    ], 
+    "KNOX-346": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1815d 1h 59m"
+        ]
+    ], 
+    "KNOX-344": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 56s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1809d 3h 10m"
+        ]
+    ], 
+    "KNOX-345": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1818d 16h 58m"
+        ]
+    ], 
+    "KNOX-264": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 23h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1847d 20h 38m"
+        ]
+    ], 
+    "KNOX-266": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1862d 43m"
+        ]
+    ], 
+    "KNOX-269": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1857d 19h 19m"
+        ]
+    ], 
+    "KNOX-556": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1387d 22h 10m"
+        ]
+    ], 
+    "KNOX-555": [
+        [
+            "Open", 
+            "Resolved", 
+            "1207d 22h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 33m"
+        ]
+    ], 
+    "KNOX-554": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 9h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1387d 17h 20m"
+        ]
+    ], 
+    "KNOX-1203": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 7h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "381d 13h 3m"
+        ]
+    ], 
+    "KNOX-1202": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 7h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "55d 18h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "323d 17h 33m"
+        ]
+    ], 
+    "KNOX-418": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 7h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1638d 13h 47m"
+        ]
+    ], 
+    "KNOX-550": [
+        [
+            "Open", 
+            "Resolved", 
+            "120d 14h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1279d 23h 52m"
+        ]
+    ], 
+    "KNOX-414": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 22h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1617d 17h 45m"
+        ]
+    ], 
+    "KNOX-413": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 21h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1645d 18h 31m"
+        ]
+    ], 
+    "KNOX-559": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1385d 17h 52m"
+        ]
+    ], 
+    "KNOX-1208": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "377d 21h 44m"
+        ]
+    ], 
+    "KNOX-1744": [
+        [
+            "Open", 
+            "Resolved", 
+            "176d 14h 31m"
+        ]
+    ], 
+    "KNOX-1068": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "547d 19h 38m"
+        ]
+    ], 
+    "KNOX-213": [
+        [
+            "Open", 
+            "In Progress", 
+            "12m 23s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6d 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1941d 13h 36m"
+        ]
+    ], 
+    "KNOX-1064": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "39m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 17h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "538d 23h 39m"
+        ]
+    ], 
+    "KNOX-1063": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 21h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 4h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "524d 15h 38m"
+        ]
+    ], 
+    "KNOX-1062": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 13h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 3h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "524d 18h 20m"
+        ]
+    ], 
+    "KNOX-1061": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "551d 16h 37m"
+        ]
+    ], 
+    "KNOX-1060": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "552d 3h 55m"
+        ]
+    ], 
+    "KNOX-1848": [
+        [
+            "Open", 
+            "In Progress", 
+            "47d 17h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "151d 20h"
+        ]
+    ], 
+    "KNOX-1119": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 12h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "484d 9h 49m"
+        ]
+    ], 
+    "KNOX-1118": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "491d 22h 34m"
+        ]
+    ], 
+    "KNOX-1110": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "504d 14h 44m"
+        ]
+    ], 
+    "KNOX-1117": [
+        [
+            "Open", 
+            "In Progress", 
+            "18m 17s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 1h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "481d 21h 14m"
+        ]
+    ], 
+    "KNOX-1114": [
+        [
+            "Open", 
+            "Resolved", 
+            "174d 2h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "328d 17h 9m"
+        ]
+    ], 
+    "KNOX-69": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 11h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2114d 23h 57m"
+        ]
+    ], 
+    "KNOX-249": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1875d 15h 12m"
+        ]
+    ], 
+    "KNOX-670": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 20h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1093d 18h 15m"
+        ]
+    ], 
+    "KNOX-676": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1120d 21h 27m"
+        ]
+    ], 
+    "KNOX-171": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2005d 10h"
+        ]
+    ], 
+    "KNOX-678": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 8h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1115d 14h 52m"
+        ]
+    ], 
+    "KNOX-679": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1114d 19h 10m"
+        ]
+    ], 
+    "KNOX-175": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2m 34s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "190d 23h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2m 6s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "374d 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1437d 21h 17m"
+        ]
+    ], 
+    "KNOX-827": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "818d 20h 1m"
+        ]
+    ], 
+    "KNOX-826": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "826d 10h 1m"
+        ]
+    ], 
+    "KNOX-825": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "826d 17h 52m"
+        ]
+    ], 
+    "KNOX-824": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "827d 15h 49m"
+        ]
+    ], 
+    "KNOX-820": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "39d 21h 38m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "789d 20h 16m"
+        ]
+    ], 
+    "KNOX-1220": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 1h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "355d 17h 3m"
+        ]
+    ], 
+    "KNOX-188": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1980d 19h 11m"
+        ]
+    ], 
+    "KNOX-534": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 1h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1412d 22h 19m"
+        ]
+    ], 
+    "KNOX-1395": [
+        [
+            "Open", 
+            "Resolved", 
+            "36m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "250d 19h 52m"
+        ]
+    ], 
+    "KNOX-1394": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "250d 23h 14m"
+        ]
+    ], 
+    "KNOX-1397": [
+        [
+            "Open", 
+            "In Progress", 
+            "53m 15s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "48m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "246d 19h 25m"
+        ]
+    ], 
+    "KNOX-1396": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "246d 19h 25m"
+        ]
+    ], 
+    "KNOX-1391": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "251d 16h 7m"
+        ]
+    ], 
+    "KNOX-1227": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 18h 48m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "4s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "47d 3h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "317d 18h 59m"
+        ]
+    ], 
+    "KNOX-1399": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "244d 17h 10m"
+        ]
+    ], 
+    "KNOX-1398": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "246d 14h 57m"
+        ]
+    ], 
+    "KNOX-539": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1422d 23h 7m"
+        ]
+    ], 
+    "KNOX-385": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 2h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1644d 15h 30m"
+        ]
+    ], 
+    "KNOX-382": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 6h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1644d 15h 35m"
+        ]
+    ], 
+    "KNOX-381": [
+        [
+            "Open", 
+            "In Progress", 
+            "12m 57s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1772d 16h 54m"
+        ]
+    ], 
+    "KNOX-950": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "671d 19h 37m"
+        ]
+    ], 
+    "KNOX-220": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1942d 23h 14m"
+        ]
+    ], 
+    "KNOX-223": [
+        [
+            "Open", 
+            "In Progress", 
+            "23h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1940d 13h 3m"
+        ]
+    ], 
+    "KNOX-222": [
+        [
+            "Open", 
+            "Resolved", 
+            "93d 20h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1847d 20h 25m"
+        ]
+    ], 
+    "KNOX-1368": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "272d 20h 14m"
+        ]
+    ], 
+    "KNOX-1242": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "355d 21h 17m"
+        ]
+    ], 
+    "KNOX-590": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1309d 23h 21m"
+        ]
+    ], 
+    "KNOX-597": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1294d 16h 19m"
+        ]
+    ], 
+    "KNOX-1246": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 15h 57m"
+        ]
+    ], 
+    "KNOX-1244": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31d 5h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "320d 19h"
+        ]
+    ], 
+    "KNOX-1360": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "279d 20h 10m"
+        ]
+    ], 
+    "KNOX-453": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1617d 17h 52m"
+        ]
+    ], 
+    "KNOX-599": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1282d 5h 28m"
+        ]
+    ], 
+    "KNOX-1363": [
+        [
+            "Open", 
+            "In Progress", 
+            "14s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "278d 20h 57m"
+        ]
+    ], 
+    "KNOX-660": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1152d 16h 20m"
+        ]
+    ], 
+    "KNOX-1365": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 1h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "271d 16h 2m"
+        ]
+    ], 
+    "KNOX-1366": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "274d 23h 23m"
+        ]
+    ], 
+    "KNOX-455": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1610d 21h 21m"
+        ]
+    ], 
+    "KNOX-751": [
+        [
+            "Open", 
+            "In Progress", 
+            "201d 16h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "1d 15h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "33d 17h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 2h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "669d 17h 53m"
+        ]
+    ], 
+    "KNOX-699": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1093d 17h 59m"
+        ]
+    ], 
+    "KNOX-753": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "881d 23h 28m"
+        ]
+    ], 
+    "KNOX-754": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 8h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "891d 21h 54m"
+        ]
+    ], 
+    "KNOX-757": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 17h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "867d 23h 34m"
+        ]
+    ], 
+    "KNOX-756": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 16h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 11h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "882d 12h 57m"
+        ]
+    ], 
+    "KNOX-759": [
+        [
+            "Open", 
+            "Resolved", 
+            "253d 23h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "637d 18h 49m"
+        ]
+    ], 
+    "KNOX-693": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1106d 19h 45m"
+        ]
+    ], 
+    "KNOX-694": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1105d 22h 33m"
+        ]
+    ], 
+    "KNOX-695": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1101d 16h 36m"
+        ]
+    ], 
+    "KNOX-1412": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 18h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "233d 21h 52m"
+        ]
+    ], 
+    "KNOX-1141": [
+        [
+            "Open", 
+            "In Progress", 
+            "30m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 4h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "448d 19h 4m"
+        ]
+    ], 
+    "KNOX-1416": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 22h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 17h 41m"
+        ]
+    ], 
+    "KNOX-1417": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 20h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 17h 40m"
+        ]
+    ], 
+    "KNOX-1415": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "237d 16h 53m"
+        ]
+    ], 
+    "KNOX-1149": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 22h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "153d 3h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 20h 26m"
+        ]
+    ], 
+    "KNOX-1801": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 48m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "229d 18h 7m"
+        ]
+    ], 
+    "KNOX-1803": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "228d 21h 57m"
+        ]
+    ], 
+    "KNOX-219": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1943d 20h 10m"
+        ]
+    ], 
+    "KNOX-564": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 19h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1325d 20h 56m"
+        ]
+    ], 
+    "KNOX-311": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 20h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 22h 21m"
+        ]
+    ], 
+    "KNOX-310": [
+        [
+            "Open", 
+            "In Progress", 
+            "15h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "194d 13h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1644d 18h 26m"
+        ]
+    ], 
+    "KNOX-226": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 6h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1897d 16h 22m"
+        ]
+    ], 
+    "KNOX-314": [
+        [
+            "Open", 
+            "Resolved", 
+            "46m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1835d 9h 21m"
+        ]
+    ], 
+    "KNOX-1350": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 15h 17m"
+        ]
+    ], 
+    "KNOX-319": [
+        [
+            "Open", 
+            "In Progress", 
+            "11d 8h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1821d 16h 22m"
+        ]
+    ], 
+    "KNOX-251": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1873d 22h 59m"
+        ]
+    ], 
+    "KNOX-253": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1871d 16h 21m"
+        ]
+    ], 
+    "KNOX-254": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 3h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1869d 16h 43m"
+        ]
+    ], 
+    "KNOX-1093": [
+        [
+            "Open", 
+            "Resolved", 
+            "330d 17h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 20h 36m"
+        ]
+    ], 
+    "KNOX-1091": [
+        [
+            "Open", 
+            "Patch Available", 
+            "139d 6h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "371d 20h 52m"
+        ]
+    ], 
+    "KNOX-529": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1443d 13h 56m"
+        ]
+    ], 
+    "KNOX-526": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 2h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1437d 20h 16m"
+        ]
+    ], 
+    "KNOX-389": [
+        [
+            "Open", 
+            "Resolved", 
+            "119d 2h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1644d 15h 35m"
+        ]
+    ], 
+    "KNOX-1243": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "354d 22h 40m"
+        ]
+    ], 
+    "KNOX-1369": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "35m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "272d 17h 4m"
+        ]
+    ], 
+    "KNOX-1737": [
+        [
+            "Open", 
+            "In Progress", 
+            "22m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "4h 19m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "282d 18h"
+        ]
+    ], 
+    "KNOX-406": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1703d 21h 54m"
+        ]
+    ], 
+    "KNOX-137": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2013d 21h 59m"
+        ]
+    ], 
+    "KNOX-459": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1607d 20h 49m"
+        ]
+    ], 
+    "KNOX-130": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2011d 22h 33m"
+        ]
+    ], 
+    "KNOX-132": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2017d 20h 32m"
+        ]
+    ], 
+    "KNOX-594": [
+        [
+            "Open", 
+            "Resolved", 
+            "149d 23h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1154d 22h 2m"
+        ]
+    ], 
+    "KNOX-1028": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "566d 15h 57m"
+        ]
+    ], 
+    "KNOX-1022": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 4h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "524d 3h 52m"
+        ]
+    ], 
+    "KNOX-1788": [
+        [
+            "Open", 
+            "In Progress", 
+            "195d 48m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "18h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 24m"
+        ]
+    ], 
+    "KNOX-450": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1617d 21h 14m"
+        ]
+    ], 
+    "KNOX-57": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2138d 47m"
+        ]
+    ], 
+    "KNOX-451": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1617d 12m"
+        ]
+    ], 
+    "KNOX-58": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 21h 32m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "70d 22h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2094d 17h 54m"
+        ]
+    ], 
+    "KNOX-629": [
+        [
+            "Open", 
+            "Resolved", 
+            "344d 21h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "881d 22h 10m"
+        ]
+    ], 
+    "KNOX-780": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 23h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "856d 23h 57m"
+        ]
+    ], 
+    "KNOX-786": [
+        [
+            "Open", 
+            "Patch Available", 
+            "244d 20h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "618d 20h 27m"
+        ]
+    ], 
+    "KNOX-621": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1232d 19h 30m"
+        ]
+    ], 
+    "KNOX-620": [
+        [
+            "Open", 
+            "Resolved", 
+            "1053d 20h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 40m"
+        ]
+    ], 
+    "KNOX-623": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 1h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1227d 21h 42m"
+        ]
+    ], 
+    "KNOX-622": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1190d 23h 8m"
+        ]
+    ], 
+    "KNOX-624": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1230d 21h 46m"
+        ]
+    ], 
+    "KNOX-626": [
+        [
+            "Open", 
+            "Resolved", 
+            "618d 2h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "608d 18h 43m"
+        ]
+    ], 
+    "KNOX-142": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2014d 17h 59m"
+        ]
+    ], 
+    "KNOX-144": [
+        [
+            "Open", 
+            "In Progress", 
+            "9h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2012d 10h 50m"
+        ]
+    ], 
+    "KNOX-146": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2014d 12h 8m"
+        ]
+    ], 
+    "KNOX-750": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "887d 18h 29m"
+        ]
+    ], 
+    "KNOX-148": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 42s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2011d 12h 42m"
+        ]
+    ], 
+    "KNOX-149": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2010d 11h 19m"
+        ]
+    ], 
+    "KNOX-866": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 22h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "771d 18h 14m"
+        ]
+    ], 
+    "KNOX-1128": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "482d 16h 29m"
+        ]
+    ], 
+    "KNOX-708": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1084d 18h 47m"
+        ]
+    ], 
+    "KNOX-930": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "695d 18h 48m"
+        ]
+    ], 
+    "KNOX-917": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 9h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "722d 23h 47m"
+        ]
+    ], 
+    "KNOX-690": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1084d 19h 16m"
+        ]
+    ], 
+    "KNOX-709": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1077d 18h 26m"
+        ]
+    ], 
+    "KNOX-913": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 1h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 7h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "701d 18h 26m"
+        ]
+    ], 
+    "KNOX-859": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 20m"
+        ]
+    ], 
+    "KNOX-855": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "796d 18h 58m"
+        ]
+    ], 
+    "KNOX-918": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "726d 11h 56m"
+        ]
+    ], 
+    "KNOX-1324": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 22h 37m"
+        ]
+    ], 
+    "KNOX-1326": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 22h 17m"
+        ]
+    ], 
+    "KNOX-1327": [
+        [
+            "Open", 
+            "In Progress", 
+            "39s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 22h 9m"
+        ]
+    ], 
+    "KNOX-719": [
+        [
+            "Open", 
+            "Patch Available", 
+            "237d 17h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 8h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "757d 10h 59m"
+        ]
+    ], 
+    "KNOX-493": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 18h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1511d 10h 50m"
+        ]
+    ], 
+    "KNOX-1322": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 15h 31m"
+        ]
+    ], 
+    "KNOX-1323": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 11m"
+        ]
+    ], 
+    "KNOX-715": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20d 22h 47m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 10h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "999d 9h 55m"
+        ]
+    ], 
+    "KNOX-714": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1021d 52m"
+        ]
+    ], 
+    "KNOX-717": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1021d 21h 18m"
+        ]
+    ], 
+    "KNOX-716": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1036d 18h 18m"
+        ]
+    ], 
+    "KNOX-1328": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 18h 34m"
+        ]
+    ], 
+    "KNOX-1329": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "309d 21h 25m"
+        ]
+    ], 
+    "KNOX-713": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 11h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "186d 22h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "853d 18h"
+        ]
+    ], 
+    "KNOX-712": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 15h 41m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 17h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 8h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1041d 15h 32m"
+        ]
+    ], 
+    "KNOX-989": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 6h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 18h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "579d 21h 55m"
+        ]
+    ], 
+    "KNOX-986": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 23h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "602d 18h 10m"
+        ]
+    ], 
+    "KNOX-981": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "621d 16h 13m"
+        ]
+    ], 
+    "KNOX-982": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "616d 10h 16m"
+        ]
+    ], 
+    "KNOX-1338": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "298d 17h 16m"
+        ]
+    ], 
+    "KNOX-1922": [
+        [
+            "Open", 
+            "In Progress", 
+            "21s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "96d 23h 2m"
+        ]
+    ], 
+    "KNOX-1144": [
+        [
+            "Open", 
+            "In Progress", 
+            "14m 39s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "11h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 5h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "448d 17h 30m"
+        ]
+    ], 
+    "KNOX-356": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1794d 12h 54m"
+        ]
+    ], 
+    "KNOX-378": [
+        [
+            "Open", 
+            "Resolved", 
+            "290d 12h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1486d 17h 27m"
+        ]
+    ], 
+    "KNOX-1219": [
+        [
+            "Open", 
+            "In Progress", 
+            "43m 41s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "372d 18h 39m"
+        ]
+    ], 
+    "KNOX-1197": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "390d 21h 4m"
+        ]
+    ], 
+    "KNOX-1194": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "397d 10h 25m"
+        ]
+    ], 
+    "KNOX-562": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 16h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1371d 2h 25m"
+        ]
+    ], 
+    "KNOX-1211": [
+        [
+            "Open", 
+            "In Progress", 
+            "19m 3s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "42m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "376d 17h 36m"
+        ]
+    ], 
+    "KNOX-1212": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 10h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "355d 18h 4m"
+        ]
+    ], 
+    "KNOX-1198": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "390d 21h 21m"
+        ]
+    ], 
+    "KNOX-566": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "130d 20h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1220d 22h 41m"
+        ]
+    ], 
+    "KNOX-1215": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "363d 23h 57m"
+        ]
+    ], 
+    "KNOX-1216": [
+        [
+            "Open", 
+            "In Progress", 
+            "17m 22s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "373d 22h 36m"
+        ]
+    ], 
+    "KNOX-1217": [
+        [
+            "Open", 
+            "In Progress", 
+            "36m 30s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "373d 19h 21m"
+        ]
+    ], 
+    "KNOX-769": [
+        [
+            "Patch Available", 
+            "Open", 
+            "51m 8s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "96d 19h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "779d 18h 5m"
+        ]
+    ], 
+    "KNOX-1353": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "286d 17h 13m"
+        ]
+    ], 
+    "KNOX-1352": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 23s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "289d 22h 5m"
+        ]
+    ], 
+    "KNOX-1354": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 14h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "280d 8h 13m"
+        ]
+    ], 
+    "KNOX-1357": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "286d 21h 4m"
+        ]
+    ], 
+    "KNOX-1356": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "280d 8h 3m"
+        ]
+    ], 
+    "KNOX-762": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "887d 21h 46m"
+        ]
+    ], 
+    "KNOX-763": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 3h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 14h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5d 4h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "861d 21h"
+        ]
+    ], 
+    "KNOX-765": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "879d 21h 9m"
+        ]
+    ], 
+    "KNOX-767": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 6h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "839d 16h 34m"
+        ]
+    ], 
+    "KNOX-1070": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "539d 19h"
+        ]
+    ], 
+    "KNOX-1072": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "545d 14h 18m"
+        ]
+    ], 
+    "KNOX-1074": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "543d 13h 14m"
+        ]
+    ], 
+    "KNOX-1076": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 14h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "516d 23h 11m"
+        ]
+    ], 
+    "KNOX-1077": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 21h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "524d 18h 54m"
+        ]
+    ], 
+    "KNOX-1171": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "414d 23h 12m"
+        ]
+    ], 
+    "KNOX-1079": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "531d 18h 58m"
+        ]
+    ], 
+    "KNOX-1172": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "414d 19h 39m"
+        ]
+    ], 
+    "KNOX-1177": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "399d 18h 13m"
+        ]
+    ], 
+    "KNOX-1176": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 10h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "400d 11h 2m"
+        ]
+    ], 
+    "KNOX-1850": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "194d 17h 45m"
+        ]
+    ], 
+    "KNOX-1998": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 5h 30m"
+        ]
+    ], 
+    "KNOX-1854": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 20h 20m"
+        ]
+    ], 
+    "KNOX-1994": [
+        [
+            "Open", 
+            "In Progress", 
+            "19m 40s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 8m"
+        ]
+    ], 
+    "KNOX-1108": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34d 21h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59d 20h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "411d 21h 57m"
+        ]
+    ], 
+    "KNOX-1104": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 37s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "507d 17h 39m"
+        ]
+    ], 
+    "KNOX-1105": [
+        [
+            "Open", 
+            "In Progress", 
+            "33m 17s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "504d 14h"
+        ]
+    ], 
+    "KNOX-1106": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "506d 21h 37m"
+        ]
+    ], 
+    "KNOX-1107": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8d 1h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 1h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "485d 20h 14m"
+        ]
+    ], 
+    "KNOX-665": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1149d 14h 49m"
+        ]
+    ], 
+    "KNOX-667": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 19h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1119d 23h 4m"
+        ]
+    ], 
+    "KNOX-661": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1152d 16h 20m"
+        ]
+    ], 
+    "KNOX-1210": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 22h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "372d 17h 54m"
+        ]
+    ], 
+    "KNOX-662": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1152d 16h 20m"
+        ]
+    ], 
+    "KNOX-1526": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "156d 23h 30m"
+        ]
+    ], 
+    "KNOX-106": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 7h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2008d 11h 11m"
+        ]
+    ], 
+    "KNOX-107": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2030d 16h 2m"
+        ]
+    ], 
+    "KNOX-102": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2036d 23h 40m"
+        ]
+    ], 
+    "KNOX-1832": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "214d 20h 59m"
+        ]
+    ], 
+    "KNOX-1021": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 4h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "525d 4h 1m"
+        ]
+    ], 
+    "KNOX-258": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 19h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1854d 1h 49m"
+        ]
+    ], 
+    "KNOX-818": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 11h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "827d 21h 6m"
+        ]
+    ], 
+    "KNOX-259": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1869d 16h 38m"
+        ]
+    ], 
+    "KNOX-812": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "834d 13h 48m"
+        ]
+    ], 
+    "KNOX-1136": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "477d 18h 35m"
+        ]
+    ], 
+    "KNOX-610": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1190d 23h 18m"
+        ]
+    ], 
+    "KNOX-611": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1246d 15h 34m"
+        ]
+    ], 
+    "KNOX-613": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1247d 21h 32m"
+        ]
+    ], 
+    "KNOX-614": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1247d 20h 56m"
+        ]
+    ], 
+    "KNOX-615": [
+        [
+            "Open", 
+            "Resolved", 
+            "36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1247d 21h 29m"
+        ]
+    ], 
+    "KNOX-616": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1191d 22h 7m"
+        ]
+    ], 
+    "KNOX-617": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 19h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1190d 23h 19m"
+        ]
+    ], 
+    "KNOX-658": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1153d 22h 19m"
+        ]
+    ], 
+    "KNOX-199": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "150d 23h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1811d 22h"
+        ]
+    ], 
+    "KNOX-659": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1153d 19h 18m"
+        ]
+    ], 
+    "KNOX-1383": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 23h 33m"
+        ]
+    ], 
+    "KNOX-1381": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "260d 20h 4m"
+        ]
+    ], 
+    "KNOX-391": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1762d 16h 12m"
+        ]
+    ], 
+    "KNOX-395": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1742d 21h 22m"
+        ]
+    ], 
+    "KNOX-394": [
+        [
+            "Open", 
+            "Resolved", 
+            "509d 14h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1241d 9h 21m"
+        ]
+    ], 
+    "KNOX-396": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1742d 13h 50m"
+        ]
+    ], 
+    "KNOX-967": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 5h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "637d 21h 30m"
+        ]
+    ], 
+    "KNOX-964": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "637d 19h 59m"
+        ]
+    ], 
+    "KNOX-965": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 16h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "637d 21h 8m"
+        ]
+    ], 
+    "KNOX-960": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "660d 22h 19m"
+        ]
+    ], 
+    "KNOX-1254": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "343d 12h 34m"
+        ]
+    ], 
+    "KNOX-1256": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "343d 22h 12m"
+        ]
+    ], 
+    "KNOX-1257": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 10h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "336d 22h 21m"
+        ]
+    ], 
+    "KNOX-1319": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 22h 44m"
+        ]
+    ], 
+    "KNOX-1251": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 14h 49m"
+        ]
+    ], 
+    "KNOX-1253": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13h 31m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "14m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "342d 12m"
+        ]
+    ], 
+    "KNOX-1315": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55d 21h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 19h 19m"
+        ]
+    ], 
+    "KNOX-1314": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 21h 12m"
+        ]
+    ], 
+    "KNOX-1317": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "315d 28m"
+        ]
+    ], 
+    "KNOX-1311": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 13h 20m"
+        ]
+    ], 
+    "KNOX-1310": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 8h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 11h 43m"
+        ]
+    ], 
+    "KNOX-1313": [
+        [
+            "Open", 
+            "In Progress", 
+            "20s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "315d 22h 41m"
+        ]
+    ], 
+    "KNOX-1312": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 22s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 11h 42m"
+        ]
+    ], 
+    "KNOX-724": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 4h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 22h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "972d 21h 2m"
+        ]
+    ], 
+    "KNOX-725": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "978d 19h 53m"
+        ]
+    ], 
+    "KNOX-726": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "979d"
+        ]
+    ], 
+    "KNOX-721": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "989d 22h 32m"
+        ]
+    ], 
+    "KNOX-722": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "986d 16h 54m"
+        ]
+    ], 
+    "KNOX-723": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 3h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "93d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "880d 19h 29m"
+        ]
+    ], 
+    "KNOX-681": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 10h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1108d 23h 17m"
+        ]
+    ], 
+    "KNOX-680": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 17h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1108d 23h 16m"
+        ]
+    ], 
+    "KNOX-729": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 6h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "882d 12h 42m"
+        ]
+    ], 
+    "KNOX-1134": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "482d 1h 27m"
+        ]
+    ], 
+    "KNOX-1137": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 17h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 23h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "448d 18h 56m"
+        ]
+    ], 
+    "KNOX-1424": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 10h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 22h 54m"
+        ]
+    ], 
+    "KNOX-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "222d 20h"
+        ]
+    ], 
+    "KNOX-1420": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 6h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "226d 22h 40m"
+        ]
+    ], 
+    "KNOX-1957": [
+        [
+            "Open", 
+            "In Progress", 
+            "31m 54s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "26d 15h 47m"
+        ]
+    ], 
+    "KNOX-1132": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 35s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "476d 21h 19m"
+        ]
+    ], 
+    "KNOX-1248": [
+        [
+            "Open", 
+            "In Progress", 
+            "25m 34s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 20h 14m"
+        ]
+    ], 
+    "KNOX-366": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "40d 4h 31m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1738d 12h 38m"
+        ]
+    ], 
+    "KNOX-525": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1437d 18h 59m"
+        ]
+    ], 
+    "KNOX-361": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1790d 21h 49m"
+        ]
+    ], 
+    "KNOX-362": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1790d 21h 50m"
+        ]
+    ], 
+    "KNOX-241": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 46s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1892d 19h 28m"
+        ]
+    ], 
+    "KNOX-247": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1875d 16m"
+        ]
+    ], 
+    "KNOX-244": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 3h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1871d 17h 19m"
+        ]
+    ], 
+    "KNOX-531": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1440d 22h 53m"
+        ]
+    ], 
+    "KNOX-439": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 1h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1610d 18h 23m"
+        ]
+    ], 
+    "KNOX-1223": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "370d 19h 42m"
+        ]
+    ], 
+    "KNOX-1557": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 18h 39m"
+        ]
+    ], 
+    "KNOX-1224": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 43s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "9m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "369d 18h 36m"
+        ]
+    ], 
+    "KNOX-537": [
+        [
+            "Patch Available", 
+            "Open", 
+            "217d 11h 55m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "258d 7h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "953d 37m"
+        ]
+    ], 
+    "KNOX-1229": [
+        [
+            "Open", 
+            "In Progress", 
+            "17s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "364d 19h 1m"
+        ]
+    ], 
+    "KNOX-1228": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "365d 18m"
+        ]
+    ], 
+    "KNOX-432": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1647d 21h 19m"
+        ]
+    ], 
+    "KNOX-1558": [
+        [
+            "Open", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 16h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 6m"
+        ]
+    ], 
+    "KNOX-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 21h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1597d 19h 38m"
+        ]
+    ], 
+    "KNOX-1049": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 19h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "514d 18h 17m"
+        ]
+    ], 
+    "KNOX-1048": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 17h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "539d 23h 19m"
+        ]
+    ], 
+    "KNOX-1045": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 5h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "527d 23h 37m"
+        ]
+    ], 
+    "KNOX-1046": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 19h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "519d 18h 42m"
+        ]
+    ], 
+    "KNOX-105": [
+        [
+            "Open", 
+            "Patch Available", 
+            "149d 3h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 14h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1884d 1h 48m"
+        ]
+    ], 
+    "KNOX-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 11h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1594d 22h 15m"
+        ]
+    ], 
+    "KNOX-1556": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 18h 50m"
+        ]
+    ], 
+    "KNOX-1034": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "508d 21h 54m"
+        ]
+    ], 
+    "KNOX-235": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 16h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1854d 1h 43m"
+        ]
+    ], 
+    "KNOX-47": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 15h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2137d 59m"
+        ]
+    ], 
+    "KNOX-954": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 6h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "663d 20h 44m"
+        ]
+    ], 
+    "KNOX-791": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23d 23h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "831d 22h 12m"
+        ]
+    ], 
+    "KNOX-790": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "856d 14h 49m"
+        ]
+    ], 
+    "KNOX-655": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 54m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 7h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1156d 19h 38m"
+        ]
+    ], 
+    "KNOX-656": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1161d 19h 59m"
+        ]
+    ], 
+    "KNOX-657": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1156d 10h 48m"
+        ]
+    ], 
+    "KNOX-152": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "51m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2010d 22h 5m"
+        ]
+    ], 
+    "KNOX-157": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 18h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "22h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2005d 11h 3m"
+        ]
+    ], 
+    "KNOX-154": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2005d 12h 6m"
+        ]
+    ], 
+    "KNOX-158": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2009d 10h 29m"
+        ]
+    ], 
+    "KNOX-410": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1682d 10h 59m"
+        ]
+    ], 
+    "KNOX-589": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 23h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "145d 13h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1155d 22h 9m"
+        ]
+    ], 
+    "KNOX-558": [
+        [
+            "Open", 
+            "Resolved", 
+            "728d 19h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "658d 2h 35m"
+        ]
+    ]
+}

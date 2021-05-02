@@ -1,0 +1,3422 @@
+{
+    "OPENJPA-2444": [
+        "310be135084266fc21515569f297ac714147d8b8", 
+        "fef5615e5326e76820d7bfa79de8fb2d6324acaa", 
+        "4551bbc69664833548429cd05beeca38d9f80e67"
+    ], 
+    "OPENJPA-2442": [
+        "b3d7fe8829df05bf836b207ca62856c6e6e8fa82"
+    ], 
+    "OPENJPA-2443": [
+        "d8395bdc5642ebfb7c44dee46993b54a8146d796", 
+        "1f383374815acfaa6a2878eb3e1e55790383aab1"
+    ], 
+    "OPENJPA-2440": [
+        "a76249e143c9d2e73e566540fc3668c8ae8a4302"
+    ], 
+    "OPENJPA-2441": [
+        "6d8a46e82540d035d4ba53a7760cc7edca2391af"
+    ], 
+    "OPENJPA-2567": [
+        "4bb1caa36dc753057790cb735f7e67ff24b4cef6", 
+        "9a98d6a2bf8203a1cead34d18f705e380c829cd6"
+    ], 
+    "OPENJPA-512": [
+        "99bf6d14f8f9097fe4298475f8653608a224cbca"
+    ], 
+    "OPENJPA-860": [
+        "8c50f73fe4820ac25b5268553b8029c32d9c9f9e", 
+        "696388049b3a89248e265af7274bdb298ab91e0a"
+    ], 
+    "OPENJPA-719": [
+        "07c6b1e5ddce7069c8bab7149ecf0a365a43bd88"
+    ], 
+    "OPENJPA-2253": [
+        "0ae1199283814bd7ed3e8bd1f317f3a38b23dfb8", 
+        "ae3441b049f60168e8abec0ef5988c0ba6265df7", 
+        "556d796ed38799a7c99d550ba4d79d26a5933abc"
+    ], 
+    "OPENJPA-712": [
+        "0ea75e720ebfea378b0412d6a0f96c6ad6374795"
+    ], 
+    "OPENJPA-711": [
+        "2f75495c57ff27b2fdabbd19a3026e717c125550"
+    ], 
+    "OPENJPA-1141": [
+        "530a190ebb90ffd97adc3a961c6d85c896ea9f41"
+    ], 
+    "OPENJPA-2257": [
+        "a2b07b18b43003f4c4cdd1872022a57c7e0fe26a", 
+        "512520f7fb764b406aa3fc3dd298dbf63ec7eb58"
+    ], 
+    "OPENJPA-2255": [
+        "bc29ef104d0494a08c348a58141760a51f18f534"
+    ], 
+    "OPENJPA-714": [
+        "40f017a2e99211101f25fe3d6faafdef38d780a8"
+    ], 
+    "OPENJPA-489": [
+        "206f0f04e1d6d28b7a1a8c7166bf7e5e366b5dde", 
+        "3d3cb67c5a5144afd49d23195a3ae0f50595ed98", 
+        "8c4cf9511edfc1a505ae639204b14f06a12ce739"
+    ], 
+    "OPENJPA-695": [
+        "b3951a1c11d590598c34b3c256c7abb789441444", 
+        "a904e327287363459ea896987433b26c868713d5", 
+        "52a0f630978ee7687057e5eda128f67233a98939"
+    ], 
+    "OPENJPA-2318": [
+        "1896a2850ca9721c5c00f76cfedceb7441df5651"
+    ], 
+    "OPENJPA-2095": [
+        "e6129051c263992fde38687ada21a4b41336b431", 
+        "5fb9e7172681211588a526257d8c5a1bb5111530"
+    ], 
+    "OPENJPA-2094": [
+        "b2af30891db8bbfd85f1fff67d21efccdba943eb", 
+        "1a383857ff1c9c3e8de4f61cc1fda4ff6494d534"
+    ], 
+    "OPENJPA-485": [
+        "b683569de095f7e9d24606816f5d09d88e12f3e2", 
+        "043b0596b888f03b8ac25cdd694a05026b870dc8", 
+        "8cb82a6f330d3fb6032750fc94236ffaa43ad01a"
+    ], 
+    "OPENJPA-484": [
+        "6bb87e620310fbd6be0493485dca9e9bc910985c"
+    ], 
+    "OPENJPA-46": [
+        "69c34cd385cfd06409b8009af5c9a681233d26b1"
+    ], 
+    "OPENJPA-447": [
+        "4c2efed65b06efe4dfceb6cf499bd6fe6e4ffd9c", 
+        "d4e978f5aeb420aa295a166e0f35770e5b181932"
+    ], 
+    "OPENJPA-340": [
+        "9d40841d48636bff9246b2ddc6fb3005dd8c9374", 
+        "54d1a24320ffae8bada3281bf28d28490de284c3", 
+        "d52998d0744c99c87110ae2657740eb20055b352", 
+        "6868b1cc4a104a7224510ad5be5869372ffbe80c", 
+        "ff4a96e707337123c3e94ba641b504101dd05c79"
+    ], 
+    "OPENJPA-1809": [
+        "9b105a2f00e451e190defd033c70271020de034d"
+    ], 
+    "OPENJPA-2698": [
+        "8f1f9a1af7fe0560750fb09fe501c6b194106ba8"
+    ], 
+    "OPENJPA-1801": [
+        "b67e3d83ac9e15d019fca58e577d1226ff89a388", 
+        "426dce38672b3d6c117e3cba912d83bc1b69ec9a", 
+        "54bef663e7d9f8ddec9e5434ca1162b09662bcab"
+    ], 
+    "OPENJPA-2690": [
+        "49c1478cf3f107d9f7069bf2102d8cf0b6ca2b12"
+    ], 
+    "OPENJPA-1804": [
+        "d079a88733e4f492fd7a8ebe3841c444dd3561d7", 
+        "b76ab3884e1bb57e9b066d06ea516455d2de01b2"
+    ], 
+    "OPENJPA-1201": [
+        "ee9210be92ff0279aeed80460ead1f2a279c6f6e"
+    ], 
+    "OPENJPA-1200": [
+        "bb7048d27c55141851d7f9496f17aae407eca4e4"
+    ], 
+    "OPENJPA-1203": [
+        "18cd43dfcd9a98e8954634a5a7ff3455a7ef4744"
+    ], 
+    "OPENJPA-1205": [
+        "73f1a0869ea27f2a7a7ffe9a87b2d97ae91ccf5d"
+    ], 
+    "OPENJPA-1204": [
+        "ec483537da504f3ea5c4371fe096ba636211c0c6"
+    ], 
+    "OPENJPA-2596": [
+        "ea1682c42511894999e7f3c155adf8b4d8785c1c"
+    ], 
+    "OPENJPA-2597": [
+        "72be5f17209fbe92415a2ebed59d0d25d0a3b785"
+    ], 
+    "OPENJPA-1039": [
+        "21b41a50fe101d6003fac68b940032dd9bc1f0f9"
+    ], 
+    "OPENJPA-395": [
+        "4fb0c28dc295eb9318fbf8f6c5f664e315f40b79"
+    ], 
+    "OPENJPA-2381": [
+        "7c0e7f2efda611890d8ce348be401a585627350c", 
+        "7b1483052df4a7f7c784cd19d8e0d0365b3b42ac"
+    ], 
+    "OPENJPA-1897": [
+        "a0907bfc3f6f58fe6dfc09557934166a9d51cda5"
+    ], 
+    "OPENJPA-1380": [
+        "983b34b68e9b5cf2fb5b78744f6bb2fcb654389c"
+    ], 
+    "OPENJPA-1381": [
+        "fb82c6ad138638358017b9516f3340bf1a75e4fe", 
+        "9c275904f3a7a6f7f5740cf641bf7fcccb710186", 
+        "cfea146c2953a8b46abed0f5de50cf42701ccf7b", 
+        "6f11e4d9836fa362d530d00cdd01342594eef1ab"
+    ], 
+    "OPENJPA-1383": [
+        "33ffb3f8c7fa4790b6f8e29127314ba379e2d94f", 
+        "2271a54167f3fa394f0b15f1b660e1cc0bea1144"
+    ], 
+    "OPENJPA-1384": [
+        "27996efb4882423eb1fce9425626d068e4eb501b"
+    ], 
+    "OPENJPA-1385": [
+        "865dad93aac88d8cf206825c60b1c7f340fe70eb"
+    ], 
+    "OPENJPA-1386": [
+        "5d765ea05b1f786c2bc6d48e3231c5d3a5166269", 
+        "6e630e827ea2a257b2277c5589532b3b3b2e7fea", 
+        "6ae4adf687ac9194fa66b4f82ccf07413b0262e3"
+    ], 
+    "OPENJPA-1387": [
+        "7bd2b4ae49b25d040313dd17d2fbce9be74c3378", 
+        "9c275904f3a7a6f7f5740cf641bf7fcccb710186", 
+        "5143d0cafd3ccd45a973f5945561675d87a5e81c", 
+        "69d2415b575d884968cb2e974173e6af570e093b", 
+        "05c785704cc706a1ca3745a5b2a3625eafb96c21", 
+        "61f9b32a496f538e89074b5edd563bc1f01fb532"
+    ], 
+    "OPENJPA-1388": [
+        "ee30b010dcbd58258c5d940d121e02f70b8160d9"
+    ], 
+    "OPENJPA-625": [
+        "e00c6e8f80434fd07b1dd438780cb3d964303392"
+    ], 
+    "OPENJPA-207": [
+        "3b91451d1669c3b8025730bcacc0e4f0d385eb61", 
+        "4c0bf1be10ca50cf8a02fb2e7c58ff52f862ca5f"
+    ], 
+    "OPENJPA-2187": [
+        "ae9e05b9c7c742f7f5640f5f9fbfa090b9e6b0ba"
+    ], 
+    "OPENJPA-713": [
+        "2c86e1d910a70166240d67967a89628430b4ce2c"
+    ], 
+    "OPENJPA-1935": [
+        "54980303924747fdb44cdc7ecc2177b8fa58e5a0", 
+        "d1ec54c6914e92f02817fdeb290a860bc908fc0b"
+    ], 
+    "OPENJPA-1932": [
+        "81f032dd605a78a901a2ac14f63f16a1d8824a36", 
+        "d1d356c151f8cd6d7f5c047d9c6641ea93c624fe", 
+        "77b7ced1d511a8a73a053bf8f3eb171be05fc2cb", 
+        "c2b3e11a7873aada889b81099794d641328ade34", 
+        "a997e75ecd5aba713e4334d7142f1efd79c5f036", 
+        "9223144782ea6369c611645e667a2149b1bd170d", 
+        "a582e60afb955951e7eb634286ad7708f55f5b1d", 
+        "b8e0b0d58b27943a967fe62faa8b38ed5893d7ed", 
+        "6b93af88a660000ee6ff0a6f911b356b05a69028", 
+        "7afa8754f7385d852f04359512d75c91d48dd5d0", 
+        "82c79adab1cfa42e67c0d19760dcf9f623b8afd5", 
+        "8c68768917b64b0f687095f6f29bf1f86165536d", 
+        "d470141828c6dab1326a2aedf16490dce8e4c131", 
+        "1f139e4013fafe115c294a89d8d1b9596e4846a6", 
+        "59c9ec99af799b442c38cbe97efbe2fe9cb258d7", 
+        "f6e05d085208568e1ced2881bd564f49065ce653", 
+        "cdfb5c79c50d56c305c8d02e620149440ebc7b80", 
+        "ee92abbdd0589e099251f63d97fe2e7afe6430d1", 
+        "6dab974ec72d7377ce497a246c5cf01fb382050b"
+    ], 
+    "OPENJPA-2626": [
+        "88e01d2fba1acd82e70100d001699fcb989d6ea8", 
+        "a5788cc859181ad55354083930e2c515a35df95a"
+    ], 
+    "OPENJPA-873": [
+        "7b5510cabcdbc156229d9014d3fa9c3e616da890", 
+        "89df4a75321f4066bb7a0a83d0fa03ace16e32bf"
+    ], 
+    "OPENJPA-1031": [
+        "95e9b554c694f23da994e4b63c880a38c7615356"
+    ], 
+    "FOP-1": [
+        "e3fbbfbcede0d4735a882e5208d2a20257c8b2f4"
+    ], 
+    "OPENJPA-1939": [
+        "b44614d94b13f90d879aff00d0c8bd62f368529f"
+    ], 
+    "OPENJPA-1938": [
+        "24f976d6198378c4d9fc5ba3af74b52d778f83d8"
+    ], 
+    "OPENJPA-973": [
+        "31ae5802525dc7948002eeb6c650a51b357e821b", 
+        "b00ef73b409f3c08dbab9d35fd81911808368d6c", 
+        "c67cd5d0be03ee6dac397b4ca48304aaaeaed1c8"
+    ], 
+    "OPENJPA-1477": [
+        "ec8dba1465635ad5fdc8d993c73fa71616face71"
+    ], 
+    "OPENJPA-2746": [
+        "18b101228f31adf0d22c6ef1b49df08227c6b157"
+    ], 
+    "OPENJPA-1379": [
+        "19eb9f2615a15ae74a13668b88e3fd6136911d3e"
+    ], 
+    "OPENJPA-2743": [
+        "ef98e1848096448ba7e60f65839d69451dfcc06d"
+    ], 
+    "OPENJPA-1375": [
+        "3e83d5d15b2095330d21739e1244db9b52a1a9b3"
+    ], 
+    "OPENJPA-1377": [
+        "75f3a174a46540cdcf3509396f7c82febcfd6c2f"
+    ], 
+    "OPENJPA-1376": [
+        "a381632d14c356f38ead1bc64df141bf88e0395a", 
+        "529827b0fb77ddfdcec4474772972da6c02b51e3", 
+        "621c52065eaac92fd989ff33e0d8fe72b567096c", 
+        "0022b991ab84c0425663eb6475c6c2c75dcae0f2", 
+        "1d889e3e506fa3f203a9a8559a018f07e4212ea5", 
+        "2e0d69141fc379ce39cad71fabf4e4c5a44d01a2", 
+        "e0a0050e7bec8032ec0160bdf3c955b1e437737c"
+    ], 
+    "OPENJPA-1371": [
+        "d1feecbc9e3750c2b887f0ae95b509569d28d22e", 
+        "eabd0c9454bab3170ce7c10208afd687c96b84b1"
+    ], 
+    "OPENJPA-1370": [
+        "c1a24be02bed1d45a892acc4b777c0f834ef4c9b", 
+        "f25b573aa08af7d0d26d5bb2b40d8e3be15a6874"
+    ], 
+    "OPENJPA-1478": [
+        "31757064ca69e04e6169f19f4ea5e6bb22c60bcb"
+    ], 
+    "OPENJPA-1372": [
+        "4628962d2adc6a2c87f1c5cf674be766d2b80c69"
+    ], 
+    "OPENJPA-308": [
+        "d5ef5d1f3db5251683f1888da5353fb765584fe2"
+    ], 
+    "OPENJPA-715": [
+        "4aa64410ad95dc18d774e58e8dc6eb3ce30a1532", 
+        "8e6db6cb65c2acca6812b30f56e56ff48000a02f"
+    ], 
+    "OPENJPA-202": [
+        "60a1e54f07a491213603b7881d7ae8615556fd2a"
+    ], 
+    "OPENJPA-304": [
+        "872d00888d786f97f027946f59cd9c1962487fec"
+    ], 
+    "OPENJPA-1279": [
+        "69cf52f68d306838a40ffbadab9b3444be5f7f4a"
+    ], 
+    "OPENJPA-303": [
+        "a1d28857fa6cff6a6374b5f10d747b8538af9cdf"
+    ], 
+    "OPENJPA-1890": [
+        "4a5f766a0cb2cf9a3edf5c1f526b3dcf2746928e", 
+        "dcaa2177c6f89620b373823803adb7c819436e07"
+    ], 
+    "OPENJPA-1556": [
+        "2798b0dd7304466fea04bff576188ea23ef7e05b"
+    ], 
+    "OPENJPA-1550": [
+        "50202d956b375ee91ca38fe4a0876d7157d20cd7", 
+        "666ec6c6de38ba34062205f7d26913720eba8fa2", 
+        "6503eabef5327eaf3c20965d75ad086c3c4480dd", 
+        "f82184314ec6a914ce5ca9c3b8fbfa9cab31e276", 
+        "695bd9c4bf3b1e71db0da472d351a8d5806d5529"
+    ], 
+    "OPENJPA-21": [
+        "a85d58d56a94d4aa33f4bf319ff1544c36902473"
+    ], 
+    "OPENJPA-1494": [
+        "9b578759ab89e9cf4a17ea78269b6eb9f58a0d94"
+    ], 
+    "OPENJPA-630": [
+        "110e3ff4b02aa1482d3f0e931539bbf616b006bc"
+    ], 
+    "OPENJPA-1496": [
+        "b59c7577416a0da6e0b450d8f9b8d7c965875488", 
+        "31265de187e0f6ba913ec895ef9e3374f4ecea47"
+    ], 
+    "OPENJPA-1400": [
+        "2c00f18f0c634ed5c16ebdbb90188e24033ef124"
+    ], 
+    "OPENJPA-1559": [
+        "137ad1bacc9ae57248e0339dd4252b3efc833fca"
+    ], 
+    "OPENJPA-1491": [
+        "73b7d4748b0e5d914cbe53ade826630a4b7fc650", 
+        "7c748e62df7235c4030e9b936759b0108ddc5c81"
+    ], 
+    "OPENJPA-533": [
+        "f62ea1ab0d2922377368ca5d31bbcbea57ecbc3c"
+    ], 
+    "OPENJPA-532": [
+        "ba5d11b43b0d6182812998c347a94d4af768c6fe"
+    ], 
+    "OPENJPA-1893": [
+        "2ef2640092c857bf1cea1808a3a10923f50d3dde", 
+        "f916b8a89fef65f1d784402d1a21b706ae52d3e6", 
+        "d12209163ebb77899629394ad563cdbe19c1fff7"
+    ], 
+    "OPENJPA-537": [
+        "635ee199fef8533ed5a176e07d40b75dc8a66074"
+    ], 
+    "OPENJPA-536": [
+        "18a3db781b0e3275f83f9cd4b014c06f8f43af47", 
+        "18a3db781b0e3275f83f9cd4b014c06f8f43af47", 
+        "999ce2e670eef2def0a0b89f4bb62dbe74b6a4fa"
+    ], 
+    "OPENJPA-535": [
+        "d93ac261adc022453b16d2879805057fd6205773"
+    ], 
+    "OPENJPA-285": [
+        "f61968f30255063c02971f041a0111e5dcf84220"
+    ], 
+    "OPENJPA-24": [
+        "c8ca563046840fc285b8f8d3b626882d69b1cd42"
+    ], 
+    "OPENJPA-539": [
+        "57ca9afbdd20903f4fab7d14f876f34d6f911e85"
+    ], 
+    "OPENJPA-281": [
+        "c34fb4e80ef3597fc11c72640cc80d222d1fe282"
+    ], 
+    "OPENJPA-280": [
+        "124f615eb51b063bbf2856cd487d168b1da5f839", 
+        "2f5d52b7e703327cc6047b641d66e79f860c2bf0"
+    ], 
+    "OPENJPA-282": [
+        "065d3e2f59afff648660be408f864eca30153054", 
+        "3fa609873b76746455b7c0355de7ac4dda52a14e", 
+        "e959466d1dfb8749fe4a8e8c99743ce73513391c"
+    ], 
+    "OPENJPA-369": [
+        "bb527a1e882b9aff495a02b14a31231651487ef6", 
+        "7524219f6a3291c382287b41db5dcd72cb35a995"
+    ], 
+    "OPENJPA-1988": [
+        "bdaf1412986c76bf490cd508ec815a7c61f38791", 
+        "f6c5acd9b343e90ac42132077c63110b8224b1ea", 
+        "4540f822162023a2bed7d816cd8c0f66d3ab75c7"
+    ], 
+    "OPENJPA-1989": [
+        "862e818e5058f5e898374b1e49fc8e27287b2bc0", 
+        "d450910b0a1fb73ab73067d20500be53f3c4323c"
+    ], 
+    "OPENJPA-1597": [
+        "b2d71bbe4d829427a1e3ece3fa7e06d29069ef51", 
+        "0df0c0142ff78f73934a03cdbc4655eeebbc0bc7", 
+        "137071d9bfc47db884eefa7a48f7dfe38a9a34f7", 
+        "371a31a41a78267170b4af8958578d291e074d5d", 
+        "3df86b0e95cf008678785f5dd8671ab1154dad1c", 
+        "cb0ca8f009a53d1856ec082674b35714c355407f", 
+        "a9648ec87e0414f0b27cf43fd562d85864c8f48f", 
+        "9a75bfe59d777f068a59e6ebe01168f0a08b32d5", 
+        "c0ad7b61a7ad75b66b312e1c518390862d88b4a4", 
+        "5835eb3b6e9a1b1dd7e848b28ea3c783a3295f8d", 
+        "e88899d3a1f38886a0de96eed3c870f31d31beb3"
+    ], 
+    "OPENJPA-1458": [
+        "2331d205229f72e7526d03896b5fbdca16ffca2b"
+    ], 
+    "OPENJPA-2132": [
+        "f94fb7f727fa9f4773ef682ea87ee6bb74af9256"
+    ], 
+    "OPENJPA-2133": [
+        "8c8e250f402125bcf6a05ef696e33db5417371dd"
+    ], 
+    "OPENJPA-2131": [
+        "06742412b3b8caae014f9044afdccddd445dd254"
+    ], 
+    "OPENJPA-2136": [
+        "6599b7b403fecc75ec7b3fb2bfd0b51bcfa6cdb8"
+    ], 
+    "OPENJPA-1987": [
+        "258cf99784da43b740a5c843cf21d39dec7aa093", 
+        "b6ddcab3831b5d78f3781f33f8d9864f88849d3c"
+    ], 
+    "OPENJPA-1984": [
+        "9ea0354f1bfdf56f0f6a052406edaefebe5fb3b8"
+    ], 
+    "OPENJPA-1985": [
+        "69fd9dbad901302a1e4ae5d9515068a1fce1bb37"
+    ], 
+    "OPENJPA-51": [
+        "89695ec253f59efcafe9aafb2d14afb6f6fc2edb", 
+        "b2812a4cce25e17a52519036f3a7a66298a4d1ef", 
+        "be91d228c537529c5bb7a9681a083b2e422ce0e5", 
+        "59bd5b0d3f891f16d7f9ca93dea13b40c082c11d", 
+        "23beb964c591d2c6dac0a3f3b7828fcfcfcc67b8", 
+        "bcc3b67223feefb2b379df3afb66295555f4a5c1", 
+        "a044af3287e0ec164de9d0b6841998369860045f", 
+        "d5d214c1821cb78f4bf644cf0c1fe2d5cb092f69"
+    ], 
+    "OPENJPA-1898": [
+        "8c2b69d63f0a99c0c70ff0554e0d4978e79119c7"
+    ], 
+    "OPENJPA-884": [
+        "efc6ba4735d62cb8a82ed2ce29096d149d516c4f", 
+        "efc6ba4735d62cb8a82ed2ce29096d149d516c4f"
+    ], 
+    "OPENJPA-883": [
+        "9d5066a2258da3f022f6a9104fd92727201dd77b", 
+        "0aedae43701528f57b32dea534b5def3a576074d"
+    ], 
+    "OPENJPA-214": [
+        "3885031a892f077661112ee0654a59970ac76191"
+    ], 
+    "OPENJPA-859": [
+        "5d793884e63d62b5f88705173083cb0ee0603485", 
+        "7a46717616e9f908df95bcff48dff7e6b29af14a", 
+        "f7568decb957ebcf656c977fcdac4f85914962ce", 
+        "4c6ecef1ba10438268154d33c16520588f574fbb", 
+        "9c3a7117a83a2e0035cb7d73a14aa42663187a4b"
+    ], 
+    "OPENJPA-993": [
+        "d8ef5c17921a5e410cfb1fe7bfd1670d1f3b5229"
+    ], 
+    "OPENJPA-992": [
+        "7ad6a01e8409d41c39bdeb9965018cae0795fe5a"
+    ], 
+    "OPENJPA-2525": [
+        "32350302579c5c2fd2198ed56300c57e0c427e92", 
+        "319bb37fe1725e998531c4e62cf9133dc42b8639"
+    ], 
+    "OPENJPA-3": [
+        "eb96e89f4d55d240fdfcb3ea236492f84312a8af"
+    ], 
+    "OPENJPA-1722": [
+        "aec144cdfaf909826b7d9bc6f5d6e2aa4d93a6a0", 
+        "512122c4bafdd3ff036f06e0fd79d67b694bd2e9"
+    ], 
+    "OPENJPA-1726": [
+        "bdb09074a7dd8ab317d28e5f7e11ebe3f668efb9", 
+        "ac42e2d8eba1a7d5ec8c9773348691220e40b8a2", 
+        "3b3d01cb6a961c5e017b21df48b669f68040ee24", 
+        "bfad6bc65fc4307403f4fd947f26d52c627065cb", 
+        "42b0b38815b90afde293c230854b2887d6bd79c8", 
+        "9166a7753a1a5091654e46d078164dffe21ac685", 
+        "0a8c27709d5d51f88b796acf66f5c217b64788cd", 
+        "1916e1bd8697d4d62af0510c8069bbb87962929d", 
+        "f8c32d45d2cf0e22a9ce747bfc258321796e6a9b", 
+        "7a7e24366521264df89073dd4ff3b485425f3d0f", 
+        "a0b6b2a85d817ae92812fe8594f4c5d351ac8f0e", 
+        "90373cb93fbff9cb8605401f4ff64d15b300e858", 
+        "68208302996c67f39d3db78498ea6b1e51be39d8", 
+        "99eef9d0184f8f8f636593caf95f69e3f2ae0e8f", 
+        "0b80f23e703e09f6d219ca2e1ce5e1051073f9ed"
+    ], 
+    "OPENJPA-1727": [
+        "bb7c9b2fd8cc0077cdde85e6cf595c2b54d611c0", 
+        "4dcca875006e4e2c0a91a6d9e961617f34a69898"
+    ], 
+    "OPENJPA-1725": [
+        "43b545eca415b965f3e7d7a91dedf1890323fa53", 
+        "aa88b32b06ec37c1b618d3e4c2d552b852a0b1b5", 
+        "1125b86310b7c08efb2b524633acec52840093e1", 
+        "c159730005aee494d916063b947970eea0179899"
+    ], 
+    "OPENJPA-2357": [
+        "c9fa4b9bda45d0cb50274c8075a780b98b5951d4"
+    ], 
+    "OPENJPA-755": [
+        "5550d8dbb53e2b5bbff4dddac060a93c33d7ceff", 
+        "54d4d0d07d5405670c84823ee2701f497f384538"
+    ], 
+    "OPENJPA-2355": [
+        "dc2c72f8e141ffeef8c0a2dab392c0f9406a91df", 
+        "e966f0f51c8c00bbaddbae9398e2952643e9af09"
+    ], 
+    "OPENJPA-2059": [
+        "1e4a05c6db07f3112fdae4923e6c6ce7bf47ce28"
+    ], 
+    "OPENJPA-248": [
+        "c634dcb4d81b286fe77bc1cffdd92c811116948c"
+    ], 
+    "OPENJPA-751": [
+        "509f41c801b7b02d5825372620c29cf612646570"
+    ], 
+    "OPENJPA-794": [
+        "4d33d1bcc864e8e08aeca6df8c3e765955feaf8e"
+    ], 
+    "OPENJPA-2055": [
+        "e07b3ce3cf63fff17b06c6a6289a52ae40d0f62e"
+    ], 
+    "OPENJPA-2056": [
+        "b5859a740b3d3245654841a9c2b9d142e1d2457a", 
+        "ccc61a5450ce5301be20b7db828ea1a92b6d8658", 
+        "59684e480e757270e547b00a29157e4404466a66"
+    ], 
+    "OPENJPA-2051": [
+        "c8a84fd37d9077bed999d104751face7d39a01bb"
+    ], 
+    "OPENJPA-2053": [
+        "236f409a91ba4423f6ea27045009f29877469c9d"
+    ], 
+    "OPENJPA-1909": [
+        "7b97c4b91f05b928e7ee73a99a76ecf503514947"
+    ], 
+    "OPENJPA-368": [
+        "5ef181ab94a302d439ef4e406fcdda7785a57048"
+    ], 
+    "OPENJPA-1794": [
+        "ca76712e3875051422c4d121bb5008f81cfd3f61"
+    ], 
+    "OPENJPA-1793": [
+        "ab326efe0729737af181b7151766e82be4562c96", 
+        "582e91b867963a008d2a8f398a8bd1c97a217a4b"
+    ], 
+    "OPENJPA-1129": [
+        "2236c1833ecb454e69dee813ddb32933292c5e5a"
+    ], 
+    "OPENJPA-1790": [
+        "474c1b60c9363028ab9e23edbdd546115732de1b"
+    ], 
+    "OPENJPA-1657": [
+        "cb77af09f2a73e30e00f0b12d23169fff1e0f003"
+    ], 
+    "OPENJPA-1097": [
+        "86546e1e12ef3eea9bb9bf50ead0a575e299aa44", 
+        "28d495e14b0bf223709c6c999132237cbc6b3c05", 
+        "773eefc3135294aa18d1122483e8a1d1b82f0c53", 
+        "4f9de8e360c8fcb2dda9100c01b2761a3ec21f5c", 
+        "4bff5d71e8219ea5f94437d146294130d86fa270", 
+        "e56be85085acfc32977ddd3dc1bbb63c2f7ebd71", 
+        "a99ea6218f5898e37e8a6965f812976bd3362b7e", 
+        "b9a230567ec725cd06f5c0db326572907f42ea52"
+    ], 
+    "OPENJPA-1120": [
+        "16344b5b33639767eecffa16c769b956633d14e2"
+    ], 
+    "OPENJPA-1121": [
+        "97cd88adc357a99b97c27d0074a8fec46adee7a5", 
+        "045eb544de1a22761d7aa35b9da7571be21bc37e", 
+        "59c81b98aa2730084defb28839661bda5aad8bc3"
+    ], 
+    "OPENJPA-1650": [
+        "c7addd5f51598dc111e89db16160c912e159c132"
+    ], 
+    "OPENJPA-244": [
+        "5c9642d5f47c319d2279382c60141ebcb65cd3b0", 
+        "8b5a7f68a0016e7d5b5ac9a1c913794dccdcecd7", 
+        "8b5a7f68a0016e7d5b5ac9a1c913794dccdcecd7", 
+        "0c517d163e355f85ca40673db15a991693bc2d4a"
+    ], 
+    "OPENJPA-1308": [
+        "105d46c6eacbaad594e991b012f046da5d7d38fd"
+    ], 
+    "OPENJPA-2418": [
+        "d4b693e4e87270702857f2f0c0c8fe1d30c9ed4e"
+    ], 
+    "OPENJPA-2414": [
+        "c8e3d5dcbb664ae8f9c5a87392fc1e6204e55238", 
+        "ee6f4acc3ff9ac43ea4e98579b478e55767aef24"
+    ], 
+    "OPENJPA-1350": [
+        "9a4fe698c2a83698c301e0fe7635898c8b41a7a0", 
+        "0291158f589290114dc031614f9595e81bc30b10"
+    ], 
+    "OPENJPA-2555": [
+        "d8ddf87a4752921f75e759f735282a70143dd139", 
+        "a7969c120bfba06b883f319788fc50ca0ef06b69", 
+        "dc31b800b8831d606c9621be2935282b666ecf64", 
+        "4e59c4836407382f853306dfd0ffbd14cba6e5c1", 
+        "0530b5b72ba00a3014e67c9ee4c3e8bfcddabb76", 
+        "3b4c2e6f427de1f6f1e21a9c5a0cca4e5730167e", 
+        "9461ffdfcd870b1aeadf1eab3e8181c983a595b4"
+    ], 
+    "OPENJPA-2557": [
+        "6591d4d464967b47185a77b1fa88a89bd4fdc8e0"
+    ], 
+    "OPENJPA-1599": [
+        "0010c931cf1aca125dfba3e1b581acdce934e1cf", 
+        "048ffd924d61e9a7b5e90df207900ad325ad2bbb"
+    ], 
+    "OPENJPA-360": [
+        "5e590a951ee9a24d3c019f8eb67ced2d819261a0", 
+        "efc6e371b72e345b4802dc5c9d841b4db88028fd", 
+        "a4bf964c089bb70e48abb4d78f35327317264c49"
+    ], 
+    "OPENJPA-1464": [
+        "7b53696e6e5162debf7d48d0f02940f5df15239e"
+    ], 
+    "OPENJPA-1689": [
+        "8781af1e8861e21fd92ed7b004cb9ac50d14d624", 
+        "e372349aebf983e07dc6509861e885fb294e9e16"
+    ], 
+    "OPENJPA-2221": [
+        "35c91eef22c711ca193954104be9ce3ba2065f39"
+    ], 
+    "OPENJPA-2227": [
+        "5c05a69ce6f371616dfb049fc1c996260b10a394"
+    ], 
+    "OPENJPA-2228": [
+        "4b04ef53cfa5769f9a32cd90808f17a5bb06a1f0"
+    ], 
+    "OPENJPA-2229": [
+        "a55000a4be3385fa71d556a5a53e84a0638b6d8c", 
+        "a42c9c280a2834dae7e70b4c3f06e4d7ccd644d0"
+    ], 
+    "OPENJPA-834": [
+        "7ce5b0dad89f76dbf15f07f36bc5036c6bc1c922", 
+        "9e78d8caae2306b110743540b03929439e6ccea5"
+    ], 
+    "OPENJPA-367": [
+        "884d6b5460be23e12f82f29501f07b5b771e012d"
+    ], 
+    "OPENJPA-1155": [
+        "e9f305f700478876aa71dcda3f9163a74c981c02", 
+        "9ee5383721d40820f36cfbc30618b8a56e9b348b"
+    ], 
+    "OPENJPA-375": [
+        "ac83668ffa1941c8534cf6417391af4cdb70cab5", 
+        "c0cf40564898fbf464b6782e674aa26ea4031182"
+    ], 
+    "OPENJPA-67": [
+        "753468d8a19f1c6dcac94ea3fd12ed30791d6fab"
+    ], 
+    "OPENJPA-1979": [
+        "5c1421cf09d4628064510e6b29c485a749b5f574"
+    ], 
+    "OPENJPA-379": [
+        "91917c406cd68298a501a2eea1605fdc4e8c73e2"
+    ], 
+    "OPENJPA-378": [
+        "5b67b240f1d53eae36fba27611c501003cf700a7", 
+        "5d4d50df96e29335937e5fb12df0b6787d5c525e"
+    ], 
+    "OPENJPA-1975": [
+        "8544f5da4a76c60f34097b3073d4b7ed4813ff80", 
+        "985a59afbdfcc7ce59b712f807e5751407483d80"
+    ], 
+    "OPENJPA-1974": [
+        "2d232cf4c0f6aaa33dc911610ee098cab0320dbb"
+    ], 
+    "OPENJPA-836": [
+        "1583426e01c38dd65d255a2eeb52cca475975fb7"
+    ], 
+    "OPENJPA-1873": [
+        "aff65db7e994a3b3eaff9543e3d7d0b04934dfaf", 
+        "4bffcc9c9a3786f3aeb0a7a386ded3bdf25decf1"
+    ], 
+    "OPENJPA-1870": [
+        "a09a2b58560ab91c2ef526ec0f10f9adcb321a35", 
+        "f946f8383bc3ca287f8711a486c057d5aee082e9"
+    ], 
+    "OPENJPA-835": [
+        "0500645b7a753dbf287c81b6bda473165b1ccc44"
+    ], 
+    "OPENJPA-1876": [
+        "3c8d303c9a6d0df0f05e78a6f669f4a34af9093c", 
+        "987513f7ac438d2eaf8f4b6f5aec291a8bea7bb3"
+    ], 
+    "OPENJPA-1877": [
+        "3c52abb73d84b4951c1db8e401583975f7d3793b"
+    ], 
+    "OPENJPA-1874": [
+        "6d423c5b6b04f683b545d2890f0d74b785f44be5"
+    ], 
+    "OPENJPA-935": [
+        "8a1e0307f242cc5b035db140c36ac134008a8aab", 
+        "9d7360cb35872203b416bdf3767f02f1c4158eb9"
+    ], 
+    "OPENJPA-934": [
+        "909c8381381f827b1cfdde1a88f4485a62adf194"
+    ], 
+    "OPENJPA-2705": [
+        "5c94a7ff67ad38f6fdcaa7a950eeb9622ff960aa"
+    ], 
+    "OPENJPA-2704": [
+        "4477ace6fde890ffb41fd10c548de2ebbe6f423c"
+    ], 
+    "OPENJPA-2707": [
+        "2898b4e342591dc98848663caa74a9bb7fee35b4"
+    ], 
+    "OPENJPA-1239": [
+        "5b68196cf1b235977c9134fe57f5ef694f8eafa1"
+    ], 
+    "OPENJPA-1333": [
+        "bcdfee33fef0ec24ec348dbfd99162e32d10a3b2"
+    ], 
+    "OPENJPA-1230": [
+        "cbfd6b88dd152206de1c972f82600c001354a495", 
+        "c1ac969c7d951967f1faa772c65bcfa34918326e"
+    ], 
+    "OPENJPA-1338": [
+        "4994981795bfab854acf479f361a93e0ef80bb43", 
+        "73e9f4d2b6afc4146d16712b532d0c274df000e1", 
+        "1b91bd3b58fc2451148d1006f6546843cc2c1201", 
+        "020d46ef1231ce51ce231581c2e9c3d52dd7fbb4"
+    ], 
+    "OPENJPA-1232": [
+        "5d7e949803352c5977a3cc1ea1a9abd99bad6bde", 
+        "3b327b5fbb3fe45f6f691d738b16fa567d345541"
+    ], 
+    "OPENJPA-787": [
+        "3f47c13c68f439f274c735862184cfb19c37b151"
+    ], 
+    "OPENJPA-1234": [
+        "61b85e4b1a6ef5c23f2b8bc87a09facc78e818a2", 
+        "fb2a45a739d463e21e76f16ce1b0db46b929a6b1"
+    ], 
+    "OPENJPA-932": [
+        "7b06c5cfbf04d203ba55920ff120c3e6469e69e9", 
+        "f81e627b27627374ea9574c6811d51645ba7428a", 
+        "bd50e177bb770396c10cec7ee8f85d0a01044ac4"
+    ], 
+    "OPENJPA-1577": [
+        "41ce320cc0436552a0d90dd53ba8e875680e5225"
+    ], 
+    "OPENJPA-838": [
+        "963e541fd268a6bf0c64194cf917b5199600a9cb", 
+        "6ff7d9a922d1b3f61fa2363529622e69f1d82b9d"
+    ], 
+    "OPENJPA-335": [
+        "809cb370030c72970ed499c3003aa5400b3a276e"
+    ], 
+    "OPENJPA-174": [
+        "229f24547add9fdf5c7414cf98895bf85f83e9d6"
+    ], 
+    "OPENJPA-1800": [
+        "c1b941f3d16b8d0fa4e9388c236484d42aea2438", 
+        "a093e9daa6f01385758993501e155f837ac6b524"
+    ], 
+    "OPENJPA-470": [
+        "fec65630fd5b0d6759b0d921e01e201ab8dd1c0b", 
+        "ab88266f2aa9f0a95baa64f264efeb3ff79665b2"
+    ], 
+    "OPENJPA-471": [
+        "0d3bc96fcb3ce692bf088c5cab91cfa309013a32"
+    ], 
+    "OPENJPA-577": [
+        "18a3db781b0e3275f83f9cd4b014c06f8f43af47"
+    ], 
+    "OPENJPA-576": [
+        "18a3db781b0e3275f83f9cd4b014c06f8f43af47"
+    ], 
+    "OPENJPA-574": [
+        "93e15d846c2338b979d8a08408bce95c31c4598f", 
+        "dcada1323742967f4e066cc88ac1d9ed46f16102", 
+        "72df500c6e4eb583bfc5dd826c7c343a800b8be2", 
+        "956065baa001a4c69149d666566e9343d173b4c7", 
+        "b585833c0c69866d50fbc8edb441ae2364a50df6", 
+        "b796e1710f4572bee7e20f8e7c2851205ddbb8b2"
+    ], 
+    "OPENJPA-573": [
+        "14eeab2c00efc8df2ad15b35136e85c63852158c"
+    ], 
+    "OPENJPA-478": [
+        "0b72fb417a761069443586961dc7f7ad61eafeb2"
+    ], 
+    "OPENJPA-670": [
+        "c67f4e6054438dc053c69277e3dad25e530e627a", 
+        "68f051fccf0e33e1a822f7741efec3f0602ddf4f"
+    ], 
+    "OPENJPA-361": [
+        "3d8748c427a095b896ce1ecfca0b5ab91b34617e"
+    ], 
+    "OPENJPA-674": [
+        "e97d6d15985fa8f0100ee1e4931e5337ed497d65"
+    ], 
+    "OPENJPA-2178": [
+        "aac116c904fb66ab33c8e7d72630cd3ad549bb49"
+    ], 
+    "OPENJPA-677": [
+        "8599f5290a6a5b9e83c275cdf8b97fce881d7072", 
+        "237c092ebb1dd885954e4a93c476ff70554c7bf2", 
+        "9ebfe800a5cffc4116d0fa3023d8427d6a1a63bb"
+    ], 
+    "OPENJPA-678": [
+        "ff93b1d6e693df0e93c441ee68788f8d206515e4", 
+        "fd15719a4ba9863172ed7a8286662caf2b7f9e21", 
+        "610023adee027bfa7124b3764df0b8fed5e2a672"
+    ], 
+    "OPENJPA-679": [
+        "ab9d17f12e6e5bc2b784d7f4e5b4d45b47aac9b6", 
+        "f4845dae9b5767ea7fb4a26c631c4b28b0c49243"
+    ], 
+    "OPENJPA-2174": [
+        "ebe06fdf352a63c3152874b3efdc4960108cf3b5"
+    ], 
+    "OPENJPA-2172": [
+        "96751867c9dd063df97478c0ab759372dfd235d2", 
+        "2e996c9918ec5b18fcf05d0ef5faa1690a0369f9", 
+        "8ac15ebf931b481cd37c8828ef7c36c2a01448aa"
+    ], 
+    "OPENJPA-2170": [
+        "3bfaadf1c10169e7ca7fbc23719b044b6a64d1a2"
+    ], 
+    "OPENJPA-2675": [
+        "701a4e7d2715b844f3b522400eee2024b1aac049"
+    ], 
+    "OPENJPA-2674": [
+        "4068d5ccb29f65d9a09daebcd232b7c8c1a2ed5a"
+    ], 
+    "OPENJPA-1584": [
+        "15c64cb8f4db54346a10cc5c9183b3343db5c0b5"
+    ], 
+    "OPENJPA-847": [
+        "e80110bdd1029dc03dd3ff422c98458daf451478"
+    ], 
+    "OPENJPA-1583": [
+        "e6fc6fab0a4f45c81db5ffc8e2c3bcf76e1478ee", 
+        "c864f5dfc024d01052d59f0f6f9fd1ab5c0c2710", 
+        "8c1175054f028ef00d219c054b66fd6634eca020"
+    ], 
+    "OPENJPA-1580": [
+        "e6ba2e9ed9dc472f90708806dc55ecfb656bac82", 
+        "13e3c48caea0c7c8125b72f398f6443ce231902f"
+    ], 
+    "OPENJPA-2672": [
+        "be71987b9c7f14af11718351a883582843eaa4ae"
+    ], 
+    "OPENJPA-1425": [
+        "4515e2f5da657fedb0329c5bc5e48e657e861ebb", 
+        "b1ee063aa43a1e1fbfd837ef82a25a3e7ef937c4"
+    ], 
+    "OPENJPA-1424": [
+        "7e50c0bf6dae733ea989872e33ab5b1f05919d33", 
+        "43c55d05391c97160cb6e963742b19c62ba1a3b3", 
+        "e5ba74a9fcefaacdb963405c65910f9272c6829c"
+    ], 
+    "OPENJPA-2770": [
+        "9e222652dff1d959a2252cf96e5abb48a11dd7fd"
+    ], 
+    "OPENJPA-2771": [
+        "43aa42ccb533212db9acf1a238d24172b18dc513"
+    ], 
+    "OPENJPA-2772": [
+        "11863ed9327c70420c2a537dafa380d3fee7b548"
+    ], 
+    "OPENJPA-1344": [
+        "87e07a9d47a05cb6ee72c80d932a20023a296a15", 
+        "eb41b03ff4263cb004d7c0695f103c7f12203fde"
+    ], 
+    "OPENJPA-278": [
+        "e286a915d570b48956e93105bb84321a89659aad"
+    ], 
+    "OPENJPA-1341": [
+        "f74e98808838fd02f31b1fb4856821920b1df536"
+    ], 
+    "OPENJPA-1343": [
+        "de47911079dab320db3f143218b80bf71b5c3714"
+    ], 
+    "OPENJPA-274": [
+        "774e7b5b8c3a07ef01fdeb5d38f1c4bb59dda9b0"
+    ], 
+    "OPENJPA-1349": [
+        "cc59e096ef9850ec1638ebcf001d558b9cfaa166"
+    ], 
+    "OPENJPA-272": [
+        "9382677eb148b417ae0328330e858cb6396c1a4c"
+    ], 
+    "OPENJPA-1605": [
+        "5de5b5136f764f222ba099ebb7f9e2ba22814c43"
+    ], 
+    "OPENJPA-1604": [
+        "90355300bbec7ad38404dee8b25e3a4eb017e5aa", 
+        "58f33c2119805138f551e2b299ad332ca453e01f", 
+        "8634acd32799725a1cc4ac52f5463df2e3a35f70", 
+        "43988aba97d8a7f3309da10edda2e9e267da1c1d", 
+        "59cdb21326c40529904cc1997db9963fd0cf4b93", 
+        "e36547dafcfd58c3de02ffc8f86d686e73b4eec0", 
+        "6f6e94df7614a48410abe9366e375abbce7bf312"
+    ], 
+    "OPENJPA-121": [
+        "d2c748d1094f295243c7a3b9efe2b937d8bc9b0b"
+    ], 
+    "OPENJPA-1568": [
+        "8f45b5bf0b20c1e371874defd0b9c20b6c0f58fa", 
+        "e2df6f49e485380d9b462b486242205fec61a052"
+    ], 
+    "OPENJPA-1569": [
+        "dab906385e2723423d5b9c243457ed2befc034cb", 
+        "33e8df53bd3ea521634391064139938a0058364b"
+    ], 
+    "OPENJPA-795": [
+        "569641f0950e01c8abbaff6e23e2739a8a2f2c9a"
+    ], 
+    "OPENJPA-1602": [
+        "afa1e44f81246425dfe9caee7fe7f4027f171b6f", 
+        "b1a2190cf331462d5c6686df87588541f5bb8038"
+    ], 
+    "OPENJPA-1565": [
+        "4f11cba18a9009cb6e187df080358c3758c5006b", 
+        "cb895a2b25db52ebe4527a8845cf5a973dd9d54b", 
+        "1b20902b507ca7e7209132297266968a92e0d472", 
+        "992ba73a7156efe8349639adcec7e714b359b99a", 
+        "f3b00d780109213bcef19166ae5d1894cab84c9f", 
+        "f04031edc128146bb7cfa52e072affb904930a43", 
+        "4be5a5a194e541059709c9efcdd07c26990ab673"
+    ], 
+    "OPENJPA-799": [
+        "e1e697da054a9ff342b720541ee3b414109861c3", 
+        "3f47c13c68f439f274c735862184cfb19c37b151"
+    ], 
+    "OPENJPA-798": [
+        "ef6e9d8cf18cb630fd79dbf277b9dacce688fb8b"
+    ], 
+    "OPENJPA-1609": [
+        "4555af14af5256c0c30d39646d69be7b67ec0ca7"
+    ], 
+    "OPENJPA-1608": [
+        "53325aed75b92802f4649333e65fa16119402fb3", 
+        "f03f7b4f61cf7470bbd690e458be189466c6b655"
+    ], 
+    "OPENJPA-1562": [
+        "6d87bbdbb0d3571cf0e28f77273b1aab0cc79a2d"
+    ], 
+    "OPENJPA-2011": [
+        "8ef3f3db35c2d6464ee28721690ff0b6f5ba55e8"
+    ], 
+    "OPENJPA-2010": [
+        "0bcded74e124d14ddd505823ac0ad479b90ac8fb"
+    ], 
+    "OPENJPA-2013": [
+        "b9e61a892316696551ff6b3c9a31cf119c6156ec"
+    ], 
+    "OPENJPA-405": [
+        "86f79ae640c19d8a1bd9ec858238434e13769d23"
+    ], 
+    "OPENJPA-2018": [
+        "336f654551d70fcf6a38a9db966c2e324c2b8c9e", 
+        "092e70e0ac381227bcf55974000a48203cecd980", 
+        "a28818b7d55ab8eed5e2440c03c63eed4419761c", 
+        "9da79359463d72a0c68087ae0b3c77e6fe8124cc", 
+        "c428609da75df0ca7bc5dfd7727ef6c4ebc99bb6"
+    ], 
+    "OPENJPA-409": [
+        "aca5f3351df8b7fae0cf79ae1ead5af2e1abdd5a"
+    ], 
+    "OPENJPA-150": [
+        "372b83736d50dba2a81f947b4bfd8220b8f62ed4"
+    ], 
+    "OPENJPA-122": [
+        "a5dcfc91fa956627c66d3100717c308e3855d6c0", 
+        "cde63a43060c630a4ec641d127ecccf05bb05384", 
+        "862cd158ed5acee7361881860548c03444d01dd6"
+    ], 
+    "OPENJPA-22": [
+        "d35bc8a306444ed25e7322d023e46c4a1d64e60a"
+    ], 
+    "OPENJPA-284": [
+        "a5d1acd44ec6f9a2a47d7fcda05bd51ae9ab9a82"
+    ], 
+    "OPENJPA-20": [
+        "2d7faf24b1827f2465ff2f818d45678dd75ca7bd", 
+        "5fc632784f03b31ba961b2ee549f0f1ef5bc0d96"
+    ], 
+    "OPENJPA-75": [
+        "b29b9b6c7619e5785d80769881a16a95503bf79c"
+    ], 
+    "OPENJPA-446": [
+        "aa5259d5210a6ba6e9adc11d37db2cc733725715", 
+        "e1dccc1872e9fa517851e54dccd5d6e264c5caba"
+    ], 
+    "OPENJPA-339": [
+        "4dae2231cc3253d8d98590476d839500268584f8", 
+        "62b3725596582caa622cd068de3f28a6bd8fa976"
+    ], 
+    "OPENJPA-1692": [
+        "961e957be0797037c474bd60865bc443f5b5fc22", 
+        "17246f5ff28123fb24069b3f3e6f2c3a5d8be81c", 
+        "703bd8db8a82c09051e5c453bd5c849bc532b556", 
+        "14cfcaa3ccf7b4229f1745b53e0b976e3aab250e", 
+        "15d2f36ab01c7af3124c9b19dcc65d100df191cf", 
+        "3905b52a90c1eebe7d95105a0043c684dfb0698b", 
+        "ea8dc8b630305acd9e680744c486eff12afb1ba8"
+    ], 
+    "OPENJPA-1518": [
+        "f50f847e97433bc508b5eff7c8e65e036a3ab354"
+    ], 
+    "OPENJPA-1690": [
+        "2f880eaacb9481688eee2ac5b596b788f9a78b6e", 
+        "939f644e775bcf6686d4e8514069799bd1fe2b02"
+    ], 
+    "OPENJPA-1691": [
+        "f455e09b4e8aae6d3422d0d1f64c21c81b568369", 
+        "3842a3d1a9de48e55abe863cb2da5f133b0603ee", 
+        "8a7ef392f3827e8d519b1076fd4d8f6c012420c4", 
+        "5a98879567c0288cd1117aa0b177091fa14706bc"
+    ], 
+    "OPENJPA-1696": [
+        "152e5d2d4fc50e8d8d946efff95c09c513b7fbe4", 
+        "493bfe0e1426297ec4dee448bd10232529722c22"
+    ], 
+    "OPENJPA-1697": [
+        "45c555606de95d37024d2e76b7b9240b0ff81156", 
+        "3f79c25dfcfae0cd6d3de56e72bd6a3602d671f6", 
+        "eac9c66b74a1ef21bf3f430ed84f83965bdc3a4f", 
+        "832b5048bd6c22f27b8015036ee2669af4192986", 
+        "d781b913d1341dff8cc9acc809f07d7c27de6890"
+    ], 
+    "OPENJPA-1049": [
+        "861db8ddd022c1b27c9ab3bf36df80cf5517c046"
+    ], 
+    "OPENJPA-1695": [
+        "efa71484df0c6cbda33b62d9c181e2d31f30ee8b"
+    ], 
+    "OPENJPA-1168": [
+        "f6413764d5b41a83003a163b74023dce8398fb05"
+    ], 
+    "OPENJPA-1510": [
+        "3b15fe9e2d66895dbdb2d722ebcae175b98817c2", 
+        "d386fa80679a41fad7b7cf5b6396f465d4d59ec5", 
+        "6bc5ff8d3ca092a8e590915f56d47d84576020d1", 
+        "db7390af622f9ac2efa56dc31f03e57904aeaa9b", 
+        "9c09bc3728e1f57ebb27f7c9995ea2b3b1c64a79", 
+        "f05db496429bd707bca88ba53758c7028913da90", 
+        "8f236c2aeb8ccdda45cb28505c81fa311c96541e", 
+        "b01f5718f9ee88246f3f771c7b63306802732ce7", 
+        "127b7bec630ba2e6afa25aed7f56934ea52c186f", 
+        "a4c8f28e2cddda6d80a3e15d3e1be54cc2812bba", 
+        "fe2c9295f430082c84a541215cd8c14e1e1f6f14", 
+        "2c397e9306ee00217289167c0440da09aeac4ed4", 
+        "1a4362eb7e01c5ed9c03b5d3125a62b680c4c004", 
+        "4fb3371debaf3e20ebe4f63d1f4f89834d634681", 
+        "8df8d0234e473bdc930be9570e8e27e837dcbaeb", 
+        "8cc89f96dcb353a3cbdd20cbca236b1b65f127c0"
+    ], 
+    "OPENJPA-1515": [
+        "d037890f7410c1d3f96d87ad876726578b43c61c"
+    ], 
+    "OPENJPA-113": [
+        "cb2a061dc7b46245b5ff4ee2478ffdb848a01315"
+    ], 
+    "OPENJPA-1041": [
+        "0daf1bffc8bef922263cee1cb5da605137fdcba1"
+    ], 
+    "OPENJPA-750": [
+        "044764a395220342b5843c2ffebd7197baa04b4f", 
+        "c49f0e17d6b1f02970acd15dee527b25784d01e1", 
+        "703a2b9b600817f96ed3d7ba1024fabf50184dc9"
+    ], 
+    "OPENJPA-853": [
+        "2309a59df503eafd89ecaa334d4964d0ea34b605"
+    ], 
+    "OPENJPA-115": [
+        "3c58b8840cfe65a2cbe4283897c846e18919311e"
+    ], 
+    "OPENJPA-2515": [
+        "fc4e1e4f58b7a2a0ac0b77c04f33ff93b23d4854"
+    ], 
+    "OPENJPA-2517": [
+        "104fce25c2d9994b07987ecec93215176337ee38"
+    ], 
+    "OPENJPA-2267": [
+        "fd4ca960502967429a242bbdbb51abd778346899"
+    ], 
+    "OPENJPA-2260": [
+        "ef2065122aec54bdee276b4e7f3777c94748826e"
+    ], 
+    "OPENJPA-2261": [
+        "e9a6d6681d59750c438ddf384e23b8f28d971085"
+    ], 
+    "OPENJPA-700": [
+        "322689a573483d14cdd807b5881f707a1ff8a3f9"
+    ], 
+    "OPENJPA-2304": [
+        "f17a08fee4571887c380e92af6fb8dd0b494560d"
+    ], 
+    "OPENJPA-702": [
+        "36abd7cb6233fdcc9aba8154e72d81c32f6207e5"
+    ], 
+    "OPENJPA-2300": [
+        "5faf53c036cf406fc804fa8949f4d8a919dfe813"
+    ], 
+    "OPENJPA-2269": [
+        "3a6ffd834f9ee2b94daa2e56514fd5aae9d93a3e", 
+        "e424097b564273b807f0637056ea244c40a125c3"
+    ], 
+    "OPENJPA-498": [
+        "92d1334e52ad95bc637260eb60b32b03598e61b8"
+    ], 
+    "OPENJPA-2065": [
+        "8a72661ea0751c25bd9adf028a41570bddd22feb", 
+        "8d21608618f0a8c626cb1beaccfd17d2a416cef0"
+    ], 
+    "OPENJPA-2066": [
+        "c66d5e1688d13c9be3c039733c192160bc064402", 
+        "201701459ab6a3fa8fd715700855f11e756436cf"
+    ], 
+    "OPENJPA-2067": [
+        "e6a8d377bce1c2b4ecbb349c8be7c836ea78af56"
+    ], 
+    "OPENJPA-2060": [
+        "16c76a0870c24d4a61a1dd191f17a155504accbb"
+    ], 
+    "OPENJPA-999": [
+        "66f829f7eb658a8563e844112b2dbfdd181794b2", 
+        "fac1cf7614c34fccd4e965c0ee2104d887bfc0fb"
+    ], 
+    "OPENJPA-2069": [
+        "b66ea198aee33e0ee432d9b5c53c58e71b58b3a1", 
+        "5fafa802aa71b6f07aa99570c9ba4e73245e937c"
+    ], 
+    "OPENJPA-497": [
+        "b683569de095f7e9d24606816f5d09d88e12f3e2", 
+        "45651cee86e2b0fd09d9ba131c25b5f668c0412d"
+    ], 
+    "OPENJPA-1768": [
+        "3a2d50e0114aa180d9b2d31bde16ddf943f5c13a"
+    ], 
+    "OPENJPA-1769": [
+        "63a24dc7bbd3a99be2d750b5e05303f78e48f6ce"
+    ], 
+    "OPENJPA-1765": [
+        "319ba414835f6b2826905739eaaa9958fd583ede"
+    ], 
+    "OPENJPA-1762": [
+        "324ca8e894293f83d34de671be46feebb7e2dfab", 
+        "0836fba1588af1a9c4f1544bd123a3333fcd4a6d", 
+        "4b19d0fa4ad20b385125b5502f886f64016d5665"
+    ], 
+    "OPENJPA-1837": [
+        "5d21297cb67dbb8d0f6a4655e3333aaf97d83119", 
+        "75bbc90899fb644387e7cba5c5c77e5e5adc8de3", 
+        "fdf58d63ba0f7bf1c844e4b5da3fb904b90cf546"
+    ], 
+    "OPENJPA-1835": [
+        "2e11a6a90be6345a3b2f5451bd00705b5c461800"
+    ], 
+    "OPENJPA-1832": [
+        "2df8af745705b0fcfea38dd1a4b38604e9d12de0"
+    ], 
+    "OPENJPA-1830": [
+        "739ee54c198fc0a284156f40299e906b2b74db03"
+    ], 
+    "OPENJPA-1831": [
+        "be183a3a94d5c1add4496473a57f5334dacc54ec"
+    ], 
+    "OPENJPA-295": [
+        "4150e7f566680cf07ab70a58faa6b12f26b6574a", 
+        "a8fc8dfa769b21bbe4534b4a4e62746f7d1f9ba1"
+    ], 
+    "OPENJPA-1838": [
+        "d99e1dff36ce235658c1ec5e06311509051ab4b4"
+    ], 
+    "OPENJPA-2425": [
+        "3b94663fe235c7254789519a3c7647a545037b98"
+    ], 
+    "OPENJPA-2421": [
+        "2841d18dda10cd57ffbff878980d15cc869fed2c"
+    ], 
+    "OPENJPA-518": [
+        "ec7bd83e1afb1f08ff8f809331526c5186f61b62"
+    ], 
+    "OPENJPA-2423": [
+        "bcf46e516c7aab1b7a1412340c09d01101b96fd3", 
+        "7a9815a15f13a9ea818d086fa94842a3fa3b1f95"
+    ], 
+    "OPENJPA-2582": [
+        "7dc47bc953782f9e486a14675a4a7c8762289be2"
+    ], 
+    "OPENJPA-442": [
+        "016f0bf61ecbfcacbbfe94a7bf5f3754440f7245", 
+        "a35b53b27f1ad9b72ac2ae715031f5dfccd9b1e9"
+    ], 
+    "OPENJPA-2586": [
+        "e5fa4e32dfb41fe5c20ec2afe0b3397a4f81f870"
+    ], 
+    "OPENJPA-1393": [
+        "f1451e5fd868eacfabaf3500faeae13f05de3e79"
+    ], 
+    "OPENJPA-1392": [
+        "f1451e5fd868eacfabaf3500faeae13f05de3e79"
+    ], 
+    "OPENJPA-1391": [
+        "be2ff16fe3ac83e54723daa4452dc71a6c1e2a14"
+    ], 
+    "OPENJPA-1390": [
+        "481bb3d6eb14697e425a673b643e6037424c173e"
+    ], 
+    "OPENJPA-1397": [
+        "b8313194431891caa284c08b62364cd474a7884a", 
+        "8607e0b3b4050a29c93c15bdd23fe676bf76490f"
+    ], 
+    "OPENJPA-1396": [
+        "c3a856faa022f43d8fe9b30d954edd46e1401131"
+    ], 
+    "OPENJPA-203": [
+        "c5d82a70d54136f47033d934e822f397f28f20d2", 
+        "e541936463b4b6be3ab05ded5b2ed224b4692d6b"
+    ], 
+    "OPENJPA-2124": [
+        "f9cf3b7919546dda9bcf62c140022b8fbca831fc"
+    ], 
+    "OPENJPA-634": [
+        "1aa44030d62809dd419f94f4d48dc353ee135952", 
+        "514a4bb907c5e6bbab34a758008240347ef11830", 
+        "545c6732c887dc77040eff00fc0dad89312d6729", 
+        "d965db72710b34fb1547dc616caedaaf75af565e"
+    ], 
+    "OPENJPA-637": [
+        "82e61ba0d578fba28ae987cafdc29e3b211a45f7"
+    ], 
+    "OPENJPA-209": [
+        "7ac8321f27ecea79ded5cfa8a7e20c6656c2e90d", 
+        "f1ac625b2c931ee1cb99e4eb98fdcbd8d523b781"
+    ], 
+    "OPENJPA-208": [
+        "0806fd5b4409f45f86af4c92a648feaee3990b6d", 
+        "af2550bb054bc9ec79aa02d9fa1953765b930da0"
+    ], 
+    "OPENJPA-1902": [
+        "502e997b9ca45fd380090e4659e75e9486ccc965"
+    ], 
+    "OPENJPA-1903": [
+        "ccc81f0ab872b8f78106e8ba1f8d95453be7c8da"
+    ], 
+    "OPENJPA-1900": [
+        "a927273cf98f33d57ccac0de89d84dbefd7c90e6", 
+        "b6024187bad23df193afcfdb1fcdf0e247641642"
+    ], 
+    "OPENJPA-1901": [
+        "52ea95686b7febacae7782817901faa54c120beb"
+    ], 
+    "OPENJPA-1906": [
+        "aae0ccfc3a51cae02d9515d3a100012987fd297e"
+    ], 
+    "OPENJPA-1904": [
+        "20c1d07a3816342f09f4103bacb730d3d86a43c2"
+    ], 
+    "OPENJPA-1905": [
+        "3de119f57a62ecdb6886cde2476232f7f12d4f86"
+    ], 
+    "OPENJPA-2631": [
+        "41827d794dc0635a71f846ecb8a213bceca4f961"
+    ], 
+    "OPENJPA-1091": [
+        "e75d1c9c95348d07f20579f268664e0fd2f737c5"
+    ], 
+    "OPENJPA-2632": [
+        "bf2ffecbc0dbd53464b91dabaa69bfcb01cef4ce", 
+        "a453aa9f462cccb99f028426298e885c25b0cee2"
+    ], 
+    "OPENJPA-9": [
+        "b4d72d5843aab0d7b08b28e0bf07859a47419c67", 
+        "787b57a486877f695c55c54f7709428df18e64d9", 
+        "1946a9b0364cfffd39b4ca625dbdebcd8042b375", 
+        "634bdc5c921382bbc0f5e5c90569b087f61138ba"
+    ], 
+    "OPENJPA-801": [
+        "1623f149725b954b779415274b6a4ed1c5b9d8c3", 
+        "62e1deae8f372545fc7c95d9bdd986886f3d7db4"
+    ], 
+    "OPENJPA-2636": [
+        "6955ddaea11e7c89199517ac0cceb5edc1eb368d"
+    ], 
+    "OPENJPA-1461": [
+        "919be02042d1d458b16c5610276e6eb0a6a0a0ee", 
+        "dad4ad195225eaa68e6e3bed942822f0ea86d434"
+    ], 
+    "OPENJPA-1460": [
+        "4c2f53856e7d886d7fd75baf4ac8887b0a520359", 
+        "4a987190d99d77dd18878423280489367bd17397", 
+        "c15f473949ca72a972dc75f61c5f0b43a9dd1e9f", 
+        "d299ac431108416d606549ec771ca5b5a26d78a6", 
+        "00c44aba43590c4e3f6dab5d71cbae433a13fdb9", 
+        "3bff9645033db9d990e80187a76b6de08e840aa8", 
+        "1049796100da5f1b082f026c73ae3bb19139dde1", 
+        "36e31ae445e15bc38fdc93bf1d887fb670eac1c5"
+    ], 
+    "OPENJPA-2733": [
+        "f9b59689d45fdc5615da6779ad097173e729616b", 
+        "0e4ec5b392b978c4515b26c60e485f2b610de94f", 
+        "80736f6e9d38dfb180c89cec6cb2916341165a5c"
+    ], 
+    "OPENJPA-2123": [
+        "fdda697583d18c53e83ddd2d82fda4acbddeb58d", 
+        "1cb2f10f6ebac68a64c8b46ffce5691c33c8462f", 
+        "cecd73b6ee1060d4d869349e527bb392d2599bf9"
+    ], 
+    "OPENJPA-1467": [
+        "a91f6d553e59d2c8a0f2c0b7ca4e4cedec33e9f6"
+    ], 
+    "OPENJPA-1302": [
+        "eded0dd8facefda2af83567ecdae12f4c09eb53f"
+    ], 
+    "OPENJPA-1992": [
+        "26aa776627e84f62767d689f3f71941a51687602"
+    ], 
+    "OPENJPA-331": [
+        "69ee1ce7f0f6b819a38128ffeddbb5c235942af9", 
+        "008b249c241dae1cc91a2c74f0621afc8947a5fa"
+    ], 
+    "OPENJPA-2288": [
+        "89b44bbf6c6a3f6554b5ac7338ae841c96e17de7"
+    ], 
+    "OPENJPA-2289": [
+        "2d5ab5c862737cf13c6a77bee4924dd959e8b941"
+    ], 
+    "OPENJPA-1260": [
+        "dac8af35b4ade56f49747380f1de3487bd164c5b"
+    ], 
+    "OPENJPA-2284": [
+        "88cc847a1cd2d4fb4f91b88b4de5a91c4b39228e"
+    ], 
+    "OPENJPA-2286": [
+        "833031ba61e2d15611f23baa9294035aa95ac9f9"
+    ], 
+    "OPENJPA-2287": [
+        "950ae7ab766ab8121fd808374929c43a107bd30d"
+    ], 
+    "OPENJPA-2282": [
+        "af3df6bd117efa2384f81a79728a1906da766c78"
+    ], 
+    "OPENJPA-119": [
+        "d826caf71175811a23214b4e23545aee7625d7ed"
+    ], 
+    "OPENJPA-230": [
+        "add6a29be4017c1cf670034811ab5942f756ce94", 
+        "15b0b59f25f755a96a6fdebf9d94a61e208ecbde"
+    ], 
+    "OPENJPA-1524": [
+        "dbe6745966ccd57b016ce50743abe43d918a83b9"
+    ], 
+    "OPENJPA-676": [
+        "b53a58f948719d8299a91584966bf2381701004e", 
+        "62a6555c8975a950294cf681ef27eed1a0cb61d9", 
+        "ce3f368ab0b7e56515803e55a399dc3f94e0f0b4"
+    ], 
+    "OPENJPA-1527": [
+        "ff71a1c093fde27bd395854c42afb59cd1a56e9a", 
+        "7f319c44739aa96d4c54262c3c87d03ab857f3ec"
+    ], 
+    "OPENJPA-579": [
+        "547438ed18be883a33b5b8175ca0e72a8225c64c"
+    ], 
+    "OPENJPA-1486": [
+        "1000f39d355943c8bfc31322f5a26ffd5a2a1d53"
+    ], 
+    "OPENJPA-1485": [
+        "7aad95a75b06f5620fb4d9ac9b50e1a8149d0e19", 
+        "54ef07f799bfd130d825eef8a39257ff0f6eac1c", 
+        "4197457c850cba65612f29bb501f0f97e3e7fcd4", 
+        "a32573481e7759f1c29fd12f9850193b8e611690"
+    ], 
+    "OPENJPA-112": [
+        "d1a165bc613d54bd9ff9baa2ca0fbca8305b70f0"
+    ], 
+    "OPENJPA-1483": [
+        "d5fb93d98fb9f896dc50178b81defc64c546e56f", 
+        "1a216e9fb71736bbcf2007c0e3a4463332280eeb"
+    ], 
+    "OPENJPA-1482": [
+        "a720a9c6f69baa0dd3bed4953fbb772b5a0a4915"
+    ], 
+    "OPENJPA-116": [
+        "aeafc39d3d198e90624fa2895918911204caefd6", 
+        "17c6580e4ce21e706513f77586372d9bf257a244"
+    ], 
+    "OPENJPA-525": [
+        "6303e9a753e205f16612bcd92ee7685446d849c9", 
+        "56ae0ae6ae48cd07156cb6c9e4048ad62df823cd"
+    ], 
+    "OPENJPA-526": [
+        "acef04f0f637756a63ec4cb532f695cbbffb2974", 
+        "b3c9553f5902ef8eec6a6891bc80fdc87e908167", 
+        "c000f0bf624e41e7f9681831a2656e02106e96c1", 
+        "833520766fb60b735687ad60f1564c76d04edf1c"
+    ], 
+    "OPENJPA-28": [
+        "bea15fff475ba4235b54925602b3ba7c53189cbf"
+    ], 
+    "OPENJPA-528": [
+        "831bd55051cccfaad51dde9923e19584d236062f", 
+        "ca9828726d333c043d4a3a97d5276f97591077c2", 
+        "a4600fbe98636abf2f72904852008ea09b8793bc"
+    ], 
+    "OPENJPA-680": [
+        "0c65e3c409fe83da4d6c91c6512307c2206047d8", 
+        "031f525d4f15b930340fed274ac4f4f8ff7c67f4", 
+        "404cbbf99bad44d769250020bc38a2f499d152ea", 
+        "352d799756bfed3eae503285fdd694d716b6405e", 
+        "4668ea4e7792f624f48a7c6c275eb2f5f05998bc"
+    ], 
+    "OPENJPA-685": [
+        "7a7957d8ccd1bfb2cba2fb933a1989406984a2dd"
+    ], 
+    "OPENJPA-1197": [
+        "8c9c54e65212503a816b203b9f62fba552528f07"
+    ], 
+    "OPENJPA-543": [
+        "9dadffffc19228783088509e22c2d42181d02295"
+    ], 
+    "OPENJPA-1995": [
+        "1148ba809d4756b67703fffb6234605cd287b50d"
+    ], 
+    "OPENJPA-1994": [
+        "849a77b5d3c2eb5281e9d5f0ec24b715e68fc507"
+    ], 
+    "OPENJPA-1996": [
+        "64bd51ea04c186b80a03cd3fb8ceb6f808ef659d"
+    ], 
+    "OPENJPA-629": [
+        "a4d905f3455ee6b6f2a594baf1961cc73234fffe", 
+        "ffbc73ffa6d85735666fd0ec98ae30f418d42d93"
+    ], 
+    "OPENJPA-1993": [
+        "8107dfbfa080dafb2dc0fcb06c5096d237334b0f", 
+        "e400abcef5f9368e384f056c4ff41efcff7cf303", 
+        "6fc7d55a09c87112d2ade2f451c0c11947f9fab0"
+    ], 
+    "OPENJPA-2122": [
+        "91eb9d4792818cf0aa0ffe43c0972bc74cd5739b"
+    ], 
+    "OPENJPA-547": [
+        "07cd1728a1148a37bb64216241d3bde4330ec5ba", 
+        "50b81e6d7706d8f28aab8110086b1d7f114c1b45"
+    ], 
+    "OPENJPA-2646": [
+        "ae4b7425274ee82ba40e000bbafcc02a2e1a2eea", 
+        "8be86a6903dcf5d6486bf5578486fdd1fd28fc4a"
+    ], 
+    "OPENJPA-628": [
+        "a6216d10db96705ca23113b68ced81b86c5712f8", 
+        "a7464c7e0a4162d4a574d3d31190b3ac11828eb2", 
+        "e41e1dd9761c718861e69afd2c44e85da02daa7d"
+    ], 
+    "OPENJPA-2640": [
+        "0ac7140b82a35e8066c4b5e4765ba341a82fb410"
+    ], 
+    "OPENJPA-896": [
+        "b546423063fe7c1889f7764393102f423a699483", 
+        "90b84c5d73db4d0d7fa3e5520358912961b59c43"
+    ], 
+    "OPENJPA-1001": [
+        "9344d03b50bfe2d3f111ac9bd1c550e9a3d41a61"
+    ], 
+    "OPENJPA-481": [
+        "d4a2929a579f5a484ee5893330bb88cc64464aa0"
+    ], 
+    "OPENJPA-1410": [
+        "04bb0664750212b332720e87b5f273310a8ed1f6", 
+        "d299ac431108416d606549ec771ca5b5a26d78a6", 
+        "acafc94a5e539c4b0bd2a3913006cb32da303f67", 
+        "9ea3fe08956adcf351ceaa6ca8fd8f7dfd4989e6"
+    ], 
+    "OPENJPA-61": [
+        "e65f53b43de6707db3515c17daa40a9103a558aa"
+    ], 
+    "OPENJPA-1413": [
+        "3f3d586c7301b1f2f926fb40fac194b6229d970e"
+    ], 
+    "OPENJPA-890": [
+        "803c4daaa437dd7e652ecc1c643d3bf7ef6a485e", 
+        "efaf681a466f83e92ef6ab75d9774fe1e1c4328c"
+    ], 
+    "OPENJPA-898": [
+        "5b558e5388dd98b3df44cc7e52a20b38684d5c32"
+    ], 
+    "OPENJPA-843": [
+        "b8ec28b38a20339c5edc4e6522a4570b2b9d570a", 
+        "500fc71ba3d07e3c453ace8c45e8d9593b458b3a", 
+        "9ab2dd6c4ab1da7438f6f0265d876fa8bf4135e4"
+    ], 
+    "OPENJPA-1737": [
+        "84d5a659b4f065113322c4f8417d0ce16ac0356a"
+    ], 
+    "OPENJPA-1736": [
+        "99332850e30dbd6f5d419754b9cc3caabb5b850b", 
+        "93c0bbea8feb8449956dd5af2799c4efb70cb8f5"
+    ], 
+    "OPENJPA-1634": [
+        "78614963a0396123e0b0594ced458094e97435e8"
+    ], 
+    "OPENJPA-1004": [
+        "f21f7b5ae5d52a2897fc96916ef20fb6f0f541a8"
+    ], 
+    "OPENJPA-1630": [
+        "1ddfdcef963583c0b085494bdfb74325f9991a8b"
+    ], 
+    "OPENJPA-1738": [
+        "4c92537fb5856d029a524c4e7842e1c63751077c", 
+        "6d8b5782c9cb1f75bbe6d9c483e4f1b54f8207c7"
+    ], 
+    "OPENJPA-1701": [
+        "a88939693be3f3b732319e5d9599348466c3202b"
+    ], 
+    "OPENJPA-2341": [
+        "82e145860457bc6d2870c03f974582737252636c", 
+        "f6ba63def5596bfe9ef9e7fb3fe84e230afeb84d"
+    ], 
+    "OPENJPA-745": [
+        "703a2b9b600817f96ed3d7ba1024fabf50184dc9", 
+        "ac40fde3f1bded71a16c8c5dd4846d81f1dc9ea5", 
+        "1e4aa60859d0a2a6ef90ab1d6c56dfb90ea7805b"
+    ], 
+    "OPENJPA-2343": [
+        "bb743b5f156b08aa750305b9e1a94369f90b1a0f"
+    ], 
+    "OPENJPA-740": [
+        "a09a2b58560ab91c2ef526ec0f10f9adcb321a35", 
+        "82694335ddfd450d60b34744a5345bebd99d992e", 
+        "1873fcd3685125c77025e0015ea0dbfbc4fc2818"
+    ], 
+    "OPENJPA-1702": [
+        "f03b417d416e292e9ba4f99632e10a137583f8ae"
+    ], 
+    "OPENJPA-396": [
+        "a1fb5b7f72e7947c30570b44feb6e0b9934d60d7"
+    ], 
+    "OPENJPA-2022": [
+        "48eaa1aef123843f822c4210f24d3bc8ca332d91"
+    ], 
+    "OPENJPA-2025": [
+        "ff4dc0c5cece716f812c2e2c36979b3756492bd2"
+    ], 
+    "OPENJPA-2027": [
+        "928aa703cba0e665bee997ba2b05703905bd0890"
+    ], 
+    "OPENJPA-2378": [
+        "2ad745381c2c60217657d1115fd9cb0d9f3a54eb"
+    ], 
+    "OPENJPA-2321": [
+        "5b21125f5ee4b57cb8285e874e3c9724bd6e2c4c"
+    ], 
+    "OPENJPA-595": [
+        "01e08029e93ceb75f24297fc3471f3afe299620d", 
+        "3f9dcdbb761fa29847e028db7cc6309966028659"
+    ], 
+    "OPENJPA-594": [
+        "df0902d4cf600a5abf4172fa86e5b4d397e7aa6a"
+    ], 
+    "OPENJPA-597": [
+        "629977fb1c2a25ba7ce2dd38fe0062866f73b48f"
+    ], 
+    "OPENJPA-1581": [
+        "bd9b59c90f575b71a7167b48fadfb35ffa61449a"
+    ], 
+    "OPENJPA-590": [
+        "63850bed0bf56ae1a6527cdf8efc8890cbeadbef", 
+        "efcc2577a608e944098c4aa727f4d4b0f5867585"
+    ], 
+    "OPENJPA-1648": [
+        "c7addd5f51598dc111e89db16160c912e159c132"
+    ], 
+    "OPENJPA-1139": [
+        "e1f290e4df135d4ddfa0430870c96800f93a3760"
+    ], 
+    "OPENJPA-14": [
+        "dcb47f0fe406c5d926c2d0e654b6690a15111cf1", 
+        "978bc40091963f9a89f08b64a4163687a0d9fec7"
+    ], 
+    "OPENJPA-1641": [
+        "7851202ec6cadd5e38745bcea4dcfb224979a78d"
+    ], 
+    "OPENJPA-1135": [
+        "0ce16aef5f434631a8cf2670e20d8db49431b653", 
+        "ac12bb4ade57471e9eefa6f66ca9521c867d9adf", 
+        "0f45f13fc297d6b73c12e3e0a0b0b155112d4457", 
+        "62be4544b36fcc2f9cd343c0dbbeb177bf6a9f29"
+    ], 
+    "OPENJPA-1133": [
+        "e3a6af8f2471c2a91e71a58db005325e55ec4e42", 
+        "4c9be63dc661abcc91b727102d8ab72f9d92496b"
+    ], 
+    "OPENJPA-1644": [
+        "b62b8fc920a056c5f259fa65322433f277ddc106"
+    ], 
+    "OPENJPA-1646": [
+        "ee299cc0bd0942ef8da2156c36e342a443bb46a0"
+    ], 
+    "OPENJPA-2780": [
+        "75999ad5d93b73d6d363364c99caac2c5e104877"
+    ], 
+    "OPENJPA-542": [
+        "fe45f77f038d058b28c4b667cf91e4e13161489f", 
+        "2d0a3c91578d9994dca0204abcb463e9fa548828"
+    ], 
+    "OPENJPA-437": [
+        "badc4b924fb4f3632b2d74439b9ee0b5904ef962", 
+        "37c4e9148a7c6246c339a8b87285b686a8d812ae", 
+        "78f5a95b2b21290f26e467de86bc97db483ee52c", 
+        "2a45dc5929232f897d20240d2891836dabff020d", 
+        "7f797f0226382b919e7353060d108d9e519e90dc"
+    ], 
+    "OPENJPA-2785": [
+        "f9b59689d45fdc5615da6779ad097173e729616b"
+    ], 
+    "OPENJPA-617": [
+        "48b1fb5a370ea5969116332cb486c95e4934c77d", 
+        "d1aa6a2c48ad00711befb7d237a435ddd1c3973a", 
+        "93417f99e370124cf2e4dfc5a8988b14ae061eaf"
+    ], 
+    "OPENJPA-2463": [
+        "d0a311efe0e6a5318f5755db8c3bea460f6a3f00"
+    ], 
+    "OPENJPA-2467": [
+        "0527c4570d0bdf444350fb12262b738ee6f61b2e"
+    ], 
+    "OPENJPA-2547": [
+        "4ca9dbd7418f4193daceccf00131f0c67dedcfe5"
+    ], 
+    "OPENJPA-2238": [
+        "5afd4e851bb1fe56de5b1b546abecd799d036ad7"
+    ], 
+    "OPENJPA-2235": [
+        "56925f515ffb13f6b9d2f242afe5d37fae49508e", 
+        "bded0a42b6a490a6cc80bc69a221f7ba7cd1b877"
+    ], 
+    "OPENJPA-2234": [
+        "e5f91d12b425a7ab23fedb49101e65a027a6731d", 
+        "94969374f623a82a8d659b763b2c987d2b1c3d79"
+    ], 
+    "OPENJPA-2236": [
+        "0506e9f0b5005087032543c3f908e7b2d07af8e4"
+    ], 
+    "OPENJPA-2230": [
+        "5eb13dbde9782affaa41e954e72decef8f3748ca"
+    ], 
+    "OPENJPA-2233": [
+        "9ce4d50169cdb45788e3ce67c5118c4a86ff7776"
+    ], 
+    "OPENJPA-2335": [
+        "d13ffa5eb3ed13448f442fa7cdc293fe56ad8ae2", 
+        "7ce7e556207f545a7bd688d4d8491a3021fa3aac"
+    ], 
+    "OPENJPA-2336": [
+        "4fbf3fc1f0a0431d29765d041e74756f319bc3fe"
+    ], 
+    "OPENJPA-2330": [
+        "326fcd7a4c930f6f4da3102e3ed24ed770d74134", 
+        "5632d5ab0abf661ba00e903ef740efc459c6a8fb"
+    ], 
+    "OPENJPA-731": [
+        "baa01d79dd0a9f35195ce46828b3f38e3faf93d5"
+    ], 
+    "OPENJPA-965": [
+        "1ece64d1df09297becfd9ff9387aec7d6ce93667", 
+        "b45109cec3f0541b97b8d436a3026bf5242f75cb", 
+        "b612d646209bc72c0948a8f7e6d03527a6bdb3cd"
+    ], 
+    "OPENJPA-732": [
+        "99dc9d8a66d0b127174e6e25913311ea3cc9d5ad", 
+        "50ff3ed6933dbd115dfc9d84551b3613ec6f29ed", 
+        "f0ad75d7fdfbe0deb4beb660e839123529082bc7"
+    ], 
+    "OPENJPA-540": [
+        "6af619cd891e793efe4c239f4e4815b89d119d49"
+    ], 
+    "OPENJPA-1944": [
+        "2cfb4f62322444507f19bb79477fa5c85a2e78c3", 
+        "c54b8ca82374c9b0626a2d28c0610ecb9b77496d"
+    ], 
+    "OPENJPA-1943": [
+        "0c37fc6e5744a8d84d9d343ac29323844f682b6e"
+    ], 
+    "OPENJPA-1940": [
+        "61f686a3002312033366aa05ea171113b666395d"
+    ], 
+    "OPENJPA-1867": [
+        "d99b9ba0341c827e69ed235d7a3f42d31673f15e"
+    ], 
+    "OPENJPA-1866": [
+        "8cfea1bd5f95cb05caebcecec0333ddd29912302"
+    ], 
+    "OPENJPA-1631": [
+        "f90b0bb16fbc181b56c7e256de771bf6f21a0d7b"
+    ], 
+    "OPENJPA-970": [
+        "ff8d46578c84df4b581976a24d51970275845497"
+    ], 
+    "OPENJPA-925": [
+        "350dcbc92a2c2fcf52abf1f7500cda0e3fce6283", 
+        "d1c23c2d9df241ec2c3247aa0dd5ef18eafaa261"
+    ], 
+    "OPENJPA-927": [
+        "deda5b3a40601bd6ce40eefef089111b19ebdc94", 
+        "3e8f626668110f4fc27b43c32938677043fe9667", 
+        "b611d3f34eff77e92aa885beb2f5a2e03aa53747", 
+        "730ff8813eed5a331787765e2beeb6e3c5155f4b"
+    ], 
+    "OPENJPA-922": [
+        "5136bbc8d33fab04e782e915bb6669599870f099"
+    ], 
+    "OPENJPA-1221": [
+        "b5e893b5a732468e147c7c5060e1141b9c6d3474"
+    ], 
+    "OPENJPA-1227": [
+        "201701459ab6a3fa8fd715700855f11e756436cf", 
+        "416b8d3ccb65f8ecf612513489ed78e5cebe8641"
+    ], 
+    "OPENJPA-1226": [
+        "a4a94f5331993bc50bf1f2168246e91c2864141f"
+    ], 
+    "OPENJPA-1224": [
+        "781654af6044d7c3854d2e9d4ace73999081ba9d", 
+        "3067245dac166500fd0cc15c445f222334afba27", 
+        "63a3408d7d291fd3c965500c33fabf2189530d65", 
+        "c06481b4527a8e6903ebe62df9c040171435fbf5"
+    ], 
+    "OPENJPA-271": [
+        "0b356dfc0dc4e7e1a80e17801ded076e8173b5a7", 
+        "9975362f1f43b4f1c7bea9d3fb02c27c03f098de"
+    ], 
+    "OPENJPA-1125": [
+        "d7a6e1a08b976fb1363599412b7e13258f865999"
+    ], 
+    "OPENJPA-1819": [
+        "a4080f46f5aa1b420e4910209fc0eb737624dba8"
+    ], 
+    "OPENJPA-565": [
+        "810e401dbe638f655e9e72cd52e0209853a7a0b6", 
+        "5196ae0bc27d4d50ef468aa9b5334155c89a8dcb"
+    ], 
+    "OPENJPA-567": [
+        "d78e76aa5addbfdfa92fa5fc93142c325c250ab1"
+    ], 
+    "OPENJPA-562": [
+        "18a3db781b0e3275f83f9cd4b014c06f8f43af47"
+    ], 
+    "OPENJPA-645": [
+        "8c8cd98a655144d072b6849eb42108435a3ebed8", 
+        "2b3f7ec90c3a834917232f4cdf27d00d0f62905a"
+    ], 
+    "OPENJPA-644": [
+        "e3dbdac15947253e9073840e3759603e82380188"
+    ], 
+    "OPENJPA-647": [
+        "13e48971736a7727f65293895c175ef992c30d1e", 
+        "50aaa9764abc4c606488b1c0493403a351b6a26a", 
+        "1ad09239b378a4c495a8a35cd61cda8b807b22d0"
+    ], 
+    "OPENJPA-646": [
+        "079aa06091a9337a1f5087f904c332d590659c82"
+    ], 
+    "OPENJPA-386": [
+        "f06d862ec60cd1ab679152e0c7c6588c3b6282e1"
+    ], 
+    "OPENJPA-392": [
+        "22e5530d0c819cfdc15e629d3c92657c8ed992dc"
+    ], 
+    "OPENJPA-642": [
+        "976a5e1faf9df64b40ede8586c345def1454cf4e"
+    ], 
+    "OPENJPA-2161": [
+        "432499a3a69acdd985b321fd9ef3101430fa7b54", 
+        "b2cc17c13581839173dae4986ba1005bedf6f454", 
+        "3d04bdd463e3e85a02d0c7be1acfd72a1ce17f03"
+    ], 
+    "OPENJPA-2163": [
+        "e9ab0d7cec9e81fae5423cb4b4f3a0a209a51dc6", 
+        "42372cf6094fa8e32ad9dd31d1bc79a839f45ba4", 
+        "284b6e5ceda27eb678399930bc49e028e2e2a39b", 
+        "f506835fa810c177c8c93a7d0ef24d05570b21fe"
+    ], 
+    "OPENJPA-399": [
+        "6a26ae253154f94e39fbc686f636d8fb4a47d08c", 
+        "a20d36c121387f0e2036069bbcf6a4458d3849f1", 
+        "2d6fbb5d13861f3b2f28fbd2ad7b604a19c96904", 
+        "151cf2d034e904110ac1d19747319034943753de"
+    ], 
+    "OPENJPA-2600": [
+        "3f040fbe1da7375a3bc1bf95acc52d6f1431918b", 
+        "a51d3c5c7b02af5ccb5606685d01f1785b3b79c7"
+    ], 
+    "OPENJPA-2601": [
+        "41c05d1bbe5f3b5c5e103ff7ae63da1fbe1b8448"
+    ], 
+    "OPENJPA-1892": [
+        "73cd30152044f4fc56f25eb4b64529983dc9b0a1"
+    ], 
+    "OPENJPA-2603": [
+        "977ba12bfafc3de8042e93e162985d003cd6a641"
+    ], 
+    "OPENJPA-1894": [
+        "7178dd3f002380aee3205d83150c0d9a2d135ae4"
+    ], 
+    "OPENJPA-2605": [
+        "e98845758db72b188e9b73029266f45a8215e2de"
+    ], 
+    "OPENJPA-1896": [
+        "caeb66ab25f06be62007e086b38b6d03f1eb5a3c"
+    ], 
+    "OPENJPA-2768": [
+        "40d19ebc6cf56ab60e6adaf22044162bbed5c8a6", 
+        "c1d9fd3c62ab40a893749ac3338b3ed20ddd6567"
+    ], 
+    "OPENJPA-2767": [
+        "389a82db97b96bd2bf6b519afdc64e833f5c0478"
+    ], 
+    "OPENJPA-2609": [
+        "28da3eaccfb62847285dc270318dd2fc873afe6e"
+    ], 
+    "OPENJPA-1452": [
+        "3065f2febb333b4680ccd5649ece87dc2592afa9", 
+        "6710465b7c66b61222d7c034022a143c93586225"
+    ], 
+    "OPENJPA-2764": [
+        "260042ba5184f1f415f2f0975e3449f13611b84a"
+    ], 
+    "OPENJPA-1455": [
+        "b08a0d179bb3fd690da18a2556e9ccc09dfb2c0a", 
+        "e53378bd2697a023a2be5d4c9191fa80c3411800", 
+        "e303892e2a16cc50785f37b951d047e394bf08ac"
+    ], 
+    "OPENJPA-2761": [
+        "aae0a95f6c8f38e0df18e5f538761ee502d9eb08"
+    ], 
+    "OPENJPA-241": [
+        "98802147f761d93873462aa6aa0038a8926ec421", 
+        "8cfa25c524d914ce02eef0df7435c8199931ff32"
+    ], 
+    "OPENJPA-1810": [
+        "09dab24fcd5b44519db55fc0ab3d51b6e1446c8d", 
+        "ad98d444e1f43922ac61a25ae57bd7ccddfc6178"
+    ], 
+    "OPENJPA-1355": [
+        "2ef5d26a8ead4d86219aeb533f83f54851357ac5"
+    ], 
+    "OPENJPA-1354": [
+        "3ec0fbf66fd6fd433d25e9884e2bd3453e78f1f4"
+    ], 
+    "OPENJPA-245": [
+        "b589da8070870f1ed50f8c50c715962323220ed6", 
+        "2a612c105315ff1b994a868505a65523e19690b0", 
+        "4d9a6759db880b67adf9cd233528da021524dc99"
+    ], 
+    "OPENJPA-1352": [
+        "79a4b76fdf0038f2460f6a5c828ab1e04ddf67ae"
+    ], 
+    "OPENJPA-1351": [
+        "65d2ea8b1922cae9f68dddbdcd1e8e1212a62ba4"
+    ], 
+    "OPENJPA-1811": [
+        "cccd4c799d683d9beb78e9ed87c4974ca2b8306c"
+    ], 
+    "OPENJPA-1127": [
+        "8ab85903ff1db66396d13f8f05c1ff8b120827c0"
+    ], 
+    "OPENJPA-1294": [
+        "8abf57d913548526a24da7e321de62b45d03ba54", 
+        "6b96b82d31027452ceb1bfdc1e6a6fa42f7ca7f9", 
+        "5120b0e629a208ae7dc9f7f049e342ef15c2ea7c"
+    ], 
+    "OPENJPA-1295": [
+        "558446dfe975d67e530e8ec35df976d605d35e0a", 
+        "1aab5c3c6cfa9876161ff4b7e307012c7ee0b406"
+    ], 
+    "OPENJPA-366": [
+        "cafd3d7a62acc533e53a059e8685e0f7d5190e5d", 
+        "03d19774c2c6a63b49a3b95f5b3095af146015b3"
+    ], 
+    "OPENJPA-1293": [
+        "531df90e41e5c80cce3129ef45455e2efe3ef272"
+    ], 
+    "OPENJPA-364": [
+        "861e3971960d8b570c725d6c0bf7ce2d2ef59321"
+    ], 
+    "OPENJPA-365": [
+        "2988f75fc32af9baf16c1978782dfed6dcc37076"
+    ], 
+    "OPENJPA-1670": [
+        "1c01e8da2a9d37f885b7693b2e758608c04bd10f"
+    ], 
+    "OPENJPA-1676": [
+        "d5e876372dc1974dcf597820f811139d1f294bb6"
+    ], 
+    "OPENJPA-1578": [
+        "1b20902b507ca7e7209132297266968a92e0d472", 
+        "845f9b50187f2a14ceb3826561945edb8742988e"
+    ], 
+    "OPENJPA-1678": [
+        "7028247229f380be43d34038f877eeae31a657fe", 
+        "6b38f0cb8eb9362b103b33c1f1b646876f872a92", 
+        "323ebee840e6274e3023ce20417c13dc738c6d2d"
+    ], 
+    "OPENJPA-1814": [
+        "cde2a4aaf278bc552f81158a6a573d15b775369c"
+    ], 
+    "OPENJPA-1575": [
+        "efa6e5428e6354c83825cb038dd1cf9ecfd8364f", 
+        "d1b0d0fd6d376a381a0e7b6fd0f87b5222a86c69"
+    ], 
+    "OPENJPA-1573": [
+        "a5ca9aae2d5160fb463bd7a619e999732d222f31"
+    ], 
+    "OPENJPA-1570": [
+        "0b73d9f1a90ae9cfecdbf8d6372dc02a66ef50e7", 
+        "d69fb9a65af2ef739981033a7e755f6b6bde7e2f"
+    ], 
+    "OPENJPA-410": [
+        "ba6274a19e6255e384c27a0d6cf9ffe5290beec0"
+    ], 
+    "OPENJPA-143": [
+        "6cd259f310fb0feab604805ffd0578e85513b64c"
+    ], 
+    "OPENJPA-413": [
+        "b50c73f35711d2d965dfa4fe9918f14504d628b7", 
+        "35fb37ea380649a203db65d78c972f1206a509b9", 
+        "8a67bc28130b71818bb704068468b4c27d06addd", 
+        "92919929f81a32dd451c1f2116dbbcf4acff860d"
+    ], 
+    "OPENJPA-146": [
+        "1b446958f5699c2adecb3163ab9ce44b873b2f57"
+    ], 
+    "OPENJPA-415": [
+        "1af3d93ca73f0b315d11229dab94709c235e164d"
+    ], 
+    "OPENJPA-416": [
+        "9e5cc06fcb99006eea60d88c91451b2ea86331ca"
+    ], 
+    "OPENJPA-419": [
+        "e487d35da68bc0332546d1a16f0cdc9e9baa64f0"
+    ], 
+    "OPENJPA-148": [
+        "bc0c353ef0533d23863758c4bb5fce9008f2170f", 
+        "04397f562eeffeeb521527f12bfe9ab8bb83a93e", 
+        "e422a7d179d7f153927f3685acab59c1dcefb9fd", 
+        "2f4cafdcfb6f0333538602b794a11e084d19cd3f"
+    ], 
+    "OPENJPA-403": [
+        "09c894a368c7956e2490eeadc2002a6612ebbe8e"
+    ], 
+    "OPENJPA-186": [
+        "3a5d06436c7528885763e69ae6eee539fedb668e"
+    ], 
+    "OPENJPA-2118": [
+        "11cd0d5fd417abc6fff78bc52b124968cebab4f3"
+    ], 
+    "OPENJPA-2119": [
+        "98859e2006bcbbe02723438788886abeb3bf0fd9", 
+        "824753b36cbdb20539f28959a7b2d399475d0350"
+    ], 
+    "OPENJPA-402": [
+        "cc5e5a36fa28670e6e6bb1a74eae359a2c6cd8ab"
+    ], 
+    "OPENJPA-1685": [
+        "9d33fe34b8cf330a330c7d70162c23f16fdc436c"
+    ], 
+    "OPENJPA-2117": [
+        "ad41647b999b239e7e7add88210ca20b1e0f6bf1", 
+        "11dc47c80ab3883b2da6eabd38d3af6130239fc7"
+    ], 
+    "OPENJPA-2110": [
+        "b7bd2c873dd8bf84fb94ced1528e4c09ebc46249"
+    ], 
+    "OPENJPA-401": [
+        "b92f6420af0222aa71877aa737d3456f000bb409", 
+        "5472692b411e87032a95e60ea0833b35b94695a0", 
+        "5472692b411e87032a95e60ea0833b35b94695a0", 
+        "31e436df3c015ff70a0ba4fa8e0ec493e4cef358"
+    ], 
+    "OPENJPA-1683": [
+        "f03598fe592eb44ecace70cd2dfe7bfd79115adb"
+    ], 
+    "OPENJPA-1682": [
+        "79b9583a46d744f7d46e50de383eaaf573c8fa9c", 
+        "fafc33b3cd1cdd5a2060990c30e5f9b26435368f"
+    ], 
+    "OPENJPA-710": [
+        "a60fab2d7eef3c7cad40ca7c598e1f90ec2c01ad"
+    ], 
+    "OPENJPA-1174": [
+        "9a4406038e22e14cd9a5b6ac96bb4cd2244dcb6f", 
+        "ff932542e851f486df77726ee5ea2c9fe65a901a"
+    ], 
+    "OPENJPA-1072": [
+        "3182ed978e2ebd4d96d5b2f2af6295a446cb2ad9"
+    ], 
+    "OPENJPA-1588": [
+        "43c4cff942f56fafcfeda67d7a0a25349066b90c"
+    ], 
+    "OPENJPA-1070": [
+        "719777606602967a4767dfa549a0df08f3c3bb48"
+    ], 
+    "OPENJPA-1074": [
+        "a7c0b3e918f34cf715d70a095db781ab15b9a55e", 
+        "49596dc4e61534de612f34573db3167e05ddf6d2", 
+        "3eff16e07afd3ce6252574ded5a54920b2965c1f"
+    ], 
+    "OPENJPA-2508": [
+        "e48cd3e59d82ce352d161109987f283ecc369b66"
+    ], 
+    "OPENJPA-596": [
+        "b3f87ba1ec0288c6b6dabf2c15c2a8c5c66f9cc9"
+    ], 
+    "OPENJPA-1704": [
+        "a7c61414caff614cc33c664357f93394ca8f1744"
+    ], 
+    "OPENJPA-2502": [
+        "b95e0d1c6c2e2cc8f6f9d422058dfe232f6091d5"
+    ], 
+    "OPENJPA-2507": [
+        "da48a0ad537df1e824471fa80c77062f77030ce4"
+    ], 
+    "OPENJPA-2506": [
+        "0a91a631b85b614790404896d190119d062f590f"
+    ], 
+    "OPENJPA-2505": [
+        "86c478ac0750801355f256e94306d13bce9e0c65"
+    ], 
+    "OPENJPA-2271": [
+        "9f128e3286913f04597b9263c5d2559361138442"
+    ], 
+    "OPENJPA-439": [
+        "80269d0f1932a57779128c7c3c9432a646bebd94"
+    ], 
+    "OPENJPA-154": [
+        "09e7aab7778db72e6412625f39a9557d6a2646be"
+    ], 
+    "OPENJPA-2374": [
+        "5ce1ec400e2e3d47b999ebe1347b985bdff34cd2"
+    ], 
+    "OPENJPA-157": [
+        "82a62a6b7800f0c218102c62232667390ef1d071"
+    ], 
+    "OPENJPA-733": [
+        "83f526a3f086e90241efa89da88f9525d368c6aa", 
+        "ab424921005d872958cae6583a44af1e089b65d1"
+    ], 
+    "OPENJPA-2377": [
+        "937aad666bcf696fdd5e47c281b09e527f721881"
+    ], 
+    "OPENJPA-2077": [
+        "050092efc63da43256c1284b60f1576bc44b8829"
+    ], 
+    "OPENJPA-2076": [
+        "e6d667e6db7f0f42aa4948d9ac3d438e6fca17a2", 
+        "e8aaaccf9c7912846e95a30107d9a259fb1bba99", 
+        "64f37134fadde406f30b8c541da9add67d71fad7"
+    ], 
+    "OPENJPA-2073": [
+        "f70dd22afb4b2da8b4d731ca41b96222cc4f4d59"
+    ], 
+    "OPENJPA-2072": [
+        "5fb9e7172681211588a526257d8c5a1bb5111530"
+    ], 
+    "OPENJPA-2071": [
+        "d64a3e5fdbc286694ad644ab0dfc460307cd1159"
+    ], 
+    "OPENJPA-2070": [
+        "db9849db29a9f79d97884a2d6fae2dd0f9f23db1"
+    ], 
+    "OPENJPA-1986": [
+        "030ba2a41f99771c230aeec856701928a4768de9", 
+        "f81908f3ac80c9c89c08c034e05eda20bb7f1b21", 
+        "c8c6c9d68c11f7313972891ff9f40708e9dabe2f", 
+        "1b8ce008b291714ce06a217d607d9ad8c8e8d279"
+    ], 
+    "OPENJPA-1770": [
+        "3b20d750e73919118acd035b194cbe9ad64e7fc2"
+    ], 
+    "OPENJPA-1828": [
+        "60e88f82faad894eddf23dc3a71c537e02baf4f1"
+    ], 
+    "OPENJPA-1558": [
+        "dd210a2831e005f3f51ec85b00ae56699ecde27a"
+    ], 
+    "OPENJPA-2437": [
+        "f4b2428008de297a7f993f48e1a6c98761c078f3"
+    ], 
+    "OPENJPA-2435": [
+        "83dab92168a533f757bcce390661a09a595b94a2"
+    ], 
+    "OPENJPA-2432": [
+        "a3fccb40e3f0e3708932f13e99fc52596eac592e"
+    ], 
+    "OPENJPA-2204": [
+        "dde88d592c553549c51e88a30bd952a87f0c6c7d"
+    ], 
+    "OPENJPA-1132": [
+        "5d1bd85ca843ab91f666129588621d6a74c34f5b"
+    ], 
+    "OPENJPA-397": [
+        "8c6e31a1d98955516d9d66e292a186069cf1b13d"
+    ], 
+    "OPENJPA-530": [
+        "f67ace749ae8e55cd9dc85b5c989353ea4b05899", 
+        "64402ea7daab354dbffa85e029dc7df739c1df66"
+    ], 
+    "OPENJPA-288": [
+        "99950ad3ff9d4d9adbf104dab04f3a3e036e384f"
+    ], 
+    "OPENJPA-353": [
+        "caa4b76fe246bebf47ada251d5e84e0ada35b2bb"
+    ], 
+    "OPENJPA-602": [
+        "63c48992274fce84b2c08bf8bbe6df024736557c"
+    ], 
+    "OPENJPA-605": [
+        "b2bd03567df6a5f3b936f65288bd84df9ebeca97", 
+        "99a69bef3315bc0434be8a54281b3f1802fbe6f8"
+    ], 
+    "OPENJPA-1918": [
+        "06c3ec64586a862f056b8dd951db890dcba2a582"
+    ], 
+    "OPENJPA-607": [
+        "47f681a7b504c0a5ebed6e7bce44bcd1f7d236ae"
+    ], 
+    "OPENJPA-606": [
+        "81fc3ab6051257667d115e120de98ed650d4d54d", 
+        "8a56c75597fbc4d7ff1291e1a7ab9947053b6180", 
+        "689eec175b9b0743785fec5db31cada6bd1fea59"
+    ], 
+    "OPENJPA-1915": [
+        "933da55ce52a5cc0c5cd01d53244e02a9a59b9a5"
+    ], 
+    "OPENJPA-845": [
+        "1580b38bee30b04c282e224d2a19d7739cc3e174", 
+        "94efd58dd9e258e2de7436c767f179e136c49dfe"
+    ], 
+    "OPENJPA-359": [
+        "c4af04617ebb18551f6cf57e80b798e110da18a6"
+    ], 
+    "OPENJPA-358": [
+        "8d161ff99e1e4f1f0bfa4b2c5e590abc590df42d", 
+        "7c07cc6d1da3313455114ffe00b120ab8d1a2ba6", 
+        "6d5fe3bb8ada4d0aceb5d6221140637dc60ab47d"
+    ], 
+    "OPENJPA-1911": [
+        "933da55ce52a5cc0c5cd01d53244e02a9a59b9a5", 
+        "c39cd993fa0927b1efffa286f324959258fa79ae"
+    ], 
+    "OPENJPA-1910": [
+        "c8b5c8350e2d8d7dbee3e338f9ec8f4966c5f68d"
+    ], 
+    "OPENJPA-1912": [
+        "fedd2f776257a563448c8a3aaabd8afc2232b608", 
+        "261917b3a002ab7b506d4afe23f34644cd08fe42", 
+        "b20b8103e02ce0c7b08bfb8cf32d97e5aa1df415", 
+        "891ccc625c6126e7d2b9a50be5d468927151b74b"
+    ], 
+    "OPENJPA-622": [
+        "8a80d753a31e71ce07f24e7069b7ff5e71e30c03"
+    ], 
+    "OPENJPA-1856": [
+        "04b1abb0393fe8f7186b507650b5bd279576bc9b", 
+        "7c377a90434f30c555a60bf2d9f5345d798b8bd2"
+    ], 
+    "OPENJPA-1857": [
+        "c3c97f7cf3477d92d94e792e8aa8bdbb36991df3"
+    ], 
+    "OPENJPA-818": [
+        "b45e0655df38e7e122f67290b65325f4d8336301"
+    ], 
+    "OPENJPA-1054": [
+        "0d6f1a02143b3fd12342fd783f0438d764759645", 
+        "3c88ac3d20d871db3535a06d04735a9f7d2a7874"
+    ], 
+    "OPENJPA-1853": [
+        "c9bad3efcd992737adbd3df6db91b11794a1228a"
+    ], 
+    "OPENJPA-815": [
+        "55b1fa6cd377b1e15ffff6b8b65eb94c241e02a5"
+    ], 
+    "OPENJPA-811": [
+        "ef7f18f30c168b1cb4b046bfde99ac23cd9ba934"
+    ], 
+    "OPENJPA-812": [
+        "1104ca0fd94988a2160eae77037994d956fdf5f4", 
+        "5bf35c3a409e2f4940b32ed8ea2ed419de4f6015"
+    ], 
+    "OPENJPA-90": [
+        "87b5ae1f4fdb4eec9040b0f1dee729c3507ea683"
+    ], 
+    "OPENJPA-955": [
+        "cae33419ae4aab79500a8d574ff7873f005a955f"
+    ], 
+    "OPENJPA-951": [
+        "9d3a7899be4473e287831628fb20a336b36c8620"
+    ], 
+    "OPENJPA-2725": [
+        "14d4b8007cddcbd6197404f7ad435b9b514b2859"
+    ], 
+    "OPENJPA-2482": [
+        "51e2b70be5d42530dbb97cae436f28968c7f1182"
+    ], 
+    "OPENJPA-462": [
+        "c00f3b5b788775703494a1566be6529d70e4f724", 
+        "38f41d870ee28de236a4bde5fa5331c04771eebf", 
+        "a54f84262450b1cafe497ed0b058f1e9bd5f31bc"
+    ], 
+    "OPENJPA-326": [
+        "071a9abbbbf852ddd8fbba083d2b139e4b340dc4"
+    ], 
+    "OPENJPA-1253": [
+        "c8d1003612cd9845c5e6df4f2c27c10d12c02dae", 
+        "174f2af0ded2b32e949724b0027263a99d484960", 
+        "bb3e1a5185dade67ff4e7e1ab6a3a3a6255bf3c4", 
+        "9eeb4b2fbd89570410fcfc165640852353b6c6d7", 
+        "9f29552e858bceac4e69e11547db9118d228461d", 
+        "ef54e75107ffb98f144f86937a292330a11fb823", 
+        "7d3497781c1a9660863e9eb10ada9c2ae107360e", 
+        "067a6f0ffb8d51201614adace89568473ad4147c", 
+        "6f1b9627fe928732b637e409c95669fd0cc94746", 
+        "19da9769b0b11017a169f84125813ecae51a3458", 
+        "5c23058b0ea70d802a55cdb3f94722138d75910b", 
+        "cf7f69bbd57fe1f40f9c7341c10788a591278777", 
+        "8c1e1a7ea57a3ebb21757762696ef9592022c71d", 
+        "72f2cb8516ee11accbb4cda1ed7c6d8479b79ee2"
+    ], 
+    "OPENJPA-1250": [
+        "c35c13497b03903fe2aef6a5f96e37a9642a627d"
+    ], 
+    "OPENJPA-1163": [
+        "7658c64e1656af28b965e2a6f1a55918951d38fa", 
+        "5232b727949d00add9cb61e153cbbcdc9e13c769"
+    ], 
+    "OPENJPA-1256": [
+        "21d88cadc79848e5c678069478a036fbac439ddf"
+    ], 
+    "OPENJPA-323": [
+        "0a40e8c9a40d16300a94f7c46de76129327ee810", 
+        "6316c57e975766d06575ad8a0a9b4dab9561bc1e"
+    ], 
+    "OPENJPA-363": [
+        "1242abf2d5464c4048fdb62a17f7cee12c190798"
+    ], 
+    "OPENJPA-2298": [
+        "7d897d94ce41035bd8b8d1dca47d6bebd4243e0b"
+    ], 
+    "OPENJPA-118": [
+        "2ac1bcccbb4070da2c86bfee4c7368d9466141ca"
+    ], 
+    "OPENJPA-329": [
+        "18e83a09b18fde4721af69123fd4c7799bcca00e"
+    ], 
+    "OPENJPA-1533": [
+        "05e0669c0725cb01d125af9cc04032e2bc834990"
+    ], 
+    "OPENJPA-458": [
+        "2ed656a2a0bdf6bc719fab7d7870974fbe8b1fbc", 
+        "a8e0dc180e8b360c4e72eca7c131b2826eceaedd"
+    ], 
+    "OPENJPA-1536": [
+        "ed2940d54731bd83e864eb0b74e0dadbc8cdab67", 
+        "ea49b4cc6abcbf3cb38468a01df4187151fa5498"
+    ], 
+    "OPENJPA-1535": [
+        "daae61a6f50a98dddaf649d919d2a46e55567802"
+    ], 
+    "OPENJPA-455": [
+        "55720f220bb769a21cb3161f240a9f7937d27dd6"
+    ], 
+    "OPENJPA-456": [
+        "45eb530812221b3e2b0a4d095a703ea4b95a6f2a", 
+        "e503930afa3b607e55818d38f11ff9205553807a"
+    ], 
+    "OPENJPA-1538": [
+        "d96883f5029fdca609a5871e1641433a01ec72e3", 
+        "4cb276067a472a4ff08636c208fff523bd38dced"
+    ], 
+    "OPENJPA-102": [
+        "4f0c54211df547e848b6a7605b2f255563634fda", 
+        "c7128669c7e1f439f45c62d07b58e8add38343d2"
+    ], 
+    "OPENJPA-103": [
+        "bb7bf5940928786ce650ef9e3f6c0fb4c84d57ce"
+    ], 
+    "OPENJPA-452": [
+        "4140d243a4b4c65cdaa9d43589c4c25263cbdb2b"
+    ], 
+    "OPENJPA-516": [
+        "caa400cbb335869941d547038008b23f6a7769d5"
+    ], 
+    "OPENJPA-511": [
+        "0033a6b3d97a468fe7c08a6cb46a66fdd57a0da3"
+    ], 
+    "OPENJPA-698": [
+        "04c292c761a2fa8563dc66bea702ed381e910cec"
+    ], 
+    "OPENJPA-699": [
+        "3fe201a5425f43b293b42a5bdd28678957582e21", 
+        "8fc909c19cbbf27f1b2e5168a6b2dadd40024f95"
+    ], 
+    "OPENJPA-696": [
+        "8cb451d1dfefe4f4d67332cd055310cf29b0b3a8"
+    ], 
+    "OPENJPA-697": [
+        "939b122c09432e54083d751469c56ad48aff9fb6", 
+        "aa1516f04b61ae6c10253ef06b853970e1efe5fb", 
+        "62c0cba64bab3d23a4d59bd70e97910d0fed5322", 
+        "f0126e921f716ce057b9f72e52868dae0b323a48"
+    ], 
+    "OPENJPA-933": [
+        "4d1b86e86040a38395e3bcb09fcf059ef161f05f"
+    ], 
+    "OPENJPA-692": [
+        "ffb59c35fcd7b8d6adf658bc794bcaff465ced32", 
+        "e7c3df714b731eeff96af2c3347948aef5020a03", 
+        "6dbe8a9e57ee2a66d2b760e4114761332ada00f3"
+    ], 
+    "OPENJPA-693": [
+        "d435a69c6b8a7580a364e425fc18f2797a7388b4", 
+        "aae12606650335c92930c6a369d799828bbae058"
+    ], 
+    "OPENJPA-389": [
+        "fab1a92046f60999aa6428f2f27a9fdf1056bba4"
+    ], 
+    "OPENJPA-2153": [
+        "b68cf1d0fbebcc08561fbdd4d32d4d11ae6f0c73"
+    ], 
+    "OPENJPA-2154": [
+        "ca7918e88c50bf2f9e120759c596ace7b70c445c"
+    ], 
+    "OPENJPA-2156": [
+        "1d71976c8f38a7f56efcb70267a5249337a77981", 
+        "7063dd52967a0c8532624e4e0ae849a0be39b81f"
+    ], 
+    "OPENJPA-2658": [
+        "98b7a4f9eabe56b517f0274f2ccedd1dfabdbf3d"
+    ], 
+    "OPENJPA-2158": [
+        "1925881f5d7a48764db727f30a947623c823df36"
+    ], 
+    "OPENJPA-71": [
+        "0b90c67a8bb2932037c4311e8afb7d85a6c3902e"
+    ], 
+    "OPENJPA-70": [
+        "5c4a8c7e73e3997f69969f0ae0315dee57bc0a26", 
+        "0a96982e61dadc190d809790e41da922ba715bfb"
+    ], 
+    "OPENJPA-77": [
+        "6cb121e192041b65410fa2af968921c908b14d14"
+    ], 
+    "OPENJPA-76": [
+        "05f7fac8637ae3f5c524e1aaf35ebd4f09798db8"
+    ], 
+    "OPENJPA-2651": [
+        "4afdb070427b8b3f2ac3f18c9629d9509727de20"
+    ], 
+    "OPENJPA-2650": [
+        "843398ede455d5ea3183f573c8d8a9801855af1e", 
+        "68fea1a51cb8a553127ce33f38ace2e3aaa70729"
+    ], 
+    "OPENJPA-1406": [
+        "db10ada93e4990c41c7f6704c2d40c3cffbd97a6", 
+        "94a1323dfb8852fb8bfcc7dcde9a029e579b0872", 
+        "7c613e69d1b26903589801c66be412014e740627"
+    ], 
+    "OPENJPA-218": [
+        "19371ce1747cfbec0f6ab22241e28304d27d59c2"
+    ], 
+    "OPENJPA-219": [
+        "0e7feca04a29f354abc476d55252bab968a87f3f"
+    ], 
+    "OPENJPA-1401": [
+        "a0e95fb993b33ff75d528d5e96c71b4f27f2f505", 
+        "9e8b0ded0b5c204f3de3df3abb8f79b44d9f7421"
+    ], 
+    "OPENJPA-1983": [
+        "045818b05df6886bb4176bb4878007e8f40e92a6", 
+        "354eb3078e363ab26da64fbea06bd24d5a1af8de"
+    ], 
+    "OPENJPA-199": [
+        "1bded00298c66f51c8814b6391c32e3721495ed2"
+    ], 
+    "OPENJPA-210": [
+        "7ac8321f27ecea79ded5cfa8a7e20c6656c2e90d"
+    ], 
+    "OPENJPA-1409": [
+        "2353db803d1f862a2b1a30052cc56346ac59cf06", 
+        "1aaa1aa08647c357a406ecee42e6b2439c60fb27"
+    ], 
+    "OPENJPA-2542": [
+        "b48106b0720d6ae199da5391aadcf3d4b40c5d13"
+    ], 
+    "OPENJPA-1740": [
+        "44a7674d6ef00a358a9d8d51c7a5fc219518c34c"
+    ], 
+    "OPENJPA-1742": [
+        "30ccdd8dab561bb535878f397a8f959a0a46565f", 
+        "e65477c9fa66bb97ec4a09d41d17345f04a59980", 
+        "ebd30a7cc7a59f78a25aea3161f7cc11bedef084"
+    ], 
+    "OPENJPA-1981": [
+        "d5e20c4a115bf69a48adb29e7791f56f82993579"
+    ], 
+    "OPENJPA-15": [
+        "582c83b29b9e825ab80208737e1d4c88bb7859d5"
+    ], 
+    "OPENJPA-1746": [
+        "a18edf3f92670bc100eefed84523009052db4cbd", 
+        "40e05de74205a5a8b5cafdc0d8f1cffc9223dd95"
+    ], 
+    "OPENJPA-222": [
+        "129360ace992869aefdde406527456c51a550686", 
+        "0f66458d4c1f410e9c71aa7ccac54c7427f27f8d", 
+        "30f204251018ca448a4e66c7b3d000fa67c69d85", 
+        "0df6a69703ffbbdbc2cdc715d09c6969d69bf7a7"
+    ], 
+    "OPENJPA-1627": [
+        "8a034d671755a672ce2c77af3830c97c1216b5b7"
+    ], 
+    "OPENJPA-1749": [
+        "e97e42b3eb5a3297f60e4c9a816d8dff8a8f9359"
+    ], 
+    "OPENJPA-1625": [
+        "689f42f7aa657402ae217c81dadee45b2e86c967"
+    ], 
+    "OPENJPA-774": [
+        "68d48f948e8bf1f47648179fe0680040d1f23b1f"
+    ], 
+    "OPENJPA-777": [
+        "ead852dc38f623f3ec4cfa8a20be71a368211762"
+    ], 
+    "OPENJPA-142": [
+        "b5bab78e043329c97b0ddac1558bd595e5a522aa"
+    ], 
+    "OPENJPA-2039": [
+        "ea499a8ed6331f519ec492dfab5618e7e7155dc4", 
+        "e03262481396bc5246ef21e50234a84cd2085764", 
+        "42099529a25c8a49622f332a7db208af9352e327"
+    ], 
+    "OPENJPA-2038": [
+        "eb7fb7421fbfbd5e4e440c03472d113e7db3f6de"
+    ], 
+    "OPENJPA-173": [
+        "a044af3287e0ec164de9d0b6841998369860045f", 
+        "d5d214c1821cb78f4bf644cf0c1fe2d5cb092f69"
+    ], 
+    "OPENJPA-1156": [
+        "8730eddc2955d48e38d831f988c1bfc2d5e6e314", 
+        "a1a94144bd0a9a26edcd0209e884b364782fd5d7"
+    ], 
+    "OPENJPA-2036": [
+        "4412599698c8223bb71d1eeb455c1307ae0e00a3"
+    ], 
+    "OPENJPA-175": [
+        "ae2d8685e1221f3a8ab8a96cc20f2b2cd2aa208f"
+    ], 
+    "OPENJPA-2034": [
+        "9a974626fda5a929d680eafa34d53baebe520774"
+    ], 
+    "OPENJPA-580": [
+        "ea9378fc9646f9fe771ace35fc2d8cbb0d88bc56"
+    ], 
+    "OPENJPA-581": [
+        "37cb4af35de27c75ac6f5acffaed0f1ba82cc12f"
+    ], 
+    "OPENJPA-586": [
+        "33e094c6f1aa4e900bd5a149f8b1d718640d9c1b"
+    ], 
+    "OPENJPA-587": [
+        "547438ed18be883a33b5b8175ca0e72a8225c64c"
+    ], 
+    "OPENJPA-585": [
+        "547438ed18be883a33b5b8175ca0e72a8225c64c"
+    ], 
+    "OPENJPA-588": [
+        "547438ed18be883a33b5b8175ca0e72a8225c64c"
+    ], 
+    "OPENJPA-589": [
+        "4ac794ee69824a61b24c9e6b64890be63514150e", 
+        "c27bed9d7b3d2f14eddc7d8ca4a159ee544aa661", 
+        "31870894320c738e8d7776382892305d9b99b94d"
+    ], 
+    "OPENJPA-1100": [
+        "250186fbcbf7b82437ae4e912cdcd92bab8640b8"
+    ], 
+    "OPENJPA-229": [
+        "7d7e303f849f6cbb139f11e1620a9a03d977a3be", 
+        "b2beaec63446c937b69de2e73d2b7acda96b1549"
+    ], 
+    "OPENJPA-2478": [
+        "d7dfa322d613e53ebd960541f60c2830d4d27260"
+    ], 
+    "OPENJPA-1028": [
+        "3b2585f39b0e61e6224b20b5b3201704a3aef59c", 
+        "2901ea6e52b348dde119185181c33a5038f47922"
+    ], 
+    "OPENJPA-2472": [
+        "731649a2c91d5bdfcc572c7e2c43e5ae6c3458dd"
+    ], 
+    "OPENJPA-2470": [
+        "bf646350eac65b7ccd9e68031c8e5bc228f5a121"
+    ], 
+    "OPENJPA-1743": [
+        "459dddcd5946f45baf0a74bc1dfafd795a6d1494"
+    ], 
+    "OPENJPA-2476": [
+        "3f33d76a34d24dee9cc16e68c1d12441ca5631c8"
+    ], 
+    "OPENJPA-2475": [
+        "873daf3531ba9384b2500e26a3ac482b77cae38f"
+    ], 
+    "OPENJPA-657": [
+        "07919b9becd533a113949dce397a2d6ba1879f69"
+    ], 
+    "OPENJPA-552": [
+        "ee8155bb60ddfdc94e94b8973455c599072a6c27"
+    ], 
+    "OPENJPA-2571": [
+        "7b1c24e1fa855114a28a7c065039798a5a0ef704"
+    ], 
+    "OPENJPA-2576": [
+        "fbbfc9d3245089284129dcd719c289a877867169", 
+        "85556cb9eadeeac522860eefa8269858d196f94a"
+    ], 
+    "OPENJPA-2240": [
+        "1952ecd460306fb0539ee6b947d6d07fd84e9bfc"
+    ], 
+    "OPENJPA-2244": [
+        "9fa9ef4fe825bf29c480303c169413ab997e5707"
+    ], 
+    "OPENJPA-2245": [
+        "bcda87c67b6e35d3236e04c0bc699da6f6d5022f"
+    ], 
+    "OPENJPA-2247": [
+        "a06d373573b5e12ba309ef9e6137ee4e759eae5e", 
+        "3e787f7fe35c262388a4ac10399fd6e76a758de5", 
+        "2683a0227ad661119c1084aa2372434f40654f10"
+    ], 
+    "OPENJPA-2326": [
+        "cbc0301a7229d267adb5f6df0d12be86fd80b28f", 
+        "862b0f522994a1caf2a6ab75ef09287dd4697d29", 
+        "7f71656cf4935d010138b3f44d5fff23bb3236c1", 
+        "c0413aad9ead9b1bb6d6983c3c8c168a4ccb6d56", 
+        "cb309e75a80410eadbefcd2905d576271da27a87", 
+        "4985e62f9b2cda1e6b9aa7a299aa40abdc2c21c1", 
+        "2facc841546b58815bf31a35b02cf597d3844693", 
+        "c8dd4fc32d81f214cf436032b49e36ae4fefe699", 
+        "35421424b5c30f2ffffcbd15e58db44017facaf4", 
+        "52fb78cc243c506be08408b7c03958a1af70c6c8"
+    ], 
+    "OPENJPA-2325": [
+        "e63abd92a73968e7687c5928e0789177c8403fee", 
+        "01cae73832fd7b86848fe017e990b96ca63e25af"
+    ], 
+    "OPENJPA-1184": [
+        "46734cf443c69afc0221c427a349aa251f9a1969", 
+        "32c6ca132ce4daa64f736d2ab50aa5267bc8048a", 
+        "048419e89b2ccdfb3c3f32d86ec1dd4b81bda8a5"
+    ], 
+    "OPENJPA-2088": [
+        "ba24ed7c0b7a278e2a0a76e89b4454bb33d79569", 
+        "78d12c9b0a07399b14adc25a0ddf296eaf9f516e"
+    ], 
+    "OPENJPA-2320": [
+        "0ca38be72735a1b9340a519f46f9d969b6c4bf5d"
+    ], 
+    "OPENJPA-2083": [
+        "6369c744bdbb4c72fca8ec0c276dffcd6be9e752"
+    ], 
+    "OPENJPA-2328": [
+        "fd5cc0436cfdf426304a07cf950609094b46d8f4"
+    ], 
+    "OPENJPA-387": [
+        "5a48e90100e6fdaa4cee76a1a927679cba0eefd7"
+    ], 
+    "OPENJPA-792": [
+        "9946b6c19bb6445d8b975d2bb734329777cf7ec5"
+    ], 
+    "OPENJPA-181": [
+        "f7aef4581483be989ba84eed1ea71ce0f043c17c"
+    ], 
+    "OPENJPA-1818": [
+        "0bcdb27e8fc9d3f011e60a75ee570a04fe3e2a10"
+    ], 
+    "OPENJPA-2689": [
+        "8567a5e5c20b8e987b3612ef75c6011e51221d83"
+    ], 
+    "OPENJPA-619": [
+        "2254791f9b374a141a09782c1ee06bdee567e923"
+    ], 
+    "OPENJPA-1596": [
+        "aef5474423cb4f981da16c4534cb3117bb46777d", 
+        "5e6d42a5bc5bd23d72f555e32060e1dfa3a844bd", 
+        "53dddbeb8f0468a1f0728cd3e08a7d9d9cd1c701"
+    ], 
+    "OPENJPA-1954": [
+        "e6421a4118cfff6ebdd2dccdc31d2a5d4e023d11", 
+        "887f8977ed6deb68f835fbd02cbb3747fd03aad2"
+    ], 
+    "OPENJPA-1957": [
+        "2dbbe70692adfb38d05ce040768db02ff65fbc16"
+    ], 
+    "OPENJPA-1959": [
+        "d3d944ccd28095b9fbaa6368979b5a064fc9e744"
+    ], 
+    "OPENJPA-1958": [
+        "c87edf80497062d096d5441effb7a1164e673675"
+    ], 
+    "OPENJPA-2684": [
+        "635dd436cf12d83d40f73fa2b9ac77780e085de8"
+    ], 
+    "OPENJPA-913": [
+        "1d47f145476b3fe5e01629b136fd42dd8298f6c2"
+    ], 
+    "OPENJPA-912": [
+        "80aea14f18227ceafca32cc4a36f614280a7fcc9"
+    ], 
+    "OPENJPA-74": [
+        "b4077bd6a64f73fd28c210f265d5ef8b089199dd"
+    ], 
+    "OPENJPA-917": [
+        "3adf70a029dadfe5e5a5765b02f04c89af149244"
+    ], 
+    "OPENJPA-916": [
+        "ba62ff1aa34908c39155aeb00585ce164c942d91"
+    ], 
+    "OPENJPA-357": [
+        "8d161ff99e1e4f1f0bfa4b2c5e590abc590df42d", 
+        "7c07cc6d1da3313455114ffe00b120ab8d1a2ba6", 
+        "6d5fe3bb8ada4d0aceb5d6221140637dc60ab47d"
+    ], 
+    "OPENJPA-356": [
+        "a3a74cc233a91b442857d81b00c78e5b86e799de"
+    ], 
+    "OPENJPA-1269": [
+        "78e93abb515193f3b1abd00ee9074186527fb110"
+    ], 
+    "OPENJPA-355": [
+        "7d9724ac004489042af95932629ecb152033c34a"
+    ], 
+    "OPENJPA-1211": [
+        "0f62a7de1b9c4fe0085fdf526c1920400e44127f", 
+        "5f83298a9541a5a60ac8e4b3f44d1e541ed90039", 
+        "5432ffecbb765de57791f414aa88c9dd88cd55c6", 
+        "d91fa6a2ac3fb4f2ba3af8aaa66121134765e3b8", 
+        "aa72c08d4469c3e7635e972d99674e2b9f30e407"
+    ], 
+    "OPENJPA-388": [
+        "a92418ddd6d486cff60d3c377dda16149ca2297c"
+    ], 
+    "OPENJPA-1218": [
+        "655ec577e9d0452d06a7ce74d6571a810605e220"
+    ], 
+    "OPENJPA-705": [
+        "42f2f394fbadb894079389c4e69cb0193a4beb94"
+    ], 
+    "OPENJPA-60": [
+        "7baaaf4b760248e0e5fdf63903b00f15a4485f78"
+    ], 
+    "OPENJPA-13": [
+        "e6647fcc34a6cd8c8de78a05ffa2c6687ea8d0a1", 
+        "5337ce10d0a4f00c3b04ca6bfe5cc05a76020afc"
+    ], 
+    "OPENJPA-2390": [
+        "123e28821e0f7a9850ae1d08b3934502b5030429"
+    ], 
+    "OPENJPA-2391": [
+        "c7b4e05b1e98796917b2a67ca87f582a292d13c8"
+    ], 
+    "OPENJPA-550": [
+        "6d8a5879847076701ea01abd98b004d0e1836530"
+    ], 
+    "OPENJPA-659": [
+        "434319cfee6140b6eac8cc136f039de50de59b83"
+    ], 
+    "OPENJPA-554": [
+        "9c19356c7c2b5690c8b487b4ee05ba92297847c4"
+    ], 
+    "OPENJPA-557": [
+        "fb7ab1908bfb6afe560f094ab70b9de860280ed0"
+    ], 
+    "OPENJPA-864": [
+        "c5736acdf423b312fde13a86d34ec4932e22acc9"
+    ], 
+    "OPENJPA-559": [
+        "8c756bf65566e8ed69794a03c10716b1c3d83350", 
+        "1b5aac791d776726ada8fdc6b39ec71d13262f3e"
+    ], 
+    "OPENJPA-653": [
+        "c7a906314641bc2a3f7d997422028686938c1d55"
+    ], 
+    "OPENJPA-650": [
+        "05a8f028812e53acc5a2a68e65df6f32f66668ae"
+    ], 
+    "OPENJPA-228": [
+        "f7770883a4e9f8f002dd2d99287903be577b2dd4"
+    ], 
+    "OPENJPA-656": [
+        "85b0b0b45b143f28ba4422107708f77aa710b160", 
+        "026c96d5138612108237ed46c9b015006ecdf5ce", 
+        "cc85528f693f18b625aa6bfc94c19583028e4582"
+    ], 
+    "OPENJPA-1881": [
+        "5040a436e7dc394dececa869321cfae52f30e4ac"
+    ], 
+    "OPENJPA-385": [
+        "6f43ce7d40f545a2fd88f0feb752aab16985157c"
+    ], 
+    "OPENJPA-2196": [
+        "0633d68005f7429e19645b963083fbbbd288fa90", 
+        "654f835222f35902c73fab791b5bccc8e6289e14"
+    ], 
+    "OPENJPA-2197": [
+        "61b023c7842ba0cdde6305f1be742f773d0f3b84"
+    ], 
+    "OPENJPA-380": [
+        "89b030c3d17855b38301bc84934d82bcc32b0ad1"
+    ], 
+    "OPENJPA-2191": [
+        "32d2a850110157fb9e29e38ea1a957d1747e3852"
+    ], 
+    "OPENJPA-382": [
+        "12840cafbf0b0ebe84c5d8fb76b38b4b1e543fce"
+    ], 
+    "OPENJPA-1923": [
+        "01c9608fe69bfb03ef40fcdb9c5a621346a3a003", 
+        "28a0c0da8639543ae859bcf53c576cbaa21f2d72"
+    ], 
+    "OPENJPA-1928": [
+        "7eb317e488993e2f6e0acdd7843abb4833181b2e"
+    ], 
+    "OPENJPA-2199": [
+        "f30d74802dfec7a0148ca0e98993a2d7495f1085", 
+        "901c70e1d6a726c769fc08d80422126591b0f9ad"
+    ], 
+    "OPENJPA-1886": [
+        "98ebca2fe72b02c785715c29decb92808a288f88"
+    ], 
+    "OPENJPA-1882": [
+        "c960f725cb6d6ad6211ceec654ea657ccbebface"
+    ], 
+    "OPENJPA-867": [
+        "dbf066de8e47f5c2beeb2768b200abd7aef7a377"
+    ], 
+    "OPENJPA-866": [
+        "0e7c84ef81c1fa5b92a07f4604d00217479b831a"
+    ], 
+    "OPENJPA-2617": [
+        "1dd5571047bccbd75043e7d8c7048ed88b914e03"
+    ], 
+    "OPENJPA-2616": [
+        "ffaa46ef9985194421000bc6a3133a2e8252d80d"
+    ], 
+    "OPENJPA-863": [
+        "f1d2bf4bef6b479bfe9ee5eda2e5364bba7d67d5"
+    ], 
+    "OPENJPA-1884": [
+        "315a47945cf5fef9c01dd5c43c85f264dfdf1cad", 
+        "b56fcf328763c661e1651c2ec1f2888efa9c9155"
+    ], 
+    "OPENJPA-1442": [
+        "5f8ad3e811f595cee6497953ce6c7989d3c5e3c8", 
+        "5607a959abde3e078e095c47524487f7e3c69891", 
+        "a0e001e40ad600372f16d5708f580fc101fec3c3"
+    ], 
+    "OPENJPA-1441": [
+        "35377aace92dfd5554b0e795e8178f93f1878d3a"
+    ], 
+    "OPENJPA-2756": [
+        "db6f6b642203d60ae1fa7576715e180c6bbe6081"
+    ], 
+    "OPENJPA-2757": [
+        "39bde81aa2fe6f5ac8348bf4a6a39669b67dbe7d"
+    ], 
+    "OPENJPA-1445": [
+        "775c627b8038f03a86bb1a0bd1cd03e3caf07070", 
+        "fded22b2e04b8c2482fe257226c15a94bd8f23be"
+    ], 
+    "OPENJPA-981": [
+        "307b9860f99efa6249fe43cefcbb2f7da5927b98", 
+        "6b40e7268302db484c11e3d69324f4e3fd12819e"
+    ], 
+    "OPENJPA-1289": [
+        "ed40459a2a4f9bac6e449b5697c995d465d854a2"
+    ], 
+    "OPENJPA-1360": [
+        "14996dfd406d3f59d6d106ca9f89faf753b18eea"
+    ], 
+    "OPENJPA-1088": [
+        "f6c64474ed64421f291244dc34e575ffc3a4c6a4", 
+        "0af9c4e7756b2fb792fd995e405fcfc51706ddb2", 
+        "0b3dcc44334eb63dea824c63bbfd0f6a82548180"
+    ], 
+    "OPENJPA-1367": [
+        "97496b0bd6fe8d7471c3b3495ecab01614b8dfd9"
+    ], 
+    "OPENJPA-251": [
+        "18e83a09b18fde4721af69123fd4c7799bcca00e"
+    ], 
+    "OPENJPA-1281": [
+        "ac939f7b5f23e8ef73e37c8baa1b0b23c5c4edce"
+    ], 
+    "OPENJPA-1283": [
+        "5d6581bf7f75ddf7c77e37a087cf6a63cc757e94"
+    ], 
+    "OPENJPA-314": [
+        "8dd6857f67991d646727bfd3597d8b5b9b03d69f"
+    ], 
+    "OPENJPA-313": [
+        "c014c925382f115e067fb9265d9c49f96aaf17f9", 
+        "4e81825171676204c7e3ccaeaddbf679f0c5a590", 
+        "26b0e498455ffc4062ff4d06feec1d18ea560572"
+    ], 
+    "OPENJPA-1284": [
+        "39240eb1ecf22f6b47db987bfcdf918bfd0faa78", 
+        "1908a911803951e2a3bb27f203ee2bd077092ff1"
+    ], 
+    "OPENJPA-258": [
+        "171dc5d46aeb2084b2fc2f92079033117b413ac4", 
+        "62c8c548d90295d92e5aacd3adcdce0e785bf553"
+    ], 
+    "OPENJPA-1286": [
+        "1e77f6a3e1492e289ce99b071376cdd3e90372cd", 
+        "eb5baa42a27e626373134486869b1ab873ac82cb", 
+        "d2cc5e03607fc70d84068cc4705e98997e760ebf", 
+        "701221576dc7ff77a99ea8df5c8975ac866f92c0"
+    ], 
+    "OPENJPA-1662": [
+        "f1c1c7878785f6c066bcba0944ebd8117cc6b701", 
+        "85ba2eada3ffc4eeba3ed8e913ccfee560d6b006", 
+        "ce0ffe84f24b591b79cc7fdc9f98fa970b118d6a", 
+        "6ccd59c32bb3c3415ed527792a381052cf4b281f"
+    ], 
+    "OPENJPA-1667": [
+        "18dd7e8542ca5e97f2e9d7b54495018c8864e5b9"
+    ], 
+    "OPENJPA-287": [
+        "1c9f0ae0ae9c4861d9f0181b3f0174dffb7eb87a"
+    ], 
+    "OPENJPA-1665": [
+        "5903f31e690d02f9824dff400e9fd2763c41ded8"
+    ], 
+    "OPENJPA-1542": [
+        "eca02573ba17e8e09bd0cf7120b87becd6f2646f"
+    ], 
+    "OPENJPA-1543": [
+        "11149ec5fba76796f2d3d9a2a8d26d7782d74a99", 
+        "c1a32728724dec004e04aad8d7896e87508e1bf0"
+    ], 
+    "OPENJPA-1668": [
+        "a6cfb6c8482907e4ae240b2515a814792be3e06e"
+    ], 
+    "OPENJPA-1546": [
+        "3aea82e40c85ff6d653095a797b00a189681d64f"
+    ], 
+    "OPENJPA-1618": [
+        "db11713e8cbace63e5f56c0030e288a3796a64b8"
+    ], 
+    "OPENJPA-1544": [
+        "42769bd9d801d129fbeda514ea32efbcafbcdab7"
+    ], 
+    "OPENJPA-495": [
+        "240d356314bb8662101ac87c1e2e97ebf829c4b2"
+    ], 
+    "OPENJPA-425": [
+        "830cc35014e422f0bdf6b43cb7e1c709560876f1"
+    ], 
+    "OPENJPA-1394": [
+        "f6a6ee15f23f7bf7d99d33a3c904985b1ef8e98a"
+    ], 
+    "OPENJPA-427": [
+        "4a8d0b798b2b292f9a8a5c234dd446b566cb7274"
+    ], 
+    "OPENJPA-134": [
+        "b4a3a77840af840f9cd2800b717c585a3c135e5e"
+    ], 
+    "OPENJPA-421": [
+        "2f2e39991d5c6485183d03c3d1051f4fb5ce0ee9"
+    ], 
+    "OPENJPA-420": [
+        "64d0ea816673b6f36f88c363891ecb2136993dda"
+    ], 
+    "OPENJPA-423": [
+        "80d2c39020e4aa201d1bc066db6d97044863e1a1"
+    ], 
+    "OPENJPA-422": [
+        "ddd0791346cfdce3612e60608d35e5c952deb898"
+    ], 
+    "OPENJPA-1444": [
+        "df5a403700ac8f070408bf86fdebeedbf209fea8", 
+        "29e919f2ccea6667a47212f1f333fe78a8b43fc0", 
+        "3dee418d36c7aa1c217c3779ec7813ee9f9e87ae"
+    ], 
+    "OPENJPA-428": [
+        "4f930b1c29d0dc2502e640e97ea5c0bce03b8086", 
+        "3ca7d9d4d6bef1267b6d6af85ea74c20a87ee93d"
+    ], 
+    "OPENJPA-139": [
+        "7ea424bf0b36d6be115976fa6134877116fc2dee"
+    ], 
+    "OPENJPA-256": [
+        "b0cddf4e2d87d5a4f3c19d24cec89c4df4b9660d"
+    ], 
+    "OPENJPA-2107": [
+        "d354f7cf847d7f346bdc9bd98da690c21277eb0e"
+    ], 
+    "OPENJPA-2105": [
+        "ed33f06f4dfd171209a026e9511e3c3c84a289a2"
+    ], 
+    "OPENJPA-2104": [
+        "afef47f79856793909ee28256f14351eb3409588"
+    ], 
+    "OPENJPA-1142": [
+        "0bd96d988008081c0ee99df148cfd0f29a9668d1", 
+        "4991e6bdc22bdda1ac5d8bee44f9f3e73d94a2d0"
+    ], 
+    "OPENJPA-2102": [
+        "59d0a5262bcd64b577cbdf815e530a3fdc67dac7"
+    ], 
+    "OPENJPA-2100": [
+        "6bc2b5671d00143dd7039f7c6472f6a449174951", 
+        "62462f47524e5408956d8ddc1b4d9d0ef6d9d0d6", 
+        "9f4fba24dab254fb43d00ac65a3b2896d3ed9e61"
+    ], 
+    "OPENJPA-42": [
+        "25e80a994e6e50afb0e146066cf6e0185e4b8af7"
+    ], 
+    "OPENJPA-1067": [
+        "2e9f4187ccf0bfc07629e062a0af745806440761", 
+        "ef204040c208c6250fda950dfbca58ea187619ad", 
+        "09a77eeae3b1e25244490f0c93dc159314a872f9"
+    ], 
+    "OPENJPA-1061": [
+        "a1a94144bd0a9a26edcd0209e884b364782fd5d7", 
+        "9c6fbcbab3c3a2617da4550d4316e36e13d97ca1", 
+        "03d9e24bc6a10c3bea737678606d74f7c6fb86fc", 
+        "1fce44737bd0cd696fb8b904aafb1dd663093d11"
+    ], 
+    "OPENJPA-1060": [
+        "6bccd91606d09db80dc8bf03ed6a23c47cf153fe"
+    ], 
+    "OPENJPA-44": [
+        "5f138fe08d3ab7a404f766c564ca58ff9b006801", 
+        "9174b3f1742e0d17eeaa874690cf2dca2752b97d"
+    ], 
+    "OPENJPA-2536": [
+        "8129fe685bb7788ee5cb192be39d80b0f097f01c"
+    ], 
+    "OPENJPA-2534": [
+        "9d4c78dfffb9a0dfd73298a9bf3a0dabe10d9153", 
+        "69f3a6e1c92d317ec35ce2740dc0407766eef599", 
+        "b659ac25783be780938623974195d03efb0137cd"
+    ], 
+    "OPENJPA-2533": [
+        "08d94d75d68742fce002f65583844e5bb253b12e"
+    ], 
+    "OPENJPA-1719": [
+        "a4038dadefbec53535ba84713b32e01706f25a77", 
+        "5ad6624b531aa73a595680e8d53cd1da2b432b7e"
+    ], 
+    "OPENJPA-1713": [
+        "4d5d3a6aedc9385afcf95ced83ef0b71843b38e3"
+    ], 
+    "OPENJPA-2539": [
+        "856fefb2c835fd0e46ce7c2a362720ac7f5b714d"
+    ], 
+    "OPENJPA-2369": [
+        "8b75df3c9bf992d5b93cb2c5f0e81470860eaa1f"
+    ], 
+    "OPENJPA-727": [
+        "caf46298d63a6c95ff3becfb5ffac246a84275c7"
+    ], 
+    "OPENJPA-724": [
+        "e165e502d58728c76d0980fb4f6d5804a0395c70"
+    ], 
+    "OPENJPA-315": [
+        "8dd6857f67991d646727bfd3597d8b5b9b03d69f"
+    ], 
+    "OPENJPA-819": [
+        "04900fe85c90b86e0becb5b2cb59ba4d08ae4cf8"
+    ], 
+    "OPENJPA-2044": [
+        "c7c8eb2fc12418914e432b1744f4c5fded54b157"
+    ], 
+    "OPENJPA-2045": [
+        "2c80991f6a86405811dd5a02eb8032bf67dfbcda"
+    ], 
+    "OPENJPA-1686": [
+        "dbaf9fa67e33844e0b5379a01cc70020fd82f87f", 
+        "a79a96b86c79d9a7105d6c439a641888572f6284", 
+        "3865aedfaa85d4d0be8f0699ccf169723ce90240", 
+        "2d21d726ab41b3e80b3326c41e9e9bfe9523c8d6", 
+        "59c7001e09e34a7394eb534ec88bc1975b2120d6", 
+        "10a056a073bb2ddee279a13feac2ea6d3a7efcbe", 
+        "d31ec1274b31746e171c5b31a6a038c30991c24e", 
+        "a873065db7f3b9190ff47a88bff1b2cbce3d3e89"
+    ], 
+    "OPENJPA-312": [
+        "88f293dec94ee995603f7c4b895cc26bffb0ac67"
+    ], 
+    "OPENJPA-1784": [
+        "35205c46acdd25acd7370837bb72baab900f5bcd", 
+        "00b99e267f6a47f249961ba9aa7281d84235237c", 
+        "9c25bd16339a2421edb24713dae2b2b9e9998f14"
+    ], 
+    "OPENJPA-1787": [
+        "0971bd301c73bcc82215ecf4d9e18a9908ee5d34", 
+        "6309bff2f013f3b187a9aadec1c29e450c8a1596", 
+        "6fdcebd67367fb1dc9d7d50362bfbce35a0b54ac"
+    ], 
+    "OPENJPA-311": [
+        "99ecf9564bc9f260bde9f702b2a79b121414345a"
+    ], 
+    "OPENJPA-1788": [
+        "208347e88d06ea095c3893c622f215f8b8a6fbcd"
+    ], 
+    "OPENJPA-1626": [
+        "d899ba81075c96cd6a46b724e49e3bcc72697b25"
+    ], 
+    "OPENJPA-2400": [
+        "92c4369aa18417e448ac980c0cd5de83a2b4831f", 
+        "1b1b60c9a7d63268dc26c1ff5dc601a352cee1c9"
+    ], 
+    "OPENJPA-2405": [
+        "e406bda450a1f3b78836153a5a34882c823101b1"
+    ], 
+    "OPENJPA-2409": [
+        "67082453b32d1bc11309f3c45ae1ce1bb2f8e281"
+    ], 
+    "OPENJPA-68": [
+        "ba1d28973531251d4b3c74cab8c1321cf0e74347"
+    ], 
+    "OPENJPA-231": [
+        "753be68e244bc14ec66807ba6457d1fa2211d9c6"
+    ], 
+    "OPENJPA-86": [
+        "86e47000db1e081076ed16ef2873bb71e6e93c70"
+    ], 
+    "OPENJPA-1968": [
+        "f10e349f7c356291d32173541c3936e0253243b8"
+    ], 
+    "OPENJPA-1969": [
+        "20b66ce0df3c68e9d0e32fcf4c2018fe25566215", 
+        "fd197214a922428f79f9b512e9fc4c144d0724f8"
+    ], 
+    "OPENJPA-614": [
+        "2d217257d9a6e169d8ea1aea9e2f906192d16784"
+    ], 
+    "OPENJPA-343": [
+        "8500feee82da1dadbc37833ce22aa2626bbe8828"
+    ], 
+    "OPENJPA-612": [
+        "faa0f26cddae6869271257634c6b5b74689fc345", 
+        "dbbd1236f235a86f672b3f21bedaf2ee5672b34c"
+    ], 
+    "OPENJPA-320": [
+        "71f44f884e20bc6b08e339115bf14dc09a1ee8e5"
+    ], 
+    "OPENJPA-346": [
+        "a7777cb075dc6b6dc58d25562e772346d3209a8a"
+    ], 
+    "OPENJPA-347": [
+        "5affd1274fc1e236e34612d9164a4a916c71f131"
+    ], 
+    "OPENJPA-1960": [
+        "9b5fa5152acd4cd77520b36e06bdfb58d8f3cf64"
+    ], 
+    "OPENJPA-349": [
+        "6e3aca63ec90da0198073a1697a556dbe493cbc2"
+    ], 
+    "OPENJPA-321": [
+        "52d7ab797565c7b182a87128eb0a484a7e9237a7", 
+        "eaeebf20c7e89466748e4c872a6c15a732351382"
+    ], 
+    "OPENJPA-1547": [
+        "8248d81a683ff3a23cccfee3394e5784bdf14760"
+    ], 
+    "OPENJPA-821": [
+        "cfc51799bff6344ab4aff29efff0e09fe75cc849", 
+        "57d329d3c55c3805465df3299e37deaf144dfc02"
+    ], 
+    "OPENJPA-820": [
+        "66434c6ebfe308ad34ee066a93efadaa3948c1ab"
+    ], 
+    "OPENJPA-1845": [
+        "54234f6102364783f1349338fd606269409ba367"
+    ], 
+    "OPENJPA-825": [
+        "7a34bebe02cf5670074f4963af2dd3e7c1d0514f", 
+        "4d28f28b20ee8300fe6c68c914e1f0b2e0974c24", 
+        "75cf4c522f41e6dfcbac89a2905498085d7f728e", 
+        "574d559860c58a74aead153305aef6dfc44a2fbd", 
+        "0f7f03d8b0bfcfa33fb3bed73597af731e86cfef", 
+        "9c8b2d2cd844ecc73081c3baf281b13abd178843"
+    ], 
+    "OPENJPA-824": [
+        "a70226302e20f3194ce4f2d7666fbda68c260b32"
+    ], 
+    "OPENJPA-1840": [
+        "f9cfbbfe2cc5cdea1b2d9885caf24c2413a7beb5"
+    ], 
+    "OPENJPA-828": [
+        "548ccbcf959025988fc9ee517ba1a0ef983ee449"
+    ], 
+    "OPENJPA-940": [
+        "3750cd1f6da5cf46aa793781223daec2eefda26d"
+    ], 
+    "OPENJPA-947": [
+        "1d94611932b074f974c09843b14e95d56edf0e73"
+    ], 
+    "OPENJPA-944": [
+        "62cc18cecbc2d87beba982db0c7f04b1b631f32f", 
+        "5016fc69f876b56f961f062b538440af8bdc7497"
+    ], 
+    "OPENJPA-1326": [
+        "82aece97114ff940964db9bca34b62c9bd5279c7"
+    ], 
+    "OPENJPA-2494": [
+        "077ad2b4462cd2be819df5485d906632488d73be"
+    ], 
+    "OPENJPA-1325": [
+        "fbb7e1208aaa9c9462a00766e26e5147e4ab44f1"
+    ], 
+    "OPENJPA-1248": [
+        "c6459391c8a8668cfc0ecd7ba7de95f7b0f956bd", 
+        "e5d2bd435f0c0fe502ed21a7df97672406d225c9", 
+        "5b7c20eacb99d974a48fcb6bc585ef6fd9f671d5", 
+        "d33884a90a43d7261e8bbc761295394ce9059df2", 
+        "6cee09c8c9ff17ce3b997f8116e186a9ca64d4fb", 
+        "110cb20e798f6c6eb2211b973ff23826604daf84", 
+        "ab18db113b1fcdef7db9e96d8dcd6728cda576d8", 
+        "363f7f6e3f16bf0693fce192683685894946e252"
+    ], 
+    "OPENJPA-1321": [
+        "47a90dae9834cafdfefce77542f9b627348bd6a5"
+    ], 
+    "OPENJPA-1328": [
+        "cc5664fe2d6d2cdd08e7b9744d69075541931965"
+    ], 
+    "OPENJPA-1242": [
+        "a488a122cf639eb23b37ba23670758ce6b2eef40"
+    ], 
+    "OPENJPA-133": [
+        "859da3f913d8b4f0b142fe872d78847f958f0614"
+    ], 
+    "OPENJPA-132": [
+        "eb27482080af614ff7e387b9659e72571f8ce029"
+    ], 
+    "OPENJPA-460": [
+        "d3fb4cabf89d9c80054a481cc6679158be665402"
+    ], 
+    "OPENJPA-508": [
+        "18c90bbd0be9031ca3f32f0f19c2c48221c3834f"
+    ], 
+    "OPENJPA-509": [
+        "024faa31d75a55a619b1e59ff40b7523c24c4c84"
+    ], 
+    "OPENJPA-464": [
+        "81cb7e17f98946e4455e055f075d958900c2f576", 
+        "8d18daabd722e39dae258ab33f74c561b4965496"
+    ], 
+    "OPENJPA-466": [
+        "47173558ef9f0a570e931c2d6d1e395f4bbf688d", 
+        "13819e01f7d57a59ebc945e4bd33b4b4882863bf", 
+        "679989fd16a96bd9f94c0a68face0374dfaa2b44"
+    ], 
+    "OPENJPA-200": [
+        "f875a5e98bde4e707ceb37d7df0bcc656b7e8a8b", 
+        "74683912e3c0de85f4c003e132af6a50a42511ba"
+    ], 
+    "OPENJPA-506": [
+        "3f439edc57637940063ce9c72a1c528587e165ff", 
+        "a747db9443a0408c58221d36ce9c6103e8010be2"
+    ], 
+    "OPENJPA-505": [
+        "70f3a94b36c3fc63924dd0748513023fd8372faa", 
+        "0b4ce34920fbf2fb358447bd1aa209d03098b8f3"
+    ], 
+    "OPENJPA-662": [
+        "a140e82bcf4f625fc9cb13ce98568217ef0f1042", 
+        "c7e78fc80dc0a37f48de261b67f4ccba50338c5e"
+    ], 
+    "OPENJPA-660": [
+        "b4c557d0c052726037f32430f038d059fc9aceaf"
+    ], 
+    "OPENJPA-665": [
+        "3b00de3b261f4b0dd28b8da7500c7b81dad2d132", 
+        "1111ee16ff9fdb72c7e5d12dd0afad6ddda2be5c"
+    ], 
+    "OPENJPA-664": [
+        "315cc2d1555925da6f62b808976792676ec2bcea"
+    ], 
+    "OPENJPA-669": [
+        "191f26d72d58b992ee7a6f82c6973681a3bdc275"
+    ], 
+    "OPENJPA-668": [
+        "3d81f8652f85ffc83d728c92fc2262c64c64e17c"
+    ], 
+    "OPENJPA-459": [
+        "123e0b61202ec1cfd6632736954bd80d65d3f8b3", 
+        "70fc46f93eab6364e8062cc857ae27dafbc3449f"
+    ], 
+    "OPENJPA-1029": [
+        "d9039ca64064c99558efd6db6d15c4028ad63236"
+    ], 
+    "OPENJPA-2142": [
+        "a0f7a2f50fcf156576333367613a50222cec7895", 
+        "e1c4c92888ce7e8559a1e1ea74ec7513226b7e70", 
+        "c275da64abe546a9af2c28bb6245cb8a95754e96"
+    ], 
+    "OPENJPA-2140": [
+        "103aa4ffc0ea149de21dbc13596e1ea31d3ff831"
+    ], 
+    "OPENJPA-2146": [
+        "8971fda1aaf23b1057b1fe20fab940411bd432c3"
+    ], 
+    "OPENJPA-2145": [
+        "5f5b20f523e070e3f1464842738bc2450b73d967"
+    ], 
+    "OPENJPA-1185": [
+        "a32bb62381a03d9901298e55daf68569f0394942", 
+        "92fcf33575d4cae403591dde8737e4ce53ab9bc5", 
+        "222e01d2f3215aafd876380e3ac270c37252a95d", 
+        "ccfbe6cd3187c1a585633c32e8db9486e591a099", 
+        "53805483fc610b6f8491eec1e027ce99ca735553", 
+        "f74c5d7a69fb3dda67fb26c1c0250d48e29fe359"
+    ], 
+    "OPENJPA-1020": [
+        "4190dcc04aa2b7b6d03638ccdf44c4ff36e03293", 
+        "3320287392e035415d7867ac7312d9109d02306a"
+    ], 
+    "OPENJPA-2149": [
+        "9e9b0a7ae3ea25e999bbaa7bf4f16afa0147404b"
+    ], 
+    "OPENJPA-1189": [
+        "6c2e3e2d03e22f0d0f9ffc4a35aef186f1070928"
+    ], 
+    "OPENJPA-1025": [
+        "14ae1c34cf1481607b2f321b625014fed59d6e29"
+    ], 
+    "MNG-2221": [
+        "cd9c6c198670281096dc69b68687a32a77e0c5ef"
+    ], 
+    "OPENJPA-1432": [
+        "4cc1f6478e6dd6d130ab3b2471918e386d0ac864", 
+        "5d9f08e72877b208dad9135afec8b630ce41f81d"
+    ], 
+    "OPENJPA-1431": [
+        "8dff01769495aa4fd94c83b58f144dfdebdfc581"
+    ], 
+    "OPENJPA-269": [
+        "058c174bef04520e4801447716b5c9203567a56f"
+    ], 
+    "OPENJPA-1435": [
+        "8410bc88c6fca3587170b61ad9890c1717e81b1e"
+    ], 
+    "OPENJPA-1438": [
+        "d189eac9dd6dd756643c3edce6932c56c87fb9a4"
+    ], 
+    "OPENJPA-1439": [
+        "d491a9cbed9beaf7f838e67e5ecd7aa8d10d58e5"
+    ], 
+    "OPENJPA-104": [
+        "4f0c54211df547e848b6a7605b2f255563634fda", 
+        "c7128669c7e1f439f45c62d07b58e8add38343d2"
+    ], 
+    "OPENJPA-1753": [
+        "20507e6d4b2a16475666027c4d1bb332acd1714f", 
+        "7b1d5067d6be77ad953a907d7ca12027acc975bd", 
+        "c9f58ec243d0053dc7fb312c5a37810ce01be250"
+    ], 
+    "OPENJPA-1752": [
+        "c9a86d9652993e9a34426b2eb67606aff190dd26"
+    ], 
+    "OPENJPA-1751": [
+        "a4db0cb1ca08983e08d400e5e67e29974a47de14", 
+        "33ac4aa0cb9a2b17fd989145167e6aa0a6c6a1b9", 
+        "8f06f9a08bfcc2e6644a67dd336e684d97b7843d", 
+        "899b56b4187626fb5b21895fc9d05253219f130c", 
+        "279864455834261ae05fca5051818cdfa3d110d3", 
+        "800899841f5882d5f4782837d040aa89bb41b482", 
+        "a7cadff1fa66fcf640e3f7afd934f7b02a630c54"
+    ], 
+    "OPENJPA-1757": [
+        "e65737308ba646ba29eb741983d691ccb6b0f944"
+    ], 
+    "OPENJPA-1756": [
+        "1b07ef0bc7f53a71b4301f242e6b04963b2a362a"
+    ], 
+    "OPENJPA-1613": [
+        "7425ffca2dddbbe1bcc9b6a7f075e294b8948f2c"
+    ], 
+    "OPENJPA-764": [
+        "75b9ca7fa3588428083f6fedb9b398f710065726"
+    ], 
+    "OPENJPA-1611": [
+        "670d59ef0f54aa196308d6114dc7a0b2eff28e4f"
+    ], 
+    "OPENJPA-762": [
+        "7e24608f524188e5b019777d85d01a2b4dd62d9a"
+    ], 
+    "OPENJPA-761": [
+        "f55dff2069f4a1dc2f27d7e5a9dd126bcc5a2d67"
+    ], 
+    "OPENJPA-2006": [
+        "81c46c503f5efccc4b3724c2c0ea2a19eb93db4a"
+    ], 
+    "OPENJPA-2007": [
+        "b6f39e246dc366cbecdf1d980feca79c05e758a5", 
+        "50bfa5d2618540b4fd5a033ae4ffe8f1d3160305", 
+        "7b0d1140ac54eb910fa00adf7b2e483a336df41d"
+    ], 
+    "OPENJPA-2005": [
+        "dcf90c68eb5796aba5299aaee498953fa4340fec"
+    ], 
+    "OPENJPA-100": [
+        "6055a34b4215b472dce012d28ead7a2a7c6f8f19"
+    ], 
+    "OPENJPA-2000": [
+        "eb4e83fa27f461c8e919bd13dc168401b7ee7400"
+    ], 
+    "OPENJPA-162": [
+        "afce8f543abfbcbe81eb87c7ed5e22c1879e44a5"
+    ], 
+    "OPENJPA-237": [
+        "e041fe0d4de6baebefcbc34a3ff1962212535b5b"
+    ], 
+    "OPENJPA-165": [
+        "63c3748900811032ec5dc4e5e42d9745cfc53c4f"
+    ], 
+    "OPENJPA-2008": [
+        "27e0e704adafd18b6056e6f1b886b202d7e36e69", 
+        "41f09d9226c005a127e20be7609322ffd77584aa"
+    ], 
+    "OPENJPA-80": [
+        "1af233a0b3b7ad19ed14aa1b0a297269f7905e97"
+    ], 
+    "OPENJPA-1051": [
+        "d9d6898558b809c0c630c0db869d4fe8f4ec61b4", 
+        "9a7bab2a6a54849fe98de374be278f3c303e68ec", 
+        "9c275904f3a7a6f7f5740cf641bf7fcccb710186", 
+        "93ae72d15f2b767c41ffc4458d95d4c64e3cc74d", 
+        "a91e85e6db73b4c2c6b2e89eb75b2516d1bb99c6"
+    ], 
+    "OPENJPA-1117": [
+        "6c1cc88175825ccfc0714f74d25a20cc38eca1d6"
+    ], 
+    "OPENJPA-1116": [
+        "dc3c2c43ed849779f7edeaabce67f1cb1c60d735", 
+        "22391c91333a27e49dcbe9789bc7e456d8930161", 
+        "eb8abb81fc295e47521262bf7c297fda3540c4b5", 
+        "a6af0f35e20d1161bf1039d545aafbf50eb3117c", 
+        "d8eadfe600d7f05d99ecd30d3604d18f96d8b114", 
+        "65ff86ce24da411ddb7d910730d8df97a93eb808", 
+        "c5954aa4a5bf0bd0279fbbe689f7808d913e9055", 
+        "85a609aa5d3ac8a83048e121526f3519d7c8bdfc", 
+        "149dbef93b99ab50350f352a4864054c38ec863d"
+    ], 
+    "OPENJPA-35": [
+        "853fb319ba81e2ad589ac6a7ce47b45de0a2749d"
+    ], 
+    "OPENJPA-1509": [
+        "23341c871cc395924aa984976c725af06af84315"
+    ], 
+    "OPENJPA-1506": [
+        "6d61c562f5b752f5b1dad2f8d73d21f909ae9c8d", 
+        "80d6c79b52588dd0c0f7e1fd76f02b67a9b9a945"
+    ], 
+    "OPENJPA-1507": [
+        "e603bdc5c8e4a2d8c0be197490f2e71a33fdc553"
+    ], 
+    "OPENJPA-1504": [
+        "f259a4ee1e12b5efe4435665a99f61bced7e8106"
+    ], 
+    "OPENJPA-1053": [
+        "5cb14fe384cf59d2612817ec4c3f1c62e17dd611", 
+        "1677b481b2783ee02aeba8c7175a0ae27d18fa92"
+    ], 
+    "OPENJPA-1119": [
+        "0e055fb013c5713be573c5088c18320dc16764d4", 
+        "6c1cc88175825ccfc0714f74d25a20cc38eca1d6"
+    ], 
+    "OPENJPA-1503": [
+        "e71cd295fcb912db12fa9d51e3a451fc2ffa2859", 
+        "c043302e1e6c90d2859ae5833f455a53a3c62bd8", 
+        "bdb1e5d6f2984ec3b7e5e6c84c9595bba25e693b", 
+        "d82add658d2dd767680978e038501895005a3eb3", 
+        "ad106583e804914433e0ff9d3644b6e8894d821c", 
+        "ad3cf2c68210d3ad53f71fdc3a5f9a543d12b748"
+    ], 
+    "OPENJPA-1500": [
+        "06e6582ab859de863a192f05665d59dfb6256448"
+    ], 
+    "OPENJPA-1501": [
+        "5668a18ec0a54730824d60d3a97a0c3031d4fda6"
+    ]
+}

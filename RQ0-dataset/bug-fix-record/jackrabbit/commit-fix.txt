@@ -1,0 +1,5504 @@
+{
+    "7457a88c39d7bef47e96ef7c172bd07fafeeb318": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "45a6cc1eb572fb0817b0870d50e0ca03052362fb": [
+        "JCR-2528"
+    ], 
+    "dd7144e3b13d53a099dc46febdcc072d80b7bb42": [
+        "JCR-3404"
+    ], 
+    "20268bffefe9e389b6c79e3e2cddb1230754fd0a": [
+        "JCR-2018"
+    ], 
+    "d706d001db629a0ad2129f461b1e0c8258f1a11d": [
+        "JCR-1444"
+    ], 
+    "169037291c8ee8cb357d46f1b9dd43e3db6da7a1": [
+        "JCR-1336"
+    ], 
+    "73eb7e495d7269783dfbc687051e13940ac0ef8c": [
+        "JCR-2863"
+    ], 
+    "43938ad4cebfdbc316e104ae6259dd7ddf5cd2a2": [
+        "JCR-1728"
+    ], 
+    "22dff4df0aed2c7ac289b08857b25ff6eafc5a65": [
+        "JCR-69"
+    ], 
+    "e83d69fe29f1c0e952dfb1108798d51b9c98de9e": [
+        "JCR-1086"
+    ], 
+    "9b5b882a88e76972192baf3822272722c211fb2d": [
+        "JCR-910"
+    ], 
+    "e2a49652c493357e16736a91caf9d2dad8d11af8": [
+        "JCR-532"
+    ], 
+    "7f4cf1314240a2560e96083fddd1906d4efe63f6": [
+        "JCR-3682"
+    ], 
+    "fc554e1fcb30f55a53fed56e9fd6bb7bcce6f897": [
+        "JCR-2395"
+    ], 
+    "b35e08b8c1913091814c24a20d47d0cfa326a112": [
+        "JCR-395"
+    ], 
+    "982aef1a37e62582300be0014323a6327bc1c83b": [
+        "JCR-18"
+    ], 
+    "8d854f1760155ffc3c29f41a750253ea8d121528": [
+        "JCR-422"
+    ], 
+    "8e3bf52bc35c37d42e841e44843a196391ff4943": [
+        "JCR-21"
+    ], 
+    "5a82f66c266750276af14b64e0bc7ea3feb643cf": [
+        "JCR-2155"
+    ], 
+    "6ca0fb5aedc051edfcd757d9bb4ec849e23f28a2": [
+        "JCR-659"
+    ], 
+    "ba040c01ad48562d10420ec3aa85b311da9d2051": [
+        "JCR-1519"
+    ], 
+    "72a32d1bc5c30e574988e979df30c7336132e5b3": [
+        "JCR-1687"
+    ], 
+    "6dc98b89d76a4c930a03a458bf2b36736179077f": [
+        "JCR-3364", 
+        "JCR-3291"
+    ], 
+    "e83e754d05e2a62bb1ed14b8352d2b9a3dbf83cf": [
+        "JCR-138"
+    ], 
+    "27245bf8ce1cffcf4918a248838d0f99726302f6": [
+        "JCR-396"
+    ], 
+    "3e0b26f13a0eef9ad07cb31423c115451d812e62": [
+        "JCR-605"
+    ], 
+    "43678c12ae2b8d6fd54654d857be3be7b10d9a7a": [
+        "JCR-587"
+    ], 
+    "5d56900f7b651138ef6ce075d9285d55e0f261c2": [
+        "JCR-699"
+    ], 
+    "0ef464868d313fa414c6f488e429a41f731f2273": [
+        "JCR-3307"
+    ], 
+    "1b014fe2a4698864a6e202fb0b4d98b66a8bc977": [
+        "JCR-125"
+    ], 
+    "7d0796e3cd4f5fbe53626526de3c9dbe5c075d09": [
+        "JCR-909"
+    ], 
+    "8014377f2c021aa2548d1fceb85d3ad50aa41f04": [
+        "JCR-2020"
+    ], 
+    "6ce181ff947708a3791687665ce55baf2ce8cf9e": [
+        "JCR-3603"
+    ], 
+    "d6ebca9a72ad7a91f615365fa13e3924eeae691d": [
+        "JCR-1461"
+    ], 
+    "0b268665c84512fc2b4ff481834a0552a1694fd7": [
+        "JCR-2134"
+    ], 
+    "1b1bf57810ec6a0ae162a450cfb87b5efcb123eb": [
+        "JCR-655"
+    ], 
+    "dd310afa22338f08702d5fd1ba6ba2a39767368c": [
+        "JCR-1484"
+    ], 
+    "4798cbee30bf7ce7611a406cdd16e5a6c5c2d6de": [
+        "JCR-798"
+    ], 
+    "03dba6a5b1804e35352b1b52d6e425e899335eec": [
+        "JCR-3691"
+    ], 
+    "7a86c86ce29509f065821883152dc8f2b4092cc1": [
+        "JCR-4146"
+    ], 
+    "7123994cddfddfa7d7384e58d4bfa346218deb23": [
+        "JCR-3083"
+    ], 
+    "66bee1d2ee71fafbb431f16f1f2e868d2c3900c3": [
+        "JCR-3101"
+    ], 
+    "2d2d73b36c5a27dcad26409b20084b5e800cfe2a": [
+        "JCR-1630"
+    ], 
+    "da3f30300018259081d2aa2110b0fa48ef5c8d30": [
+        "JCR-2313"
+    ], 
+    "aac036a61b9e319d40fb94ae83ff01075fd8c7db": [
+        "JCR-3380"
+    ], 
+    "e68df4830b588ad2a5ec671887659663ab644ced": [
+        "JCR-3929"
+    ], 
+    "3ddc6cc1f21e2a216974ab819d432f89b458c221": [
+        "JCR-80"
+    ], 
+    "aa79875e4ae1b4bfac071ca515e42be541094aa2": [
+        "JCR-3116"
+    ], 
+    "21c5f17291415ac39090b7e23a0c6c5484a99d86": [
+        "JCR-128"
+    ], 
+    "41105023f9fda9c1d473d9842006c0c614189fb7": [
+        "JCR-162"
+    ], 
+    "ac2c2cf902c44d56220ac1f0049260f62229f531": [
+        "JCR-1630"
+    ], 
+    "4287014680ca875925f9c1ae7f2dfbec094cff96": [
+        "JCR-2337"
+    ], 
+    "4706bcc6d7428c35d9fe6c54cb68e41e4e597d7c": [
+        "JCR-514"
+    ], 
+    "f64a78f168757e0f79306f5fe8ce12ccc0a847c2": [
+        "JCR-1265"
+    ], 
+    "fb1cfae246e07e121cce9350309eaae619992de0": [
+        "JCR-524"
+    ], 
+    "0c4cde33969ca3e0b7c5f45aa2d64f145c7be700": [
+        "JCR-255"
+    ], 
+    "82939baf19368dfd3bd991d404af61669ca7a25a": [
+        "JCR-2547"
+    ], 
+    "edbd1a80a0b9e9137dca007c70302eb25fabd9c0": [
+        "JCR-221"
+    ], 
+    "1f1fcc171e25279fda0448b4aacb548e85086ec5": [
+        "JCR-4079"
+    ], 
+    "c748dfaac7f01d7b4cf48af4839396a25920ce38": [
+        "JCR-3075"
+    ], 
+    "ab30098afcef011d295f54658ad4fede04cc1858": [
+        "JCR-3108"
+    ], 
+    "510d5a279ba26369a9f464103bbd769f5b3b8f9e": [
+        "JCR-1644"
+    ], 
+    "83bb30294bf1b47228f186bb5973e3740fc6a8c6": [
+        "JCR-2026"
+    ], 
+    "63ac148f8e31aec10432a9e181df738affa77165": [
+        "JCR-2752"
+    ], 
+    "3c14ded12dceffde23a51042cf065d2228ee7efe": [
+        "JCR-2157"
+    ], 
+    "cf6cb2e07db1ee4a1a10c6ab4d485c4ba7e0caf6": [
+        "JCR-1852"
+    ], 
+    "28450357169c25d744c5491baf3889f7090e10de": [
+        "JCR-171"
+    ], 
+    "9be108f8d7559b5ad32fd47ba6de74e3d0b24d7c": [
+        "JCR-714"
+    ], 
+    "e477081655121571921a8a1255b21591c103cfa0": [
+        "JCR-3653"
+    ], 
+    "615258abcbc5304d193329392af60737c6b67cc3": [
+        "JCR-1355"
+    ], 
+    "b600b4129673d4e906dd0376c053ccdf6bed20be": [
+        "JCR-3992", 
+        "JCR-3987"
+    ], 
+    "574ae09f78f68c4239b65409aab76841387611ba": [
+        "JCR-3139"
+    ], 
+    "2122fabb846bae651da2d8fedeecf9ab74aca70b": [
+        "JCR-3225"
+    ], 
+    "f87a1bd31043971d5b9a6a2ceab7cedd433cec04": [
+        "JCR-894"
+    ], 
+    "7bfbc3f983f8f47cc1f4add3336f96bda8a08375": [
+        "JCR-1613"
+    ], 
+    "aa9c8d3ca0b82d8219303574e6454c1b1dc7c3ec": [
+        "JCR-2917"
+    ], 
+    "2c00125ddd09af75fefbea69e2db53658b1616fb": [
+        "JCR-1358"
+    ], 
+    "5a0f962557258c73b9dd37abccae682d6547607a": [
+        "JCR-3503"
+    ], 
+    "87b4c744c54928b64668509c5b283c67b7ad8ca8": [
+        "JCR-3353"
+    ], 
+    "45ba507bdf942e12b0ab179b975d41682a27b9fc": [
+        "JCR-1598"
+    ], 
+    "21c0958d0182871270a160ba84175b0dedea68cc": [
+        "JCR-3313"
+    ], 
+    "118ed9dd562d3ef2e654f1b313fbac757d25fd12": [
+        "JCR-3604"
+    ], 
+    "b1d1ade97b279b2e39067ce897556355e68192bd": [
+        "JCR-2008"
+    ], 
+    "d97d10c14730a178fd69586f73f3f54e0cff4cee": [
+        "JCR-2081"
+    ], 
+    "cd2d7b04e718d1e6500bef81513d377b371f0279": [
+        "JCR-2554"
+    ], 
+    "3f34ac6b6512528036fa9d75a9b6c9862c280255": [
+        "OAK-3324"
+    ], 
+    "0174a612a86c1fef5a6ffe48e82e7e74671c07d9": [
+        "JCR-783"
+    ], 
+    "ee0024a12f179dd45017eca78b8614e09060c412": [
+        "JCR-2097"
+    ], 
+    "b889dc0aa6615f2ed4ac267ca5c92c578c33c619": [
+        "JCR-614"
+    ], 
+    "8c39f75cd892f820387800051554adb51286f625": [
+        "OAK-1615"
+    ], 
+    "b62bb58575b647ec01080c2d83ad55d1dbde8099": [
+        "JCR-2129"
+    ], 
+    "e8b2c0bf8779a44c2e546b6dc933a702e8fd09a9": [
+        "JCR-234", 
+        "JCR-232"
+    ], 
+    "4043daee85b5b669b5c61782a758fc16790149de": [
+        "JCR-510"
+    ], 
+    "8dcce8895fac30f364a40bce44280885bf94a4cc": [
+        "JCR-3198"
+    ], 
+    "1219231d70013d4ecb856bddf9467c90726d341a": [
+        "JCR-814"
+    ], 
+    "5855c1ba5fdbb9a2f6bc0bce89e84af0ca52d1a4": [
+        "JCR-4120"
+    ], 
+    "52ae8720ff110beba19c372d2523dec1e62d5749": [
+        "JCR-250"
+    ], 
+    "ef728a1f5078dedc5544dfebc251a066a23fbddf": [
+        "JCR-458"
+    ], 
+    "ad1cf69e10abf920561b82a92aa55de967f4a7e2": [
+        "JCR-2603"
+    ], 
+    "6a535e61ff77e57d45ba01b79efdebee9573cdc0": [
+        "JCR-334"
+    ], 
+    "b511017942c8cc987b1d76895bcc221ede1055b0": [
+        "JCR-1341"
+    ], 
+    "fa6b7825f62362e35ad82a3989f6bbf766e19b2b": [
+        "JCR-2468"
+    ], 
+    "3e2fdeb8800c94b849131b52a2027d3a0147b449": [
+        "JCR-1490"
+    ], 
+    "ecce16c040a29b7457af9bccc47ec281af2c2f44": [
+        "JCR-3086"
+    ], 
+    "88d1703329ab1787b4716a299e782714b8000faa": [
+        "JCR-2675"
+    ], 
+    "e53ec5b22dd8f2f471f6cb4139e31f71e5036698": [
+        "JCR-762"
+    ], 
+    "b5bf6a6f439372858286f0ec65883d869230d417": [
+        "JCR-2734"
+    ], 
+    "3c75a7a6c153d94efe078e618b704fc03308d419": [
+        "JCR-540"
+    ], 
+    "e259faa989b259973bcb19c23d0b02d3df031a97": [
+        "JCR-3726"
+    ], 
+    "883337d86f482fa4101bad54037913d5b6eb5334": [
+        "JCR-980"
+    ], 
+    "f8957a704cd301c5707292108df2b1920568efde": [
+        "JCR-71"
+    ], 
+    "42096412c6275f722ca4af550a2b16a1e22f5c79": [
+        "JCR-333"
+    ], 
+    "da45ad3ab6ff9a9f505b5bc4bd5475cdaff85469": [
+        "JCR-2746"
+    ], 
+    "8ab935a6b4c532e3bf12c6a343a11b109e598f3d": [
+        "JCR-3784"
+    ], 
+    "8796668ee2924d5d429c4e1dd01043732279f7aa": [
+        "JCR-1623"
+    ], 
+    "c40ccd7a9f9e3f833c3ec3ee86a60135f2b7718c": [
+        "JCR-1689"
+    ], 
+    "9f7205e06f4bb0e83190aa5b01f16175628fd2b3": [
+        "JCR-2866"
+    ], 
+    "b0fa090ef2bb185e1b260f9ce8db05147194e8bc": [
+        "JCR-118"
+    ], 
+    "3a6bcd6649695cb84c2bbc2e765a90d1e7cbb916": [
+        "JCR-3343"
+    ], 
+    "0061c3831f7b111b119b89cff44ab2bf3d5c4f89": [
+        "JCR-747"
+    ], 
+    "88d8932cc4a74f5bbc2512d36d6b556081f0876e": [
+        "JCR-3702"
+    ], 
+    "2efd594990305add983ab0bd029b58b1fc34f757": [
+        "JCR-2503"
+    ], 
+    "4ae54a853812b9d48ce24d78d43d6108b9c9e661": [
+        "JCR-646"
+    ], 
+    "7cb31bd79e8509f52d4803c74fed708f0257b546": [
+        "JCR-1800"
+    ], 
+    "a812becfdcd87129a8de9dbd08858374805194a4": [
+        "JCR-46"
+    ], 
+    "641669c81aca47677a3562353bbd7f186fb59d73": [
+        "JCR-160"
+    ], 
+    "5dc3c23f79719147d08ca998bf2cb8a8d83f0821": [
+        "JCR-814"
+    ], 
+    "f2e0df04d4fec7ac178384e609d1614ecafa075a": [
+        "JCR-2449", 
+        "JCR-2138"
+    ], 
+    "7fee7fd707b822863589381950424ad173124e49": [
+        "JCR-2127"
+    ], 
+    "e66942fcb9b67e172ed0386432f859ed5d309bd5": [
+        "JCR-3632"
+    ], 
+    "cf2a0e55ed6ab51a4057f67f0994ce64f1613738": [
+        "JCR-1744"
+    ], 
+    "43d8dddc96c4ad22d6b5a13e20834d9d9fd77dc0": [
+        "JCR-2784"
+    ], 
+    "7276dc63d0a4d346f10c9c85f5fccc8e181fe825": [
+        "JCR-1551"
+    ], 
+    "4d880fe60d2bbf7e417d44d6992e8e475cc2e2ec": [
+        "JCR-764"
+    ], 
+    "b2f4b4cf97715d45bb03646b190f7817da4d6724": [
+        "JCR-4150"
+    ], 
+    "5ff7dbd83e33021b88c6e2ffb4254a7c2668637e": [
+        "JCR-2595"
+    ], 
+    "b3d26bfab0622261abbb0d572179789497cbf442": [
+        "JCR-541"
+    ], 
+    "85ba46c06d3d5d577a2ba5cc23ed537f0c7a98e0": [
+        "JCR-1647"
+    ], 
+    "bc12a517b43021dfc757a5639bf78018732e292e": [
+        "JCR-2444"
+    ], 
+    "74418b554574f703d41bf4f725dea77054681bb0": [
+        "JCRTCK-5"
+    ], 
+    "e50653e4541160495ba9c59bcf6ffaf09f746e91": [
+        "JCR-700"
+    ], 
+    "160d9ecebe47679c7850c39df8100868cf55989b": [
+        "JCR-3934"
+    ], 
+    "eeafe4b18041b41a350ec338e92896f986e348d6": [
+        "JCR-4173"
+    ], 
+    "90968d4f1c0edd6821ba38e952a0be7649180340": [
+        "JCR-1380"
+    ], 
+    "416739c3ecd28613069dfc67f795aff0a2367062": [
+        "JCR-636"
+    ], 
+    "3d3d65426fd763168bd43e7ee4209dbfa8c1b7af": [
+        "JCR-1459"
+    ], 
+    "40b0ef382d4803640150856cb748e1ef85a77f2e": [
+        "JCR-1630"
+    ], 
+    "3c9cfa739b628eb6a82c1b7e6fadc627638ef9b7": [
+        "JCR-31"
+    ], 
+    "e40cb88f53d0b001289bce228f5571179a3515cf": [
+        "JCR-3090"
+    ], 
+    "5df08ab08063db53408b999bccc148b786f85815": [
+        "JCR-624"
+    ], 
+    "3d23090793780397fd272ec6368446bb92a8f9d8": [
+        "JCR-2705"
+    ], 
+    "daa45a2820591c6e4e05483238f71fd475e825b4": [
+        "JCR-3610"
+    ], 
+    "98dfb8e9e68de2e69ec863cf673bcb56a64d3275": [
+        "JCR-562"
+    ], 
+    "472ae62d64019f44939e562cb554da4fc80f5ccb": [
+        "JCR-2528"
+    ], 
+    "81935972504f6dd78ddc9d71e1f851d184b10a55": [
+        "JCR-170"
+    ], 
+    "1c0888d47267ef341bdd91a168edf713068d2111": [
+        "JCR-2671"
+    ], 
+    "1cdba8ac1832853ff96b13ffe38184f580e7991d": [
+        "JCR-3483"
+    ], 
+    "27b1b1b8b1c80eff127f7eab06d83ae1a905bfce": [
+        "JCR-3523"
+    ], 
+    "c721a6c4e2f8760a48eac4f27c3529c93a52ee79": [
+        "JCR-1587"
+    ], 
+    "036e6fa2e6d314cf9d748c34c72be47c1e273585": [
+        "JCR-3111"
+    ], 
+    "9238a10c800d0f727c8b1121f929d31271adc61f": [
+        "JCR-3419"
+    ], 
+    "ab3096a72f2c77f699acb0542aeb994dd4cd7e72": [
+        "JCR-3478"
+    ], 
+    "81cfa0e6154fd45753b907857d65b871f44b0d7c": [
+        "JCR-2586"
+    ], 
+    "ee96e8ed80cffa5f80b485b06ad8fc2bc3877ef9": [
+        "JCR-3089"
+    ], 
+    "59fba49f7e13a4635574cc9c7a296c512e7e6807": [
+        "JCR-422"
+    ], 
+    "9ad69a2c40f5718f450fc88532420985766195fe": [
+        "JCR-2252"
+    ], 
+    "1d6b9dc9995d83f5a92c79dc371c65d1fd9ac6fa": [
+        "JCR-2764"
+    ], 
+    "8ff6e13cdd6b0dd8fb9e5853bc10084da18853df": [
+        "JCR-3160"
+    ], 
+    "21e5f7161accdb47c1df3f10f8744ac7f360e48d": [
+        "JCR-1481"
+    ], 
+    "421a64d9876fdb62d6eaeca11845282c6939ac55": [
+        "JCR-439"
+    ], 
+    "dbe3a2c285c10e26863c18dc5fc68ec4544fb4b9": [
+        "JCR-1034"
+    ], 
+    "3af94fb7df1ada3bb89c238ec097233416400458": [
+        "JCR-674"
+    ], 
+    "5e8a736dd0f5545dfb40ac2ab2cf63190c71a26e": [
+        "JCR-511"
+    ], 
+    "075ec6817a2b32af7ff68aa13d97e02c9e4b9d35": [
+        "JCR-1389"
+    ], 
+    "59a10b5b2fc94eaad8d5e78847de72b434d52e30": [
+        "JCR-708"
+    ], 
+    "3970fed5aba0c0e11d1cb259c5d523febbf41673": [
+        "JCR-2984"
+    ], 
+    "3e47e85df10e7df8b7ff37b66f730b99677dcb98": [
+        "JCR-2307"
+    ], 
+    "4db197de6111797ef84ccecdc5993f2308157677": [
+        "JCR-457"
+    ], 
+    "9f324ee548f185eaba70ca25582c0ca19b4ead68": [
+        "JCR-1838"
+    ], 
+    "52185da1063bbb915edba2e8b39bab087e491850": [
+        "JCR-1630"
+    ], 
+    "8f548e3cb07c870307549b156fba2fc9845c821c": [
+        "JCR-1179"
+    ], 
+    "7e69c1313a0077d33379a3c7c4d4039cdca4c74a": [
+        "JCR-2063"
+    ], 
+    "9dfaf178bf9016c34535687df3e4176401f1153c": [
+        "JCR-384"
+    ], 
+    "527a0dbcffc79d22e9b4ac2a5c063674c0b04d9b": [
+        "JCR-11"
+    ], 
+    "81969c9c65b5ce3ef49e595be6c6af3d26cc25ca": [
+        "JCR-2919"
+    ], 
+    "5aaae1c65b975dbbe7c89cadfd62b8d7a538dd08": [
+        "JCR-100"
+    ], 
+    "9895e5ac475cdf0e9ec588e5ab0581840c300b6a": [
+        "JCR-620"
+    ], 
+    "ba87e341ed4ef13a6aa4fa26cc93efe5339871af": [
+        "JCR-2269"
+    ], 
+    "3a07cccc259edd9266ecc0113efd5964953fe560": [
+        "JCR-346"
+    ], 
+    "d9a972b5ac50c01cf94591dead13dac2d1995692": [
+        "JCR-1902"
+    ], 
+    "a0d156f95185bb9988a2f080997550e94d2f6246": [
+        "JCR-3512"
+    ], 
+    "6f9ba1673994b349cd96709ce7a48d581b9c2f95": [
+        "JCR-373"
+    ], 
+    "248a8b79ef66405c464f08ef38b3a51b8a037970": [
+        "JCR-962"
+    ], 
+    "48aaa2408dc30eaa7f08b3fa0d23ab1d3b83dbae": [
+        "JCR-2326"
+    ], 
+    "d85a5508e5d1e4c1845326cc71820ba7bdd658e4": [
+        "JCR-1216"
+    ], 
+    "6ee7104bcf160eaf2e7751c9810a0c28472b43e5": [
+        "JCR-369"
+    ], 
+    "33ac02966dd6a6d76dfff38d28684f08f502aa4a": [
+        "JCR-3617"
+    ], 
+    "dee1698d01ada49d5d1bc3ed0e93a6d9d94b2607": [
+        "JCR-2928"
+    ], 
+    "2d20d5769856e826fe21d207078fe502a6e24867": [
+        "JCR-3665"
+    ], 
+    "a17e55878153ffe5d432d920fde386eec74987ce": [
+        "JCR-2272"
+    ], 
+    "87133a9026cc4b98ad97e5a95958f9edc284a82e": [
+        "JCR-4211"
+    ], 
+    "007098aa086d4cc9696d005b0918d8f8a8e0f9be": [
+        "JCR-1630"
+    ], 
+    "7455bdd891200a1bcaa239bb4a3a78e496ffa506": [
+        "JCR-2582"
+    ], 
+    "79a58ccfe00a29e8c94c215eefaa57be11abaa1d": [
+        "JCR-2142"
+    ], 
+    "167ae6a5ceee0d1743f1c247dee707cee94a0798": [
+        "JCR-3126"
+    ], 
+    "fc20e0c64e23dbc5d94a7665656ce682d058feea": [
+        "JCR-3149"
+    ], 
+    "cd7582eb9bc6852141d0b7a7eb30088e4c5133bf": [
+        "JCR-4455", 
+        "JCR-4339"
+    ], 
+    "31d4ce0da3896999f69057d32e3069a004ed7d53": [
+        "JCR-3711"
+    ], 
+    "e4724ee78c6e0b5c50108f0c0b88c6091cc16a58": [
+        "JCR-2170", 
+        "JCRTCK-5"
+    ], 
+    "4d1c0e5d05da0a97baabfbcd6c465640487a964f": [
+        "JCR-211"
+    ], 
+    "e588aeb3bfb33f0356eaaf754277b4f6da670563": [
+        "JCR-3407"
+    ], 
+    "e030367d894efdbdd66651b778c005ee308cbde8": [
+        "JCR-3543"
+    ], 
+    "c34d8a8d5038ed29f150792e5d68480252d72f67": [
+        "JCR-4042"
+    ], 
+    "6f7dad091e8b1d4c6d40a7a70c086994dc5c4e70": [
+        "JCR-2379"
+    ], 
+    "d6a34ae2e1ee82e8c5003124e513fb054794c692": [
+        "JCR-1817"
+    ], 
+    "7a17d8783fbb4a3bf124b689f2a897f27df60fc0": [
+        "JCR-2836"
+    ], 
+    "94e585a769454b864b0404bbc36355f02284680a": [
+        "JCR-695"
+    ], 
+    "81bf84c785dd5e4cd2cb114e4c1a637dda5b89ae": [
+        "JCR-1427"
+    ], 
+    "e20fb4e9c9d4721635ec6e32a3181b135f0269df": [
+        "JCR-2169"
+    ], 
+    "6f00985d6a444d0767c5f60aeab51e90a4ad55c7": [
+        "JCR-761"
+    ], 
+    "1041dd8be1740383d66334e30d6e88493ebbb853": [
+        "JCR-2600"
+    ], 
+    "694a971c197574a897ec0a2d112621b8b722184b": [
+        "JCR-2134"
+    ], 
+    "9433208b286c781a3e88f5e30ea3071642ab52a7": [
+        "JCR-739"
+    ], 
+    "d5f6e654a7052bc5ad7da8f039ef9e57e065a2f8": [
+        "JCR-3786"
+    ], 
+    "2ee319478b3b2090e654d376d2d03ef24264ca30": [
+        "JCR-1929"
+    ], 
+    "98b690538af1e2379d8a76a0211e1d64056e064c": [
+        "JCR-3290"
+    ], 
+    "9e70f3c372b6c313b5f610bee96e003ce91257a3": [
+        "JCR-826"
+    ], 
+    "26deaa04d50cca0c30dae81037f463b619b72706": [
+        "JCR-3697"
+    ], 
+    "3db5f461c560629396c06096e938d70c2b82d7af": [
+        "JCR-3017"
+    ], 
+    "3608830eceb7627507f400524fb3c0f66daab2cd": [
+        "JCR-32"
+    ], 
+    "384e83dde60be9026f812f72691fc8dd2d591ac7": [
+        "JCR-1226"
+    ], 
+    "741b0f3a20b6b437f51689a293efbb5510cf8763": [
+        "JCR-1612"
+    ], 
+    "805c0f5f9a097fc1a5103d025c5ff3d716e5a1cc": [
+        "JCR-199"
+    ], 
+    "a9cd621814e91c731d521f9188aa2393a9db9f0f": [
+        "JCR-2953"
+    ], 
+    "8478f6ffd6da90bf8ce9ae2416ec37e6a39cdc55": [
+        "JCR-1334"
+    ], 
+    "0b8863e692ae28400dda064f765d9f0059b285c2": [
+        "JCR-3521"
+    ], 
+    "8f3b587f679be82afb57a55c0914b010318b2ba0": [
+        "JCR-2282"
+    ], 
+    "4385c66b62f4a975c38b0f8429fb6bbf99cf594d": [
+        "JCR-1727"
+    ], 
+    "fabd567519cb5b2407c116b14f89aa7407347e41": [
+        "JCR-3435"
+    ], 
+    "314dcea6f999471efd7869a6b99fb6ce7f6ca891": [
+        "JCR-1910"
+    ], 
+    "ac55ea6cc8563ca3712c70afd1d2b3a4f5d6ab52": [
+        "JCR-1664"
+    ], 
+    "24ffc3f0bcc18ad0f7fb362400d7c061197dca9a": [
+        "JCR-2540"
+    ], 
+    "b66c5206d0e08d32d460a05e58f75842f2bc9bfe": [
+        "JCR-176"
+    ], 
+    "6a6676741f93cb91843fd5ed21d8a2f0dc34cc65": [
+        "JCR-2720"
+    ], 
+    "dc4054c63bca43d7f76b908bf07711d2303e7806": [
+        "JCR-1090"
+    ], 
+    "5a5b494ce385b95a4d4058a41a6c94f0e448fb3b": [
+        "JCR-583"
+    ], 
+    "2c8ad601de098aab0ec33022d1135549a9ed1326": [
+        "JCR-3075"
+    ], 
+    "beb6a9d641a16432cfc8441cd05a83ba56a6bf44": [
+        "JCR-741"
+    ], 
+    "c411c8fbe1c2db3475348b40aad67ebc251c4264": [
+        "JCR-3547"
+    ], 
+    "e6b673e445d4e88427ae06442e494aa24028d212": [
+        "JCR-2540"
+    ], 
+    "de73a9453812a51287a2b8dc1d7949737c18817e": [
+        "JCR-3635"
+    ], 
+    "47f81054fb1ca6bc67bc04b14d39e355e4c4cfec": [
+        "JCR-1518"
+    ], 
+    "5a168e64893dd1bcbd5c39d61a9785ab4f72e909": [
+        "JCR-1331"
+    ], 
+    "65596f70d28c2d6d4b4d65a8eda6641a139a7ea1": [
+        "JCR-866"
+    ], 
+    "0aae79e9f88ee993b0809cb61baa6b8c48016c22": [
+        "JCR-3300"
+    ], 
+    "77fc97f68ea54709dea3fcfa30a29c3aa56c7b37": [
+        "JCR-423"
+    ], 
+    "3fff946b1b7caa98e9fb2cd4498c7d086e402001": [
+        "JCR-2257"
+    ], 
+    "b74cfd4de1cf60e7a8e0d1f3a198e59f5d9ff903": [
+        "JCR-587"
+    ], 
+    "406d928a2ad0eb3f9d4ea11d53d6c5ac78903517": [
+        "JCR-2288"
+    ], 
+    "80114a094835f85d8668999e40a45ea9f7a69bff": [
+        "JCR-598"
+    ], 
+    "562787a8021ffbad91114bc3134ba676157b83de": [
+        "JCR-2170"
+    ], 
+    "9f24d5125cad031acaec10eb5b56a00f732f7a9c": [
+        "JCR-3093"
+    ], 
+    "72a55a2822257f65da570076b38af47c7bb8e5df": [
+        "JCR-1612"
+    ], 
+    "0eef4d4be6dcc446871c42d91498ff5cbd61563a": [
+        "JCR-1851"
+    ], 
+    "7b580d792a7ecdf86bc3cd0972e63f0d1e715d62": [
+        "JCR-2313"
+    ], 
+    "0d0777e4fe6b87073ee225b2d18104777dac8bde": [
+        "JCR-3850"
+    ], 
+    "55a186db277611738baf9770c50fc0fbdca3da08": [
+        "JCR-745"
+    ], 
+    "5a4bf4f7787f75b4a2b117ec918c6b5c992e4d25": [
+        "JCR-1036"
+    ], 
+    "52e2e817822317c39f6cb41723a2f694e6025fda": [
+        "JCR-2165"
+    ], 
+    "31cb9796f024e4fa974c91ea8fc4990cf83a1b17": [
+        "JCR-575"
+    ], 
+    "f59783bdc1cc6fcddbf88874efbce2b289413262": [
+        "JCR-233"
+    ], 
+    "082f8388edda4f99ca74ac299379012fee29f48b": [
+        "JCR-3751"
+    ], 
+    "1f195436fe7f3d41f83f652c18188d61d6f2c6ac": [
+        "JCR-1323"
+    ], 
+    "f756c018f16d5986f8634ac6548f167ebac53889": [
+        "JCR-2747"
+    ], 
+    "0fc1d3beeb90939f74e9929be68beff9bd7e8a56": [
+        "JCR-2529"
+    ], 
+    "5b195889cf5d10a961bd5eb70b9ad012a56b54e3": [
+        "JCR-3401"
+    ], 
+    "cf61a3e1ff37f8069c7e9fda13b65ddaaf012b14": [
+        "JCR-1782"
+    ], 
+    "17db96bcdc90a767a43fb03a22a96c1459ee2a72": [
+        "JCR-4068"
+    ], 
+    "381e57f74e6a392eaa5c720ad407b622dcae5570": [
+        "JCR-3105"
+    ], 
+    "f4793b039766a9b8c6759ffb8ddd637b576b3b84": [
+        "JCR-1524"
+    ], 
+    "f319a60c67246a978c18361bfdf4b7f34ad9e6b2": [
+        "JCR-1784"
+    ], 
+    "c01b26036d059905a315773bbdfc5549bbd34d89": [
+        "JCR-2398"
+    ], 
+    "2cf3136843ac58262db74287a0b4f6e1f6ba3db8": [
+        "JCR-2325"
+    ], 
+    "c4ea5bb491fd76fe214d6bb65dad59acbb84d250": [
+        "JCR-1227"
+    ], 
+    "67840f7252c5512aba28fcfcfc1d42f58e0c0e03": [
+        "JCR-129", 
+        "JCR-129"
+    ], 
+    "dfd83e7f2d8fd01aa0c1afda1d7286f2a1978fbb": [
+        "JCR-2808"
+    ], 
+    "a403d5b18ca207a56fb871163463ead1901d1816": [
+        "JCR-1602"
+    ], 
+    "14211896f8c88f5da5a127ae8a0f1c9cb3faf48e": [
+        "JCR-1095"
+    ], 
+    "30eb53900e122f64ebf51212abac44143997887a": [
+        "JCR-2937"
+    ], 
+    "9ec9d3d0548513ebb7f7108f7ec6d2851e3c6e5b": [
+        "JCR-40"
+    ], 
+    "e4ba7ecddd525b0127899f2e3c2ee09b6e02b430": [
+        "JCR-2139"
+    ], 
+    "670bfeaf6eb9c27ff24e968be792b49e6777920b": [
+        "JCR-341"
+    ], 
+    "1383609bc75118b46649ddc149b014e6b521392b": [
+        "JCR-762"
+    ], 
+    "c38ebb9b69418f211151e23e2b652921d27b6c96": [
+        "JCR-3036"
+    ], 
+    "63721593c6482e81c792180a67ce8c5557c5cb3a": [
+        "JCR-3465"
+    ], 
+    "007fdb5573deff702e329abfd28e1147f284c7a5": [
+        "JCR-3459"
+    ], 
+    "672043e496ed5ce0bc75e2a0723cbf3c94d230bb": [
+        "JCR-15"
+    ], 
+    "fe2cb1763ae7e212307edeb5bf38f243734062a0": [
+        "JCR-892"
+    ], 
+    "a7804ede88623ceaa3b62f638f5384ebb97b39d4": [
+        "JCR-4093"
+    ], 
+    "d3ded745ba831699f5e57cb56238873db21e736e": [
+        "JCR-4133"
+    ], 
+    "701e7ab30e58b1e3c228f1a27719fda002f3e051": [
+        "JCR-2294"
+    ], 
+    "c25bb5fd326b4f6b360da1bf1d2da967c1be93c4": [
+        "JCR-1330"
+    ], 
+    "41f7bbcefb8e320dd24bb19a0ec65d891fee4101": [
+        "JCR-62"
+    ], 
+    "1595661dda650f020fb68cde5c534bd221976d45": [
+        "JCR-741"
+    ], 
+    "51af842afbf3df53d57104f5bac3035c37a9cd9b": [
+        "JCR-2276"
+    ], 
+    "613a7ff57a6f774080ac3eb5b90a9863c447f933": [
+        "JCR-1976"
+    ], 
+    "8b7dab1ab6fe7979715f0d8562c6eaee45a35d7a": [
+        "JCR-492"
+    ], 
+    "07f9f7a2e2263405945adc975f6dd7b38c568815": [
+        "JCR-1879"
+    ], 
+    "39f657a91d195cd6461af6825ac59e5930ba8566": [
+        "JCR-795"
+    ], 
+    "8464f8148514126cbed9432204fe4742263974b9": [
+        "JCR-280", 
+        "JCR-282"
+    ], 
+    "0ffb5da343beacee80659acbaeb076d813595472": [
+        "JCR-1910"
+    ], 
+    "ece4ddba504647dd31fc97d7c0ae0bc83976d8e6": [
+        "JCRSITE-10"
+    ], 
+    "a8ae7a181b3bb0b17979e09cab670861ed654a83": [
+        "JCR-395"
+    ], 
+    "ef270e92b8e2cacfbe9872103850674e93c78764": [
+        "JCR-2534"
+    ], 
+    "6fe7e291d58970d016e3fb9fd07a27ae241d2259": [
+        "JCR-2503"
+    ], 
+    "dd91bfd5c3a85ecfb17d657c1b35deda3f8b8dc4": [
+        "JCR-2168"
+    ], 
+    "27c572e7b5c4b4f5a30cb3ce34b1b01d41438707": [
+        "JCR-3192"
+    ], 
+    "0da00f55a95e571286e6e82237e9f6486a384dd0": [
+        "JCR-2731"
+    ], 
+    "86aec07d7d8581c9c05642c52a00250708a06466": [
+        "JCR-2336"
+    ], 
+    "0cf50ae2b0320e9dcc85ad30af8e9f466b34637c": [
+        "JCR-1450"
+    ], 
+    "592dc2b965b49c99a1b064a9fe3558c38c064ec4": [
+        "JCR-1044"
+    ], 
+    "bde5709521b2d77b5d08e318c94d514a1967a36e": [
+        "JCR-2736"
+    ], 
+    "3579a19d41acae8fd1edaa75e04702750bc31497": [
+        "JCR-1071"
+    ], 
+    "dfb46d2dad51a044b30d1d4feb1927a30c7a78ba": [
+        "JCR-287"
+    ], 
+    "025d5df82c11ee1c8b89eaa34721494b0b9be26e": [
+        "JCR-3811"
+    ], 
+    "9fd6fcf92cf2ae9c598340c85571e43fc89cf528": [
+        "JCR-1374"
+    ], 
+    "98e2f980ae4c7745a1ff34f9730d815479abaa20": [
+        "JCR-1137"
+    ], 
+    "f882ee3b5cde4e0c3804668d110ccca08533b402": [
+        "JCR-1305"
+    ], 
+    "5b6e902f2269e4d4b728f6db1f30bb6b0a0b6697": [
+        "JCR-1669"
+    ], 
+    "ecfbe15a6b94ef89a0b18bf9d6130176a7aca45f": [
+        "JCR-4387"
+    ], 
+    "ac1eab9c3e693f903fb6308f6abe905d58454d92": [
+        "JCR-1046"
+    ], 
+    "8d12ecf9f6db8e67fd36da366a2a72029156c5ef": [
+        "JCR-499"
+    ], 
+    "4269a37f06817a396cff5ed2c411966eacf46483": [
+        "JCR-1573"
+    ], 
+    "fa07cdb955c45e732a216ff9f53cd000a11f31f9": [
+        "OAK-3265"
+    ], 
+    "f80484114508b042291fdb6621b70bf6748075e3": [
+        "JCR-1254"
+    ], 
+    "1e607d3c69997cc3942977a52b157fc6d5a5bbea": [
+        "JCR-8"
+    ], 
+    "7ba597ed229a52b44fa51fd632405e8b875492aa": [
+        "JCR-1714"
+    ], 
+    "88b1ed849256d2300f52a79f41bf9385956e41b7": [
+        "JCR-3115"
+    ], 
+    "de1bab1742bb613c0bdf28ac4891ed73d62a2bfc": [
+        "JCR-408"
+    ], 
+    "78ef88d588761183a78ff39792133b0e2b5fa568": [
+        "JCR-160"
+    ], 
+    "ffecf2e9b11708f7b582294de8b5e05eb39be305": [
+        "JCR-3382"
+    ], 
+    "9076d80ce32f55d54e365630b52f94e434dc647c": [
+        "JCR-1399"
+    ], 
+    "a759b82c1aabaa3f47033727bf89f46043fa3ecb": [
+        "JCR-2261"
+    ], 
+    "95094ed4b2183117967ddcf8bc752032d90a7245": [
+        "JCR-2000"
+    ], 
+    "e8d4c4c302e5bd65ff36d9fa0e40fe20cd924331": [
+        "JCR-2082"
+    ], 
+    "048279ef0096e132c24f6a67cce7d9a115a00f7c": [
+        "JCR-828"
+    ], 
+    "7e9c47f2f812a97ab72cc31407b4b7c17d6367a0": [
+        "JCR-13"
+    ], 
+    "3a9999c32ac28cda191f2719c88d8cc5e9f97aeb": [
+        "JCR-1868"
+    ], 
+    "fc20dcda2d39de160316f03060cd18107983ee54": [
+        "JCR-1148"
+    ], 
+    "7684920a958a6528f2973a6df29b93ebc0affa88": [
+        "JCR-1952"
+    ], 
+    "2706c2e4d941ce8804f11a15036e1b94b9613b32": [
+        "JCR-86"
+    ], 
+    "999aaaca665e0c8fdd6bd106739e6d0e980e40a6": [
+        "JCR-3303"
+    ], 
+    "c8406704341b2e01a196d452fcbbb4f343607823": [
+        "JCR-1131"
+    ], 
+    "e139dd3465eb4c41bb3f7c4d581046226736646a": [
+        "JCR-2951"
+    ], 
+    "1bae99e6443ffb8270588b3bfc13f14a27c8843e": [
+        "JCR-2621"
+    ], 
+    "4968f0c5fa482968064864e5b6693fe035a66bb9": [
+        "JCR-2297"
+    ], 
+    "7459c66c834947eb97ba2f4bcd79ca8dc76e1055": [
+        "JCR-2338"
+    ], 
+    "806ea3edd5edb4d856c712af0bd6fc95ca03f7c0": [
+        "JCR-426"
+    ], 
+    "ea01d779d51a024b7530333e144e17af28a3ee33": [
+        "JCR-661"
+    ], 
+    "ada3c955092cf531b0ae682ed29ae4fec6df9b4d": [
+        "OAK-3265"
+    ], 
+    "b37c6ffa00efc44d02c23f6c8befbeef7d72d42c": [
+        "JCR-3093"
+    ], 
+    "1543e2197d0c93955984c75d73385f34edcca52c": [
+        "JCR-3077"
+    ], 
+    "316f6cf9ecd4df691727a6b0067adc9635c0ead9": [
+        "JCR-3493"
+    ], 
+    "6779213cdfbb2cfd6ed808541d3fa04d41d4c66b": [
+        "JCR-3337"
+    ], 
+    "15f4d99d9ddc0c272ef5126828a2cab62e1f07c2": [
+        "JCR-536"
+    ], 
+    "ad258587f78f224767c5e33a0a3a8b9f696ae79d": [
+        "JCR-3430"
+    ], 
+    "219ed8467c6fcc2334900916e193914d91c803d1": [
+        "JCR-533"
+    ], 
+    "aeffd5aa380983ef0d68c1b553d60c12b91d6752": [
+        "JCR-373"
+    ], 
+    "adabfef568ca05eaa98cde9a02fec88495f6fc30": [
+        "JCR-912"
+    ], 
+    "91993937742aa35acb0fa42355cbe8c2373cd7f9": [
+        "JCR-2648"
+    ], 
+    "4734ee329d398a79fb8347f700a01144167ed0aa": [
+        "JCR-1398"
+    ], 
+    "d06961aea3cc3cf344ebb2312f516ccbbdd6a4d2": [
+        "JCR-2939"
+    ], 
+    "1725648b9afa2a3a0b8918a003767ef452d901fc": [
+        "JCR-335"
+    ], 
+    "6a80f8759ef92e270be2f02403a967b2ef7d29c2": [
+        "JCR-168"
+    ], 
+    "fc4f668ffa9297274e5bedab2a7ebcc3392149dd": [
+        "JCR-477"
+    ], 
+    "5daacf545bc0707677ac0cb8e8a04c694298dbe2": [
+        "JCR-1331"
+    ], 
+    "9d4f0887b738996195d569330e2dccf2402d640b": [
+        "JCR-2611"
+    ], 
+    "7e3137b913e5064f49404d6e810c077de268a690": [
+        "JCR-622"
+    ], 
+    "28cba1b6f7aa44693255937b57668817e9253707": [
+        "JCR-2102"
+    ], 
+    "e5e58ca99c4ed7fbd1732923afa945a7e33a4a6d": [
+        "JCR-1217"
+    ], 
+    "53b79f77390ce158a653523754c041aee609ff81": [
+        "JCR-2542"
+    ], 
+    "565c348ef99403df899152507a4bcbe078a9854f": [
+        "JCR-772"
+    ], 
+    "9d41308d5c33f494aff1670b2bf78e4bdf627c72": [
+        "JCR-2991"
+    ], 
+    "1978ced6af88b2cc8c87e4304d2ea3941773887b": [
+        "JCR-1272"
+    ], 
+    "62fea7f149fd2729f585b2ab452992e0e9b6eb57": [
+        "JCR-1949"
+    ], 
+    "68d408de2dc0f0eeb9cb663a6fd75cc8b27bc9cb": [
+        "JCR-622"
+    ], 
+    "7ecb1a29aa5d1dcc4ca6cfb6a93b5023d4c891aa": [
+        "JCR-705"
+    ], 
+    "39f36fe9ee6d78b801404f90bb0938cdeeefde05": [
+        "JCR-387"
+    ], 
+    "fa4a64b613a8fbf5866934e664b51ad3e6b62df3": [
+        "JCR-2542"
+    ], 
+    "5bc7f40f1a26fcd178779fb50a325ec3618a5f74": [
+        "JCR-4015"
+    ], 
+    "4dedccbbee98c30d614aa72288a31a023c170ba4": [
+        "JCR-370"
+    ], 
+    "42f3ae635ea4f873eda41b911824a7ee2527140b": [
+        "JCR-661"
+    ], 
+    "1cbc41767c90cafc66666ca1030d6668b5fa76a4": [
+        "JCR-3065"
+    ], 
+    "c1cc3addcff839271b212a5b673b0e80fc3d59ff": [
+        "JCR-3605"
+    ], 
+    "ace2f738e764ce3567e830d5abd2ece98d48e6ed": [
+        "JCR-885"
+    ], 
+    "8bde3f0e8062a58f75b9888ea358d3f3d037d7c4": [
+        "JCR-1612"
+    ], 
+    "7c38af4f87bd69e0c7042b35c19c2d26c6d02ce2": [
+        "JCR-3691"
+    ], 
+    "7532d25dbf2ee3a6e7bca2f7ef4d61cd078f3b54": [
+        "JCR-2047"
+    ], 
+    "4fa540b55e3852f64742bbe59e13fae9e9362956": [
+        "JCR-16"
+    ], 
+    "260d04b0e4f88d8b5d094256aae0b9a40de058d1": [
+        "JCR-1540"
+    ], 
+    "ed62b3fe9c2ce6c18d98377621313a4fed3a0ccb": [
+        "JCR-3407"
+    ], 
+    "3b75832cdbf28ff73c3dcb02beb7a73e7749d08a": [
+        "JCR-2370"
+    ], 
+    "0b0ea1f5158a71cfdc92d9fb306572797f563c06": [
+        "JCR-259"
+    ], 
+    "eae03d97a303318db8d0b74478e58f641b7cfed7": [
+        "JCR-3440"
+    ], 
+    "42a6c8d0d75dae045138dbae7adad158ca17e578": [
+        "JCR-811"
+    ], 
+    "ceec75e8c3b9e9f4ae3044339886b824c448c27a": [
+        "JCR-1767"
+    ], 
+    "d93f5d18e17b755c9909b510f35ce311054a1bb3": [
+        "JCR-1476"
+    ], 
+    "a0440222748b687f0a747d49b331d88cb05ab213": [
+        "JCR-4149"
+    ], 
+    "66242ce2574fef11acaadaac19e32bfa75c407bc": [
+        "JCR-933"
+    ], 
+    "98ae1b3d1481d8713d0f4d8758ef9e19259a7270": [
+        "JCR-1318"
+    ], 
+    "6b63c3069b72c507a58c0137807b516007041e6a": [
+        "JCR-1168"
+    ], 
+    "f8d67492c6605c28948e5be0421b520b8ab400cc": [
+        "JCR-2633"
+    ], 
+    "a6b6988b50b22e54ab5ba7f5d123bf1cd12bc439": [
+        "JCR-2541"
+    ], 
+    "27d878beb7eb519386c4579fd32b295f6a3c53ac": [
+        "JCR-2523"
+    ], 
+    "88632e0427e2fb9711beba798d23881b0d15017b": [
+        "JCR-2739"
+    ], 
+    "20ed465558845aae5ca822ba5ef8e4c85372562e": [
+        "JCR-721"
+    ], 
+    "ed2e2316ef18536eeb42d76170508ed1d8820891": [
+        "JCR-1601"
+    ], 
+    "354d50b53d97ce20a6bea860fdb8e1b6d8b26469": [
+        "JCR-379"
+    ], 
+    "cd56223aa5f75202225d59aeeeb52eb18e3d70ff": [
+        "JCR-231"
+    ], 
+    "8c1fb49a0bdc4b57d19980075efb1a661d0086f9": [
+        "JCR-2718"
+    ], 
+    "ffdf171995ff53c7f7e90553fb5f7ac924905303": [
+        "JCR-159"
+    ], 
+    "8a00adbd4b1c1ae887080cbbcd101116b01277a6": [
+        "JCR-3082"
+    ], 
+    "a5d5cb7a4843404c92adf68942e1d25e03c596e5": [
+        "JCR-160"
+    ], 
+    "eeb5e5ecf9ccdb975c8c6b85857e28c1b25d1281": [
+        "JCR-486"
+    ], 
+    "713140a41cce44cc9e22585e04d560eb3dd19100": [
+        "JCR-265"
+    ], 
+    "e0b7655ffd06f5e505574fe46a1abe0c0de6096c": [
+        "JCR-1332"
+    ], 
+    "e53b2b46eea1a1d8e74f34db5c5a9c6da8b0acfe": [
+        "JCR-2408"
+    ], 
+    "7cc000733f3e622e159f0db96d47943f1ca2c9e7": [
+        "JCR-1657"
+    ], 
+    "ad141a9948f10b9fc7ed1a99d57877e6255c0ea5": [
+        "JCR-3840"
+    ], 
+    "6172d095695d7259a077431445d82f9cc9427b12": [
+        "JCR-695"
+    ], 
+    "868f6a757c0e4d6b0c3944a610493692a24d4441": [
+        "JCR-3112"
+    ], 
+    "cb5a5deac078012a4ede092d7347451e150ba500": [
+        "JCR-2541"
+    ], 
+    "7a2a74288a4863de5d81f99c2758b326ea836b4d": [
+        "JCR-672"
+    ], 
+    "b103ff6ea229cab9d3b28ea989fc09ed31e51837": [
+        "JCR-2401"
+    ], 
+    "57fa9847d0344900499ff6172ec34b7b82ac4aa7": [
+        "JCR-45"
+    ], 
+    "a62af6c6d75b32d2e252162fd4e83226628c3400": [
+        "JCR-2167"
+    ], 
+    "12a4105e7ce1c4708ee9432e5f8947fc3bcccd02": [
+        "JCR-3390"
+    ], 
+    "6040a6e47889b807d652a67d377622f7349f4400": [
+        "JCR-192"
+    ], 
+    "787f9c4031af74f7b729e8c2d6a0ba98d29a96fc": [
+        "JCR-2655"
+    ], 
+    "82f0320c31ecd2177fbebdb2fd8d76636e689647": [
+        "JCR-1440"
+    ], 
+    "1693c6b248db1398f045d6d2864598a3bcc5d9d6": [
+        "JCR-3299"
+    ], 
+    "a9176d6e90c7c1c6d5070ac7cd557b4ed2b5ab14": [
+        "JCR-841"
+    ], 
+    "88fb7dba2470e83ddf3943d39a0aec967765310b": [
+        "JCR-1301"
+    ], 
+    "b88b5870a6d091168e0f3ad54df1281a8897d510": [
+        "JCR-3270"
+    ], 
+    "68df43f907754df9fe1740a05b1e3b485911c879": [
+        "JCR-455", 
+        "JCR-414"
+    ], 
+    "f51066e92851ce89358552035850f98d0d974265": [
+        "JCR-1548"
+    ], 
+    "acfb4da6d6f99842693c31363a106b4ba8aa5036": [
+        "JCR-2541"
+    ], 
+    "718debb408c0a675ee65f6b2df210b0a23f1f1ad": [
+        "JCR-2313"
+    ], 
+    "4abfe9a01dba8a84b396219f84d6ff9e6bbddf8c": [
+        "JCR-491"
+    ], 
+    "3aa7ab755456714dbc3ce339bf397b0ababb5c11": [
+        "JCR-2282"
+    ], 
+    "f3b1fa16e9dd3ced5c671364235e41eefc372e76": [
+        "JCR-129", 
+        "JCR-129"
+    ], 
+    "13b02eec8c921fb82347745be9d21ec3eea76103": [
+        "JCR-3639"
+    ], 
+    "5103923612cf7e1d22024df9c33eba1b57a52c20": [
+        "JCR-2542"
+    ], 
+    "0b1ee29a7fc2ec8047d2003f48aab066aba020ff": [
+        "JCR-1857"
+    ], 
+    "8444815f6b02b56f2a8ce0c2dc6df99cdc63e55e": [
+        "JCR-2828"
+    ], 
+    "5c67ebf168264c8e7447a189f8e2d287c159968e": [
+        "JCR-2064"
+    ], 
+    "5e9cab22411411514ea7cd85d9e35ff644b6b455": [
+        "JCR-3003"
+    ], 
+    "3bce930c1806c00f5103ceeb53a58c8dd42468a9": [
+        "JCR-3576"
+    ], 
+    "a9bde35cc8525b3767838881f5e143a4fd1a3205": [
+        "JCR-437"
+    ], 
+    "2e2e301986c822b89b119511640db558f6272000": [
+        "JCR-1453"
+    ], 
+    "a2aac573d399db10f39e89d6b462c9a211afbd42": [
+        "JCR-2542"
+    ], 
+    "283df6f101676579086400e30e8dd42eacd5ef33": [
+        "JCR-4009", 
+        "JCR-4002"
+    ], 
+    "7868ece271fbaa779398b0bb2971005eb3c2df76": [
+        "JCR-136"
+    ], 
+    "4476321fda04a081ea4c22749ffc3042fbf1ce84": [
+        "JCR-2503"
+    ], 
+    "4abf0439af7ffa1f1626565f5ee128787a65d6d0": [
+        "JCR-369"
+    ], 
+    "e989a75f3f1de73c89d71a89bf9a6e171b0ce05a": [
+        "JCR-4006"
+    ], 
+    "769a2611a686dc1f6afd7de85e85f2c462aa5114": [
+        "JCR-3000"
+    ], 
+    "85f329438ff32ab41bcbd448379d08c999e8b0fb": [
+        "JCR-1046"
+    ], 
+    "4f330e21c82c08f61bf3c6a29ac7c14e143902d3": [
+        "JCR-312"
+    ], 
+    "841c3a28803755a1aacaa388d298d5399a9cdb09": [
+        "JCR-463"
+    ], 
+    "5a938eb4f0cb8385c3d94010d4cd1093efbeb3c2": [
+        "JCR-2753"
+    ], 
+    "c8bdcb8ed64bc0bf213ea56c4dc3c08eb0c2870c": [
+        "JCR-3772"
+    ], 
+    "c0ae4ef0aed64264584edde8ecd62482e3d0dd60": [
+        "JCR-951"
+    ], 
+    "77aced220f5fb48499520e8c3c5c93014171daa9": [
+        "JCR-3551"
+    ], 
+    "6a63019049db43a548df40b1bc1fb300da234455": [
+        "JCR-3934"
+    ], 
+    "6d330aa3bed2d96016575d8233f79c9106800740": [
+        "JCR-445"
+    ], 
+    "3cce89f4d9c62d28f1d25bb1095d84cbc8f556a2": [
+        "JCR-2238"
+    ], 
+    "818b361b0e4b4475439687aad14d4f4a4235cb44": [
+        "JCR-2328"
+    ], 
+    "c4094aed9f5e5ca16e6015e34c612f8f2961528b": [
+        "JCR-1599"
+    ], 
+    "7dab64d48c529b72694b1413702e7447fe0fa139": [
+        "JCR-2671"
+    ], 
+    "40214101f31960958bcab0065d1a208decaf3dfa": [
+        "JCR-31"
+    ], 
+    "cfd9af513f19e59f52ad3ede3b3f56453a1faa6a": [
+        "JCR-496"
+    ], 
+    "48b9c68e14235f9c1643855715a79d328f20e314": [
+        "JCR-2307"
+    ], 
+    "9e9acea664b7068e4af4f1d72edb2db57540cf52": [
+        "JCR-2466"
+    ], 
+    "78bcd539dc326b333c0d025ed988715bc8a5a939": [
+        "JCR-1688"
+    ], 
+    "0df19fb3cdb52997f4e2d9f0de7da41bb73b87b0": [
+        "JCR-2674"
+    ], 
+    "2ad6718313f803f6216433d44eb30365542a73cd": [
+        "JCR-3873"
+    ], 
+    "ccaca551ff524f9c54f4b63ec4011fa8ee1e0116": [
+        "JCR-108"
+    ], 
+    "f0a3a9ce1326504d9e4d9fc26018db2ff571ddea": [
+        "JCR-1910"
+    ], 
+    "7273375a0848a8f1e76da637a8882ffb3b943e75": [
+        "JCR-2632"
+    ], 
+    "eed8aa4a7c31e79166bece0a48fc3b6a4adf8fe0": [
+        "JCR-1596"
+    ], 
+    "650f0333777da613b1cac2471d77b0143c929169": [
+        "JCR-3640"
+    ], 
+    "9eebbbcf95d933b9386777df049bb8c1d246118f": [
+        "JCR-2746"
+    ], 
+    "b46e89466ae33c31dad08c2ffeb43709dc287a5a": [
+        "JCR-3811"
+    ], 
+    "6265e1d9d64f9519889220ae7a42c9937ecddfcc": [
+        "JCR-3052"
+    ], 
+    "2abaf14391c805896f2dbe173578a4611d2e6552": [
+        "JCR-563"
+    ], 
+    "699bb884e55367b1be622f19c92c3659482789f4": [
+        "JCR-3552"
+    ], 
+    "04fc14eb06ea74e253d1b0180374089c883cb4e1": [
+        "JCR-1160"
+    ], 
+    "a0f00164fb8ec58759be262c5c955cc27b0f1d77": [
+        "JCR-2919"
+    ], 
+    "f08d3abb56d4e3eedf88514094a7564c24e7da9d": [
+        "JCR-1862"
+    ], 
+    "50b35336e926b3747d5abcbe970a44514e0c9587": [
+        "JCR-3398"
+    ], 
+    "78e076e5605fe27cd9f06a3c9be18a33ea521a3e": [
+        "JCR-1703"
+    ], 
+    "5ef38d28cd69b0e349252a6c944402793a83155d": [
+        "JCR-3385"
+    ], 
+    "fafee3d9ee1d09cde1261fa92c0794f8b6deb4fc": [
+        "JCR-2313"
+    ], 
+    "4ffd94a5ed1a8abac7fbfa91985d12ca8bd070e1": [
+        "JCR-4179"
+    ], 
+    "d33827121f571f518e3d497b843b5b41ffa5cca8": [
+        "JCR-422"
+    ], 
+    "aedeb3d5ff7c1aaee2f9a14b31ef7c4dcf357c0b": [
+        "JCR-1053"
+    ], 
+    "fde17b4ad325b0bf1d8cf4591eecfb2fc48d0e7a": [
+        "JCR-813"
+    ], 
+    "f37749b61a07da4a57d82761106bc0670711c94c": [
+        "JCR-503"
+    ], 
+    "c495ebf927b178c0d0986b6f6360272f01a85132": [
+        "JCR-411"
+    ], 
+    "4d286df33a00b7e7f70c3d20a505de388e72d954": [
+        "JCR-3224"
+    ], 
+    "e5abbe05cb8ee8c62631e724edcf01a73764aff0": [
+        "JCR-2980"
+    ], 
+    "9d65bb1c5e0460af2dbe5ec6c080817ceefd52f9": [
+        "JCR-586"
+    ], 
+    "8393017cc233542f6f66b350e3497c2740098f5a": [
+        "JCR-469"
+    ], 
+    "5e8bb93d675c57484f0813356e88cb86f6e6a3cf": [
+        "JCR-905"
+    ], 
+    "93b807537cd8c3e144d17d271de27d5eb2f89cb5": [
+        "JCR-1632"
+    ], 
+    "0cbf4a4003bdb145c4b39fc5bc337d7cd3451f2e": [
+        "JCR-57"
+    ], 
+    "484b4c83429178592ae53e58f04b280a2a5034d3": [
+        "JCR-773"
+    ], 
+    "aa5bbac596417a49ac1b73eb34c43f36bb817f5f": [
+        "JCR-2013"
+    ], 
+    "01915a2c10d63900c0317a07df4583e029fb3571": [
+        "JCR-327"
+    ], 
+    "f45da83bc295d9fd582e9a208281097d2fa7f86f": [
+        "JCR-1987"
+    ], 
+    "24ca438d4fa69cd495933e4a73062d0683aee217": [
+        "JCR-359"
+    ], 
+    "cd51aad1bc9c50412c3dde426127701a564c5eb6": [
+        "JCR-487"
+    ], 
+    "89ff86c0885cf6e5838e874e7ee472ed9ed88a27": [
+        "JCR-1406"
+    ], 
+    "c78ac117e973f29b9546ac0a9356dad45fe5a0fd": [
+        "JCR-2084"
+    ], 
+    "1e6f237ce9be10ad4b4ff6d9ebf025c230ef0346": [
+        "JCR-661"
+    ], 
+    "93895214ae4deee4e8c9b109a5b045db478f28e2": [
+        "JCR-2139"
+    ], 
+    "6e7c19e9d40de9e194dc0794d867c84da5222e58": [
+        "JCR-2900"
+    ], 
+    "7400f1df13eb8b9c3360012eb88ed0652b0ff514": [
+        "JCR-3274"
+    ], 
+    "87caf4b52e36c560978d015021e9a1087bb404b8": [
+        "JCR-2356"
+    ], 
+    "a03194030d3f1727be0f654a7b640c087c7fbbe9": [
+        "JCR-2508"
+    ], 
+    "0a7df96de02486f8ebedd87c6ba4964b25ba9fb7": [
+        "JCR-2617"
+    ], 
+    "b905aaa946f028916a359019ffb468f6f078a1d0": [
+        "JCR-187"
+    ], 
+    "5b42a2922384cfff76e32666303490fe26528c2e": [
+        "JCR-3289"
+    ], 
+    "90cb3942db8416fa3c3ebf13b576cc7a6ed44af6": [
+        "JCR-2408"
+    ], 
+    "e230ff01b8a69e4c9b9efa62800d06adc8bbb8df": [
+        "JCR-2826"
+    ], 
+    "d36a05f7584324d6e9913cc651df0791fb1972ce": [
+        "JCR-2237"
+    ], 
+    "08d9780bc9faa9e4b9a7d0f03a2171b53c2765f4": [
+        "JCR-1813"
+    ], 
+    "ff49f0633eb8e654d3fb8985bbb6555a37110566": [
+        "JCR-1925"
+    ], 
+    "1729ca0e754c6c6003761058b9cb53b2206f0957": [
+        "JCR-1047"
+    ], 
+    "ad78897a9f86674a0c162fbf9a56fee1e52e661d": [
+        "JCR-2456"
+    ], 
+    "f663ee97d737720e933df1ca1f10a8c5720a999a": [
+        "JCR-616"
+    ], 
+    "0c67f8c79d06e6c0b001d246207f87000b5d6fe9": [
+        "JCR-2636"
+    ], 
+    "44550683f88f98decc7ab99d55d1bd0bb8d0f5c8": [
+        "JCR-261"
+    ], 
+    "4869724aa00d6f1b8199cc6dfcb8488104a9e0e5": [
+        "JCR-45"
+    ], 
+    "acee9802a570c7f6ede582836a383958a1312fcc": [
+        "JCR-1803", 
+        "JCR-487"
+    ], 
+    "2309fbbb838677eb49ecc1b4f3efdb5a7b50dc14": [
+        "JCR-3654"
+    ], 
+    "e77ee07dc9f90d0de1e8a4c00742ad8d6f78a2c1": [
+        "JCR-2238"
+    ], 
+    "8cdb97b55c0b445bbb4dfbcc77cb79a2940f786a": [
+        "JCR-1275"
+    ], 
+    "ed8cca5f499c76d1f4fdec47940b20d7bf071795": [
+        "JCR-3234"
+    ], 
+    "75269497476c7478c0a7166ee544489ed51cc5f6": [
+        "JCR-1578"
+    ], 
+    "76905596dcc43b7a8857f9be60886004a0502a46": [
+        "JCR-1055"
+    ], 
+    "96937628b923031ae077b96366e5ce84a8bfc5e4": [
+        "JCR-1701"
+    ], 
+    "b58f24482b0946d669338d2833f4c1825a803009": [
+        "JCR-3691"
+    ], 
+    "fbdcd493e599083360ae4af8ae114e2c857dfb94": [
+        "JCR-3556"
+    ], 
+    "a5aa12242105cfc1191a007296bff87597432759": [
+        "JCR-444"
+    ], 
+    "483afd5c370ed4f9ef0a72a34e834258a6bbab23": [
+        "JCR-3439"
+    ], 
+    "c866aad34920c4c4ebee91dab1db3bf524d875b7": [
+        "JCR-1767"
+    ], 
+    "c7c15ed1930f0d617bc246328b65181e69be12de": [
+        "JCR-1434"
+    ], 
+    "7929279a7975d6370a2246a05d3f30d2c9149ec1": [
+        "JCR-3447"
+    ], 
+    "b252e505e34b03638207e959aaafce7c480ebaaa": [
+        "JCR-3950"
+    ], 
+    "8455d1a44cd06a71faaaa36ba1bf2372d39a8131": [
+        "JCR-48"
+    ], 
+    "21ffa1dc6773489c1556177ca674d5d44fbb77ea": [
+        "JCR-3247"
+    ], 
+    "baa40a8c942bdc8bfa0f2d3fba13f13ffc057f2f": [
+        "JCR-546"
+    ], 
+    "3361bcea2cfda7e2d0b814538f36c60561cd63b1": [
+        "JCR-3214"
+    ], 
+    "def0ce9f5e5f285aeb0f973b4872563dc55d9efc": [
+        "JCR-378"
+    ], 
+    "4a7ee21890aaae932085924feddfd11462ba9da3": [
+        "JCR-2313"
+    ], 
+    "50e74006c5ae748906ce8e75418ff745b94bf1bf": [
+        "JCR-2655"
+    ], 
+    "dcaaff96b5eb9953788ea1d0919c3adb652b1ff0": [
+        "JCR-47"
+    ], 
+    "2f4fdbf632d92a889de7c2f4835903a5fb55ca4a": [
+        "JCRTCK-17"
+    ], 
+    "07aa36e19e11d33700672172fae7c2fce64da2cc": [
+        "JCR-2537"
+    ], 
+    "af7b0d1d9071f5868b43a87abfc1bc6f7c2a1e21": [
+        "JCR-3007"
+    ], 
+    "2e7295b2b9f808ac4ab1c1869288b8489b805018": [
+        "JCR-2575"
+    ], 
+    "2021533ff3232433420ef0d73fbe1dd4e34d6e19": [
+        "JCR-168"
+    ], 
+    "e034de2f86ce8e44c3676aa3a7f76018f0361d70": [
+        "JCR-10"
+    ], 
+    "767e18348734b912443fd06c989c495735756748": [
+        "JCR-1581"
+    ], 
+    "909dc950b8bccf761d896f11476cab6bf5f38b4a": [
+        "JCR-811"
+    ], 
+    "a74b3222692f5a873bfdb95e50b63fa2440ab21d": [
+        "JCR-333"
+    ], 
+    "ac17a7e8677a279dc0de3935452ad02b2baf99b4": [
+        "JCR-24"
+    ], 
+    "68739abc541475ee3dfc8619b75061a5e336691e": [
+        "JCR-2880"
+    ], 
+    "d1700674c6a1ac015196fe9fc4fa6d08e0314589": [
+        "JCR-160"
+    ], 
+    "9e11b615e62133b4ca74fdede7835914063c88bf": [
+        "JCR-699"
+    ], 
+    "57375df5061bf6fd6850f3d295623d85c1125e75": [
+        "JCR-237"
+    ], 
+    "8fd7fa28204f2756bb612703871e541de4e47b50": [
+        "JCR-111"
+    ], 
+    "6cbc271530d933d4c9910537fd8a83f089281ae0": [
+        "JCR-1784"
+    ], 
+    "ddcd1269da68410ff97efa693c62857af8956d13": [
+        "JCR-2064"
+    ], 
+    "b91362dc5e1b648bb1dc0ed5a7019684e232294e": [
+        "JCR-173"
+    ], 
+    "8a7ff3efc8558048db1e5e177cf53a5c72fa5683": [
+        "JCR-336"
+    ], 
+    "14ce6e4358862a459482a2503c25361bcc5589a2": [
+        "JCR-3235"
+    ], 
+    "71d082fe5b0b3c1303849fdf8cbc2843afd27486": [
+        "JCR-49"
+    ], 
+    "82a30f87f803ba93b9c012c4171b81884c29454f": [
+        "JCR-385"
+    ], 
+    "71032b3b50dbb2b6f37d7a3a4de6b93b73c82e5a": [
+        "JCR-1286"
+    ], 
+    "10086ce9bd33235f6398c0f9d4bc05568babf0e7": [
+        "JCR-504"
+    ], 
+    "aff4eab0ddf961938b8a961e20489deff19f28ea": [
+        "JCR-299"
+    ], 
+    "d9a430d7915a6ad2df7db8493d9965af548873be": [
+        "JCR-2405"
+    ], 
+    "bc24e937f772129ced7e3ab22fbb067d1a2e5629": [
+        "JCR-4408"
+    ], 
+    "ffb3691b44704cfe0ec20d33532aec64b31ae483": [
+        "JCR-2758"
+    ], 
+    "d1cdf23bdc4c2a7189f4a0c86af217478a6ee3e6": [
+        "JCR-1364"
+    ], 
+    "79d54bd78b8162e3d2eb6e4e95414e0a49de6f41": [
+        "JCR-2616"
+    ], 
+    "b65a6199ef673df3e0ad7395adb1f995d9f916fa": [
+        "JCR-672"
+    ], 
+    "87b6fd006c54a26eca526d3afa66c339e2a60829": [
+        "JCR-3419"
+    ], 
+    "96164edc58e72110bc86e6a9cd85cacd157c9b3c": [
+        "JCR-3349"
+    ], 
+    "01527d4f4e980fa35230183287f64c3bb0c15bf2": [
+        "JCR-3236"
+    ], 
+    "31fe04ba7d9419599cc6a85092695e8e2f993168": [
+        "JCR-739"
+    ], 
+    "fa27ff9b53ed0c69582d96223e3e7fc827dbffc5": [
+        "JCR-683"
+    ], 
+    "695b8702174285828d2875c07d8605a1247f3f3d": [
+        "JCR-1650"
+    ], 
+    "9588f40fe80b5309284c8553494ae4e2e3afeb03": [
+        "JCR-1147"
+    ], 
+    "7169819463dff0953b119802ba97c46380de4d0b": [
+        "JCR-1653"
+    ], 
+    "99aa8d125db3b727a94b3020d44f1b29971bde00": [
+        "DERBY-1"
+    ], 
+    "b87fc4ba0b3f61f71cad8c9a994f0120966628ef": [
+        "JCR-3158"
+    ], 
+    "1ce81c4768d935b89264e952c953f30bcef1386f": [
+        "JCR-2143"
+    ], 
+    "31b7269885cf56958a95c8fef047b85579ca8669": [
+        "JCR-3377", 
+        "JCR-3318"
+    ], 
+    "6c1bc0932f3f083acf3937326518c137e27986a4": [
+        "JCR-1504"
+    ], 
+    "c9c0dcebac61b58009ed92c24521983618fcf913": [
+        "JCR-2836"
+    ], 
+    "9270a1c4354077aa271f101f93846e8aaa8f0f4a": [
+        "JCR-1302"
+    ], 
+    "e0ec4798607aef4d2eee31a0f35b0859242ae7ee": [
+        "JCR-3013"
+    ], 
+    "99aba0d22b00d1a00fedec9ec5468464841af1f4": [
+        "JCR-1082"
+    ], 
+    "4a2dca1fa40f41576abb10ab2691c77c61add2e4": [
+        "JCR-3000"
+    ], 
+    "79fc4da9d9a5d209a27ae7a5e1ae9cd7174667cd": [
+        "JCR-945"
+    ], 
+    "f89aa7e398fece3a1199b56fe04c4bdcc8eb9e50": [
+        "JCR-4085"
+    ], 
+    "53ac767f72fb9464b9aedececd5ca54ff1587fa2": [
+        "JCR-2024"
+    ], 
+    "563eb3ba8b89ce1be34f70607b084853f81bf26d": [
+        "JCR-3779", 
+        "JCR-3368"
+    ], 
+    "8043805fbab8baab0d577fb8849291723c782a79": [
+        "OAK-3949"
+    ], 
+    "726743eec938ba6c57f45facd269cffffbec29ec": [
+        "JCR-2542"
+    ], 
+    "5e5e0bf67482513c2800d600c46cf2c39d7424c8": [
+        "JCR-2890"
+    ], 
+    "52b5610deade85d82fd47892bb72d1db817fecc7": [
+        "JCR-452"
+    ], 
+    "9c9f3731337cbe567f7d67cd4baadbba7429dcb5": [
+        "JCR-3761"
+    ], 
+    "99c4f278af17a2b6c1c993625a1e048f79853989": [
+        "JCR-628"
+    ], 
+    "d4bcb8fe1e3c9468e942be389555c5a1a0de04cf": [
+        "JCR-3693"
+    ], 
+    "44b8bc885d647f7929e627375717e2c6f441c089": [
+        "JCR-67"
+    ], 
+    "3b931a30dbd2f185fb1d35fe76e41fb7bb7b89f6": [
+        "JCR-1364"
+    ], 
+    "a4dea604fae86f5c86d6eaa4cba7029bde3fbd87": [
+        "JCR-3631"
+    ], 
+    "bfcf7ed0141ad82e7c7ca52c261ad61ff3304e76": [
+        "JCR-1776"
+    ], 
+    "f71e8d24ee74d8f881041021544b4123c153e803": [
+        "JCR-3334"
+    ], 
+    "35be395ac924e23bdb0ffda5a60f4cb17ceb4284": [
+        "JCR-84"
+    ], 
+    "6f2ef6f2c6fe7ea0cc05ad26427e37f28be2c7d9": [
+        "JCR-68"
+    ], 
+    "e9360b312d82b8d557f7fb0912d6ef5f86d58e48": [
+        "JCR-3374"
+    ], 
+    "fa8717d1083ff542506faea5e912388e21f54671": [
+        "JCR-3025"
+    ], 
+    "ce4aa7a8cd3b86a0beecc78af61f415b369342eb": [
+        "JCR-3014"
+    ], 
+    "b843c76ced7ed1698fc8e0f9a542cc18e7394541": [
+        "JCR-2447"
+    ], 
+    "4037fada7fda630581ab454558a6801531402f49": [
+        "JCR-2507"
+    ], 
+    "8298240c87d0da9c9c310dd7c3d26255f374c37e": [
+        "JCR-1546"
+    ], 
+    "7ba325f3cbca205a791a3f1bf2960098e4aa1b09": [
+        "JCR-405"
+    ], 
+    "532f6d9e63959e7f83b3807f4665380eb572022b": [
+        "JCR-3459"
+    ], 
+    "4f65064484a86d17d815038314b26d978a92f728": [
+        "JCR-525"
+    ], 
+    "35db721e8e9e4000b0d0794e9abe02eca963a4ad": [
+        "JCR-546"
+    ], 
+    "c838a70685b0885f470bd6c3150375900cac1056": [
+        "JCR-1476"
+    ], 
+    "c63a588fbbb4892d6e8b4ec7aa3ec6ce7b6d6aad": [
+        "JCR-2903"
+    ], 
+    "069484d283126ede550b80aa8b0f3a42fede7cc4": [
+        "JCR-2945"
+    ], 
+    "21d2535cf5eb3f6b998dba030c1c67317fe7b6a4": [
+        "JCR-812"
+    ], 
+    "fb81da2ab91d251a116498afc3fa3aee70dfaff2": [
+        "JCR-386"
+    ], 
+    "3f4b3f4e0090ba2d5052dc46c12daeee230f7194": [
+        "JCR-2340"
+    ], 
+    "cbbda6b993185a744a5995495169927b9a5976d6": [
+        "JCR-4093"
+    ], 
+    "dac7be373f33ccce17d6fb64c75925b7fe6253f4": [
+        "JCR-1825"
+    ], 
+    "e5c2e097a2b1d9cc5c0870a63385cda31bb40478": [
+        "JCR-3642"
+    ], 
+    "29263b3dd9a7f03e0c53ebd9dfcfa673846af837": [
+        "JCR-2541"
+    ], 
+    "a4f84f5b1d318f9733f1ed46b921fa095e9a2a25": [
+        "JCR-661"
+    ], 
+    "89087372effdf35f5bd0cd1367e6dd354732c9e1": [
+        "JCR-1790"
+    ], 
+    "7ef09d3474f89e017de803739bbfc7c8aa80fef5": [
+        "JCR-3387"
+    ], 
+    "0bed6017085b53c2c3eda713170b525356623a96": [
+        "JCR-2883"
+    ], 
+    "5d5fcd313b14e3f2b6b4f40e9a22348613a351d0": [
+        "JCR-1185"
+    ], 
+    "5dd13f8c2763ac5eb43e3e2feee5d9fcfc8d6346": [
+        "JCR-4093"
+    ], 
+    "accf4600511a63f7b0d6559b8e24ee40912c9341": [
+        "JCR-3115"
+    ], 
+    "f6b4bbf15abbdcad209bb1be2d1849b3b7777f5d": [
+        "JCR-194"
+    ], 
+    "bb03e56abe38894ee33a79697a1d953fd9e43a5c": [
+        "JCR-2889"
+    ], 
+    "8391af595f7bc0149810ce434ebf27c3667c5bc4": [
+        "JCR-4185"
+    ], 
+    "e709e26425a18c81332ea98a21b4bc9bc715bcc8": [
+        "JCR-14"
+    ], 
+    "c4e2ebb113e63af7bc27cac59a7f0aee8987f32a": [
+        "JCR-447"
+    ], 
+    "77b3cc1ac3295ecea4a7c86e2fd18f2269e62e8b": [
+        "JCR-3016"
+    ], 
+    "871836e44a91c196390e7f723c4c52a653cc9fa8": [
+        "JCR-1514"
+    ], 
+    "34fdade5ebbab1ca9cdc772b0776b5fbccadf04f": [
+        "JCR-268"
+    ], 
+    "57ecf7c098af85cad68adf10917beadb87c586a7": [
+        "JCR-2473"
+    ], 
+    "329ad6b52f242dbc80bb32ca3fc3dd66426f08e5": [
+        "JCR-1548"
+    ], 
+    "d50ade605f9d19c4d4167e5804f66506aae43b41": [
+        "JCR-4015"
+    ], 
+    "1ff47423a97180dead8fa64c9547f095ca9d1d0d": [
+        "JCR-1141"
+    ], 
+    "6748a99fe83abcc457c9c41cba9b0cde7ca3c255": [
+        "JCR-2547"
+    ], 
+    "618b158299b0727c74b16398aca680652dd4063b": [
+        "JCR-1611"
+    ], 
+    "f049b25ec59c5a874b61a230e880cbd201835513": [
+        "JCR-3655"
+    ], 
+    "fd64420cbd67f4a4edae5f1f6a0d9e48e12a2280": [
+        "JCR-2398"
+    ], 
+    "83f8c6e4d3ca1d43250b39f2ea33a10891fdab05": [
+        "JCR-4242"
+    ], 
+    "dfb5c2eefc69df17646ab72019bb3fb7772a6482": [
+        "JCR-2110"
+    ], 
+    "405998f4bad73b4a0c183963a655d7a32b56ac9e": [
+        "JCR-2891"
+    ], 
+    "ad0daa26111eef2a769810e0699d8a50f2a00819": [
+        "JCR-2709"
+    ], 
+    "4c4cec69095fb278acc43cf09c76a38e1300f768": [
+        "JCR-2844"
+    ], 
+    "45253143c923608c10b2356426691ee65eb782e1": [
+        "JCR-4324"
+    ], 
+    "de98417e7ae82045c96ddd62dfa61f3fed008593": [
+        "JCR-4007"
+    ], 
+    "6480048a49247537fe65f8200dad484f1543987f": [
+        "JCR-649"
+    ], 
+    "94b7736060011c39aa5da537d808a1c462040809": [
+        "JCR-2960"
+    ], 
+    "0cff2711233955449be132f75574acf2e71977da": [
+        "JCR-3617"
+    ], 
+    "554990ac90553ba21681ecd9bbe574e117990e38": [
+        "JCR-3298"
+    ], 
+    "803fa059cb858c176ff2c5782664219e3561f218": [
+        "JCR-1912"
+    ], 
+    "ace4121eb2923bce15320ff04fe46c3da92c4706": [
+        "JCR-2528"
+    ], 
+    "c6a221dcfbdc3d89cdd9d7a56a559d8686bd63d1": [
+        "JCR-3677"
+    ], 
+    "8928318b939636aba1d93fb389b08e3e5789d716": [
+        "JCR-2313"
+    ], 
+    "243d89ff87e8ee67bc6c03c148817cb07bff80dd": [
+        "JCR-1651"
+    ], 
+    "664f1cd31d90fa512452ca1844bd0321096b9643": [
+        "JCR-1359"
+    ], 
+    "78b25620eb4c589f153802db9992b571cf166a2d": [
+        "JCR-1730"
+    ], 
+    "0febfb103c75a7b808863e9713a9046d212db089": [
+        "JCR-4093"
+    ], 
+    "353953b55b6b560e93b5b466be39fa91b178df31": [
+        "JCR-2332"
+    ], 
+    "6932d49d2d4af5ccec10f6f2d1415113076a2fbe": [
+        "JCR-549"
+    ], 
+    "bb594a3617c2c4f64dedbc934aebeaff2888417d": [
+        "JCR-146"
+    ], 
+    "02a48b4e1fe3213f3a2b77d223481e6cbaf1185e": [
+        "JCR-2242"
+    ], 
+    "a9b73482b1f7f54600027495e4230838c373a0bd": [
+        "JCR-2753"
+    ], 
+    "dfd454e7dca176b5d9236aebb950129985031833": [
+        "JCR-2282"
+    ], 
+    "b0beac547b3949de4f745cff21634b24c282006e": [
+        "JCR-2665"
+    ], 
+    "3046ac94367139883a5a85c71621cf588bc882c1": [
+        "JCR-265"
+    ], 
+    "e64c2ba74db1572ad5666af17268d3b5f0c265d0": [
+        "JCR-2429"
+    ], 
+    "d276b05ffbca3668d7ea3dd2fcb380817e4e5ec9": [
+        "JCR-495"
+    ], 
+    "e1e54dadb5b70ffa33bd4e4f65639467e6d9030f": [
+        "JCR-428"
+    ], 
+    "3b2fae841179ee92bfe77a8c7d027fe104c97623": [
+        "JCR-4459"
+    ], 
+    "9dd13a5ee4af5aab64a99ebf9c8cf735cec7b0c5": [
+        "JCR-2354"
+    ], 
+    "9f2fac4801fc0063d14fdfad90956be6294f3629": [
+        "JCR-2931"
+    ], 
+    "3d9f464ecd343326e34181d8b72af330bcb17b1b": [
+        "JCR-3001"
+    ], 
+    "c2a3e34d26f76bc04891baa09f28c62fd8dfd0a9": [
+        "JCR-2363"
+    ], 
+    "c6ad467901d48fdb343513ad98f3afd104a78f26": [
+        "JCR-1322"
+    ], 
+    "f3c0427a88c42dfa632349dd4c4ab293c8300b41": [
+        "JCR-1694"
+    ], 
+    "2e8fa474cd9693a5c9753916047fe01eabc722fd": [
+        "JCR-376"
+    ], 
+    "e004fedf99831e60e13f479dbfdec6d794f4e65b": [
+        "JCR-109"
+    ], 
+    "eac01367b78a5bf4474f171a09205a16f35699d8": [
+        "JCR-1708"
+    ], 
+    "a8a2cbcdddc73334684e6f4420075972e6ef37b5": [
+        "JCR-3996"
+    ], 
+    "b4f6eca7f78dec87b805998a35f7ee5daa960240": [
+        "JCR-2528"
+    ], 
+    "724a37b20e059eefa63021dd999f69d87d681884": [
+        "JCR-3674"
+    ], 
+    "a0a5b70af692f8d49cee5119cc746e735f259a40": [
+        "JCR-3640"
+    ], 
+    "cb7f02c6ee11e7aee10d245262b7645152d6e9c3": [
+        "JCR-2996"
+    ], 
+    "10a9cc7757eb08490b1824c076cfeca75a04dfa0": [
+        "JCR-482"
+    ], 
+    "04c943a307119d939ac519ca2d43d2b0a1ef6e69": [
+        "JCR-1553"
+    ], 
+    "efe633ca5d47974d44069fed3c6dc30ceb583755": [
+        "JCR-72"
+    ], 
+    "7b7c3a72b5d5d1361fc2feed55284cfae05c3886": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "3b6044e1c50d787a1f69cefd1c0171b0b9844ad2": [
+        "JCR-2000", 
+        "JCR-1334"
+    ], 
+    "86d29d1502ab0e3c4aae747ca24e049e4fd868f8": [
+        "JCR-3853"
+    ], 
+    "57a7c20020fd2e23617bcbd7fc2b77b4649650c2": [
+        "JCR-2552"
+    ], 
+    "f90d1f8d6cc7a6f1880e3f3aa29d17ca2d41f47b": [
+        "JCR-2662"
+    ], 
+    "70bbfbb4d47418b081711bc16cb041439a379065": [
+        "JCR-164"
+    ], 
+    "44a98ace175db37e7829ff7e00d91b2d72ad2d48": [
+        "JCR-428"
+    ], 
+    "25d4b66f8b1bb6c334f10b20d7cdce94c8c5c100": [
+        "JCR-910"
+    ], 
+    "ed95579bba2517fcc797248cdfa42d102d481636": [
+        "JCR-1078"
+    ], 
+    "f565ea256cec42a548fc3b0af4208f97e8044e97": [
+        "JCR-1562"
+    ], 
+    "2adce36224bf7d19e95c418d2b5caba10f922df2": [
+        "JCR-973"
+    ], 
+    "c7422a0742c14dff56f2a9757fe06d28eed6eea0": [
+        "JCR-1081"
+    ], 
+    "d7786e2f6a7e667461df8c96223398263841c1f6": [
+        "JCR-2636"
+    ], 
+    "744dc4624bfb62dceff69038bafe44aa390cae5a": [
+        "JCR-753"
+    ], 
+    "986a497ae7f2c849f99376a53aa53ec9160a3917": [
+        "JCR-3816"
+    ], 
+    "36ddcd3c1a49d320dc05139209425c669c170dd1": [
+        "JCR-335"
+    ], 
+    "503037f5eaef6a31595d32ee54adefd7432413b2": [
+        "JCR-2272"
+    ], 
+    "0ede15e57fbbe5c13be8382461f72e23d7ae3942": [
+        "JCR-3152"
+    ], 
+    "11ba7972d5d265d757c7147b49aa318f3a1fb92a": [
+        "JCR-328"
+    ], 
+    "8554d8eb89c78f2488be5d75f51664a8db5cb2c2": [
+        "JCR-333", 
+        "JCR-333"
+    ], 
+    "7fc56cee1825c2eccd6e2d07d41f6b9592c14de8": [
+        "JCR-489"
+    ], 
+    "47b73eef65c6c9de700b3a4309e0f065f212355f": [
+        "JCR-2313"
+    ], 
+    "21926354aadf50d3b6d1e748c48266833f34aa14": [
+        "JCR-2420"
+    ], 
+    "29a0c53816b45891a4e1fd7f5d8e8b990d8878ce": [
+        "JCR-2954"
+    ], 
+    "1ef14abb483fc07dd7849bb69e64b1b4a0b58f2c": [
+        "JCR-1830"
+    ], 
+    "7c888a79d2ce2fdd3fa491b6970e4cbbceed5be2": [
+        "JCR-3317"
+    ], 
+    "bf5d71593cfbb6c7bd47e32c81a8ac32dd610b62": [
+        "JCR-2472"
+    ], 
+    "f09670dba46f05d11edfbd102badc8f070a87e24": [
+        "JCR-895"
+    ], 
+    "73b8f423ebcaf82fc121898494f7e8d200d45239": [
+        "JCR-4110"
+    ], 
+    "ecabde0d80750e40a760141bd91ca422130063d6": [
+        "JCR-3455"
+    ], 
+    "ed6af8ec2ac01469c2ae6da877e39c0ead984452": [
+        "JCR-4005"
+    ], 
+    "e0d1678b8b58ca4c447947fd2e00b73e07f0706a": [
+        "JCR-3491"
+    ], 
+    "b8b5b02dc9f45f3a05699bd69594fa62d03ce616": [
+        "JCR-568"
+    ], 
+    "972747ba1a7c969d5589c41fdb5217d571ec0efc": [
+        "JCR-2270"
+    ], 
+    "69346cd2d15ea4d99fdbb8d56abd56b9edd324d0": [
+        "JCR-632"
+    ], 
+    "65d8f848ee7a9fda39b08da81220f00fe4d898a3": [
+        "JCR-238"
+    ], 
+    "2d1835fa9ac5a699ecd6948b417e51ec96316db3": [
+        "JCR-848"
+    ], 
+    "9f3f148cdf785cd60dadcd90587830547d6be6e6": [
+        "JCR-687"
+    ], 
+    "63acadfb54b123a4b61cef2b4bc85561fe225953": [
+        "JCR-1730"
+    ], 
+    "6ed7f1a1ef3b9ae391a80c7c0477731f43b3021f": [
+        "JCR-1372"
+    ], 
+    "1b6ba6250ca2fd877ee26944c4a37ee7bdf0f293": [
+        "JCR-4047"
+    ], 
+    "8d95d1612045d78a9ad5e755a8c3c83b94dbdf55": [
+        "JCR-1013"
+    ], 
+    "d58bcdb7f04238b68fe32453471525c06164d5d7": [
+        "JCR-3326"
+    ], 
+    "144e5239752ec5f51532f6b424b5aceacb6a7a93": [
+        "JCR-166"
+    ], 
+    "925c8fd3596eeb85831d4f13f23f51f9759a1691": [
+        "JCR-1056"
+    ], 
+    "7fb9ea93949a78676820023a288b1b889486df42": [
+        "JCR-1197"
+    ], 
+    "f03e6d3a766f8dcf31b7c31de856ea487ffe6ab5": [
+        "JCR-3447"
+    ], 
+    "dac6fea705117c1909e548f2d7ed52276c5973d2": [
+        "JCR-693"
+    ], 
+    "4f5052571cb1735f82e7de57233b446d5de193bb": [
+        "JCR-453"
+    ], 
+    "fe0fcfbf7e283a2afea251c23e1708be34d58177": [
+        "JCR-2532"
+    ], 
+    "cf422fa29b0f775001c8f5b07d32df1d064ad822": [
+        "JCR-2554"
+    ], 
+    "b4186eec24d9c09a87c791cf4ffb90e5eeaf9673": [
+        "JCR-2579"
+    ], 
+    "ebca6480c613820feb1d41a5b19ae3a091ae82b0": [
+        "JCR-1040"
+    ], 
+    "cd08cf956570afe0b8d8c718751f257e9e7b411c": [
+        "JCR-1985"
+    ], 
+    "d09035d25ae234d07dad93489419180ab2ada37f": [
+        "JCR-59"
+    ], 
+    "78b5d2d6ca32e0d2077039f8fe32548c32b842e4": [
+        "JCR-1049"
+    ], 
+    "d746b5c2974ebf0be1afac828b849d67e39bcb04": [
+        "JCR-2770"
+    ], 
+    "d1f85686e4b72ba97b10b8e679e261fe9dbeca3a": [
+        "JCR-150"
+    ], 
+    "d70a0e1fc153ec36ddf3d191141da38617d9edb1": [
+        "JCR-3682"
+    ], 
+    "da0ff7d9310f21b953db709b952da1950a6d358b": [
+        "JCR-2540"
+    ], 
+    "0cdcee2f4cf02dd52d07f827bd52f4a0923b8011": [
+        "JCR-3658"
+    ], 
+    "718f5e7117fe465111d2a6c27efb2726326fab52": [
+        "JCR-2008"
+    ], 
+    "7e71e747f49899b0b9812ad5fb093efcbae5bfba": [
+        "JCR-2579"
+    ], 
+    "109254ff2bdb19f00b6278a2f7b0f15842e08dc0": [
+        "JCR-2999"
+    ], 
+    "478085b2f7c91cb4e675e211bf6b7cd299e5cd82": [
+        "JCR-3152"
+    ], 
+    "1274eda44cd1ed78a2f2d0d8a8a432a32a01006c": [
+        "JCR-2282"
+    ], 
+    "b31e3312c861732aae3e4339c5ec98ec902c251e": [
+        "JCR-3469"
+    ], 
+    "fd64ce93e39d3818b31494fcd2c7e1a1b31fc185": [
+        "JCR-661"
+    ], 
+    "2b99ad27b0d9e684000bbb5e9b9d88fb3a7793c5": [
+        "JCR-3174"
+    ], 
+    "e174b385a41fd6e34c03a6d273b7f83eb0c6d647": [
+        "JCR-2048"
+    ], 
+    "4b702c06ee6a8d898c85a8a847512b641e62d079": [
+        "JCR-3459"
+    ], 
+    "86e388e9ebcda0be4db7caac5e9b91f795628a16": [
+        "JCR-888"
+    ], 
+    "00ec73d793fea7af7d46b4280c3a3117114169fb": [
+        "JCR-81"
+    ], 
+    "c713f2262e79e9aba9e53a97cc79e4c63dee16f8": [
+        "JCR-3009"
+    ], 
+    "699ccf2a675788809723db6d0f6cc2c513a9e49f": [
+        "JCR-3227"
+    ], 
+    "eea6d919bf71cbba80a8cf2f2cbf67f929cc525a": [
+        "JCR-2888"
+    ], 
+    "96d833b656838fc338d4487563e9d8c562398ada": [
+        "JCR-4022"
+    ], 
+    "6ac6e6b6fd1d0e539f4ddab7c4db8d697ca555df": [
+        "JCR-3840"
+    ], 
+    "6cc456a8ef2310783fc7aaca218e148a68cf76dd": [
+        "JCR-2940"
+    ], 
+    "2ca1e8645c006760383d6b996056fdbae6c1018b": [
+        "JCR-498"
+    ], 
+    "ff9b6c0b572639ee2c14d38f2ade1d52514606ab": [
+        "JCR-600"
+    ], 
+    "84ec4222e1dbd12f35625f33aa706f7478f37711": [
+        "JCR-1755"
+    ], 
+    "08d7af52d295ae3f2e873a871c7147843fa3823b": [
+        "JCR-1176"
+    ], 
+    "1cad0e10738716fec6ccccc415da5fe7d807ffa1": [
+        "JCR-2015"
+    ], 
+    "7c8e64e61e1f4be4a0fe968782082a72f5049da6": [
+        "JCR-1414"
+    ], 
+    "d47310852178451c6cba08cdc3d6ae32cad7e8bb": [
+        "JCR-2511"
+    ], 
+    "b54f623ba8eac2d9ae6a5b4146f2e0f3a562b435": [
+        "JCR-2862"
+    ], 
+    "1e493e9a8547bc68804eba59d7ea2f4dab73194a": [
+        "JCR-1889"
+    ], 
+    "92f9d16a579372a9b57bb4ba2fc083953b4d6ab3": [
+        "JCR-3918"
+    ], 
+    "84c18ff0c68a8f932ae3c33a380468708c14c37c": [
+        "JCR-2617"
+    ], 
+    "87dec6349e3149049d9536bf7c867a5d3a0e8511": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "d97efd1399560336a27e4e527b25db69c9e09056": [
+        "JCR-1731"
+    ], 
+    "6c27dbc86a3caf7bd1122a106a7e2d54307b00de": [
+        "JCR-2413"
+    ], 
+    "a5fea86c2ea1bd797e990a04f7d7f9f38eadc8fc": [
+        "JCR-2981"
+    ], 
+    "b4341f3c1fd24c20ed19fbe5e2b0a0e812af7830": [
+        "JCR-1880"
+    ], 
+    "1c3a1ed9528a6e10365e90a03f033b1c4eaacfc0": [
+        "JCR-546"
+    ], 
+    "b6ebafc731252342a7d28a00632800bd85793ba4": [
+        "JCR-2996"
+    ], 
+    "3d07089aa730fd3aea0024efed6a33492691a918": [
+        "JCR-2816"
+    ], 
+    "4fd07f8217e6d3bf44219930bf782c4f4fce680d": [
+        "JCR-1667"
+    ], 
+    "6783a2693bb1082fb797fcc36ff8bc68fcfff82d": [
+        "JCR-4154"
+    ], 
+    "a09358f4b53f5222abc50073746fe034f3215966": [
+        "JCR-3814"
+    ], 
+    "00fd570bd7eef27ea201bc0ef765941773fe4431": [
+        "JCR-505"
+    ], 
+    "ad814e90da2f4e40ceab2bb1cb66dbfc9e593f0f": [
+        "JCR-3452"
+    ], 
+    "e6ea7299d6976b08e46ebffafcb3c8c588c0e871": [
+        "JCR-2465"
+    ], 
+    "c19ca554066ec224eea765399ccf4501f5aa59c4": [
+        "JCR-1099"
+    ], 
+    "242fe9e3593fa1048130564c6a45f9b902749410": [
+        "JCR-2836"
+    ], 
+    "09393f93862923e4c8a2f8c7d1236e1a5d3373b5": [
+        "JCR-4009"
+    ], 
+    "9b1d5d83643a7f02db11e16bb901e728b771b266": [
+        "JCR-1376"
+    ], 
+    "aed5ce8b92dfcc314b8f62e5b05f2dfbf9e6281b": [
+        "JCR-2017"
+    ], 
+    "63a02d242fb895b07d10140d61f0632a345f0427": [
+        "JCR-3050"
+    ], 
+    "7d6446cceb6137d739fabbd5008fe34b0f1c27e6": [
+        "JCR-2836"
+    ], 
+    "3c0297bb3e4ae284e154e9182e3f28c731425461": [
+        "JCR-272"
+    ], 
+    "8698f52b824df5e949288dbc75ad1cd781af4d84": [
+        "JCR-2326"
+    ], 
+    "edfec8b1315cc9c84110502325459db403274c74": [
+        "JCR-1881"
+    ], 
+    "6acba5a272a784b8f6b25beb1ad89cc100e3ffd7": [
+        "JCR-1176"
+    ], 
+    "e9f5ad4f893b60e37d854f13f30e8f37017bd752": [
+        "JCR-128"
+    ], 
+    "304e024b4d9050e2e8207df95a66205caa13af57": [
+        "JCR-1110"
+    ], 
+    "a805c743c7f74a68ef2749d99690f5a0de7e65a3": [
+        "JCR-278"
+    ], 
+    "23900423dfbc667ff97ec3ee8f7e0cd97e5beed2": [
+        "JCR-1137"
+    ], 
+    "3dc6e0a019174cdb0b411ec85a88b2cfc616a9e9": [
+        "JCR-1749"
+    ], 
+    "09d7c3ab26c01177c55cdfa3ba4afff90e6fb96a": [
+        "JCR-4425"
+    ], 
+    "33d78a800f5a8f25246b84620ca65b0ef69fda9d": [
+        "JCR-2901"
+    ], 
+    "f0bd42089549e49b27bddb827b550bebe39f1166": [
+        "JCR-3697"
+    ], 
+    "2b0ed240b9b66e0bbb57814794da309f7289b9c4": [
+        "JCR-1183"
+    ], 
+    "68dd9f8358b458bae10adee5a3dbf1e1f97963c3": [
+        "JCR-4005"
+    ], 
+    "ee1633a7965abba7cf6f0bed86d8f71e7e3c323c": [
+        "JCR-1121"
+    ], 
+    "64c8064cc780804208c3fc86552cb0679f7d0e43": [
+        "JCR-1597"
+    ], 
+    "bf4ec9c4487aa43149152109391aad6449fe2afb": [
+        "JCR-778"
+    ], 
+    "9b8d2cd4a9a227784d586e87bf01d511acae3490": [
+        "JCR-1932"
+    ], 
+    "8e39ed41afa85e3d5d5a51b5bb70989bb6ca656e": [
+        "JCR-652"
+    ], 
+    "826e8236962239709e05de6e260e0f490617713c": [
+        "JCR-2215"
+    ], 
+    "b6c185913694e4b67e221dbce7593234b709c6a8": [
+        "JCR-2335"
+    ], 
+    "43b60b97bdfc6680decb2b3fb59b6513e3f38a0f": [
+        "JCR-2192"
+    ], 
+    "705315c876ae0646b410f601857db5d34da8940c": [
+        "JCR-2895"
+    ], 
+    "ca6206418ea0ac7f9119df33b8e5f02afce16de2": [
+        "JCR-3692"
+    ], 
+    "48934fbf68867c4aba0e07141c6762b346353987": [
+        "JCR-3948"
+    ], 
+    "aeb345e4f2e193b8e7ff135c3094e14b63799851": [
+        "JCR-2840"
+    ], 
+    "6e98f5b30eb1bcfba0973cb2a87c7b2c6d91cacc": [
+        "JCR-3450"
+    ], 
+    "2fc7626804c94734eb6d5cbdd9f82a67569e3412": [
+        "JCR-743"
+    ], 
+    "6ba946cf3219d2aa55a8dfb206e717a99a95db41": [
+        "JCR-587"
+    ], 
+    "c9c98a90241cc534896b6979d7445e992a59f58b": [
+        "JCR-2213"
+    ], 
+    "b800eb973525d8e95a192929b98d83876237bab8": [
+        "JCR-2132"
+    ], 
+    "27c88a2195c5e341c32a1a895f036db1df89ba65": [
+        "JCR-1474"
+    ], 
+    "1d407e8720648a5cc8dac6c8e20b2e042e4100af": [
+        "JCR-1246"
+    ], 
+    "29dee650446c6f8f05e70e0ed00b8ad389d85670": [
+        "JCR-2832"
+    ], 
+    "a6e48a39ddbc414e94faafdb13835353ef8075e4": [
+        "JCR-3176"
+    ], 
+    "47567fac5d43be5f285d370813e22fcf5f5dac01": [
+        "JCR-421"
+    ], 
+    "9c852df1d5e2689232e61052aef47aa674b3466f": [
+        "JCR-1537"
+    ], 
+    "e93b37750f38a0c3c5e6b53f843260f3317120a8": [
+        "JCR-2962"
+    ], 
+    "8529bd9b4e05f4bba3cf11def05b00b7b67461f7": [
+        "JCR-3771"
+    ], 
+    "a9fcd14b456bf11dac6a367ad973427da596054b": [
+        "JCR-2598"
+    ], 
+    "2f7a5151d9b20955fe1f6d26cabb9258d919e37d": [
+        "JCR-2922"
+    ], 
+    "3b90c55c2b8564d79f87fc189826ca0df8717f6d": [
+        "JCR-3491"
+    ], 
+    "4afd4c8a4f066862be1a33b9446989f7c3790b28": [
+        "JCR-1065"
+    ], 
+    "758c4a0eef0a99630565a88f11b4d78b9d77327f": [
+        "JCR-2250"
+    ], 
+    "3419681d1beaa8f20abdd124fe8b84d3853ccb23": [
+        "JCR-2753"
+    ], 
+    "6604a01d9ea4ee78e21b45e03facaa354f368113": [
+        "JCR-1956"
+    ], 
+    "617fd01e42672073c05e515fc058b87fee44ef79": [
+        "JCR-1466"
+    ], 
+    "39f42166fc01647fdbdce19d2133b249e4b85c98": [
+        "JCR-1678"
+    ], 
+    "e3db251214a53d6e6d680495ac2b7f4cd1fb5155": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "0250028b330ed682c3962aa71713c76f973e647e": [
+        "JCR-45"
+    ], 
+    "30fc234bb1dc053a4f6e1e60cc237ab672fe38a7": [
+        "JCR-2182"
+    ], 
+    "031074c1c1b57b1f39ece719f426a8864c111bda": [
+        "JCR-333"
+    ], 
+    "fc091bf30d92836f5a7dc1aa65fc9ad948a67c40": [
+        "JCR-682"
+    ], 
+    "2937fd845f88cb9b85d8853d5d1bb930506c5086": [
+        "JCR-606"
+    ], 
+    "fe94bb79643040fa90b288ba47e00357460eb693": [
+        "JCR-3783"
+    ], 
+    "429dd6997f9e9e8ed73aaea7c47c5e9bce57f269": [
+        "JCR-527"
+    ], 
+    "03b49151cfcbbcbb927e57f8362aa2153b9a37cd": [
+        "JCR-160"
+    ], 
+    "626142060721739e52fa0f18dc931f91479837f4": [
+        "JCR-2920"
+    ], 
+    "d8a7a76eaa87216f65380408c50bb257ac7d53ba": [
+        "JCR-3013"
+    ], 
+    "61f38dd765952d64271c6be7d767732fecff0401": [
+        "JCR-3267"
+    ], 
+    "79d79a9ed6c1a9887a761ecdbf1c0e4b7b6c9fd6": [
+        "JCR-2170"
+    ], 
+    "80af1384b3ed36ea1efaf6f1b75ae3c02646d1b1": [
+        "JCR-2855"
+    ], 
+    "29c65143b8344d138ad91799b1300b123d4e8718": [
+        "JCR-2820"
+    ], 
+    "a40001aa913aa5ab09d53974fd9d84e3a82eae63": [
+        "JCR-2684"
+    ], 
+    "04f4ec54521878c3ae8bf7799a209e1cb8d5451f": [
+        "JCR-4120"
+    ], 
+    "9bae0732a5952ca80d58f8775422c088bb64cd59": [
+        "JCR-1095"
+    ], 
+    "0fbd736e2556d1b542853d3b8a05abb92fb0ccef": [
+        "JCR-208"
+    ], 
+    "aba2df07a91e1556685c0879a8c8eb3aab5d11f0": [
+        "JCR-2522"
+    ], 
+    "ccb358d2a911c231fb809a62d15f4d65c6f08807": [
+        "JCR-285"
+    ], 
+    "88ce0ca48e85001d3502312a049ce839938664e6": [
+        "JCR-2630"
+    ], 
+    "49556b6b1859e505e193f3836e690534a64ced7c": [
+        "JCR-82"
+    ], 
+    "fca46627c67e71926371a98bb419578674d428e5": [
+        "FELIX-2492"
+    ], 
+    "526c7b04c96aa7729ddfa7f4638f54bd2a787917": [
+        "JCR-2032"
+    ], 
+    "73f56318ade68373e6e45e025d9dc21dbd022f7d": [
+        "JCR-379"
+    ], 
+    "9db1dc12a1e7fd05966cca3e55ff0ff17eb5a1d7": [
+        "JCR-3383"
+    ], 
+    "50d8b214112184416b1c533e791c6a4191c190e2": [
+        "JCR-1331"
+    ], 
+    "799875842675bf3d15b41ba6826120791ed9b94a": [
+        "JCR-973"
+    ], 
+    "66f155997cc2ca77e028690ad41a3045c5a5cf0f": [
+        "JCR-2241"
+    ], 
+    "8f12baf8d6c38a53d6ae4b79e46ee0e9f04ead32": [
+        "JCR-2564"
+    ], 
+    "a21a52b6a1246b86a55c5518dd29d18191932442": [
+        "JCR-1333"
+    ], 
+    "75a80d416f605810d7e7ecd58166c3f79945624b": [
+        "JCR-3049"
+    ], 
+    "33487dce76eb896118c5ebac0095e6725c264aed": [
+        "JCR-1704"
+    ], 
+    "3cc65233fe7e4986a9047ce71f66eb090a79d600": [
+        "JCR-4072"
+    ], 
+    "8eaf5ff12c28012acdd0eaae3e548d856da1417a": [
+        "JCR-1778"
+    ], 
+    "c9648e387cdedd9edff96774acc56915e9130f21": [
+        "JCR-420"
+    ], 
+    "84b2551f90a869983c5421c2673dc89000ea4e10": [
+        "JCR-3882"
+    ], 
+    "faaba5a9d06db0e35e68b396a60e1e0bc6550753": [
+        "JCR-1554"
+    ], 
+    "297b14345bd7c6a6fca40096c88a188529544e8c": [
+        "JCR-2014"
+    ], 
+    "16c37fb1bf76e04ddfd8220f879aaa6f560ac463": [
+        "JCR-1630"
+    ], 
+    "9f6b9ffcc7c8fbcb45eb545b5da6149a73f24f5a": [
+        "JCR-3151"
+    ], 
+    "694d58af0074a6fc3459d76acc46b7b2a0baf8e8": [
+        "JCR-2807"
+    ], 
+    "aff4f1835d3b4c60485537dd47516980529661cf": [
+        "JCR-3805"
+    ], 
+    "f129ca6ed27774db5b840be7be26214dada4f1f2": [
+        "JCR-3595"
+    ], 
+    "8d35877c356bbcce3bb26a6d6a2416a981ae3c28": [
+        "JCR-1303"
+    ], 
+    "598a2666dfa5cc2fa2fb6545a588deac18faf5ac": [
+        "JCR-1841"
+    ], 
+    "a29d2ff1b14f658711adbdaf32e2002e9e40e589": [
+        "JCR-845"
+    ], 
+    "c3dedc21f8aa994c4d8330acd7b67ebf2d965578": [
+        "JCR-240"
+    ], 
+    "9c0832808c6ac8e46ff7f429bed9d4b4c29cc23b": [
+        "JCR-3562"
+    ], 
+    "09fc8ec0265f4ee8a29eb8029527d9bd9f87b753": [
+        "JCR-2828"
+    ], 
+    "a4d685cf648faea82a412d67c1824622788a5d13": [
+        "JCR-3465"
+    ], 
+    "199a02aeeacfa882a2219c6af90b7f46f1bbc0e0": [
+        "JCR-1006"
+    ], 
+    "5bb9c9abd88ed22ab188733c7340bb57fa2ceccd": [
+        "JCR-2582"
+    ], 
+    "fd1a9905a69734fddff705a739da0f824f3d4772": [
+        "JCR-502"
+    ], 
+    "2c038866b1371dca26c513625d22c3c01e251bfb": [
+        "JCR-3194"
+    ], 
+    "5eaea926d6ef401af2b74dba24b316117c7a2b91": [
+        "JCR-3770"
+    ], 
+    "7b5e3dbcbf1c9414ffdf710429561591ebe57386": [
+        "JCR-3305"
+    ], 
+    "3522639c2a0eb8396c98b0bcdf06b654e9bd26dd": [
+        "JCR-3656"
+    ], 
+    "34cf0184403de0a29720ea4127bdb83b96996a01": [
+        "JCR-3427"
+    ], 
+    "f34330ece5b3758c9d01acf1bcb7b060274b4bf9": [
+        "JCR-3862"
+    ], 
+    "0bc2d85303dd1a065c2639bf245588316ccbb11d": [
+        "JCR-3839"
+    ], 
+    "9b219ac2298de672ecbde59f2d056fe50a1c557a": [
+        "JCR-2666"
+    ], 
+    "2edc8eeb8f5fabe66f559ff198e339c38e462d11": [
+        "JCR-1475"
+    ], 
+    "5465ea3400612eaae893fbda5fa4570bde3d7841": [
+        "JCR-658"
+    ], 
+    "1b21966a03bde0106f3a6fe4c641aa09b447b57a": [
+        "JCR-120"
+    ], 
+    "d17eeb2617e4ebf881fbe03fc08144694453f42b": [
+        "JCR-3346"
+    ], 
+    "90f82342e68521dcb0354dff568f6c80eeb01aa3": [
+        "JCR-1729"
+    ], 
+    "5ed50d795506aa7fa76de453b607dfbf4106edba": [
+        "JCR-2881"
+    ], 
+    "25c53fc3ef144dbe9059415fee2c19bb5174b9a7": [
+        "JCR-238"
+    ], 
+    "ffe7256a01292248c08297d7fbffa68ff1961e0a": [
+        "JCR-529"
+    ], 
+    "55070b3b3678b5bbd8cd437d323b5d0c560a7e6c": [
+        "JCR-905"
+    ], 
+    "f2bce8587d1d14b8106ed015303923a1c044b05e": [
+        "JCR-3434"
+    ], 
+    "762b57e3d73e0686bb6a9221a95df93ced92678e": [
+        "JCR-2617"
+    ], 
+    "7bab386783ff590c685d03089b55f5a38797106c": [
+        "JCR-3115"
+    ], 
+    "03ff764e797c00688e01f1f8af1ed7dc915e4cbd": [
+        "JCR-797"
+    ], 
+    "d60a3fc2e60d3ccfdeb9af8a4684bd9fe84e4913": [
+        "JCR-2787"
+    ], 
+    "9afe7ce88accd5d85b36f88079c77e2b576cc9bc": [
+        "JCR-2386"
+    ], 
+    "bcff67ed1f8dcfc00622c4e77187c9c3457f1d7e": [
+        "JCR-582"
+    ], 
+    "70c7aad14c8714a63ff1e68b80e49ffc73d43531": [
+        "JCR-4102"
+    ], 
+    "26e006c9220e66d532f5b019e61aefa3d1d68e31": [
+        "JCR-2627"
+    ], 
+    "2e5275613f2014c4208417e57cad96714ca1d58a": [
+        "JCR-3105"
+    ], 
+    "7c4896d7dbf3674fb6786a6b525fe0d977b09d2c": [
+        "JCR-4420"
+    ], 
+    "454cf1bf1d608ed1baf000bd352dfd0d933663ca": [
+        "JCR-2162"
+    ], 
+    "7314652b7b29562fe65b6a6b4baa941689024e73": [
+        "JCR-3148"
+    ], 
+    "386047cfec97a60c0377073eb705d9592f30955b": [
+        "JCR-3790"
+    ], 
+    "c3e865162d0fa55bb625d8dbbc35ac1b52b20833": [
+        "JCR-2767"
+    ], 
+    "7391e8d61e607dabaee405b8d8c0325a06887469": [
+        "JCR-2417"
+    ], 
+    "edeb7f3ed9e4e773b0f9e7a0eeb776208d9b410f": [
+        "JCR-3261"
+    ], 
+    "f2db662e858b567b0006e33037eaa530f4c79a0f": [
+        "JCR-1813"
+    ], 
+    "dbb18a3c41a4403e59bea5a07d45e7c5dfc87f3b": [
+        "JCR-526"
+    ], 
+    "1895e7104bfb933f0142304ef709c9b9c6c4c19f": [
+        "JCR-1128"
+    ], 
+    "736515fadd21e47768d39a3f4ab1b626ce3fe96b": [
+        "JCR-1886"
+    ], 
+    "ae481c9705d815972726e57f8ea6387fc5074bf6": [
+        "JCR-1095"
+    ], 
+    "f93f00f7b4f0cfedfca7cb65f59ff29404a7efcb": [
+        "JCR-2515"
+    ], 
+    "8c3dc84675f09bebe21ad0d82e21335429e20f23": [
+        "JCR-482"
+    ], 
+    "7b34bbe08d916ad4debae43b32de8dd0aa8454a8": [
+        "JCR-3862"
+    ], 
+    "025befe0fd5e8abee6defc3853a6c6ce42443d52": [
+        "JCR-1504"
+    ], 
+    "e84cea46a7876af1ac481b9723e0185e8963a1f6": [
+        "JCR-122"
+    ], 
+    "0c7b4b632f2d980f98b331cbeb397e0f470809cf": [
+        "JCR-1475"
+    ], 
+    "080a945fd2a3780e9ffb7250606ba9c569c1a6db": [
+        "JCR-2393"
+    ], 
+    "24ea15ae89dd7c2e89b64ae1017c942ef2594e4f": [
+        "JCR-971"
+    ], 
+    "a3f662eb2434e64ae2e1c81070bec72b7207a9a6": [
+        "JCR-4052"
+    ], 
+    "eabcc7e883485e1d93b326d36bef5653bebb94fe": [
+        "JCR-4211"
+    ], 
+    "d71a880b2f2e43be15e9849960be69a68f86bd7a": [
+        "JCR-2490"
+    ], 
+    "d63614178e8fbd23120452488bb5c59a9d9229e7": [
+        "JCR-3486"
+    ], 
+    "099c34f6cfb27059a292f02092398e0221ae3059": [
+        "JCR-1825"
+    ], 
+    "a8ed20f53cc541a5c9f17e4f34f16582e70d6b69": [
+        "JCR-1033"
+    ], 
+    "97d70a0b598ce9cc44e6ef01a151cea40ead173a": [
+        "JCR-2462"
+    ], 
+    "e1ad48fddae43e885547dd1b80bdc9255f68909e": [
+        "JCR-2313"
+    ], 
+    "25b5949ff0bcce2bdea53f808e5b4f42546a5343": [
+        "JCR-2865"
+    ], 
+    "586d95622fa90c6b91e59485ced8208003028edc": [
+        "JCR-2832"
+    ], 
+    "8e515819409f2b38b070854d8153337131fdcd53": [
+        "JCR-2778"
+    ], 
+    "4edfd549029989f613bd2bb078e9d81ebc83a83a": [
+        "JCR-1926"
+    ], 
+    "957125bec46701bb4c085728ab63fd2c0cde6c8b": [
+        "JCR-290"
+    ], 
+    "dcb48eaa47ab1e09eed17171a6f066ef5f729035": [
+        "JCR-3346"
+    ], 
+    "84d63c06736c76f5b6d33e5fffce3aaa1cbee089": [
+        "JCR-980"
+    ], 
+    "df8ed769afcd8baa35d4b6980f27d216019387a4": [
+        "JCR-780"
+    ], 
+    "5801842a5cd9ac9f9b533ddbc97c7bfa658d4c25": [
+        "JCR-2138"
+    ], 
+    "27a64b2ccecd07233cb91e2008e3a3108609f8da": [
+        "JCR-774"
+    ], 
+    "9aeeb407dca087a4d4f862401c8f43f20420b6b9": [
+        "OAK-5336"
+    ], 
+    "98bc44068882d1f6eb3119ae17964ae2a8bcbb08": [
+        "JCR-1408"
+    ], 
+    "7a0e3bfba73c6cdf941a4c98014e11fe46bf2751": [
+        "JCR-2531"
+    ], 
+    "ec9a8334b6c30a114cc2af8b117aef0092ca5827": [
+        "JCR-63"
+    ], 
+    "fe40aaa58ec11016c7d77ae163cc2f889d7d0ca0": [
+        "JCR-1029"
+    ], 
+    "1cf1f0305eb4e313b61cf11b70a5697fbd4e1d8b": [
+        "JCR-3063", 
+        "JCR-2171"
+    ], 
+    "e3d9ab2042dfd0c59dd53263da307427223f8f1a": [
+        "JCR-4002"
+    ], 
+    "2f501b6c427f839d5493cad6facb986831c1548b": [
+        "JCR-137"
+    ], 
+    "ef4ead929ab3fcd9184219aa6ff97f304741229a": [
+        "JCR-3798"
+    ], 
+    "051fcf845da0d0fb81c92398974c321308a9e880": [
+        "JCR-2176"
+    ], 
+    "3e95cbd70b493d36e6bc6b8b7f55e20d1b4f7364": [
+        "JCR-1271"
+    ], 
+    "20c98115d90ed577c90497fc796ea887803b7395": [
+        "JCR-485"
+    ], 
+    "14a9dcd7568fd2217c4848d2f1d2581b272077a6": [
+        "JCR-859"
+    ], 
+    "053727fcf6beaf90094af71c92ee5f3594f7cded": [
+        "JCR-67", 
+        "JCR-67"
+    ], 
+    "1759c34894b284f26e4dd9caff39e9fe6306229e": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "c804671636ec24b0e7d7010919403d69d4c7c227": [
+        "JCR-3016"
+    ], 
+    "098d92a88683f2761b21153833686db46cf0ba04": [
+        "JCR-1298"
+    ], 
+    "07c51ceb65c575188c3a085264cd4f9ee0491cfa": [
+        "JCR-3617"
+    ], 
+    "43635db3f89505c095b4c74bda26459c2665f31f": [
+        "JCR-1101"
+    ], 
+    "a0ba1307017e71916e3a19d35ea5e96eafe42ef3": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "72f66fb316b90ffaec5d163bc73cd82e2082338c": [
+        "JCR-2786"
+    ], 
+    "893e5b5574a8bad9052be285e3590fee486f636e": [
+        "JCR-3063"
+    ], 
+    "49f2e452312404f85d67b2cf33decf56ec05f633": [
+        "JCR-1766"
+    ], 
+    "5ba0170dfe3b2a7b93d5c780b944e0d841703ddf": [
+        "JCR-785"
+    ], 
+    "9dc1e7da8826bab746ac43acebfa47d18ea8242e": [
+        "JCR-1750"
+    ], 
+    "50a1426747b16171a557c0a542e31f9bf5d79fad": [
+        "JCR-2576"
+    ], 
+    "d832a455f245da818c591fb1e1b89a23693cfb48": [
+        "JCR-83"
+    ], 
+    "26c6786a7f8e9f5cceee5bdca4e74692e9068024": [
+        "JCR-1582"
+    ], 
+    "ab42e02933bea04e72d476e35ed5d3bc4a67ce5b": [
+        "JCR-3893"
+    ], 
+    "80ee4775d9fbdadee7686425c46c7b8dd312030e": [
+        "JCR-3415"
+    ], 
+    "486c384f657a4c686e41040bdf4ae4cfca8085e4": [
+        "JCR-1361"
+    ], 
+    "b2e3cfe4043058062331a93f3fd65040ab39694b": [
+        "JCR-293"
+    ], 
+    "a5e1fae4c550097f936624e4d1c5b685acad3e05": [
+        "JCR-3965"
+    ], 
+    "822c03721d4384054773c55e675c38c43ef798bb": [
+        "JCR-2586"
+    ], 
+    "174d1719afccb3f6df6e48b1896bcaafad762172": [
+        "JCR-2919"
+    ], 
+    "118ecf25b07d160e15bad4b7ee5a277d149afec5": [
+        "JCR-1993"
+    ], 
+    "1128db9ea044b97691a2bee0902b49adfb793350": [
+        "JCR-3276"
+    ], 
+    "29cec96d7dbcffe4fe7a09e5262fc04f5e0c9812": [
+        "JCR-2080"
+    ], 
+    "1b2a4be5b6da81244ba13f64a76417c2c66feca9": [
+        "JCR-2000"
+    ], 
+    "f8c526f477b27519e47cc384c646c745792e1e41": [
+        "JCR-31"
+    ], 
+    "c8e10aedabe2ce619184fba387608f26f20308e4": [
+        "JCR-508"
+    ], 
+    "98d8be12d8f7fba21805c186aba1609a1a8d17b2": [
+        "JCR-3195"
+    ], 
+    "79490c047651d84fe609ebfdc3220245d1dadc0f": [
+        "JCR-3518"
+    ], 
+    "023e7d676e86f2b2d865b6c767deab055be1d0d6": [
+        "JCR-3292"
+    ], 
+    "b6a0ad0dcf75907f91f80bd2a8b7908a4396cacf": [
+        "JCR-1997"
+    ], 
+    "d9c7afe63809a4313cd50426b1d551022796a2ef": [
+        "JCR-3003"
+    ], 
+    "4181b82ee13a5b61689c5e3e6fe583fd958f5bc3": [
+        "JCR-2574"
+    ], 
+    "f18c55c86005ca412ee051541f03dd903c199398": [
+        "JCR-42"
+    ], 
+    "372f5ecd73120ecb679d0feed9386a1e5e2c6c8d": [
+        "JCR-2838", 
+        "TIKA-548", 
+        "TIKA-556"
+    ], 
+    "868986bdac4e9037d2fec618aae0eb1a597bc119": [
+        "JCR-1557"
+    ], 
+    "42f6479f4cd4fe543de6dd5a38b0c26789b1695e": [
+        "JCR-3678"
+    ], 
+    "4556442564dac4c833ad10bf031257a0dfe4c4c0": [
+        "JCR-1952"
+    ], 
+    "8393c6daea536b8aca22010c135f7f53515ce74a": [
+        "JCR-3915"
+    ], 
+    "1a3d2337d4d9bd2abbb3081a8465e6927a10d7b1": [
+        "JCR-2585"
+    ], 
+    "ddcf0d1fa93ba32fd73fc8fc0601a637a57a37e6": [
+        "JCR-3325"
+    ], 
+    "6c1cb4c8cbaf6b5eab42d5c190c5ff854aaef9ab": [
+        "JCR-2785"
+    ], 
+    "34f784da74351f162496dc172b63fc3f8866e404": [
+        "JCR-1688"
+    ], 
+    "72daf6fdf9e63bc52354025e929d3dda53fe93dd": [
+        "JCR-513"
+    ], 
+    "deaaa9c2437d67aca2da07b3ae6dbeb3f404a6ff": [
+        "JCR-539"
+    ], 
+    "d0c5b908961e0462f8b81220c60cee7b35dd0141": [
+        "JCR-454"
+    ], 
+    "3aa351d06969849acc9a10db355af2f11b5a7b71": [
+        "JCR-3512"
+    ], 
+    "6ca7922bbb1f87ea3a1b453f50062882b2e786f4": [
+        "JCR-2536", 
+        "JCR-2565"
+    ], 
+    "e57404d03594a9c1fab21217b4133d624a69c11d": [
+        "JCR-605"
+    ], 
+    "5023b38e85c0c7dd991f03fddc0fe681521b8580": [
+        "JCR-2627"
+    ], 
+    "cedb6cd3b0e502a42d051de6164b687ab6f203c6": [
+        "JCR-2159"
+    ], 
+    "0edbc72652a1118e14ea267b13b710f11aae8604": [
+        "JCR-2537"
+    ], 
+    "2b1ec3d2a363cde122c1f44a5da71a6dc7308c9c": [
+        "JCR-310"
+    ], 
+    "9e46f8c0ebd79221a4ee0120ba6bb6a22cf3d995": [
+        "JCR-1634"
+    ], 
+    "e947eb043c840c6a4b85a77c0134f690d573a35b": [
+        "JCR-3250"
+    ], 
+    "53eab86601a833c14846edf0fc921af610d8fee5": [
+        "JCR-1476"
+    ], 
+    "bb84b89a49fd3714f27c8183ca27c49036ba5ea6": [
+        "JCR-2452"
+    ], 
+    "8ff11accaa0276d1006f8a6769dcf6eb7c6c58b3": [
+        "JCR-1240"
+    ], 
+    "e4916dbf9a34144d86adac976885224ae1e52f68": [
+        "JCR-2909"
+    ], 
+    "1c5ffc78d44e8f336a2af7bf0233b34d4477b166": [
+        "JCR-1952"
+    ], 
+    "c10fd21b4f38eca0d655080836f4e5cd8132e3f0": [
+        "JCR-2222"
+    ], 
+    "7f88a2a9865cabd54168c5701adb5bc97ca1b2f9": [
+        "JCR-1977"
+    ], 
+    "1eef693aaad8148e27632fad0fee3ae17858943d": [
+        "JCR-279"
+    ], 
+    "e333d4a1a5ad2f0daf50a4f8354c03438e6ed088": [
+        "JCR-2598"
+    ], 
+    "8e03e2144938a7caa28ce6ba8a058eb3ef8f513e": [
+        "JCR-886"
+    ], 
+    "1dbff5c664ff7dd7b318466e413b9844cf9ad986": [
+        "JCR-2475"
+    ], 
+    "d4cf0d664b25ff092efa9d68465192586cbdb1fd": [
+        "JCR-2939"
+    ], 
+    "6265316bd2cf65c82647e0bd3e8adb9e13391168": [
+        "JCR-3354"
+    ], 
+    "e65a9dc9a0e95540b49ae32f10c3c8c904c32c35": [
+        "JCR-862"
+    ], 
+    "0930a830046c6bcc74ddf0101a5f0c8ba035ad85": [
+        "JCR-2313", 
+        "JCR-2333", 
+        "JCR-171", 
+        "JCR-2291"
+    ], 
+    "abd5a08070a9c9a20d448a05e8cce97beb54d343": [
+        "JCR-444"
+    ], 
+    "88b4fa19c9936d7d5c78509eb2820027389594a1": [
+        "JCR-911"
+    ], 
+    "abf94cde13bfa5f5db7e1eb1b0b3411fcc521ff6": [
+        "JCR-450"
+    ], 
+    "02f2c622274bb35c2093288a648141e2c210c11d": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "edd5dd0440c79ea697ac2965b674fe146fc314c3": [
+        "JCR-2335"
+    ], 
+    "530000a7e6687281e190f88fd01f4efaaacc05d4": [
+        "JCR-710"
+    ], 
+    "65a551246bf1b4f6e185a25c3fb39052781d4e9c": [
+        "JCR-373"
+    ], 
+    "4922f6594fdd1bca8a4a04f48c4bc4d8a1833896": [
+        "JCR-2921"
+    ], 
+    "b6c92f0e0f3e7e4cbed81df2384c80f69ce227be": [
+        "JCR-2097"
+    ], 
+    "abc7ab3a631e215aefe9cc4385708c433c587ae1": [
+        "JCR-3476"
+    ], 
+    "5a46127cc4f5464a13095807f61ab96749e42dac": [
+        "JCR-905"
+    ], 
+    "85d2f081e938e26233bcc9e492e146a987bdb741": [
+        "JCR-209"
+    ], 
+    "97eb79db9be10cb6ac39b26d4f75e4f267a63106": [
+        "JCR-1392"
+    ], 
+    "7de4a52f8927f080063ebc4265bdb107264c5efb": [
+        "JCR-1149"
+    ], 
+    "2537a6ceec4bba2a9b4bb578e93829bff1df96fe": [
+        "JCR-1532"
+    ], 
+    "21b29b64632c4601ac1ca34626d09ac5064faae2": [
+        "JCR-1069"
+    ], 
+    "209eec49c1dd980aa376cc55c91399277f511794": [
+        "JCR-3814"
+    ], 
+    "db34bd0c0730351a23765e3e897e215de86c0af9": [
+        "JCR-756"
+    ], 
+    "da76d7d3efe511fd48f7e5efd9f075df0ba294be": [
+        "JCR-707"
+    ], 
+    "2967022cfcc604822f96cdd5fa534a9b8df60d38": [
+        "JCR-3539"
+    ], 
+    "cb1476fd75d3fec37fe6d1494404a0023acadede": [
+        "JCR-603"
+    ], 
+    "f8f2ecdbc9e5ab6b482fdfa4316a7d8e5bcade4c": [
+        "JCR-2009"
+    ], 
+    "28d4632f117554da405771409292e40af2383892": [
+        "JCR-3545"
+    ], 
+    "8ac69d38d1a8bbc8c40077f5d199773d557d717b": [
+        "JCR-2894"
+    ], 
+    "e50e408a38f212a092679b14e42a7cecbf70f621": [
+        "JCR-2869"
+    ], 
+    "8dde23b63151417769eaca112fbbae9a52c47ff3": [
+        "JCR-4009"
+    ], 
+    "4903ceb94179bddfb8c212aa0507eb69493e49d8": [
+        "JCR-933"
+    ], 
+    "f961e36e88b09908b223143268b461b8910391c6": [
+        "JCR-2241"
+    ], 
+    "322c75cb6e892f0be5e356dd8ff8e6b8fe5478b5": [
+        "JCR-1292"
+    ], 
+    "725c025c93005bd65382daf528c1196a3e618e91": [
+        "JCR-1560"
+    ], 
+    "fe102064cc990ef0f8ff02c01906b17ae032529a": [
+        "JCR-375"
+    ], 
+    "9df38924f244858cbe49c1092ec76d8abd145200": [
+        "JCR-3999"
+    ], 
+    "ab9668af51f795f857e10c4ee4de088fcc4882e6": [
+        "JCR-2789"
+    ], 
+    "a177366269f3200cc27354762737db95474b4029": [
+        "JCR-1994"
+    ], 
+    "f20aec81b559c69cd9f7b422d099fcdc89179983": [
+        "JCR-2980"
+    ], 
+    "c7a581fad51ca0ba98b01dce8049840d49d3152e": [
+        "JCR-3272"
+    ], 
+    "2eb042305d5af5f24198c51e3e1e1748a8df15a9": [
+        "JCR-1176"
+    ], 
+    "7e69f57a70ae0e8d048adc131cf1758047d51c96": [
+        "JCR-2684"
+    ], 
+    "1cf34782461b0b0a02516f7255821978144ac40c": [
+        "JCR-194"
+    ], 
+    "768b796787a0cf57c6a4322fb5a3df2ecb0edade": [
+        "JCR-1379"
+    ], 
+    "53a97703223095343c727e89f9d97b203268ddca": [
+        "JCR-4002"
+    ], 
+    "ab1ccc018199e442625b8d661f485730f4f06bba": [
+        "JCR-722"
+    ], 
+    "3f9c6746b65e0c1b962c71ca186ab0bb32b1cc29": [
+        "JCR-1738"
+    ], 
+    "a6fcfc85130450873c616efcddb8e28230718108": [
+        "JCR-422"
+    ], 
+    "194dbf2a09fdbda85dd22d10ead55c21f4db9302": [
+        "JCR-849"
+    ], 
+    "dd0679261af3a68e40e16d3f18c1614f77b76ed7": [
+        "JCR-3049"
+    ], 
+    "77623d02764aeaa57609e46f4085568b0da34c5c": [
+        "JCR-2861"
+    ], 
+    "98ce0b7c4b49b1f179c3237705786df17593c3ce": [
+        "JCR-2843"
+    ], 
+    "067fe354663eb2979c94a5550522f3326abac45d": [
+        "JCR-34"
+    ], 
+    "2db50f272e74988ae30e78c4c496fc8e6473af8d": [
+        "JCR-1449"
+    ], 
+    "6aa1d34ba7210a35b803845288404394fe18d17b": [
+        "JCR-2171"
+    ], 
+    "bad740160c76109cb9381f6fb751ca602426bc03": [
+        "JCR-1374"
+    ], 
+    "60468eb33005c5816d16c2133b1703143132a1c3": [
+        "JCR-468"
+    ], 
+    "b41d35248f4706bf6fc890e5707cbffbb5b03ab0": [
+        "JCR-3789"
+    ], 
+    "d0d355e4767f3c4f41940e9556a73f1dae91c980": [
+        "JCR-2964"
+    ], 
+    "a0f7e8c390bf599f67b7ce84e03de412f6bf053d": [
+        "JCR-2408"
+    ], 
+    "a24a794413269808a2275c3892afb8e6d4508f93": [
+        "JCR-1764"
+    ], 
+    "84bffdac2230a14dcf51acfc77315b03f4890804": [
+        "JCR-2967"
+    ], 
+    "1a54666110605493b37a88308eb4c34de37e2530": [
+        "JCR-3378"
+    ], 
+    "9b6d3be167d263c08cf6fa4effc95062bd821dda": [
+        "JCR-2527"
+    ], 
+    "0f8c5112ff5663c03a4b34f4eb296a1ce5939dec": [
+        "JCR-1068"
+    ], 
+    "7591bb340f407b503ffdc3deeff2dcdde01bcd95": [
+        "JCR-2603"
+    ], 
+    "4adca9c16897949719a5767f85b48fe0fd84553b": [
+        "JCR-1515"
+    ], 
+    "016735f61fa7454e1a36d95b29bdccfab08b1d79": [
+        "JCR-856"
+    ], 
+    "594cfff20eda42034e258244d3b21f6959320720": [
+        "JCR-544"
+    ], 
+    "737c366377794fb026ca37a40052eb7e401bf257": [
+        "JCR-1358"
+    ], 
+    "477ea1768782404c7189eeef5a5924a3981821f3": [
+        "JCR-2321"
+    ], 
+    "a5527537d09017791afcc4b2875c8cdb7095e32f": [
+        "JCR-469"
+    ], 
+    "72fbc5ef5da84d1767f4dd8c6ad6cdd5da030fef": [
+        "JCR-3469"
+    ], 
+    "c9fcab0e12e22b9653a7d4823106d4d179b65258": [
+        "JCR-758"
+    ], 
+    "af4f281c2f0373b3eeedf26157cc590f3b6c687b": [
+        "JCR-1335"
+    ], 
+    "278f9893948ef09c5c72c52e06581e9850a1e208": [
+        "JCR-1964", 
+        "JCR-1969"
+    ], 
+    "672b366003066abcbf5d21817f72b3d243776731": [
+        "JCR-3601"
+    ], 
+    "31e9643e4454941dbe0cf27e928b848b6890bcac": [
+        "JCR-2969"
+    ], 
+    "0c5d24481e76041bbfb034e9441ddcd04b7a25ac": [
+        "JCR-3497"
+    ], 
+    "42e1e19addba3cc29a2e4b0189258b8a568c7519": [
+        "JCR-2298"
+    ], 
+    "2eb153609206d3a6b301e37379e28f6505b4f8bf": [
+        "JCR-835"
+    ], 
+    "e6c3fb2750af6cd0fa5217a6df6cfeb46d60b0c2": [
+        "JCR-2026"
+    ], 
+    "6438f47cec47b484c8679f061208f60adc029f47": [
+        "JCR-4118"
+    ], 
+    "20f10d688b857afb7a7f41105758555eb7f26d2b": [
+        "JCR-3633"
+    ], 
+    "9132e6bece5ebab26ed74c4988e2205a66604aec": [
+        "JCR-374"
+    ], 
+    "bb51b0bbfcf2490cff007c1efa6b1bfa736bb55e": [
+        "JCR-191"
+    ], 
+    "e130b0f68c12ea2298ec7a0a02e9fad8911d707c": [
+        "JCR-327"
+    ], 
+    "643276a150006731ee05d2b53049e7814fb84142": [
+        "JCR-17", 
+        "JCR-18"
+    ], 
+    "033ea23bdf1b4bcb6c5ccb61641f5ca4c9691e2a": [
+        "JCR-226"
+    ], 
+    "00f3358a0d354234a952bbf7ccd3128431bf4946": [
+        "JCR-2973"
+    ], 
+    "df22a598fdeea105a4e7877f1569dc053cc4712c": [
+        "JCR-862"
+    ], 
+    "d76d603cd34a3826a79691acd9f1eecdc6d3b7aa": [
+        "JCR-3888"
+    ], 
+    "f1ef81bd39dfd9929c327103a82e642eef814932": [
+        "JCR-519"
+    ], 
+    "fd8e7c55db3940309e678cd41f8493657b66967e": [
+        "JCR-3796"
+    ], 
+    "6c6cad3982e2f1220adb1e9e138fd835715e6fb3": [
+        "JCR-119"
+    ], 
+    "61a0f5cf94695b7c9dc6fdbd213b1e88d25fc151": [
+        "JCR-4339"
+    ], 
+    "2858cd744425142b68437c24ea9f337b53391cf2": [
+        "JCR-242"
+    ], 
+    "0d83e46b336bc8d89556fb778b0181864166ff4c": [
+        "JCR-4188"
+    ], 
+    "9306fffe264b8d1c36f1b31f401bde00415d7dea": [
+        "JCR-412", 
+        "JCR-461"
+    ], 
+    "58702c319f1a59b26652ff5e5304586151241d4e": [
+        "JCR-1083"
+    ], 
+    "b83c5cdccac69649d170797a9a96185744c5bf6f": [
+        "JCR-3639"
+    ], 
+    "7cefcc61bee24677888e49fe00d5a4982a969e3b": [
+        "JCR-3063"
+    ], 
+    "fd1b52711b4628b7aff37dd566558f0dff632e23": [
+        "JCR-3871"
+    ], 
+    "07cb5e166bb9ee59fe28eee6140b9ccaeb4af720": [
+        "JCR-46"
+    ], 
+    "27dbe3c81c5b6d67c5fa7a50a53e7450218079a2": [
+        "JCR-4027"
+    ], 
+    "a97db15f5e41fea4797aff420524711142fd4e3d": [
+        "JCR-109"
+    ], 
+    "6243e9625cece9858ebd8ff6445d13610c2a8d8e": [
+        "JCR-3913"
+    ], 
+    "49b8179b0624c43d0cf9e12f845b0db9c08c58f1": [
+        "JCR-3268"
+    ], 
+    "4c379a0070415f87281c07e3a75c264f6c768a73": [
+        "JCR-2380"
+    ], 
+    "bdc85c928823a959808342b703c58b901bb56c0c": [
+        "JCR-3909"
+    ], 
+    "f76af5238253fca3a194a41081f7a2c1375851b2": [
+        "JCR-3645"
+    ], 
+    "fc1bd6387b5ab634382828f853d84e8f0dd311fa": [
+        "JCR-1757"
+    ], 
+    "0f295f9e52132c2e2b600c8f3334c44a6a859201": [
+        "JCR-3902"
+    ], 
+    "460e42b9d025cf1df613e73aec2a27cedbfa58ff": [
+        "JCR-2344"
+    ], 
+    "8c6bc4de55bc489a690a155470645f17b23b1052": [
+        "JCR-1923"
+    ], 
+    "cf1666149ecaecb5f081d2c5695d7a59df7ae553": [
+        "JCR-2323"
+    ], 
+    "1770278ae2c33e8ab17d1811e78f5ee1a1c2800a": [
+        "JCR-1216"
+    ], 
+    "1ce92130a3e29b235520139c9ef9af481e8427e4": [
+        "JCR-2436"
+    ], 
+    "7591c138037917c0dc6dc8d80fbeb2ebaa0cbd99": [
+        "JCR-267"
+    ], 
+    "cd65ccf28b1c0af4dfeb93fd2323423359b8638c": [
+        "JCR-2712"
+    ], 
+    "98449e2b1cc1db013f6a0059ea2b9233491ff29e": [
+        "JCR-617"
+    ], 
+    "2d2363bd1c4e32ee2831b74622dd835e5d4efbb5": [
+        "JCR-3718"
+    ], 
+    "855c31a9be24f53e439ae5693c96ff67cbb8082a": [
+        "JCR-1970"
+    ], 
+    "c63b89443720912e648dc8eef6a8fadc6cb3dc3d": [
+        "JCR-214"
+    ], 
+    "55c37978a49fbe3fc5ee8d5124ebf98ae4b99855": [
+        "JCR-654"
+    ], 
+    "6175cb20c9f71a1d16480f86f73dfff2d946bafd": [
+        "JCR-4241"
+    ], 
+    "e81076408f7b6419162b8f365a073e0f02b2f6e4": [
+        "JCR-1563"
+    ], 
+    "f607e12d4e92f882bda6915fe52e5d03aba2b693": [
+        "JCR-393"
+    ], 
+    "595ce145def7c72181e50dd78780540e1bb9f0d0": [
+        "JCR-3115"
+    ], 
+    "302905d3c216ff5273c847b796ebfd57ff558477": [
+        "JCR-2783"
+    ], 
+    "72ceb0cf6befaa1a2771394de986b17ca58caa38": [
+        "JCR-2207"
+    ], 
+    "6f223a0c39829cd89e4904cc54056cfc5045e7de": [
+        "JCR-1359"
+    ], 
+    "464cad3c521189b6902d22c63b5af569b78edddb": [
+        "JCR-743"
+    ], 
+    "a8e4aaaa46718db37ac0ae862b527a918b11835c": [
+        "JCR-2456"
+    ], 
+    "a105664003f523a66cd4892c571c98d07083eed9": [
+        "JCR-3228"
+    ], 
+    "13e8463a2b49ce08cb71c2ba64baf95358259b5e": [
+        "JCR-2392"
+    ], 
+    "8add451657668eb54195dd766ab1ba221778019b": [
+        "JCR-3582"
+    ], 
+    "1fbfc93ff44df31e0b86c36e2e417f04d4a93c38": [
+        "JCR-574"
+    ], 
+    "18c5b6c3e41684ee5d3b328fd63bf96159285816": [
+        "JCR-1117"
+    ], 
+    "585baeb1283fd296ede52c73503013121da6d46f": [
+        "JCR-2227"
+    ], 
+    "3d83e89785cfabb23439b0bc5ae2bc9694fc7ce4": [
+        "JCR-3262"
+    ], 
+    "67157e6a50daebfe3f6c59b6570bc55658692e74": [
+        "JCR-931"
+    ], 
+    "53dc2cf73a0250416333f02bec689bc2bcdb9372": [
+        "JCR-2364"
+    ], 
+    "4851c4b68951b5c5e593bc0a0af743257e7fa6e2": [
+        "JCR-1325"
+    ], 
+    "17bb21937f067b8291b7848c9a511fb69cc23fcd": [
+        "JCR-507"
+    ], 
+    "2557e5b7ad3fa947516924bcac9a1d9c1fb5a4d8": [
+        "JCR-2134"
+    ], 
+    "9ad0154708a500329e1cc4a4e13f691dafb79dd1": [
+        "JCR-2260"
+    ], 
+    "6d25470606f8c517d9cd3639e2151d01d7be2d1e": [
+        "JCR-3485"
+    ], 
+    "b57654e9b270169eab38bf528b2f27d7311cdce3": [
+        "JCR-1773"
+    ], 
+    "720a99458737dd35cd94d6334c9897d17fe96898": [
+        "JCR-656"
+    ], 
+    "2ef047a02efd2f4fb5a9af5195db4697fc82759b": [
+        "JCR-445"
+    ], 
+    "c38568a442443919d329d44fce44d1a0b20ec06b": [
+        "JCR-1475"
+    ], 
+    "393882dde2be5dfa2f9b479c90e3a7109bc686fb": [
+        "JCR-739"
+    ], 
+    "935d31dfa383388a6e03c75996655205169fc27d": [
+        "JCR-3373"
+    ], 
+    "9477c99278210d55b17bff97567b818a3003e23b": [
+        "JCR-2824"
+    ], 
+    "b93cafb71adf390cad159e3d65aa7628c42989ef": [
+        "JCR-3175"
+    ], 
+    "a7cb0bbef43bdeebabfce33d3d94147fc2808109": [
+        "JCR-531"
+    ], 
+    "c15a6fa37376bf120a092a1069b11208bc8b978c": [
+        "JCR-1646"
+    ], 
+    "4d3fbd3787283eac39d59f55604b5c0fadac1225": [
+        "JCR-1345"
+    ], 
+    "6b5e501efd7372e81ef789fff258944660cab7c8": [
+        "JCR-3821"
+    ], 
+    "341f65aebabe31ee07ad51e8b684f5bd85657a5f": [
+        "JCR-1415"
+    ], 
+    "cad96d293e9bf9df5ab938c05dc7e59cb6075ab5": [
+        "JCR-338"
+    ], 
+    "a9a9c773dde141d5684b251f082e0ab459f499f3": [
+        "JCR-1088"
+    ], 
+    "9e526ef53d6bd154743fad87ab5830d6b65aebc4": [
+        "JCR-929"
+    ], 
+    "6fd4e0d003af05bcd64dc77773ec61b23915cc3c": [
+        "JCR-1481"
+    ], 
+    "7432b362f8890de20c01c35c9eede7ffcdbb98e9": [
+        "JCR-3057"
+    ], 
+    "37eeed9c936ad9a1adf434d2929eb215093e8f7f": [
+        "JCR-111"
+    ], 
+    "92f09a7c44a052d5cfaff404384177903d02e746": [
+        "JCR-1339"
+    ], 
+    "53b0087251692d5cf0eb4e2e2f457342984269b5": [
+        "JCR-1448"
+    ], 
+    "18e1a2ef850d24d8a0a32136a55628fd05d10e50": [
+        "JCR-2892"
+    ], 
+    "424fac107edd76aac6d5bd91302e6c2f053cc166": [
+        "JCR-665"
+    ], 
+    "c4e9ac926b04d5f199d0d4c6548a09efedab2f29": [
+        "JCR-286"
+    ], 
+    "46ad12e48b71ce198534cd9a29f5060b1ff2aac3": [
+        "JCR-1380"
+    ], 
+    "67f8d5fc4b115f9cfeffc7ea8b8b623e75fb24a3": [
+        "JCR-2577"
+    ], 
+    "e170d7297068e15e4b203f694bacf0336f570932": [
+        "JCR-144"
+    ], 
+    "021de9fedd44ef71a5f2fe40b292b85584f1461e": [
+        "JCR-1630"
+    ], 
+    "7065e86a9b584baa722828e0b01d40dde021a490": [
+        "JCR-4060"
+    ], 
+    "58b28be24a82c7c72bdbeacf688dba166ffdd662": [
+        "JCR-1503"
+    ], 
+    "b0d5b945d97a588294b5d851f3aae0c9effbdcbf": [
+        "JCR-3024"
+    ], 
+    "a63042feecccfc882e77bc8cbc19d9288c77df15": [
+        "JCR-1331"
+    ], 
+    "ee4a2fefc67a2877b64bf286447716c633d24c9c": [
+        "JCR-1706"
+    ], 
+    "4fadb8c36716251c62b0fbc08e9bc3cff1ab0127": [
+        "JCR-83"
+    ], 
+    "e5f8eaf11b79d59e183bf833532e9828772c1dc7": [
+        "JCR-2207"
+    ], 
+    "380117e6e6ec0ffe886181b5d345e3d076dadff2": [
+        "JCR-124"
+    ], 
+    "849a6d1fff8b79d185c5544093569826b282e479": [
+        "JCR-3329"
+    ], 
+    "5246817b844b6770e0be03b4586ffff607112bd6": [
+        "JCR-2385"
+    ], 
+    "02e9437ae92b5c2b24078b048b4efc86b080d1ce": [
+        "JCR-3367"
+    ], 
+    "02a877863501857091b44e49c0ebaa9d91ffebdd": [
+        "JCR-365"
+    ], 
+    "b9ae5bdf22d6ed1f62f0b4019659d5e3cc1d5820": [
+        "JCR-3128"
+    ], 
+    "c3970ff56701b3cebc6b727fd55a674a83f1e99c": [
+        "JCR-500"
+    ], 
+    "a8837939140d1c009141a19458fa9dce910969ba": [
+        "JCR-627"
+    ], 
+    "fc51f625dc1723ba5bdeaa5e3c49e14c65700e5b": [
+        "JCR-737"
+    ], 
+    "bd8e26e2bde3d4c9bf8ea05d1dfc91bc3ea2afdf": [
+        "JCR-600"
+    ], 
+    "54500ff1dcd6586ba283deeee26c91742c8ec3d1": [
+        "JCR-602"
+    ], 
+    "655cdaf2733a0446ad7e0a58d4ada74d308294ab": [
+        "JCR-2170"
+    ], 
+    "376cd5fb467885a8d5ecb029a86e38d51ea2b504": [
+        "JCR-3728"
+    ], 
+    "8037888407b5c57316a876a6daae53f93e95204a": [
+        "JCR-41"
+    ], 
+    "20ee36ce9dbb06f2f475fa689cc807e9c0b008a9": [
+        "JCR-1773"
+    ], 
+    "f0788a3b23a62f82a2f5b2daa15b07263de6a62f": [
+        "JCR-3913"
+    ], 
+    "6cb28ed74e45ab4edeebbe69ef467f3c164a8266": [
+        "JCR-2541"
+    ], 
+    "dec095ee4f64d2448d970575c83c1a00ec2435c1": [
+        "JCR-3581"
+    ], 
+    "668b7b88ce8c108dc0a990bd68d886514ddc968d": [
+        "JCR-1319"
+    ], 
+    "d41ab68914c47d9939dd4807daec73bf07bbccbc": [
+        "JCR-4110"
+    ], 
+    "345eec8166135b9d2c5f5d94940ea6a69f2d5299": [
+        "JCR-46"
+    ], 
+    "ecd9ff21d31e0468916490e4863aed3afee85160": [
+        "JCR-3709"
+    ], 
+    "7c644fa36182f60724dda80ca3d168c4dd577079": [
+        "JCR-1092"
+    ], 
+    "1cb9c2420a6e5afc9905f8088b30f595d905b018": [
+        "JCR-1439"
+    ], 
+    "0f3cb55e5a19be56ba996c28b3a7c21cae5ac692": [
+        "JCR-1051"
+    ], 
+    "db0125c5b65c33ebd4efbd3b3f4ecdd2b2d4e100": [
+        "JCR-443", 
+        "JCR-140", 
+        "JCR-371"
+    ], 
+    "722eb4bf2c6756d0abb853bb58a3643b81742f45": [
+        "JCR-2202"
+    ], 
+    "3f336dfe271a7755cf432b3817072a863ffdeb12": [
+        "JCR-2904"
+    ], 
+    "07f7dc2b8dc861407e342d332e2816e64bb06d64": [
+        "JCR-4093"
+    ], 
+    "c274a46f405d8fbbb9c6c8ca40ef7e426aaebb37": [
+        "JCR-518"
+    ], 
+    "e65fa9b615e53e44c5eac038af19b4c2436ffd1c": [
+        "JCR-6"
+    ], 
+    "0fc6b2bce62f363f21a0e51978d886c95c2e28de": [
+        "JCR-2283"
+    ], 
+    "807ba5334e72df1b8f271e956b42815ada16da55": [
+        "JCR-3216"
+    ], 
+    "d4ce93343853f73955509cf7a6314aed3d99be6a": [
+        "JCR-2170"
+    ], 
+    "6e99004939d97a43acc6066478384b066f950d24": [
+        "JCR-3110"
+    ], 
+    "968b5838ee9f650fcd1c420939c4ba9809a44012": [
+        "JCR-69", 
+        "JCR-69"
+    ], 
+    "3b176e88ce7182096aaa13ddb1544e5ca822e45b": [
+        "JCR-900"
+    ], 
+    "facc45ddd989053da98187f591f82f1d06a21f12": [
+        "JCR-4041"
+    ], 
+    "27ad41d34434b9a1b6be4756e002aaee40033dd0": [
+        "JCR-1665"
+    ], 
+    "ee34c91d15d37c94803bf6c74759270ba3c0b9b8": [
+        "JCR-1503"
+    ], 
+    "097ca19b9340718e5391193a8cd4d87f7a3210c5": [
+        "JCR-2192"
+    ], 
+    "61c367c3be9ba574ecb5cb8388c974c57e31956f": [
+        "JCR-1185"
+    ], 
+    "65d2e183fb74050981c4adb8fd03c45b403b3032": [
+        "JCR-1245"
+    ], 
+    "96599578de5a24b51a072250998d5873c1f803a0": [
+        "JCR-2799"
+    ], 
+    "197f1426e459477acc3b7efbc63afb5b446e863a": [
+        "JCR-205"
+    ], 
+    "1bbe76f99ff3bb2dcaef9bd9baab3f4b3cd13594": [
+        "JCR-2680"
+    ], 
+    "6a8bebdaeb616bbb5dddeeb0e82f330d1ac36904": [
+        "JCR-1103"
+    ], 
+    "7d59b30c07605242aba47262c7d82f11ee559898": [
+        "JCR-2026"
+    ], 
+    "76e132ff32fca0bdc7d7b68aff99e28afc5f50aa": [
+        "JCR-3469"
+    ], 
+    "cefb2db2df9e4e07baa383e5350b325f8c75735c": [
+        "JCR-3063"
+    ], 
+    "383e63b839fd1f19d9bb4f2252c8f1bbad1fa54c": [
+        "JCR-1143"
+    ], 
+    "e569a8cc7a31719d38c7ece5f0457728c2b5f6bf": [
+        "JCR-266"
+    ], 
+    "71fe2fbeaa6e5d2dd7d6b1ab4552f2b95890228f": [
+        "JCR-553"
+    ], 
+    "6a4e7934d7e711d216122590f18d4f7c2c86eb7b": [
+        "JCR-3115"
+    ], 
+    "98d57b7a27e08b8ee8d2a60a78dd995b77579746": [
+        "JCR-3205"
+    ], 
+    "b6197bbe0fe5666a402e40d9ce7272eca79bba06": [
+        "JCR-1996"
+    ], 
+    "12f8309c8e9cada4b9ed46e8e9642e9c54e3bbbc": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "13485dc4a2c3ad0e4f2af7c3c578fb17414d34d5": [
+        "JCR-429"
+    ], 
+    "0c2cc48e90105d70c28da6011e65eafee5a81a4f": [
+        "JCR-2250"
+    ], 
+    "7ca504cef10331469441c2cb99bf113e9ed4ffef": [
+        "JCR-3425"
+    ], 
+    "b67495a2f25f793118bef4ddea71730ef6d67eba": [
+        "JCR-2543", 
+        "JCR-2888"
+    ], 
+    "63a478829853b04edb6aa70d05f9d6fa2fe2a2fb": [
+        "JCR-2026"
+    ], 
+    "75f9c8463a10e8083050ce6c821efe725ac717fb": [
+        "JCR-481"
+    ], 
+    "06b55415e44d9f050c17fc87a7e5c3801262ada2": [
+        "JCR-1813"
+    ], 
+    "71f6101c3b03ce8db0207c57b208f805bccaa094": [
+        "JCR-1737"
+    ], 
+    "6104213490ace2df5bff4d3f091322cd450a90b1": [
+        "JCR-2097"
+    ], 
+    "71d6648a2de8303ff8b2eebe40db1e4fa4c6c405": [
+        "JCR-842"
+    ], 
+    "eb28325c1fb2eeb7f3fc870b948af2748429a4d2": [
+        "JCR-3743"
+    ], 
+    "f4dc0246d957200df8f1d75d5331534d967b7eeb": [
+        "JCR-1630"
+    ], 
+    "223173778f64153b7018c457f430ef871fe390f4": [
+        "JCR-448"
+    ], 
+    "3fb2d95c39dc0f3997ec5277cec135db2d3c8334": [
+        "JCR-1434"
+    ], 
+    "a07fe82df90ebc16519e0091811bb22880fc9a22": [
+        "JCR-3987"
+    ], 
+    "0a5281579753f9336ecfd2bebd7d189b690bbd0d": [
+        "JCR-861"
+    ], 
+    "b09ac00d17a62e8d7ac7a2a0c36559475b8b94b3": [
+        "JCR-1541"
+    ], 
+    "2998d7f4238e4eacc6f2d6db4344b69242087aca": [
+        "JCR-1008"
+    ], 
+    "a82b613608250748706c62c60b9d574d74864637": [
+        "JCR-1396"
+    ], 
+    "ebd1edffa713296372b41d128913a77e7b34fb0e": [
+        "JCR-2304"
+    ], 
+    "0e67fc3c628492fe397f49b8594e6b8357ce734c": [
+        "JCR-36", 
+        "JCR-36"
+    ], 
+    "fdf79e0607515be4952b6f3ed9e2545de8d892e8": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "1639e97ce34422e320bf51664ad01f3b95e2304f": [
+        "JCR-1034"
+    ], 
+    "ca37730a186552e6d0fd9504cc1d005ee0249135": [
+        "JCR-3719"
+    ], 
+    "cc14ab987cea8d4ad557b4084ab5ad5b28be918b": [
+        "JCR-15"
+    ], 
+    "c075fe50fd5e7b1762a9d5972ab82b179ceaac10": [
+        "JCR-4291"
+    ], 
+    "bf4ba91edff9924ed1e8e6a08bfb9155d2f27323": [
+        "JCR-1302"
+    ], 
+    "8925b6d9af5cf97fe46cc810cb9d0c995458c5db": [
+        "JCR-283"
+    ], 
+    "3ff0edb703e07a09718c1521167fa20fa305fac6": [
+        "JCR-2244"
+    ], 
+    "9bc3ab1e9171281750ab158dde36712eaa1ee463": [
+        "JCR-862"
+    ], 
+    "728ff3a44862e3a5e2a43061f8f6a14003f9d102": [
+        "JCR-1952"
+    ], 
+    "167ea4682fe3eda3c6d1c8f4eac5390f2039efd4": [
+        "JCR-544"
+    ], 
+    "fd7266ae57762f93a8e4cbc295f074a6ee86d3fd": [
+        "JCR-210"
+    ], 
+    "787774404c4ef878f385fa19cee3f22d4004d877": [
+        "JCR-816"
+    ], 
+    "39906dfdda873a88e9b681b88a23e915984aa000": [
+        "JCR-1468"
+    ], 
+    "1913470d3aa9a4ffd0d11173855f0e4c4909f885": [
+        "JCR-51"
+    ], 
+    "148dc1074b52b8dc57f3ba00312746ae43ceb134": [
+        "JCR-19"
+    ], 
+    "3cb6e742e59eacbc1d4c3c2da7712771327a631a": [
+        "JCR-139"
+    ], 
+    "c758118ec57e9f41a43267abeb97461dc985de43": [
+        "JCR-2519"
+    ], 
+    "49249138f360777420bd1f8efaee88b479a6e032": [
+        "JCR-2018"
+    ], 
+    "404553195fc9479a017e009bf277b7fec8d10cb8": [
+        "JCR-379", 
+        "JCR-378"
+    ], 
+    "fda73c4ec99a96e5cce4a9db9a07a45e9fe037a3": [
+        "JCR-391"
+    ], 
+    "c165b6f20956fea079fc3d2623f8144497807b5b": [
+        "JCR-2344"
+    ], 
+    "29be31461f81488d52e6291c5b3b7ed98677d916": [
+        "JCR-1280"
+    ], 
+    "35735527c0b58b166acce54f73fa0438ad5e6098": [
+        "JCR-284"
+    ], 
+    "177b2bab543a8f664acaa7806c4780146c2e17fd": [
+        "JCR-764"
+    ], 
+    "12394ffd32380922c2fa820d36ae817903e445ea": [
+        "JCR-2503"
+    ], 
+    "40fef0a1940af9b89a5f1126ee1c3f48399aad0d": [
+        "JCR-4133"
+    ], 
+    "ae8b983aee9f98c8d199a0fffd034cbb25c0f5d1": [
+        "JCR-1432"
+    ], 
+    "64c739f4f1277064e1bad1ab1200248a1402c6a6": [
+        "JCR-1979"
+    ], 
+    "a40c53d756b1659265c694a89cc4592b1402e03c": [
+        "JCR-2346"
+    ], 
+    "54ed540773ddb711084ee463a74d3790c389eecd": [
+        "JCR-3131"
+    ], 
+    "69cea25a45efdd742018cba3fa487ef0f6627a88": [
+        "JCR-692"
+    ], 
+    "90de91d126e6a31fcf6da840c79cc438015aa4e3": [
+        "JCR-3314"
+    ], 
+    "70a76af7d94801c383afd237c1fd236403e564c7": [
+        "JCR-858"
+    ], 
+    "ef17e9af9bcd67afb78f7f6778662587a64de4b3": [
+        "JCR-3840"
+    ], 
+    "05368914fb3ee133e88b0b7c76799fa31e209716": [
+        "JCR-1235"
+    ], 
+    "c94f22cbfeea076a9e8b2a180129fa51e3e4f3f7": [
+        "JCR-3399"
+    ], 
+    "e2d7bc236d7c20b050c60480aa20d735af0c0e15": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "e05ac1f62b341476682e493ecf58a974bab047fb": [
+        "JCR-806"
+    ], 
+    "1822df9eaee2205e4230a077d37b04cdcfc61fff": [
+        "JCR-3445"
+    ], 
+    "62946f2e495429de3225e4083e982b039d7dbef3": [
+        "JCR-2291"
+    ], 
+    "24eaddc7caab3ec0879b02bd4af0792b8fad3574": [
+        "JCR-884"
+    ], 
+    "837a21aeb0f9d4cdb981ca7bb589a29ef7229cae": [
+        "JCR-2870"
+    ], 
+    "5b9c669ce0fdbda662da34a9b635d6991603855f": [
+        "JCR-815"
+    ], 
+    "382866fe1ff029643a6105156cbac016d7df3d0b": [
+        "JCR-1076"
+    ], 
+    "ffcd6cde30cc115094294b98181a6834153d759f": [
+        "JCR-72"
+    ], 
+    "9e3500ec99d98fdf9c060879ef5286eda0e63a08": [
+        "JCR-3811"
+    ], 
+    "d6f33274784bacb55780e8a2d38f8bee301d573b": [
+        "JCR-3710"
+    ], 
+    "711c66a04a79ae77875cfad49ff9f9e117d6f3a0": [
+        "JCR-1440"
+    ], 
+    "3b4342bf971be7f91bf4953a82df0037c1b42564": [
+        "JCR-2272", 
+        "JCR-2272"
+    ], 
+    "c8355b3d9f541a464012f5d46be0c7ebf757f649": [
+        "JCR-2255"
+    ], 
+    "a494b90acbf27a9f544971604c1a3105a3bb3a22": [
+        "JCR-2016"
+    ], 
+    "e822bbfe021fb4237b4655b9ab21e70621777f43": [
+        "JCR-44"
+    ], 
+    "8f6c864f108e851c9eeb165bddf9f37f6e8729e1": [
+        "JCR-1866"
+    ], 
+    "10c2f354605ef7c4b12690f62222319ef41152ba": [
+        "JCR-20", 
+        "JCR-22", 
+        "JCR-23"
+    ], 
+    "a245603950ee42534639167a0fba8718d59d4fa7": [
+        "JCR-842"
+    ], 
+    "2ab0dd526cf4c70cfe5b2d490b8dc7f7f30f7610": [
+        "JCR-2725"
+    ], 
+    "ff9b8ddba04cef748d22fadcdbfa6ab9fc0ac582": [
+        "JCR-3345"
+    ], 
+    "aeed45e03b004e12081fa2d97e94811219a9084c": [
+        "JCR-1072"
+    ], 
+    "a454ffa1c3126919dfec559ef0fde99f107b6abb": [
+        "JCR-3482"
+    ], 
+    "093c973f7c924180fbe64d5d09ef34ea68c4fa99": [
+        "JCR-2326"
+    ], 
+    "278efd17a044790f69bdd919b19260dcc66fb862": [
+        "JCR-3337"
+    ], 
+    "d5b3d00baafd4853bb20f236aa358e15bda96fd0": [
+        "JCR-3312"
+    ], 
+    "5397f7de22b58024df24e8f89c2e8595cae18627": [
+        "JCR-3724"
+    ], 
+    "79dae9237d99be1694dcf19e10464254e8a8e655": [
+        "JCR-2452"
+    ], 
+    "14352eb1c2fdea95261e2a619444374a58ab6489": [
+        "JCR-2134"
+    ], 
+    "1da3c12b6bc4adc8c8a704d1cf7791f3d30064cb": [
+        "JCR-3115"
+    ], 
+    "46683170633b4c28ce80e8dab0a30dd5462c79b2": [
+        "JCR-681"
+    ], 
+    "65c44b1e878c3c466f1499cd85e364220b4e910b": [
+        "JCR-128"
+    ], 
+    "646663b97e2049e143456ba2eb7a334bab6d3905": [
+        "JCR-512"
+    ], 
+    "81888e5251257189fd40a7c4b1183c17357977db": [
+        "JCR-3948"
+    ], 
+    "0d1b6c60898a0336c1f7919dd69626a1499ffccb": [
+        "JCR-3223"
+    ], 
+    "ad33de292d25ab811aa2e2c4649662bd6a65ad8c": [
+        "JCR-3016"
+    ], 
+    "4a4a2f92136870f08a7b7c09711192c439543e86": [
+        "JCR-2484"
+    ], 
+    "06579d227b0c8cf268877bfd7b425269aa2bdf87": [
+        "JCR-543"
+    ], 
+    "7665cb45ae8e9f2817c94f1928de1e41fbb169e2": [
+        "JCR-641"
+    ], 
+    "246569070e4aacd5f80d21de279971576ff7910b": [
+        "JCR-1644"
+    ], 
+    "971ee113590babc4ff5e0b7a2b42431a00177774": [
+        "JCR-905"
+    ], 
+    "05fba5dd8904330ca8e97e4f04cfcd17778747fc": [
+        "JCR-1920"
+    ], 
+    "74663010780400f6e74cd0105be7127f60045719": [
+        "JCR-3163"
+    ], 
+    "ebbb453b4b7815dc9b481e651dd99576d5596383": [
+        "JCR-2157"
+    ], 
+    "98121917fa98f4eac9d6022f120fa67afa318b8f": [
+        "OAK-2441"
+    ], 
+    "83c0e1de86ce829da18663a476df695c83af88fa": [
+        "JCR-3318"
+    ], 
+    "7f2faeb4c5b865ebdf93a40688a74a59e7e37f0b": [
+        "JCR-2515"
+    ], 
+    "3aa270e45140334fecc1e342771db56bafd4081b": [
+        "JCR-4033"
+    ], 
+    "e526ea082796c4dd33ce60f02029a7932f8e793a": [
+        "JCR-719"
+    ], 
+    "35270b7e36a404b05b4dfcaf7d3ee2ef96063bb3": [
+        "JCR-295"
+    ], 
+    "44c971370691e7e49d015237904fd86406b13c83": [
+        "JCR-61"
+    ], 
+    "59167474487f94e377f7df512e9947ac476eef33": [
+        "JCR-825"
+    ], 
+    "a5c547bdafcc43163dac37573f9b836b33350021": [
+        "JCR-2026"
+    ], 
+    "c6839ccc422b2c94281e9ede030c645e2b3ca3f3": [
+        "JCR-3498"
+    ], 
+    "07fdaeb18a25c25b58e919a74ca6540dc1c86e80": [
+        "JCR-832"
+    ], 
+    "17341ba9b77f78dc804046c5846350a528710740": [
+        "JCR-1612"
+    ], 
+    "4b5815c46ea919ee4748288b45a95fb6e3d56ca5": [
+        "JCR-413"
+    ], 
+    "5bbb60c0cf0aac23491a53c043921c752a04ca8a": [
+        "JCR-796"
+    ], 
+    "54bce5f4e94c40730dc9f9d133685064a6b7e2f0": [
+        "JCR-1931"
+    ], 
+    "a79812525368c4a1fa05e795e03905c93f24d109": [
+        "JCR-490"
+    ], 
+    "02eb74ea0746a8f4eb8d7b16bd42e4145cee69f3": [
+        "JCR-3437"
+    ], 
+    "3758ecef51822c50f5fc4a85edc2f79d16d782d7": [
+        "JCR-2134"
+    ], 
+    "4c1336caffe93c645a0a770a6973ec7708fc710b": [
+        "JCR-1158"
+    ], 
+    "36d2836039ba9fe5e7d14acb5c6f448188583abe": [
+        "JCR-501"
+    ], 
+    "ea017a78a61be0035eef7388b5c18345c8a6a2e1": [
+        "JCR-159"
+    ], 
+    "483ac4e0a61444a2afa336b0a7e04ddc414addc7": [
+        "JCR-1915", 
+        "JCR-1875"
+    ], 
+    "1b268ed5366cd7d69e17bc3d0690153b5914cef7": [
+        "JCR-3721"
+    ], 
+    "e0648b858e216e628b32d3dc4d7b139026c557e4": [
+        "JCR-1454"
+    ], 
+    "848c0f804776db4942952adda706199bd59e8d5e": [
+        "JCR-340", 
+        "JCR-344"
+    ], 
+    "b48e90bd8eb65318151e63b0414d6b513c4bee48": [
+        "JCR-1612"
+    ], 
+    "b997f166d4bcefb9cbe40f38da30f16cdcf07eed": [
+        "JCR-2162"
+    ], 
+    "203d9705ec71769c5e3b2c09158371a91337d9d8": [
+        "JCR-1362"
+    ], 
+    "abca7205d2faeb03a58a63d0705e31bd39da7b17": [
+        "JCR-2904"
+    ], 
+    "446bce8a2edf287414f99cee7df66f4c3dc3c675": [
+        "JCR-3417"
+    ], 
+    "e5735bea0f6233c80075c81acd726a90fd0f89e3": [
+        "JCR-981"
+    ], 
+    "4eddfa98876390bf355779b0e4418ef7c76e8180": [
+        "JCR-382"
+    ], 
+    "66fbd40633c0390c67cb1cf8974924cc8cdea618": [
+        "JCR-2646", 
+        "JCR-2657"
+    ], 
+    "756ac11b0b89cf5bf25970cc0bc7d540c1f04672": [
+        "JCR-3355"
+    ], 
+    "d4123dc63b53c56a5671ea4d49d3cea89cede44a": [
+        "JCR-2561"
+    ], 
+    "6eac63d9e7c7923fa366d2466c6e0dc11d947ac4": [
+        "JCR-1572"
+    ], 
+    "ca0adacbec36e13224a93f39363ec7b6ffd7bc94": [
+        "JCR-3671"
+    ], 
+    "7d7b62ff73a19685b8a8e0afb4312299b6da2869": [
+        "JCR-2255"
+    ], 
+    "5471481ad314d26fea29eace4a4ec130ff113704": [
+        "JCR-720"
+    ], 
+    "9eb8f0ab705c99fa6e3e4df8bea1aa46af40e89c": [
+        "JCR-1630"
+    ], 
+    "78c9eb0da585451025288f3ed1994aaf581618c5": [
+        "JCR-3410"
+    ], 
+    "64bd1a9122c67e58162bfef133d269a1a1967f27": [
+        "JCR-144"
+    ], 
+    "9a69f78de29cc20be2ec652818ce7c516ee9d528": [
+        "JCR-1767"
+    ], 
+    "da33305741a0744db45d0aafb493b7ea8e7bf2b3": [
+        "JCR-865"
+    ], 
+    "19047350c3187b3e626aad374e11e222d7091f72": [
+        "JCR-2899"
+    ], 
+    "7d0b50d4addd6dd84a605cf8229ac1ee743a5d7d": [
+        "JCR-494"
+    ], 
+    "9591f9f039846eeab537791e765f7bdcd6d5cb1c": [
+        "JCR-2724"
+    ], 
+    "06337014cb27e58920db9b19279ebe46494211eb": [
+        "JCR-915"
+    ], 
+    "51e918a4123f33e989ca5789e62f4be044c7bbcd": [
+        "JCR-230"
+    ], 
+    "8c1e34d3f5caf4a245f58cf725aac6408672faa8": [
+        "JCR-2828"
+    ], 
+    "c8b67bb762b7bec93085101bd42293188eb743c6": [
+        "JCR-3958"
+    ], 
+    "ce65aeea8491f3bf9786492133fb9b2fa02a1229": [
+        "JCR-775"
+    ], 
+    "00a0eb49b877eba48ae4490d6e10b6a6f7bd92ba": [
+        "JCR-3063"
+    ], 
+    "d83ff8a1c9c22e2e7c88c730104a276bd586c257": [
+        "JCR-913"
+    ], 
+    "026e0ea05f8d7399d1c15dcfc9be0b823d85b60c": [
+        "JCR-2882"
+    ], 
+    "232b49ac4c041fdc63e81604e0f81f4156333bc7": [
+        "JCR-4317"
+    ], 
+    "6d01b17df6d7ee43da6fa717713b5cd9c7b266ec": [
+        "JCR-2427"
+    ], 
+    "65f4ae1c77ca059164c3d4f556404bb51e2cd3e2": [
+        "JCR-2433"
+    ], 
+    "84345dbf2d3422b6cf33c4c0ae9ce97adad2e80a": [
+        "JCR-79"
+    ], 
+    "3982f4fd71797fbb8d4a33a168fd7cac792ee78b": [
+        "JCR-1930"
+    ], 
+    "6c81761828de803c46b892563b612d5dd4251841": [
+        "JCR-1825"
+    ], 
+    "7d0b13a3931871f85ba392ac162c58da4ed3221d": [
+        "JCR-3316"
+    ], 
+    "44fd111dbba514a442390c58ff2d97b7d944785c": [
+        "JCR-827"
+    ], 
+    "36c5f82ee1bb46185d18e3b54404609e3879c7ef": [
+        "JCR-2868"
+    ], 
+    "c3783cd411804635f32cc7482198927b96ad24be": [
+        "JCR-2178"
+    ], 
+    "4fdade8a8a0ca260371a4274ff24ee70c758a80e": [
+        "JCR-216"
+    ], 
+    "ff96bca27d08a0ef12c3b4f5eb4b0f07ce1839cf": [
+        "JCR-228"
+    ], 
+    "d5eb5c2b7d5fa69ab482a28d5cc07d0bdeda22b0": [
+        "JCR-2223"
+    ], 
+    "9d418dda098fc3bf7e19968978c8bba8ed452331": [
+        "JCR-3570"
+    ], 
+    "638b53cf3e98240426c70cedc857995bb45193b5": [
+        "JCR-482"
+    ], 
+    "cadfac859e7420522f7a9f93efbe64ef2b44f116": [
+        "JCR-1127"
+    ], 
+    "80e58f759f61ec96d3349106f80cb54e5bffe22d": [
+        "JCR-1502"
+    ], 
+    "d38dad68d7fff521d80640873ac3bd78bc4c16d7": [
+        "JCR-2496"
+    ], 
+    "0e747bf76811135ee872056e0c5e4b7fd9ba167d": [
+        "JCR-594"
+    ], 
+    "b25f9f08df01a6334e51afd96f048aecacbb2ab6": [
+        "JCR-1495"
+    ], 
+    "6ac4635977b498fa5c7c5b80c70535a637a26c7b": [
+        "JCR-2418"
+    ], 
+    "5634997057160357a4f1b68ac813074ebfefd958": [
+        "JCR-3888"
+    ], 
+    "d207fae539dff61041c87a82201a0b507c90e2ba": [
+        "JCR-3163"
+    ], 
+    "6138a03c9be0ecff859fd44c79276a9f46242b25": [
+        "JCR-1821"
+    ], 
+    "a9c73f6e5f9cc89c14a30e88b97a36874d2b89c3": [
+        "JCR-1197"
+    ], 
+    "5f78e660b2def6f4d6f3ae998cb479f3e11c1883": [
+        "JCR-505"
+    ], 
+    "fdaf256946eb20e87c2f8851189f267ab58c34ee": [
+        "JCR-1638"
+    ], 
+    "3ee0cc2fdb23d4722b449db038fcbcc11ea3edd0": [
+        "JCR-1580"
+    ], 
+    "bfcc15399ea0015fac3efda3292718d90a854f3f": [
+        "JCR-2821"
+    ], 
+    "292a764b923d09ce1bfe67ca29759dc28d50f40b": [
+        "JCR-2507"
+    ], 
+    "6fa7a332ef145fb4b5164662e9f2468942a61da0": [
+        "JCR-1167"
+    ], 
+    "2598e1e88ec58172fe3397ca8b83997fdd4f884f": [
+        "JCR-3014"
+    ], 
+    "1992ab6d1b899167d25cf747e83d38a3e922d68e": [
+        "JCR-1296"
+    ], 
+    "5db42661605a63dba33d7a1d1221bf69d042d5d5": [
+        "JCR-2743"
+    ], 
+    "a28d0a7522cc0919529d2014c92a5bad7e27b4ba": [
+        "JCR-821"
+    ], 
+    "f504564d73f1494f4b01dd78ef24e0d42a5d6ab1": [
+        "JCR-2170"
+    ], 
+    "35299e4deca029cc35b7b4754869e9340609cbef": [
+        "JCR-838"
+    ], 
+    "cfca915908a449f7c79d6bd85742d3c662513d3a": [
+        "JCR-2425"
+    ], 
+    "d1b1d3dc0c74dff13edf42aee6ffb4016feea883": [
+        "JCR-1829"
+    ], 
+    "656f14007e18a85fb8dcf4001e8d3ff398dfff1d": [
+        "JCR-2192"
+    ], 
+    "5b38c65b6a0aa57082239040dc10680be97722ae": [
+        "JCR-782"
+    ], 
+    "9c4c7e275269f063b79991c0e72952ed9ac15b5a": [
+        "JCR-1346"
+    ], 
+    "9eea611930913f69235ddc7bdd2ae69e8c61014d": [
+        "JCR-2293"
+    ], 
+    "fe79d7a3f1ee69e3844cc15abc6845ae82dbe8e3": [
+        "JCR-38"
+    ], 
+    "d7c0fcb560f194b123a4ca2f97048c41e141f940": [
+        "JCR-1038"
+    ], 
+    "656d5b08f6169ef7f7c95a07faa8b347be535a83": [
+        "JCR-1602"
+    ], 
+    "90dc7cfc453b2564f2a793b6be9f5c8d58bf958f": [
+        "JCR-2564"
+    ], 
+    "e798552432d848b91dd04baa79301b40fe2d0d90": [
+        "JCR-993"
+    ], 
+    "c2d2d88fe575c215930317f583b422aa5e81e099": [
+        "JCR-1512"
+    ], 
+    "faf3d35c592c4abdb281417125d738e1082978cb": [
+        "JCR-1883"
+    ], 
+    "ab29dc4a813b0fbb484daf486f540105d119b5f8": [
+        "JCR-1332"
+    ], 
+    "32283d9190e06a2befe75fa3b0e511343bb210b5": [
+        "JCR-2719"
+    ], 
+    "48e725ca1931e972fd6bde3902db85b9769e7011": [
+        "JCR-4455", 
+        "JCR-4339"
+    ], 
+    "8ebfcc185f199a17a7430960a88e006783b23703": [
+        "JCR-529"
+    ], 
+    "8fb9351fe1a6c3260d92569b8d7637183d5b19a4": [
+        "JCR-2809"
+    ], 
+    "693f618efdaad38ca78e3a2ece3e36d420fc867a": [
+        "JCR-715"
+    ], 
+    "c3dbf7ccca43e94b7f9c661f29b8c7bf7c9346d7": [
+        "JCR-2562"
+    ], 
+    "d83db02f4899b8c877fd3b9c8649ad7c295ac1fe": [
+        "JCR-1497"
+    ], 
+    "763eff4f4be36a00d8d36a1b2089c4652a745054": [
+        "JCR-2352"
+    ], 
+    "5d57c0d63e3bfba9e97b45e8178aaa2802a45835": [
+        "JCR-1706"
+    ], 
+    "65ee896e4aef00b5e32cf653f039fc494b4f516a": [
+        "JCR-143"
+    ], 
+    "e899031516d816373abf98dd43741a4c38c361e9": [
+        "JCR-1823"
+    ], 
+    "5e8a30c9756701ba42b6303acd125d9455310def": [
+        "JCR-746"
+    ], 
+    "3bcb3b567bc483abd29d0dd4aae7d7d26088ac35": [
+        "JCR-3210"
+    ], 
+    "3c71b5c94b99ef666388fb04d9d931d332cc6b1c": [
+        "JCR-3291"
+    ], 
+    "b3455bf4b03f6035741d927a2c1285ca782bd2eb": [
+        "JCR-4031"
+    ], 
+    "970e6415fbe89aa41d08ea87ed70ed75779341fe": [
+        "JCR-2097"
+    ], 
+    "144babc810f0bdf782352c366d9b0d6386d36fb2": [
+        "JCR-2287"
+    ], 
+    "f0221e207160c93f3b3e8fb4eb18b7f31f12f472": [
+        "JCR-2429"
+    ], 
+    "8d607aae5217b125c8fe148f5f8569631519d81f": [
+        "JCR-2539"
+    ], 
+    "0ef2594e2bb486555c23772a1a9bb476907682d8": [
+        "JCR-1133"
+    ], 
+    "955fe6cbe24deb1b51ffa4eff1ea255425f97adb": [
+        "JCR-844"
+    ], 
+    "924908b182a089b37291316728d9f1aea1c4cff7": [
+        "JCR-422"
+    ], 
+    "2e9542a142d2e795d728700775b68a242c23ed98": [
+        "JCR-4121"
+    ], 
+    "23ea8f82860ea03480012967c7566497914a6b54": [
+        "JCR-1630"
+    ], 
+    "3e9a3e529045b504af89c1c752a0cf6480b7adfa": [
+        "JCR-786"
+    ], 
+    "363aed7c33680f14f4922ac670d6c05561a36832": [
+        "JCR-2299"
+    ], 
+    "44398f4ca0a5285b72c87efd0647de15012699ab": [
+        "JCR-2810"
+    ], 
+    "e992df3ec9676b7f94c79c6573d759cc48839ad7": [
+        "JCR-121"
+    ], 
+    "03b38f475111ffbb797293575660634dee18bb68": [
+        "JCR-33"
+    ], 
+    "66ee933f7938d7c3af3d415961c9d731f36f9cc7": [
+        "JCR-3300"
+    ], 
+    "604d6d5bb1f6bd9c3e9f62d3bfe280ecf9ed75a2": [
+        "JCR-3466"
+    ], 
+    "ea74e99264132555c5d3fed18ba42e914490bc17": [
+        "JCR-838"
+    ], 
+    "6cd4fce5d84ffb24c2ae919c50c8aa50b342ba37": [
+        "JCR-3888"
+    ], 
+    "563b809289fac69377d4b53cc09d9a19cea836df": [
+        "JCR-3363"
+    ], 
+    "306291729ac57a29831d4e94c200f4f029eb8cfc": [
+        "JCR-546"
+    ], 
+    "02c2e30dfdcd2aeff8b40f02d98db555369a3565": [
+        "JCR-1301"
+    ], 
+    "adc89ce159dfb5ce95bfaf5f14fa6dbaf626b730": [
+        "JCR-1782"
+    ], 
+    "0b316df04576a8ca4f634a8de5cad590a97a1c8a": [
+        "JCR-3878"
+    ], 
+    "a95b2947a1f92d7ecb93988f4458c34c70e0b3bd": [
+        "JCR-444"
+    ], 
+    "ff1c94720cff4d0502084c9f11f671f5b7901ab1": [
+        "JCR-1977"
+    ], 
+    "be03ee9a8dbfa342532cbfb93d8270a490c9fdaf": [
+        "JCR-713"
+    ], 
+    "ee125854b1f7df2855781c0d182b06a51c7d24ab": [
+        "JCR-3159"
+    ], 
+    "9e7fe5777431e9917c1bf3b0d83c065a263b47f8": [
+        "JCR-1480"
+    ], 
+    "0a56a80402b4114bfa778bf11cb38b526f8ec93e": [
+        "JCR-3049"
+    ], 
+    "b4dddc864734ec17db8d492206aab88c7179c801": [
+        "JCR-1503"
+    ], 
+    "cfc52d04139b7e0935e9db47316729493475d7ee": [
+        "JCR-436"
+    ], 
+    "580b82b3a0a23a594d5be4eb7e93a2f8be81df92": [
+        "JCR-13"
+    ], 
+    "7a613be10691cf924c0f9fc06e866927cb48e87f": [
+        "JCR-270"
+    ], 
+    "80559ec8649785c97701c993c3628fec393066c0": [
+        "JCR-768"
+    ], 
+    "b2544c0091449ffde0598f0fa76013d54434a7ed": [
+        "JCR-3502"
+    ], 
+    "bcfd0e6ed6d358465136eff94e12270c965d356d": [
+        "JCR-2663"
+    ], 
+    "8093ade551597269176f4b1902fd2e879677a556": [
+        "JCR-1734"
+    ], 
+    "73e89871256755c293c5f32d9cd1f5f1694776f6": [
+        "JCR-2872"
+    ], 
+    "874ef60b8e5bde1dd36e2a32f6c4b7dde20c9fac": [
+        "JCR-70"
+    ], 
+    "0a4830311fea9a1f45a144c6cea10cf9792a05f0": [
+        "JCR-1010"
+    ], 
+    "ab5ef8bf9b471af9d539ab678fa8d37eebe4c317": [
+        "JCR-3582"
+    ], 
+    "b2f396918ac52ce676ff767591d54c8eecfdd0aa": [
+        "JCR-2070"
+    ], 
+    "13a38d3023841586d1ac2e62fe97bf1d5c70b67c": [
+        "JCR-1936"
+    ], 
+    "5f0485ced554bad6e7da05da0dfb62deb59d6117": [
+        "JCR-892"
+    ], 
+    "3eaf151cad7f6132b818d958461649208b32fbb5": [
+        "JCR-164"
+    ], 
+    "c37263ee6f9a00f15d2c6ca999521c57f5198fb9": [
+        "JCR-2829"
+    ], 
+    "7ab07310e326b103824c97e2800cb62c4fb0cbbe": [
+        "JCR-3266"
+    ], 
+    "a05c4f549cbb19f5ef130941dafaac7f5ac38fe8": [
+        "JCR-1039"
+    ], 
+    "3e81a8a88fbfa639cfbcd5a4c7223121456c44fa": [
+        "JCR-445"
+    ], 
+    "77150bf27282f6a79f36b4f766a2e0a34178a1ad": [
+        "JCR-3876"
+    ], 
+    "da84d4af88cc1a754dbc79ca05b946c8f4727663": [
+        "JCR-3014"
+    ], 
+    "dd3ec3489aa40bc42acb6ca4dc827a1feee4066e": [
+        "JCR-950"
+    ], 
+    "fdfc474eb18055ba1bdf82334c1dca6d68d7079d": [
+        "JCR-1566"
+    ], 
+    "a1d231cb841018543595597514f461fff85c8c0c": [
+        "JCR-529"
+    ], 
+    "38a6a164785ef5f71a76a81b5100f5f113c9979d": [
+        "JCR-35", 
+        "JCR-35"
+    ], 
+    "1bea0c280cd23978abb10d6de77f0395193500ab": [
+        "JCR-3652"
+    ], 
+    "878f0e8a8a0053d60a5370468eb484a71a2aa354": [
+        "JCR-761"
+    ], 
+    "02d317e06f4a8db462fa066b89f7b8d3c44aeb75": [
+        "JCR-2421"
+    ], 
+    "5aaa3af87e631c4e0aaaaa8f2745b9f48ae6e47c": [
+        "JCR-46"
+    ], 
+    "106e443ac208836b60c80387fba00cd8287a4092": [
+        "JCR-3809"
+    ], 
+    "26dc2209a8009c6f52b129edb6847f4a5386ef3f": [
+        "JCR-2193"
+    ], 
+    "50066872f7362b5e341c984396c4a1914ca838e4": [
+        "JCR-424"
+    ], 
+    "a035d51da42b9f93856573a7f6e7343d4ca4c7db": [
+        "JCR-1535"
+    ], 
+    "b8bd695e5925bb5c4ff65404a7dff20892174058": [
+        "JCR-1179"
+    ], 
+    "f6bc745a1bc82b8af4731f8a8b9c3589f8e1635e": [
+        "JCR-1545"
+    ], 
+    "c63e9ee961999ee472360a9cc36ef13be941130e": [
+        "JCR-363"
+    ], 
+    "08a873e4984ff4fa82f21607f34d862257fde4b4": [
+        "JCR-4133"
+    ], 
+    "e14129ad31f25751d22c865141e3e94c289290c2": [
+        "JCR-1536"
+    ], 
+    "bd6594eee0e46864e00970a74cde4fe39dc1e1c5": [
+        "JCR-1846"
+    ], 
+    "c1a1a367146272943e6d261b7a5f19209e0fd70b": [
+        "JCR-3724"
+    ], 
+    "d085a75fc9a5d58f2591fe62375fdedce46c6891": [
+        "JCR-2521"
+    ], 
+    "416a87266d29cc6d76f751bcb495dfd3d3cb3760": [
+        "JCR-2313"
+    ], 
+    "777d1c7c4ba3b515b2253e4c527fcf7fa7a27962": [
+        "JCR-4154"
+    ], 
+    "e8bcb78822736bb2958cd81559829287a1734932": [
+        "JCR-3472"
+    ], 
+    "378cdd6ec1abe87f03719e7beff52ab77b801fe0": [
+        "JCR-3499"
+    ], 
+    "fbac81c828e37dedfedbff247f34d703dd9cdfb0": [
+        "JCR-1216"
+    ], 
+    "8a04d3cf99ccf7a36834b72f46ec44aab5ade2de": [
+        "JCR-1682"
+    ], 
+    "139dfbacfa26078f2687fd58395d63633d4fccc0": [
+        "JCR-3937"
+    ], 
+    "701cf39e12a94e1751465dddae224dec9f135e76": [
+        "JCR-3872"
+    ], 
+    "faddd2e6e957d1c2303381d4ec1d08b6434209ab": [
+        "JCR-2613"
+    ], 
+    "72df060e03ed4f09e8ca4045a4520d618d49ca35": [
+        "JCR-2753"
+    ], 
+    "5d5fa7f55cac630c9e9a486045803b5ccd0a6c6d": [
+        "JCR-2071"
+    ], 
+    "4073c13ffafdac2f17a0ec7bf8a5cdc53c6c34bd": [
+        "JCR-3220"
+    ], 
+    "abe36993051a15dd7409b512f8eb563029e0ec0d": [
+        "JCR-4093"
+    ], 
+    "513a8bf180827a39bef1ec6ebbc9491d981d255c": [
+        "JCR-1040"
+    ], 
+    "d9fee4f85fb5c427a08559f6f4b3cbd43afb4b49": [
+        "OAK-5336"
+    ], 
+    "e347035386262fc7dde4053a043ec91177636c55": [
+        "JCR-3015"
+    ], 
+    "480b7a63d05a5c9490aaf350d2fbeee95b986b75": [
+        "JCR-789"
+    ], 
+    "d1d4cb69b6902d1f827342c87b5f06750ca28cce": [
+        "JCR-2598"
+    ], 
+    "69aaf08bcd300f5b5c460ddc5900a7b692164a5b": [
+        "JCR-1381", 
+        "JCR-1385"
+    ], 
+    "f2e45946f30c84a46dfda85193f31c7ff0553612": [
+        "JCR-46"
+    ], 
+    "64a87081cd6a159a73c12152b0c3a3ecbea399c2": [
+        "JCR-3629"
+    ], 
+    "dd4b397b4dc3ae2d77b32c05af29068943e500c4": [
+        "JCR-1633"
+    ], 
+    "199ec6ba7d428dfaade0a705d61dc8414c2a5dfb": [
+        "JCR-838"
+    ], 
+    "a6d08ea9fc4c32a989eabe0abb25734b30b141b6": [
+        "JCR-353"
+    ], 
+    "ba0550e0fe1c2a4d5ae954588897351f45b399c5": [
+        "JCR-1460"
+    ], 
+    "fdc84a559d69f8d322277426f6eba38312206489": [
+        "JCR-3300"
+    ], 
+    "3fc8419ec8a8ff38f7f34436e031f2c3d9b96eb3": [
+        "JCR-288"
+    ], 
+    "202b72515d71b7ae2b60dac50df9fb5e31fefac6": [
+        "JCR-2813"
+    ], 
+    "d32a4f9ad0470927c0145383053af5a2d4b3bc27": [
+        "JCR-1301"
+    ], 
+    "53d320e813ad9eabd5132e060b0095143afc357f": [
+        "JCR-661"
+    ], 
+    "84a95d01560db5134c4d1fc05c5b1fac2f91c301": [
+        "JCR-2940"
+    ], 
+    "2d194e2ba3f9d5527a1241bff2244baed03e95cf": [
+        "JCR-308"
+    ], 
+    "e3435b596902b9c07f7c1e75b12c624c61a21947": [
+        "JCR-1275"
+    ], 
+    "d639f044e98ef7b9eec9398e02623312fc9db09e": [
+        "JCR-3218"
+    ], 
+    "748cc456c7b80de0036b84b6aa3bef90efdfa431": [
+        "JCR-568"
+    ], 
+    "558d90f62e1cd597b04618839ddb824dd1259a07": [
+        "JCR-1630"
+    ], 
+    "def715246dc18fdffb84789fd5e82b6722751953": [
+        "OAK-2231"
+    ], 
+    "1734c846fbe533a90f11a9c8d037380e4fed9397": [
+        "JCR-1170"
+    ], 
+    "57658a6b708f62cf4f0c8c7f4cbad63db308e1ac": [
+        "JCR-1264"
+    ], 
+    "661d27906f15db34623b9e3f05ae6d86473decae": [
+        "JCR-4133"
+    ], 
+    "2de037e76ab206f877429665b27fd8faad2458bb": [
+        "JCR-1499"
+    ], 
+    "9098c557387fcfdb8224767725c5c1a7b2e78847": [
+        "JCR-4100"
+    ], 
+    "d2da5a8d89a7b678f6431005efbe94312b936f32": [
+        "JCR-711"
+    ], 
+    "77df0827d1392b378c326d30739d6e68be65914d": [
+        "JCR-1277"
+    ], 
+    "1c2b62931bdd2d6d0db305f26afb4b73bfb78ad7": [
+        "JCR-653"
+    ], 
+    "527881438fc93485fc845b96f7c570b3b27ee3d3": [
+        "JCR-3501"
+    ], 
+    "a2cd5f7afd9463887f86dc8276761e88249c021d": [
+        "JCR-2248"
+    ], 
+    "a7bb6866e0f9218169f1d5e05a5d80e0c9e6afc2": [
+        "JCR-1158"
+    ], 
+    "19c5ec365e954fd259474389d2564052a9dd8e92": [
+        "JCR-1630"
+    ], 
+    "92e3255c0e6e1438faae84d372de6575ae9403ce": [
+        "JCR-2589"
+    ], 
+    "be0ac995f4f9091762b50c75972ba49840a2df59": [
+        "JCR-163"
+    ], 
+    "60c808a137efecaa997d7fdc3477f941aa5fb2e5": [
+        "JCR-31"
+    ], 
+    "aa879cdde677941a70065380c27d74b0fc2ebe5e": [
+        "JCR-2313"
+    ], 
+    "aa788a3cf1e69360697557ec428634e3d421a477": [
+        "JCR-2600"
+    ], 
+    "6d2d5618db31a3cc29e54ac1b139aaddfaf1eb3f": [
+        "JCR-2026"
+    ], 
+    "f3102e654f481099ed670a0e2145122a4481f25c": [
+        "JCR-2052"
+    ], 
+    "14ce40c8728ebe5ffbf2efd226d421ee3b662b7c": [
+        "JCR-485"
+    ], 
+    "a3a93d5fa1beae5cfd8bb82286d74cfbe262f141": [
+        "JCR-1484"
+    ], 
+    "99c8a124082fdbe567fa600876bdf4dbd8d28d73": [
+        "JCR-1734"
+    ], 
+    "050fa16c5f5bcfa02992e1beba16e774403a29c3": [
+        "JCR-1054"
+    ], 
+    "191a4c050dd46464016797547a2cc6776d160a4a": [
+        "JCR-9"
+    ], 
+    "78393ac5500c5ee7e0744c36980db7a1d712dd79": [
+        "JCR-414"
+    ], 
+    "991a0b8b2e65b7fcfdf1a8c1a03fd68c19b32866": [
+        "JCR-2755"
+    ], 
+    "e85313a4f75900337549780347c0d5edfde87850": [
+        "JCR-925"
+    ], 
+    "84443020d3e2f6cb81145c10e701fdf6f3cd8165": [
+        "JCR-798"
+    ], 
+    "ba3aead22f95c8b5c5b3f287c48300493c1800c5": [
+        "JCR-769"
+    ], 
+    "2aba68b91387a79ae62735b41c61d218dbb02dbd": [
+        "JCR-2083"
+    ], 
+    "0d80eeedbda54e7e8f5e123fd228b8cbce64eeef": [
+        "JCR-3468"
+    ], 
+    "93e3943da260660a39b314214c723b59bfae807b": [
+        "JCR-1074"
+    ], 
+    "dbac11d37dfb2ad8edd80b1be0444341ce34a591": [
+        "JCR-2170"
+    ], 
+    "b182122fdbe63ec49c65a1c0c334b263f98f8431": [
+        "JCR-1330"
+    ], 
+    "4d1e2408bf6da7944a48296b777b1b01adb966f7": [
+        "JCR-3156"
+    ], 
+    "3903739363b79deb7579802fbc27b9b7448218b2": [
+        "JCR-3883"
+    ], 
+    "5942bca2a23ef3ce3a80d9416438beab63e391b5": [
+        "JCR-3630"
+    ], 
+    "ae09745530fb35009a11bc6f763a70b5481d96c0": [
+        "JCR-897"
+    ], 
+    "8ba880b0e0771e4d27620de42c9b4a96c2fc98c2": [
+        "JCR-862"
+    ], 
+    "41b67e29a765c8f859d468f398599d715a432629": [
+        "JCR-718"
+    ], 
+    "7c992a771b337fb5e08aa9c303a8dc204cd4ef14": [
+        "JCR-3379"
+    ], 
+    "e7526dcdd1ef00f20475c879dae527ed36f3c570": [
+        "JCR-972"
+    ], 
+    "402c1e15065a8e09a9818f597e860dae94441156": [
+        "JCR-893"
+    ], 
+    "46a28f2b94ba71427bc54b3a0c952551f652fe4c": [
+        "JCR-1487"
+    ], 
+    "9ad219a2c343da8a1fbed3f366e50474d8a355d9": [
+        "JCR-3901"
+    ], 
+    "7dd81f1e53016bb71324a9df51a732f19135902b": [
+        "JCR-1910"
+    ], 
+    "d156d90ab033d4e4e0fac97401a8e56fae89f212": [
+        "JCR-3152"
+    ], 
+    "7e18ceeb5babbbd8bad917ce5798a91825f6b9a0": [
+        "JCR-3439"
+    ], 
+    "7072dd6174213d514bfede47e950744f3d656155": [
+        "JCR-3090"
+    ], 
+    "48915d15fe08a68b31218e3ba94907bf6d7adba4": [
+        "JCR-2850"
+    ], 
+    "ada4e7ab8e4b9c2840dec43c8e6723ba9ed9d890": [
+        "JCR-632"
+    ], 
+    "7bf6e9941bcac6511172cd18aa7181550bd7367b": [
+        "JCR-2632"
+    ], 
+    "eeeeac7386b3420655d27e8de204b10bd3a6a3ad": [
+        "JCR-2753"
+    ], 
+    "1e875f861bb876a44400353151ee20b767eb63b0": [
+        "JCR-298"
+    ], 
+    "bc280cd2accd8f048a9987a9d46e8b8ea0d78467": [
+        "JCR-1622"
+    ], 
+    "a1ac759890c1ebd8ae98135733b9c255c6c21bed": [
+        "JCR-727"
+    ], 
+    "a9a15e85b2ef19a3d8417cf82793b7ac7c088627": [
+        "JCR-347"
+    ], 
+    "254b24f323ae801bd59c5bc2c0ca742dfdda18c0": [
+        "JCR-2583"
+    ], 
+    "b7227dba16e76ba55ff238f0eb6fd3f96ea9d64e": [
+        "JCR-1612", 
+        "JCR-1612"
+    ], 
+    "b3356f9caf10cca51fe5f9d1b503198894d5d256": [
+        "JCR-89"
+    ], 
+    "77f50ae69152a4ab657aab781188982434d89f0d": [
+        "JCR-1658"
+    ], 
+    "e9ad333d6780633bd3c0bfd4d7c663f627bc5bb9": [
+        "JCR-2796"
+    ], 
+    "b89bcd514d0ac5d51756df1341c59fa30aec4c42": [
+        "JCR-1668"
+    ], 
+    "229a3d7fcc819bafc3b17c09d4367ce740d67bf2": [
+        "JCR-2272"
+    ], 
+    "115c65263325de593a224d20b3a4b7573418a06e": [
+        "JCR-444"
+    ], 
+    "ca25b8978c36e09876ee8be0b00a31ac8da4a542": [
+        "JCR-2487"
+    ], 
+    "fd0167b463d933056f69d1abbaac66de969e507e": [
+        "JCR-824"
+    ], 
+    "a9e2656da9eb9383ec726ac00005873e1b30cff6": [
+        "JCR-1134"
+    ], 
+    "14b1ed83e655923614c5c82557ecd996f55e598a": [
+        "JCR-2258"
+    ], 
+    "ae3450635ba79628f03cf14edd9ef14b2a0c242c": [
+        "JCR-2236"
+    ], 
+    "3254247b2a5dc80c0488c55fbb25f56ccf76b8ff": [
+        "JCR-602"
+    ], 
+    "ab9a875cdd1176714ce1fbbe00c8a9991e12b210": [
+        "JCR-155", 
+        "JCR-207"
+    ], 
+    "1d787457f6bb66ec5c8587db53f03ec0e35ce4b6": [
+        "JCR-4008"
+    ], 
+    "7dc1d5c8f34f8e236515a53086599d9c5c4f97c4": [
+        "JCR-3"
+    ], 
+    "27e89c78cb547388ce22d04d3746cd4958c140fc": [
+        "JCR-2419"
+    ], 
+    "e8145063987e21d50a182b61500dced0cba56c44": [
+        "JCR-1843", 
+        "JCR-1293", 
+        "JCR-1811"
+    ], 
+    "153ccd27e9e93555d182c5411d749284844b6645": [
+        "JCR-1120"
+    ], 
+    "f63ccb1b4661e6586e9a6ee389de05764ee87e97": [
+        "JCR-1444"
+    ], 
+    "1ce13b4f945d1e89debc5f8f6853ef43ca2d6df8": [
+        "JCR-3721"
+    ], 
+    "3450c3a03a4bf63ac3a03222f10656d53c560327": [
+        "JCR-2580"
+    ], 
+    "8ebb68c3ad54c87ae86c962971fc08cb0e1d36c3": [
+        "JCR-2313"
+    ], 
+    "97c67cbb9ab96dc51121f4940b504defea8156eb": [
+        "JCR-648"
+    ], 
+    "bff7f1d1d0d42b76e23427de758ee505b509dc6b": [
+        "JCR-2035"
+    ], 
+    "dc229d57df6a42220195eeb7ff66dfab7c68ebb1": [
+        "JCR-736"
+    ], 
+    "01cedade2a13b9b6b8e883f54916c73bc06a1bd4": [
+        "JCR-1994", 
+        "JCR-1952"
+    ], 
+    "618c3f97a916506a4d7cda80f30a64885dc3e192": [
+        "JCR-1729"
+    ], 
+    "72d84c7db6959aa7dc3b6935cf16ecc499fe4bd3": [
+        "JCR-1799", 
+        "JCR-1783"
+    ], 
+    "fe86818888e6f9e8a1eed8ea67697e3703491f42": [
+        "JCR-2177"
+    ], 
+    "a1354fd3380a48d857a99438e6ac74491fbff06c": [
+        "JCR-1571"
+    ], 
+    "48d2225d92c3b84c7f309a42d7310702b01e4e10": [
+        "JCR-1868"
+    ], 
+    "a5f4c9e4d4435d2f3b1dfccdf2d47765d7ac5a74": [
+        "JCR-2930"
+    ], 
+    "7e7de5ac23344ffb90e455f68ea00ee2301d2eaf": [
+        "JCR-2371"
+    ], 
+    "b7ad39579209345d7ae64d347f91a88ea671b934": [
+        "JCR-121"
+    ], 
+    "8d357f97944c24e76cbaec1a6b85a043da266709": [
+        "JCR-2007"
+    ], 
+    "0f2c07a2c637d84455ae89f9956c5520fd28fbaa": [
+        "JCR-1773"
+    ], 
+    "56a69da92d6113ff70a88bfe299bcd3d639012b4": [
+        "JCR-637"
+    ], 
+    "f5c468d97ec3ca68528a48d28182de707dd92c81": [
+        "JCR-2443"
+    ], 
+    "6f208144ad377e24c255c8d0a7dfe322652d7088": [
+        "JCR-547"
+    ], 
+    "a206aa917dd6eabeeecf8a08e95375af3619bd64": [
+        "JCR-3621"
+    ], 
+    "c797a23754472411cbc46b1e82e88cf971585466": [
+        "JCR-434"
+    ], 
+    "8e3f3adc81a7320d92eef70eb9135d68217eeed1": [
+        "JCR-2410"
+    ], 
+    "78dd2d395534467ec2b2796fc92d82f08903cc66": [
+        "JCR-1270"
+    ], 
+    "8f26722893612078441735c328056ec2e98a8d02": [
+        "JCR-2553"
+    ], 
+    "1367655593a2bb51652be5acaacda9bff9f98e9b": [
+        "JCR-2753"
+    ], 
+    "6b56a5e9467afc58caa3305d757dc3c36ac77955": [
+        "JCR-1285"
+    ], 
+    "babe6f5ce49911096bede48038b7a77441febffb": [
+        "JCR-181"
+    ], 
+    "f055da1979e38db86239072b3155033809a4c4a2": [
+        "JCR-962", 
+        "JCR-962"
+    ], 
+    "4c1496d30e06499bd7b928ac9c4a33f6c02179b7": [
+        "JCR-2539"
+    ], 
+    "8adcedc363ce7901b777a9666516fa9686507e12": [
+        "JCR-539"
+    ], 
+    "320acd874a04f2e5247ec0d2c5285650636d7a11": [
+        "JCR-2057"
+    ], 
+    "c4cd6a2a734a8e65f1db0a18a6349671e3b68c42": [
+        "JCR-905"
+    ], 
+    "decefe8bd9b89742f14f8e0fc216a41c2fca739e": [
+        "JCR-2713"
+    ], 
+    "ad004dbadf7a7941a2d11400a7efdcff117544ed": [
+        "JCR-2289"
+    ], 
+    "fd64daf2ad1dc72c471c068949798b3d4f96a89a": [
+        "JCR-1925"
+    ], 
+    "7ce139b7b0b077a0df749f45558cc5cf78fd734b": [
+        "JCR-2933"
+    ], 
+    "3a1e1a827f6d55c26d89de10fb8c4ef562d7f9a6": [
+        "JCR-3773"
+    ], 
+    "10e9d47de48d84ff075040dd801578259c192244": [
+        "JCR-251"
+    ], 
+    "7032d5bc83e71b2ce74e83038e00e5cd65b53d35": [
+        "JCR-3673"
+    ], 
+    "f8b69d7f2d25dcdbee0b7dc6ebef0d65de37171e": [
+        "JCR-3095"
+    ], 
+    "ffa74a1e6283365b639da531e162e112a3ab948b": [
+        "JCR-1051"
+    ], 
+    "5bb87f24c3873e4b11e1631137f0c2df15d99eb4": [
+        "JCR-3189"
+    ], 
+    "f9c1a4abdde632fbc1ac77fcfdb888bce98481b1": [
+        "JCR-2890"
+    ], 
+    "3251b9d4c3617afc76bc50e61e54ffb61ee03fb0": [
+        "JCR-1630"
+    ], 
+    "991c51109f2ab37fda93aa8228cb3511a6c31f49": [
+        "JCR-2293"
+    ], 
+    "d4b8cb49b7ee584c4bd6ddc149d0f3e16a2f097d": [
+        "JCR-3671"
+    ], 
+    "a5cad8bd20e9069739aa70d523ee280f55b577b5": [
+        "JCR-1979"
+    ], 
+    "2e05b0e6464de8ba85affc5871493cf883f95268": [
+        "JCR-629"
+    ], 
+    "462972f0eb850cea5919e572ea8aadb4454cd81b": [
+        "JCR-479"
+    ], 
+    "76f20284b96d998d3e3a56abe89e0fba1f5cc7f5": [
+        "JCR-3000"
+    ], 
+    "b237d4d93f5184b449997b41b62765873f6efd4a": [
+        "JCR-1457"
+    ], 
+    "da24fc832bbf93644c129c396a9c95f013aed03d": [
+        "JCR-1941"
+    ], 
+    "d7ba99cca8b05597f703ea0362602ed16d1b048e": [
+        "JCR-4133"
+    ], 
+    "a17fa85a3f5468792ef17e69dec3b44909c2088e": [
+        "JCR-27", 
+        "JCR-27"
+    ], 
+    "fdcbe95062e5ffddbca8d876a496ce8c3ad949f7": [
+        "JCR-1612"
+    ], 
+    "4304c7738c3ddce1000e3ca03329cc9b7e006c25": [
+        "JCR-335"
+    ], 
+    "e866df4c82d70a0b3d2714e37b8ada7b18f3361b": [
+        "JCR-150"
+    ], 
+    "03cd658a35ef60ecb58c0821f7b9f167e230fcec": [
+        "JCR-2681"
+    ], 
+    "582d9630fc66c8356923025f1d060ad835563d45": [
+        "JCR-2774"
+    ], 
+    "5aab68b6562a716dbfc4c4f5fcf07252edea4936": [
+        "JCR-3014"
+    ], 
+    "1698e3ce5e2de80c8df9e2c4bffa438a6a51b4fb": [
+        "JCR-3445"
+    ], 
+    "dfa193b033856a87fbed79bc6cc471c25e9156ca": [
+        "JCR-2367"
+    ], 
+    "ca4de672796ae2378914ce4c59e69579b2ad45a3": [
+        "JCR-195"
+    ], 
+    "6c7f9f38364e9738693d616d9e84d2c18c5fe8f6": [
+        "JCR-1109"
+    ], 
+    "a927cfef2228f0186f31f1b53f4ea5c38294d7b0": [
+        "JCR-2718"
+    ], 
+    "927e1310e494c47063c5f7869b26fff69438b01f": [
+        "JCR-3857"
+    ], 
+    "e6e8f36138b2b15686e10b8310927fc98cc344b9": [
+        "JCR-1630"
+    ], 
+    "4bded0cf49afe3e407160a3c761d639de85ab70e": [
+        "JCR-444"
+    ], 
+    "62e0f6da0fc6d135371544aa4f4a826d76972897": [
+        "JCR-120"
+    ], 
+    "61215e750ba6d24b2c3afbbe2973ed4dc3841252": [
+        "JCR-290"
+    ], 
+    "37f28f675c7edb946c6c7d199c95379e2b1d6810": [
+        "JCR-3384"
+    ], 
+    "0235f78cf6ea13e08c6b4ae0cc1546b59b4ee20b": [
+        "JCR-2554"
+    ], 
+    "f1c24e6f3b64be3da28bd98af639206f1753f872": [
+        "JCR-1305"
+    ], 
+    "7805b5239f80e980a5d60cf52ec568b676a2daa4": [
+        "JCR-528"
+    ], 
+    "4e2b1d20fe32a067ab8ddfb32580d9cbe5592e7a": [
+        "JCR-1679"
+    ], 
+    "93d60f74ad12942e2554370f956f1d98a898a51c": [
+        "JCR-2192"
+    ], 
+    "4b75cc62a99f97843f92740d676d72d2a90f7a15": [
+        "JCR-2793"
+    ], 
+    "a18e7b55f83d9d98fda288116f097d72f31c1781": [
+        "JCR-2023"
+    ]
+}

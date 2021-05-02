@@ -1,0 +1,6430 @@
+{
+    "HDFS-1014": [
+        [
+            "Patch Available", 
+            "Open", 
+            "43d 19h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 3h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "126d 20h 1m"
+        ]
+    ], 
+    "HDFS-1827": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 16h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 6h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "188d 21h 47m"
+        ]
+    ], 
+    "HDFS-1824": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 17h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 37m"
+        ]
+    ], 
+    "HDFS-1822": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13d 23h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 22h 34m"
+        ]
+    ], 
+    "HDFS-1823": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 4h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 21h 26m"
+        ]
+    ], 
+    "HDFS-1821": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 23h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "214d 4h 2m"
+        ]
+    ], 
+    "HDFS-812": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "251d 16h 38m"
+        ]
+    ], 
+    "HDFS-1829": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 18h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 6h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 19h 20m"
+        ]
+    ], 
+    "HDFS-955": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10d 22h 8m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 2h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 47m"
+        ]
+    ], 
+    "HDFS-1181": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 6h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 18h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 21h 3m"
+        ]
+    ], 
+    "HADOOP-6103": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47d 23h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "368d 13h 38m"
+        ]
+    ], 
+    "HDFS-1189": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 16h 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "263d 15h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "30d 16h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "7m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "153d 23h 31m"
+        ]
+    ], 
+    "HDFS-823": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 21h 20m"
+        ]
+    ], 
+    "HDFS-1952": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 1h 59m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "20d 19h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5m 56s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5d 4h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "152d 27m"
+        ]
+    ], 
+    "HDFS-1953": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "179d 17h 2m"
+        ]
+    ], 
+    "HDFS-1592": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 4h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "110d 1h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "99d 4h 39m"
+        ]
+    ], 
+    "HDFS-1591": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 3h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 20h 16m"
+        ]
+    ], 
+    "HDFS-1597": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 18h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "306d 4h 59m"
+        ]
+    ], 
+    "HDFS-1594": [
+        [
+            "Patch Available", 
+            "Open", 
+            "30d 10m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "47d 14h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 15h 53m"
+        ]
+    ], 
+    "HDFS-1452": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 18m"
+        ]
+    ], 
+    "HDFS-1598": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "318d 2h 54m"
+        ]
+    ], 
+    "HDFS-1728": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "252d 3h 59m"
+        ]
+    ], 
+    "HDFS-1750": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "165d 1h 21m"
+        ]
+    ], 
+    "HDFS-1691": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 7h 15m"
+        ]
+    ], 
+    "HDFS-15": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 20h 42m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "308d 9h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 17h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "358d 3h 15m"
+        ]
+    ], 
+    "HADOOP-5864": [
+        [
+            "Patch Available", 
+            "Open", 
+            "9d 6h 50m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "55d 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "396d 22h 56m"
+        ]
+    ], 
+    "HDFS-1258": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 6h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 15h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 3h 11m"
+        ]
+    ], 
+    "HDFS-1317": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 8h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "500d 12h 5m"
+        ]
+    ], 
+    "HDFS-1250": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 1h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "528d 7h 52m"
+        ]
+    ], 
+    "HDFS-1255": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 20h 53m"
+        ]
+    ], 
+    "HDFS-1256": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "61d 2h 24m"
+        ]
+    ], 
+    "HDFS-1529": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15d 22h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43d 22h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 9h 5m"
+        ]
+    ], 
+    "HDFS-1527": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 4h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "369d 32m"
+        ]
+    ], 
+    "HDFS-1526": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 14h 25m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 1h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 11m"
+        ]
+    ], 
+    "HDFS-1524": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 7h 58m"
+        ]
+    ], 
+    "HDFS-1523": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 3h 23m"
+        ]
+    ], 
+    "HDFS-553": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "364d 20h 56m"
+        ]
+    ], 
+    "HDFS-679": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 17h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "306d 23h 55m"
+        ]
+    ], 
+    "HDFS-677": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 3h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "312d 22h 15m"
+        ]
+    ], 
+    "HDFS-671": [
+        [
+            "Open", 
+            "Patch Available", 
+            "572d 3h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 4h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "220d 1h 19m"
+        ]
+    ], 
+    "HDFS-673": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 18h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 20h 13m"
+        ]
+    ], 
+    "HDFS-774": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "280d 23h 10m"
+        ]
+    ], 
+    "HDFS-775": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 2h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 7h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "243d 23h 40m"
+        ]
+    ], 
+    "HDFS-1130": [
+        [
+            "Patch Available", 
+            "Open", 
+            "23d 15h 46m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "68d 19h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "492d 7h 58m"
+        ]
+    ], 
+    "HDFS-1038": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 21h 1m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "70d 21h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "566d 7h 53m"
+        ]
+    ], 
+    "HDFS-472": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 8m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "130d 23h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 20h 15m"
+        ]
+    ], 
+    "HDFS-1036": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 8m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "102d 20h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "536d 8h 1m"
+        ]
+    ], 
+    "HDFS-1138": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "579d 8h 31m"
+        ]
+    ], 
+    "HADOOP-6327": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "305d 21h 50m"
+        ]
+    ], 
+    "HDFS-781": [
+        [
+            "Patch Available", 
+            "Open", 
+            "23h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 8h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "260d 14h 9m"
+        ]
+    ], 
+    "HDFS-783": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5d 16h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "267d 1h 47m"
+        ]
+    ], 
+    "HDFS-785": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "272d 19h 59m"
+        ]
+    ], 
+    "HDFS-787": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "271d 13h 2m"
+        ]
+    ], 
+    "HDFS-1782": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 16h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "229d 2h 15m"
+        ]
+    ], 
+    "HDFS-1781": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "229d 3h 28m"
+        ]
+    ], 
+    "HDFS-856": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "72d 1h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 22h 37m"
+        ]
+    ], 
+    "HDFS-1786": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "76d 22h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 4h 44m"
+        ]
+    ], 
+    "HDFS-601": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 5h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "346d 2h 33m"
+        ]
+    ], 
+    "HDFS-602": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "347d 3h 15m"
+        ]
+    ], 
+    "HDFS-859": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56d 19h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 22h 21m"
+        ]
+    ], 
+    "HDFS-858": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 3h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56d 19h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 22h 25m"
+        ]
+    ], 
+    "HDFS-606": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15h 14m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "90d 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 1h 57m"
+        ]
+    ], 
+    "HDFS-1627": [
+        [
+            "Patch Available", 
+            "Open", 
+            "85d 23h 18m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 14m"
+        ]
+    ], 
+    "HDFS-1141": [
+        [
+            "Patch Available", 
+            "Open", 
+            "16h 17m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "33d 9h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 16h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "489d 1h 53m"
+        ]
+    ], 
+    "HDFS-1145": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 2h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38d 8h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "527d 23h 40m"
+        ]
+    ], 
+    "HDFS-1146": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "557d 8h 24m"
+        ]
+    ], 
+    "HDFS-1149": [
+        [
+            "Open", 
+            "Patch Available", 
+            "385d 4h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 43m"
+        ]
+    ], 
+    "HADOOP-6096": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "427d 4h 47m"
+        ]
+    ], 
+    "HDFS-690": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 3h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 20h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "305d 16h 39m"
+        ]
+    ], 
+    "HDFS-1917": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "185d 16m"
+        ]
+    ], 
+    "HDFS-1914": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 8h 7m"
+        ]
+    ], 
+    "HDFS-127": [
+        [
+            "Patch Available", 
+            "Open", 
+            "332d 3h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "89d 23h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8d 22h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "206d 21h 58m"
+        ]
+    ], 
+    "HDFS-1850": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 20h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 4h 44m"
+        ]
+    ], 
+    "HDFS-29": [
+        [
+            "Open", 
+            "Patch Available", 
+            "171d 11h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 20h 21m"
+        ]
+    ], 
+    "HDFS-1502": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 9h"
+        ]
+    ], 
+    "HDFS-824": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 15h 49m"
+        ]
+    ], 
+    "HDFS-825": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 22h 46m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "252d 20h 58m"
+        ]
+    ], 
+    "HDFS-829": [
+        [
+            "Patch Available", 
+            "Open", 
+            "182d 4h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 19h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "130d 20h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "460d 11h 18m"
+        ]
+    ], 
+    "HDFS-1498": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 56m"
+        ]
+    ], 
+    "HDFS-1986": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 18h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "165d"
+        ]
+    ], 
+    "HDFS-988": [
+        [
+            "Patch Available", 
+            "Open", 
+            "31d 4h 46m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "436d 22h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 18h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "128d 6h 6m"
+        ]
+    ], 
+    "HDFS-500": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 23h 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "390d 19m"
+        ]
+    ], 
+    "HDFS-1355": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 18h 57m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "464d 7h 49m"
+        ]
+    ], 
+    "HDFS-1357": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 1h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 23h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "457d 7h 38m"
+        ]
+    ], 
+    "HDFS-1352": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "472d 11h 59m"
+        ]
+    ], 
+    "HDFS-625": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 21h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 23h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "301d 22h 31m"
+        ]
+    ], 
+    "HDFS-1212": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 17h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 5h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 16h"
+        ]
+    ], 
+    "HDFS-187": [
+        [
+            "Open", 
+            "Patch Available", 
+            "368d 23h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 19h 31m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "221d 21h 1m"
+        ]
+    ], 
+    "HDFS-1561": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 19h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "325d 3h 33m"
+        ]
+    ], 
+    "HDFS-1560": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "HDFS-181": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 7h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "15d 7h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "51d 14h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "424d 21h 6m"
+        ]
+    ], 
+    "HDFS-1406": [
+        [
+            "Open", 
+            "Resolved", 
+            "94d 5h 41m"
+        ]
+    ], 
+    "HDFS-1760": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "215d 6h 5m"
+        ]
+    ], 
+    "HDFS-1163": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45d 1h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "527d 4h 17m"
+        ]
+    ], 
+    "HDFS-438": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 6h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "425d 23h"
+        ]
+    ], 
+    "HDFS-132": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 2h 7m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1022d 21h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 45m"
+        ]
+    ], 
+    "HDFS-185": [
+        [
+            "Patch Available", 
+            "Open", 
+            "174d 14h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 14h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 23h 58m"
+        ]
+    ], 
+    "HDFS-96": [
+        [
+            "Open", 
+            "Patch Available", 
+            "548d 13h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "444d 11h 13m"
+        ]
+    ], 
+    "HDFS-94": [
+        [
+            "Open", 
+            "Patch Available", 
+            "278d 19h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "243d 21h 28m"
+        ]
+    ], 
+    "HADOOP-6815": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12d 18m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "537d 7h 11m"
+        ]
+    ], 
+    "HDFS-1665": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 14h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "252d 4h 16m"
+        ]
+    ], 
+    "HDFS-646": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "333d 10h 44m"
+        ]
+    ], 
+    "HDFS-1109": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 56m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 2h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 14h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "580d 11h 11m"
+        ]
+    ], 
+    "HDFS-641": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 6h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "283d 20h 30m"
+        ]
+    ], 
+    "HDFS-723": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 43m"
+        ]
+    ], 
+    "HDFS-1104": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 23m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 1h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 22h 44m"
+        ]
+    ], 
+    "HDFS-2030": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 2h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "158d 18m"
+        ]
+    ], 
+    "HDFS-726": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "306d"
+        ]
+    ], 
+    "HDFS-725": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "305d 1h 58m"
+        ]
+    ], 
+    "HDFS-724": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "49d 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 19h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "245d 21h"
+        ]
+    ], 
+    "HDFS-1818": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "220d 20h 2m"
+        ]
+    ], 
+    "HDFS-1813": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17h 19m"
+        ]
+    ], 
+    "HDFS-1812": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42d 4h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 6h 52m"
+        ]
+    ], 
+    "HDFS-868": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17m 45s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 9h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "231d 17h 11m"
+        ]
+    ], 
+    "HDFS-1409": [
+        [
+            "Open", 
+            "Patch Available", 
+            "262d 11h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 34m"
+        ]
+    ], 
+    "HDFS-861": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 21h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55d 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 21h 40m"
+        ]
+    ], 
+    "HDFS-863": [
+        [
+            "Open", 
+            "Patch Available", 
+            "379d 8h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 21h 6m"
+        ]
+    ], 
+    "HDFS-1611": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 12h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 6h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 17h 33m"
+        ]
+    ], 
+    "HDFS-1610": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h"
+        ]
+    ], 
+    "HDFS-1612": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 10h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 19m"
+        ]
+    ], 
+    "HDFS-1615": [
+        [
+            "Open", 
+            "Patch Available", 
+            "91d 17h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "214d 9h 6m"
+        ]
+    ], 
+    "HDFS-2041": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 6h 55m"
+        ]
+    ], 
+    "HADOOP-7259": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 16h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "93d 21h 29m"
+        ]
+    ], 
+    "HDFS-1192": [
+        [
+            "Open", 
+            "Resolved", 
+            "125d 8h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "427d 29m"
+        ]
+    ], 
+    "HDFS-1193": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 21h 37m"
+        ]
+    ], 
+    "HDFS-1198": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "549d 5h 17m"
+        ]
+    ], 
+    "HDFS-1399": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "438d 6h 4m"
+        ]
+    ], 
+    "HADOOP-6642": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2m 19s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "319d 19h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 20h 12m"
+        ]
+    ], 
+    "HDFS-1969": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "189d 49m"
+        ]
+    ], 
+    "HDFS-1965": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 9h 12m"
+        ]
+    ], 
+    "HDFS-1964": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 9h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 17h 46m"
+        ]
+    ], 
+    "HDFS-76": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 22h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 18h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "428d 23m"
+        ]
+    ], 
+    "HDFS-1449": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 2h 24m"
+        ]
+    ], 
+    "HDFS-1444": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 50m"
+        ]
+    ], 
+    "HDFS-1440": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "432d 10h 38m"
+        ]
+    ], 
+    "HDFS-1727": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 1h 14m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "78d 3h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "167d 6h 42m"
+        ]
+    ], 
+    "HDFS-441": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "420d 23h 39m"
+        ]
+    ], 
+    "HDFS-1687": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "14m 14s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "22h 16m"
+        ]
+    ], 
+    "HDFS-167": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 4h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "124d 5h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16d 22h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "371d 22h 56m"
+        ]
+    ], 
+    "HDFS-1364": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 22h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "439d 9h 42m"
+        ]
+    ], 
+    "HDFS-1361": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 21h 55m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "460d 6h 51m"
+        ]
+    ], 
+    "HDFS-1360": [
+        [
+            "Open", 
+            "Patch Available", 
+            "51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "108d 22h 39m"
+        ]
+    ], 
+    "HDFS-1363": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 21h 57m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 2h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 58m"
+        ]
+    ], 
+    "HDFS-1439": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 32s"
+        ]
+    ], 
+    "HDFS-1531": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 3m"
+        ]
+    ], 
+    "HDFS-1532": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "369d 1h 14m"
+        ]
+    ], 
+    "HDFS-1533": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 43m"
+        ]
+    ], 
+    "HDFS-547": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 17h 55m"
+        ]
+    ], 
+    "HDFS-1433": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "437d 10h 55m"
+        ]
+    ], 
+    "HDFS-682": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 1h 54m"
+        ]
+    ], 
+    "HDFS-686": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "128d 1h 31m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 19h 24m"
+        ]
+    ], 
+    "HDFS-688": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "315d 18h 44m"
+        ]
+    ], 
+    "HDFS-763": [
+        [
+            "Patch Available", 
+            "Open", 
+            "14h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "279d 12h 52m"
+        ]
+    ], 
+    "HDFS-762": [
+        [
+            "Patch Available", 
+            "Open", 
+            "44m 8s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "41d 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "243d 21h 35m"
+        ]
+    ], 
+    "HDFS-761": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8h 25m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "285d 20h 20m"
+        ]
+    ], 
+    "HDFS-446": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 25m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "406d 20h 57m"
+        ]
+    ], 
+    "HDFS-1027": [
+        [
+            "Open", 
+            "Patch Available", 
+            "65d 15h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 3h"
+        ]
+    ], 
+    "HDFS-1024": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 3h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 5h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "146d 14h 14m"
+        ]
+    ], 
+    "HDFS-445": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 20h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 23h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "406d 29m"
+        ]
+    ], 
+    "HDFS-440": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "420d 23h 36m"
+        ]
+    ], 
+    "HDFS-1021": [
+        [
+            "Open", 
+            "Patch Available", 
+            "70d 23h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "576d 8h 28m"
+        ]
+    ], 
+    "HDFS-1797": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "229d 23h"
+        ]
+    ], 
+    "HDFS-909": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12d 33m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "71d 5h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 17h 41m"
+        ]
+    ], 
+    "HDFS-613": [
+        [
+            "Open", 
+            "Patch Available", 
+            "451d 2h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "367d 10h 48m"
+        ]
+    ], 
+    "HDFS-612": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 21h 15m"
+        ]
+    ], 
+    "HDFS-611": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 2h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "48d 14h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "287d 13h 9m"
+        ]
+    ], 
+    "HDFS-903": [
+        [
+            "Open", 
+            "Resolved", 
+            "296d 7h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "398d 23h 26m"
+        ]
+    ], 
+    "HDFS-614": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "346d 2h 24m"
+        ]
+    ], 
+    "HDFS-1284": [
+        [
+            "Patch Available", 
+            "Open", 
+            "22d 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "33d 1h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "464d 9h 17m"
+        ]
+    ], 
+    "HDFS-1157": [
+        [
+            "Open", 
+            "Patch Available", 
+            "92d 1h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 11h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "478d 23h 33m"
+        ]
+    ], 
+    "HDFS-1159": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 23h 4m"
+        ]
+    ], 
+    "HDFS-1929": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 55m"
+        ]
+    ], 
+    "HDFS-1299": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 2h 24m"
+        ]
+    ], 
+    "HDFS-1921": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 22h 59m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "176d 23m"
+        ]
+    ], 
+    "HDFS-1920": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 3h 6m"
+        ]
+    ], 
+    "HDFS-1927": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 5h 54m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 21h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "180d 6h 55m"
+        ]
+    ], 
+    "HDFS-1925": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 14h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 7h 33m"
+        ]
+    ], 
+    "HDFS-1292": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "67d 13h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56d 10h 5m"
+        ]
+    ], 
+    "HDFS-1845": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "209d"
+        ]
+    ], 
+    "HDFS-1483": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 4h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "390d 28m"
+        ]
+    ], 
+    "HDFS-1487": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3m 20s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 17h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 19h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "388d 8h 20m"
+        ]
+    ], 
+    "HADOOP-7207": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 18h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 34m"
+        ]
+    ], 
+    "HDFS-1998": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 3h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 20m"
+        ]
+    ], 
+    "HDFS-1999": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 16h 41m"
+        ]
+    ], 
+    "HDFS-534": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "377d 19h 54m"
+        ]
+    ], 
+    "HDFS-1311": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 48m"
+        ]
+    ], 
+    "HADOOP-6612": [
+        [
+            "Open", 
+            "Patch Available", 
+            "70d 23h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "576d 8h 48m"
+        ]
+    ], 
+    "HDFS-538": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 3h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "367d 21h 57m"
+        ]
+    ], 
+    "HDFS-1206": [
+        [
+            "Open", 
+            "Resolved", 
+            "184d 2h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "360d 10h 22m"
+        ]
+    ], 
+    "HDFS-1202": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 22h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 9h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "469d 17h 32m"
+        ]
+    ], 
+    "HDFS-1575": [
+        [
+            "Open", 
+            "Patch Available", 
+            "98d 7h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 20h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "206d 3h 5m"
+        ]
+    ], 
+    "HDFS-1572": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 19h 10m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 5h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "327d 3h 39m"
+        ]
+    ], 
+    "HDFS-1474": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 44m"
+        ]
+    ], 
+    "HDFS-885": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "226d 2h 29m"
+        ]
+    ], 
+    "HDFS-880": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "225d 2h 29m"
+        ]
+    ], 
+    "HDFS-1334": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "489d 5h 36m"
+        ]
+    ], 
+    "HDFS-1500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "57m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 11h 18m"
+        ]
+    ], 
+    "HDFS-1503": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3m 42s"
+        ]
+    ], 
+    "HDFS-900": [
+        [
+            "Open", 
+            "Patch Available", 
+            "385d 19h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "311d 2h 6m"
+        ]
+    ], 
+    "HDFS-1505": [
+        [
+            "Patch Available", 
+            "Open", 
+            "22h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "179d 6h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "208d 1h 58m"
+        ]
+    ], 
+    "HDFS-1504": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 6h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 4h 27m"
+        ]
+    ], 
+    "HDFS-1507": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 37m"
+        ]
+    ], 
+    "HDFS-1118": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 19h 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50d 12h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "485d 15h 53m"
+        ]
+    ], 
+    "HDFS-1112": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 9h 15m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 21h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "569d 12h 6m"
+        ]
+    ], 
+    "HDFS-2000": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 26m"
+        ]
+    ], 
+    "HDFS-640": [
+        [
+            "Patch Available", 
+            "Open", 
+            "54m 55s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "336d 20h 22m"
+        ]
+    ], 
+    "HDFS-1808": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 22h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 9h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 19h 20m"
+        ]
+    ], 
+    "HDFS-1806": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 4h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 1h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "209d 1h 16m"
+        ]
+    ], 
+    "HDFS-722": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "306d 3h 53m"
+        ]
+    ], 
+    "HDFS-877": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 20h 54m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 7h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6m 42s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "95d 23h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 12h 55m"
+        ]
+    ], 
+    "HDFS-874": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18d 23h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "293d 3h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 4h 10m"
+        ]
+    ], 
+    "HDFS-1602": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 20h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 2h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "304d 4h 23m"
+        ]
+    ], 
+    "HDFS-977": [
+        [
+            "Open", 
+            "Patch Available", 
+            "465d 22h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 13h 33m"
+        ]
+    ], 
+    "HDFS-1600": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 10h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h"
+        ]
+    ], 
+    "HDFS-1607": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 7m"
+        ]
+    ], 
+    "HDFS-970": [
+        [
+            "Open", 
+            "Patch Available", 
+            "88d 7h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "576d 1h 14m"
+        ]
+    ], 
+    "HDFS-727": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 13h 22m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "25d 6h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "12d 2h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "345d 5h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "394d 20m"
+        ]
+    ], 
+    "HDFS-649": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 20m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 15m"
+        ]
+    ], 
+    "HDFS-1891": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "219d 13h 30m"
+        ]
+    ], 
+    "HDFS-1897": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 57m"
+        ]
+    ], 
+    "HDFS-1898": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "192d 22h 28m"
+        ]
+    ], 
+    "HDFS-1550": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 17h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "342d 7h 51m"
+        ]
+    ], 
+    "HDFS-1978": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 54m"
+        ]
+    ], 
+    "HDFS-1875": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 1h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 23h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "160d 2h 25m"
+        ]
+    ], 
+    "HDFS-1876": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 42m"
+        ]
+    ], 
+    "HDFS-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "78d 2h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "558d 10h 16m"
+        ]
+    ], 
+    "HDFS-119": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 1h 6m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "133d 20h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "54m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "389d 22h 11m"
+        ]
+    ], 
+    "HDFS-1871": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "199d 2h 42m"
+        ]
+    ], 
+    "HDFS-1377": [
+        [
+            "Open", 
+            "Patch Available", 
+            "64d 5h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 7h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "HDFS-1371": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 12h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "253d 13h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 32m"
+        ]
+    ], 
+    "HDFS-1544": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "144d 5h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "215d 2h 7m"
+        ]
+    ], 
+    "HDFS-1540": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 11h 13m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 22h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 46m"
+        ]
+    ], 
+    "HDFS-1543": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "104d 23h 36m"
+        ]
+    ], 
+    "HDFS-1542": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 17h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 11h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "339d 11h 18m"
+        ]
+    ], 
+    "HDFS-1420": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 31m"
+        ]
+    ], 
+    "HDFS-579": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 4h 35m"
+        ]
+    ], 
+    "HDFS-1548": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 42m"
+        ]
+    ], 
+    "HDFS-894": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 20h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 23h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "188d 21h 36m"
+        ]
+    ], 
+    "HDFS-691": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10m 8s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 21h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "299d 21h 14m"
+        ]
+    ], 
+    "HDFS-609": [
+        [
+            "Open", 
+            "Resolved", 
+            "285d 3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 16h 32m"
+        ]
+    ], 
+    "HDFS-695": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 41m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 10h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 11h 51m"
+        ]
+    ], 
+    "HDFS-699": [
+        [
+            "Open", 
+            "Patch Available", 
+            "91d 18h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 21h 15m"
+        ]
+    ], 
+    "HDFS-751": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 22h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "285d 9m"
+        ]
+    ], 
+    "HDFS-756": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 4h 34m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 5h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "276d 22h 38m"
+        ]
+    ], 
+    "HDFS-757": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "287d 19h 48m"
+        ]
+    ], 
+    "HDFS-1010": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 4h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "139d 23h 24m"
+        ]
+    ], 
+    "HDFS-1017": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "112d 13h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "536d 8h 1m"
+        ]
+    ], 
+    "HDFS-1015": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 5h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 2h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "158d 23h 22m"
+        ]
+    ], 
+    "HDFS-456": [
+        [
+            "Patch Available", 
+            "Open", 
+            "117d 29m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "46d 15h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 17h 11m"
+        ]
+    ], 
+    "HDFS-1019": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "90d 20h 8m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "557d 10h 11m"
+        ]
+    ], 
+    "HDFS-596": [
+        [
+            "Patch Available", 
+            "Open", 
+            "71d 2h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "281d 13h 52m"
+        ]
+    ], 
+    "HDFS-597": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 5h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 16m"
+        ]
+    ], 
+    "HADOOP-7082": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 8h"
+        ]
+    ], 
+    "HDFS-1007": [
+        [
+            "Open", 
+            "Patch Available", 
+            "130d 23h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "514d 13h 34m"
+        ]
+    ], 
+    "HADOOP-6285": [
+        [
+            "Patch Available", 
+            "Open", 
+            "54m 5s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "329d 23h 13m"
+        ]
+    ], 
+    "HADOOP-6281": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 24m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "333d 2h 51m"
+        ]
+    ], 
+    "HDFS-629": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 15m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "338d 14h 12m"
+        ]
+    ], 
+    "HDFS-938": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "203d 1h 7m"
+        ]
+    ], 
+    "HDFS-939": [
+        [
+            "Patch Available", 
+            "Open", 
+            "14d 15h 31m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 7h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 20h 39m"
+        ]
+    ], 
+    "HDFS-622": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 23h 43m"
+        ]
+    ], 
+    "HDFS-2014": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "165d 2h 46m"
+        ]
+    ], 
+    "HDFS-1164": [
+        [
+            "Open", 
+            "Patch Available", 
+            "101d 10h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "74d 17h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 4h 32m"
+        ]
+    ], 
+    "HDFS-1088": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 20h 55m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 13h 31m"
+        ]
+    ], 
+    "HDFS-1085": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "100d 22h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "510d 9h 19m"
+        ]
+    ], 
+    "HDFS-1080": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 5h 22m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "62d 19h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "550d 4h 39m"
+        ]
+    ], 
+    "HDFS-2019": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "163d 17h 52m"
+        ]
+    ], 
+    "HDFS-1938": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 23h 42m"
+        ]
+    ], 
+    "HDFS-1289": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "520d 9h 3m"
+        ]
+    ], 
+    "HDFS-1934": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 6h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "164d 14h 45m"
+        ]
+    ], 
+    "HDFS-1936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 22h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 2h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "165d 7h 13m"
+        ]
+    ], 
+    "HDFS-1283": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "522d 10h 12m"
+        ]
+    ], 
+    "HDFS-1932": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "205d 6h 3m"
+        ]
+    ], 
+    "HDFS-1835": [
+        [
+            "Patch Available", 
+            "Open", 
+            "9m 4s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 23h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 20h 24m"
+        ]
+    ], 
+    "HDFS-802": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "264d 22h 55m"
+        ]
+    ], 
+    "HDFS-1296": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 7h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 14h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 23h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "495d 11h 8m"
+        ]
+    ], 
+    "HDFS-1943": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 15h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "163d 9h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 16h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 46m"
+        ]
+    ], 
+    "HDFS-1585": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 38m"
+        ]
+    ], 
+    "HDFS-1466": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 12h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 26m"
+        ]
+    ], 
+    "HDFS-1467": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 22h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 12h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "387d 2h 21m"
+        ]
+    ], 
+    "HDFS-1463": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 14h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "71d 13h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 3m"
+        ]
+    ], 
+    "HDFS-897": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 42m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "221d 21h 22m"
+        ]
+    ], 
+    "HDFS-1748": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "247d 23h 17m"
+        ]
+    ], 
+    "HDFS-797": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 21h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 2h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 22h 26m"
+        ]
+    ], 
+    "HDFS-792": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "265d 21h 27m"
+        ]
+    ], 
+    "HDFS-793": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 5h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "258d 13h 20m"
+        ]
+    ], 
+    "HDFS-791": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "267d 1h 43m"
+        ]
+    ], 
+    "HDFS-415": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 21h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "409d 23h 30m"
+        ]
+    ], 
+    "HDFS-145": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6h 34m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "348d 21h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "224d 1h 37m"
+        ]
+    ], 
+    "HDFS-1308": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "506d 7h 29m"
+        ]
+    ], 
+    "HDFS-857": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 2h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "54d 23h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 22h 33m"
+        ]
+    ], 
+    "HDFS-1301": [
+        [
+            "Patch Available", 
+            "Open", 
+            "26d 6h 25m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 17h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "485d 8h 17m"
+        ]
+    ], 
+    "HDFS-482": [
+        [
+            "Open", 
+            "Patch Available", 
+            "259d 13h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 9h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "139d 23h 52m"
+        ]
+    ], 
+    "HDFS-480": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "410d 9h 49m"
+        ]
+    ], 
+    "HDFS-481": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 6h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "219d 17h 19m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 2h 56m"
+        ]
+    ], 
+    "HDFS-484": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "393d 12h 18m"
+        ]
+    ], 
+    "HDFS-1511": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 8h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "356d 15h 32m"
+        ]
+    ], 
+    "HDFS-525": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 20h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16d 21h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "50m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "361d 22h 1m"
+        ]
+    ], 
+    "HDFS-1621": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "90d 11h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "214d 5h 23m"
+        ]
+    ], 
+    "HDFS-709": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "34m 49s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "17m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "312d 22h 1m"
+        ]
+    ], 
+    "HDFS-1041": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 21h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 2h 33m"
+        ]
+    ], 
+    "HDFS-462": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 4h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "406d 21h 1m"
+        ]
+    ], 
+    "HDFS-463": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 20h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "403d 16h 51m"
+        ]
+    ], 
+    "HDFS-464": [
+        [
+            "Patch Available", 
+            "Open", 
+            "214d 21h 50m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 18h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "215d 20h 22m"
+        ]
+    ], 
+    "HDFS-466": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10d 54m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "510d 17h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 2h 29m"
+        ]
+    ], 
+    "HADOOP-6234": [
+        [
+            "Open", 
+            "Patch Available", 
+            "402d 5h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 16h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "350d 1h 30m"
+        ]
+    ], 
+    "HDFS-1625": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 19h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 20m"
+        ]
+    ], 
+    "HDFS-912": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "192d 1h 29m"
+        ]
+    ], 
+    "HDFS-913": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 23h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 20h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "44m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 22h 59m"
+        ]
+    ], 
+    "HDFS-840": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "250d 11h 40m"
+        ]
+    ], 
+    "HDFS-961": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 16h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 10h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 3h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 21h 25m"
+        ]
+    ], 
+    "HDFS-849": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "17h 59m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "243d 23h 44m"
+        ]
+    ], 
+    "HDFS-965": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 4h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 11h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "188d 6h 41m"
+        ]
+    ], 
+    "HDFS-1101": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 18h 56m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 23h 19m"
+        ]
+    ], 
+    "HDFS-966": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 41m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "70d 1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 1h 43m"
+        ]
+    ], 
+    "HDFS-489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "406d 3h 18m"
+        ]
+    ], 
+    "HDFS-2067": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "155d 21h 3m"
+        ]
+    ], 
+    "HDFS-1516": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 43m"
+        ]
+    ], 
+    "HDFS-2063": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 27m"
+        ]
+    ], 
+    "HDFS-2061": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 2h 49m"
+        ]
+    ], 
+    "HADOOP-6243": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7m 35s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "350d 4h 25m"
+        ]
+    ], 
+    "HDFS-1881": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 8h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 7h 46m"
+        ]
+    ], 
+    "HDFS-1889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "194d 1h 10m"
+        ]
+    ], 
+    "HDFS-1905": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 7h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "179d 6h 47m"
+        ]
+    ], 
+    "HDFS-1907": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 2h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 14h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "164d 6h 45m"
+        ]
+    ], 
+    "HDFS-1860": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 23h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "23h 42m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 23m"
+        ]
+    ], 
+    "HDFS-1908": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "188d 1h 40m"
+        ]
+    ], 
+    "HDFS-1700": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 28m"
+        ]
+    ], 
+    "HADOOP-6192": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 12h 22m"
+        ]
+    ], 
+    "HDFS-995": [
+        [
+            "Open", 
+            "Patch Available", 
+            "98d 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "85d 1h 54m"
+        ]
+    ], 
+    "HDFS-996": [
+        [
+            "Open", 
+            "Patch Available", 
+            "317d 8h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 4h 55m"
+        ]
+    ], 
+    "HDFS-514": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 1m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "389d 19h 27m"
+        ]
+    ], 
+    "HDFS-101": [
+        [
+            "Open", 
+            "Patch Available", 
+            "577d 5h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "245d 20h 46m"
+        ]
+    ], 
+    "HDFS-1349": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "475d 10h 34m"
+        ]
+    ], 
+    "HDFS-1340": [
+        [
+            "Patch Available", 
+            "Open", 
+            "22h 44m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "485d 7h 27m"
+        ]
+    ], 
+    "HDFS-1347": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "479d 7h 21m"
+        ]
+    ], 
+    "HDFS-1267": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 11h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 15h 33m"
+        ]
+    ], 
+    "HDFS-195": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 12h 23m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "36m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "427d 2h 52m"
+        ]
+    ], 
+    "HDFS-192": [
+        [
+            "Patch Available", 
+            "Open", 
+            "199d 21h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 23h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 22h 46m"
+        ]
+    ], 
+    "HDFS-1552": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 21h 20m"
+        ]
+    ], 
+    "HDFS-1419": [
+        [
+            "Open", 
+            "Resolved", 
+            "27m 1s"
+        ]
+    ], 
+    "HDFS-1551": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 21m"
+        ]
+    ], 
+    "HDFS-1416": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 3h 5m"
+        ]
+    ], 
+    "HDFS-1413": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 29m"
+        ]
+    ], 
+    "HDFS-568": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "2d 4h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "361d 2h 59m"
+        ]
+    ], 
+    "HDFS-1411": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 11m"
+        ]
+    ], 
+    "HDFS-1559": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 16m"
+        ]
+    ], 
+    "HDFS-706": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 22h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "280d 21h 59m"
+        ]
+    ], 
+    "HDFS-741": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 23h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "280d 22h 20m"
+        ]
+    ], 
+    "HDFS-1006": [
+        [
+            "Patch Available", 
+            "Open", 
+            "19h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "130d 23h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "521d 5h 7m"
+        ]
+    ], 
+    "HDFS-588": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 51m"
+        ]
+    ], 
+    "HDFS-1000": [
+        [
+            "Open", 
+            "Patch Available", 
+            "103d 15h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 20h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 30m"
+        ]
+    ], 
+    "HDFS-1001": [
+        [
+            "Patch Available", 
+            "Open", 
+            "247d 1h 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 19h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 4m"
+        ]
+    ], 
+    "HDFS-423": [
+        [
+            "Patch Available", 
+            "Open", 
+            "45d 4h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "301d 4h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 19h 17m"
+        ]
+    ], 
+    "HDFS-587": [
+        [
+            "Open", 
+            "Resolved", 
+            "145d 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 14h 50m"
+        ]
+    ], 
+    "HDFS-586": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "354d 3h 55m"
+        ]
+    ], 
+    "HBASE-630": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 16h 41m"
+        ]
+    ], 
+    "HDFS-1044": [
+        [
+            "Open", 
+            "Resolved", 
+            "133d 17h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "500d 12h 27m"
+        ]
+    ], 
+    "HDFS-1046": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 23h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "151d 2h 22m"
+        ]
+    ], 
+    "HDFS-750": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "294d 19m"
+        ]
+    ], 
+    "HADOOP-6293": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "311d 21h 58m"
+        ]
+    ], 
+    "HDFS-927": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 3h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 19h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 22m"
+        ]
+    ], 
+    "HDFS-637": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "334d 21h 16m"
+        ]
+    ], 
+    "HDFS-922": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 29m"
+        ]
+    ], 
+    "HDFS-2022": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "165d 5h 54m"
+        ]
+    ], 
+    "HDFS-2021": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 1h 41m"
+        ]
+    ], 
+    "HDFS-2020": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "165d 23h 36m"
+        ]
+    ], 
+    "HDFS-735": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "301d 22h 26m"
+        ]
+    ], 
+    "HDFS-1072": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 22h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 23h 1m"
+        ]
+    ], 
+    "HDFS-1074": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13h 42m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 10h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 23h 9m"
+        ]
+    ]
+}

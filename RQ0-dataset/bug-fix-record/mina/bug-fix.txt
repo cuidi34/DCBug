@@ -1,0 +1,615 @@
+{
+    "DIRMINA-755": [
+        "7b2707ebf121bb92cf84e52f9f4ff38d721fae64"
+    ], 
+    "DIRMINA-943": [
+        "f80e27db1ec976e09787acfb271b561f2d5a199c"
+    ], 
+    "DIRMINA-750": [
+        "61bca2f661a39ea1a6ff54d4abd82dc3bbd46e2f"
+    ], 
+    "DIRMINA-946": [
+        "fad44fe826efd2e361b37460a58990b0066b3d5c", 
+        "ff21d87f9f35fb00f8a097a8a4d083b3c4fa09aa"
+    ], 
+    "DIRMINA-949": [
+        "a0d839cd503426aaf23c78a507f090a9f0703294", 
+        "f5f9b9d443964e530de6fd15a1519c55b4bb3c2f"
+    ], 
+    "DIRMINA-610": [
+        "c6497062e34aab2d237aab01581f402224c032ca"
+    ], 
+    "DIRMINA-613": [
+        "763425fb6785be08ef18126729b1d33a6535cf58"
+    ], 
+    "DIRMINA-199": [
+        "e9dcc85a405c75ca0315a6a21f6118d680112b31"
+    ], 
+    "DIRMINA-209": [
+        "144d8fea7c22b40b7f47593575e398c1542a8f9a"
+    ], 
+    "DIRMINA-580": [
+        "749a222b4fa9cbf0783eb084a9de8c36e71dac84"
+    ], 
+    "DIRMINA-583": [
+        "5468d2cc684f39aa75349314a315a0b56b4d89da"
+    ], 
+    "DIRMINA-584": [
+        "89734ea88700b181551be5c77de90ee95a016144", 
+        "1f9d3261f4aa65f4ce1a0a593f88258c89f98e97"
+    ], 
+    "DIRMINA-225": [
+        "6c9fd488195eb688bcf8cab79d77530804aa40ba"
+    ], 
+    "DIRMINA-226": [
+        "2108c31be3f26cd5fed1bcc2e2bb213125825bc2"
+    ], 
+    "DIRMINA-753": [
+        "5c8eed2f4bd6df7875e0253c4c0ce1d81df811ba"
+    ], 
+    "DIRMINA-222": [
+        "d52c885e637e6ef23ce00bb5625284688c2f27ea"
+    ], 
+    "DIRMINA-343": [
+        "a5f90946f7a07828cd079b29b3072efaaecd09d0"
+    ], 
+    "DIRMINA-177": [
+        "5b4f98b840afaae144f46c36e2a864cdbab5825c"
+    ], 
+    "DIRMINA-347": [
+        "1317777ceef2cadd1130888537c5fb0cc1e25342"
+    ], 
+    "DIRMINA-345": [
+        "34ca09674f2d0bdec2225ea3ff2e67a18ef6f933"
+    ], 
+    "DIRMINA-503": [
+        "f5ac8af074bc881d0215ac52df92f9f2d1e87e17", 
+        "315429bd704b868170069434fa6dde5e7c372f74"
+    ], 
+    "DIRMINA-502": [
+        "cac7eea29110cdf0d64b9e7cfb24412f19da4b35"
+    ], 
+    "DIRMINA-552": [
+        "0fe4f9bac1aad2ff40b77433f18ea54b2b3b9f07"
+    ], 
+    "DIRMINA-506": [
+        "174428a2caecf4bed7f1718400b9459704a82aea"
+    ], 
+    "DIRMINA-603": [
+        "ece9a69bc28d00eb720cd0930171bf1e4f8e2fe1"
+    ], 
+    "DIRMINA-559": [
+        "92d4586b9a99a4d4344fb526ce5f84ab23790b02"
+    ], 
+    "DIRMINA-406": [
+        "6ea186ae2b9402c9717c98847492a4f31d239063"
+    ], 
+    "DIRMINA-563": [
+        "24f7222a1981d3ea3ecb63bff9cc75992b7b8512"
+    ], 
+    "DIRMINA-562": [
+        "dc0a8bfaf6b6e0a986f8d2534ca9cb2b40bee01a"
+    ], 
+    "DIRMINA-561": [
+        "edd5ddb7040594978e8ac10250d3b8c33730ea54"
+    ], 
+    "DIRMINA-560": [
+        "fd14978cab7f1ae292572b8f86b5c13e45f77732"
+    ], 
+    "DIRMINA-567": [
+        "2eb3067109a5661951862f9ebf199ccec8ed007c"
+    ], 
+    "DIRMINA-566": [
+        "2dead9ca300eb1776203c64ec29f62288b105ab0"
+    ], 
+    "DIRMINA-212": [
+        "8a276f3a8937c889434058412cdb0f3466379fdc"
+    ], 
+    "DIRMINA-409": [
+        "8f5956ea7c57a866cc85b68278c5c0052990c89d"
+    ], 
+    "DIRMINA-213": [
+        "46b0bd17574c248ca6a8fdecd6edc41e6d79778f"
+    ], 
+    "DIRMINA-285": [
+        "c8edab5cc4b79805009fae115e57d3e159de5c7c"
+    ], 
+    "DIRMINA-214": [
+        "2dd14695b969df61d2e68bd3451f7365c7fc191f"
+    ], 
+    "DIRMINA-459": [
+        "8a160de3e61bcb3b09d0bffa84a242e472fd4fc9"
+    ], 
+    "DIRMINA-458": [
+        "c40cd2c2ea17ceaf8a92eba7a7ed24f9b460eeef"
+    ], 
+    "DIRMINA-219": [
+        "0c82308974e6443970cf18bc76c199e97bd9a089"
+    ], 
+    "DIRMINA-454": [
+        "7ab63535e0aee74edc3da1aaf62ec58763b657d0", 
+        "0cc5256c84ed8ee6bafa2f39fda6910434bcc02d", 
+        "462979aeaad341e275badeb836b5059bb5309259"
+    ], 
+    "DIRMINA-452": [
+        "ad7024dfde946cca2df52691a84966e1b8582dc5"
+    ], 
+    "DIRMINA-450": [
+        "ad8a3638ca2cd54569433a32e023dd55e821d95b"
+    ], 
+    "DIRMINA-299": [
+        "9294ed9023e0d653ca98b626202f8a7e167746a0", 
+        "f4d79796447c55b139d2dbeebe62914d5d64f39d"
+    ], 
+    "DIRMINA-351": [
+        "c5aa54ce8e850410ff40a4d61dd5d663b62f9512"
+    ], 
+    "DIRMINA-352": [
+        "a6514e70672fb19f264c5002eebeae55b625c51e"
+    ], 
+    "DIRMINA-164": [
+        "c99f7401676ebdc87929f4421161d26b5fe8e628"
+    ], 
+    "DIRMINA-162": [
+        "95c8a64382b1a428b6dc29ef8b128587ba87b85b", 
+        "19a9be0e18ed6c68ada9bae2ea6e21a8bdc17ad5"
+    ], 
+    "DIRMINA-357": [
+        "3c7448785034a2b0487edeb2ad1a08a0308c4336", 
+        "21a5d9c378a3b447c3a4989655f0389496e98a8c"
+    ], 
+    "DIRMINA-358": [
+        "0e1900defa1d5c6f1b30450f44c637004e95be84"
+    ], 
+    "DIRMINA-517": [
+        "a2fb5327dacec66536440febd8a656775e91b76f"
+    ], 
+    "DIRMINA-514": [
+        "158ea354f481d069fbc253e83d754d4ca39ce85c"
+    ], 
+    "DIRMINA-512": [
+        "ccb8fce23cf07378b0d606c2f4d65e067be0892f"
+    ], 
+    "DIRMINA-510": [
+        "31b6a0d174bfd82406b9706789ae9d00d8a3f737"
+    ], 
+    "DIRMINA-511": [
+        "83aef672d075145759a85609dcb5b3827a422206"
+    ], 
+    "DIRMINA-677": [
+        "edeb5f70cfe77c3c4464de16ec9997edfc4cc91a"
+    ], 
+    "DIRMINA-676": [
+        "a6298bc6bf530527c8ce5ba3191ea1f35f155e57"
+    ], 
+    "DIRMINA-675": [
+        "7459ac943d73cbe782c7ac1f3acb92ae3f8d50b5"
+    ], 
+    "DIRMINA-674": [
+        "4a141938cd29a4c205144ec724874d9d4761f45d"
+    ], 
+    "DIRMINA-672": [
+        "6c7ad9c34415531d6bb1e27ed1b06fe7c93fb4a3"
+    ], 
+    "DIRMINA-386": [
+        "d7f7fe2efd50d416d64e56d0d5a3a7a9b082ca95", 
+        "2a6327d97006ef1f2e0653d1382937865960f259"
+    ], 
+    "DIRMINA-570": [
+        "dc5113f84adb899be393ef71f2de00570153a182"
+    ], 
+    "DIRMINA-571": [
+        "2e6680319c5d55b39eeb7e5790f3807ff719a595"
+    ], 
+    "DIRMINA-385": [
+        "523932f7e8e433bf398c0c29656a71fda5002f2e", 
+        "9de761cf1f399e36534d7fc7ffdc1970810ac69b"
+    ], 
+    "DIRMINA-678": [
+        "fb4273fb71e1e9b230946d2290f15464dfb122d1"
+    ], 
+    "DIRMINA-421": [
+        "4e9d1c8df9bb5677a423243505bae7d8e1d189b8"
+    ], 
+    "DIRMINA-548": [
+        "7552914ee19534ce18409bca581723551f6d008e"
+    ], 
+    "DIRMINA-207": [
+        "68a32a6f7f969e58fc71c46b55b4d43bf0f0a62c"
+    ], 
+    "DIRMINA-200": [
+        "4ac9b9e2101d5b790c92337e1521abec9ae9d652", 
+        "520ebc495d1410069fa7b36966a335cff204efdd"
+    ], 
+    "DIRMINA-412": [
+        "132c4ed5f988a0c39be40168f9cf19e43588c033"
+    ], 
+    "DIRMINA-687": [
+        "d021fc1ef7295af8a5b1a9afb3fc9f5328db53ae"
+    ], 
+    "DIRMINA-442": [
+        "c7bccffecc611ccb57d6ee33815956aedd9cedd1"
+    ], 
+    "DIRMINA-443": [
+        "191cdf004666c4fc7a93647c24c6be72168d9e08", 
+        "cceb46d33f5def88a6ac80a98544d34ae781e943", 
+        "82adc106d3463c1de208c7769d0c8c70a332256e"
+    ], 
+    "DIRMINA-367": [
+        "bba4ada3b774421afa0c8b7ccd02c796fa9ab8e2"
+    ], 
+    "DIRMINA-366": [
+        "324b8957d725f26aa2b073f73569d9b0cf943dc4", 
+        "b0e42f13342f124722c0bd71f61555b00278f210"
+    ], 
+    "DIRMINA-171": [
+        "cf6fe015ef7fb6cdfa9cf789206b84adcc56e5c0"
+    ], 
+    "DIRMINA-363": [
+        "4e20404e36923b0531931a06afea395ab0ea0c91"
+    ], 
+    "DIRMINA-362": [
+        "58426c766109d19a2d3689e9699e8fd6f53ce4a7"
+    ], 
+    "DIRMINA-763": [
+        "265099a014e98eaa2c626fb277fe14247f1c0ed7"
+    ], 
+    "DIRMINA-762": [
+        "12b7986725b57187bb85634811d8ac0021c61404"
+    ], 
+    "DIRMINA-369": [
+        "fb835269773d722b95108a496a1189ef083b8237"
+    ], 
+    "DIRMINA-283": [
+        "a8c1e6218ae458c85665a3c054d9b1d04343f6fa", 
+        "3a270c852b7b8391cd2fa76ea07e06b70fbbf8ae"
+    ], 
+    "DIRMINA-664": [
+        "475c76899ed7752f49be242708d8645338dc549d"
+    ], 
+    "DIRMINA-665": [
+        "bc86246be89ed414fd7689ea68bbcea51b383f9d"
+    ], 
+    "DIRMINA-709": [
+        "ddcbeadcc2693be05203e358d1d737a9ac61f5d0"
+    ], 
+    "DIRMINA-667": [
+        "7d28dfd30055a2e91ab1ce213b8ccec8298d4b2a"
+    ], 
+    "DIRMINA-383": [
+        "5b3b3f420443d354b2276d903ceea6af794b1322"
+    ], 
+    "DIRMINA-661": [
+        "584157b38da8daacb5cb4e3b90ba4477ffe401b3"
+    ], 
+    "DIRMINA-544": [
+        "12e38140c5de3fbbe2595a9cc804045b128b5609"
+    ], 
+    "DIRMINA-719": [
+        "78f3514e9592cf1f8c875b4a9610a5c86eb6d329", 
+        "c4df7cd835c22ea75e72411c2ea5776bf8d5ae53"
+    ], 
+    "DIRMINA-706": [
+        "c03f96c1b8af35857e97a58b7aafdbcd845a909c"
+    ], 
+    "DIRMINA-543": [
+        "c0347ddda617cc001368fc7cd21792f49f49ef59"
+    ], 
+    "DIRMINA-540": [
+        "81865bcc94f9d86f8b6a8627a8f0387540999fd9"
+    ], 
+    "DIRMINA-931": [
+        "9c39f58aba57d87d7efcaa2ecc8014b3796bf352"
+    ], 
+    "DIRMINA-359": [
+        "a9808a459ace1f34cbc9aabb863836e132b7652c"
+    ], 
+    "DIRMINA-542": [
+        "6ac1e8b309fe3044f71197c58a0f09e07079fb01"
+    ], 
+    "DIRMINA-293": [
+        "c2bb1615dba6af3eac14eaa2609f9fb93ab33b4c"
+    ], 
+    "DIRMINA-229": [
+        "b7280d51151ea735019edf0f9686bff661656020"
+    ], 
+    "DIRMINA-472": [
+        "98c6dc80b30bec6007815b5398aca20b5dc1a531"
+    ], 
+    "DIRMINA-143": [
+        "ff95b9683f62222d7111f1b612acdef1f5b0e723"
+    ], 
+    "DIRMINA-159": [
+        "9a430f1be21d9f156386640b9622db0a3a6ff844", 
+        "0479c1950cceff40cb87a9c51217909caf203820", 
+        "40e72b428eba8664a13fe87993d3a4324ecedfd4"
+    ], 
+    "DIRMINA-374": [
+        "9590fec8c140fb4ca7fe8fa5bbbf53b8f876f4a3", 
+        "291aa3c88e1bebdd0328b84b1daeacf5d30349bf"
+    ], 
+    "DIRMINA-273": [
+        "a8c1e6218ae458c85665a3c054d9b1d04343f6fa"
+    ], 
+    "DIRMINA-169": [
+        "95a609fcc5cdc496a1d3a6626c56f0e76a09eb8f", 
+        "273a8fb2449f5d0194409a5824d8676de10aeec3", 
+        "d33ce484eb47ac4e4b1b4f82f0579c6acda53f9d", 
+        "b9fcd8fa37570cc6cae37a77de8087e4f867d2af"
+    ], 
+    "DIRMINA-778": [
+        "f027f4662aefb65aa8f856cda29c9a5417f853b6"
+    ], 
+    "DIRMINA-279": [
+        "9b00892a49b739a074d0853b48ca9422330d097c", 
+        "ded875136958a274d45bd824a3d7aa760ced1b3a"
+    ], 
+    "DIRMINA-296": [
+        "4eebd3ba32ab342938f8a0a30720af3f307edab8"
+    ], 
+    "DIRMINA-770": [
+        "00ef038eefe9ed1543c006dafb31c86e4b924c29"
+    ], 
+    "DIRMINA-718": [
+        "4e618741ff1ac4a76ce3d713d221dbb9e19532fa"
+    ], 
+    "DIRMINA-578": [
+        "e0316ce98cd7313ca36140e0095d42496a3c469d"
+    ], 
+    "DIRMINA-498": [
+        "8edaa166c635b73b032132ffd57b96138552fb53"
+    ], 
+    "DIRMINA-390": [
+        "63bf032f201c66abce487180e3ae8c5ea96c53d1"
+    ], 
+    "DIRMINA-557": [
+        "d36ca5b2e0c65b198272e31972d97a19bce386ff"
+    ], 
+    "DIRMINA-579": [
+        "a7d304efe9fcc10835f35b3e64630f27b89aa7d1"
+    ], 
+    "DIRMINA-712": [
+        "b918aa3c95cb8acd100a65f534ab9dc8aa9ee3f2"
+    ], 
+    "DIRMINA-713": [
+        "57556bb60c825d27031e01eafa7165012bb3ee65"
+    ], 
+    "DIRMINA-717": [
+        "0c1d3018e3450e4a5119e985c1bf98f05bdbcae8"
+    ], 
+    "DIRMINA-465": [
+        "d835a1bc94c4175934dbfc8d1f3c06d2746d91b8"
+    ], 
+    "DIRMINA-309": [
+        "c74a26fa5812d61bee28ac1a1a1dfc3a2a108848", 
+        "22d11e0e4fc901f46ed46220186892578ad0e844"
+    ], 
+    "DIRMINA-308": [
+        "a66728a4d520aeb68d08eaa29a58e3294c8c0457"
+    ], 
+    "DIRMINA-307": [
+        "76fc9bdc6d9d26ba599b17d7962bc9b84ac5b75a"
+    ], 
+    "DIRMINA-306": [
+        "be7e6d28b57bf09a5554e17322b375ec9ee74d1e"
+    ], 
+    "DIRMINA-305": [
+        "3fd354388872807b9a02f161bfe74304078e626e", 
+        "43803f473373bca8273f0a3bf5952367807ba467"
+    ], 
+    "DIRMINA-302": [
+        "1f02720add784dac9277e09aad119d44aa54dda4", 
+        "695d77e15c13913f7a459c47a64a1a6f2633ab4b", 
+        "7bdc0e26883825ba54337620ae631a276f1b70ba"
+    ], 
+    "DIRMINA-469": [
+        "86fa73b781da3fc4240ca40351e0a6801f240a44", 
+        "34ddcd4134dba61bdd76b6d6a99c29143b857d54"
+    ], 
+    "DIRMINA-264": [
+        "b081459cbe08583ee523aed473896f4ecc0f7b02", 
+        "0392d02d340075b5f4c267d0da3b3c5b375de7c3"
+    ], 
+    "DIRMINA-265": [
+        "6ce522c49c69d04dee192b1ca39126af0be24764"
+    ], 
+    "DIRMINA-266": [
+        "c6867909562f7ad3f40a61e0940b06d5e69f0536"
+    ], 
+    "DIRMINA-268": [
+        "3d5d711f2a2c6cc7e7de01b0fb86da987d5c6579"
+    ], 
+    "DIRMINA-216": [
+        "933b97eb83b099852b7ca7aa6a5a9476270f7379"
+    ], 
+    "DIRMINA-488": [
+        "a0bbdc9f052380799564e37fcfbdd7498412a814"
+    ], 
+    "DIRMINA-525": [
+        "c3a0c7444dc12a1ae6c0d8099d564538a773c892"
+    ], 
+    "DIRMINA-524": [
+        "f0b3bbfbf4237d124225d394a78b69ee57e0cc94"
+    ], 
+    "DIRMINA-728": [
+        "691633f485b826965a107a541783c38b78c6a1f2"
+    ], 
+    "DIRMINA-521": [
+        "7df00da414ba6f447e66a064689345d66bace53e"
+    ], 
+    "DIRMINA-481": [
+        "2f8af59602e5ca5185c7f580b9ddff28a89de247"
+    ], 
+    "DIRMINA-720": [
+        "d66670e1a5ff0a29c62fe1aa7bf2bc7b4001eab3"
+    ], 
+    "DIRMINA-528": [
+        "014f2e3ec6c55ebdabf8ee465460e7562d2061d4"
+    ], 
+    "DIRMINA-635": [
+        "a5285026042a535ab743a16343d8a12377def0e8"
+    ], 
+    "DIRMINA-318": [
+        "5b09f349c6e4e9af7762f45347b8df443ddc6880"
+    ], 
+    "DIRMINA-319": [
+        "bc76fc3c287c3f67e83c758597b8b0d9183adaca"
+    ], 
+    "DIRMINA-999": [
+        "244bc2584e53301d494637c78a229f5a6ceb161e"
+    ], 
+    "DIRMINA-313": [
+        "6d8b5db04613fa968052e8e0fc48ff83976f4f48"
+    ], 
+    "DIRMINA-413": [
+        "81ad01120c84f7707672d4fff78babae81fd0cc5"
+    ], 
+    "DIRMINA-658": [
+        "4cf3824a7cc63fd43244c5c75b4d1826a0846800"
+    ], 
+    "DIRMINA-410": [
+        "458f083dfb2280366abafc85e4274ed47e8a1113"
+    ], 
+    "DIRMINA-651": [
+        "40e1c38c4d772c62d0b73c26dfabe53a5b10b674", 
+        "eb0ea58142fa19c96a4004fdd5e1c02b64b7ade3"
+    ], 
+    "DIRMINA-650": [
+        "0f57cd3748633371c0450366d55faf02cfc82d08", 
+        "1f1b0feec7f18e2649d0debec6207f8f543c1515", 
+        "5d4a65bf35dfb173177de5bc67acd24c330a6cb3"
+    ], 
+    "DIRMINA-652": [
+        "2b6236119c785258eaf18636a70547d433e899df"
+    ], 
+    "DIRMINA-656": [
+        "9c1600b434e85ce1f5832030d5cd98fba812f515"
+    ], 
+    "DIRMINA-732": [
+        "19fbf91ff58e2a0134f08cb08238792b22882edc"
+    ], 
+    "DIRMINA-733": [
+        "af3a005060dda596a5afc2d4f5457738536c9005"
+    ], 
+    "DIRMINA-536": [
+        "b4a4c0194478a5478a2b6de019170eb30cc94d56", 
+        "acf1d0c5d0651b7810fd9ab5cb6b52112c5077f5"
+    ], 
+    "DIRMINA-530": [
+        "f4078e0a76014564f3daa69c0b1a975942ed16a0"
+    ], 
+    "DIRMINA-734": [
+        "533a40f660b9b41b42a9391e93f25bf1a7241614"
+    ], 
+    "DIRMINA-533": [
+        "17d271b3f730b303ab1b358c5e56d2d00db43676", 
+        "01a6eb4d7246f9203e0a5968d8f89846edd21b54"
+    ], 
+    "DIRMINA-633": [
+        "5690e4df6cb602f5b0d217d9db234871c91b9f0d"
+    ], 
+    "DIRMINA-632": [
+        "7e4571d5e7ba8d3abe18b171628474ac28509182", 
+        "ec3e0708d91cfd636781d345482be6029dd32be8"
+    ], 
+    "DIRMINA-739": [
+        "5e9c2b3370c1aba21466a274ce1b90d797766db2"
+    ], 
+    "DIRMINA-636": [
+        "a5285026042a535ab743a16343d8a12377def0e8"
+    ], 
+    "DIRMINA-961": [
+        "f8d6d9f54a16c7e05a050b7ca266d0b3947530bb"
+    ], 
+    "DIRMINA-522": [
+        "1d82343383f157b3c91e1a96b1fb0e51ad2cef60"
+    ], 
+    "DIRMINA-321": [
+        "1448380da6b7e832750426311747e5caa9392b2c"
+    ], 
+    "DIRMINA-324": [
+        "9e5176615af4e222bb6ce97e8f69a4efa424017b"
+    ], 
+    "DIRMINA-326": [
+        "5285dc2e388d4393c19e7c07c6a9a3e174f14949"
+    ], 
+    "DIRMINA-243": [
+        "805db5f3926a9e51d8b9b8539186029e70e7eae9"
+    ], 
+    "DIRMINA-240": [
+        "f1cf9724a9b2aca59a301c28eac721af07d3425c"
+    ], 
+    "DIRMINA-241": [
+        "bf28cf6c92234adb26a4264d004b316ada81f7df"
+    ], 
+    "DIRMINA-245": [
+        "957d6c95b0134453429123aca46ed79bce6a8a0f"
+    ], 
+    "DIRMINA-648": [
+        "d243d65a2bd266416a778033cf97e53a9bafd526", 
+        "fc8417c7f671da324995167434378a0256584054"
+    ], 
+    "DIRMINA-407": [
+        "e3051b1f2492565aee88eb440403cf1a4d82de48"
+    ], 
+    "DIRMINA-646": [
+        "a85b16cd2e8e64e59225a1b5912f54546bf15963"
+    ], 
+    "DIRMINA-647": [
+        "5e6c6f62a5a0220908493b53170137d7ba1654c8"
+    ], 
+    "DIRMINA-746": [
+        "e33a1e7d5faf0a08b8e7cff6816a0e0a535b7928"
+    ], 
+    "DIRMINA-275": [
+        "626bbf0b90d61c6926cfb202a15d42732b3af08a"
+    ], 
+    "DIRMINA-740": [
+        "d7455b48063325ef5859dc5e4f0ead823f338361", 
+        "5f5dc7b2584ab9241b59fa9490cbb5193c331aaa"
+    ], 
+    "DIRMINA-748": [
+        "0a981657abf4a2ff7b9dc980a9f306432e90221c"
+    ], 
+    "DIRMINA-487": [
+        "189c15f061839a15b98138b1af0023ea8edd4309"
+    ], 
+    "DIRMINA-337": [
+        "a88268234fe5b5216982a891ca1f7f8b7a2ede4e"
+    ], 
+    "DIRMINA-186": [
+        "c1f08bccdcc92b237cefe276147d383b59f4ae15"
+    ], 
+    "DIRMINA-181": [
+        "dfd1f6fda504f094b52ed794ba0aab26fc21e1d9"
+    ], 
+    "DIRMINA-180": [
+        "6463e0928ed3a85bd2c8f0d68a2ae375a786c3d0"
+    ], 
+    "DIRMINA-330": [
+        "0946383eb937bb84576b72ac93a045b5eea4341a"
+    ], 
+    "DIRMINA-331": [
+        "8da7b9a307765266cc2911528390d1bf37e6f76a", 
+        "a9c99cf7e3c1a686a55f85be3442fda12aa120b5"
+    ], 
+    "DIRMINA-231": [
+        "9cf1bfdb9ba2ffa79733b57e824af93010e92488"
+    ], 
+    "DIRMINA-435": [
+        "e53a207e999c64f06fa2a444c30bbcaa1db7873b"
+    ], 
+    "DIRMINA-437": [
+        "66773d849e972b27c584cb5dcb0b7edd4a804976"
+    ], 
+    "DIRMINA-436": [
+        "14c3de9205c1967a8c994dae68a8a6a86da5e2f0"
+    ], 
+    "DIRMINA-431": [
+        "d89a5b8dee8624c3dfb980cc729a57b6eb87f3b4", 
+        "2b11166136bda74a65cad7856043553a348e63ec"
+    ], 
+    "DIRMINA-288": [
+        "fce9edf05defa6c0bb6b2a6c1328ae09d813c5cb"
+    ]
+}

@@ -1,0 +1,4734 @@
+{
+    "ASTERIXDB-1938": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 20h 22m"
+        ]
+    ], 
+    "ASTERIXDB-1939": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 27m"
+        ]
+    ], 
+    "ASTERIXDB-1516": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 16h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1233": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 21h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1231": [
+        [
+            "Open", 
+            "In Progress", 
+            "61d 5h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 21h 42m"
+        ]
+    ], 
+    "ASTERIXDB-830": [
+        [
+            "Accepted", 
+            "Open", 
+            "624d 10h 4m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "355d 14h 59m"
+        ]
+    ], 
+    "ASTERIXDB-1336": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 11h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1489": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 7h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "615d 22h 57m"
+        ]
+    ], 
+    "ASTERIXDB-1334": [
+        [
+            "Open", 
+            "Resolved", 
+            "187d 21h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "537d 2h 33m"
+        ]
+    ], 
+    "ASTERIXDB-1725": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 15h 32m"
+        ]
+    ], 
+    "ASTERIXDB-1333": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "723d 12h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1330": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 21m"
+        ]
+    ], 
+    "ASTERIXDB-1331": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 18m"
+        ]
+    ], 
+    "ASTERIXDB-1728": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 40m"
+        ]
+    ], 
+    "ASTERIXDB-1482": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 49m"
+        ]
+    ], 
+    "ASTERIXDB-1515": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21m 26s"
+        ]
+    ], 
+    "ASTERIXDB-1485": [
+        [
+            "Open", 
+            "Closed", 
+            "56d 19h 40m"
+        ]
+    ], 
+    "ASTERIXDB-1338": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 55m"
+        ]
+    ], 
+    "ASTERIXDB-1487": [
+        [
+            "Open", 
+            "Closed", 
+            "97d 23h 6m"
+        ]
+    ], 
+    "ASTERIXDB-2355": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 23m"
+        ]
+    ], 
+    "ASTERIXDB-2354": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 8h 33m"
+        ]
+    ], 
+    "ASTERIXDB-2356": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 5h 50m"
+        ]
+    ], 
+    "ASTERIXDB-2299": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 45m"
+        ]
+    ], 
+    "ASTERIXDB-2353": [
+        [
+            "Open", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "ASTERIXDB-2352": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 53m"
+        ]
+    ], 
+    "ASTERIXDB-1804": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 27m"
+        ]
+    ], 
+    "ASTERIXDB-2296": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 40s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1d 3h 4m"
+        ]
+    ], 
+    "ASTERIXDB-1928": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 6h 45m"
+        ]
+    ], 
+    "ASTERIXDB-2358": [
+        [
+            "Open", 
+            "In Progress", 
+            "8d 1h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "54d 4h 5m"
+        ]
+    ], 
+    "ASTERIXDB-1195": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 18m"
+        ]
+    ], 
+    "ASTERIXDB-2411": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 7m"
+        ]
+    ], 
+    "ASTERIXDB-2051": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 5h 30m"
+        ]
+    ], 
+    "ASTERIXDB-1152": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 4h 47m"
+        ]
+    ], 
+    "ASTERIXDB-1659": [
+        [
+            "Open", 
+            "In Progress", 
+            "65d 7h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "463d 6h 10m"
+        ]
+    ], 
+    "ASTERIXDB-1155": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1657": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 9h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "500d 7h 58m"
+        ]
+    ], 
+    "ASTERIXDB-1159": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 18h 28m"
+        ]
+    ], 
+    "ASTERIXDB-1650": [
+        [
+            "Open", 
+            "Closed", 
+            "106d 7h 59m"
+        ]
+    ], 
+    "ASTERIXDB-1652": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 49m"
+        ]
+    ], 
+    "ASTERIXDB-2170": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 20h 45m"
+        ]
+    ], 
+    "ASTERIXDB-2176": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 18h 7m"
+        ]
+    ], 
+    "ASTERIXDB-2070": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 7h 33m"
+        ]
+    ], 
+    "ASTERIXDB-2072": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17m"
+        ]
+    ], 
+    "ASTERIXDB-2507": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 4h 23m"
+        ]
+    ], 
+    "ASTERIXDB-1206": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 51m"
+        ]
+    ], 
+    "ASTERIXDB-2458": [
+        [
+            "Open", 
+            "Resolved", 
+            "235d 11h 42m"
+        ]
+    ], 
+    "ASTERIXDB-1205": [
+        [
+            "Open", 
+            "Resolved", 
+            "84d 2h 22m"
+        ]
+    ], 
+    "ASTERIXDB-2452": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 40m"
+        ]
+    ], 
+    "ASTERIXDB-2453": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 16m"
+        ]
+    ], 
+    "ASTERIXDB-2450": [
+        [
+            "Open", 
+            "Resolved", 
+            "223d 21h 12m"
+        ]
+    ], 
+    "ASTERIXDB-1200": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 22h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "45d 20h 19m"
+        ]
+    ], 
+    "ASTERIXDB-159": [
+        [
+            "New", 
+            "Open", 
+            "1336d 1h 57m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "381d 18h 52m"
+        ]
+    ], 
+    "ASTERIXDB-1201": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 20h 30m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 4h 29m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "12d 21h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "2h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1478": [
+        [
+            "Open", 
+            "Closed", 
+            "69d 46m"
+        ]
+    ], 
+    "ASTERIXDB-2575": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 21h 5m"
+        ]
+    ], 
+    "ASTERIXDB-2574": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 12h 28m"
+        ]
+    ], 
+    "ASTERIXDB-1473": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 9h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1472": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 20m"
+        ]
+    ], 
+    "ASTERIXDB-1474": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 20h 54m"
+        ]
+    ], 
+    "ASTERIXDB-769": [
+        [
+            "New", 
+            "Open", 
+            "706d 17h 3m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "351d 5h 49m"
+        ]
+    ], 
+    "ASTERIXDB-1571": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 17h 15m"
+        ]
+    ], 
+    "ASTERIXDB-1572": [
+        [
+            "Open", 
+            "Closed", 
+            "29d 20h 22m"
+        ]
+    ], 
+    "ASTERIXDB-1574": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 3h 50m"
+        ]
+    ], 
+    "ASTERIXDB-1576": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 10h 54m"
+        ]
+    ], 
+    "ASTERIXDB-1577": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 19h 28m"
+        ]
+    ], 
+    "ASTERIXDB-1689": [
+        [
+            "Open", 
+            "Closed", 
+            "7h 30m"
+        ]
+    ], 
+    "ASTERIXDB-1230": [
+        [
+            "Open", 
+            "Resolved", 
+            "172d 3h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1687": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 12m"
+        ]
+    ], 
+    "ASTERIXDB-2417": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 16m"
+        ]
+    ], 
+    "ASTERIXDB-1273": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 35m"
+        ]
+    ], 
+    "ASTERIXDB-1272": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 16h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "750d 6h 4m"
+        ]
+    ], 
+    "ASTERIXDB-1378": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "642d 2h 9m"
+        ]
+    ], 
+    "ASTERIXDB-1277": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 19m"
+        ]
+    ], 
+    "ASTERIXDB-1275": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 11m"
+        ]
+    ], 
+    "ASTERIXDB-1274": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1d 1h 50m"
+        ]
+    ], 
+    "ASTERIXDB-1377": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 9h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1074": [
+        [
+            "Open", 
+            "Resolved", 
+            "56s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "41d 16h 17m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 3h 28m"
+        ]
+    ], 
+    "ASTERIXDB-1076": [
+        [
+            "Open", 
+            "In Progress", 
+            "783d 3h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "112d 3h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1072": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 50m"
+        ]
+    ], 
+    "ASTERIXDB-2250": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 1h"
+        ]
+    ], 
+    "ASTERIXDB-1727": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 10h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 8h 22m"
+        ]
+    ], 
+    "ASTERIXDB-1025": [
+        [
+            "Accepted", 
+            "Open", 
+            "88d 17h 43m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "296d 16h 21m"
+        ]
+    ], 
+    "ASTERIXDB-1291": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 53m"
+        ]
+    ], 
+    "ASTERIXDB-1292": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 8h 28m"
+        ]
+    ], 
+    "ASTERIXDB-2023": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 1h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-1481": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 2m"
+        ]
+    ], 
+    "ASTERIXDB-1196": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 15m"
+        ]
+    ], 
+    "ASTERIXDB-1197": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 7m"
+        ]
+    ], 
+    "ASTERIXDB-1194": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 21m"
+        ]
+    ], 
+    "ASTERIXDB-232": [
+        [
+            "Fixed", 
+            "Closed", 
+            "1224d 3h"
+        ]
+    ], 
+    "ASTERIXDB-1192": [
+        [
+            "Open", 
+            "In Progress", 
+            "57s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17h 22m"
+        ]
+    ], 
+    "ASTERIXDB-1190": [
+        [
+            "Open", 
+            "Resolved", 
+            "183d 6h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1198": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "821d 3h 24m"
+        ]
+    ], 
+    "ASTERIXDB-1974": [
+        [
+            "Open", 
+            "Resolved", 
+            "125d 9h 54m"
+        ]
+    ], 
+    "ASTERIXDB-865": [
+        [
+            "Accepted", 
+            "Open", 
+            "519d 12h 41m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "217d 10h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "144d 20h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1204": [
+        [
+            "Open", 
+            "In Progress", 
+            "75d 17h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14h 13m"
+        ]
+    ], 
+    "ASTERIXDB-867": [
+        [
+            "Accepted", 
+            "Open", 
+            "518d 8h 25m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "362d 14h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1970": [
+        [
+            "Open", 
+            "Closed", 
+            "248d 9h 9m"
+        ]
+    ], 
+    "ASTERIXDB-1617": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "91d 22h 53m"
+        ]
+    ], 
+    "ASTERIXDB-1616": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16d 20h 10m"
+        ]
+    ], 
+    "ASTERIXDB-1751": [
+        [
+            "Open", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "23h 38m"
+        ]
+    ], 
+    "ASTERIXDB-1754": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 3h 57m"
+        ]
+    ], 
+    "ASTERIXDB-2409": [
+        [
+            "Open", 
+            "Closed", 
+            "19h 20m"
+        ]
+    ], 
+    "ASTERIXDB-2408": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 32m"
+        ]
+    ], 
+    "ASTERIXDB-1302": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "740d 8h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1857": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 56m"
+        ]
+    ], 
+    "ASTERIXDB-1855": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 12m"
+        ]
+    ], 
+    "ASTERIXDB-1854": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 18m"
+        ]
+    ], 
+    "ASTERIXDB-1994": [
+        [
+            "Open", 
+            "Resolved", 
+            "187d 14h 59m"
+        ]
+    ], 
+    "ASTERIXDB-1995": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 9m"
+        ]
+    ], 
+    "ASTERIXDB-1992": [
+        [
+            "Open", 
+            "Closed", 
+            "231d 3h 32m"
+        ]
+    ], 
+    "ASTERIXDB-1859": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 39m"
+        ]
+    ], 
+    "ASTERIXDB-1858": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 10h 15m"
+        ]
+    ], 
+    "ASTERIXDB-2081": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 17h 59m"
+        ]
+    ], 
+    "ASTERIXDB-2083": [
+        [
+            "Open", 
+            "In Progress", 
+            "114d 4h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "50d 19h 19m"
+        ]
+    ], 
+    "ASTERIXDB-2085": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 21h 28m"
+        ]
+    ], 
+    "ASTERIXDB-2087": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "178d 2h 8m"
+        ]
+    ], 
+    "ASTERIXDB-2319": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 14h 13m"
+        ]
+    ], 
+    "ASTERIXDB-2318": [
+        [
+            "Open", 
+            "Closed", 
+            "77d 19h 22m"
+        ]
+    ], 
+    "ASTERIXDB-1109": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 19h 46m"
+        ]
+    ], 
+    "ASTERIXDB-1990": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 15h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 12h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1104": [
+        [
+            "Open", 
+            "In Progress", 
+            "66d 1h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21h 28m"
+        ]
+    ], 
+    "ASTERIXDB-1991": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 15h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 12h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1101": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1806": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 23h 8m"
+        ]
+    ], 
+    "ASTERIXDB-2317": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 3h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h"
+        ]
+    ], 
+    "ASTERIXDB-2316": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 35m"
+        ]
+    ], 
+    "ASTERIXDB-2105": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 19h 53m"
+        ]
+    ], 
+    "ASTERIXDB-2107": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 57m"
+        ]
+    ], 
+    "ASTERIXDB-1534": [
+        [
+            "Open", 
+            "In Progress", 
+            "37d 16h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "17d 2h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "31s"
+        ]
+    ], 
+    "ASTERIXDB-2530": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 43m"
+        ]
+    ], 
+    "ASTERIXDB-1536": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 9h 6m"
+        ]
+    ], 
+    "ASTERIXDB-1357": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 5h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 8h 48m"
+        ]
+    ], 
+    "ASTERIXDB-2535": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 17h 50m"
+        ]
+    ], 
+    "ASTERIXDB-1531": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 21h"
+        ]
+    ], 
+    "ASTERIXDB-2537": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 34m"
+        ]
+    ], 
+    "ASTERIXDB-2536": [
+        [
+            "Open", 
+            "In Progress", 
+            "9m 57s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 23h 27m"
+        ]
+    ], 
+    "ASTERIXDB-2539": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1538": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 6h 56m"
+        ]
+    ], 
+    "ASTERIXDB-2039": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 21h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 16m"
+        ]
+    ], 
+    "ASTERIXDB-2036": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 15h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2030": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 20m"
+        ]
+    ], 
+    "ASTERIXDB-2031": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 18h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2032": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 16h 15m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7m 38s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "ASTERIXDB-2033": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 12h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2625": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 15h 25m"
+        ]
+    ], 
+    "ASTERIXDB-1415": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "673d 8h 33m"
+        ]
+    ], 
+    "ASTERIXDB-2623": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 21m"
+        ]
+    ], 
+    "ASTERIXDB-636": [
+        [
+            "New", 
+            "Open", 
+            "801d 6h 10m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "188d 10h 46m"
+        ]
+    ], 
+    "ASTERIXDB-1406": [
+        [
+            "Open", 
+            "Closed", 
+            "113d 7h 20m"
+        ]
+    ], 
+    "ASTERIXDB-1409": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 18m"
+        ]
+    ], 
+    "ASTERIXDB-1034": [
+        [
+            "FixedInBranch", 
+            "Closed", 
+            "70d 15h 40m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "47d 12h"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "29d 19h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "79d 6m"
+        ]
+    ], 
+    "ASTERIXDB-1249": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 4h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "29d 2h 27m"
+        ]
+    ], 
+    "ASTERIXDB-1714": [
+        [
+            "Open", 
+            "Resolved", 
+            "71d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 22h 27m"
+        ]
+    ], 
+    "ASTERIXDB-1246": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 1h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "249d 17h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1247": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 29m"
+        ]
+    ], 
+    "ASTERIXDB-2314": [
+        [
+            "Open", 
+            "Resolved", 
+            "219d 50m"
+        ]
+    ], 
+    "ASTERIXDB-1325": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 41m"
+        ]
+    ], 
+    "ASTERIXDB-1327": [
+        [
+            "Open", 
+            "In Progress", 
+            "371d 3h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 16m"
+        ]
+    ], 
+    "ASTERIXDB-1494": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 9h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "ASTERIXDB-1493": [
+        [
+            "Open", 
+            "Resolved", 
+            "296d 14h 37m"
+        ]
+    ], 
+    "ASTERIXDB-1089": [
+        [
+            "Open", 
+            "In Progress", 
+            "70d 6h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 20h 29m"
+        ]
+    ], 
+    "ASTERIXDB-1490": [
+        [
+            "Open", 
+            "Closed", 
+            "49d 5h 54m"
+        ]
+    ], 
+    "ASTERIXDB-1086": [
+        [
+            "Open", 
+            "In Progress", 
+            "127d 19h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "249d 4h 41m"
+        ]
+    ], 
+    "ASTERIXDB-1329": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h"
+        ]
+    ], 
+    "ASTERIXDB-1081": [
+        [
+            "Open", 
+            "In Progress", 
+            "146d 1h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "249d 4h 39m"
+        ]
+    ], 
+    "ASTERIXDB-1499": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 52m"
+        ]
+    ], 
+    "ASTERIXDB-1498": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 6h 10m"
+        ]
+    ], 
+    "ASTERIXDB-2361": [
+        [
+            "Open", 
+            "Resolved", 
+            "365d 18h 28m"
+        ]
+    ], 
+    "ASTERIXDB-2289": [
+        [
+            "Open", 
+            "Resolved", 
+            "455d 1h 17m"
+        ]
+    ], 
+    "ASTERIXDB-2288": [
+        [
+            "Open", 
+            "Resolved", 
+            "460d 8h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2282": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 3h 25m"
+        ]
+    ], 
+    "ASTERIXDB-2281": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 11m"
+        ]
+    ], 
+    "ASTERIXDB-2280": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 22h 59m"
+        ]
+    ], 
+    "ASTERIXDB-2285": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3h 23m"
+        ]
+    ], 
+    "ASTERIXDB-1884": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 17h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1885": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 42m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "11d 8h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1145": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 23h 40m"
+        ]
+    ], 
+    "ASTERIXDB-1881": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 19h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1882": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 12m"
+        ]
+    ], 
+    "ASTERIXDB-2213": [
+        [
+            "Open", 
+            "Resolved", 
+            "73d 17h 36m"
+        ]
+    ], 
+    "ASTERIXDB-1560": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 20h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1664": [
+        [
+            "Open", 
+            "Closed", 
+            "299d 22h 40m"
+        ]
+    ], 
+    "ASTERIXDB-2219": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 15m"
+        ]
+    ], 
+    "ASTERIXDB-2067": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "ASTERIXDB-2064": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "ASTERIXDB-2060": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "ASTERIXDB-2069": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 2h 50m"
+        ]
+    ], 
+    "ASTERIXDB-1869": [
+        [
+            "Open", 
+            "Closed", 
+            "339d 6h 41m"
+        ]
+    ], 
+    "ASTERIXDB-1867": [
+        [
+            "Open", 
+            "Closed", 
+            "10h 12m"
+        ]
+    ], 
+    "ASTERIXDB-2449": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 57m"
+        ]
+    ], 
+    "ASTERIXDB-2448": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 43m"
+        ]
+    ], 
+    "ASTERIXDB-2440": [
+        [
+            "Open", 
+            "In Progress", 
+            "10m 24s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 32m"
+        ]
+    ], 
+    "ASTERIXDB-2445": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 41m"
+        ]
+    ], 
+    "ASTERIXDB-2444": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 12h 32m"
+        ]
+    ], 
+    "ASTERIXDB-2447": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 50s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 2h 47m"
+        ]
+    ], 
+    "ASTERIXDB-1460": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 1h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1566": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 16m"
+        ]
+    ], 
+    "ASTERIXDB-673": [
+        [
+            "New", 
+            "Open", 
+            "790d 12h 49m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "184d 9h"
+        ]
+    ], 
+    "ASTERIXDB-1564": [
+        [
+            "Open", 
+            "Resolved", 
+            "517d 5h 17m"
+        ]
+    ], 
+    "ASTERIXDB-2545": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 3m"
+        ]
+    ], 
+    "ASTERIXDB-1561": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 52m"
+        ]
+    ], 
+    "ASTERIXDB-2547": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 10h 46m"
+        ]
+    ], 
+    "ASTERIXDB-2148": [
+        [
+            "Open", 
+            "Resolved", 
+            "137d 2h 57m"
+        ]
+    ], 
+    "ASTERIXDB-2142": [
+        [
+            "Open", 
+            "In Progress", 
+            "50m 6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "91d 14h 37m"
+        ]
+    ], 
+    "ASTERIXDB-1690": [
+        [
+            "Open", 
+            "Closed", 
+            "182d 15h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1693": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 37m"
+        ]
+    ], 
+    "ASTERIXDB-1695": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 17h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "500d 8h 1m"
+        ]
+    ], 
+    "ASTERIXDB-1696": [
+        [
+            "Open", 
+            "In Progress", 
+            "22m 42s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14d 1h 26m"
+        ]
+    ], 
+    "ASTERIXDB-1361": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 8h 36m"
+        ]
+    ], 
+    "ASTERIXDB-1360": [
+        [
+            "Open", 
+            "Resolved", 
+            "459d 7h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 2h 15m"
+        ]
+    ], 
+    "ASTERIXDB-1363": [
+        [
+            "Open", 
+            "Resolved", 
+            "129d 9h 24m"
+        ]
+    ], 
+    "ASTERIXDB-1362": [
+        [
+            "Open", 
+            "In Progress", 
+            "351d 2h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1366": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 7h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "700d 21h 24m"
+        ]
+    ], 
+    "ASTERIXDB-1592": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 4h 18m"
+        ]
+    ], 
+    "ASTERIXDB-1591": [
+        [
+            "Open", 
+            "Closed", 
+            "22d 20h 29m"
+        ]
+    ], 
+    "ASTERIXDB-1044": [
+        [
+            "Accepted", 
+            "Open", 
+            "56d 2h 47m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "148d 16h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "789d 20h 37m"
+        ]
+    ], 
+    "ASTERIXDB-1597": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 20h 10m"
+        ]
+    ], 
+    "ASTERIXDB-1917": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 4m"
+        ]
+    ], 
+    "ASTERIXDB-1915": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 40m"
+        ]
+    ], 
+    "ASTERIXDB-1911": [
+        [
+            "Open", 
+            "In Progress", 
+            "163d 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "20d 23h 5m"
+        ]
+    ], 
+    "ASTERIXDB-2414": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 9h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11m 47s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "258d 11h 50m"
+        ]
+    ], 
+    "ASTERIXDB-1918": [
+        [
+            "Open", 
+            "Closed", 
+            "19h 51m"
+        ]
+    ], 
+    "ASTERIXDB-2415": [
+        [
+            "Open", 
+            "Resolved", 
+            "272d 18h 12m"
+        ]
+    ], 
+    "ASTERIXDB-2413": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 27m"
+        ]
+    ], 
+    "ASTERIXDB-1187": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 1h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1186": [
+        [
+            "Open", 
+            "In Progress", 
+            "273d 2h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "6d 21h 34m"
+        ]
+    ], 
+    "ASTERIXDB-1628": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 15h 2m"
+        ]
+    ], 
+    "ASTERIXDB-1629": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 6h 57m"
+        ]
+    ], 
+    "ASTERIXDB-1625": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 17h 35m"
+        ]
+    ], 
+    "ASTERIXDB-1626": [
+        [
+            "Open", 
+            "Closed", 
+            "17d 1h 19m"
+        ]
+    ], 
+    "ASTERIXDB-1627": [
+        [
+            "Open", 
+            "Closed", 
+            "40d 17h 41m"
+        ]
+    ], 
+    "ASTERIXDB-1189": [
+        [
+            "Open", 
+            "Resolved", 
+            "195d 13h 33m"
+        ]
+    ], 
+    "ASTERIXDB-1747": [
+        [
+            "Open", 
+            "Resolved", 
+            "71d 5h 34m"
+        ]
+    ], 
+    "ASTERIXDB-1746": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1961": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 37m"
+        ]
+    ], 
+    "ASTERIXDB-1216": [
+        [
+            "Open", 
+            "Resolved", 
+            "169d 9h 53m"
+        ]
+    ], 
+    "ASTERIXDB-1967": [
+        [
+            "Open", 
+            "Closed", 
+            "250d 23h 35m"
+        ]
+    ], 
+    "ASTERIXDB-1212": [
+        [
+            "Open", 
+            "Resolved", 
+            "185d 6h 10m"
+        ]
+    ], 
+    "ASTERIXDB-1969": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 19h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1749": [
+        [
+            "Open", 
+            "In Progress", 
+            "13m 29s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "74d 23h 16m"
+        ]
+    ], 
+    "ASTERIXDB-2434": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 43m"
+        ]
+    ], 
+    "ASTERIXDB-2437": [
+        [
+            "Open", 
+            "In Progress", 
+            "47d 8h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "15h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1984": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 5h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "196d 20h 7m"
+        ]
+    ], 
+    "ASTERIXDB-1983": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 1h 8m"
+        ]
+    ], 
+    "ASTERIXDB-1982": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 18h 7m"
+        ]
+    ], 
+    "ASTERIXDB-2320": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 13h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8h 17m"
+        ]
+    ], 
+    "ASTERIXDB-2248": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 46m"
+        ]
+    ], 
+    "ASTERIXDB-2246": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 56m"
+        ]
+    ], 
+    "ASTERIXDB-2244": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 5h 34m"
+        ]
+    ], 
+    "ASTERIXDB-2243": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 16m"
+        ]
+    ], 
+    "ASTERIXDB-1135": [
+        [
+            "Open", 
+            "In Progress", 
+            "289d 22h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "591d 5h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "ASTERIXDB-923": [
+        [
+            "New", 
+            "Open", 
+            "440d 12h 43m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "209d 21h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1137": [
+        [
+            "Open", 
+            "In Progress", 
+            "38d 4h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14h"
+        ]
+    ], 
+    "ASTERIXDB-2117": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 32m"
+        ]
+    ], 
+    "ASTERIXDB-2114": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 47m"
+        ]
+    ], 
+    "ASTERIXDB-2058": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "ASTERIXDB-2110": [
+        [
+            "Open", 
+            "In Progress", 
+            "118d 18h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 3h 57m"
+        ]
+    ], 
+    "ASTERIXDB-2055": [
+        [
+            "Open", 
+            "Resolved", 
+            "155d 5h 30m"
+        ]
+    ], 
+    "ASTERIXDB-2052": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "185d 11h 39m"
+        ]
+    ], 
+    "ASTERIXDB-2118": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 38m"
+        ]
+    ], 
+    "ASTERIXDB-1527": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 4h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1841": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 18h 33m"
+        ]
+    ], 
+    "ASTERIXDB-1529": [
+        [
+            "Open", 
+            "Closed", 
+            "27d 3h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1528": [
+        [
+            "Open", 
+            "Closed", 
+            "27d 8h 23m"
+        ]
+    ], 
+    "ASTERIXDB-2181": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 22h 6m"
+        ]
+    ], 
+    "ASTERIXDB-2029": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 15h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2028": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 6h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 15h 29m"
+        ]
+    ], 
+    "ASTERIXDB-2188": [
+        [
+            "Open", 
+            "Resolved", 
+            "78d 3h 45m"
+        ]
+    ], 
+    "ASTERIXDB-2020": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 23h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2025": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 19h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 8m"
+        ]
+    ], 
+    "ASTERIXDB-1883": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "329d 2h 49m"
+        ]
+    ], 
+    "ASTERIXDB-1796": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 6h 22m"
+        ]
+    ], 
+    "ASTERIXDB-1791": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "10d 12h 6m"
+        ]
+    ], 
+    "ASTERIXDB-1419": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 19h 20m"
+        ]
+    ], 
+    "ASTERIXDB-2610": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 4h 51m"
+        ]
+    ], 
+    "ASTERIXDB-2611": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 17h 46m"
+        ]
+    ], 
+    "ASTERIXDB-2612": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10m"
+        ]
+    ], 
+    "ASTERIXDB-2613": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 9h 30m"
+        ]
+    ], 
+    "ASTERIXDB-1413": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 7m"
+        ]
+    ], 
+    "ASTERIXDB-2599": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 2h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1556": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 2h 47m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "140d 2m"
+        ]
+    ], 
+    "ASTERIXDB-1005": [
+        [
+            "Accepted", 
+            "Open", 
+            "154d 17h 35m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "159d 9h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 8h 29m"
+        ]
+    ], 
+    "ASTERIXDB-1554": [
+        [
+            "Open", 
+            "Resolved", 
+            "552d 18h 23m"
+        ]
+    ], 
+    "ASTERIXDB-1553": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 13h 2m"
+        ]
+    ], 
+    "ASTERIXDB-1002": [
+        [
+            "New", 
+            "Open", 
+            "161d 4h 4m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "53d 12h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 7h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "101d 18h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1551": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 12h 13m"
+        ]
+    ], 
+    "ASTERIXDB-1388": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 30m"
+        ]
+    ], 
+    "ASTERIXDB-1259": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 4h 57m"
+        ]
+    ], 
+    "ASTERIXDB-1258": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 5h 34m"
+        ]
+    ], 
+    "ASTERIXDB-1251": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 11h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1250": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "30d 1h"
+        ]
+    ], 
+    "ASTERIXDB-1701": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1252": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 18h 57m"
+        ]
+    ], 
+    "ASTERIXDB-1255": [
+        [
+            "Open", 
+            "Closed", 
+            "30d 15h 7m"
+        ]
+    ], 
+    "ASTERIXDB-1706": [
+        [
+            "Open", 
+            "Resolved", 
+            "467d 5h 55m"
+        ]
+    ], 
+    "ASTERIXDB-1256": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 40m"
+        ]
+    ], 
+    "ASTERIXDB-1310": [
+        [
+            "Open", 
+            "Resolved", 
+            "398d 18h 20m"
+        ]
+    ], 
+    "ASTERIXDB-1758": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 2h 38m"
+        ]
+    ], 
+    "ASTERIXDB-1043": [
+        [
+            "Accepted", 
+            "Open", 
+            "60d 2h 8m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "103d 14h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21h 41m"
+        ]
+    ], 
+    "ASTERIXDB-1317": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 41m"
+        ]
+    ], 
+    "ASTERIXDB-1045": [
+        [
+            "UnderReview", 
+            "In Progress", 
+            "55d 11h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "62d 14h 35m"
+        ]
+    ], 
+    "ASTERIXDB-2270": [
+        [
+            "Open", 
+            "Closed", 
+            "39d 16m"
+        ]
+    ], 
+    "ASTERIXDB-2271": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 9m"
+        ]
+    ], 
+    "ASTERIXDB-920": [
+        [
+            "Accepted", 
+            "Open", 
+            "446d 7h 44m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "877d 19h 12m"
+        ]
+    ], 
+    "ASTERIXDB-2279": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d"
+        ]
+    ], 
+    "ASTERIXDB-1114": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 9m"
+        ]
+    ], 
+    "ASTERIXDB-1115": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 11h 15m"
+        ]
+    ], 
+    "ASTERIXDB-1175": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "839d 21h 30m"
+        ]
+    ], 
+    "ASTERIXDB-1176": [
+        [
+            "Open", 
+            "In Progress", 
+            "34m 44s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 10h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "841d 19h 10m"
+        ]
+    ], 
+    "ASTERIXDB-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1113": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 1h 21m"
+        ]
+    ], 
+    "ASTERIXDB-1892": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 21h 2m"
+        ]
+    ], 
+    "ASTERIXDB-1959": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 35m"
+        ]
+    ], 
+    "ASTERIXDB-1897": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h 5m"
+        ]
+    ], 
+    "ASTERIXDB-1110": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 30m"
+        ]
+    ], 
+    "ASTERIXDB-2205": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 12h 39m"
+        ]
+    ], 
+    "ASTERIXDB-1030": [
+        [
+            "FixedInBranch", 
+            "Closed", 
+            "84d 16h 40m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "47d 12h 1m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "30d 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "78d 19h 25m"
+        ]
+    ], 
+    "ASTERIXDB-969": [
+        [
+            "Accepted", 
+            "Open", 
+            "265d 9h 20m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "89d 15h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1953": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 2h 11m"
+        ]
+    ], 
+    "ASTERIXDB-1954": [
+        [
+            "Open", 
+            "Resolved", 
+            "134d 11h 39m"
+        ]
+    ], 
+    "ASTERIXDB-2012": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 9h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2018": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 32m"
+        ]
+    ], 
+    "ASTERIXDB-2019": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 8h 37m"
+        ]
+    ], 
+    "ASTERIXDB-1471": [
+        [
+            "Open", 
+            "Resolved", 
+            "76d 30m"
+        ]
+    ], 
+    "ASTERIXDB-2380": [
+        [
+            "Open", 
+            "Resolved", 
+            "72d 14m"
+        ]
+    ], 
+    "ASTERIXDB-1879": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 43m"
+        ]
+    ], 
+    "ASTERIXDB-2387": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h"
+        ]
+    ], 
+    "ASTERIXDB-1470": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 7h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "635d 1h 21m"
+        ]
+    ], 
+    "ASTERIXDB-1875": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 19h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1877": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 15h 42m"
+        ]
+    ], 
+    "ASTERIXDB-1876": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 19h 27m"
+        ]
+    ], 
+    "ASTERIXDB-1871": [
+        [
+            "Open", 
+            "Resolved", 
+            "222d 10h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1870": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1127": [
+        [
+            "Open", 
+            "Resolved", 
+            "154d 6h 51m"
+        ]
+    ], 
+    "ASTERIXDB-2474": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 53m"
+        ]
+    ], 
+    "ASTERIXDB-2475": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 43m"
+        ]
+    ], 
+    "ASTERIXDB-1477": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "635d 1h 40m"
+        ]
+    ], 
+    "ASTERIXDB-2472": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 24m"
+        ]
+    ], 
+    "ASTERIXDB-2377": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 22h 31m"
+        ]
+    ], 
+    "ASTERIXDB-2375": [
+        [
+            "Open", 
+            "Resolved", 
+            "348d 16h 30m"
+        ]
+    ], 
+    "ASTERIXDB-2374": [
+        [
+            "Open", 
+            "Closed", 
+            "132d 21h 27m"
+        ]
+    ], 
+    "ASTERIXDB-2478": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 17h 4m"
+        ]
+    ], 
+    "ASTERIXDB-2128": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 5h 57m"
+        ]
+    ], 
+    "ASTERIXDB-2124": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 20h 51m"
+        ]
+    ], 
+    "ASTERIXDB-1120": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "883d 22m"
+        ]
+    ], 
+    "ASTERIXDB-2122": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 7m"
+        ]
+    ], 
+    "ASTERIXDB-2120": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 25m"
+        ]
+    ], 
+    "ASTERIXDB-1451": [
+        [
+            "Open", 
+            "Resolved", 
+            "136d 1h 2m"
+        ]
+    ], 
+    "ASTERIXDB-2554": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 12h 2m"
+        ]
+    ], 
+    "ASTERIXDB-2553": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h"
+        ]
+    ], 
+    "ASTERIXDB-2552": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 2h 46m"
+        ]
+    ], 
+    "ASTERIXDB-1455": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 11m"
+        ]
+    ], 
+    "ASTERIXDB-2497": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 40m"
+        ]
+    ], 
+    "ASTERIXDB-2494": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 9h 35m"
+        ]
+    ], 
+    "ASTERIXDB-2495": [
+        [
+            "Open", 
+            "Resolved", 
+            "124d 19h 47m"
+        ]
+    ], 
+    "ASTERIXDB-2492": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 20h 17m"
+        ]
+    ], 
+    "ASTERIXDB-2491": [
+        [
+            "Open", 
+            "Resolved", 
+            "90d 19h 7m"
+        ]
+    ], 
+    "ASTERIXDB-1642": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 5h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "500d 7h 57m"
+        ]
+    ], 
+    "ASTERIXDB-2159": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1m"
+        ]
+    ], 
+    "ASTERIXDB-2153": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 43s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "60d 2h 23m"
+        ]
+    ], 
+    "ASTERIXDB-2460": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 17h 58m"
+        ]
+    ], 
+    "ASTERIXDB-2157": [
+        [
+            "Open", 
+            "Resolved", 
+            "83d 3h 10m"
+        ]
+    ], 
+    "ASTERIXDB-2049": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "ASTERIXDB-1354": [
+        [
+            "Open", 
+            "Closed", 
+            "138d 8h 13m"
+        ]
+    ], 
+    "ASTERIXDB-1356": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 7h 20m"
+        ]
+    ], 
+    "ASTERIXDB-1425": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 22h 1m"
+        ]
+    ], 
+    "ASTERIXDB-1059": [
+        [
+            "Started", 
+            "Open", 
+            "11d 13h 56m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "103d 9h 51m"
+        ]
+    ], 
+    "ASTERIXDB-1053": [
+        [
+            "Accepted", 
+            "Open", 
+            "21d 7h 10m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "34d 11h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "24d 6h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1051": [
+        [
+            "Open", 
+            "In Progress", 
+            "188d 4h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "28d 3h 19m"
+        ]
+    ], 
+    "ASTERIXDB-2480": [
+        [
+            "Open", 
+            "Resolved", 
+            "149d 5h 49m"
+        ]
+    ], 
+    "ASTERIXDB-1581": [
+        [
+            "Open", 
+            "Closed", 
+            "22d 11h 11m"
+        ]
+    ], 
+    "ASTERIXDB-1580": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 7h 38m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "13d 23h 30m"
+        ]
+    ], 
+    "ASTERIXDB-1674": [
+        [
+            "Open", 
+            "Closed", 
+            "19h 8m"
+        ]
+    ], 
+    "ASTERIXDB-1587": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4m 4s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 3h 27m"
+        ]
+    ], 
+    "ASTERIXDB-1673": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 14h 39m"
+        ]
+    ], 
+    "ASTERIXDB-2047": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 20h 28m"
+        ]
+    ], 
+    "ASTERIXDB-1905": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "50d 20h 53m"
+        ]
+    ], 
+    "ASTERIXDB-2169": [
+        [
+            "Open", 
+            "Closed", 
+            "108d 10h 17m"
+        ]
+    ], 
+    "ASTERIXDB-1901": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 3h 7m"
+        ]
+    ], 
+    "ASTERIXDB-1671": [
+        [
+            "Open", 
+            "Closed", 
+            "20h 58m"
+        ]
+    ], 
+    "ASTERIXDB-1952": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 13h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "253d 22h 53m"
+        ]
+    ], 
+    "ASTERIXDB-221": [
+        [
+            "Accepted", 
+            "Open", 
+            "1231d 1h 48m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "58d 17h 53m"
+        ]
+    ], 
+    "ASTERIXDB-1631": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 10h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1630": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 8h 38m"
+        ]
+    ], 
+    "ASTERIXDB-1636": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 11h 43m"
+        ]
+    ], 
+    "ASTERIXDB-1635": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 18h 21m"
+        ]
+    ], 
+    "ASTERIXDB-1220": [
+        [
+            "Open", 
+            "In Progress", 
+            "168d 2h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 3h 20m"
+        ]
+    ], 
+    "ASTERIXDB-1733": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "57d 5h 20m"
+        ]
+    ], 
+    "ASTERIXDB-1223": [
+        [
+            "Open", 
+            "In Progress", 
+            "35d 6h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "145d 11h 57m"
+        ]
+    ], 
+    "ASTERIXDB-1226": [
+        [
+            "Open", 
+            "Resolved", 
+            "107d 22h 17m"
+        ]
+    ], 
+    "ASTERIXDB-951": [
+        [
+            "New", 
+            "Open", 
+            "305d 8h 38m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "681d 15h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 2h 23m"
+        ]
+    ], 
+    "ASTERIXDB-1229": [
+        [
+            "Open", 
+            "Closed", 
+            "94d 21h 57m"
+        ]
+    ], 
+    "ASTERIXDB-1738": [
+        [
+            "Open", 
+            "Closed", 
+            "199d 49m"
+        ]
+    ], 
+    "ASTERIXDB-2346": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 55m"
+        ]
+    ], 
+    "ASTERIXDB-2347": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 5h 40m"
+        ]
+    ], 
+    "ASTERIXDB-2345": [
+        [
+            "Open", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 12m"
+        ]
+    ], 
+    "ASTERIXDB-2348": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 41m"
+        ]
+    ], 
+    "ASTERIXDB-2349": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 22h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "172d 13h 3m"
+        ]
+    ], 
+    "ASTERIXDB-1832": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 1h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "64d 2h 23m"
+        ]
+    ], 
+    "ASTERIXDB-1838": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 11h 49m"
+        ]
+    ], 
+    "ASTERIXDB-2567": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 3m"
+        ]
+    ], 
+    "ASTERIXDB-2333": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 16m"
+        ]
+    ], 
+    "ASTERIXDB-2332": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 49m"
+        ]
+    ], 
+    "ASTERIXDB-2334": [
+        [
+            "Open", 
+            "Resolved", 
+            "135d 19h 10m"
+        ]
+    ], 
+    "ASTERIXDB-2232": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 15h 51m"
+        ]
+    ], 
+    "ASTERIXDB-1211": [
+        [
+            "Open", 
+            "Closed", 
+            "107d 1h 47m"
+        ]
+    ], 
+    "ASTERIXDB-2230": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 9h 22m"
+        ]
+    ], 
+    "ASTERIXDB-2338": [
+        [
+            "Open", 
+            "Closed", 
+            "383d 16h 20m"
+        ]
+    ], 
+    "ASTERIXDB-2236": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 47m"
+        ]
+    ], 
+    "ASTERIXDB-2234": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 52m"
+        ]
+    ], 
+    "ASTERIXDB-2162": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 5h 2m"
+        ]
+    ], 
+    "ASTERIXDB-2519": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17m"
+        ]
+    ], 
+    "ASTERIXDB-2161": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 22h 32m"
+        ]
+    ], 
+    "ASTERIXDB-2166": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 34m"
+        ]
+    ], 
+    "ASTERIXDB-2167": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 23h 28m"
+        ]
+    ], 
+    "ASTERIXDB-2164": [
+        [
+            "Open", 
+            "Resolved", 
+            "121d 49m"
+        ]
+    ], 
+    "ASTERIXDB-2165": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 40m"
+        ]
+    ], 
+    "ASTERIXDB-2045": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 40m"
+        ]
+    ], 
+    "ASTERIXDB-2044": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 27m"
+        ]
+    ], 
+    "ASTERIXDB-2168": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 6h 41m"
+        ]
+    ], 
+    "ASTERIXDB-2510": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 16m"
+        ]
+    ], 
+    "ASTERIXDB-2040": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 11m"
+        ]
+    ], 
+    "ASTERIXDB-2042": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 42m"
+        ]
+    ], 
+    "ASTERIXDB-2199": [
+        [
+            "Open", 
+            "Closed", 
+            "35d 23h 7m"
+        ]
+    ], 
+    "ASTERIXDB-2503": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 2h 17m"
+        ]
+    ], 
+    "ASTERIXDB-2193": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 11h 52m"
+        ]
+    ], 
+    "ASTERIXDB-2197": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 9h 39m"
+        ]
+    ], 
+    "ASTERIXDB-2429": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 18m"
+        ]
+    ], 
+    "ASTERIXDB-2428": [
+        [
+            "Open", 
+            "In Progress", 
+            "34s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12h 30m"
+        ]
+    ], 
+    "ASTERIXDB-2424": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 20m"
+        ]
+    ], 
+    "ASTERIXDB-2423": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 54m"
+        ]
+    ], 
+    "ASTERIXDB-2420": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 40m"
+        ]
+    ], 
+    "ASTERIXDB-1710": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 22m"
+        ]
+    ], 
+    "ASTERIXDB-2607": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 29m"
+        ]
+    ], 
+    "ASTERIXDB-2603": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 12h 54m"
+        ]
+    ], 
+    "ASTERIXDB-1776": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 8h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 6h 58m"
+        ]
+    ], 
+    "ASTERIXDB-1463": [
+        [
+            "Open", 
+            "Closed", 
+            "80d 5h 25m"
+        ]
+    ], 
+    "ASTERIXDB-1789": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "92d 18h 26m"
+        ]
+    ], 
+    "ASTERIXDB-1467": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 53m"
+        ]
+    ], 
+    "ASTERIXDB-1464": [
+        [
+            "Open", 
+            "Resolved", 
+            "616d 18h 2m"
+        ]
+    ], 
+    "ASTERIXDB-1497": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 10h 38m"
+        ]
+    ], 
+    "ASTERIXDB-1017": [
+        [
+            "FixedInBranch", 
+            "Closed", 
+            "105d 12h 53m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "47d 12h 4m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "30d 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "78d 19h 21m"
+        ]
+    ], 
+    "ASTERIXDB-1019": [
+        [
+            "FixedInBranch", 
+            "Closed", 
+            "105d 12h 49m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "47d 12h 3m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "30d 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "78d 19h 23m"
+        ]
+    ], 
+    "ASTERIXDB-1018": [
+        [
+            "Accepted", 
+            "Open", 
+            "105d 12h 58m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "92d 8h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "63d 22h 33m"
+        ]
+    ], 
+    "ASTERIXDB-1326": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 35m"
+        ]
+    ], 
+    "ASTERIXDB-1088": [
+        [
+            "Open", 
+            "In Progress", 
+            "351d 3h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "18h 42m"
+        ]
+    ], 
+    "ASTERIXDB-1322": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 48m"
+        ]
+    ], 
+    "ASTERIXDB-1271": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 49m"
+        ]
+    ], 
+    "ASTERIXDB-1261": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 10m"
+        ]
+    ], 
+    "ASTERIXDB-1263": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 22h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 8h 30m"
+        ]
+    ], 
+    "ASTERIXDB-1269": [
+        [
+            "Open", 
+            "Resolved", 
+            "187d 12h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "591d 5h 27m"
+        ]
+    ], 
+    "ASTERIXDB-1301": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "740d 8h 31m"
+        ]
+    ], 
+    "ASTERIXDB-1083": [
+        [
+            "Open", 
+            "In Progress", 
+            "19d 2h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 23h 54m"
+        ]
+    ], 
+    "ASTERIXDB-2266": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 34m"
+        ]
+    ], 
+    "ASTERIXDB-2260": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19h 3m"
+        ]
+    ], 
+    "ASTERIXDB-2269": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h"
+        ]
+    ], 
+    "ASTERIXDB-1280": [
+        [
+            "Open", 
+            "Resolved", 
+            "60d 21h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "707d 23h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d"
+        ]
+    ], 
+    "ASTERIXDB-1168": [
+        [
+            "Open", 
+            "Closed", 
+            "30m 51s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "21m 37s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "120d 22h 52m"
+        ]
+    ], 
+    "ASTERIXDB-1162": [
+        [
+            "Open", 
+            "Closed", 
+            "66d 11h 19m"
+        ]
+    ], 
+    "ASTERIXDB-1160": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 16m"
+        ]
+    ], 
+    "ASTERIXDB-1166": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 5h"
+        ]
+    ], 
+    "ASTERIXDB-1165": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 18h 3m"
+        ]
+    ], 
+    "ASTERIXDB-1164": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 6h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 15h 45m"
+        ]
+    ], 
+    "ASTERIXDB-1602": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 37m"
+        ]
+    ], 
+    "ASTERIXDB-971": [
+        [
+            "New", 
+            "Open", 
+            "264d 23h 14m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "369d 5h 35m"
+        ]
+    ], 
+    "ASTERIXDB-1764": [
+        [
+            "Open", 
+            "Resolved", 
+            "305d 19h 16m"
+        ]
+    ], 
+    "ASTERIXDB-1608": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 12h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "91d 22h 54m"
+        ]
+    ], 
+    "ASTERIXDB-1609": [
+        [
+            "Open", 
+            "Resolved", 
+            "81d 5h 44m"
+        ]
+    ], 
+    "ASTERIXDB-1945": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 7h 32m"
+        ]
+    ], 
+    "ASTERIXDB-2416": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 21m"
+        ]
+    ], 
+    "ASTERIXDB-2000": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 22h 46m"
+        ]
+    ], 
+    "ASTERIXDB-2003": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 56m"
+        ]
+    ], 
+    "ASTERIXDB-2002": [
+        [
+            "Open", 
+            "Closed", 
+            "225d 8h 20m"
+        ]
+    ], 
+    "ASTERIXDB-2005": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 43m"
+        ]
+    ], 
+    "ASTERIXDB-2004": [
+        [
+            "Open", 
+            "Closed", 
+            "223d 40m"
+        ]
+    ], 
+    "ASTERIXDB-2007": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 23h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 5m"
+        ]
+    ], 
+    "ASTERIXDB-2006": [
+        [
+            "Open", 
+            "Closed", 
+            "222d 11h 1m"
+        ]
+    ], 
+    "ASTERIXDB-2008": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 20h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 12h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2418": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 14m"
+        ]
+    ], 
+    "ASTERIXDB-1029": [
+        [
+            "FixedInBranch", 
+            "Closed", 
+            "85d 12h 19m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "47d 12h 2m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "30d 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "78d 19h 25m"
+        ]
+    ], 
+    "ASTERIXDB-2394": [
+        [
+            "Open", 
+            "Resolved", 
+            "319d 17h 10m"
+        ]
+    ], 
+    "ASTERIXDB-2396": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 56m"
+        ]
+    ], 
+    "ASTERIXDB-2399": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 55m"
+        ]
+    ], 
+    "ASTERIXDB-2398": [
+        [
+            "Open", 
+            "Resolved", 
+            "309d 2h 55m"
+        ]
+    ], 
+    "ASTERIXDB-1842": [
+        [
+            "Open", 
+            "In Progress", 
+            "58d 5h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 14h"
+        ]
+    ], 
+    "ASTERIXDB-2098": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 21h 56m"
+        ]
+    ], 
+    "ASTERIXDB-2091": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 35s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 29m"
+        ]
+    ], 
+    "ASTERIXDB-2096": [
+        [
+            "Open", 
+            "In Progress", 
+            "19d 22h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11s"
+        ]
+    ], 
+    "ASTERIXDB-2095": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 17h 18m"
+        ]
+    ], 
+    "ASTERIXDB-2461": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 23m"
+        ]
+    ], 
+    "ASTERIXDB-2309": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 15m"
+        ]
+    ], 
+    "ASTERIXDB-2467": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 49m"
+        ]
+    ], 
+    "ASTERIXDB-1118": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 23h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "28d 3h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 18h 51m"
+        ]
+    ], 
+    "ASTERIXDB-2464": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 14h 49m"
+        ]
+    ], 
+    "ASTERIXDB-2302": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 16m"
+        ]
+    ], 
+    "ASTERIXDB-2303": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 58m"
+        ]
+    ], 
+    "ASTERIXDB-2469": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 12h 40m"
+        ]
+    ], 
+    "ASTERIXDB-2301": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 6h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 22h 45m"
+        ]
+    ], 
+    "ASTERIXDB-2307": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 53m"
+        ]
+    ], 
+    "ASTERIXDB-2304": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 39m"
+        ]
+    ], 
+    "ASTERIXDB-2135": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 38m"
+        ]
+    ], 
+    "ASTERIXDB-2137": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 3m"
+        ]
+    ], 
+    "ASTERIXDB-2131": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 16m"
+        ]
+    ], 
+    "ASTERIXDB-2130": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 14h 56m"
+        ]
+    ], 
+    "ASTERIXDB-2133": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 5h 18m"
+        ]
+    ], 
+    "ASTERIXDB-1438": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 13h 47m"
+        ]
+    ], 
+    "ASTERIXDB-2520": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 13m"
+        ]
+    ], 
+    "ASTERIXDB-2521": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 14h 7m"
+        ]
+    ], 
+    "ASTERIXDB-2489": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 26m"
+        ]
+    ], 
+    "ASTERIXDB-2527": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 32m"
+        ]
+    ], 
+    "ASTERIXDB-2524": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 36m"
+        ]
+    ], 
+    "ASTERIXDB-2525": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 42m"
+        ]
+    ], 
+    "ASTERIXDB-2528": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 58m"
+        ]
+    ], 
+    "ASTERIXDB-2529": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 9m"
+        ]
+    ], 
+    "ASTERIXDB-2564": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 4m"
+        ]
+    ], 
+    "ASTERIXDB-2483": [
+        [
+            "Open", 
+            "Resolved", 
+            "130d 21h 9m"
+        ]
+    ], 
+    "ASTERIXDB-1298": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 28m"
+        ]
+    ], 
+    "ASTERIXDB-139": [
+        [
+            "New", 
+            "Open", 
+            "266d 15h 52m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "92d 10h 40m"
+        ]
+    ], 
+    "ASTERIXDB-1544": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 41m"
+        ]
+    ], 
+    "ASTERIXDB-1131": [
+        [
+            "Open", 
+            "Resolved", 
+            "241d 8h 37m"
+        ]
+    ], 
+    "ASTERIXDB-883": [
+        [
+            "Accepted", 
+            "Open", 
+            "510d 2h 25m"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "364d 16h 33m"
+        ]
+    ], 
+    "ASTERIXDB-2633": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 12h 19m"
+        ]
+    ], 
+    "ASTERIXDB-1343": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 3m"
+        ]
+    ], 
+    "ASTERIXDB-1434": [
+        [
+            "Open", 
+            "Closed", 
+            "15h 8m"
+        ]
+    ], 
+    "ASTERIXDB-1340": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 25m"
+        ]
+    ], 
+    "ASTERIXDB-1020": [
+        [
+            "Accepted", 
+            "Open", 
+            "105d 12h 55m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "156d 7h 30m"
+        ]
+    ], 
+    "ASTERIXDB-2555": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 19h 33m"
+        ]
+    ], 
+    "ASTERIXDB-2329": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 10m"
+        ]
+    ], 
+    "ASTERIXDB-1450": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 20m"
+        ]
+    ], 
+    "ASTERIXDB-1700": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 1h 30m"
+        ]
+    ]
+}

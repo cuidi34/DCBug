@@ -1,0 +1,3445 @@
+{
+    "CRUNCH-630": [
+        [
+            "Open", 
+            "In Progress", 
+            "22d 2h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 8h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 16h 29m"
+        ]
+    ], 
+    "CRUNCH-633": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 16h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 23h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 7h 59m"
+        ]
+    ], 
+    "CRUNCH-634": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 23h 32m"
+        ]
+    ], 
+    "CRUNCH-439": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 21h 41m"
+        ]
+    ], 
+    "CRUNCH-229": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 14m"
+        ]
+    ], 
+    "CRUNCH-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 21h 38m"
+        ]
+    ], 
+    "CRUNCH-435": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 22h 57m"
+        ]
+    ], 
+    "CRUNCH-434": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 3h 44m"
+        ]
+    ], 
+    "CRUNCH-432": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 16h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 9h 35m"
+        ]
+    ], 
+    "CRUNCH-220": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 14m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7m 53s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 12h 22m"
+        ]
+    ], 
+    "CRUNCH-221": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 19h 41m"
+        ]
+    ], 
+    "CRUNCH-536": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 8h 42m"
+        ]
+    ], 
+    "CRUNCH-535": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 15h 48m"
+        ]
+    ], 
+    "CRUNCH-338": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "132d 19h 48m"
+        ]
+    ], 
+    "CRUNCH-530": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 5h 28m"
+        ]
+    ], 
+    "CRUNCH-531": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 13h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 20h 28m"
+        ]
+    ], 
+    "CRUNCH-334": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 13h 20m"
+        ]
+    ], 
+    "CRUNCH-335": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "141d 22h 44m"
+        ]
+    ], 
+    "CRUNCH-138": [
+        [
+            "Open", 
+            "Resolved", 
+            "32m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 11h 27m"
+        ]
+    ], 
+    "CRUNCH-332": [
+        [
+            "Open", 
+            "Resolved", 
+            "24m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "146d 10h 57m"
+        ]
+    ], 
+    "CRUNCH-539": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 10h 7m"
+        ]
+    ], 
+    "CRUNCH-49": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "CRUNCH-228": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 23h 33m"
+        ]
+    ], 
+    "CRUNCH-45": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 1h 31m"
+        ]
+    ], 
+    "CRUNCH-44": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 10h 45m"
+        ]
+    ], 
+    "CRUNCH-47": [
+        [
+            "Open", 
+            "Resolved", 
+            "44m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 7h 27m"
+        ]
+    ], 
+    "CRUNCH-46": [
+        [
+            "Open", 
+            "Resolved", 
+            "59m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 8h 29m"
+        ]
+    ], 
+    "CRUNCH-552": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 2h 18m"
+        ]
+    ], 
+    "CRUNCH-43": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 10h 55m"
+        ]
+    ], 
+    "CRUNCH-408": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 1h 55m"
+        ]
+    ], 
+    "CRUNCH-102": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 12h 57m"
+        ]
+    ], 
+    "CRUNCH-23": [
+        [
+            "Open", 
+            "Closed", 
+            "35d 7h 53m"
+        ]
+    ], 
+    "CRUNCH-302": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 17h 40m"
+        ]
+    ], 
+    "CRUNCH-621": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 7h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 15h 57m"
+        ]
+    ], 
+    "CRUNCH-607": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 12h 27m"
+        ]
+    ], 
+    "CRUNCH-600": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 12h 27m"
+        ]
+    ], 
+    "CRUNCH-601": [
+        [
+            "Open", 
+            "Resolved", 
+            "135d 13h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "184d 12h 44m"
+        ]
+    ], 
+    "CRUNCH-234": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 21h 45m"
+        ]
+    ], 
+    "CRUNCH-237": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 15h 5m"
+        ]
+    ], 
+    "CRUNCH-236": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 20h 47m"
+        ]
+    ], 
+    "CRUNCH-608": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "289d 23h 17m"
+        ]
+    ], 
+    "CRUNCH-609": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 18h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "228d 5h 6m"
+        ]
+    ], 
+    "CRUNCH-233": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 23h 14m"
+        ]
+    ], 
+    "CRUNCH-232": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 14h 30m"
+        ]
+    ], 
+    "CRUNCH-525": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 9h 58m"
+        ]
+    ], 
+    "CRUNCH-524": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 9h 3m"
+        ]
+    ], 
+    "CRUNCH-527": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 9h 52m"
+        ]
+    ], 
+    "CRUNCH-449": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 15h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 7h 44m"
+        ]
+    ], 
+    "CRUNCH-688": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 29m"
+        ]
+    ], 
+    "CRUNCH-520": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 12h 1m"
+        ]
+    ], 
+    "CRUNCH-325": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "149d 11h 22m"
+        ]
+    ], 
+    "CRUNCH-324": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "149d 11h 20m"
+        ]
+    ], 
+    "CRUNCH-442": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 15h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 6h 46m"
+        ]
+    ], 
+    "CRUNCH-471": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "235d 21h 13m"
+        ]
+    ], 
+    "CRUNCH-329": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 19h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 4h 44m"
+        ]
+    ], 
+    "CRUNCH-139": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 14h 32m"
+        ]
+    ], 
+    "CRUNCH-528": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 20h 34m"
+        ]
+    ], 
+    "CRUNCH-350": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 22h 50m"
+        ]
+    ], 
+    "CRUNCH-445": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 10h 40m"
+        ]
+    ], 
+    "CRUNCH-262": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 18h 34m"
+        ]
+    ], 
+    "CRUNCH-485": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "128d 21h 40m"
+        ]
+    ], 
+    "CRUNCH-59": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 19h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 2h 16m"
+        ]
+    ], 
+    "CRUNCH-54": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 6h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 3h 31m"
+        ]
+    ], 
+    "CRUNCH-652": [
+        [
+            "Open", 
+            "Resolved", 
+            "73d 18h 34m"
+        ]
+    ], 
+    "CRUNCH-52": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 6h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 7h 32m"
+        ]
+    ], 
+    "CRUNCH-53": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 6h 54m"
+        ]
+    ], 
+    "CRUNCH-266": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 22h 55m"
+        ]
+    ], 
+    "CRUNCH-28": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 6h 58m"
+        ]
+    ], 
+    "CRUNCH-518": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 21h 20m"
+        ]
+    ], 
+    "CRUNCH-201": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 22h 50m"
+        ]
+    ], 
+    "CRUNCH-202": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 18h 38m"
+        ]
+    ], 
+    "CRUNCH-203": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 6h 20m"
+        ]
+    ], 
+    "CRUNCH-204": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 13h 3m"
+        ]
+    ], 
+    "CRUNCH-205": [
+        [
+            "Open", 
+            "Resolved", 
+            "73d 8h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 21h 45m"
+        ]
+    ], 
+    "CRUNCH-511": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 3h 40m"
+        ]
+    ], 
+    "CRUNCH-268": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 47m"
+        ]
+    ], 
+    "CRUNCH-513": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 5h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 16h 51m"
+        ]
+    ], 
+    "CRUNCH-514": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 1h 45m"
+        ]
+    ], 
+    "CRUNCH-152": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 22h 10m"
+        ]
+    ], 
+    "CRUNCH-516": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 19h 21m"
+        ]
+    ], 
+    "CRUNCH-517": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 21h 20m"
+        ]
+    ], 
+    "CRUNCH-459": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 22h 5m"
+        ]
+    ], 
+    "CRUNCH-458": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 15h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 7h 55m"
+        ]
+    ], 
+    "CRUNCH-354": [
+        [
+            "Open", 
+            "Resolved", 
+            "93d 19h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 29m"
+        ]
+    ], 
+    "CRUNCH-355": [
+        [
+            "Open", 
+            "Resolved", 
+            "94d 2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 11h 3m"
+        ]
+    ], 
+    "CRUNCH-125": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 19h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 10h 20m"
+        ]
+    ], 
+    "CRUNCH-353": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 17h 36m"
+        ]
+    ], 
+    "CRUNCH-127": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 7h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 9h 34m"
+        ]
+    ], 
+    "CRUNCH-451": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 56m"
+        ]
+    ], 
+    "CRUNCH-281": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 23h 15m"
+        ]
+    ], 
+    "CRUNCH-364": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 13h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "82d 10h 45m"
+        ]
+    ], 
+    "CRUNCH-452": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 54m"
+        ]
+    ], 
+    "CRUNCH-455": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 2h 9m"
+        ]
+    ], 
+    "CRUNCH-285": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 7h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 2h 11m"
+        ]
+    ], 
+    "CRUNCH-457": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 13h 58m"
+        ]
+    ], 
+    "CRUNCH-456": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 8h 36m"
+        ]
+    ], 
+    "CRUNCH-61": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 9h 18m"
+        ]
+    ], 
+    "CRUNCH-269": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 1h 24m"
+        ]
+    ], 
+    "CRUNCH-67": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 22h 28m"
+        ]
+    ], 
+    "CRUNCH-68": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 9h 18m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 12h 38m"
+        ]
+    ], 
+    "CRUNCH-388": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 12h 23m"
+        ]
+    ], 
+    "CRUNCH-421": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 8h 59m"
+        ]
+    ], 
+    "CRUNCH-137": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 11h 49m"
+        ]
+    ], 
+    "CRUNCH-217": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 23h 6m"
+        ]
+    ], 
+    "CRUNCH-88": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 12h 51m"
+        ]
+    ], 
+    "CRUNCH-214": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "CRUNCH-509": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 2h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 21h 10m"
+        ]
+    ], 
+    "CRUNCH-210": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 20h 36m"
+        ]
+    ], 
+    "CRUNCH-503": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 20h 5m"
+        ]
+    ], 
+    "CRUNCH-502": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 21h 8m"
+        ]
+    ], 
+    "CRUNCH-501": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "83d 1h 2m"
+        ]
+    ], 
+    "CRUNCH-500": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 4h 51m"
+        ]
+    ], 
+    "CRUNCH-114": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 12h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 22h 7m"
+        ]
+    ], 
+    "CRUNCH-344": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "124d 7h 31m"
+        ]
+    ], 
+    "CRUNCH-117": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "92d 9h 35m"
+        ]
+    ], 
+    "CRUNCH-341": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "217d 11h 14m"
+        ]
+    ], 
+    "CRUNCH-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 20h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "238d 2h 6m"
+        ]
+    ], 
+    "CRUNCH-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 4h 35m"
+        ]
+    ], 
+    "CRUNCH-465": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 31m"
+        ]
+    ], 
+    "CRUNCH-86": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 18m"
+        ]
+    ], 
+    "CRUNCH-349": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 5h 19m"
+        ]
+    ], 
+    "CRUNCH-461": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 6h 43m"
+        ]
+    ], 
+    "CRUNCH-463": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 3h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 6h 18m"
+        ]
+    ], 
+    "CRUNCH-198": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 4h"
+        ]
+    ], 
+    "CRUNCH-71": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 1h 39m"
+        ]
+    ], 
+    "CRUNCH-72": [
+        [
+            "Open", 
+            "Resolved", 
+            "12m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 54m"
+        ]
+    ], 
+    "CRUNCH-115": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 8h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 23h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "87d 14h 20m"
+        ]
+    ], 
+    "CRUNCH-196": [
+        [
+            "Open", 
+            "Resolved", 
+            "53m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 3h 36m"
+        ]
+    ], 
+    "CRUNCH-190": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 4h 23m"
+        ]
+    ], 
+    "AVRO-1240": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 10h 6m"
+        ]
+    ], 
+    "CRUNCH-192": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 9h 56m"
+        ]
+    ], 
+    "CRUNCH-193": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 5h 1m"
+        ]
+    ], 
+    "CRUNCH-590": [
+        [
+            "Open", 
+            "Resolved", 
+            "49m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "95d 8h 41m"
+        ]
+    ], 
+    "CRUNCH-592": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 48s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "87d 12h 9m"
+        ]
+    ], 
+    "CRUNCH-148": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 4h 54m"
+        ]
+    ], 
+    "CRUNCH-597": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 22h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 13h 2m"
+        ]
+    ], 
+    "CRUNCH-613": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 2h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 20h 3m"
+        ]
+    ], 
+    "CRUNCH-599": [
+        [
+            "Open", 
+            "Resolved", 
+            "138d 15h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32s"
+        ]
+    ], 
+    "CRUNCH-616": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 4h 54m"
+        ]
+    ], 
+    "CRUNCH-614": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 17h 45m"
+        ]
+    ], 
+    "CRUNCH-378": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 7h 23m"
+        ]
+    ], 
+    "CRUNCH-379": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 1h 27m"
+        ]
+    ], 
+    "CRUNCH-109": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 22m"
+        ]
+    ], 
+    "CRUNCH-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 2h 27m"
+        ]
+    ], 
+    "CRUNCH-103": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 22h 27m"
+        ]
+    ], 
+    "CRUNCH-93": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 13h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 13h 6m"
+        ]
+    ], 
+    "CRUNCH-90": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "14h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 4h 51m"
+        ]
+    ], 
+    "CRUNCH-373": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "78d 15h 30m"
+        ]
+    ], 
+    "CRUNCH-106": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 3h 25m"
+        ]
+    ], 
+    "CRUNCH-94": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 21h 21m"
+        ]
+    ], 
+    "CRUNCH-473": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "227d 15h 46m"
+        ]
+    ], 
+    "CRUNCH-263": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 19h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 1h 5m"
+        ]
+    ], 
+    "CRUNCH-260": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 8h 41m"
+        ]
+    ], 
+    "CRUNCH-477": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "208d 15h 24m"
+        ]
+    ], 
+    "CRUNCH-267": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 17h 15m"
+        ]
+    ], 
+    "CRUNCH-264": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 15h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 2h 23m"
+        ]
+    ], 
+    "CRUNCH-265": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 21h 20m"
+        ]
+    ], 
+    "CRUNCH-169": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 7h 18m"
+        ]
+    ], 
+    "CRUNCH-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 7h 18m"
+        ]
+    ], 
+    "CRUNCH-571": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 20h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 18h 37m"
+        ]
+    ], 
+    "CRUNCH-577": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "179d 4h 5m"
+        ]
+    ], 
+    "CRUNCH-183": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "37m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 17h 23m"
+        ]
+    ], 
+    "CRUNCH-180": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 16h 35m"
+        ]
+    ], 
+    "CRUNCH-185": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 14h 50m"
+        ]
+    ], 
+    "CRUNCH-292": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 21m"
+        ]
+    ], 
+    "CRUNCH-363": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 6h 33m"
+        ]
+    ], 
+    "CRUNCH-586": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 5h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 9h 29m"
+        ]
+    ], 
+    "CRUNCH-583": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 2h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "149d 14h 46m"
+        ]
+    ], 
+    "CRUNCH-209": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 21h 9m"
+        ]
+    ], 
+    "CRUNCH-398": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 21h 32m"
+        ]
+    ], 
+    "CRUNCH-661": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 50s"
+        ]
+    ], 
+    "CRUNCH-428": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "85d 15h 48m"
+        ]
+    ], 
+    "CRUNCH-580": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "149d 21h 43m"
+        ]
+    ], 
+    "CRUNCH-172": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 14h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 23h 44m"
+        ]
+    ], 
+    "CRUNCH-170": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 7h 58m"
+        ]
+    ], 
+    "CRUNCH-171": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 5h 55m"
+        ]
+    ], 
+    "CRUNCH-271": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 2h 56m"
+        ]
+    ], 
+    "CRUNCH-270": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 18h 28m"
+        ]
+    ], 
+    "CRUNCH-404": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 7m"
+        ]
+    ], 
+    "CRUNCH-275": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 14h 36m"
+        ]
+    ], 
+    "CRUNCH-274": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 14h 36m"
+        ]
+    ], 
+    "CRUNCH-401": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 1h 32m"
+        ]
+    ], 
+    "CRUNCH-561": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 20h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "193d 18h 52m"
+        ]
+    ], 
+    "CRUNCH-278": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 7h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 7h 41m"
+        ]
+    ], 
+    "CRUNCH-371": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 7h 28m"
+        ]
+    ], 
+    "CRUNCH-565": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 7h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 18h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "215d 9h"
+        ]
+    ], 
+    "CRUNCH-567": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "217d 13h 11m"
+        ]
+    ], 
+    "CRUNCH-223": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "CRUNCH-288": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 18h 22m"
+        ]
+    ], 
+    "CRUNCH-146": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 16h 3m"
+        ]
+    ], 
+    "CRUNCH-289": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 17h 12m"
+        ]
+    ], 
+    "CRUNCH-73": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 19h 34m"
+        ]
+    ], 
+    "CRUNCH-318": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 3h 16m"
+        ]
+    ], 
+    "CRUNCH-11": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 7h 52m"
+        ]
+    ], 
+    "CRUNCH-1": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 13h 14m"
+        ]
+    ], 
+    "CRUNCH-240": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 7m"
+        ]
+    ], 
+    "CRUNCH-671": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 16m"
+        ]
+    ], 
+    "CRUNCH-241": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 17h 30m"
+        ]
+    ], 
+    "CRUNCH-392": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 5h 54m"
+        ]
+    ], 
+    "CRUNCH-393": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 6h 4m"
+        ]
+    ], 
+    "CRUNCH-110": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 16h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "61d 14h 41m"
+        ]
+    ], 
+    "CRUNCH-391": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 12h 57m"
+        ]
+    ], 
+    "CRUNCH-396": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 23h 32m"
+        ]
+    ], 
+    "CRUNCH-397": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 23h 42m"
+        ]
+    ], 
+    "CRUNCH-394": [
+        [
+            "Open", 
+            "Resolved", 
+            "55m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 2h 42m"
+        ]
+    ], 
+    "CRUNCH-167": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 2h 38m"
+        ]
+    ], 
+    "CRUNCH-399": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 21h 27m"
+        ]
+    ], 
+    "CRUNCH-161": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 13h 34m"
+        ]
+    ], 
+    "CRUNCH-160": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 14h 44m"
+        ]
+    ], 
+    "CRUNCH-163": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 14h 40m"
+        ]
+    ], 
+    "CRUNCH-191": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 4h 43m"
+        ]
+    ], 
+    "CRUNCH-415": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "101d 23h 10m"
+        ]
+    ], 
+    "CRUNCH-245": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 6h 49m"
+        ]
+    ], 
+    "CRUNCH-417": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 15h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 1h 54m"
+        ]
+    ], 
+    "CRUNCH-247": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "93d 17h 32m"
+        ]
+    ], 
+    "CRUNCH-411": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 10h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 13h 2m"
+        ]
+    ], 
+    "CRUNCH-559": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "241d 15h 49m"
+        ]
+    ], 
+    "CRUNCH-242": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 17h 35m"
+        ]
+    ], 
+    "CRUNCH-312": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 2h 30m"
+        ]
+    ], 
+    "CRUNCH-313": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 2h 16m"
+        ]
+    ], 
+    "CRUNCH-556": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 16h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 6h 29m"
+        ]
+    ], 
+    "CRUNCH-419": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 20h 23m"
+        ]
+    ], 
+    "CRUNCH-551": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 2h 4m"
+        ]
+    ], 
+    "CRUNCH-314": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "180d 7h 31m"
+        ]
+    ], 
+    "CRUNCH-553": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 1h 30m"
+        ]
+    ], 
+    "CRUNCH-87": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 11h 35m"
+        ]
+    ], 
+    "CRUNCH-316": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 10h 4m"
+        ]
+    ], 
+    "CRUNCH-249": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 17h 44m"
+        ]
+    ], 
+    "CRUNCH-641": [
+        [
+            "Open", 
+            "In Progress", 
+            "26s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 23h 27m"
+        ]
+    ], 
+    "CRUNCH-622": [
+        [
+            "Open", 
+            "Resolved", 
+            "78d 23h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 22h 33m"
+        ]
+    ], 
+    "CRUNCH-358": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "113d 2h 7m"
+        ]
+    ], 
+    "CRUNCH-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "112d 16h 48m"
+        ]
+    ], 
+    "CRUNCH-486": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 23h 19m"
+        ]
+    ], 
+    "CRUNCH-121": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "86d 5h 36m"
+        ]
+    ], 
+    "CRUNCH-287": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 1h 26m"
+        ]
+    ], 
+    "CRUNCH-483": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 5h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 22h 19m"
+        ]
+    ], 
+    "CRUNCH-480": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "186d 23h 17m"
+        ]
+    ], 
+    "CRUNCH-481": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "59d 17h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10d 21h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 4h 12m"
+        ]
+    ], 
+    "CRUNCH-150": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 9h 39m"
+        ]
+    ], 
+    "CRUNCH-429": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 3h 45m"
+        ]
+    ], 
+    "CRUNCH-383": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 13h 23m"
+        ]
+    ], 
+    "CRUNCH-382": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 6h 45m"
+        ]
+    ], 
+    "CRUNCH-154": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 7h 43m"
+        ]
+    ], 
+    "CRUNCH-155": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 14h 4m"
+        ]
+    ], 
+    "CRUNCH-386": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 10h 32m"
+        ]
+    ], 
+    "CRUNCH-420": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "90d 22h 20m"
+        ]
+    ], 
+    "CRUNCH-159": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 49m"
+        ]
+    ], 
+    "CRUNCH-251": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "79d 17h 37m"
+        ]
+    ], 
+    "CRUNCH-250": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 15h 41m"
+        ]
+    ], 
+    "CRUNCH-425": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 10h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 4h 13m"
+        ]
+    ], 
+    "CRUNCH-426": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "87d 2h 30m"
+        ]
+    ], 
+    "CRUNCH-309": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 2h 27m"
+        ]
+    ], 
+    "CRUNCH-308": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 21h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 1h 30m"
+        ]
+    ], 
+    "CRUNCH-540": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 8h 44m"
+        ]
+    ], 
+    "CRUNCH-547": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 11h 4m"
+        ]
+    ], 
+    "CRUNCH-120": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 13h 42m"
+        ]
+    ], 
+    "CRUNCH-303": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 15h 41m"
+        ]
+    ], 
+    "CRUNCH-548": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 11h 35m"
+        ]
+    ], 
+    "CRUNCH-142": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3m 28s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 1h"
+        ]
+    ], 
+    "CRUNCH-304": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 1h 49m"
+        ]
+    ], 
+    "CRUNCH-38": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 9h 40m"
+        ]
+    ], 
+    "CRUNCH-39": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 7h 36m"
+        ]
+    ], 
+    "CRUNCH-256": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 1h 12m"
+        ]
+    ], 
+    "CRUNCH-301": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 23h 15m"
+        ]
+    ], 
+    "CRUNCH-568": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "213d 6h 23m"
+        ]
+    ], 
+    "CRUNCH-99": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 5h 52m"
+        ]
+    ], 
+    "CRUNCH-248": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "93d 2h 50m"
+        ]
+    ], 
+    "CRUNCH-238": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 14h 19m"
+        ]
+    ], 
+    "AVRO-1046": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55d 6h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 22h 48m"
+        ]
+    ], 
+    "CRUNCH-131": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 11h 40m"
+        ]
+    ], 
+    "CRUNCH-499": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "97d 2h 48m"
+        ]
+    ], 
+    "CRUNCH-498": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 25s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 4h 9m"
+        ]
+    ], 
+    "CRUNCH-495": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 18h 7m"
+        ]
+    ], 
+    "CRUNCH-494": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 17h 47m"
+        ]
+    ], 
+    "CRUNCH-492": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "110d 12h 45m"
+        ]
+    ], 
+    "CRUNCH-89": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 13h 12m"
+        ]
+    ], 
+    "CRUNCH-490": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "114d 22h 2m"
+        ]
+    ], 
+    "CRUNCH-493": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 1h 11m"
+        ]
+    ], 
+    "CRUNCH-403": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 35m"
+        ]
+    ]
+}

@@ -1,0 +1,4722 @@
+{
+    "ae4ce8e080941d9ff6de91982d70efa8d6413ee3": [
+        "RANGER-1012"
+    ], 
+    "5aa5657d49990b1a620d880e2c64c5125b2f1b4e": [
+        "RANGER-2020"
+    ], 
+    "fa19908a9bc6d2f80a26635d48012c87341b1f5d": [
+        "RANGER-472"
+    ], 
+    "d3c8b3a33d1441f0b2d354419e6126b8873c8e3a": [
+        "RANGER-654"
+    ], 
+    "d673e5940680a69e600b87f017d3d76ac39cd4e0": [
+        "RANGER-383"
+    ], 
+    "636ae2ad1fd0e32f0ac87e0281ab9859e09b4162": [
+        "RANGER-771"
+    ], 
+    "bba925d48e6381b40c34f3364aa34020a984e284": [
+        "RANGER-1905", 
+        "RANGER-1858"
+    ], 
+    "c934b7906d5aab2194dee5c7297f83fc116b5974": [
+        "RANGER-367"
+    ], 
+    "a4afbe9ac9067435aecbd7ac370c6b99c0b7593f": [
+        "RANGER-2396"
+    ], 
+    "3d3ea6f6c7759f47a794d25ef5cde3b9eb8d20d2": [
+        "RANGER-1385"
+    ], 
+    "258ddbf85d7fa76da84334de9e54702f8924c8dc": [
+        "RANGER-277"
+    ], 
+    "d60c4df2af863e38a4253ced8e510b36d5e606a1": [
+        "RANGER-700"
+    ], 
+    "fdb74d51f86cc5e464e1beefd910fa3fc73ec45d": [
+        "RANGER-1653"
+    ], 
+    "1fc84ff6bd864e908ee173aff37d5b0388de2110": [
+        "RANGER-960"
+    ], 
+    "b9007bfa646812481199290168557fa96e089a88": [
+        "RANGER-2068"
+    ], 
+    "cc74ff2e91898faec40c77fe24f83ad09802c298": [
+        "RANGER-337"
+    ], 
+    "50fb124e52235fd076b6bf6a68940ac9f5cb0ed5": [
+        "RANGER-1515"
+    ], 
+    "3989b67816807c254edeaccbbd1ba0b3f454fe83": [
+        "RANGER-1238"
+    ], 
+    "7c52a79a5d0b41bfc94caca9d531e0fefba2bfe7": [
+        "RANGER-2373"
+    ], 
+    "8f1625c26bc0dcd8970867c25b6be0b5afbbcb0f": [
+        "RANGER-2011"
+    ], 
+    "a4d1bed527007bcf0c95d9ec7b741cb058e9576c": [
+        "RANGER-2502"
+    ], 
+    "69204867d4bba0d7094ea5963971baf403af2fe4": [
+        "RANGER-1583"
+    ], 
+    "e8c4658a39407685c57966ab1566e8bac5411b5f": [
+        "RANGER-993"
+    ], 
+    "760c4a261b1cb7f6eaadfb1040e4a676a00f28a0": [
+        "RANGER-2292", 
+        "RANGER-2276"
+    ], 
+    "34d233ad00aeb37c5ede84552433c9c2c0e10264": [
+        "RANGER-2519"
+    ], 
+    "7e5e9704cb54b4a137de7886acd1324fa5f37910": [
+        "RANGER-1028"
+    ], 
+    "5580ca24d2b6bd76601571ab8f8e64bc40731c18": [
+        "RANGER-264"
+    ], 
+    "d3d03a10d6bf30857d50efdc6a6f8cc9fc829397": [
+        "RANGER-1241"
+    ], 
+    "41edc467584032e4c89f03aae86824ec28a7c154": [
+        "RANGER-2197"
+    ], 
+    "2b0281390e79310c2eafa4d483b67f044e76a591": [
+        "RANGER-982"
+    ], 
+    "d20c0a9fd45a5470300b7ccf1265122a59d907e8": [
+        "RANGER-920"
+    ], 
+    "990213ca4fbd484339c39f745db0ca3b5e2eaaa3": [
+        "RANGER-619"
+    ], 
+    "048f6a89d05c39ce3c8363dbd542d98124cce69e": [
+        "RANGER-1167"
+    ], 
+    "ca40e35c7aa499dd8e87514814b86bb2fe854d73": [
+        "RANGER-346"
+    ], 
+    "5b9c094ff501ec591f6334bcea10ce37a2163711": [
+        "RANGER-807"
+    ], 
+    "b3b773216ca7d0ccfec7b31ae2ca0b4de2f4d086": [
+        "RANGER-177"
+    ], 
+    "22d3ad0ef7482b087b9866a5ef6c8ec630d72125": [
+        "RANGER-681"
+    ], 
+    "82ef3daa0af15e254509302bb4e6b4efbc67e71c": [
+        "RANGER-2108"
+    ], 
+    "0492cd578a4c0d9e1b62a94ea6938422c0557120": [
+        "RANGER-1432"
+    ], 
+    "49af166e2a9427480c62d97d85810fc9119d4d7e": [
+        "RANGER-1290"
+    ], 
+    "0d5844ae8f4da7d91aa8d8d6524f154b293aee99": [
+        "RANGER-323"
+    ], 
+    "d7f73fe4243856c60f1260e72c2e1aec1f96f07a": [
+        "RANGER-1362"
+    ], 
+    "2f648372129ae7486fa562550099830b0c49f922": [
+        "RANGER-1034"
+    ], 
+    "6e02030caeb8212f84c1b9fb47f5b21d286277dd": [
+        "RANGER-1010"
+    ], 
+    "f29f4fcd26fb49b9a077e84bc177ab24fa12436f": [
+        "RANGER-609"
+    ], 
+    "a63bf0aaabd1be9094e0029bc0e50a7439733f9f": [
+        "RANGER-203"
+    ], 
+    "cbee002b8976b1631408ae25d12c4aaf54c01701": [
+        "RANGER-1132"
+    ], 
+    "5dc535e61185a305c74d567c83963752338e21f0": [
+        "RANGER-492"
+    ], 
+    "e6ae22fd29a4c7f343da78af5a852032fee92262": [
+        "RANGER-945"
+    ], 
+    "ad426c24c04e36ff6b7fc286501b4b737b317ad3": [
+        "RANGER-1991"
+    ], 
+    "c8f67ce7c9314867b6481ee10e82ed19b15f37e8": [
+        "RANGER-2041"
+    ], 
+    "8d39dfe99051968055f0f46a9275f59a276fc84a": [
+        "RANGER-1835"
+    ], 
+    "05248d513f43a164820339b87b82481e871abf56": [
+        "RANGER-1223"
+    ], 
+    "d37e39e34db920be0f8e83e5c9f2bc674ff86a49": [
+        "RANGER-616"
+    ], 
+    "31a65f48a7f67c351e16abc4e606b37bcadfaca7": [
+        "RANGER-596"
+    ], 
+    "a0b11d6217312dcf43effbb91792c3ef370572f4": [
+        "RANGER-1960"
+    ], 
+    "b744c8eb6659f319e3d25fa09f010ceb6a667452": [
+        "RANGER-975"
+    ], 
+    "b19fd5bf0e84a4d1b20837061922f78c67c77a2b": [
+        "RANGER-429"
+    ], 
+    "0336e2b2c7a0cadd99b2dcc2a1afa7fb3439f503": [
+        "RANGER-472"
+    ], 
+    "163a6d0a5346623226ea3e463d55c9d2e535d1f9": [
+        "RANGER-234"
+    ], 
+    "d24b9a15bdc53539cf4e481bfadd7cc42fa7d229": [
+        "RANGER-2282"
+    ], 
+    "dfc903bd7e20928607562d1f97a7ec13f90f41d2": [
+        "RANGER-1077"
+    ], 
+    "e6f96c09225a2e52353f5a338a9f020cbbdc865f": [
+        "RANGER-2070"
+    ], 
+    "72ebe7c248a8c2bbc319146885cfb7cc21d92c81": [
+        "RANGER-1257"
+    ], 
+    "13f01c82bf50300a48de3a5d0300e29a8bf969cb": [
+        "RANGER-1513"
+    ], 
+    "239cc55e11b5fc46761d6cde49a5c908938fb111": [
+        "RANGER-1320"
+    ], 
+    "eaba7530f3f5d3f02db20ec0f57fcc529656b3be": [
+        "RANGER-1414"
+    ], 
+    "fd9abc800bbac553434b7a2d911a277ed6b70119": [
+        "RANGER-1646"
+    ], 
+    "11a88bdc6317ee522d4173a0044d4f5738fe944d": [
+        "RANGER-2423"
+    ], 
+    "39b23e5a6cd6185c45853e43af72e6eb2f68f5cd": [
+        "RANGER-1239"
+    ], 
+    "88b1ae6c3da37800fb73fcf3b2220187d0d7b359": [
+        "RANGER-813"
+    ], 
+    "cab5b3da81d7fcfeda86dfaf9b63f936a45e3161": [
+        "RANGER-450"
+    ], 
+    "ee5a6ec1ac0acf0e1fa5dd6364cf48e924cf2935": [
+        "RANGER-1037"
+    ], 
+    "4da0f20ac782b629565fc14d5dc3d329a436181e": [
+        "RANGER-977"
+    ], 
+    "98e6b663156a67ce9ccba4b01a76d24a559eb885": [
+        "RANGER-2037"
+    ], 
+    "0adbd66a7a6f27d120641d481a452a2c036e35c0": [
+        "RANGER-2439"
+    ], 
+    "a31d901cc0cbc608550e1c99c60c1fb6e7d13388": [
+        "RANGER-561"
+    ], 
+    "95615f8eb7c6acd7c92c75527e8255d59143f68e": [
+        "RANGER-1631"
+    ], 
+    "10051777edf21c5ab7914c0670e23040d105dc4c": [
+        "RANGER-1883"
+    ], 
+    "1db9a55906b1ebb539c2a742aad0beab2c78c866": [
+        "RANGER-807"
+    ], 
+    "910aff0edf48b595a4e86b31d2edfda621d2f9ff": [
+        "RANGER-1428"
+    ], 
+    "23624c64f6ea7a8eec7aae72641ecd8ae96b38af": [
+        "RANGER-1767"
+    ], 
+    "c51d7900c185395c8b4a18220f7aaec66197d21b": [
+        "RANGER-1266"
+    ], 
+    "2c6554ca9df6576a21efb1bf3c7f0b05b1cd9dfc": [
+        "RANGER-914"
+    ], 
+    "1a553b4c85fbff00a32376e25d2f503644bd0621": [
+        "RANGER-2229"
+    ], 
+    "0092348e330c4ca407f250935dce905e94704979": [
+        "RANGER-2195"
+    ], 
+    "683f1e3a6ced7368891ddd58183e3be46f649004": [
+        "RANGER-1472"
+    ], 
+    "afe001bb7c734d10cca1f9189241f1bdecae7de1": [
+        "RANGER-482"
+    ], 
+    "dffbad4af43018438faf00b156acf593ab47839c": [
+        "RANGER-1618"
+    ], 
+    "ec754db0fe7ac788a9c9a439c5aa2ae66f32e021": [
+        "RANGER-2038"
+    ], 
+    "3c22cfa12b86e400bf8d6af4407010b9becd58fc": [
+        "RANGER-496"
+    ], 
+    "17f40be4d4a8203ed32cfa61a247550b56aec14a": [
+        "RANGER-1069"
+    ], 
+    "4a565dfbc6661ea74abd70aed4d02e5bbe50bcf6": [
+        "RANGER-1213"
+    ], 
+    "e551d589bcaf04324d5dcf53bbb83b06c8e572f5": [
+        "RANGER-203"
+    ], 
+    "018644b9451b2b57b949ac3aae3f14910f2c4fb7": [
+        "RANGER-760"
+    ], 
+    "2afe8af3697257485c61426832ad290ff9dcc206": [
+        "RANGER-1306"
+    ], 
+    "ab44b6508ecb1e9c286aedef59e3a9add23d6677": [
+        "RANGER-234"
+    ], 
+    "4e4bd02fd9f9c7a4c5873f04446e819e4f5353bd": [
+        "RANGER-1097"
+    ], 
+    "1ee7025fa6864089df22ccbabc4d860755623bf8": [
+        "RANGER-1267"
+    ], 
+    "9bc895321c3e74bde904e385539c5f0f0c18a288": [
+        "RANGER-622"
+    ], 
+    "b517a47f1d696b3ee6345203db7fb5415c35160c": [
+        "RANGER-2284"
+    ], 
+    "405c518531f63dd932791f9e5f0f6214aa7bd0a8": [
+        "RANGER-320"
+    ], 
+    "7c4ff133b6329c711ce2be093814f09a32d45f4f": [
+        "RANGER-203"
+    ], 
+    "fdd1d294c6b3c0e3cd8dd4219d034ad63210b380": [
+        "RANGER-1648"
+    ], 
+    "2fb94cc54e60e87d190f14f21f0d29f750894adf": [
+        "RANGER-1304"
+    ], 
+    "03d1dec3800c554b36fa897c0c679c3b352af617": [
+        "RANGER-302"
+    ], 
+    "d94aecff9374dfa4a93685c8d215b55af219b68d": [
+        "RANGER-789"
+    ], 
+    "e561bff4b52bf3bc2842ff755bbd35d31443e8a7": [
+        "RANGER-971"
+    ], 
+    "43841b7a546fd7857a24dea8dad3bdfe7c84a0fa": [
+        "RANGER-538"
+    ], 
+    "1ba7d49e7e852a2b7307460685ba22ba67469610": [
+        "RANGER-791"
+    ], 
+    "e474d3ed0c67692e3c7fde895d391592c9917af8": [
+        "RANGER-906"
+    ], 
+    "f895f2a5292a4cd46a5a8f0b69b71682bfe0c1d9": [
+        "RANGER-1279"
+    ], 
+    "df1d5f93c5e5abda6aacca4a11b45ff752a565ec": [
+        "RANGER-2455"
+    ], 
+    "f79bc59a0b4756ca5195a2ffb30759b4a82175ef": [
+        "RANGER-794"
+    ], 
+    "1befffcc1c18679cdf2c6413496b2078f6d2a838": [
+        "RANGER-1501"
+    ], 
+    "362a548efbcf3ca4ea9e60878440265f9c4aa305": [
+        "RANGER-1420"
+    ], 
+    "c928a415951ffa46986e26a99ba38e52f285ee0d": [
+        "RANGER-203"
+    ], 
+    "dd996d25bb976c9f723eab0b5f89907225f2c039": [
+        "RANGER-430"
+    ], 
+    "70efa6810d5880184578b54a205b62a1349f426b": [
+        "RANGER-2247", 
+        "RANGER-2247"
+    ], 
+    "3683ac0f7279c8c71bfadff3abb93bc8aa281fe5": [
+        "RANGER-521"
+    ], 
+    "a733b7c3312f7bf954a233acaaf50ebf85b93b1b": [
+        "RANGER-763"
+    ], 
+    "dff98de61397ce7b054e593cadaaf04eb0f9f415": [
+        "RANGER-2193"
+    ], 
+    "adae75020168b835e6b290cf1c9bd49a97e1dd5b": [
+        "RANGER-658"
+    ], 
+    "6101a41063e45e5aa2c77fff34fc699e36c2b3ba": [
+        "RANGER-2073"
+    ], 
+    "0b725f04460b5422277dd0e1b362a121665296fa": [
+        "RANGER-736"
+    ], 
+    "09b57de3b7d3e0365603f4bef8a8655463574913": [
+        "RANGER-1243"
+    ], 
+    "df11ae699f0a07754717b1867bc2b0b359cb4596": [
+        "RANGER-964"
+    ], 
+    "9c2f0d1fb722dfcc3155ee928f0ef2739a9cc79f": [
+        "RANGER-239"
+    ], 
+    "fda9a01d049cd6c4c2b8eb525514293e4b2dc785": [
+        "RANGER-1242"
+    ], 
+    "a826b1bbc7f3ef334ec1e087d354839dfb7cb3ac": [
+        "RANGER-494"
+    ], 
+    "0cff775ce18ca43e66c8eeea51995529f4d3ef31": [
+        "RANGER-425"
+    ], 
+    "f80cb1dd613a507927d7609cfa4fd391773d971d": [
+        "RANGER-560"
+    ], 
+    "286acf6d27be73a2993e5f8ff0b1347b13f11840": [
+        "RANGER-203"
+    ], 
+    "44246aec4388525e14f0730aa231521fe2f7d637": [
+        "RANGER-628"
+    ], 
+    "7e1c021bd039d450c4bcdf1056273eee46618cf7": [
+        "RANGER-1305"
+    ], 
+    "37c48a7d04cde78ac023799eaa1ced7ade0fa36d": [
+        "RANGER-2451"
+    ], 
+    "847e121f5e210638d292eee0cb9beef34a037927": [
+        "RANGER-1781"
+    ], 
+    "0688f5eb7378a120830571260bf483949ccd4a74": [
+        "RANGER-1880"
+    ], 
+    "665af618acf6d44d3b34f784a95e3c9e437eca68": [
+        "RANGER-203"
+    ], 
+    "5c5b47b6cbbeba92523d4c393519e8ffd688f0e9": [
+        "RANGER-1372"
+    ], 
+    "4a96827235d6c910a13ffc2587785c9c997ea58c": [
+        "RANGER-2028"
+    ], 
+    "f95d9ab6ffbef5fc27ec69d97d30a3ddbda119c9": [
+        "RANGER-2026"
+    ], 
+    "fd9c2852aebb785309825721e3deefdcf5e0d99d": [
+        "RANGER-2480"
+    ], 
+    "ae39d3eeb2b54d4aad228202b6cca9d3a5a768ca": [
+        "RANGER-344"
+    ], 
+    "483ea47f3700c124bd045b42ce8f68aa8cb4231d": [
+        "RANGER-672"
+    ], 
+    "f79737bb284fd0671a6ad05ccc4c1d16fd4e1603": [
+        "RANGER-1912"
+    ], 
+    "9a0330ccef16a7cf10435f4592fc5bda0798afe2": [
+        "RANGER-554"
+    ], 
+    "98cb80e3335e7c9588b9ad5b57667d3421fba4e6": [
+        "RANGER-1883"
+    ], 
+    "8aef120e72545f014a438a31c7c20c5398f3cf62": [
+        "RANGER-475"
+    ], 
+    "1e8dc41a82e2217a5c10a67c8f6bb58b6e06342e": [
+        "RANGER-203"
+    ], 
+    "3c9397154cc2de8682b6ae4cee90c1afedb37c0e": [
+        "RANGER-203"
+    ], 
+    "711c69c87d5315d9936b6a46fe390e2672891402": [
+        "RANGER-1126"
+    ], 
+    "be34cc2929e0cb4c4a43d5a2eece40683e61a62d": [
+        "RANGER-366"
+    ], 
+    "575fc1b43e232849a257e76c4d5597bf1e9be157": [
+        "RANGER-210"
+    ], 
+    "a98bc87f84be631ec11f561c2daeea3724136078": [
+        "RANGER-2352"
+    ], 
+    "9a4837dbf05c3678260480fbf8d811c391147e7c": [
+        "RANGER-788"
+    ], 
+    "a2e896da0989c90060e767338165b3ccf27f6c67": [
+        "RANGER-1795"
+    ], 
+    "af6b8c4f3d27b2a5adf37b509c036ab3ba63cb75": [
+        "RANGER-1965"
+    ], 
+    "b935426d1856abbe52cfa4a26af9a2110d273ccb": [
+        "RANGER-1152"
+    ], 
+    "4148631896dc6576ccc7e9d6eaaeca375c7ce3b8": [
+        "RANGER-1254"
+    ], 
+    "d36a04a84cff2bb10f1ea221fb731972cdedd38e": [
+        "RANGER-878"
+    ], 
+    "59c0e70c22fbac99da60cbaebb7c25030438740e": [
+        "RANGER-775"
+    ], 
+    "9693fb8dec06bb54b2f2e061f073ae608835004d": [
+        "RANGER-387"
+    ], 
+    "b7c425945bd5323e20ccb690bc7bccb1397727fa": [
+        "RANGER-1578"
+    ], 
+    "4bf8a3fae805e1175ba62588ea578abb4a9d9880": [
+        "RANGER-322"
+    ], 
+    "4dc8cc0b763779ee6a0f589285e7dd9d95391038": [
+        "RANGER-1353"
+    ], 
+    "05df8e782b538bf305789882d9819eb755766fc0": [
+        "RANGER-606"
+    ], 
+    "bf343a0dd9aaa4859035dfaa61fe0c5b005ff5b2": [
+        "RANGER-1206"
+    ], 
+    "62f86ef64c06219e81810946b0c97684d7beccfa": [
+        "RANGER-458"
+    ], 
+    "2d931dbe4520f43edc1bdcb867f8fd6f2b35392b": [
+        "RANGER-593"
+    ], 
+    "fcb2ad322bf4528dc085b57dac0b7d8bcf431728": [
+        "RANGER-1023"
+    ], 
+    "59b33c505a4393bd014f5c24639dac578f921d68": [
+        "RANGER-2556"
+    ], 
+    "06d0813563d118f69ba04a60396016007ac1d77e": [
+        "RANGER-2124"
+    ], 
+    "12aebc9e693777c655e6b350612a2567cb4b21a9": [
+        "RANGER-2196"
+    ], 
+    "1b4e78b0dcfad74b7fd2baea16364b7daf32159e": [
+        "RANGER-1737", 
+        "RANGER-1181"
+    ], 
+    "59417d3944d697a8a4c8f7e8382c7a5655e9e757": [
+        "RANGER-203"
+    ], 
+    "a3089d1f0bab90692cc7027ca5d7323ea7bca610": [
+        "RANGER-690"
+    ], 
+    "45f145093338a1604015ec53670de4384722c530": [
+        "RANGER-1264"
+    ], 
+    "734eff61d86243805e578e1fb3a2b7c52cc91acc": [
+        "RANGER-1613"
+    ], 
+    "24579e08490b5caf764608c258c3d1befe513017": [
+        "RANGER-2066"
+    ], 
+    "634e8d4e6a1f9d254d9831e0e2c2427b91232cb0": [
+        "RANGER-903"
+    ], 
+    "081af481923207ee93a3d4a7cc29901b4c972a44": [
+        "RANGER-2104"
+    ], 
+    "a15af08cab65ae631b1a853b6de8fa613925b1fa": [
+        "RANGER-1206"
+    ], 
+    "578b4ed2f0ce6cf53c7fe571c59a0d2e40525287": [
+        "RANGER-1136"
+    ], 
+    "59ba1acf106622a9fad271a7c2197d64a75d4487": [
+        "RANGER-1196"
+    ], 
+    "b2cebfd75f7c813651a37db76dc85a67e5e5536e": [
+        "RANGER-2548"
+    ], 
+    "017826011cc882d5a49cb27274e545eff269b676": [
+        "RANGER-940"
+    ], 
+    "c3d48e6660cd3f9aaf4b202472503fda81709275": [
+        "RANGER-1042"
+    ], 
+    "8c3504ca5c9f78d154f719fdc477a88fa3bd3ec6": [
+        "RANGER-493"
+    ], 
+    "d586d08e4329c0a41cbe27b1a5efbae0515651e6": [
+        "RANGER-773"
+    ], 
+    "f5c15d40b57adc68bed84f3dc89af8038c6bff19": [
+        "RANGER-1781"
+    ], 
+    "da7ae44a644063de12faa7676197b8aa9980a38a": [
+        "RANGER-1306"
+    ], 
+    "a15a0bd8157fba6b946ea701589f401dcd914475": [
+        "RANGER-1392"
+    ], 
+    "093ea3da796f3df488019e6eea66392fa5205cae": [
+        "RANGER-910"
+    ], 
+    "c3fbdae9faf4e53816e9cc7b965f8a5aa59cf1e6": [
+        "RANGER-1841"
+    ], 
+    "bca550210ce7c863d228e5fe3445cf1ab4da85d1": [
+        "RANGER-1511"
+    ], 
+    "8751791d8dae25f2dd6f2499e8f766c5763677db": [
+        "RANGER-1538"
+    ], 
+    "05a1a40175d6458509e715bb19fd219248e965e1": [
+        "RANGER-1678"
+    ], 
+    "7f451e62bbbe0e7e82e693eca7c0323e014e0ab1": [
+        "RANGER-805"
+    ], 
+    "63c7893aeb7edadd24b8076e7c2ed18e4cf1065f": [
+        "RANGER-380"
+    ], 
+    "38fea60b7e8ee213d11ec8f4e01d3d25b0b9c8a9": [
+        "RANGER-747"
+    ], 
+    "9db2667f2a57128d8c729b0f2a195d4d6eba1c75": [
+        "RANGER-2189"
+    ], 
+    "a350aa893d78d64e927bed55ee523e63063ccc50": [
+        "RANGER-632"
+    ], 
+    "2b2cb2daf710f1c6ff68f35e6fdef6b01495c7c2": [
+        "RANGER-2273"
+    ], 
+    "63952722220d2ffc6f55e6cebe23f09a7a5960f4": [
+        "RANGER-203"
+    ], 
+    "533f8dae644a833dd2d0df2eb7ea4d2c7f9f92f6": [
+        "RANGER-1960"
+    ], 
+    "f326e5efdcacd1a0506fe988fe6b980e614d4ff0": [
+        "RANGER-769"
+    ], 
+    "ded33518f3bfb153b10c770ffb82dc835c1fc18b": [
+        "RANGER-1984"
+    ], 
+    "22029847559b3881cdc3176b15e545e847ef6d7c": [
+        "RANGER-1261"
+    ], 
+    "d84e17f96ec040713989688fa7c5440c112201e5": [
+        "RANGER-654"
+    ], 
+    "88db7079500a6b07e5bc3e03970a2542c2364f1e": [
+        "RANGER-432"
+    ], 
+    "b05edbc8d568119bb709c65ed5007784dc716407": [
+        "RANGER-421"
+    ], 
+    "aa0159f41b8e079dab0a0a50ee47a042b22be4b8": [
+        "RANGER-1071"
+    ], 
+    "38141722ee791f8ae0006247af148ed0bfa7db0c": [
+        "RANGER-1852"
+    ], 
+    "84e90c132062baacf4de65a03bdb7372e479a4c1": [
+        "RANGER-1474"
+    ], 
+    "662878d2dcd1ff67642eeeceb108f38ff23036ee": [
+        "RANGER-2066"
+    ], 
+    "d1e2f3b7e14a803ad4d9f117cf8f483e51c25d55": [
+        "RANGER-584"
+    ], 
+    "4b9497b62fdd2b7f0bd2c57b0331fe815ae928b8": [
+        "RANGER-1246"
+    ], 
+    "d03332064db212dea8c54e108356432f9ce54feb": [
+        "RANGER-492"
+    ], 
+    "82400d2b60563bd143b3e795b636d8d401fc10a9": [
+        "RANGER-203"
+    ], 
+    "ae53958559129da24915f344f6c3cfa89284faaa": [
+        "RANGER-1095"
+    ], 
+    "121e577ee17c34d8ab7a7fa7a2518d2e8038f37b": [
+        "RANGER-203"
+    ], 
+    "7581932cb42ecb908925f4dfc844cb190ad504cd": [
+        "RANGER-2405"
+    ], 
+    "c89b555919126bb5501bfc1a80cd6813ca41c9d8": [
+        "RANGER-1369"
+    ], 
+    "83b6a0a0399fa3d6f51fb6e8eb6b19467904213b": [
+        "RANGER-451"
+    ], 
+    "9fec38f6b77648268c5473aada56c2c1a2c7d08a": [
+        "RANGER-2516"
+    ], 
+    "91dfeb7d322f56549a5f311ef311a1a3b0cb34da": [
+        "RANGER-2419"
+    ], 
+    "c19ec875742665ab96577f5a27ebac2da036d3bc": [
+        "RANGER-1308"
+    ], 
+    "5d2f72376ffec2572d2114515ffa7d7f1e096a36": [
+        "RANGER-1469"
+    ], 
+    "f01ac18f3386db9725debfb293d972691a88d18b": [
+        "RANGER-471"
+    ], 
+    "ab4683eb1fa325494b36b516ef2d80a2962f4548": [
+        "RANGER-506"
+    ], 
+    "cde99034f656a102d21d507002406a9804b2cd99": [
+        "RANGER-2500"
+    ], 
+    "774ecf6588ae92cb1c6edde9d1eaf392d2892811": [
+        "RANGER-1150"
+    ], 
+    "e20e7f4cacf8830aa6a87c6af366cde75944a6d6": [
+        "RANGER-2252"
+    ], 
+    "79947f10a29c3e01d009c956cfd8a9c6bce7af0b": [
+        "RANGER-907"
+    ], 
+    "a5c6adb025a8c741774ca893a995edd3d7beca25": [
+        "RANGER-2350"
+    ], 
+    "376b0ea65919176dcdc194da5f9559a66f80bd8c": [
+        "RANGER-429"
+    ], 
+    "f61786d5f945c84772a607e10ee5b0caf989c0c4": [
+        "RANGER-424"
+    ], 
+    "4970af966b1b29db729002f4e8130595be4c28db": [
+        "RANGER-2028"
+    ], 
+    "d7c0b7a43e1fb1caaaa372495ba8b16a27243197": [
+        "RANGER-1605"
+    ], 
+    "e11500050d32845441c96adee45d4289624dbf85": [
+        "RANGER-995"
+    ], 
+    "2dae7b0f6edd50c07546b5d1eee87044f02d6b7c": [
+        "RANGER-2220"
+    ], 
+    "dec65f164f06c04947c1823f91da7482f9a8067e": [
+        "RANGER-1931"
+    ], 
+    "3aa94596be73371a64f190ef6e01ab93d6ef8e78": [
+        "RANGER-2186"
+    ], 
+    "35e9c10e53fd9d7fbef554a1c6fedfe84d36c736": [
+        "RANGER-1096"
+    ], 
+    "e2f8b6be57f76661c76737f866dbb36d0392e63a": [
+        "RANGER-1418"
+    ], 
+    "34d68b61bb8781a10df96ff0eb1dbe74b65a7f43": [
+        "RANGER-641"
+    ], 
+    "e8afb9faad81e7042877aa528635848a0043cb0c": [
+        "RANGER-1897"
+    ], 
+    "5a18b906b701054d8cbb0acbd5d55af27a0573fc": [
+        "RANGER-1123"
+    ], 
+    "febe19357cdf4957e4da2007e244d12e5dc8b3f1": [
+        "RANGER-717"
+    ], 
+    "0d38f0f2c37fef8fb293c37899dfd377afe7688e": [
+        "RANGER-533"
+    ], 
+    "2abe4db53c0f6be6a49d50a133eb611a116c6dcd": [
+        "RANGER-449"
+    ], 
+    "50d7d0cc3a33b8d1b89c8ba854e424fc8f86a0a8": [
+        "RANGER-2434"
+    ], 
+    "a9fb73f420b8a3af9938f8d5f49d43ed4e1d6eb0": [
+        "RANGER-1386"
+    ], 
+    "5df9aa6457776e411525fe83d269455be7861ab6": [
+        "RANGER-358"
+    ], 
+    "bd35ca49ce8b37d24203f7fc47e0c9421836807d": [
+        "RANGER-632"
+    ], 
+    "84382d38779b40b1e30e0dde6fe0559d2e975c99": [
+        "RANGER-203"
+    ], 
+    "c366a0ae5ec0598215ecb2bbaf7a465f606cdd76": [
+        "RANGER-1004"
+    ], 
+    "2ec3b646e1cccf9b707f26344b5eb19ffee4bd61": [
+        "RANGER-1798"
+    ], 
+    "2e486daa43bc219b430ccf73463d5fd65d3a0c79": [
+        "RANGER-203"
+    ], 
+    "ee20663d43468fa7fcc00315dfcfa25fa272404a": [
+        "RANGER-2137"
+    ], 
+    "73283c991a4ffdf72615ee18845df3fe0437fd6e": [
+        "RANGER-2421"
+    ], 
+    "5026f1952dbf2e69cf3c21249318f824ec9fdfe8": [
+        "RANGER-624"
+    ], 
+    "b8bc69a92d577a503ed4c3ba08a3d64c643d98c3": [
+        "RANGER-1589"
+    ], 
+    "254ebf1569de4ef4792033d21c321e93592ebd14": [
+        "RANGER-1361"
+    ], 
+    "2c71271223176413f95a9adb82ee72ea82f83881": [
+        "RANGER-2412"
+    ], 
+    "fe81cd7343ebf88d8091c515c76ac2e53955688d": [
+        "RANGER-725"
+    ], 
+    "a0d63e7518f7b6ab2f02ea416b1433ba80cf193b": [
+        "RANGER-882"
+    ], 
+    "992f00bb35daa4b52298fa99ff3703192499b816": [
+        "RANGER-1035"
+    ], 
+    "2b9f76e818e404ae824b40479f6c3cb84d870a92": [
+        "RANGER-2041"
+    ], 
+    "5e7b555cd44e48f76c4b9939a3504459b9ab9523": [
+        "RANGER-1255"
+    ], 
+    "3106b1122b816c0cc458f0ff14957fc6f1b541da": [
+        "RANGER-203"
+    ], 
+    "428ce978fb04e9679ea7f52312347c762a5b1a9d": [
+        "RANGER-892"
+    ], 
+    "5ac45ecc0c7a2dbfe0630441795a0bdaab5ec8b3": [
+        "RANGER-474"
+    ], 
+    "f1fb6315f0d4cbc1c32b93d7951fb99ea376c73a": [
+        "RANGER-1781"
+    ], 
+    "3c8b40fcf317235bc5597b4d6ffe535c7a5baa34": [
+        "RANGER-1107"
+    ], 
+    "104d1b897e33159f1019a1691bbca6b063332a5d": [
+        "RANGER-534"
+    ], 
+    "5fe203f59330f66cd14fa916b9c1a6ebdb9b854d": [
+        "RANGER-1209"
+    ], 
+    "2bd65f7bc9fa5eff9cc33d17c1218571ca756cf6": [
+        "RANGER-973"
+    ], 
+    "a97f0947e192ea67cba64a9ae4be18f6375b2dc3": [
+        "RANGER-2313"
+    ], 
+    "afd54d6b88f4a34db1e63ca47caf28f48b9e8c77": [
+        "RANGER-2400"
+    ], 
+    "00ab2a51ae62fbc0b63c6767835ac6121fd29b79": [
+        "RANGER-2074"
+    ], 
+    "2e06919844f59904bcde423e02c59b66217dec6f": [
+        "RANGER-1803"
+    ], 
+    "804753ed2cfb15d87d1c46b2d180e03001547f74": [
+        "RANGER-1207"
+    ], 
+    "b3e4fdb3aa450cbdb93c0f8246bc09ce6d5f4802": [
+        "RANGER-1666"
+    ], 
+    "cc7277118362a26c5300549fc1c5bf2d22719ca4": [
+        "RANGER-1121"
+    ], 
+    "321d029d2679d555f23061e10e48ad02b2951ae5": [
+        "RANGER-814"
+    ], 
+    "2242c44183f2ecb1a631db9d7b483119d59e7c3c": [
+        "RANGER-203"
+    ], 
+    "2109fe04db224ae91cd9aa98c66cef0af4116d63": [
+        "RANGER-2008"
+    ], 
+    "8762a8c795d09210fd7293cebf71603bffe644ec": [
+        "RANGER-1090"
+    ], 
+    "18595792f3b47b69eee652cb1136426dd3b9b113": [
+        "RANGER-494"
+    ], 
+    "d283d6cca8917bc7f7ed6b1729a6d8fe531601c3": [
+        "RANGER-552"
+    ], 
+    "b041df1ddade3d3a78fe86513258d617a42e7f10": [
+        "RANGER-2108"
+    ], 
+    "ad3a3a7829441282beb4dbf92ea50318f0c8b270": [
+        "RANGER-1105"
+    ], 
+    "9cf48048de206258c6cde3bf793694b585b00057": [
+        "RANGER-353"
+    ], 
+    "96560fd86543ffd2fe97531eb862b3c66cf0736a": [
+        "RANGER-2560"
+    ], 
+    "8335bdeacc0fcda9aabff8eb4cee14b2e682c9f5": [
+        "RANGER-313"
+    ], 
+    "fa59f97bc30584e015b52473d15ade903563b26c": [
+        "RANGER-1135"
+    ], 
+    "ea89bb5f4aa5e8a92c7e2bfb04d694195c78f42d": [
+        "RANGER-203"
+    ], 
+    "cd9d1a49105d42eeb3a7aa65205b6f1d3018a180": [
+        "RANGER-1553"
+    ], 
+    "6ef3d5415aa1fd9810638738936753cff79f5390": [
+        "RANGER-2297"
+    ], 
+    "cf69754ad3018bcea1846b1bfb0a05d05b3d557a": [
+        "RANGER-2054"
+    ], 
+    "9b1fa33ce0326fb19e8641f0a3b105c8b714f8b5": [
+        "RANGER-882"
+    ], 
+    "cbfbf7f04d3644dd730af2a76707cdd7ef853c14": [
+        "RANGER-318"
+    ], 
+    "ce1808afe7e904b0d3f3da9fea762e5102f178e7": [
+        "RANGER-203"
+    ], 
+    "1893a36d64a78e3d18cf74e74bf6a88649d15515": [
+        "RANGER-2499"
+    ], 
+    "88d2ebe29e262823441a440d93375e154b1812f5": [
+        "RANGER-472"
+    ], 
+    "3caa698f3c6957ec5fe65b6e5bb0b59dc757dc34": [
+        "RANGER-1124"
+    ], 
+    "a1706e83da238f23b036fdb95265bc68298ff9a8": [
+        "RANGER-549"
+    ], 
+    "7968836177a4ba1ba872fbb16518bed03e805193": [
+        "RANGER-1962"
+    ], 
+    "ff347709cfc04f1d90f1744fec89762d736698f7": [
+        "RANGER-238"
+    ], 
+    "4e121ea0da3f846d65abc8d1c79396f32de28406": [
+        "RANGER-203"
+    ], 
+    "e6a36dbf8a98c1601e56865608292f4523811eab": [
+        "RANGER-2453"
+    ], 
+    "de598fadac7626f72649c4d60aef1f031cffb7bb": [
+        "RANGER-389"
+    ], 
+    "7c401b3e305c3ec7de47105a2980a9152ae04ce4": [
+        "RANGER-1714"
+    ], 
+    "b9cdb0bd540f4e092720026ca92ce934cc13f90d": [
+        "RANGER-1717"
+    ], 
+    "62689c3c80b7143309fa3de48202060926ac6025": [
+        "RANGER-1275"
+    ], 
+    "009cef8ab75f724eaf0282529e4e1975d65234e6": [
+        "RANGER-2116"
+    ], 
+    "d87ecce141f5f4d36b8490d017ead1c9a4b4aa81": [
+        "RANGER-1124"
+    ], 
+    "5c4b59af7e5f7ea9382d18566ff2835235f63375": [
+        "RANGER-230"
+    ], 
+    "550cefcb6c7cd9009c123f8052cf6cc45ee6350b": [
+        "RANGER-1870"
+    ], 
+    "fa435a922ff03fc19d8416f0b304999b5b1b9806": [
+        "RANGER-744"
+    ], 
+    "ed6488361660aecbba1d006f26218e5193995f8f": [
+        "RANGER-1342"
+    ], 
+    "b056c4b77017c64b55d4083b332d464dbdd46825": [
+        "RANGER-957"
+    ], 
+    "e00e11eb7afb90bfa5d86c55d30efade2a8b99a3": [
+        "RANGER-2533"
+    ], 
+    "36a6b961d9ceb066ba67a193404bd402fe102110": [
+        "RANGER-439"
+    ], 
+    "6905ade8edae49e88a3a13cfe3bd53badc765ae9": [
+        "RANGER-1312"
+    ], 
+    "4937bfea8f5a4579deeafde8ae51d7134a27622c": [
+        "RANGER-1074"
+    ], 
+    "4b4790abe921d7cd18532183afaec200208f8e8a": [
+        "RANGER-1045"
+    ], 
+    "ef0f20d242545c0eb6bb772479bbbde59c7df9dd": [
+        "RANGER-388"
+    ], 
+    "0e076ddc7e011bd0f248ebbf15a3860f8ea3390f": [
+        "RANGER-482"
+    ], 
+    "9ea1d4ad74b1ac7ffc0530aefadf87ffb4f33ec2": [
+        "RANGER-807"
+    ], 
+    "bf3f095429b0027213c6e10dd6a32d94608623d3": [
+        "RANGER-1155"
+    ], 
+    "a93ac46d69b5b5a1eed6a73d1616bac2c1c3a3d6": [
+        "RANGER-390"
+    ], 
+    "03df41fb21f8fe95d9ebaa3604408e2f4432e27b": [
+        "RANGER-1679"
+    ], 
+    "6784a66e2b0e03482e0fca272c3465822811db04": [
+        "RANGER-618"
+    ], 
+    "513477d06d3dc2d4ac38eedfca83f58b6b8f28a7": [
+        "RANGER-1739"
+    ], 
+    "f0cb6223d5111ac27c717d69e4cd2ef21db09f70": [
+        "RANGER-1756"
+    ], 
+    "f88382b6f11f4317fcf5cba77025f14e1f647231": [
+        "RANGER-346"
+    ], 
+    "454be055e496921c7384ada2cb1d00120c83bc48": [
+        "RANGER-1856"
+    ], 
+    "de019a805622b5013a68949a1167dd67c2d90cbe": [
+        "RANGER-527"
+    ], 
+    "d0c8e4fc88886779a3cf93f951364cc6df785868": [
+        "RANGER-758"
+    ], 
+    "a01cce386a83b6f5f8384b94296c51a45b555536": [
+        "RANGER-1000"
+    ], 
+    "358540dcfbaa78da2cae1c41e81fde983e91e510": [
+        "RANGER-2045"
+    ], 
+    "4096838b60be4190ee9223369f6b27d93eb1190d": [
+        "RANGER-2404"
+    ], 
+    "96b0c48602d777e7f1aacc6b7253fed874811b1a": [
+        "RANGER-1695"
+    ], 
+    "f04b3e4e6629dd468765633d8e5f2dcb5008ef6a": [
+        "RANGER-2526"
+    ], 
+    "8aa98a37587b76188e49693433a1131e21594b89": [
+        "RANGER-964"
+    ], 
+    "5a50f5fb03581fa99577076c60ae9edadc9ef476": [
+        "RANGER-203"
+    ], 
+    "b383385fe32e1b7da32bc04ad1d47dd4907a3b38": [
+        "RANGER-1750"
+    ], 
+    "238374e2a9b8335cd94fa8824c87b465b089c933": [
+        "RANGER-1790"
+    ], 
+    "e3b0ce2d9760f9f85cddaea6adb1db4fb2abdaeb": [
+        "RANGER-1325"
+    ], 
+    "adea501cdade780bf78360c65904fa0ce8104acb": [
+        "RANGER-1975"
+    ], 
+    "4d9eca77698db58097b5266f71535a854d1b9bda": [
+        "RANGER-1334"
+    ], 
+    "7381bc4e971bf4383669584415143dccb6b0a918": [
+        "RANGER-265"
+    ], 
+    "785fe3d4c7e2de2350693b0c170b91df48071fc7": [
+        "RANGER-209"
+    ], 
+    "d4cf1226427e8c49e63a751f4fe8bada565f64d1": [
+        "RANGER-1676"
+    ], 
+    "7ed35a9b0cbf589ff9964c0c2670907c58a98caf": [
+        "RANGER-489"
+    ], 
+    "53fb16a60aeb9557d56d76003831e9e442351244": [
+        "RANGER-1170"
+    ], 
+    "7bc2f89e25b656ca9e80d41d6f4cb1531350f502": [
+        "RANGER-1099"
+    ], 
+    "149c51662037b45472281bf166b2cb19a5d1262a": [
+        "RANGER-1456"
+    ], 
+    "de68fbdcee485dacbfa9a7f6841388cc475502d1": [
+        "RANGER-1307"
+    ], 
+    "a7163cb91dbf459c4e88025415ebab82a4a10f8b": [
+        "RANGER-1864"
+    ], 
+    "9fea06dbb70adc2a0c33d5ab3b019064f571a141": [
+        "RANGER-1317"
+    ], 
+    "84513334719958539fbddfbd12e3c95e4804a1fb": [
+        "RANGER-2107"
+    ], 
+    "b1bfbc572cd2a2974403abb7c023b5390c21f55d": [
+        "RANGER-339"
+    ], 
+    "db3f7ceb5f2be9f2d788c868ae4d61664795d9fb": [
+        "RANGER-849"
+    ], 
+    "72d61a87ed746d0e67cfdc3324faf7f5c5f7be45": [
+        "RANGER-991"
+    ], 
+    "c324ece1144b90cff6e43bf9e2c40fcb07888e0a": [
+        "RANGER-1544"
+    ], 
+    "2f77beafaa0bffe1e6bfc6e6597f1fff7b569e4d": [
+        "RANGER-1274"
+    ], 
+    "bf9876c3a4b837cbda02bfdd83a3ef97fca77315": [
+        "RANGER-2080"
+    ], 
+    "210e236065547ae64c47ac61f47aa27b0e2752e0": [
+        "RANGER-279"
+    ], 
+    "ce43b3978adef90fba382f81f809fe2a6780848b": [
+        "RANGER-489"
+    ], 
+    "d8e8890ba228a21ea046c70bb4e2ee4c7e6f07b9": [
+        "RANGER-1124"
+    ], 
+    "2a1406df8125b96b3051616cb61ba01fc96f93c3": [
+        "RANGER-1781"
+    ], 
+    "b6d45a261810b3ddbf3bca5bb68110a86dd5060c": [
+        "RANGER-2042"
+    ], 
+    "7a87f4d6c28149f4e306ddbf04c506e2a33405c7": [
+        "RANGER-203"
+    ], 
+    "60877671289426847a5f54a0ae3877c4f420c75a": [
+        "RANGER-981"
+    ], 
+    "0b7bc92bcdac82559f9a4981ab4e4aed915e9eff": [
+        "RANGER-410"
+    ], 
+    "fbaa4537c6fb75b500c4917c76358cbd0cdf3877": [
+        "RANGER-2087"
+    ], 
+    "050000ceccb616ab5dff109283a1f7c4d42bb878": [
+        "RANGER-2400"
+    ], 
+    "bdf0b61c0f6e109c2f4e0459676dda71f0265aeb": [
+        "RANGER-1484"
+    ], 
+    "89002025e57cf235cbf4c248eb7e468dad9378fb": [
+        "RANGER-545"
+    ], 
+    "3634faa1253bbb3298e61630defbaf76d032dff6": [
+        "RANGER-821"
+    ], 
+    "74ec5f38adba600cc79b34880d725e8b0430b31b": [
+        "RANGER-1341"
+    ], 
+    "0ee29405da6e86b2683185ed68861a8f9e626ff0": [
+        "RANGER-400"
+    ], 
+    "ff4e2e7b6847679388a13ddd8396e191e0106f18": [
+        "RANGER-1162"
+    ], 
+    "3b964a345be4838dfbfb273f1973e0b129da8ca9": [
+        "RANGER-1482"
+    ], 
+    "9b791db6d05d521fcd89cec67fe90f5e01fa7aa5": [
+        "RANGER-1023"
+    ], 
+    "8f77aec59ce71bcbfbcc574815749f9f6f21f908": [
+        "RANGER-1036"
+    ], 
+    "5357e9e5eee651cf2b464b421ec5272e959f0c86": [
+        "RANGER-1278"
+    ], 
+    "016f0f6fd4132a4843f69354b6a4d413ff9c289e": [
+        "RANGER-530"
+    ], 
+    "11bcd728ef103a1dd34a6d3f2b386bbaaa9ba550": [
+        "RANGER-1658"
+    ], 
+    "e488e8df57e44ece1a672218eba91223d63b0f87": [
+        "RANGER-1026"
+    ], 
+    "81c2588c0e3c84616c24f21c68269d7b928fca0e": [
+        "RANGER-834"
+    ], 
+    "aa474e74db3354d78b845e2090300ab0f8780ce8": [
+        "RANGER-1184"
+    ], 
+    "74905128f0ed9c7dd16c4f9bf353b624a343fc46": [
+        "RANGER-1375"
+    ], 
+    "e73fe78462e2129018ef4e8cecd8d5dff36f7a03": [
+        "RANGER-558"
+    ], 
+    "9b35976172498ae55787c05bd9d25c0f48137813": [
+        "RANGER-277"
+    ], 
+    "acfccc4a84fc72596fe258464260c1a0653cd6d3": [
+        "RANGER-344"
+    ], 
+    "580f2c7fe7ff697833449886d6ada170bf70829f": [
+        "RANGER-203"
+    ], 
+    "07ab4e8f24406b46fb7a1d738c21487c2053ac79": [
+        "RANGER-574"
+    ], 
+    "d21e6bb47edd8d7c6bda014a2899099c501c7585": [
+        "RANGER-993"
+    ], 
+    "cb58449b6b61d65b722f03da6bf9b65a1f5c6fbc": [
+        "RANGER-901"
+    ], 
+    "84b28e9a7137db73a029fd9164d5dffb32cb5d3b": [
+        "RANGER-1367"
+    ], 
+    "60ec3378913308825f428f73f3b56db5e363d2fd": [
+        "RANGER-396"
+    ], 
+    "5f29db871e6536dc790f9717664b01bd55898974": [
+        "RANGER-234"
+    ], 
+    "55e6d4e1398f27d897795a174a332d6e18642b08": [
+        "RANGER-1638"
+    ], 
+    "c59ea527f5f878dae128c095d737d53a8fbd4ff4": [
+        "RANGER-1008"
+    ], 
+    "415ed4399f131a02e7141ec347fe653b7db59902": [
+        "RANGER-926"
+    ], 
+    "2ce6ce390f527b8c189a91dfc5bb8ffb3ea95319": [
+        "RANGER-2182"
+    ], 
+    "034e9de4b41ba44fb03248bbad08339e9b74c69e": [
+        "RANGER-638"
+    ], 
+    "2a46f3cb9c339bee4a949077a067f14c19631910": [
+        "RANGER-2259"
+    ], 
+    "c4b9499a95791ef20725d6724e54cfaeb665889b": [
+        "RANGER-623"
+    ], 
+    "8ab766846538ddcb3dd56dc11c174c6a8e3ad83c": [
+        "RANGER-1861"
+    ], 
+    "ac24f705fb7d1902c8f8553ed98b988ac59678ec": [
+        "RANGER-1481"
+    ], 
+    "4b2fd94fbce6d3a5d54a537430d0a1fda9a95741": [
+        "RANGER-677"
+    ], 
+    "7c161433bd1cc9dc39149e44abdfb70ef18555d7": [
+        "RANGER-295"
+    ], 
+    "4c1e80e6bb4262a4e11dbf5dfe9b9aad00fabc14": [
+        "RANGER-1862"
+    ], 
+    "14d20f88ad012ed5054dc81583be7419b553688c": [
+        "RANGER-2234"
+    ], 
+    "13a1e7f7123d8316ddc6a61ecaed8214e2e8fd8c": [
+        "RANGER-2242"
+    ], 
+    "00ffa900695c842f95a5e9366768f670b041bde4": [
+        "RANGER-2316"
+    ], 
+    "284ca416a60533139889a0c3f68f20ae12fdd3cc": [
+        "RANGER-1440"
+    ], 
+    "5fec40fe64e16142b17cc1d9bac24f626919d053": [
+        "RANGER-751"
+    ], 
+    "b08baf923d1f24434f79edeccc68de2103340275": [
+        "RANGER-1545"
+    ], 
+    "9cf43fedab0b0c7cd137f212c345d0c01da0c5e3": [
+        "RANGER-2513"
+    ], 
+    "e0a010f5c859a52be452f92244c67ac045bdfbdf": [
+        "RANGER-1736"
+    ], 
+    "79bd7e3c8dd5903c5ed2089416cb33ef4d566cf7": [
+        "RANGER-594"
+    ], 
+    "8928c2e59ffc7881cea588c66188d7e9a88243d3": [
+        "RANGER-203"
+    ], 
+    "3122d55e223838efe126c71e887c591fdccdd5a4": [
+        "RANGER-1073"
+    ], 
+    "c462d0ea9e65c19c5fc38d9d7dd10ed251f51412": [
+        "RANGER-714"
+    ], 
+    "73b22d3eba0b150907349ecfed39136f1d4bf772": [
+        "RANGER-453"
+    ], 
+    "cb2dc314688eb2d88526bb627d84c91508ee95f3": [
+        "RANGER-353"
+    ], 
+    "cd2e73030f5749330f1b432dd63d3d8dc6d55cbc": [
+        "RANGER-1125"
+    ], 
+    "e0d2402468d782553745d2b781cc10de26fcb7d6": [
+        "RANGER-1185"
+    ], 
+    "3b3e56f27c0f411bfbc36ed493ca4d018a6820c7": [
+        "RANGER-2248"
+    ], 
+    "d5fee7873a15c914dc705e10dfe5ff03dca91b81": [
+        "RANGER-1319"
+    ], 
+    "5e565cdde09febdd86dc30de44ccf3607cb1db17": [
+        "RANGER-1092"
+    ], 
+    "326b8a0bfb1cf243d8dd89ce2471db71dc1a37c0": [
+        "RANGER-188"
+    ], 
+    "559c6f4826c251e5984a694c1c622975465be669": [
+        "RANGER-1053"
+    ], 
+    "217e18924017500a0871b2a7cb47d2095960b8cf": [
+        "RANGER-203"
+    ], 
+    "2626e5ccf03860de96b25b428eb4e64a4447cb8c": [
+        "RANGER-1996"
+    ], 
+    "4a87c298362da5bf3265103a37bb25eec6166b85": [
+        "RANGER-1599"
+    ], 
+    "87428c93c69abf834b9d0814210a9493e5390c1f": [
+        "RANGER-1898"
+    ], 
+    "fec84603f5139daea8730a4281400c2c426a234e": [
+        "RANGER-796", 
+        "RANGER-794"
+    ], 
+    "abfdb0893f3cd50ced6941d059c08fb82380f598": [
+        "RANGER-2449"
+    ], 
+    "46895de3af07d3934fd776b8eedc5bc031fdfa3e": [
+        "RANGER-853"
+    ], 
+    "b51cd90f8da84cb0b753d25fcb420405fe42972c": [
+        "RANGER-1416"
+    ], 
+    "282c1d55d9c5aab4611c3a859169b594c9180b0f": [
+        "RANGER-2123"
+    ], 
+    "4f1a65ddeceee932444cce7e8354afffe198133b": [
+        "RANGER-2400"
+    ], 
+    "6cf1471c240930d33a4d3334a2d011a9dfd22ea8": [
+        "RANGER-2131"
+    ], 
+    "edc4f2b6eab3dc3637788c0be21213be94ade17e": [
+        "RANGER-802"
+    ], 
+    "e1993673264810611bf46914c948c225281ec5c1": [
+        "RANGER-1272"
+    ], 
+    "e9e5060853ea0813288fb2d5a03aa2011369ce37": [
+        "RANGER-784"
+    ], 
+    "39136c5d6dd391caa9b1a365cb02d0675557ce07": [
+        "RANGER-429"
+    ], 
+    "e1b0105eee67bb73c56b66b2dda1c3424555ab3e": [
+        "RANGER-2220"
+    ], 
+    "787457b588a6e4ddac7d5bd31bfe613ede6478d8": [
+        "RANGER-1134"
+    ], 
+    "c74745d8af0cc72ed893517ac6778fce3a518a9b": [
+        "RANGER-2383"
+    ], 
+    "9ed210470bbc447d1fbacd9b98421309394061b0": [
+        "RANGER-1997"
+    ], 
+    "c3a336ea20178081165bab212cf6e03bb330ce20": [
+        "RANGER-203"
+    ], 
+    "f30911e09dd59de4383c115ccdce737d9acbf137": [
+        "RANGER-203"
+    ], 
+    "ee9d78bbb96c7d1eecf05ec5494d7c728ac220f6": [
+        "RANGER-455"
+    ], 
+    "55329a3e13580f014e282d319dc3168bb3e55507": [
+        "RANGER-1576"
+    ], 
+    "fc5314e8b79e9d754c12a63bb67a0f0190ddfe9f": [
+        "RANGER-794"
+    ], 
+    "6e017928ef11e9031f404ee06a44f659a8192b98": [
+        "RANGER-496"
+    ], 
+    "792e40bcdf6b209ed47f0508bd11efc820b0a5b8": [
+        "RANGER-1754"
+    ], 
+    "3d6476bfb8b391e437a5ba812b0c0a597462fee6": [
+        "RANGER-1190"
+    ], 
+    "fa3e38c22f6401222d7f972498f1ce78cf30ad29": [
+        "RANGER-234"
+    ], 
+    "52a303218224610d4b7b34f745bacfadaea1420c": [
+        "RANGER-1934"
+    ], 
+    "58aa1bc298e38df0e10c8e0a79cc63a5fb2a5b33": [
+        "RANGER-2065"
+    ], 
+    "b451c34d96a37985085c840cef61608fc39ee07b": [
+        "RANGER-1586"
+    ], 
+    "72f8f093dc5d67ca8d7bf408953f7422de422b48": [
+        "RANGER-1387"
+    ], 
+    "a097b7f8f2919544819f35edced710c8020dc0d1": [
+        "RANGER-515"
+    ], 
+    "cc5e3f71491d749dc0200f7c01c5827d8a5de073": [
+        "RANGER-203"
+    ], 
+    "14ec7d526b344a597f81b31613416c383c94f467": [
+        "RANGER-504"
+    ], 
+    "3c2facfda17d05089935ecdb8adbad40bd41f393": [
+        "RANGER-493"
+    ], 
+    "6411479b8836f11df4abea9702e67c8ad29049ce": [
+        "RANGER-555"
+    ], 
+    "81783f322bb8bf5f61aaba562fda6a0625ed67a0": [
+        "RANGER-300"
+    ], 
+    "428afbce3b80d0bbcdb079ee7b0f9ed072fe8919": [
+        "RANGER-602"
+    ], 
+    "20db6e67bdaf65e1f6012ac798fe6c9d3b1cd110": [
+        "RANGER-2017"
+    ], 
+    "7c443ded808e46761dc61c7b9f7fb03f58b8e7b1": [
+        "RANGER-1389"
+    ], 
+    "2abad1a1913173b75c0ac0d4cce2f4ba10a72296": [
+        "RANGER-203"
+    ], 
+    "2cf47b9fe5228f8f46c63cf0fa370c0fbe5fbd2a": [
+        "RANGER-1119"
+    ], 
+    "75f8f1d0b280df1a6d7ddbf7430333691a7da976": [
+        "RANGER-1400"
+    ], 
+    "3eba2a1edadf7d1c706997401ba46cf13595e82a": [
+        "RANGER-1166"
+    ], 
+    "0851489e215473e2a5ef08ef22af45180e16ac32": [
+        "RANGER-920"
+    ], 
+    "8d9bd5fbaeb5a555134de50d3bab3ec560267c6f": [
+        "RANGER-1846"
+    ], 
+    "629e2007828db2e594379536802ba8503b179e88": [
+        "RANGER-1284"
+    ], 
+    "e6fd8e4e8e817c897f6ccbb4e666bd40c93d1aec": [
+        "RANGER-1453"
+    ], 
+    "f076f521655c62b8859de12f57dede1b1fa4aa0a": [
+        "RANGER-2085"
+    ], 
+    "83ef5e8644216c00648f23ba11509026675809e2": [
+        "RANGER-203"
+    ], 
+    "4bef89c8ed558eaa7b6f99b7863684d6308caa55": [
+        "RANGER-203"
+    ], 
+    "70ca2df6337b2fb905d1996faabffec06494ff2c": [
+        "RANGER-1424"
+    ], 
+    "0f0f1d375abf5b3c640c53d75fff38c7405a4e38": [
+        "RANGER-1106"
+    ], 
+    "67ca2092f262cf446c3943f3100fee2cbf060bb9": [
+        "RANGER-632"
+    ], 
+    "70fc18099bd54c290aa832e3708c72f5307d7d55": [
+        "RANGER-1293"
+    ], 
+    "4b0fd5dc874fbfb6952746413b2ff2caa17580b1": [
+        "RANGER-380"
+    ], 
+    "3d282ccbff805aee28e08f95729c1bb72cd1c33e": [
+        "RANGER-2306"
+    ], 
+    "51c340ec1d2cd7b0995215c89c5de1939e0ebe13": [
+        "RANGER-1295"
+    ], 
+    "e039b7ca45ee566af5decf18830417fa2af55e3c": [
+        "RANGER-316"
+    ], 
+    "a6c9065c65e125771cf3b2ffb58599687b7dd387": [
+        "RANGER-2086"
+    ], 
+    "a94de11049c498cb93a96f00eae51af817b56d6b": [
+        "RANGER-1642"
+    ], 
+    "3a60d698a7b946d1424772cd787ec4e956d7afb1": [
+        "RANGER-742"
+    ], 
+    "689dc76bc49da8e669e6e6e1ffd865f16a11aacc": [
+        "RANGER-683"
+    ], 
+    "ffe32fef6e458627df7a29bdad218cb01176783a": [
+        "RANGER-1818"
+    ], 
+    "87fffe02e0e12b58d1e731b6f0b46c4375f1d281": [
+        "RANGER-203"
+    ], 
+    "c5264171128330e630e8be26ef7347b2f0fb69e8": [
+        "RANGER-520"
+    ], 
+    "719dd4bf6a6b91ed00294f61a4854fac8e2acda8": [
+        "RANGER-2539"
+    ], 
+    "fa4f291a26cc7dea1238eb2eb6e0bcfc7c6cf95a": [
+        "RANGER-477"
+    ], 
+    "5f79eec5097b0d7688159ccc579ae1117273686f": [
+        "RANGER-794"
+    ], 
+    "d4f2340a9f68b046f770bd09f74e243ed28ad167": [
+        "RANGER-1689"
+    ], 
+    "8ebf1dc2fd5a8c4f0e7dca7f55cd7c60916de27a": [
+        "RANGER-2343"
+    ], 
+    "b780714ec2ce326a40b135748ac588078d2456c1": [
+        "RANGER-315"
+    ], 
+    "770f274d04f1a438b90d3cb6643d587558f6bbf7": [
+        "RANGER-1520"
+    ], 
+    "8b4ba8efc83499ed38c0554ea2d7efb64464befd": [
+        "RANGER-800"
+    ], 
+    "f3221e150a78abdce22698e0409806b95c100de7": [
+        "RANGER-2250"
+    ], 
+    "58018b21b751293d803f7702920b13247b0c09ba": [
+        "RANGER-1402"
+    ], 
+    "81cfaef6d7c3e2a5c63c56e36dab0381788c08be": [
+        "RANGER-203"
+    ], 
+    "02083dc06f1f4325c2bcc6f277c20ddfabae5109": [
+        "RANGER-256"
+    ], 
+    "bf649f0978159cfe8021fa2aa35b4a76e9d7d93b": [
+        "RANGER-1265"
+    ], 
+    "e3a4d80b0adba24aa6eea5556a1928b468aefb8b": [
+        "RANGER-1229"
+    ], 
+    "50668346b7c73c52b7fe87cf9175af512c5b9855": [
+        "RANGER-1509"
+    ], 
+    "a2291f0a821e9c51f4fb5779fae1eb5a9b13f733": [
+        "RANGER-1470"
+    ], 
+    "0614046a4e273a48b3d659e590bdc63e54559aeb": [
+        "RANGER-565"
+    ], 
+    "ec57902585882981b9728fc0d452912b1dd8f529": [
+        "RANGER-2381"
+    ], 
+    "984fd5b861c131f94a10002f064cfab2d1899d6a": [
+        "RANGER-369"
+    ], 
+    "513788f50de261466d98a770204dd6072fa54a27": [
+        "RANGER-2098"
+    ], 
+    "84a59fad2a3aa3057c7a47a6ab0cd5e6236a6442": [
+        "RANGER-2493"
+    ], 
+    "1f43245f2adceaed6b6ca3f45925b586d0f24d77": [
+        "RANGER-688"
+    ], 
+    "f4a7037dba4e9714535990dc619db5c0b445d90f": [
+        "RANGER-974"
+    ], 
+    "90b7f0ba3f4bfa16060709e643b48a017ff43863": [
+        "RANGER-754"
+    ], 
+    "bb03ae43754f38a14e8358138178dea07dcb745a": [
+        "RANGER-2307"
+    ], 
+    "006f2702dd7fe01ab5afb6bce81de4b2b03671f3": [
+        "RANGER-203"
+    ], 
+    "e4a11c860ab1a0151618d3579708b2c48076cf10": [
+        "RANGER-2201"
+    ], 
+    "d34d024e8afa64e8b5865eb3284ecf6a57928b30": [
+        "RANGER-2224"
+    ], 
+    "7985dd473acb024e8f3c56c12af6608b0cecc3b6": [
+        "RANGER-1781"
+    ], 
+    "56a93f6e483be0c49e35095f7eb0ea20123628e6": [
+        "RANGER-1607"
+    ], 
+    "9ee9b2c142c6e8a176f026ad3b8ff283fe5c9f0f": [
+        "RANGER-234"
+    ], 
+    "af564f38f8e895358f69f52e4208f20b5519aff0": [
+        "RANGER-962"
+    ], 
+    "ecab208744d2fa653259c1db7645dca28ff748ed": [
+        "RANGER-2347"
+    ], 
+    "51184bb89d72fc51a96702d3c22b66f03ffe13cb": [
+        "RANGER-457"
+    ], 
+    "101d17673d553dbd2c2369837a8243ab8727bc30": [
+        "RANGER-436"
+    ], 
+    "39184d44aa26645fd000c7e4620807af6a1f2ee7": [
+        "RANGER-1581"
+    ], 
+    "8f386d15f7a77bce2a1c18cd46f31c40451a5b41": [
+        "RANGER-238", 
+        "HIVE-9350"
+    ], 
+    "e4229e8af4f13d4d72ee913d61ff4b27e3274a4e": [
+        "RANGER-1070"
+    ], 
+    "f21e2b4cfa61b9e2d4f28e35e0a965b99090bf6e": [
+        "RANGER-2091"
+    ], 
+    "d85beb4e4ca214e57b748e1ec55ab6929cf06494": [
+        "RANGER-553"
+    ], 
+    "68898eff03f33e6cf1468c72f32cb4ec2b2d4559": [
+        "RANGER-1282"
+    ], 
+    "3493c02f3aab82ffdad52d65f8cfa9b01476c9f7": [
+        "RANGER-203"
+    ], 
+    "73eed772414e2bf0ae796d0368af20a822916bbd": [
+        "RANGER-1465"
+    ], 
+    "fa38ed737d8696519d39b0cc53c128141e29edc6": [
+        "RANGER-1571"
+    ], 
+    "f34eb3d0704e57129dd5f12a58cae8db9cc2c385": [
+        "RANGER-576"
+    ], 
+    "77be4025894e976c7d145382f6b43ad56186b046": [
+        "RANGER-1804"
+    ], 
+    "e693837ac3910dcf045eb3e9bc38f8e0026b6175": [
+        "RANGER-2166"
+    ], 
+    "b3e31fadd9fc35a4867d5bbbde0320ed791e0d1d": [
+        "RANGER-404"
+    ], 
+    "88352408b535d82bbef1b1ffc79b16fb57ffb505": [
+        "RANGER-1698"
+    ], 
+    "ba99369a82914101d0652d68056a0b48eb69eea1": [
+        "RANGER-1828"
+    ], 
+    "767d69e335a70bdb96fed39623facd4319397980": [
+        "RANGER-2399"
+    ], 
+    "9d29006ee770487b84fa94c37918d99163a62053": [
+        "RANGER-557"
+    ], 
+    "21066540d388402d12413144e63a2d74becf1fd1": [
+        "RANGER-1550"
+    ], 
+    "b83b168791ad7adb8d46032d0c111ee86c004fb8": [
+        "RANGER-1765"
+    ], 
+    "5274cc1600affad5c2b059cada4eda4703670477": [
+        "RANGER-2328"
+    ], 
+    "9cdc1144f4938f666c80bd5cea6f2243492c71a3": [
+        "RANGER-1814"
+    ], 
+    "e47181f40d98c73b9486616a4d506d82fe7326e7": [
+        "RANGER-1802"
+    ], 
+    "322cb64cf20ea7e9b3e20aa35761345c78fdd66f": [
+        "RANGER-2463"
+    ], 
+    "41a877b4984cd6305209a0ffcd554481e7a100a3": [
+        "RANGER-834"
+    ], 
+    "ec7ac830af30fefd617f831d9f099bf58dc42a4b": [
+        "RANGER-505"
+    ], 
+    "c59617d6f74df41316a59d65ed90c574527987de": [
+        "RANGER-256"
+    ], 
+    "45f40277c996ea754eb7efb995e73efaec311394": [
+        "RANGER-1863"
+    ], 
+    "f49cac435d7cac126666ef9c60180274b365fd32": [
+        "RANGER-203"
+    ], 
+    "67dbdc45ad85a6dbccc8a6dd83ebfd43f881b08b": [
+        "RANGER-203"
+    ], 
+    "f57022645db36054d2c63f1af503b82363999b47": [
+        "RANGER-2556"
+    ], 
+    "478f5ffc737b4c238db67e844e88fd73c61dc5da": [
+        "RANGER-1832"
+    ], 
+    "66b258ae951611a4a2862d8f0547071d8d411146": [
+        "RANGER-1483"
+    ], 
+    "3cfe45b75ffa99079c547c193e58ed2a689d9103": [
+        "RANGER-203"
+    ], 
+    "4344fcff44c1bfd7e7a32ad58c426c0c2f00c8b0": [
+        "RANGER-2521"
+    ], 
+    "fe999c662ff15640502c3378b9ce50be41612dec": [
+        "RANGER-1577"
+    ], 
+    "adbc5e88a13840d8132ed5b5fabf0a4b02468f95": [
+        "RANGER-210"
+    ], 
+    "edefd567ca2afead045f486ccadc3f30925f877e": [
+        "RANGER-2165"
+    ], 
+    "e483c201e9165d44565ff3060767104304cb7584": [
+        "RANGER-2163"
+    ], 
+    "563c26448ff66856f0896341d1c3a536f966d847": [
+        "RANGER-2304"
+    ], 
+    "c510b449d0564aa165007810fcf87a3587cec291": [
+        "RANGER-516"
+    ], 
+    "29fedc53fdc4a9df9f5857e754cf6fdcad488cef": [
+        "RANGER-2138"
+    ], 
+    "938b0c8eaf2e898e9420d0f34ef966b16342322b": [
+        "RANGER-1730"
+    ], 
+    "dda7a165c5a7c80d13023c91a095a373a6dd3e70": [
+        "RANGER-510"
+    ], 
+    "4c75d2822927de4215da2b55523328a1ec3e15e0": [
+        "RANGER-540"
+    ], 
+    "ecbc7a66f124395f9ddf42d0a60d4ead9e6e0542": [
+        "RANGER-2114"
+    ], 
+    "aff40741dc0aba53dbd492921bfbce7ede7be475": [
+        "RANGER-486"
+    ], 
+    "ccdeb2874b4b884dcf0eab4dca752b93cea2e868": [
+        "RANGER-203"
+    ], 
+    "4447aa33c890273201ab34236981c0788f199560": [
+        "RANGER-1128"
+    ], 
+    "748a84cd409b436b12c720a1c67bae62cee6aa4b": [
+        "RANGER-1409"
+    ], 
+    "21d9cbe34d553cdab5090c64214cdd5faa485a07": [
+        "RANGER-2456"
+    ], 
+    "3e1168ddb6b322d57d56ebc5c8d87b006df15aa6": [
+        "RANGER-1932"
+    ], 
+    "8f30ebd353e4f1b2542bf42bd6a13bfc09592a2b": [
+        "RANGER-429"
+    ], 
+    "86b714048c27515763a69a7a07c307f96a26acb6": [
+        "RANGER-2152"
+    ], 
+    "987abe8064529b08149a03ab22e2dbfbbe1cc0d8": [
+        "RANGER-2113"
+    ], 
+    "f6d4f116c5ecf0a656b1cba3846cfd3cbd9e5393": [
+        "RANGER-1724"
+    ], 
+    "19c3744b1ece45be9b33a6075472bfc37bc9bd28": [
+        "RANGER-912"
+    ], 
+    "f35c8bd546e6d82c605d9f58caa12d3f0bde9e8a": [
+        "RANGER-1422"
+    ], 
+    "6da244d6f7f6f43e98e702d83fc3c768b1713f0e": [
+        "RANGER-2035"
+    ], 
+    "0ff82bcad230ae9e58220c587218972213f593c6": [
+        "RANGER-2106"
+    ], 
+    "bb81459e0f17b1d344541d956e1ab37ae2c14e3a": [
+        "RANGER-778"
+    ], 
+    "2f8c7f27af7137a36eff68db1c02544916bdc37a": [
+        "RANGER-1462"
+    ], 
+    "d5e5ad5f892dea696740bd6834b3c96b213498e1": [
+        "RANGER-1439"
+    ], 
+    "a6f8050b54206dfa61d87a756d7434ec70131d88": [
+        "RANGER-203"
+    ], 
+    "3651862943b5ac9b3fe353adb1c7948ef00ff919": [
+        "RANGER-575"
+    ], 
+    "fc2453794ff59deec93c263917bc6dec42ff9fcf": [
+        "RANGER-931"
+    ], 
+    "01be3608f37369663e810a84fbb5b131281fad71": [
+        "RANGER-1584"
+    ], 
+    "5b0fbac8846e9e97398e14307893caabd6ee60bc": [
+        "RANGER-1727"
+    ], 
+    "f2c4f90f07f6cddc008b560aa361b5a0b1e04a00": [
+        "RANGER-1604"
+    ], 
+    "6504a70eeeaefa6a7de18a0eb8f78f62dad76d9f": [
+        "RANGER-2105"
+    ], 
+    "e71e76a511329d1ec0ae155ba793c6c64bed841e": [
+        "RANGER-1020"
+    ], 
+    "d9aff094c7480fa018f2068a463e9338bcb6923a": [
+        "RANGER-1787"
+    ], 
+    "6b944295904fd7372ae6e9e0bc10fd2109ea89ae": [
+        "RANGER-2299"
+    ], 
+    "54fab186a40a04ba88527a811e378125fbedd98d": [
+        "RANGER-2024"
+    ], 
+    "942f630ba672452c93de684fc156754f7c0fe83f": [
+        "RANGER-1460"
+    ], 
+    "3a36875e96aa2f689edd71ab77a8c74a6355493a": [
+        "RANGER-1146"
+    ], 
+    "a1929a82446f5aa8ba662649e9ff3af9e61bec4b": [
+        "RANGER-2027"
+    ], 
+    "8b3f0e60eb9d48ee0a89546b009ee84e7013759e": [
+        "RANGER-1190"
+    ], 
+    "e85654b20238f4512b1862444a4ba7de55713f93": [
+        "RANGER-1048"
+    ], 
+    "60a235c66bca2381316cedabb2be28a090556e91": [
+        "RANGER-344"
+    ], 
+    "dcb882817df88ae9548a410eabc8944dcc6c0481": [
+        "RANGER-2280"
+    ], 
+    "df4c01307b0542f8c80b6f3b31f34472ff76a307": [
+        "RANGER-2101"
+    ], 
+    "08990c5bdee9aacc4f69eaf777202904fcc92ef6": [
+        "RANGER-543"
+    ], 
+    "dc31b21fcda9ca0a1f39af6b90599bf600a88290": [
+        "RANGER-1519"
+    ], 
+    "31db54702abeb2443b04255c1c36599bdca89b3a": [
+        "RANGER-203"
+    ], 
+    "12ab54a0eb2a35c5bb9428c83dd003ce82732bab": [
+        "RANGER-549"
+    ], 
+    "484abfc4b026f007c2dd0d7aac8faa6ea4bf1f28": [
+        "RANGER-1131"
+    ], 
+    "8d884392843484245c535104c2184a81aadc8674": [
+        "RANGER-1064"
+    ], 
+    "759a7b3e61bf281906c6384d47a7f6de25dc791c": [
+        "RANGER-1417"
+    ], 
+    "ba122d3adc0722e62df8abe61319bea23a784a66": [
+        "RANGER-1557"
+    ], 
+    "c5daf83bc225a6249022e23fd0cbcadeb56a0987": [
+        "RANGER-1708"
+    ], 
+    "b15105336769622148e9cc81e2be48b48e46dda9": [
+        "RANGER-204"
+    ], 
+    "6f903e3ab0394c1c98abc014362a317eea7e79ea": [
+        "RANGER-559"
+    ], 
+    "18a47ed4b8ea910a2c93c8707a0128f9b2af6ce5": [
+        "RANGER-1726"
+    ], 
+    "d352dfaab216eb7c2a1abef5b689aa993430a549": [
+        "RANGER-2138"
+    ], 
+    "bc4ee643b6c73d2c357a26383767094f1f2bc3ea": [
+        "RANGER-701"
+    ], 
+    "666f6f6bbc21e66a0d4030031917ae79f29f26b1": [
+        "RANGER-2094"
+    ], 
+    "84ceac76abfbcfafbbaadc7c9e3d1c9fffbb452f": [
+        "RANGER-852"
+    ], 
+    "cccb5e1b949e843f6ff756f2019938d65125ea08": [
+        "RANGER-2083"
+    ], 
+    "9a2aefb7281934b52a5050d0cbbc2119c17f3210": [
+        "RANGER-452"
+    ], 
+    "5a743e0aee657e6ddadf60b920df50ff580d99bf": [
+        "RANGER-531"
+    ], 
+    "55c260923b571ae29c7d92641fe8ac59b73a1b9d": [
+        "RANGER-203"
+    ], 
+    "982e0a99ffd9b2ffc33643476a3b54b98a931469": [
+        "RANGER-993"
+    ], 
+    "aa695b17adf099e8860e5108e0bbf36bdd86f819": [
+        "RANGER-552"
+    ], 
+    "d40a0205433c526261ad408f2ddcf640b6b81f7a": [
+        "RANGER-864"
+    ], 
+    "f310aaf6bb7b81825ce2886ba4f16c13a09c603a": [
+        "RANGER-1459"
+    ], 
+    "5386d4bdb2d2e1c5f1a0ed7ce73443b00f6c4a80": [
+        "RANGER-917"
+    ], 
+    "6edf6d8686c3e8078ca7b95f96affa6b25e8dc2c": [
+        "RANGER-232"
+    ], 
+    "2c57feaf8b53f719d889f07a21cbdfafe6608dc4": [
+        "RANGER-1636"
+    ], 
+    "a92129807e4a46c6644c1dd6e430fe8b8b4c1739": [
+        "RANGER-1688"
+    ], 
+    "acda969b845ed003fed6e40d120074a20a9ec3ac": [
+        "RANGER-1392"
+    ], 
+    "54c87fec53986dbe6e798aeab8e2a1d628c280b3": [
+        "RANGER-1876"
+    ], 
+    "2cc88970bea34cdeac92182572a5046f09a70306": [
+        "RANGER-1836"
+    ], 
+    "c11c7f2f8bbc7b3f2e9b2ab876d1dac255571485": [
+        "RANGER-256"
+    ], 
+    "2c54590a83ab4cf37924876ae468699746d2a751": [
+        "RANGER-539"
+    ], 
+    "d0cf2dd5545152701355560d2b2dbba19eec0b3b": [
+        "RANGER-1752"
+    ], 
+    "7ecfa05366af6bc5e69dc41ffc1eff4515b25788": [
+        "RANGER-378"
+    ], 
+    "2aa6a89b6b2f7f0263d0af2ae00f0bc821179101": [
+        "RANGER-653"
+    ], 
+    "6922c03f7085dfd37101536f6283d57fc063f581": [
+        "RANGER-2121"
+    ], 
+    "45e335c8fb4aeb0ee922ca7c669c86d3d1324e02": [
+        "RANGER-238", 
+        "HIVE-9350"
+    ], 
+    "98351d4c1b1a407c37b9ad161a0fb8b4f6efd977": [
+        "RANGER-1651"
+    ], 
+    "7a95ff0de1ca4b340deebf6c53e8559a025df750": [
+        "RANGER-743"
+    ], 
+    "c0abd84c533651fc3728a7933ecfd760cb8507e6": [
+        "RANGER-203"
+    ], 
+    "5318e2f5f5610c3765df7971a48d5f3692e3286b": [
+        "RANGER-1747"
+    ], 
+    "8cb01118573e0778a627e67673c39ddd1b619621": [
+        "RANGER-1403"
+    ], 
+    "24c83278df4b8c6558fe4373cae7443a74e23a74": [
+        "RANGER-1348"
+    ], 
+    "e65235d1cb52267be16d6b033532d88692fde12f": [
+        "RANGER-1860"
+    ], 
+    "581422ce16d696a8d50ff1a25fb2e3bcc7d3ab9f": [
+        "RANGER-2469"
+    ], 
+    "f35d53b8770c406c7cbeef00562333de5225fb32": [
+        "RANGER-521"
+    ], 
+    "9313153838c1cdf0249c1908cf80ca45f719ade7": [
+        "RANGER-373"
+    ], 
+    "154c49041863f040ce99c5d45fa5e996968ced96": [
+        "RANGER-265"
+    ], 
+    "a23e431a3797f9f21dccb8b769cb578f50b6d5d5": [
+        "RANGER-393"
+    ], 
+    "27d6453a935e0f1aa36184fc34e05ca7c4045fa7": [
+        "RANGER-2040"
+    ], 
+    "7c185e1f5a8881fd7a7ad0d60abd756b3cd416ec": [
+        "RANGER-702"
+    ], 
+    "b28a924dc3199dfd1986419c1f9f63cfcdeadd32": [
+        "RANGER-454"
+    ], 
+    "de417e1851603e98c2acb0e6a81b0f2524256a06": [
+        "RANGER-1816"
+    ], 
+    "87fe3446d988b72e24467c427ba31ac9d3174de2": [
+        "RANGER-1101"
+    ], 
+    "49bebb59f793fa550242bbc34c2bb3173b6be2b5": [
+        "RANGER-357"
+    ], 
+    "2f53635eb8a6f88e39e9fd6e948cd7f93d0c4c5a": [
+        "RANGER-2342"
+    ], 
+    "85093b8b4f99775d0ab08428d2184a77ec3da7f8": [
+        "RANGER-1270"
+    ], 
+    "8057944c2ee659fa3d97969811a59ae9c380eab6": [
+        "RANGER-765"
+    ], 
+    "9b0c5a71919a62c1db8bbfcc1fc3086f1ee3d4a5": [
+        "RANGER-280"
+    ], 
+    "38bb3b3fc726e5e7e4f6c315c1c421a678932c0b": [
+        "RANGER-2311"
+    ], 
+    "efc2c12d53267cdee89ec0500c7a1b5bf2e55b86": [
+        "RANGER-377"
+    ], 
+    "866c01aaecedf9e0e3d87561fae183c64793803b": [
+        "RANGER-525"
+    ], 
+    "ebcf9dd5e8c35a12b84405067bb7db0c5c3596c6": [
+        "RANGER-1237"
+    ], 
+    "2e193e124399cf685c17798b8243e1d62f223315": [
+        "RANGER-1631"
+    ], 
+    "2135a00370e47d1b46b60d4c39dee82cb1c7fad7": [
+        "RANGER-1345"
+    ], 
+    "0ab48758fb0089da3b81978d00e2122f535c14ad": [
+        "RANGER-326"
+    ], 
+    "9c6c64d4f485454c13d93d165d890233cca72c7e": [
+        "RANGER-630"
+    ], 
+    "a99e377d39bce90b39b9fd7f2cc1068e1856fd1c": [
+        "RANGER-1214"
+    ], 
+    "ea0872f69e7738c9ecd90becc4f9545948713622": [
+        "RANGER-674"
+    ], 
+    "0699c3401b2d8615683e871c1f68a7534eea9c5c": [
+        "RANGER-942"
+    ], 
+    "088f3cf6aea19e4b46d5296fd2c17bdd87111fc5": [
+        "RANGER-566"
+    ], 
+    "c62aef11b41bfa6774b2bd2d5795d9cef2aeb861": [
+        "RANGER-218"
+    ], 
+    "83e19b8d38364282826c824f0f683350479e3189": [
+        "RANGER-2031"
+    ], 
+    "9da43c7e07ba5eaba31cfd7a4bf4727f9021395c": [
+        "RANGER-1966"
+    ], 
+    "9ea96d9f4913bdf05a5656528de9b8424c9daa79": [
+        "RANGER-1970"
+    ], 
+    "24543ec1d171134f33bdd2544299b7ce2eec2c9d": [
+        "RANGER-343"
+    ], 
+    "4daf1e9ed9f89f389f8cdb74baa1792f92fc2466": [
+        "RANGER-1746"
+    ], 
+    "a69820be287d9ae1a6ed390a8a2d17dbe44eb88f": [
+        "RANGER-2437"
+    ], 
+    "b0d21cffb94d50e6f5e2ea247a39d13fa33d52e4": [
+        "RANGER-1147"
+    ], 
+    "8a398878a195b2bf2f260bd4019f544b0d6c30eb": [
+        "RANGER-1352"
+    ], 
+    "dbc489a7ffd8e95b7d067a5dea836d840dee9209": [
+        "RANGER-446"
+    ], 
+    "11a4f40a2a579308e874dca7625e66aa0cf8ed12": [
+        "RANGER-2036"
+    ], 
+    "20baa3f8886defa60411d30152977428b4de8b5f": [
+        "RANGER-426"
+    ], 
+    "7fc7c9f27f931c3c260f66cc967c7d1ae983954c": [
+        "RANGER-193"
+    ], 
+    "25435ffa1a439f5db70b1c10e4bc67d19f8a7686": [
+        "RANGER-1477"
+    ], 
+    "28a401f426ea4806d2346b5cbad21a78686b3226": [
+        "RANGER-181"
+    ], 
+    "a30c43db31bc0c6b69594e2fba0f243a94a789c6": [
+        "RANGER-1779"
+    ], 
+    "0e5e27896aecd58534e6d90c57eac7c626a0ca06": [
+        "RANGER-386"
+    ], 
+    "efdde916c60a93bb0bce634ebee3c7000f52646f": [
+        "RANGER-917"
+    ], 
+    "17a97fab5c72cc7dff19c2cd688c21b15bd3a71b": [
+        "RANGER-2543"
+    ], 
+    "991481b2795de80c771d7354594b7c59ac5022ce": [
+        "RANGER-1771"
+    ], 
+    "d23eccc834cc4d48fa1c3e980d8781bb6d14f774": [
+        "RANGER-569"
+    ], 
+    "3632b35d01451d8f6983e46fbbc78ac54d8c0ce4": [
+        "RANGER-1452"
+    ], 
+    "937e0babaddb89ac1c1295a93f84f87adc5bab1b": [
+        "RANGER-1067"
+    ], 
+    "0dc91ed3b089fdce99d63de4a3cbe71b9203f262": [
+        "RANGER-1303"
+    ], 
+    "7a6412dcd3e9799dd0fb9c7948fad5448664b896": [
+        "RANGER-240"
+    ], 
+    "cfc9ce3e9e6b5f61b9d82e769b484b8c3b713990": [
+        "RANGER-210"
+    ], 
+    "aac45d633b2d8589446d23326918b6109065dbff": [
+        "RANGER-435"
+    ], 
+    "5824fdc819bf41736ec5d2798ffaa7aba24c8cc7": [
+        "RANGER-1903"
+    ], 
+    "fe8df8598ac9ec73914b0981723f8d34e235f7b5": [
+        "RANGER-2335"
+    ], 
+    "54e0e8d027130224416a235052be9a912a2f85a9": [
+        "RANGER-1475"
+    ], 
+    "e9d9aed394cc6ecf26ec7d2711f951de3866520d": [
+        "RANGER-498"
+    ], 
+    "a1a989d1751204ff216479f96f730ccc1648d679": [
+        "RANGER-2025"
+    ], 
+    "1c441f798e1c5da54f6bb9faf211eadb5f10b6b5": [
+        "RANGER-1170"
+    ], 
+    "88d82ae173cc0bd0ba78cc79b6d0b8cf728beabc": [
+        "RANGER-990"
+    ], 
+    "0b99043918c867e54d3f46a61b59ae10446dd034": [
+        "RANGER-1060"
+    ], 
+    "52ae9819161e9c3cd42df4315db94baab992da3c": [
+        "RANGER-375"
+    ], 
+    "df6a6184ad2280d5f49111d78abfb177520b3500": [
+        "RANGER-1082"
+    ], 
+    "c18adf68670828bba3e8d54f9fc75625450c5c5b": [
+        "RANGER-433"
+    ], 
+    "f7230f70a4de21c7bac9028a05f9f7472077e809": [
+        "RANGER-1734"
+    ], 
+    "06ca4e5f40b237c633f372322ba6be6c4f2c4aac": [
+        "RANGER-425"
+    ], 
+    "ea9d66a249a169e2de8f90e0452a684c2629e762": [
+        "RANGER-1815"
+    ], 
+    "964253905c0b6d893748180a44d02c13aee851df": [
+        "RANGER-1232"
+    ], 
+    "e0261055d86b6c09f23b2773e0ee2470fe08aac7": [
+        "RANGER-524"
+    ], 
+    "ac1b1bdf39b96e53282ba989c865cd819d5d4b68": [
+        "RANGER-2275"
+    ], 
+    "9f09d87e22ff2eb9324fd46959e21f1a54f69929": [
+        "RANGER-2375"
+    ], 
+    "f5ef6f164879ca2f5b049bd33d7d3c1d4cf3370e": [
+        "RANGER-625"
+    ], 
+    "b4651bc83682758a79659f6ea205b3f5b86408e7": [
+        "RANGER-1206"
+    ], 
+    "2d8895e6de2b1d04ce57e18c8b21a1fdff3b44b8": [
+        "RANGER-1621"
+    ], 
+    "3bfdf4ee93d66e4ac8011e45f7c07f01db3126d3": [
+        "RANGER-1473"
+    ], 
+    "391e2f4359a5450d037f56b190c416af929c7607": [
+        "RANGER-2473"
+    ], 
+    "47af6cc5406ecaed2aba6345dd61ec6e7456c5b8": [
+        "RANGER-1111"
+    ], 
+    "6bdb535df11f31e5701f1b5865e9da72e5cf44a8": [
+        "RANGER-1129"
+    ], 
+    "e64af0f51670b831dbb5d97f231df05269fff7a4": [
+        "RANGER-1329"
+    ], 
+    "7d929b4750f200366ddfc9bf3e620dd8b87b905b": [
+        "RANGER-1392"
+    ], 
+    "903e0cdaf39f230a0ba616a1a8d533140085b599": [
+        "RANGER-1085"
+    ], 
+    "724c83c9e59a04a47928400e90e61429ee0e08bc": [
+        "RANGER-1015"
+    ], 
+    "4b892a358089844710c8257a0f87c2096fa9eca8": [
+        "RANGER-1027"
+    ], 
+    "fc2cc55043e0ce34460861ec9613e022edf4752d": [
+        "RANGER-260"
+    ], 
+    "bac22f2216022a4b56b5a90eee0b928bb03d1dc9": [
+        "RANGER-1619"
+    ], 
+    "f2ab4279e68d1fd0b4253a519bd063b4d4e0730f": [
+        "RANGER-1489"
+    ], 
+    "e267c09235c81e5d9a98318b504b139c3686c88c": [
+        "RANGER-731"
+    ], 
+    "19c21348621498dcc50d5808aa8b636251a90c17": [
+        "RANGER-745"
+    ], 
+    "181a3635eb38f98ac12e99e1d89cdca9c4b0635e": [
+        "RANGER-2276"
+    ], 
+    "d8a056e163011602e5722bb1a0293e0151047b1c": [
+        "RANGER-2553"
+    ], 
+    "02f83498e11754dcbc478ec0946a1ecc582640fe": [
+        "RANGER-1513"
+    ], 
+    "f49820a9b73d80326d7a8f5339c7f7f0bcc40d13": [
+        "RANGER-2120"
+    ], 
+    "390b97a5a05f58fac969a6950474652be8577bd0": [
+        "RANGER-1387"
+    ], 
+    "bf7a8bbde061d4ddcc387fb755443a70e85c4181": [
+        "RANGER-1608"
+    ], 
+    "65ccdb1491353a2a29376b01f45cd62b601d498d": [
+        "RANGER-1777"
+    ], 
+    "57ded063dee603767d06af2e9d6bcd442af564a2": [
+        "RANGER-203"
+    ], 
+    "d6d71f8affdae7e3894c220604414ce53140885d": [
+        "RANGER-1190"
+    ], 
+    "fa8b948ca3322832543098f9c5d43653a3228b67": [
+        "RANGER-1072"
+    ], 
+    "1115ca8e9bb339b8f8e23909945eb314624e8d4c": [
+        "RANGER-1171"
+    ], 
+    "4ce27cffb96e21e2e7ece628b0a303c52746204d": [
+        "RANGER-1649"
+    ], 
+    "502f3cea682013f5ca4ea5e702f887aabc60e538": [
+        "RANGER-1875"
+    ], 
+    "883666c6755d6f291650f17ad81ef2e0c87ad872": [
+        "RANGER-1240"
+    ], 
+    "b6aca92b0398598eb3db8a28722eb0303cee3433": [
+        "RANGER-659"
+    ], 
+    "f1a71e0a9381bf53f4f020a92f0315548190bf7f": [
+        "RANGER-2133"
+    ], 
+    "66adb23ca5e46710d9c7804e54faa0767ae624e3": [
+        "RANGER-1591"
+    ], 
+    "c1d9ae7530d4840fe890c234902c04cd20eeff9d": [
+        "RANGER-2372"
+    ], 
+    "5d6881babb239108096542be1b051e2fc3266512": [
+        "RANGER-230"
+    ], 
+    "56be1198139612c2577b42203f998075bd569987": [
+        "RANGER-348"
+    ], 
+    "f8b4d4a9a28e097abe21565a0af9c21ee700c699": [
+        "RANGER-405"
+    ], 
+    "3a57aa3c324b5d3580209cdf96cd19451ee5efd5": [
+        "RANGER-203"
+    ], 
+    "14f8c118368cb9e5ee01a7a59b9ade03de48a288": [
+        "RANGER-995"
+    ], 
+    "d017b31f913087613623a1cf711f3455153845ad": [
+        "RANGER-313"
+    ], 
+    "0421271e2b891a7fe0ade809e0e41f720fafe62a": [
+        "RANGER-501"
+    ], 
+    "8d353cb441fae0e47ba434fdf2f9b3cd9834def5": [
+        "RANGER-1043"
+    ], 
+    "5da7000f82e8c052aef23bcbdb89dcfc108d6aa3": [
+        "RANGER-1878"
+    ], 
+    "a6a0d94cbd40ce1323d044b4a509add1f1aa15b3": [
+        "RANGER-808"
+    ], 
+    "d61ef2a0438fd69a9595ddd192bf1b9a01c121d1": [
+        "RANGER-1192"
+    ], 
+    "f2c3040a0af472cef1a41e13f5b15a34b31b0f04": [
+        "RANGER-1169"
+    ], 
+    "941ae6924e610bf44d9ccddca52e3f21f82310e1": [
+        "RANGER-203"
+    ], 
+    "65f4de2bd69765f63ad95b82a742b2dbb769b273": [
+        "RANGER-1359"
+    ], 
+    "7b7b314d89fab7c40f747c04c3bca989c4593de3": [
+        "RANGER-720"
+    ], 
+    "5a4e1a31e8dded60ac288293a14bef5a07fd26c2": [
+        "RANGER-1021"
+    ], 
+    "c46de425783ce0ce2c4ce0a7d4dae58807c626ef": [
+        "RANGER-2534"
+    ], 
+    "1b08191bda7b509aa35cd339e6c6c0df5d18bbbd": [
+        "RANGER-353"
+    ], 
+    "5fc9ee1f9a41d2dd73dad1dc9e32fbfaa38872a6": [
+        "RANGER-1744", 
+        "RANGER-1541"
+    ], 
+    "362acbcbe8f95643a6b47784388b38085d38d750": [
+        "RANGER-479"
+    ], 
+    "418b0fa16788092f5e2ee4dc86c03574aca89e5f": [
+        "RANGER-203"
+    ], 
+    "01206387761576a8d2d53df1e2bb194d987a0c10": [
+        "RANGER-309"
+    ], 
+    "0d73c38af9a80c00ff2ddfd7dba09c4b6b914990": [
+        "RANGER-508"
+    ], 
+    "399cf813cafb09d1ae54cb7cfa61044167f8805c": [
+        "RANGER-2518", 
+        "RANGER-2518"
+    ], 
+    "85f27292053d2a08c16b61ac40b4088d55da5d85": [
+        "RANGER-1187"
+    ], 
+    "a1c14e3507981968e366924667fa47079208dfda": [
+        "RANGER-1943"
+    ], 
+    "af3361858734690ddf9b319a3da9ae1b7bca5766": [
+        "RANGER-972"
+    ], 
+    "a232c6421a5be65cd2a3d4b1f2a1155754f3edb4": [
+        "RANGER-2401"
+    ], 
+    "a1b2ce54001fc1202bd16f47db0333598f6602c6": [
+        "RANGER-1139"
+    ], 
+    "8dc5598c034017a22bacf9e6082aa1f4a7d6cc23": [
+        "RANGER-1858"
+    ], 
+    "a4ad1a0b6599cee1831062d73f8515bcd7e0f721": [
+        "RANGER-2021"
+    ], 
+    "d58bda23cb8ccbd9b186f49cd8b8e3e53cf9f6aa": [
+        "RANGER-969"
+    ], 
+    "3f82ca40e5e2830e06cae690984fb09fce311ffc": [
+        "RANGER-2333"
+    ], 
+    "1a5eba44657e8b6b85322a26725ba7ad23a294ee": [
+        "RANGER-1956"
+    ], 
+    "50e88f2ee6b0100ddd76d35cb25dfbd73f2767b8": [
+        "RANGER-2057"
+    ], 
+    "d456ac7f2e168af0f81a0005f66365a8f9215cef": [
+        "RANGER-1506"
+    ], 
+    "2aaa012dcf74dfd3952aabcc5c58681ab5d77054": [
+        "RANGER-2006"
+    ], 
+    "23da1956e39b2b56236d93ebe27a16bad5cc1653": [
+        "RANGER-203"
+    ], 
+    "2fb907c802ca64d0117261ef7f47ab2912578d18": [
+        "RANGER-916"
+    ], 
+    "17deef643ae1985e74a18273852e205df0b051a6": [
+        "RANGER-1800"
+    ], 
+    "aa7edc1e99d19934b9918487db8c399c23692459": [
+        "RANGER-232"
+    ], 
+    "de9327df0a2f7b5e8fcea976dbc253d7098e2578": [
+        "RANGER-831"
+    ], 
+    "dc49a1a495794fa7140b335f9a4a5298d3fa3b3d": [
+        "RANGER-302"
+    ], 
+    "fbe800a16d9df250a11dfbb4459d22aa865db14e": [
+        "RANGER-203"
+    ], 
+    "510697aef5c782367d918020732b8e307f495909": [
+        "RANGER-1259"
+    ], 
+    "2b046206975e4e7d37ea399e50d5113e526f61a9": [
+        "RANGER-342"
+    ], 
+    "9918c8d25c35633c86b2a641a29ff1a83dfe51a0": [
+        "RANGER-1162"
+    ], 
+    "e5436877bda7405a327df4ef1a5d5e96b2d98a45": [
+        "RANGER-334"
+    ], 
+    "2b3873e9b9628a25e36f4dd5198d3789cbcc5476": [
+        "RANGER-2269"
+    ], 
+    "d55fad42315022931e210176fb339650181339be": [
+        "RANGER-1338"
+    ], 
+    "dc9240d83e6ae2b7a676c151f265a91a327e4fb7": [
+        "RANGER-766"
+    ], 
+    "6ad60b5d3c29685b2867905cfe8386bc71c00fb7": [
+        "RANGER-1405"
+    ], 
+    "11bf9152753fe20140b8143d437bc7bb4a2159af": [
+        "RANGER-1817"
+    ], 
+    "7fe9290b174121025960535ebccb2b0d91e1855e": [
+        "RANGER-1336"
+    ], 
+    "ca9f7c1824f3d6bd0e2796b9aed4ec5f66bb3baa": [
+        "RANGER-1632"
+    ], 
+    "250c50daa59412d7a8b519a3b615f1b00c048589": [
+        "RANGER-1109"
+    ], 
+    "adffc001f44a38965860ce3e720d708ed13f8747": [
+        "RANGER-1833"
+    ], 
+    "742b81955c8a53318ac95639a4262f16027b3691": [
+        "RANGER-964"
+    ], 
+    "c3b034bff23797130fbf2c718b572bd3a3f56a5d": [
+        "RANGER-2358"
+    ], 
+    "0b59d334ecd150d04c987e261c948edd41077438": [
+        "RANGER-2514"
+    ], 
+    "e20ad3d38435f84abfdc4c8fc54026e56b4f263f": [
+        "RANGER-1087"
+    ], 
+    "416e13a71842f883179d10ae995137bf69b756e6": [
+        "RANGER-598"
+    ], 
+    "70df061dcaa2d670e823d44c86e7b11eb036f56d": [
+        "RANGER-761"
+    ], 
+    "d128b5fe159cc52186c790ab08163718cab65b89": [
+        "RANGER-1542"
+    ], 
+    "b70ec703ad34e4c4996b7ba5a41a233d338297da": [
+        "RANGER-548"
+    ], 
+    "b676cd920cc64e6e8d286f231a714a65f93031ef": [
+        "RANGER-1743", 
+        "RANGER-1284"
+    ], 
+    "ac0eac0b9be10dd4c0117bbbfeed020488c09f93": [
+        "RANGER-389"
+    ], 
+    "5216a89d20813e3a57ca68a383a92513bad955e8": [
+        "RANGER-741"
+    ], 
+    "8ae952943926a00b2ce2a33690d553dc47472235": [
+        "RANGER-1324"
+    ], 
+    "456d22d172925a1d763597b98e90eea103c70eae": [
+        "RANGER-2409"
+    ], 
+    "13f3b998155330132af5c14d6c397ccfe6cb2d0c": [
+        "RANGER-847"
+    ], 
+    "3bc1229ffd098e28e323eeaed47040277955dccb": [
+        "RANGER-1536"
+    ], 
+    "0ae46b7467594bb01038dac0bc240743cfb4f5ef": [
+        "RANGER-1469"
+    ], 
+    "788897211404666cbdbed19316cba65e3afacffa": [
+        "RANGER-256"
+    ], 
+    "79d4fa41f23cb0929ea4071fc2f014f4b640e4b9": [
+        "RANGER-726"
+    ], 
+    "2a309b5c1a44de97cae1657278407037d0f33054": [
+        "RANGER-244"
+    ], 
+    "ea559d39d4a46d79f9c18b721eed31bb1b2c3307": [
+        "RANGER-793"
+    ], 
+    "56e28489607eb7e7da68a76edf98c5f8ca78eb6c": [
+        "RANGER-1602"
+    ], 
+    "d17fa2c7230260cc3d4ddbef3fc6ab8bddb4154a": [
+        "RANGER-2577"
+    ], 
+    "3cd11e75adc5e5ad11aab907f458fd62ec561826": [
+        "RANGER-2376"
+    ], 
+    "6d310e23f1b3619895f85e7108a1d5a54999e121": [
+        "RANGER-2288"
+    ], 
+    "f1135ea2ea6cd48209b73a25be77613c9d355abf": [
+        "RANGER-657"
+    ], 
+    "480776a9eb2004e3684b1d8f92f29fbeb2815233": [
+        "RANGER-1161"
+    ], 
+    "8d0378c567aac7701d388c6be96c6e5794bb9a52": [
+        "RANGER-203"
+    ], 
+    "eea868860d283f53d9d24de8909cf5d68b6cf1b7": [
+        "RANGER-1100"
+    ], 
+    "08d9c4e332cc54bf900002771b63c480d8e1dcc4": [
+        "RANGER-1640"
+    ], 
+    "1ca8de3f4a322e8bc15cd948d616d015bf63625a": [
+        "RANGER-1458"
+    ], 
+    "47ff1cc204916b9ba8c5664b06fa9403600d8101": [
+        "RANGER-2180"
+    ], 
+    "9d2cbfb41ccfed54026589d224d1d012f47d1ae6": [
+        "RANGER-402"
+    ], 
+    "886a9c6e196b12bc8cc0ae49a6d8e9bd8c244152": [
+        "RANGER-1975"
+    ], 
+    "cfdd38268c106b242749c224e623fdd3c95fe830": [
+        "RANGER-336"
+    ], 
+    "e07556457c8b159046016c97aedaa4dc4d0c3ef2": [
+        "RANGER-1657"
+    ], 
+    "95a8dce283647f91d625a732c36db3c8c7434719": [
+        "RANGER-2102"
+    ], 
+    "c22bdecf8e028ec9e91d948d61d3dbbfbd00935e": [
+        "RANGER-673"
+    ], 
+    "a9523814cf4b3763a3a8db7d7eb3161e624074c5": [
+        "RANGER-1741"
+    ], 
+    "c7ad5012be0c6542eae5eff57f29538a0d4498ad": [
+        "RANGER-1630"
+    ], 
+    "a1dd7be65d9e0ac82b45aa6cb357a657ecab8c4f": [
+        "RANGER-1256"
+    ], 
+    "814ed7ee81a6f96ce10ee726d4e02838e178412a": [
+        "RANGER-1316"
+    ], 
+    "4a0d467d92e000fab5ba75ff9782cd433d8f4e2f": [
+        "RANGER-209"
+    ], 
+    "cd9c2fd6bc013a2e5c2d66cf6ad7843c97a513cb": [
+        "RANGER-2359"
+    ], 
+    "ce725f500ffb826f8d121ddef2514f7052013577": [
+        "RANGER-2117"
+    ], 
+    "dac14f91e94af78204997a6cdf172c786a535a05": [
+        "RANGER-2327"
+    ], 
+    "a71dab7fdf43cb939221c9aaa0e34a34df153dd6": [
+        "RANGER-1755"
+    ], 
+    "3250e5c22fb4d4f5048b62bb2d26fc8b706d5caa": [
+        "RANGER-517"
+    ], 
+    "1e590f35d1761804f077da03dab0cd1d8eacde5d": [
+        "RANGER-203"
+    ], 
+    "2d79a01571acd9bdfe50a3f901b6f5ad9b5d35ed": [
+        "RANGER-1404"
+    ], 
+    "7d95b475b55fdfe8f35e6d4cd574cad923f87a16": [
+        "RANGER-1079"
+    ], 
+    "615a70ddbd66d4a2403ef26fa018246b8ac7ddb1": [
+        "RANGER-1611", 
+        "RANGER-1599"
+    ], 
+    "39fc361f817da1cfaca1d21ed679134414bfda93": [
+        "RANGER-590"
+    ], 
+    "04b4e167b14d768a160d4342ed12302f9449994f": [
+        "RANGER-1961"
+    ], 
+    "bd8c234c3155559101a89576714b78e6f6fefea4": [
+        "RANGER-203"
+    ], 
+    "120ea59cd9db1dc835c06a9834b63862c8e03522": [
+        "RANGER-2527"
+    ], 
+    "ded45a82738774097ac5ee4ec7424334dd4f30f0": [
+        "RANGER-2403"
+    ], 
+    "e22fbb10716e34738a35788bbce573545688388e": [
+        "RANGER-591"
+    ], 
+    "13e6b95864e0c91619cfb106b3d15ce7ff8b6152": [
+        "RANGER-880"
+    ], 
+    "ceaed3f3dd590078a59ca9007fec3930542b6152": [
+        "RANGER-2044"
+    ], 
+    "6326d01ca0eea73b48e1f008d5557604bdd48b3d": [
+        "RANGER-1406"
+    ], 
+    "d1cf555bfb4e53c0f71637080406eaeefbfb1622": [
+        "RANGER-588"
+    ], 
+    "191350ff5400a12053c9fb3f08954f82e25d739b": [
+        "RANGER-939"
+    ], 
+    "2a3e15e4cfe7ec67d70a2b45e2598bd889bf6ff6": [
+        "RANGER-1328"
+    ], 
+    "376d32497487b38d2d0a34f31e96c28d3068a2dd": [
+        "RANGER-203"
+    ], 
+    "91a437a29cd58902dc49b422e0421e36c7a07039": [
+        "RANGER-1993"
+    ], 
+    "4b7a1a767211e1ee90348d9806877d4365262543": [
+        "RANGER-1088"
+    ], 
+    "ed1670212422a7186974ecd8906393195017ce2c": [
+        "RANGER-1224"
+    ], 
+    "878e2ac3f656502bd9aba150579de28b657845a1": [
+        "RANGER-328"
+    ], 
+    "4d1abc89cca52e8dad3b2f98bc722439184a29d3": [
+        "RANGER-306"
+    ], 
+    "02c094393f40b209800f740a1ca8eaa8f7f4e43a": [
+        "RANGER-1705"
+    ], 
+    "da58bb09b678f5727cf3abfd2012cde798bce38b": [
+        "RANGER-197"
+    ], 
+    "3edac55fc718baf54edd0148200f461addc60e6e": [
+        "RANGER-2090"
+    ], 
+    "818e1d354312443fd8e29d49861b91d13e239be2": [
+        "RANGER-1145"
+    ], 
+    "1cfa50f1e8627ef1c61b6da8c031e4f2b18420e5": [
+        "RANGER-2289"
+    ], 
+    "45f639f21bb7ae6581443e688392016aa65fb8bb": [
+        "RANGER-2415"
+    ], 
+    "b152d207db038094e95b548e6281e9d768f87341": [
+        "RANGER-2245"
+    ], 
+    "3d2a7c82a4ef2dd65a7ee7cce65acf43418defe1": [
+        "RANGER-1033"
+    ], 
+    "c89b01f28aeda1fa7fc05de7546e1e12614a4319": [
+        "RANGER-724"
+    ], 
+    "6ca739b0406ee2b513f83e9d4f7ada19c5f932ee": [
+        "RANGER-204"
+    ], 
+    "14853bdc61d97fa8d33aa0ab806f8d8abf01bc09": [
+        "RANGER-1447"
+    ], 
+    "cdde1b6e86fcdd92c681b66b9ac291384e41bba5": [
+        "RANGER-1495"
+    ], 
+    "4130d7a5c4418376ab2942f95b6de43ef9976d2f": [
+        "RANGER-203"
+    ], 
+    "74f85991f54c1546d0790f0665339e9feb02b5b7": [
+        "RANGER-2166"
+    ], 
+    "f0b129b7924f57c00a38fed11cb9754dc7c22c18": [
+        "RANGER-568"
+    ], 
+    "e2c638c9d361dd3b5b7a1c5e44c26c05b2278f74": [
+        "RANGER-779"
+    ], 
+    "2429f553ccc835d02c38f720ef64f575e87d68aa": [
+        "RANGER-2183"
+    ], 
+    "6014e64a0fcfe957f4a0ee7e52cc29139b63ac92": [
+        "RANGER-1838"
+    ], 
+    "acbaa5c8800917a682ae756b16939c57cfbae948": [
+        "RANGER-2367"
+    ], 
+    "ab131efd32f9ba3622aef865d1fd8b0832730dcc": [
+        "RANGER-1113"
+    ], 
+    "e7ef5999559065e55dbf6e14ca9c529a8620d528": [
+        "RANGER-1062"
+    ], 
+    "3bbf770456c45af72a1cd52eb9281902137422bb": [
+        "RANGER-2235"
+    ], 
+    "fbfa3193d9b267c18e95048d177f8d68f31a61ff": [
+        "RANGER-1600"
+    ], 
+    "a1977b6afc45367c35052d07d5ea1923dc8e6504": [
+        "RANGER-807"
+    ], 
+    "258a59109a04bfa14e694a193b7cbf441d477371": [
+        "RANGER-2511"
+    ], 
+    "c12cfd97728b1209fa5340a42b9528d008f10db5": [
+        "RANGER-1501"
+    ], 
+    "0981a4628849d4b8f8d5624a10ec74cf013dc188": [
+        "RANGER-1355"
+    ], 
+    "2c64ee2c80380b1c5e6f53c92007c04ca6219268": [
+        "RANGER-2134"
+    ], 
+    "e3f0f41d7d8b4637dce50680c463578f1eacb9a9": [
+        "RANGER-476"
+    ], 
+    "351e26fa45f12f31d6a73e26973dc31d3cf39e03": [
+        "RANGER-197"
+    ], 
+    "c4b0542896714b71bdac0d5e8398354b22e133ed": [
+        "RANGER-1269"
+    ], 
+    "50c639ab13eb4718466cc8dc1a75cd795de14774": [
+        "RANGER-203"
+    ], 
+    "604d3bb797c5e5ecfcc4ed8c62f4e614abf56a73": [
+        "RANGER-203"
+    ], 
+    "2b7122d3ca51623ebe2dc058c228631bd4c37a35": [
+        "RANGER-964"
+    ], 
+    "24a100081eb05276bca7aa07b3a8c2255646c21a": [
+        "RANGER-1124"
+    ], 
+    "184c9b74f9999daeed51f5240ce1d47d3829283b": [
+        "RANGER-2445"
+    ], 
+    "49142eb1b8a31f7ff575eafe74a902bebaf854e3": [
+        "RANGER-2187"
+    ], 
+    "10f5fd6072c46222022816f302f06e51ea078597": [
+        "RANGER-371"
+    ], 
+    "5c648ee906a667fca9193d7e7c234d51ec5e7f9c": [
+        "RANGER-892"
+    ], 
+    "24f053e2636e45171b98e84080ca2b8c3b7cc9c7": [
+        "RANGER-1401"
+    ], 
+    "c8058ad8056c534688551b2e1767611d47d66ab7": [
+        "RANGER-1674"
+    ], 
+    "62100cdbb3eb5373ddf5d637a502ede20c813a76": [
+        "RANGER-1116"
+    ], 
+    "7d4f652c8cfa12e5bad7b28049bdd85ba37e14ad": [
+        "RANGER-1682"
+    ], 
+    "d13617aa7dca31f996cb2090d19bad2176248955": [
+        "RANGER-346"
+    ], 
+    "246d53690eec7db1ac45bc3d598ae6c326e7a8f5": [
+        "RANGER-1127"
+    ], 
+    "f039a3e2d22f56b2f54173c7817e8bf14baf2ebe": [
+        "RANGER-2249"
+    ], 
+    "7771e7efbbb71198f88974022d18117b2872a669": [
+        "RANGER-203"
+    ], 
+    "53623080a218954e8ce1464342c13a196d58127f": [
+        "RANGER-865"
+    ], 
+    "ffb895e2c2fd522a69018aff6e7bc6b322b46a69": [
+        "RANGER-809"
+    ], 
+    "beb08512936dc8537c36a4f5b3dd6355ad57ed94": [
+        "RANGER-617"
+    ], 
+    "b73b2904251a6b99556fe0c8a6e67ea77f226053": [
+        "RANGER-344"
+    ], 
+    "c3ca247a9730d5491757850bb1d43fe68cfa8d3f": [
+        "RANGER-1054"
+    ], 
+    "4981181a9a9f261d3fb30485aec709a1bccb3292": [
+        "RANGER-1437"
+    ], 
+    "f26bac88fdce0faa0309a7b13e93990af3838a47": [
+        "RANGER-1628"
+    ], 
+    "1e3e53f4cb61a01f666f224ff559d00aa5830570": [
+        "RANGER-804"
+    ], 
+    "eed536b1335b324232fce02ae2368d479d75c343": [
+        "RANGER-1175"
+    ], 
+    "ddf9cfa74f22a7852430324e1c57be87dc72078e": [
+        "RANGER-329"
+    ], 
+    "c498b0fc1cee00e89680b08869d2ec5afbce46fb": [
+        "RANGER-996"
+    ], 
+    "b3dc7bd42f4144be258265d22040cecef0bc2ee3": [
+        "RANGER-1879"
+    ], 
+    "716591dec8a80ac50d4fc0ff4a1c3337404e3ec7": [
+        "RANGER-2520"
+    ], 
+    "e3d50db85c289f30f71ba3ba27eb23192a554281": [
+        "RANGER-1104"
+    ], 
+    "9286cf28e589ae0ef630e309cd5f6057448d09f1": [
+        "RANGER-825"
+    ], 
+    "6de1bbc8f6382a3fa774205ddbb4b9d36dec769e": [
+        "RANGER-503"
+    ], 
+    "3471cc5806a614efe55422ae0756b9e20777a5f3": [
+        "RANGER-203"
+    ], 
+    "c5f61c898244aa436997990df19778766b0db295": [
+        "RANGER-546"
+    ], 
+    "0f66b24f855df15f519c4851299cf1ee4748c2cf": [
+        "RANGER-1003"
+    ], 
+    "432f9f7ac0b98fb0b1f144f56df4f7a7efcca5f2": [
+        "RANGER-1412"
+    ], 
+    "a62060fb08ab515c6251372098930dcfcd9bbdba": [
+        "RANGER-1860"
+    ], 
+    "b35551124f765d3129eca6922102b29ae6c87586": [
+        "RANGER-1944"
+    ], 
+    "95b2912e93a69fac4bc1081b49cf62f46c78d176": [
+        "RANGER-1547"
+    ], 
+    "5b371c7a6666bf1504b84ce59caaaa44d49e46e6": [
+        "RANGER-661"
+    ], 
+    "d3d591385ceb23dd179e1869886d10aae8ad9990": [
+        "RANGER-587"
+    ], 
+    "4f7519293b506340486e2bbdfa93adfb414da126": [
+        "RANGER-1558"
+    ], 
+    "d4b50119ddc7a0c3e81cd8ff84ededb93737b1f3": [
+        "RANGER-289"
+    ], 
+    "49e890e26360c742ccbf80d2741df7bec48c6319": [
+        "RANGER-726"
+    ], 
+    "89661939fbbec5583688f9a7361fa5bc729c4e7a": [
+        "RANGER-395"
+    ], 
+    "a684b48c5a09b2432017249eefad70bc8e36123a": [
+        "RANGER-1124"
+    ], 
+    "3246f85e8d08b53426e17a30527e24917aea2cec": [
+        "RANGER-2546"
+    ], 
+    "bc634846b5e9c177b38ba862e25a559c27adb070": [
+        "RANGER-998"
+    ], 
+    "f3473d23fc2c87ff03fc5c2c826a26155742e791": [
+        "RANGER-1378"
+    ], 
+    "2ba2a2e581cb2e6afd1bc288d26fdc8ef369d55c": [
+        "RANGER-440"
+    ], 
+    "09fdd96d18f1f1e74332d054f58aec9dbcf180d9": [
+        "RANGER-203"
+    ], 
+    "2a7782db30f983ddacf9ea3fa53302a37a8b965c": [
+        "RANGER-2321"
+    ], 
+    "4b6068c5be42607e0a731c612a1a9294eae1b9c7": [
+        "RANGER-878"
+    ], 
+    "09b52b939bcd957be7e5a6a85a138c0fee29f9df": [
+        "RANGER-1124"
+    ], 
+    "586753d87c06b96be7fbb58292e4189a26ddb70e": [
+        "RANGER-1017"
+    ], 
+    "14a0b8ebbe9baf8ad9ea4855187de0ee1e49e708": [
+        "RANGER-1326"
+    ], 
+    "25517f0b1ff57e2da4a0844f4559390508ecb57e": [
+        "RANGER-199"
+    ], 
+    "4e2e83eef660fae5287d4d1dc7bbea68015445ee": [
+        "RANGER-836"
+    ], 
+    "83b67df99b87e8fa14564e237623f8749f1fab81": [
+        "RANGER-1751"
+    ], 
+    "681e1ef5ca8d1475a47fd434bd53afbee5b8a51d": [
+        "RANGER-519"
+    ], 
+    "cd58419919aaac19a59e4f59981b0ff34374bb7a": [
+        "RANGER-697"
+    ], 
+    "ec1543926abf2bb88bbad8ac61d84e9b5858b06e": [
+        "RANGER-484"
+    ], 
+    "503c827f83c2d15a8c4b14963f51a18b2a340db2": [
+        "RANGER-209"
+    ], 
+    "d31aabe2fa3f21060a5ec7e8f0263d78c9f357e2": [
+        "RANGER-1801"
+    ], 
+    "a4140bc0b183e0d91a597be8d7394cd3a6452097": [
+        "RANGER-994"
+    ], 
+    "c0c1b155e5edf167b627da9b72d8d3df0ecc13c5": [
+        "RANGER-1407"
+    ], 
+    "78940677b50dea8565a4d461633e0a05132c1e94": [
+        "RANGER-192"
+    ], 
+    "880692ae98f7008ec5d5bf34a029cc461dbb0318": [
+        "RANGER-882"
+    ], 
+    "7a80c8e3522fb62ae5f3f53f6df786720a0569be": [
+        "RANGER-753"
+    ], 
+    "9d15be5856ea19efded57114e71b069921b57704": [
+        "RANGER-532"
+    ], 
+    "ea7f715bae3a9c96b018b79195c5a7721e79f19d": [
+        "RANGER-498"
+    ], 
+    "11f73cd8ada0776b90f611ccacb7f0dd4fa7a780": [
+        "RANGER-705"
+    ], 
+    "66b778832907cef61d6930b0995aacb07251db9b": [
+        "RANGER-704"
+    ], 
+    "26f959fd23d1967b535a1311e5500cfaca9706d4": [
+        "RANGER-255"
+    ], 
+    "a8a0b5533c4ef59638a116fadd9f0f0d68f5ee88": [
+        "RANGER-1411"
+    ], 
+    "223a14974c4614ecf0d0d537c62b5b1319d8d7b7": [
+        "RANGER-1345"
+    ], 
+    "acefb0737bc25ad6cf2f23dc0c2fb7002837d84f": [
+        "RANGER-232"
+    ], 
+    "b8d94100f160810808378db216710192d35ae7ac": [
+        "RANGER-234"
+    ], 
+    "0512610e19c69188ca9f0e44a0f7701888c1b404": [
+        "RANGER-537"
+    ], 
+    "360cdd683c0c74db58f12fa0fb3f912a8b6c6a98": [
+        "RANGER-1413"
+    ], 
+    "6ea86e2cb6266783101dcf0f44c2738f94cb490b": [
+        "RANGER-1019"
+    ], 
+    "751b33c3ecbf498f30e7c904f977822136f90fdb": [
+        "RANGER-2110"
+    ], 
+    "49b8a7a26653b028b7adaff3809a88f59fee3bf7": [
+        "RANGER-1991"
+    ], 
+    "16353c268e9d4c4c5cfd44f12937386165435493": [
+        "RANGER-1659", 
+        "RANGER-1599"
+    ], 
+    "93b489e4c5741ccb27e57361fb17958b5ba5f15a": [
+        "RANGER-1625"
+    ], 
+    "0cf4d406a66663eb05527a35fa18e657ab232997": [
+        "RANGER-479"
+    ], 
+    "caf7e9b86ece776de465a1961f89a918ba4cbef7": [
+        "RANGER-1683"
+    ], 
+    "48bf487e2b1eefad120bf005d8aea019adeb69d8": [
+        "RANGER-2278"
+    ], 
+    "765266e6529c79ba40f510339721e249c7230a8e": [
+        "RANGER-197"
+    ], 
+    "1f65120758a10476e2bdbcb580bea5ba7a8a624b": [
+        "RANGER-1397"
+    ], 
+    "39439cebff0e02a3f680b67ce7b3c46380c45c49": [
+        "RANGER-914"
+    ], 
+    "fe0858a6c11d0a3c44611c2c4f58c1db0df002c4": [
+        "RANGER-777"
+    ], 
+    "7a216a80afc9fda0a96cb2d07b839dbaf9355946": [
+        "RANGER-2076"
+    ], 
+    "be6bc405541da982f8339c9db3664011fddad357": [
+        "RANGER-632"
+    ], 
+    "e2a590096a3637398565f70a53726e4b253ed1f9": [
+        "RANGER-562"
+    ], 
+    "f46c5cd910bbe52796d3555d55c381a8186eea4e": [
+        "RANGER-863"
+    ], 
+    "b8ebee5b0924368dc131a1f0b78d1fd684e8cbda": [
+        "RANGER-203"
+    ], 
+    "35ff7ee79a5c18f50e62d4f78ff7a5a03598fe05": [
+        "RANGER-1225"
+    ], 
+    "1df13a47ce8b2df5751bfd4fc7490abb5385c344": [
+        "RANGER-1380"
+    ], 
+    "a16889fbbd189ea6282030b528f8d17fac79144a": [
+        "RANGER-1742"
+    ], 
+    "eb1355eaa2ab9c8747cf0a18290afe601b5a5418": [
+        "RANGER-425"
+    ], 
+    "a6e0eb908e932ace080d2b9c9244be9e0727d2ee": [
+        "RANGER-1222"
+    ], 
+    "f404418a4b220fd0d34333c854e6edf88d061650": [
+        "RANGER-2516"
+    ], 
+    "7f8e0605af68f92177b4aa54e0cc429dc809a457": [
+        "RANGER-606"
+    ], 
+    "d9f54d72ca7eec9eeeb4f12f5ebfa71b61b2acc0": [
+        "RANGER-1834"
+    ], 
+    "0bc79e9fb794feb0f7460284c6c355d08dc9de6a": [
+        "RANGER-1160"
+    ], 
+    "f96a9276f1b3ed920735e550a5c1cfe5cf560fe7": [
+        "RANGER-2007"
+    ], 
+    "b068bfe56a63d70f47982f6aa60ebc5c42317b73": [
+        "RANGER-1948"
+    ], 
+    "269617d5dbf13fcbf9600efca72bc5a803f49a92": [
+        "RANGER-728"
+    ], 
+    "140f7efb8ad202105bb23aa16469a961004b0c4f": [
+        "RANGER-671"
+    ], 
+    "6e24cb2b9352844f29e82ab8821756cb8588f957": [
+        "RANGER-2413"
+    ], 
+    "a4c3beb7137013f7d5c338b17e3e465cc4a20031": [
+        "RANGER-878"
+    ], 
+    "e0c1e355a94cdecdf60e6d9eb0c54ff6d3bd412d": [
+        "RANGER-1826"
+    ], 
+    "f8931ff65721a49cfd7998522f75774bb3e861e6": [
+        "RANGER-1868"
+    ], 
+    "28439c804f8895d8d79ca457422841b6fb86a08d": [
+        "RANGER-1016"
+    ], 
+    "31701840c03d2ecd87c282dae874c55865bcf907": [
+        "RANGER-1210"
+    ], 
+    "259fad12bf86c93a8eef09dc4d1b134543211b48": [
+        "RANGER-932"
+    ], 
+    "0d7f8dea8a507c602d860e39d6d94738bbbc3a54": [
+        "RANGER-203"
+    ], 
+    "c24c9bdfd2bc813febf16736877b7f43cd8bfeb5": [
+        "RANGER-1763"
+    ], 
+    "5b169d42d177984e2534bc76b293944610be987d": [
+        "RANGER-813"
+    ], 
+    "1ba7128dcb4f863658c965e061432480ffdd3020": [
+        "RANGER-1791"
+    ], 
+    "c18f8bf7407809e2917abd7f00406043281a7e27": [
+        "RANGER-606"
+    ], 
+    "68541c92afe3b6500ef28b3a6ee01149a337ad20": [
+        "RANGER-1173"
+    ], 
+    "5d5a0cd7198ee3590645c193c03708de91899420": [
+        "RANGER-1448"
+    ], 
+    "6f888a61f2b3a39fb46b04a37b5940d5403a88a1": [
+        "RANGER-200"
+    ], 
+    "8ca94c113ed565f58aa256adb99e6b99ec44ac6a": [
+        "RANGER-1788"
+    ], 
+    "7fc74fccc9ab4e1b1f9a369b92e762afe241fcb3": [
+        "RANGER-1781"
+    ], 
+    "57783900cad2d2a28f47e36ebea3864b8ffe38bd": [
+        "RANGER-1555"
+    ], 
+    "ea9954f4d17ea02c54e7ca9f8f894176846c6462": [
+        "RANGER-448", 
+        "HBASE-13482"
+    ], 
+    "2d8d15aebe6b19cd70d994614afe10a328bf8db0": [
+        "RANGER-941"
+    ], 
+    "2a3ada00603b17093678a78c4106ca91a4b5a2fd": [
+        "RANGER-1530"
+    ], 
+    "276f2215fc424ba06cef56a4c432e99914482015": [
+        "RANGER-2417"
+    ], 
+    "1031041296e64d193e4234e80823ebc8e4ee7e91": [
+        "RANGER-487"
+    ], 
+    "b2a2516d21095046ad9d1c1748e8ee38985f0e17": [
+        "RANGER-1431"
+    ], 
+    "57222febb111066c0867618b89e36c0d44c653c5": [
+        "RANGER-2015"
+    ], 
+    "e8b58a91306be000894f6f4a7b0d98bdd5e3b6fb": [
+        "RANGER-203"
+    ], 
+    "5ab18c4ddd5bda99a7f1722728bed41b84de788c": [
+        "RANGER-2096"
+    ], 
+    "80c8198337060b89bbcde05331ca65f7e06a0105": [
+        "RANGER-2122"
+    ], 
+    "f72e949ebdbac471ad858f74839f5341bbe43275": [
+        "RANGER-481"
+    ], 
+    "c213c9587dd6c2c8403eab30470575a7e3bbdb07": [
+        "RANGER-1561"
+    ], 
+    "58c7de610b1788ff4442a50fb1b3d68e1ebf9502": [
+        "RANGER-636"
+    ], 
+    "cafe869708244c3334259f5c297e32e8a772204d": [
+        "RANGER-429"
+    ], 
+    "58fc47e6247500f8c67c55d933ce99c3c47a97ef": [
+        "RANGER-1884"
+    ], 
+    "ac5a03667cf167eb7a1d83d2c9aae8c2ab946494": [
+        "RANGER-1153"
+    ], 
+    "3a363c53037453efcd2e4c51324f92daf9a291b7": [
+        "RANGER-917"
+    ], 
+    "27bd3fe5c5e0c147d386f1c4441253d92f122b30": [
+        "RANGER-1531"
+    ], 
+    "967517d3f58a6057553dcf1357b124d5d638b7f9": [
+        "RANGER-425"
+    ], 
+    "c80ee0470eb5f3704bd7acfa7fb9dca831bc5c9c": [
+        "RANGER-621"
+    ], 
+    "370cb4fc6c634f5eaccb91727ae8fe1b2b262ea1": [
+        "RANGER-1707"
+    ], 
+    "981f01a7afddbbfb555625de2a8e1d868479ec47": [
+        "RANGER-935"
+    ], 
+    "a8b4976ded4c4f980c351dd5c90f990c437107cd": [
+        "RANGER-1574"
+    ], 
+    "99121ecc50c617ad335508b1b6bffa61ca4ee3b2": [
+        "RANGER-772"
+    ], 
+    "7e75e9b1c4a0e6dd64d3ff09da1f713bc43b7e26": [
+        "RANGER-1652"
+    ], 
+    "a7d29df1f735a102c59079b4dbe7dde0129554f9": [
+        "RANGER-2283"
+    ], 
+    "988f8eafeea04772dfbbe5b5ea838984c2bf522e": [
+        "RANGER-1686"
+    ], 
+    "83674c7d54d78821edc4a5e72e9ec8dae68fb4ea": [
+        "RANGER-1248"
+    ], 
+    "2b988a83638d36528a4690705435023bc1f9fcef": [
+        "RANGER-2580"
+    ], 
+    "b6c631dbdba2329b760eedeb58c983555648f504": [
+        "RANGER-1502"
+    ], 
+    "9260e0de099d1c4c092c276217088b7512db134a": [
+        "RANGER-1797"
+    ], 
+    "cdcb1c049ea838184f0dfd70cacc6f835062401d": [
+        "RANGER-461"
+    ], 
+    "7758ed1cabb2052d1d212bd3f118036dd2f89efb": [
+        "RANGER-203"
+    ], 
+    "fb6e94f13e674988d7d237211f29a24a80fdc3d4": [
+        "RANGER-512"
+    ], 
+    "2bbb47619c63840fff2caef621c3fc2339798c57": [
+        "RANGER-807"
+    ], 
+    "a5ab9a34d3c8a66d3119f9bd552bd35ce68b03ed": [
+        "RANGER-1560"
+    ], 
+    "1201f2e3f06693f5c8cc115835020a9dbf185c20": [
+        "RANGER-203"
+    ], 
+    "dae46059b940d258449779d3fbb0963df82936c0": [
+        "RANGER-1622"
+    ], 
+    "37667d7faf87ec0000e5d236a19891046d66f1c1": [
+        "RANGER-1490"
+    ], 
+    "94bf5903baebfd6dfd2e8947aa2099e3b1a524db": [
+        "RANGER-353"
+    ], 
+    "809a78b4a9549ac1d28ae600fc23e769c50ede20": [
+        "RANGER-1998"
+    ], 
+    "93e578d48bf5caa36097ca84b432312919be7884": [
+        "RANGER-203"
+    ], 
+    "0e8831d5da5daba52c67cac24b314cc982d288c6": [
+        "RANGER-2554"
+    ], 
+    "6cfb01883fb97bd98e5e5b7baacb3cdd85a15b68": [
+        "RANGER-1483"
+    ], 
+    "4e80d187cbce27aeecef394287be2fb4c890f9e2": [
+        "RANGER-1013"
+    ], 
+    "2ed2a009beda2e9c2aea01fa16b9404235a90d2e": [
+        "RANGER-1216"
+    ], 
+    "a87442a666f6f8770ea48445e9f296cfbfc16a19": [
+        "RANGER-580"
+    ], 
+    "fe44eb027a063739fd71d9936281338ed29285da": [
+        "RANGER-664"
+    ], 
+    "96dc7f4b01740ca8d55995174b22fede099ebf8e": [
+        "RANGER-976"
+    ], 
+    "dc0047e9af90f204ca78c93209a363a5ba790b91": [
+        "RANGER-386"
+    ], 
+    "2d406044fafb574400bc66d06ee679f6dda5ed23": [
+        "RANGER-1379"
+    ], 
+    "a5d212871588211870b711cd6ec5f3650c14079d": [
+        "RANGER-2336"
+    ], 
+    "a98dc785a61ee9bbb1cdb4f8caac5a87dd163ed1": [
+        "RANGER-1832"
+    ], 
+    "8f07737f97c111eb6c088917076a2d86eb117a86": [
+        "RANGER-687"
+    ], 
+    "33bf690cc7d09aacd10fa9f12ba073e5e6e1e124": [
+        "RANGER-1843"
+    ], 
+    "e1346179aae59ffc3b3319cfa643f39e9aef863b": [
+        "RANGER-1512"
+    ], 
+    "ff4a817e592f423d0b248bacf4823eafdddff766": [
+        "RANGER-203"
+    ], 
+    "f3467abc3dce82c66acaa4530ce8c6d34bb455a2": [
+        "RANGER-733"
+    ], 
+    "776533f9463a2c9e7c6e4c83845e955bc70d4820": [
+        "RANGER-507"
+    ], 
+    "f3d999b4e5731c672a5de0b6e4c90221844f7d53": [
+        "RANGER-1120"
+    ], 
+    "4a1e4928ac4cdb2c7494d0700efe0e8fbd2980dc": [
+        "RANGER-1365"
+    ], 
+    "e34eaf11e334dbf6f95e67f1d0a3573c63da9ee5": [
+        "RANGER-394"
+    ], 
+    "68a4352b3e2ee3ba6c2f9904104641b7a387065b": [
+        "RANGER-583"
+    ], 
+    "0f8d0c5f7550d0c5109face03fce4ea24247a663": [
+        "RANGER-482"
+    ], 
+    "c5716e5dbe058cefd7bb07079fc4bab3f16b2749": [
+        "RANGER-408"
+    ], 
+    "7684e5f492d3d6810dcd1b9b59e59e06d4ee9cf1": [
+        "RANGER-385"
+    ], 
+    "8c4920e70c6e700615a4fc12bfa81684337ad269": [
+        "RANGER-2344"
+    ], 
+    "23046e9e81941060df0faa76984a64832a42f516": [
+        "RANGER-1819"
+    ], 
+    "16f481ba888077acb4daf5705896a8318aa6a24e": [
+        "RANGER-1329"
+    ], 
+    "0ba3e129a068cf68ea8c2a77f003e112d0d54e08": [
+        "RANGER-1562"
+    ], 
+    "e391bdbdd63c077ed1c21bfd4ad73a774d3361f4": [
+        "RANGER-360"
+    ], 
+    "93116a1c69dc795746b350dd12c94ddbe0e89fe2": [
+        "RANGER-2244"
+    ], 
+    "11aa58b634606908c217a23159c8a6d8c7733328": [
+        "RANGER-1315"
+    ], 
+    "e274dc3473cec3b123c05adee4c93066e3d4679f": [
+        "RANGER-363"
+    ], 
+    "139bdf36af4e3262e8b5cb4a45e0b804b95a8ab6": [
+        "RANGER-887"
+    ], 
+    "b2eb42532ddf6c84dd1e1246ceaf08753f3d6044": [
+        "RANGER-799"
+    ], 
+    "8df90d467fac60e716599113b3994ef435d8dff4": [
+        "RANGER-256"
+    ], 
+    "8d32649f935fc0ade400db94c20d909fa1f767e1": [
+        "RANGER-1638"
+    ], 
+    "1d6a2590f850248d20065e2b3a58ed8bc86b9e95": [
+        "RANGER-230"
+    ], 
+    "5526e60c7055a66b033d66bd337272a0b8f130bf": [
+        "RANGER-795"
+    ], 
+    "1eb8938debd01c5c7aa5faf6c32179a0f2cddea5": [
+        "RANGER-1330"
+    ], 
+    "7ada8bc2cb547b589067aa4ef7e834cb41a42f30": [
+        "RANGER-1444"
+    ], 
+    "0ef1622b997861b848c2ab9606932b4316421cbf": [
+        "RANGER-1253"
+    ], 
+    "188b7b62cbbec5f84201efd7fdd814d87c17f728": [
+        "RANGER-203"
+    ], 
+    "b47fe34779beb4be49015ca2f3dfecae7413135a": [
+        "RANGER-1639"
+    ], 
+    "786bb3a22deaab1338f56893841804fc8134da1c": [
+        "RANGER-1451"
+    ], 
+    "2836dea0b2ff4ed42e0130086d07e183b03362fc": [
+        "RANGER-888"
+    ], 
+    "07982526f67964f1b32e315fc5382456fafdd7eb": [
+        "RANGER-1094"
+    ], 
+    "ea5bf67e72f12ae170e3ba93fc279016077013c1": [
+        "RANGER-968"
+    ], 
+    "a93e31c898b74a2a0ef5c902c3babe309d1a7f03": [
+        "RANGER-203"
+    ], 
+    "9f639f3c5876c7134f43df33467691a2b01735a7": [
+        "RANGER-2186"
+    ], 
+    "fbc7f19db32200bc35211cbe6c309e8a3e53fed0": [
+        "RANGER-1366"
+    ], 
+    "32999cd07c4dae454e0dde8fc3433c0e822d068d": [
+        "RANGER-1740"
+    ], 
+    "b7a1cc05c9607e02ce91079ee0d62c5d547ba069": [
+        "RANGER-1671"
+    ], 
+    "69f546a6d15ed08062512e8efdd20410ed3720ea": [
+        "RANGER-999"
+    ], 
+    "9f559d5fe955dc103792a5bd40caa7cb12d4c5c7": [
+        "RANGER-232"
+    ], 
+    "626f92a9226ea6938578b7d18c3ee7bd835c958e": [
+        "RANGER-2100"
+    ], 
+    "7ee4aac17fc61414ec97b24ef0c3cfbe2e9f5c71": [
+        "RANGER-1018"
+    ], 
+    "e10bad4da7a73d398a788d0881b4944dadf69b61": [
+        "RANGER-1619"
+    ], 
+    "66b1f95d55926ef1788107192c65a1eef9a04abb": [
+        "RANGER-203"
+    ], 
+    "97280ee10f8cb1c624e348227fc696adffa731ce": [
+        "RANGER-1820"
+    ], 
+    "67e64d2e7c1d5ba83078eaaedddd5946c1cba9e0": [
+        "RANGER-964"
+    ], 
+    "7e429405c46fb8f9c5e19682db275be5a308a171": [
+        "RANGER-875"
+    ], 
+    "11e869f42330a00771ab200ad9e0e176cbd7787a": [
+        "RANGER-1263"
+    ], 
+    "820c6d251c44899c23e6f189eefeb9a79ca7384f": [
+        "RANGER-1665"
+    ], 
+    "296de339ae174ff2c5c4a16c8f81a1bb38defbb3": [
+        "RANGER-951"
+    ], 
+    "6ba371535ee99aa236a16d96922652e2fa056422": [
+        "RANGER-606"
+    ], 
+    "81d1584a2c8337e5fca81bf5cc237c3e66666e4e": [
+        "RANGER-1781"
+    ], 
+    "e22ee9607206ad387572e3cac0aac32a562c57d5": [
+        "RANGER-1596"
+    ], 
+    "cd00c1020af18691c27a156e5180e09b45b6c831": [
+        "RANGER-2069"
+    ], 
+    "6a803eaa1a569753974e2c550a58fa1c2cf7e443": [
+        "RANGER-203"
+    ], 
+    "cfb2cdaded11c9843411936bf0802d8fd2d2e6e9": [
+        "RANGER-2079"
+    ], 
+    "520ae585b948e13c082f7911db7978d505bd9eac": [
+        "RANGER-225"
+    ], 
+    "cd4dbcbdea320f7782a9998a039919694fe544d5": [
+        "RANGER-1413"
+    ], 
+    "001c91155a9439c26961277e68c355f86f49fec6": [
+        "RANGER-1281"
+    ], 
+    "a6daa264b6752ecd64473462799b774f621a2f6f": [
+        "RANGER-1581"
+    ], 
+    "3e04f089c9ad5b8e749c3faa08447cbe04be6dba": [
+        "RANGER-2356"
+    ], 
+    "c3cfb4da74b3a1edb11901f2e59a9fdbf5b7bcbc": [
+        "RANGER-2544"
+    ], 
+    "2a5b55e1bbae108432c20a5977f8ce4fe757b5a0": [
+        "RANGER-1628"
+    ], 
+    "d8ab9468823f5f5c7c46582962f946a2bab5ce05": [
+        "RANGER-2371"
+    ], 
+    "c19b1813363760ef384134ea1e83fedeb49d25ca": [
+        "RANGER-1083"
+    ], 
+    "84a03b1590c4b3857fb6808d1577b4353116a28b": [
+        "RANGER-398"
+    ], 
+    "3d59099dcff757d420748793d6d9abe904a59165": [
+        "RANGER-2238"
+    ], 
+    "0f4d0abde162a0d021da04f32e05b20c6c2f5a57": [
+        "RANGER-1059"
+    ], 
+    "e4122919c46bd9fec38a76b27c7e0f5fb98a5f5b": [
+        "RANGER-1357"
+    ], 
+    "0b258f8fb9be603ce819e1ce85af7f07efdd8319": [
+        "RANGER-710"
+    ], 
+    "11b3f309176002aac571fbb459695f3106b8c04a": [
+        "RANGER-2536"
+    ], 
+    "be03c44b6e978dea70cac629566c3826a835db6a": [
+        "RANGER-687"
+    ], 
+    "23c7b1148533275dffb37853b49a6ebdb8126a7e": [
+        "RANGER-1100"
+    ], 
+    "f31274b8694563655691734ed74f6617109dc794": [
+        "RANGER-502"
+    ], 
+    "88c73dfe682c9b868c6c8c8ecc34082afb5e1e71": [
+        "RANGER-1445"
+    ], 
+    "c23b3743fa432fb242bd57da7693d88e1f8033bc": [
+        "RANGER-1554"
+    ], 
+    "10d8f6a649f52230c85a7c3e2f3b53623892f814": [
+        "RANGER-1335"
+    ], 
+    "879a4dfddca4218148a738ef20001b020f4b9f3e": [
+        "RANGER-1914"
+    ], 
+    "04536c6c74cd54378156f9c365973b3d53033f25": [
+        "RANGER-323"
+    ], 
+    "0ecac71fd5fc61642fef9b25fb2e12ea69052187": [
+        "RANGER-882"
+    ], 
+    "8ea482af6fc34cad60817bb1f5ffcf383850784c": [
+        "RANGER-2062"
+    ], 
+    "fda7b9fb3a6af60b321d5869ef433b7be4eb0096": [
+        "RANGER-203"
+    ], 
+    "b66eafe0802ba9656b705103e9ed7ab5accbd916": [
+        "RANGER-2485"
+    ], 
+    "9aa7262d3fcfb8425823a996eb32cc6fbc062ab5": [
+        "RANGER-1383"
+    ], 
+    "2867cc55e7f4a4923bc9e73c5b3854d2cfe7305f": [
+        "RANGER-807"
+    ], 
+    "6194ea0c4d4059669f4f679741991fcfba3e495c": [
+        "RANGER-780"
+    ], 
+    "0ffdf13d3c8556a75d88404ad90fedd497979754": [
+        "RANGER-2406"
+    ], 
+    "7c6d268f32da2c00ee6a462772e49f24f13d0069": [
+        "RANGER-439"
+    ], 
+    "1ab501c3bce92d4f6c9d4a5b9168dd34c0310289": [
+        "RANGER-1980", 
+        "RANGER-1897"
+    ], 
+    "343668b42afe7265c08064c7fb0bf40f7184ea1e": [
+        "RANGER-2060"
+    ], 
+    "bae15a962ac87f02c4d982edb2d5bd566dec5b7f": [
+        "RANGER-1603"
+    ], 
+    "7901d43c21d3e392c2f88ed40c22d5c84e227fac": [
+        "RANGER-1251"
+    ], 
+    "cdf6df9350f7040364d8a4b0295b54589568cc23": [
+        "RANGER-481"
+    ], 
+    "615e2c52ea0835152a57da7732960af3ba43bec5": [
+        "RANGER-203"
+    ], 
+    "e16fd4c338fc318c26721107107b12f414df79a3": [
+        "RANGER-1857"
+    ], 
+    "21f8b63f5d0c6e422bc19adb515ba8a542955ab5": [
+        "RANGER-1901", 
+        "RANGER-1846"
+    ], 
+    "27c36c1daedd28ef20872cb786afca177c0a6e23": [
+        "RANGER-2547"
+    ], 
+    "10d755acd15d4b7a604571838559eca0e9f44150": [
+        "RANGER-759"
+    ], 
+    "bfe4ab2e16cd3a66a24e3e9dd6a2bdc8f0aa4bbe": [
+        "RANGER-574"
+    ], 
+    "97fb9510e0baa3481444d24d7675e90ecd3ea5ad": [
+        "RANGER-1061"
+    ], 
+    "b2295a5e2e8b4848c60e6ed9929147748f5d44cb": [
+        "RANGER-1951"
+    ], 
+    "2b593e64afcd64301a8c2fed2ca8ce3b5c157293": [
+        "RANGER-1955"
+    ], 
+    "da3a3233d5679284142eb2887c91a754a0da70b9": [
+        "RANGER-921"
+    ], 
+    "c1de019f45437c632ee4aaf97b9d43cd822a4183": [
+        "RANGER-392"
+    ], 
+    "13d1b185f5d59a0ca4d2cf7fe835f840a7001f02": [
+        "RANGER-1952"
+    ], 
+    "ad0273f135bafa2b429fdb7b878fd227815a0a5e": [
+        "RANGER-2061"
+    ], 
+    "90a99603882494c45102d50059803535bf4d0165": [
+        "RANGER-2438"
+    ], 
+    "fabc9e2059f748585799d85eecf012c2fdc22145": [
+        "RANGER-391"
+    ], 
+    "95920591b0ee325b1bc340fb0ce4a9d9bb7f3ed7": [
+        "RANGER-650"
+    ], 
+    "06bf91715310915cc5e124ead572c4ee866b59d3": [
+        "RANGER-2003"
+    ], 
+    "9fd63d0061997bb2d20f860f5df70c195363a0f0": [
+        "RANGER-149"
+    ], 
+    "e99d911dc94fd70ad46e6c2e5568aa64d9eb1bab": [
+        "RANGER-203"
+    ], 
+    "2ca971756db6ff2a1c812dcab527ff79968122e5": [
+        "RANGER-203"
+    ], 
+    "4db23568ce81169ca8d750b9953110b0efb169ba": [
+        "RANGER-727"
+    ], 
+    "a6243203949ce2b9559420f866c402a11cfc6b9e": [
+        "RANGER-615"
+    ], 
+    "8a22e5d8ecbd252ab7939f1482e2169c7a37c25a": [
+        "RANGER-2264"
+    ], 
+    "220c13237589e4f3b624bf39074d800d895be909": [
+        "RANGER-1009"
+    ], 
+    "a5d2bedb26e210a43c066112c11ccd81d95672be": [
+        "RANGER-1149"
+    ], 
+    "3eabec946903be55bcb4eb12ab40a0421de2a192": [
+        "RANGER-2463"
+    ], 
+    "efd317f90ec0a2ffd750292807ea2116054d8cc2": [
+        "RANGER-713"
+    ], 
+    "6e07ed2c9306c8541df24dcfb5f27324b80d45be": [
+        "RANGER-1040"
+    ], 
+    "96d7fb48e04e3cabb8bd283e27626007bde1453e": [
+        "RANGER-181"
+    ], 
+    "df0e650881b48530f9495fdaca28feb6bc54a719": [
+        "RANGER-2013"
+    ], 
+    "93b562951f5ec61c31edf9f7bc8b85a583ea8870": [
+        "RANGER-792", 
+        "ATLAS-394"
+    ], 
+    "fb1a99a965294d8b0485c011221cbb1bc8d4d030": [
+        "RANGER-203"
+    ], 
+    "c01d01f54622286de7ef17b302ae0a734664a9d1": [
+        "RANGER-1522"
+    ], 
+    "29fc2708263d76bffacb0ccfe86f605bcdf0a79b": [
+        "RANGER-225"
+    ], 
+    "c4a1a2b1304839a24074c9682abcae0edc6821d5": [
+        "RANGER-362"
+    ], 
+    "10f1282e349de976fce8f38ee529e923c2429cee": [
+        "RANGER-1170"
+    ], 
+    "32168d60dc3e0a44c9585a67100c9da8cc7b84e0": [
+        "RANGER-1257"
+    ], 
+    "e2fa2e2f70ca9bcef33466dc82d4a40b6d13e4fe": [
+        "RANGER-2241"
+    ], 
+    "96fd15e46ce2f929707a6d7f24b252124af4930a": [
+        "RANGER-297"
+    ], 
+    "fe4db5764c1140dd663a3a41ef6b13516645ad5e": [
+        "RANGER-2262"
+    ], 
+    "033e4eca4b418b897ecd437f655c2e56f4e72c66": [
+        "RANGER-203"
+    ], 
+    "c80d81189e5e15d912176ac8430a3b0e9e7bb0a1": [
+        "RANGER-1354"
+    ], 
+    "40f225f0f103a8ad47683219afd6814c0e2d99b7": [
+        "RANGER-777"
+    ], 
+    "1be6d93544448e86d3aa682243499418f2210206": [
+        "RANGER-1063"
+    ], 
+    "3286f6a55eeb6e5c6d5ecc949373d77916d9a278": [
+        "RANGER-1988"
+    ], 
+    "e474c4d7b844c2cb3ac5609b68f56eee43ae4b64": [
+        "RANGER-1753"
+    ], 
+    "b12e761dbfb63d765bcfa8b1265f0a5b8955d2a4": [
+        "RANGER-529"
+    ], 
+    "ad5d97210427d3e332d195f6d85d979c5223c6a3": [
+        "RANGER-2230"
+    ], 
+    "de07826d3011234741c4bde19dae3689717d3af1": [
+        "RANGER-296"
+    ], 
+    "0ad9539cfd5b8f8f4a0e9a4a5b30b6d198ca2ae7": [
+        "RANGER-1400"
+    ], 
+    "f9791b46701de67d0f7adbe5b0b07d0e044b9a92": [
+        "RANGER-203"
+    ], 
+    "d9ace0393d1226c13848f8d17a40bac13a7d6390": [
+        "RANGER-2084"
+    ], 
+    "6d79e1ca973c228324b979a380653869da8fa675": [
+        "RANGER-627"
+    ], 
+    "502cdb5aaead18c44077b209231cbcd1de94fefe": [
+        "RANGER-2334"
+    ], 
+    "67e3ceaf5d7ab6bdd8d7a9550dd2bf9bef13cfc3": [
+        "RANGER-2569"
+    ], 
+    "fd18bf1d94724876d98ec1fb5ef1c38dc79896ff": [
+        "RANGER-2384"
+    ], 
+    "053cdd7b7e367aef09ab9d6b862f86fad35de811": [
+        "RANGER-1748"
+    ], 
+    "3efc0df82150e4c048af08c0911c1db2eab06334": [
+        "RANGER-438"
+    ], 
+    "ced7c3b7af823614c2fbc5a0858e8954aed42f51": [
+        "RANGER-899"
+    ], 
+    "a8b093ad44611c895140dc59cba2c25c627fc2a1": [
+        "RANGER-203"
+    ], 
+    "ce5f434f50cf67c712c828fe3d6dd198a50a9051": [
+        "RANGER-1086"
+    ], 
+    "1685bacf057b773210ae8ca055a6668ea2fa7dd5": [
+        "RANGER-1709"
+    ], 
+    "66e1ce2e1eb2bcf894178be5a6b64f60dc8faeed": [
+        "RANGER-1690"
+    ], 
+    "1f0dccadf28fe86ae075abde8dbdf3426ce6e6d6": [
+        "RANGER-203"
+    ], 
+    "baac2ba9fcbcdf00b08d69c98fa31f453ababc39": [
+        "RANGER-1135"
+    ], 
+    "2aa96bf6ea5b9b0bf5b9cdbb8603a9ecb6195d4e": [
+        "RANGER-1732"
+    ], 
+    "432b4b11d632071bd69ae08fe00bc1d6be6bc84e": [
+        "RANGER-240"
+    ], 
+    "e750c52985461649fda5371676d3fe4253d4ea3d": [
+        "RANGER-2529"
+    ], 
+    "f303c1bd419b457e7fb2190cd8c56c4d54d36d43": [
+        "RANGER-1296"
+    ], 
+    "5a40ad32947686fa0d21d2edd4aa0c3cf038bef3": [
+        "RANGER-991"
+    ], 
+    "41a3d67aa2d5cd76f627a8e2c09e36fe5bf28d49": [
+        "RANGER-891"
+    ], 
+    "8a20a6a09cbbec520bb312dae04f93cedce6bd29": [
+        "RANGER-964"
+    ], 
+    "95cd9e834f3d07cd9897ef9ea8293c5d4d5c2fd4": [
+        "RANGER-665"
+    ], 
+    "a95606928d372f5214b0b55500408ad66a831bc0": [
+        "RANGER-1748"
+    ], 
+    "13620b2647899732452ad883a33cd4e98fe70edb": [
+        "RANGER-1713"
+    ], 
+    "42657fdb849f9e96e87c3f16f7c06a639600253a": [
+        "RANGER-1641"
+    ], 
+    "53501aab0504cd6e311d64972bb922df3d92f2a2": [
+        "RANGER-920"
+    ], 
+    "5055db1535098f25603cb63fa4bb5aa521d6161a": [
+        "RANGER-1696"
+    ], 
+    "80384f0978e04080781ac1d7dab70c352ad06650": [
+        "RANGER-1084"
+    ], 
+    "77f8ad98d4a6693a3eea8f38dfbe729301bf023c": [
+        "RANGER-364"
+    ], 
+    "2e363abc9bbfd6c5cdb45ffd672cb783654dc0da": [
+        "RANGER-1820"
+    ], 
+    "437e10a908c16b9e7e590be522773071298e547d": [
+        "RANGER-1062"
+    ], 
+    "f2be7cdd65539c05153202b823af8953032e0649": [
+        "RANGER-2146"
+    ], 
+    "a46ced507d7b47efafcf5bb810b34ef5bbbf0357": [
+        "RANGER-1191"
+    ], 
+    "814404a97d4651757426cda6b76dd05397f47acb": [
+        "RANGER-203"
+    ], 
+    "e7be55f7be695b14c8613fca58b215df095e5eb2": [
+        "RANGER-522"
+    ], 
+    "2c8a947f800d705867f5f6a22e6d738b3c5a3d19": [
+        "RANGER-2430"
+    ], 
+    "85d5658fc205a647bb397ee83d81df4cbaa5f53d": [
+        "RANGER-200"
+    ], 
+    "ea30b1355a6184098e803f4cbd59f2e8ec93cb9e": [
+        "RANGER-1975"
+    ], 
+    "6d862ed4339a4589c4ce1be38a119cd2a49e5a5e": [
+        "RANGER-1434"
+    ], 
+    "0da1b424f3cf9574e31375251b4c78ee1f0e10a0": [
+        "RANGER-1619"
+    ], 
+    "f2ed981966246e4cfb15e94b9639618108e14b7f": [
+        "RANGER-379"
+    ], 
+    "87d97cd14903b1bada33225081ec67d0ea6079da": [
+        "RANGER-753"
+    ], 
+    "f9926cd6d4113e00e508496665cc36d092168323": [
+        "RANGER-2582"
+    ], 
+    "88bb615dc82c4502d3e61bb86fe48ad7828cca3a": [
+        "RANGER-813"
+    ], 
+    "0b47455a2efab020825cbcc09f2474e4be59fe62": [
+        "RANGER-1496"
+    ], 
+    "7954cbbcd90500ec90d425aa20ca7e2fba34d695": [
+        "RANGER-1982"
+    ], 
+    "501e05f1a1225dfbcc16bf4d2c0d86e55d4a928e": [
+        "RANGER-1548"
+    ], 
+    "fe854a061e0948f27437fb5d9e6f24f0cac0f372": [
+        "RANGER-2045"
+    ], 
+    "c1b9b90d1ba28b49791dac5877ef8ed643e3fc7b": [
+        "RANGER-1859"
+    ], 
+    "89e11bcc2a6782dec11f3f88e459dc6aa8691931": [
+        "RANGER-1161"
+    ], 
+    "1ff41050015b7be736268f6c84e683121cfffd7b": [
+        "RANGER-1297"
+    ], 
+    "9a99e3f41cc2125295058a8fc32e5b9e53bb48a4": [
+        "RANGER-1582"
+    ], 
+    "349a3593c1387d65a28b87ec2bc2b95ef70200e7": [
+        "RANGER-2263"
+    ], 
+    "4435b434f881deaee985603847545515e2ec17eb": [
+        "RANGER-284"
+    ], 
+    "07696a705cea966c4a0b8bfdc85f190e45bc2515": [
+        "RANGER-1025"
+    ], 
+    "fcb9a9bc9a48aac62b29f8b3cdf26c8326c7a9a7": [
+        "RANGER-1251"
+    ], 
+    "f1e7e15772619ae8dd4e34d4432894eb505dfc8d": [
+        "RANGER-607"
+    ], 
+    "dcba4bc40a795156fbac8b747e339dc34a23bec7": [
+        "RANGER-1469"
+    ], 
+    "37c95f703aa0ae87bb943fc48249b4b302a2cba4": [
+        "RANGER-1476"
+    ], 
+    "56fd7ff5ccb5aac38fead8ed6224a030fd010fd7": [
+        "RANGER-2411"
+    ], 
+    "5702966e74198ea6d1d9a78c962001d0b71b078a": [
+        "RANGER-859"
+    ], 
+    "77e2c4429da45c426fd93d68c249ee74b8a77443": [
+        "RANGER-1143"
+    ], 
+    "6c9a84244ffbca2645d2ad190862d8287a01233b": [
+        "RANGER-1349"
+    ], 
+    "6eac3dfc6bc72ae940cf846a941721e5e75ea812": [
+        "RANGER-2165"
+    ], 
+    "f1ae106af4c8ea1af48c98fc38071490d5cc4fab": [
+        "RANGER-234"
+    ], 
+    "e8abd7f3dc5617536cad4dc736976c70567fb391": [
+        "RANGER-1601"
+    ], 
+    "eb271129c4d868b12fb9e13d1ae59d56036b884e": [
+        "RANGER-203"
+    ], 
+    "bef9c7a4c031e4bbe9c307b0b5df65371c24b3bc": [
+        "RANGER-550"
+    ], 
+    "759f52e3ea0fec9b1c6374714e46a8724f378968": [
+        "RANGER-1014"
+    ], 
+    "ce45eff839544371c80f68bddf2ef47573cd210c": [
+        "RANGER-1032"
+    ], 
+    "1aa4a4b15f1474f6beee72fb6ba7ac178eddc34d": [
+        "RANGER-2509"
+    ], 
+    "54d052af00a15f9001c6de5928993e7f99f3b388": [
+        "RANGER-2337"
+    ], 
+    "d878f4e7eed13a85c0805bacf2a239968f439d56": [
+        "RANGER-902"
+    ], 
+    "6239cb1a96b65f9d3cadbaeebab7e1aecd03343f": [
+        "RANGER-1982"
+    ], 
+    "ab0b91fd666feb034a7a3c06d419d915f8c6721d": [
+        "RANGER-2016"
+    ], 
+    "cc1bb5a95c36e5d5579742127c13d252b46154a8": [
+        "RANGER-1148"
+    ], 
+    "d0e5f24b2e412b33442aecce818dea19fdd6761a": [
+        "RANGER-2071"
+    ], 
+    "997325b54a34eefbf811b051b7659f76d56f7d29": [
+        "RANGER-2213"
+    ], 
+    "6f51d062a6e698d4100e7725c31782b35182c7b4": [
+        "RANGER-1564", 
+        "RANGER-1387"
+    ], 
+    "ab6494eddccec0e620762d21292b7dff0ea12ae7": [
+        "RANGER-637"
+    ], 
+    "1bcb9ebe55746ae69bd1d099af678a8f24c0c2f2": [
+        "RANGER-1363"
+    ], 
+    "d804499aed86205dc00d3e838209be195c92cc88": [
+        "RANGER-323"
+    ], 
+    "21fe732a8e31fda55832cd16bcaf96bf7e4b6755": [
+        "RANGER-580"
+    ], 
+    "4d05b1560b5aab4f0df5d43c6a8f10ed98404da0": [
+        "RANGER-1948"
+    ], 
+    "dd547b8bbf0a9a9a09851ac6b2343743591e9334": [
+        "RANGER-445"
+    ], 
+    "2e2bdd8a1c1804e7e729967aa1b441b6779d3b4d": [
+        "RANGER-200"
+    ], 
+    "24e8f31af06433e159a6215b5bfb1588d7eb0700": [
+        "RANGER-2334"
+    ], 
+    "2a429d7036ebf019b6b87900ef1ca89372f4ff97": [
+        "RANGER-429"
+    ], 
+    "8cc43743df75968bf92d52523fd5d4804de98175": [
+        "RANGER-1455"
+    ], 
+    "e70adbe4a91b9bfca26b41326345cfa63120bb46": [
+        "RANGER-361"
+    ], 
+    "4603dfa3de3921d1b6c6e1be10dfb82720896de6": [
+        "RANGER-1338"
+    ], 
+    "5523d16cb1e4612a98af0d5a93842edbb011853a": [
+        "RANGER-2581"
+    ], 
+    "a9fbbcafa75b48ccfac28544c624bdef7b6ae081": [
+        "RANGER-2006"
+    ], 
+    "b028f405a2ae3fb8fc5efd1f3d7da0b83a732d00": [
+        "RANGER-1772"
+    ], 
+    "cf29bb9a8b145be23675e5aa798b32b9d1c2a273": [
+        "RANGER-810"
+    ], 
+    "36da4241c2c81d6b5fe4d06b9312f1e19060f1f2": [
+        "RANGER-1245"
+    ], 
+    "29eda27ef32146bd490d5005633f06bf68ee8d2a": [
+        "RANGER-1430"
+    ], 
+    "f0cae730a8cfba87a5396bf8b6914ba132908c02": [
+        "RANGER-1141"
+    ], 
+    "4338911690977ad8fa5de84e8c93867dbbef8183": [
+        "RANGER-313"
+    ], 
+    "4701f98c513efb73f8cfecd47bf209b31fe9c568": [
+        "RANGER-203"
+    ], 
+    "b619bd596f52570150d766216571956f47100dbb": [
+        "RANGER-2118"
+    ], 
+    "0b4363df72b1d3ea4c886d447c90fef507873e39": [
+        "RANGER-203"
+    ], 
+    "3595251bcbf82ab704914822695a9265d0158c17": [
+        "RANGER-965"
+    ], 
+    "44e4269b194a2714e8f01802e1c7d6a6c9d0ae0e": [
+        "RANGER-1994"
+    ], 
+    "ba5353df997f68ce224a26757a0cc71d5c3bbabc": [
+        "RANGER-1244"
+    ], 
+    "7d8baf866b0cd8ffe9cac9be0fbd4b58bb0174bf": [
+        "RANGER-976"
+    ], 
+    "1295e83bd43e86c2ab5868d0fd929cec7b772336": [
+        "RANGER-1794"
+    ], 
+    "e6842a29e28b9c50c9315a68cc04785a312d420f": [
+        "RANGER-2298"
+    ], 
+    "b9b4b80895fa181ee206254332de5dbccb96cf2d": [
+        "RANGER-1391"
+    ], 
+    "7676341a08664d7726c6aa31510255e90d56aa35": [
+        "RANGER-1250"
+    ], 
+    "beaa563f11a932a63743a5a59a0a17870a08d3e9": [
+        "RANGER-2305"
+    ], 
+    "f3f8ee523b5a7f75ae11f3d3da1c9dc6948a5084": [
+        "RANGER-2075"
+    ], 
+    "7ac6a02a3b12a453c03d9e5868010fda4fdfa61d": [
+        "RANGER-755"
+    ], 
+    "9784f5343fa710c3b9199b58e7e221b5739a20a4": [
+        "RANGER-203"
+    ], 
+    "3b510f8c07271e2e51b5a9151a0d26f7084e3792": [
+        "RANGER-2061"
+    ], 
+    "c0398aaca1c6b00fc82734d896a560066b73a6bc": [
+        "RANGER-1254"
+    ], 
+    "fb13db8095329f6b0aa9654d8f59e11025e40ba8": [
+        "RANGER-1333"
+    ], 
+    "46633a9ed2ed3499e95ad87409ce5b0460929da7": [
+        "RANGER-230"
+    ], 
+    "084c5993d469faade6d67d0e202e9a212fbcf2ff": [
+        "RANGER-2559"
+    ], 
+    "e57a5480d0c009e11aefb0205d3f4c560a05d3e1": [
+        "RANGER-438"
+    ], 
+    "252af49103e8a93517b402be31d7c2822204ff73": [
+        "RANGER-1932"
+    ], 
+    "89136413ee589b9b63a83ea8f61402a533a8f621": [
+        "RANGER-1156"
+    ], 
+    "f5317ec954c49c74b207ef00b36e6028454810bb": [
+        "RANGER-370"
+    ], 
+    "6fd9608735b4403d6229ba88ceaebd7be520810e": [
+        "RANGER-798"
+    ], 
+    "27c81a236cec7100cd7ed204d0e888848bf19778": [
+        "RANGER-434"
+    ], 
+    "a9775857dcfb36477bd282e97e0a71380ffb700f": [
+        "RANGER-850"
+    ], 
+    "fdb098c24ba075727dafbb0f9b91e9a026a00db2": [
+        "RANGER-1387"
+    ], 
+    "e6ab27ef6cbdea1ea37d52a99ec69eaaf9aa310e": [
+        "RANGER-2061"
+    ], 
+    "52ecc0073267d4388968abfe892c163a3537ddd7": [
+        "RANGER-1396"
+    ], 
+    "ee9ecde98fc38be97ea100cd5227b945e7ed0f57": [
+        "RANGER-203"
+    ], 
+    "c57afe81289a458a8ba122c0e2f88b8ef88f0f43": [
+        "RANGER-1960"
+    ], 
+    "8a0dab306bd4f3166e4a71dd79269d7d7c3e0479": [
+        "RANGER-203"
+    ], 
+    "0468bc0c116b047d33e35133e2b27db4763ec586": [
+        "RANGER-1052"
+    ], 
+    "565351c4cba0f4b2185fda26b8f958ef8df996cd": [
+        "RANGER-203"
+    ], 
+    "84d132fcf8df176e827144b83425fce5f89de312": [
+        "RANGER-1651"
+    ], 
+    "75ed6057b6ebfed8e3736f32c4318d23affd3d3b": [
+        "RANGER-1345"
+    ], 
+    "ec858915dc5efa8111de0804005776fb56ac4c23": [
+        "RANGER-1408"
+    ], 
+    "4308c8aecbd7c537469475e6f456c0ab043ea931": [
+        "RANGER-1951"
+    ], 
+    "adbee0ebe75638a3c8a4b43626b63b55936b1b86": [
+        "RANGER-447"
+    ], 
+    "847e0733b97238249808f249f44a4d46ff8dfbeb": [
+        "RANGER-1114"
+    ], 
+    "bc4ab70bf4e4c32882392366bc653dde64a253f4": [
+        "RANGER-1620"
+    ], 
+    "9e5bd854013e7529994ab81fff53c18d57aa4081": [
+        "RANGER-514"
+    ], 
+    "8f2337d3dee43942f30068e401efa65cabfa32f8": [
+        "RANGER-2294"
+    ], 
+    "dba2bea65734c375b9f2497bd83f371ddca9fdda": [
+        "RANGER-596"
+    ], 
+    "243b72965a26e5b2efbb77f00fb88d5ef2ca6b9c": [
+        "RANGER-1806"
+    ], 
+    "4294802af0e9f7fc8252105084200f318d667dd6": [
+        "RANGER-1535"
+    ], 
+    "4dd6903450bc8097562bfb143f65d6f45a44185b": [
+        "RANGER-203"
+    ], 
+    "321c9d96321ac1e7248ee159723377eb46b5fa08": [
+        "RANGER-1041"
+    ], 
+    "45f30336fd885a7bda5bb3700821ea237fb13b31": [
+        "RANGER-1499"
+    ], 
+    "c68e226893ff5e434d8e81be483a18b4abb4b046": [
+        "RANGER-195"
+    ], 
+    "624310dcf1d1a3a1823834681e949dbd89fd09c0": [
+        "RANGER-733"
+    ], 
+    "a4e69aab29a7c2362af26c0c46f8ed63d983370a": [
+        "RANGER-1853"
+    ], 
+    "d7bf8e09de7c047e3f566c5ce3955ac3a25ab6fe": [
+        "RANGER-203"
+    ], 
+    "f70fdbf7947509c0975bd3c61b96b63f9b5daaa4": [
+        "RANGER-1181"
+    ], 
+    "d534b16379bcc9b3f48a8c3bf07551ced974909f": [
+        "RANGER-1463"
+    ], 
+    "823f51fecd63c9d59690de225db224918a3d60d2": [
+        "RANGER-1311"
+    ], 
+    "74b9bf6fe6ae923130635971e374efa0fa0f05b1": [
+        "RANGER-2487"
+    ], 
+    "ead451a3383f33630f59c1996c478ddb6f6fb39f": [
+        "RANGER-2318"
+    ], 
+    "f01bcf3d003500eaa28c1f48b8eac83fb037298a": [
+        "RANGER-1723"
+    ], 
+    "bc1cf982efa86d0248f7a4351b2233baf1aa6c03": [
+        "RANGER-846"
+    ], 
+    "0f0bfc6dcece0c19d353cc54c5d08416afa38493": [
+        "RANGER-1612"
+    ], 
+    "57625ff7a4ae92482cdf99b3e6b3d9c7b3ee108f": [
+        "RANGER-360"
+    ], 
+    "04378e386793180c61d1167f168b6aad9620d179": [
+        "RANGER-1039"
+    ], 
+    "53709aad8bca8b326c81766738a4ffbaeff66fb8": [
+        "RANGER-300"
+    ], 
+    "b1b0fb16cd4197a67a61d8a1db2c40863739327c": [
+        "RANGER-838"
+    ], 
+    "12cfce0010501844baa8bb63c5b6f3138f38d582": [
+        "RANGER-1983"
+    ], 
+    "18e63978666eba70b67519501cc7871b3a8c79d7": [
+        "RANGER-680"
+    ], 
+    "29747dcd6eedb117ccfcdb18835a2d6eda3ddeff": [
+        "RANGER-203"
+    ], 
+    "ca9b5f51241a802b0d28152779fe22412dd2f774": [
+        "RANGER-1176"
+    ], 
+    "35aa706ecbdd86b25a13f20e79248e59060935b9": [
+        "RANGER-682"
+    ], 
+    "58116e0118909b7ef495c3721575ba866a919c3a": [
+        "RANGER-1500"
+    ], 
+    "5a39409dc0f07db2fcf9175e10e46ca8e1f92f7d": [
+        "RANGER-1479"
+    ], 
+    "6ac22dbb95e6c5679f0b2c7c4c19f39253915c11": [
+        "RANGER-220"
+    ], 
+    "8b092fa299e14a58276375ebefc073b3771481fa": [
+        "RANGER-442"
+    ], 
+    "c28abae1fb525432b90b8c3c87e7c46ca77a861e": [
+        "RANGER-991"
+    ], 
+    "83014529eeac1c9e21c5906720a7df2a3407f444": [
+        "RANGER-1786"
+    ], 
+    "427ed4a2b84139c8137becb4d06cdacbf890740d": [
+        "RANGER-726"
+    ], 
+    "774f55845921c6a60ce5c06ccb19e339a5529d49": [
+        "RANGER-1769"
+    ], 
+    "fbf4f3533d0c39d018d2ac92538f77761ca461d3": [
+        "RANGER-794"
+    ], 
+    "a341fa1af3e36c4809d5d834cafb6a3a8168ff4d": [
+        "RANGER-1813"
+    ], 
+    "3a0b69e38a72827df26719e565b43d5bfc33d7c6": [
+        "RANGER-1090"
+    ], 
+    "d5c9dade84984e995cb9a971be27db9331e14d02": [
+        "RANGER-656"
+    ], 
+    "ec701f279847550229b2f44509b68edb8f995713": [
+        "RANGER-563"
+    ], 
+    "b087c4ccb804cb84ffc622a07d8ea25e900eb35a": [
+        "RANGER-2092"
+    ], 
+    "3afe270e7c69dc643713a25597d0cb2f307e0737": [
+        "RANGER-2277"
+    ], 
+    "18abc714ba48dde9f11d930a94a1ce59c292d77f": [
+        "RANGER-1467"
+    ], 
+    "7993a622e9501521f2dd9d3af19b8704bb499ce1": [
+        "RANGER-1103"
+    ], 
+    "f8e89b63f9fde52c54c181b27b353fe93da4751c": [
+        "RANGER-2533"
+    ], 
+    "459d57a55f1461fe987bd957ceb4f0f876207589": [
+        "RANGER-195"
+    ], 
+    "bb322268a99b18d029030d0a7987f789b5cf8c48": [
+        "RANGER-1316"
+    ], 
+    "988f31ce174ca1df3b5949cc8e952af5ff10a00f": [
+        "RANGER-2568"
+    ], 
+    "cfc0f39acfeab1d03eb186492f43e6cc0e93c2b2": [
+        "RANGER-529"
+    ], 
+    "93cb024dda8e902c511c7a18a86b5d9a08cc722a": [
+        "RANGER-838"
+    ], 
+    "ccbc468cd1a568b18a2331b98986a074683a1b1b": [
+        "RANGER-1023"
+    ], 
+    "9a9e6e8dc8028c0179f346f05c0ed121b99d72d6": [
+        "RANGER-1268"
+    ], 
+    "d026a7e2b4c38273a47767c032eda9d03a30c14e": [
+        "RANGER-570"
+    ], 
+    "f8aff4e14e8910e084c089eea8aedfa8ddfacc90": [
+        "RANGER-2229"
+    ], 
+    "57e01bab63a5d4972886954399e8e4fc240d4431": [
+        "RANGER-2039"
+    ], 
+    "4e37e575178f6667f0dec00b70085d9ba9635ab2": [
+        "RANGER-934"
+    ], 
+    "1bd72ed39cc12a45986e270236b0b2f7b49975a6": [
+        "RANGER-1068"
+    ], 
+    "285ed0dda47b26503280de067ca4f5871a031923": [
+        "RANGER-896"
+    ], 
+    "abea4ca39b52c4c5c8af2302f45011e8de828f51": [
+        "RANGER-284"
+    ], 
+    "79230377fd1e27c28e330dfac0f382c1a78b710d": [
+        "RANGER-1449", 
+        "RANGER-1449"
+    ], 
+    "68ab77b298f817b3e3bd6544921d27bcae5e98b4": [
+        "RANGER-748"
+    ], 
+    "144c2153b7379761a0531d822013460962d55a9f": [
+        "RANGER-518"
+    ], 
+    "bf5f75532923edd2feca16f9961744e486628bb8": [
+        "RANGER-2474"
+    ], 
+    "82189ab24fd6957b5e877a30ddefbfd5c9c1d0b1": [
+        "RANGER-1356"
+    ], 
+    "e97c99d8b17c8cd8b7b578e44acd020e6605911d": [
+        "RANGER-277"
+    ], 
+    "3aba2530211bfce6a5cd4bd373b8f7e50abe7fe5": [
+        "RANGER-294"
+    ], 
+    "4c4567182f467d5301b78e214e551801e374faaa": [
+        "RANGER-523"
+    ], 
+    "93ccc5237384a378416489d68e9e7d4234d07f73": [
+        "RANGER-1556"
+    ], 
+    "7d5d00c15d4fdde8d57182dc67ec05b883474191": [
+        "RANGER-1690"
+    ], 
+    "c5332d123411535f3dbfeef7b1872d97cc087bb2": [
+        "RANGER-1693"
+    ], 
+    "c38a718ede6d9888e6c1a413a66f26df0b45a04e": [
+        "RANGER-997"
+    ], 
+    "68a406e052550e52bf01aad75cfcf192ce276432": [
+        "RANGER-602"
+    ], 
+    "988b2d7aad34fd3445ab4e70ae7460e3f103d6a0": [
+        "RANGER-1276"
+    ], 
+    "4209b8d96abf6e827aa320653ba227a6c0c5abdb": [
+        "RANGER-2145"
+    ], 
+    "e05276f05a615590f7bb737bd6bcc8e4763822f1": [
+        "RANGER-1579"
+    ], 
+    "daec465b36d8489c9237b0db9b8dde947d62db04": [
+        "RANGER-2355"
+    ], 
+    "e80464244db6f5a1acf393862752cb951155524d": [
+        "RANGER-2033"
+    ], 
+    "38b79e7253a6ad8dd5a38f4775ec1ac5b70b05b1": [
+        "RANGER-903"
+    ], 
+    "8da88797371c8316ea7539051176e610cfff5125": [
+        "RANGER-1435"
+    ], 
+    "18d0f1ab8903968f7ed6005b1608ab2e375ce228": [
+        "RANGER-2397"
+    ], 
+    "ab6cb3935ad48948047028750fe8167c66111f87": [
+        "RANGER-2085"
+    ], 
+    "73513e8fdcf8f2cb7131607ac1748b918c221591": [
+        "RANGER-571"
+    ], 
+    "30722773231fcbc6a624a108775fab52ed191594": [
+        "RANGER-203"
+    ], 
+    "4577aff909c145ebbfeaa70ebdd76be9e045acc6": [
+        "RANGER-870"
+    ], 
+    "8e786fa6838bdbfa154c1987196ce0bdcc47db47": [
+        "RANGER-330"
+    ], 
+    "f7b1a9d16edb8a23b04738d1500c892a0a213cd3": [
+        "RANGER-885"
+    ], 
+    "2925c07bf59c12be43f4a37b521f5f1b79e1125f": [
+        "RANGER-2023"
+    ], 
+    "c74dc64b642d7d0762846ed76cad16db3b056fb3": [
+        "RANGER-1189"
+    ], 
+    "2a6efecc3c5586238601226185e49ef4f31886c0": [
+        "RANGER-642"
+    ], 
+    "3a21f74494ad253afb7919939491258a52a4d655": [
+        "RANGER-878"
+    ], 
+    "78c61a601fb9ca93f9389b3b633e44f6594b6355": [
+        "RANGER-234"
+    ], 
+    "e26bcce249ec1852e4b55daf8e9f78f754e30343": [
+        "RANGER-1592"
+    ], 
+    "987a8c0366c1c6a881a461127b8ac1bdf6d68724": [
+        "RANGER-1344"
+    ], 
+    "873430ade78a6987973bed4eb5bb47c8fd2f4b43": [
+        "RANGER-260"
+    ], 
+    "13cdf4fb66fbc490bceafce6b9b6fed966e4bb35": [
+        "RANGER-607"
+    ], 
+    "fdc3148b9ddab85d489b9bb0b7bbad54b7499790": [
+        "RANGER-1232"
+    ], 
+    "543b9ff006da4f64b951e2f6c0a6b16d9b703f22": [
+        "RANGER-1846"
+    ], 
+    "906613684d0662b22448435fe794b08b217d7021": [
+        "RANGER-1887"
+    ], 
+    "85ddb48e2c7a795969e908ebce377ab4666aecce": [
+        "RANGER-1321"
+    ], 
+    "d24b04c0da419b481a8a6b62071a8b8854259e2d": [
+        "RANGER-2055"
+    ], 
+    "353ce61c9b3a08dbf4c476f37ebb214caed3ece7": [
+        "RANGER-403", 
+        "RANGER-403"
+    ], 
+    "8e1e54e6518ea7e485cd3ec580f9ccc9ab82b4bf": [
+        "RANGER-770"
+    ], 
+    "62a3bd07a3fe59907001951759642107af8e692d": [
+        "RANGER-236"
+    ], 
+    "ae8e485f88700ae1f830ac406322e5d94c750864": [
+        "RANGER-1215"
+    ], 
+    "8d5659cb2789d971a67380df4d21c5da67ce9425": [
+        "RANGER-2339"
+    ], 
+    "9c7ef90e65bf27e04ae0950e9d78c767d211991f": [
+        "RANGER-2089"
+    ], 
+    "87b6d4b59425cdaa319b6022453488ded10f4938": [
+        "RANGER-323"
+    ], 
+    "1e77fa2a4be3425f97d5711ebb0de5db8258c618": [
+        "RANGER-1781"
+    ], 
+    "6f06c8cdad58603d2a3a1b90f379f24ac8177070": [
+        "RANGER-203"
+    ], 
+    "d1bb82dcf19f956aba03223e898895857a418c63": [
+        "RANGER-1047"
+    ], 
+    "da328b55127c48f24f830bd27a029f459c2f0e53": [
+        "RANGER-1812"
+    ], 
+    "f17ed11505a8504954dc3a0f4a7a8751507a1315": [
+        "RANGER-704"
+    ], 
+    "1a68c9586dcf74c4c0ed29035678d28a907ce94e": [
+        "RANGER-1313"
+    ], 
+    "d1521dcdc33252c79dc89b7d065c2ebdcaa8a9f4": [
+        "RANGER-2103"
+    ], 
+    "77b101f171fa6df024fa032ce573c3c5f845f61b": [
+        "RANGER-1078"
+    ], 
+    "e35e1c1916bc5ed9118d76469e643a0c9c41f1fb": [
+        "RANGER-560"
+    ], 
+    "2b00241aaf7e46dd77439593afb47c9d1595b072": [
+        "RANGER-203"
+    ], 
+    "63050d27abed5daaca4ae86043264e4a0e779441": [
+        "RANGER-1382"
+    ], 
+    "e2fe01c390f11750358912504286fbf740e9692d": [
+        "RANGER-709"
+    ], 
+    "ce139e013aa4f0e6472ac910b9c62073ed902f35": [
+        "RANGER-331"
+    ], 
+    "4434e4d3c36e05f85251940a23140e177754357c": [
+        "RANGER-296"
+    ], 
+    "6228e4e3a141fb3e60cdb218a2c1673445db3767": [
+        "RANGER-984"
+    ], 
+    "baf0ddd6f656ca0abff6ee800228f0e757855904": [
+        "RANGER-663"
+    ], 
+    "b995253899ef6e204be70473e6ed94764f25107b": [
+        "RANGER-1249"
+    ], 
+    "69f4d32da7c1dc2754147cb673aae0eb044e7779": [
+        "RANGER-2009"
+    ], 
+    "9f13560204dc2c7e721ac73a4158f5d8ba8e86da": [
+        "RANGER-2204"
+    ], 
+    "6b79130d9b7076b7ce796b7acef29544be2d82b0": [
+        "RANGER-711"
+    ], 
+    "54270d556f0341920f25d141c55746e8ec8bbea3": [
+        "RANGER-675"
+    ], 
+    "847a73815b061b393c720a593864b07165bd656e": [
+        "RANGER-952"
+    ], 
+    "b25026259544d2b210e40d4510a02ba1aaafde2f": [
+        "RANGER-1517"
+    ], 
+    "546fc8718fb91c2b1587dd859ec663971f563b10": [
+        "RANGER-1091"
+    ], 
+    "7690db8292a8bb42f10fa2a8db4326f759a781a6": [
+        "RANGER-243"
+    ], 
+    "35bc9c935441b0680fe464c1f3df361c3551a5ca": [
+        "RANGER-2536"
+    ], 
+    "405b3e6a8835c4f2036a9596570759fa64210aff": [
+        "RANGER-384"
+    ], 
+    "63923bf6d51dcb135fc2a1edfe06b2af702d8cb6": [
+        "RANGER-203"
+    ], 
+    "24b411016e879349d557be999cec703c92b601bc": [
+        "RANGER-1381"
+    ], 
+    "e2fc9c98fb37ad21e2ebd13020fde1c255fe2410": [
+        "RANGER-1046"
+    ], 
+    "90979b4a8d78055fe04a692c6c86c7de33ab07ad": [
+        "RANGER-2215"
+    ], 
+    "bc61f4bac1282c6f93157a5a97bc5577ebec4024": [
+        "RANGER-1289"
+    ], 
+    "01e1d05923f8ab9f6d2d36ef1e12605e8719cc54": [
+        "RANGER-1000"
+    ], 
+    "32d73afd6bc5ac5d9b894f3d14f3eaf9b1b4f408": [
+        "RANGER-2119"
+    ], 
+    "095c358b5aac6178cd60d73a429f2d6f7bd10cdc": [
+        "RANGER-1541"
+    ], 
+    "2d9a322102355f4f998541c2fe9866a85560b2b3": [
+        "RANGER-1415"
+    ], 
+    "da29d1929a54b2b579a74da32e5ea074d0f8e15d": [
+        "RANGER-2141"
+    ], 
+    "543b591d58910b12516344c7a4a667dfb4942742": [
+        "RANGER-1310"
+    ], 
+    "a9b5e51b1db5b0ebe5ba43c47ae37227a80e5530": [
+        "RANGER-2479"
+    ], 
+    "0158e1a1c7ca7997e3865693f599e5caaa69f505": [
+        "RANGER-608"
+    ], 
+    "0d9d8aed2b9e3caddfb077b4a122e09982e1c0e0": [
+        "RANGER-1957"
+    ], 
+    "62160bb81c964fc829b6916f9054faefd1ddfa63": [
+        "RANGER-1229"
+    ], 
+    "f8ed53ef466e3206d743b4b92f48e1889df0cb7b": [
+        "RANGER-1617"
+    ], 
+    "605691882e08771c96371715f52bc34380dd4d27": [
+        "RANGER-1981"
+    ], 
+    "f04e111018e2db7079538036f21a3da024c823b8": [
+        "RANGER-725"
+    ], 
+    "b5fca95734a06d794daf88cc08ed16b6794d5ea7": [
+        "RANGER-639"
+    ], 
+    "9fd001cae7b4366cbd59a77146137a7088f4a805": [
+        "RANGER-1024"
+    ], 
+    "ae781cc90db322af48cbb88964e73e07df1fa357": [
+        "RANGER-2272"
+    ], 
+    "9558aa3a2d629f8955b7491f306590c437c1fda8": [
+        "RANGER-1374"
+    ], 
+    "4dd804138a772ccfb30e66bd3e8672ab09642272": [
+        "RANGER-319"
+    ], 
+    "9c4d8e9cd060747468a94233b0efa30f11ac055b": [
+        "RANGER-886"
+    ], 
+    "e85eb01d57154c51f248f969084a6ed90a8d19af": [
+        "RANGER-912"
+    ], 
+    "c5fab5a84df2b68cc4838bd1da6078ba78466603": [
+        "RANGER-2400"
+    ], 
+    "6cb7e82f4926c407028cd9374001e7059a4c5a43": [
+        "RANGER-2063"
+    ], 
+    "71ecc5a19a2c58a0875113e53061d30822eb1c94": [
+        "RANGER-2270"
+    ], 
+    "8166d00b12c920bb48896b69b50eceecde1b6975": [
+        "RANGER-1461"
+    ], 
+    "ded323b776e6b5bf92c0c643c3e50e5377a8fd93": [
+        "RANGER-283"
+    ]
+}

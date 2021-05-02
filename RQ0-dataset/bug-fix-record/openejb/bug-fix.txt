@@ -1,0 +1,1707 @@
+{
+    "OPENEJB-1053": [
+        "d582a738ad651e9013ffeb8449ca58d178eef6dd"
+    ], 
+    "OPENEJB-1059": [
+        "8df57c409b09bc14ccc28b6b9a362e991b42a719", 
+        "c500d3537247461256781750379af06b0d848303", 
+        "8d7db27cf8cccfc3bec25711bee72c25eba21ec0"
+    ], 
+    "OPENEJB-557": [
+        "221e6de41fb53c5e16a5ae5c34304f07214f7ea0", 
+        "27b4ccc956cfb420b7296dea5b8925f084f71eec"
+    ], 
+    "OPENEJB-555": [
+        "e49187d243bf612782d77ee250dd9edc6b731176"
+    ], 
+    "OPENEJB-683": [
+        "df5c98c97f6ee3092f835af0ac3b9a0be2111f3a"
+    ], 
+    "GERONIMO-649": [
+        "bd52ae947325837587c00fe37aba33155d57477f"
+    ], 
+    "GERONIMO-767": [
+        "1fa9f59d11b4cca6e0713284b2b2545451cf5a96"
+    ], 
+    "OPENEJB-553": [
+        "a2b3d70a56a6613c62e26c82988aa303ce1ecc09"
+    ], 
+    "OPENEJB-1384": [
+        "035808533ceea7afc7700011b983fe08202130cc"
+    ], 
+    "OPENEJB-766": [
+        "d1ee7ba2026728ca24454693a7125812828dc20e"
+    ], 
+    "OPENEJB-767": [
+        "5c1ce1d752f3117a2e4beec82a6b1277fce766e1"
+    ], 
+    "OPENEJB-761": [
+        "fcc75846843c797d92a05c75e350dd189e49f0c0"
+    ], 
+    "OPENEJB-445": [
+        "a029f39c29fe20e0dd3cbc56e1138190e4ee6606"
+    ], 
+    "OPENEJB-444": [
+        "3d5fd4f950b12c379671b991bef938bde403a64a"
+    ], 
+    "OPENEJB-443": [
+        "54071a161e1e77082e72c047b46f8916ade43ac6"
+    ], 
+    "OPENEJB-399": [
+        "20b3a07621d0442284ef4c417d10b4084f8c78b2"
+    ], 
+    "OPENEJB-1604": [
+        "25a2adf64f2e044aa0b2c37583afb5e141f6d26c"
+    ], 
+    "OPENEJB-1602": [
+        "dc7404d6d56c0e5738323ac9f7f5453b0fdc9ab3"
+    ], 
+    "TOMEE-646": [
+        "e851dc2bc3e08517f8615c5c3c77b5209c28e203"
+    ], 
+    "TOMEE-647": [
+        "cc307373a3ba3dcf499141e788771b1e43bb30df", 
+        "6b668f264af92a50c339cc881f00a717c671b0f8"
+    ], 
+    "TOMEE-645": [
+        "5f95023d49e9b2806fe047c338d1554acf88c8d6"
+    ], 
+    "TOMEE-643": [
+        "6f58d9fdb061eeca72553e9e44833a8710a2cf4d"
+    ], 
+    "TOMEE-166": [
+        "51a661d8391a381f15409ed962ff018b1c1c1636"
+    ], 
+    "OPENEJB-1322": [
+        "e52f2d423dd7d0d40c9577fb40ae318fe4a11951", 
+        "c5e7a5502df8a5de859ee0c6b073dd3b8d1d449b", 
+        "8f49ddcac05e1d2539791540e811c37045ff7788"
+    ], 
+    "OPENEJB-1323": [
+        "43127710c7880669e16315b8820a84f06895aab9"
+    ], 
+    "OPENEJB-1930": [
+        "aecdfbfc87ae9b22797c75165cf1e27fe1bbeef6"
+    ], 
+    "OPENEJB-1934": [
+        "1228338423a78528712420468bf09b22445c7d11"
+    ], 
+    "OPENEJB-1830": [
+        "21db31201675dd51fee2cec1a57d64609be43aff", 
+        "74424e53a509e4b0c4b973369bfddaaf301ad1c1"
+    ], 
+    "OPENEJB-1118": [
+        "8b53986d0e0ad60c8a410e34151716bc4151bfb0"
+    ], 
+    "OPENEJB-1834": [
+        "18986e288034e899e9f7c1ec9b07788959957643"
+    ], 
+    "OPENEJB-1837": [
+        "9ddabcfffa0b04bcef5cf27b3e62cd8c6446c780"
+    ], 
+    "OPENEJB-562": [
+        "a95d9ff2d8d199ff5872de94500d1be359c8a629"
+    ], 
+    "OPENEJB-622": [
+        "8f733eaae5d04f566f3b86a14832891868efb7d9"
+    ], 
+    "OPENEJB-1116": [
+        "e5e42b6b5825e258879733403391c29dbfe70d3a"
+    ], 
+    "OPENEJB-975": [
+        "bb4f7b30d95e6ae9d258df12e34eba386dddb92a"
+    ], 
+    "TOMEE-349": [
+        "c545958882b5ddb2175fd3c653f4947a7cd72e82"
+    ], 
+    "OPENEJB-1309": [
+        "48d42d9bc7d80933666bc41ebccb31fbb91e9733", 
+        "45810f5200942193b6739d2c623f611670873de2"
+    ], 
+    "OPENEJB-974": [
+        "0a7fb3ddd1fdf0efc1bd73ca6524ad9e0c3ef425"
+    ], 
+    "OPENEJB-1300": [
+        "7fddc9d9b75ea033fc44a21e8cebb089eec5bb27"
+    ], 
+    "TOMEE-345": [
+        "4b5726db1fc1db51487316e91439396c6634cbf3", 
+        "d6483116aa93b7bf6d326a58820116e9080dc3a6", 
+        "c438d499cd6417710da44a3a02ecd62676140213"
+    ], 
+    "OPENEJB-1305": [
+        "c6025a0a671b38be3156671591dba71ac18a6aaa"
+    ], 
+    "OPENEJB-1733": [
+        "7b8097490f9b9d081f1b7358d41be511eccf9d51"
+    ], 
+    "OPENEJB-1730": [
+        "579f13ad333ebf6f68c59c5536a698e728366cca"
+    ], 
+    "TOMEE-267": [
+        "45fb043ef59e6209823ed946070d8b1c2ec19afb"
+    ], 
+    "OPENEJB-1311": [
+        "d01467a8624a83904f2b1dcc04f66c35aefdc687"
+    ], 
+    "OPENEJB-396": [
+        "77f99c1ee7b78daeca98274cb3e28c95bf01900e"
+    ], 
+    "TOMEE-29": [
+        "4483d351654d84a5cd87fc5ad447e43cb86e09e1", 
+        "978c14c75696a2c4375f04e1a8823bb8af5a7bee"
+    ], 
+    "OPENEJB-1708": [
+        "c60fab333d4400bd67b5f2bb3ac0da7664acbd40", 
+        "30db9245e5d3421fb5014b85f97aed3dd14699b8"
+    ], 
+    "GERONIMO-581": [
+        "367dda299499da9bc29e04660e26a1f010f489e4"
+    ], 
+    "TOMEE-27": [
+        "e50f4b9ec598815defd2923806fca67bb502856f"
+    ], 
+    "OPENEJB-972": [
+        "56649a19cff4b5deb0338aa9ba44520f38e8e393"
+    ], 
+    "OPENEJB-1709": [
+        "1cdc905f2996d2fe140df9c5fa15fa84482dd243", 
+        "7dfb0d2b52e7952697e10748bb965930c9d3251d"
+    ], 
+    "OPENEJB-1239": [
+        "a0e96ae97dbc0e378e772411ba5f793274bfbba4"
+    ], 
+    "OPENEJB-719": [
+        "4fbef7ee1f92283b7aebedf6837ad6e35bccfcd2"
+    ], 
+    "OPENEJB-702": [
+        "30232ecf306d77dea9bb5669c9b4e64d6587c2f6", 
+        "14fd2d21a032a6f5a6a4dcb0c716db55b2821bd0"
+    ], 
+    "OPENEJB-59": [
+        "01bf5d46882e4159a5dd70b7405aef2696cf192c"
+    ], 
+    "OPENEJB-1540": [
+        "82d7c500a89689aab6b5bb54f5a8a20f104ecab7"
+    ], 
+    "OPENEJB-1541": [
+        "fe12f7d6095c866cc28bb8cbe8e7c08c9a12ba54"
+    ], 
+    "OPENEJB-1543": [
+        "1cef3043d5e3609bef199ab557879238f869fa05"
+    ], 
+    "OPENEJB-1544": [
+        "b512384bdd298f7534d91fa05a6c7b32eada5a3b"
+    ], 
+    "OPENEJB-1545": [
+        "e5eb6ba4874939e3d254101d3d1880a93f7aba88"
+    ], 
+    "OPENEJB-1546": [
+        "3d41b2e4396746564eeaa2131e1d68ad30b1221c"
+    ], 
+    "OPENEJB-1547": [
+        "bb8f4dcb2abf0ee622252d3617acea3331e12e2d"
+    ], 
+    "OPENEJB-1548": [
+        "6173f28d712db7d5990315b239a2fea6934dacdf"
+    ], 
+    "OPENEJB-1549": [
+        "1f36b2cdf988ad91dbb625c69013ecbff7646a74"
+    ], 
+    "OPENEJB-1425": [
+        "745631b899cbe3e3f46a58ed21b24c2a8f8e8c0e"
+    ], 
+    "OPENEJB-1423": [
+        "6ea1d5e3059bc7dd9230485760fe6aaa55d50591"
+    ], 
+    "OPENEJB-1422": [
+        "3894ca0175b92e7950f23835f96066588dea2f63"
+    ], 
+    "TOMEE-466": [
+        "59c59566f39257ebdfe8a4062406fa954a0ae735", 
+        "f0829ed5a491f2a20cc8a95e0d3499b61889d3be"
+    ], 
+    "OPENEJB-534": [
+        "7fb66f0e9565c8c0f91fe7d449a123369a4d797e"
+    ], 
+    "TOMEE-461": [
+        "3fd24f88e87fb48a9c2e3a73d62761b1fea17a05"
+    ], 
+    "GERONIMO-648": [
+        "1fd94f2af7cbe9ffc769203e023885e4aabf76c7"
+    ], 
+    "OPENEJB-539": [
+        "9326f7689529a100dceb7c5d10145190f70af05a"
+    ], 
+    "TOMEE-469": [
+        "a05c74aa1da4f6664f873222dd16bfec7cc3bedb", 
+        "9a4330f530fa669c93b05e57b743b7439d7e1250", 
+        "91d17a648a98622c6925a76a93b551a5cebd828f", 
+        "f3af823663f96d58ec307858ca22bd44c07c881e", 
+        "f6a5b950e0055fb236667922b991f57fb8e5638b"
+    ], 
+    "OPENEJB-868": [
+        "c4c049d8088775be09b364d5ee6010e1db993bd7"
+    ], 
+    "OPENEJB-865": [
+        "de5b3334e1844cb4d6b2361f2984ff51334a6f84"
+    ], 
+    "OPENEJB-861": [
+        "81cec5f769684ab6c147b542fa6a67a986f7314c"
+    ], 
+    "OPENEJB-860": [
+        "0cbf41c926e6dc9c6792078f8d30827ebbd8dfd2"
+    ], 
+    "OPENEJB-338": [
+        "7ef4f96c061f7c4217576ad192efbdd71ebb8ec3"
+    ], 
+    "OPENEJB-1882": [
+        "4b5726db1fc1db51487316e91439396c6634cbf3", 
+        "e81f53c4be520644a5ba8ed5ab41f84731344df5", 
+        "3936a528f3423b9eff953cfcf640ca2901061970", 
+        "12bb691ac1e2776286c06cec32284d1b89aa6aec"
+    ], 
+    "OPENEJB-1884": [
+        "a3d7c35a526db5c9269c2a9ff3cf5714ac871fc7"
+    ], 
+    "OPENEJB-1886": [
+        "bb9c0e49886dc30cfc833e0615d635da95bfe317"
+    ], 
+    "TOMEE-383": [
+        "f6ef6a9b6826318d3279ec88f0ca07d90344baa5"
+    ], 
+    "OPENEJB-409": [
+        "e32580fcef43127627591981e2535fe12a6b592a"
+    ], 
+    "OPENEJB-408": [
+        "87aa54699751f5ab11f86c32eb7d305c00ac5ee7"
+    ], 
+    "OPENEJB-5": [
+        "d7747849299b537e4a4f1cd48ef7224181315cba"
+    ], 
+    "OPENEJB-765": [
+        "dabd1ac8e9c005d313d727cc492827bd1ff35e34"
+    ], 
+    "OPENEJB-403": [
+        "778667889e0a7d72d519e2d625ba531e4b8e4a64", 
+        "5f76c161d05b0d9f12e6bce1aff2fb28b32bb92d", 
+        "8802d7d49f3ee783121b4ce72172779204fca3f6", 
+        "d1cf1a153928cf6f3e243f8ce4513f677731d83f", 
+        "d825815531fb2363745a1bda7f98e1fe2ab6bc09", 
+        "bece3fdca3561044cbdcc43a5a9c0cbe35cf9e41"
+    ], 
+    "OPENEJB-402": [
+        "58f3ca90c134515feae3cde3307c8e5fed256a4f"
+    ], 
+    "TOMEE-517": [
+        "934733d0f747f14446c3adbb1eb8f05f9790e096", 
+        "fc89d4eb86477abf9d6d597a2438e1b5e77ed97d"
+    ], 
+    "TOMEE-515": [
+        "6b25dd1b600494b179ec6b6dfba0fe50b4553d78"
+    ], 
+    "GERONIMO-376": [
+        "6ae233af91c2a0b7d785d432eeced5665d0a8ba9"
+    ], 
+    "GERONIMO-562": [
+        "6f0461b32d8dc65ab88a782a30e2ff3f72d5110b"
+    ], 
+    "OPENEJB-1082": [
+        "d1c331faa2e9fba74fdd3636a17cf81fadf63012"
+    ], 
+    "OPENEJB-700": [
+        "54ddcc0a0d8a69ddd049ce9d5133b1ea257c13f6"
+    ], 
+    "TOMEE-389": [
+        "5b1da3e1b0c4767f7b11826257ad8823d8d44feb", 
+        "e4bad82702f2219579ef6b6684394336424e62a5"
+    ], 
+    "OPENEJB-1355": [
+        "7d2019f777014e9a1b918f9cc917d7c1b03d5f99"
+    ], 
+    "OPENEJB-1017": [
+        "534da7ca6240156c2f7df28080b28a4b4617a28e"
+    ], 
+    "OPENEJB-1015": [
+        "b16fb285d046a278daa113e4b3e3593b078e7ce1"
+    ], 
+    "OPENEJB-1012": [
+        "9161e6443e2ae0c30f9e4dc8de30db84a16dd364"
+    ], 
+    "OPENEJB-718": [
+        "0c7f8d86bf17915fb769bb028a9f4e618adff4cd"
+    ], 
+    "OPENEJB-715": [
+        "ff2d1ca5d2d2f0c31bfc1d36bcc5b6b91b8383d6"
+    ], 
+    "OPENEJB-714": [
+        "c425f3d86fc72e3a4684bf8fd795bb9f05538fec"
+    ], 
+    "OPENEJB-717": [
+        "270c68352e0dc85378b75369e30a7b9c524c0169"
+    ], 
+    "OPENEJB-716": [
+        "ff2fbb7ed3bdff992dddf2834775af10aa56466c"
+    ], 
+    "OPENEJB-710": [
+        "a0f2b3a3a6b09438885677b1a9ed99e29f6d2475"
+    ], 
+    "OPENEJB-713": [
+        "0eaae77ae245340f161038143024f75f559a2d3e"
+    ], 
+    "OPENEJB-469": [
+        "39f3e2e7bc8ca743bdff61ec3c6c575eae55cc7d"
+    ], 
+    "OPENEJB-1261": [
+        "aa8c54f6bd04c6c4033d7edc5270a510957edb45"
+    ], 
+    "TOMEE-380": [
+        "e464cff1a5059fcec47ee768c4f2d9c38fca7be0"
+    ], 
+    "TOMEE-221": [
+        "6cd315e4f84f24a197099da8335805fffb12c0c1"
+    ], 
+    "TOMEE-222": [
+        "9529ac738891f231f6de1f3be840a0c962a11adb", 
+        "94eef2e1f691b1645070e194e55293bc0ffa9044"
+    ], 
+    "TOMEE-388": [
+        "9ea6ab60f41c4bdef0dac6c05d9cc6606332c888"
+    ], 
+    "OPENEJB-306": [
+        "db528a26d7244913616d17c83a27dc0b335f073b"
+    ], 
+    "OPENEJB-307": [
+        "5d29d0f4efbf92c04b991f19b6702b110eba66cb"
+    ], 
+    "OPENEJB-303": [
+        "2c441a5ced4d0b52c7e822e2a374fcda0951341d"
+    ], 
+    "OPENEJB-300": [
+        "4a6385a6831edc0a2f20453df8e97565f4a3dd01"
+    ], 
+    "GERONIMO-620": [
+        "8404fb84bd5f8b349480a7ad2c03bd1d168ab189"
+    ], 
+    "OPENEJB-1648": [
+        "6ffe7d7e2f6ac41be32b897af68a2b2ff828bf4a"
+    ], 
+    "OPENEJB-1905": [
+        "a012982c507ac1a1c05faba4ee2136b9856758ba"
+    ], 
+    "OPENEJB-1907": [
+        "56d2ccad4a096fe1e3e86a36ba3713e2af576b64"
+    ], 
+    "OPENEJB-1642": [
+        "120be61a3ea8b0cd3cc8767d4b145df4f131b459"
+    ], 
+    "OPENEJB-1862": [
+        "1f11b3e4d621cdd42677e275f4015ba387647a2b"
+    ], 
+    "OPENEJB-832": [
+        "f6067aef083065c787748652fc5db9571b615f62", 
+        "7d5a8358190719a7693d942e546188a6a4c04e37"
+    ], 
+    "OPENEJB-833": [
+        "06708e72b1adbc831e872399c0be0c2a77e52d37"
+    ], 
+    "OPENEJB-834": [
+        "6cb2597b8a3eae1b7d9f002c84c6826ab29e3c5f", 
+        "42afbfe4579adc46a9bfb574926bd1a31f5121cd"
+    ], 
+    "OPENEJB-835": [
+        "06708e72b1adbc831e872399c0be0c2a77e52d37"
+    ], 
+    "TOMEE-258": [
+        "bdfd209f4eb4dd9d4cd5734b232bd2ca87fc04aa"
+    ], 
+    "TOMEE-709": [
+        "1ebe9a2e0f813afd3f77ab01ff67f44cc304361c"
+    ], 
+    "OPENEJB-279": [
+        "6a1f3c189c578a761088d51c60bd857f85beb372"
+    ], 
+    "TOMEE-703": [
+        "80f062dd40f87c0f5b15a155bce212c7921b9af9"
+    ], 
+    "OPENEJB-578": [
+        "442f98fc5d63f2518208e3b6790dba220c02b539"
+    ], 
+    "OPENEJB-276": [
+        "4e74ce808083e052b2f896a87d671cad6c9d5840"
+    ], 
+    "OPENEJB-277": [
+        "7a8af0f6344a742a766edf9a2885ccbadb0201e9"
+    ], 
+    "OPENEJB-274": [
+        "6a09702491a69daff4630e706ad1abda20e6b09d"
+    ], 
+    "TOMEE-10": [
+        "ceb4e8825d13b645312b5bbfb5c5c8be7a853009"
+    ], 
+    "OPENEJB-1348": [
+        "d904da57f21fd4ddb9f2571d6c257e97c6309589"
+    ], 
+    "OPENEJB-1349": [
+        "f98050a30378ed6f14ebec113864f3266bb5281d"
+    ], 
+    "OPENEJB-1330": [
+        "4c99a7f3e64891bc7bec7dfa02bb1cff44bee32f", 
+        "6f525bd6b48b1d052d81a3a0f2f5948cdb959de6"
+    ], 
+    "OPENEJB-907": [
+        "f5ffb5b035299a3f48023a44005559527fc5743a"
+    ], 
+    "OPENEJB-1340": [
+        "7eedfae0a455828d5546bc864e4bd9da5b20cbb8"
+    ], 
+    "OPENEJB-1341": [
+        "a3d3d46e19f03174c99aebdcd1e206e2f77d17ba"
+    ], 
+    "GERONIMO-468": [
+        "3f0b84ea1247015853fc8e688293c3db4164cb33"
+    ], 
+    "OPENEJB-60": [
+        "a323afa55758af5eb2350c95ca4f9c5230a8aa66"
+    ], 
+    "OPENEJB-66": [
+        "6e8affb9d84e1324a34be969c57c7c3e353c48fa"
+    ], 
+    "OPENEJB-64": [
+        "2d7830c1bbd7a6361788b8f1736371288d100f98"
+    ], 
+    "OPENEJB-1518": [
+        "e58e5437c099be95e0cc948dc7ca66bb3f59eae8"
+    ], 
+    "OPENEJB-1516": [
+        "e58e5437c099be95e0cc948dc7ca66bb3f59eae8"
+    ], 
+    "OPENEJB-1515": [
+        "b7f7e2896fb1d1d28a7e3131fa5641ece33f742c"
+    ], 
+    "TOMEE-419": [
+        "2706f35abc0a3e259f4f62dfdcccf3fbdc935f69"
+    ], 
+    "TOMEE-410": [
+        "883427ee821c3d8e02f3f44d889149a0388212f3"
+    ], 
+    "OPENEJB-287": [
+        "a86ccbf9889e0a90f1b5947cbfb09d5a5906d5d9"
+    ], 
+    "OPENEJB-286": [
+        "c1ca6b0b66bd48c6fefc5dfe868c280c51101e49"
+    ], 
+    "OPENEJB-284": [
+        "7fd7b5c7dc9cfc3b54db332736f5e345ce822099"
+    ], 
+    "OPENEJB-15": [
+        "555e2da48ae23a5073c3045fd7ab071a104f5e7c"
+    ], 
+    "OPENEJB-28": [
+        "3dd9c53534c993789f5e2e5a5b7d2f1a7377408c"
+    ], 
+    "OPENEJB-693": [
+        "dca77fd87238e1097ed9bae23e7cad302f75689f"
+    ], 
+    "OPENEJB-695": [
+        "4242bafecd8094de18ef6d77064108cca944f435"
+    ], 
+    "GERONIMO-672": [
+        "ebd90e9526f32d5a76b1a7820db1f40c1cf30abb"
+    ], 
+    "OPENEJB-750": [
+        "33e882812175846f328c7199a6e4c2dfa9593944"
+    ], 
+    "OPENEJB-757": [
+        "26cbdfcd92f686121ee06a87d436e95caeb04bbb"
+    ], 
+    "GERONIMO-675": [
+        "e11febae8dfdf93872778ed6c35cb0ec4ef2c093"
+    ], 
+    "OPENEJB-456": [
+        "d59adebaf071ce22b0dc7b3c867b6314d50a45c3"
+    ], 
+    "OPENEJB-1282": [
+        "21b6a2cdb9cb5485ed92108bb309caf49e9119e3"
+    ], 
+    "OPENEJB-593": [
+        "9104416406c1e0cd3acadcd2db528209c4faf40e"
+    ], 
+    "OPENEJB-590": [
+        "e17085e53d1d79b1be6f3cd4730a08fff17c6f61", 
+        "520913acc84f555e28ab6d20a0f48c269509d1c9"
+    ], 
+    "OPENEJB-595": [
+        "2f065f077372aa516de83e87de10acc975518518", 
+        "dde88985ed9ad1b41da826e8ae8c168b4032dcc8"
+    ], 
+    "TOMEE-673": [
+        "27b684496456c841be8aeee700cac490ecf3a0f0"
+    ], 
+    "TOMEE-672": [
+        "27b684496456c841be8aeee700cac490ecf3a0f0"
+    ], 
+    "OPENEJB-564": [
+        "d55e282184fd250080cba9fd5c91c323eecf928f"
+    ], 
+    "TOMEE-677": [
+        "d999f1eac5d33ec0c6ef67bdbd3b2729294eb4c6"
+    ], 
+    "TOMEE-674": [
+        "2f9312b8abb73e718cc66c9380f3190ace8cbd1c"
+    ], 
+    "TOMEE-170": [
+        "33b533e6eb693c4cfa3d98cca184b7b4790b4f77"
+    ], 
+    "OPENEJB-1580": [
+        "956c9fd185ecd2f7a51c306a3496efbb2c9bce4c"
+    ], 
+    "OPENEJB-1559": [
+        "bec6de39433c32939244ed6e4a8ae0a209011089"
+    ], 
+    "OPENEJB-1411": [
+        "01f10cfa01730124a65fcbd4616098adce5cbd0d"
+    ], 
+    "TOMEE-456": [
+        "3de49de2968d9bcbf6276685aafa698c3a0fa3b7"
+    ], 
+    "OPENEJB-1126": [
+        "8c52de350549ec314e2fb6101bd02e78fdc6490d", 
+        "0a3490c4e0af5a4a4ac0846638e58c964e8050e7"
+    ], 
+    "OPENEJB-1127": [
+        "6c50489995c1d889c614849595be0886a11d522f"
+    ], 
+    "OPENEJB-1049": [
+        "2164dc4604d453a355e43f1dedb1c566f572cdc1"
+    ], 
+    "OPENEJB-1048": [
+        "fd023b7a47112c7cd064efb201fac8263a422a1a"
+    ], 
+    "OPENEJB-1120": [
+        "3a39c2aca0481e455a02c4b0b4a809907268d05b"
+    ], 
+    "OPENEJB-1824": [
+        "7c5a8511673fed32a8171acf52fa571d48c613cd"
+    ], 
+    "OPENEJB-625": [
+        "0a49dff3f228dcaaa2e8d270eb4d1a2c133f109d"
+    ], 
+    "OPENEJB-1044": [
+        "1ab01d85e0c7f2466dccc7b54e7ee06cac363c38", 
+        "aae1e27892b3d28852c6879949885b9de68c4514"
+    ], 
+    "OPENEJB-1047": [
+        "3b875a58cad4ba77be39475f871dbcbf1b687663"
+    ], 
+    "OPENEJB-623": [
+        "2f88f72b1e8797920aa639f7e63116007e788cdb"
+    ], 
+    "OPENEJB-1129": [
+        "38392c1a3665ce72aae29f188e7de694329fb1d9"
+    ], 
+    "OPENEJB-1315": [
+        "a208b8937d5e49be3426122c90ecdae35102f353"
+    ], 
+    "OPENEJB-1314": [
+        "6a4856156bde4c5ddcf5046494a7c985492a45dd"
+    ], 
+    "OPENEJB-976": [
+        "32313daf5cd2de5c46d77134e22d5254d83da5f4"
+    ], 
+    "OPENEJB-1258": [
+        "70038d3abad5cd9074ca18c0e566cc4db8bd1e5f"
+    ], 
+    "OPENEJB-1313": [
+        "a3fe2248a7d8edfaf24880d0e36366b5e8caeba2"
+    ], 
+    "OPENEJB-1312": [
+        "bf8548810829dcf5265826d3abd1d610c9ec5dec"
+    ], 
+    "OPENEJB-1704": [
+        "3d366d5d6617ff95c5472684a04a77a16136d8f7"
+    ], 
+    "OPENEJB-1702": [
+        "a95c2cfb71eec9d85b30e36321fc20a1cf87029d"
+    ], 
+    "OPENEJB-1251": [
+        "13f0d88ef60716251ee5290756f1103443348f4c"
+    ], 
+    "OPENEJB-1252": [
+        "9c5f4fd134c6f3fb95a147b329005809455e6dd9", 
+        "662e0cd88a73919a123635f038ff338b9c9747a6", 
+        "b0f4ee23e6b2ebd8e95438778969ec5d1a3b0f66"
+    ], 
+    "TOMEE-211": [
+        "3f3c17ae43f99784c11a741a38e3875983488e61", 
+        "b995ecb8bbeae5cccf62d30a9abbb58dbc728f5e", 
+        "41f2fa0217ec5ccd1ce21e5113d081a643000ed5"
+    ], 
+    "OPENEJB-339": [
+        "b813cd35db2f40f56df8903077334eb333090664"
+    ], 
+    "TOMEE-212": [
+        "924771e8dc60806173092214249bb666772ea342", 
+        "c96899748c6f8f002c078c87d7a8d40437eae806", 
+        "9c97d980217617965cfc4bf88a55f37909f81e71"
+    ], 
+    "OPENEJB-335": [
+        "6e8c461ef2550089a7a42a13cace8efcbcc306fc"
+    ], 
+    "TOMEE-218": [
+        "7b2eae7a4761d8cec6ff0eecdd1bdab450f28b94"
+    ], 
+    "TOMEE-185": [
+        "91519e29e47bff975125028b403b6b9bedac73e1"
+    ], 
+    "GERONIMO-563": [
+        "b50607bcc377b958519f2efa545dbf0a22b2ac4a"
+    ], 
+    "GERONIMO-564": [
+        "4f0275d78e2fe89279ef771335cda4a7b6e8036b"
+    ], 
+    "GERONIMO-565": [
+        "a47ef80339d03290031d9d317f59ef8ad4f1620e"
+    ], 
+    "OPENEJB-278": [
+        "3c7e4643e92449569cb7316fdcbc62eddd406403"
+    ], 
+    "GERONIMO-486": [
+        "df768aec64925aa8c348bdeffaea60950d42829d"
+    ], 
+    "OPENEJB-1382": [
+        "e59edfd0b5dc86ac096a4fab5d3641a7687b2314", 
+        "2c01cd0331a1ecf418c5379e8581f41e7c6d7883"
+    ], 
+    "OPENEJB-1386": [
+        "128511898894d0d5bcc34a2aff38a8526308dd5d"
+    ], 
+    "OPENEJB-1959": [
+        "42867e6ee91c4d36ee0bb8fa9a55b76bc595aa77"
+    ], 
+    "OPENEJB-1388": [
+        "a70b72d7da95cf5d5fd921f9482accf8521bb283"
+    ], 
+    "OPENEJB-1954": [
+        "807e421592b43004955135030095098139829685"
+    ], 
+    "GERONIMO-687": [
+        "c9a0e670a5bb4cf29637207b20c09409dfb339cf"
+    ], 
+    "GERONIMO-685": [
+        "9914d28807d880e2a09f7e402f499306d51d060d"
+    ], 
+    "OPENEJB-1552": [
+        "e8d6f4f794ba242f3aaab8f5f1762a18b7e8af17"
+    ], 
+    "OPENEJB-1550": [
+        "6dfd0e1ba7130c1393bd184dc2899ca7f9bf212a"
+    ], 
+    "OPENEJB-1554": [
+        "4a988c65ccb7c09ef7461be30041c20e0d40482c"
+    ], 
+    "TOMEE-598": [
+        "8cc53c7ae0cdeacdebe3feb067c8a4db10a28bb6"
+    ], 
+    "OPENEJB-1558": [
+        "5a7ba89468342d47d7de95778124d03a6fc01484", 
+        "57977229fb13c1a75de589b5dc69525195942c91", 
+        "d0ddbc92994cd66323ae07d240bdfa8679465f6a", 
+        "341c3c5b5a523e5ef2429f1ebcd4bf8b929584a1"
+    ], 
+    "OPENEJB-1417": [
+        "8342daf71da54a17383c02d19278901adb06c5da", 
+        "6c2d3df11bdad73815610f7b505cd326e62d878e"
+    ], 
+    "TOMEE-691": [
+        "285f959fc815c8f720f6f0f1712b955f548230de"
+    ], 
+    "TOMEE-690": [
+        "b9986a203a7ac81b5101c3070687ad3ca5a6029e"
+    ], 
+    "TOMEE-692": [
+        "544701babb1265d30d23da48a986d61345f15cfd"
+    ], 
+    "TOMEE-697": [
+        "76c2f1ac968b63837aa7e1e1cde8dd8c6e6acea8"
+    ], 
+    "TOMEE-696": [
+        "3d06218527d496f5797134a0cf603481b0290859"
+    ], 
+    "OPENEJB-551": [
+        "2aa69e67e3bfa30c3a03c495ec27415387d40b5a"
+    ], 
+    "TOMEE-43": [
+        "a1b2872b9a6dbfb188564db06628a9f5b5e72778", 
+        "1123b340626451c94221cd617d7d27ef64250f77", 
+        "4fe771fa5d67d0981e8ef4f211748e0a907d9a81"
+    ], 
+    "TOMEE-42": [
+        "a1b2872b9a6dbfb188564db06628a9f5b5e72778", 
+        "1123b340626451c94221cd617d7d27ef64250f77", 
+        "4fe771fa5d67d0981e8ef4f211748e0a907d9a81", 
+        "8b7e17750d896188ea268b5c661b1930d83eaabc", 
+        "ca8152ce6f37661b322e68b6493f1e49038ff689", 
+        "2b50e4107091d277306b6909b694126840b502c2"
+    ], 
+    "TOMEE-47": [
+        "a1b2872b9a6dbfb188564db06628a9f5b5e72778", 
+        "1123b340626451c94221cd617d7d27ef64250f77"
+    ], 
+    "OPENEJB-871": [
+        "25bb93b3bb7ad23dd4449ff1f8953fb467b063a6"
+    ], 
+    "OPENEJB-873": [
+        "b2b2ad643614010fcb3956540ef44eb7c635cada"
+    ], 
+    "OPENEJB-874": [
+        "0ce676e18478aec4e23f2d497e4e1cb24bf3ec76"
+    ], 
+    "GERONIMO-639": [
+        "43e0c73e4948c479d94f121dd5eb5fe151baf42e"
+    ], 
+    "GERONIMO-634": [
+        "0efa56060a6248f7a43d170124e1fed908175ad6"
+    ], 
+    "GERONIMO-632": [
+        "75d502de73320d975b246045954f77a38becdc78"
+    ], 
+    "GERONIMO-736": [
+        "a724b90d48f116c617bf9b962714684debef2a40"
+    ], 
+    "OPENEJB-797": [
+        "1815f834ef6129abe23b01a8fbd8d7b2a2955e61", 
+        "03d6a4903b502e608e85aac03f7372ff46678529"
+    ], 
+    "OPENEJB-793": [
+        "273b773f6f95ddc9a84a6718681add3b1ac7026e"
+    ], 
+    "OPENEJB-792": [
+        "2e01861ac440a7e3d0a5c1bd8ca90614c89b96d5"
+    ], 
+    "TOMEE-524": [
+        "1759025689ae5505a39e99fd8dc68e8ce4413eb7"
+    ], 
+    "TOMEE-523": [
+        "f138aaaa67905f5271f6b4fc84932c2b1aeaa666"
+    ], 
+    "TOMEE-521": [
+        "f138aaaa67905f5271f6b4fc84932c2b1aeaa666"
+    ], 
+    "TOMEE-520": [
+        "f138aaaa67905f5271f6b4fc84932c2b1aeaa666", 
+        "fc89d4eb86477abf9d6d597a2438e1b5e77ed97d"
+    ], 
+    "GERONIMO-348": [
+        "31ddfa6e4bff3be45155cc0441fbcabe02a09866"
+    ], 
+    "OPENEJB-1075": [
+        "3963244694ba5c3cd5e4eba653206626a89b82e0", 
+        "0afced16944c3e785d1d965aaca7b94affc93184", 
+        "a2e921d30ab3fe98fb3879525db54dfa0ce97280"
+    ], 
+    "OPENEJB-1077": [
+        "81a443dd883dde62d4108cceed454291ee83fe4d"
+    ], 
+    "OPENEJB-1070": [
+        "df82015aa8a1d7a08b47cd3fd852b8ff4bb849b5"
+    ], 
+    "OPENEJB-1986": [
+        "b362e837c23185950cb3bcd1c74fb7e6ca62ce4c"
+    ], 
+    "GERONIMO-708": [
+        "0082b7405bd4e69220b5fa60fb44b4e6302260fa"
+    ], 
+    "OPENEJB-341": [
+        "5cab47356119fc4658bd863313cbf9d766db655e"
+    ], 
+    "OPENEJB-667": [
+        "cb5ea963ec16483fa51eb72c7db5a422a0db9ee4"
+    ], 
+    "OPENEJB-1001": [
+        "19635d7f63cf63a521d06437502fc24ff2f1659f"
+    ], 
+    "OPENEJB-1003": [
+        "4543c15bc28988cf3d7deeb8b0ca1209df21ac09"
+    ], 
+    "OPENEJB-701": [
+        "a94c35753fe59ba2db446d52f4cdfda1533fd0b5", 
+        "4631efd5018d29cc139d11601adf60e135d09586"
+    ], 
+    "OPENEJB-1005": [
+        "5a1fc76125cc8d63c7c6d2d3201dcc17958a48b3"
+    ], 
+    "OPENEJB-707": [
+        "6dd76d2415ac6255abeee7c9af6fbe6723da6a15"
+    ], 
+    "OPENEJB-704": [
+        "fb2403cdec008871dee23c0d6e6c68749e1572b8"
+    ], 
+    "OPENEJB-462": [
+        "6684e3deaa001fdaacd69d51498b73d2fd5608d1"
+    ], 
+    "OPENEJB-461": [
+        "c3f734408007d9d7d27d798681344bba0f9e2ec1"
+    ], 
+    "OPENEJB-460": [
+        "7dbb2ce972380d8f7ddfc4c46839b696fcdb25cd"
+    ], 
+    "OPENEJB-467": [
+        "487fdae2232cdcbfe4de028ba718dd83bdd3d499"
+    ], 
+    "OPENEJB-465": [
+        "9999374f1ce28be9c3d6e783574f91c599822d93"
+    ], 
+    "OPENEJB-464": [
+        "28f3087befdd8b788a1fe3565f5a201b0d899539", 
+        "cae7b4585410ac067bd9aedef470a9a47967a94f"
+    ], 
+    "TOMEE-624": [
+        "d65b02578e4d8108cdaf3fe3aba22c1049e2e5f4", 
+        "1c9e0991cd3b6e9b8dbe49640d28c9438677bc86"
+    ], 
+    "TOMEE-626": [
+        "59404f6bbb6353db738e97c9ce1d3291bf2ef918"
+    ], 
+    "TOMEE-141": [
+        "448cc98adeb2d723348418ba82c91383ff09a845"
+    ], 
+    "OPENEJB-1910": [
+        "36a2b8aaa961853e41683644ea3b798f2ca243e6"
+    ], 
+    "OPENEJB-1919": [
+        "821f0520965f25ba39d3df3d219ec083f0b44113"
+    ], 
+    "OPENEJB-1855": [
+        "f2d9a2e190b4310a98048847679340cda63cba34"
+    ], 
+    "OPENEJB-804": [
+        "ec59715d5a22a78c97f88ef23554e714e5a11ecc"
+    ], 
+    "OPENEJB-1328": [
+        "5c4948ca08e8fd15a7588f55d1ea9a9c15d4a4f4"
+    ], 
+    "OPENEJB-1329": [
+        "764a3a180048f53195b4e2a4fefc644f37ca8492"
+    ], 
+    "OPENEJB-1324": [
+        "d3eb438b3a90bf37927a6d94bcd60c26d950e81e", 
+        "c97afc44bd199bb10872270aa64c4fc8027d9db0"
+    ], 
+    "OPENEJB-1599": [
+        "16a2e7c8130a2aad14f3810d3b1423eaf018735e"
+    ], 
+    "OPENEJB-1451": [
+        "a54b83b928d578b2379f2c1d84cc29d007fee5af"
+    ], 
+    "OPENEJB-566": [
+        "63811093988871a1592ac4e0b9d1063c98934b99"
+    ], 
+    "OPENEJB-567": [
+        "33d9607a35300b1306680770ba9d4b9b02902a69"
+    ], 
+    "OPENEJB-1757": [
+        "4c0d92a56177e6f7aa2d263dbfdf7050e39cd063", 
+        "332a3f527948b8b9e0a1df7bd07f9a62b33ad046"
+    ], 
+    "TOMEE-493": [
+        "6f74b81d77c3222a7b8dbce52fc0cc215019b9b6"
+    ], 
+    "TOMEE-360": [
+        "31aef4882c3f3be415d8ed2c18a27473d8cf34d5"
+    ], 
+    "TOMEE-362": [
+        "63548ff473e47e6b6155d412683dc76dbd644a00"
+    ], 
+    "OPENEJB-1759": [
+        "d3bfd8abaedfc27cfc51cdab562d1a0e10a7fb56", 
+        "1267c83538e045c340f8879697d13449eae83100"
+    ], 
+    "OPENEJB-1359": [
+        "b7b9ee081b6ef980157ea4ed2ece40efadf07c39"
+    ], 
+    "TOMEE-392": [
+        "e4e8a899ee6922f18d78b22c9dba8c8978c63851"
+    ], 
+    "TOMEE-394": [
+        "978c8e5e72b66c4fa687a4fd594097b158a51213"
+    ], 
+    "TOMEE-395": [
+        "abc63692161217b888c6cc768383b0e0e4fd5b10"
+    ], 
+    "OPENEJB-1356": [
+        "37a1cac89ac9ac635f75b7c72a1dc91a2b5ceb08"
+    ], 
+    "OPENEJB-72": [
+        "b6eb63956521f7595e53312750fc0de257f2da4d"
+    ], 
+    "OPENEJB-74": [
+        "af32f2c06d09e8ce815d6c53a8992a0ef6f61f0d", 
+        "133cf610ef767857e733303ec1f70e8b0e2ddb61"
+    ], 
+    "OPENJPA-142": [
+        "7d4bbd103206c6c83e1de8aa5ca484895c3f22ce"
+    ], 
+    "TOMEE-568": [
+        "41d4acd2342ab8a1fa983fc13a7aaea74d25884f"
+    ], 
+    "OPENEJB-1522": [
+        "be17c81d023915bce0628141b792398afef67d44"
+    ], 
+    "OPENEJB-1523": [
+        "6b33a61767a982c5b8c29a2b4c40c3e7cf6af281", 
+        "67bd90d6186ba7b55dd579176cf191019b8792ab"
+    ], 
+    "OPENEJB-1520": [
+        "6df120b3d608d66689d4289cfbf273e881888e0d"
+    ], 
+    "OPENEJB-1521": [
+        "0d073ceef4758c3741a8dbacce8a12c070bd7c2c"
+    ], 
+    "OPENEJB-1527": [
+        "f498d8d462bc25f471662dfcc70bfcde4afc9d70"
+    ], 
+    "TOMEE-564": [
+        "354301f2f8a91989f24028f1554511294ff9b8b6", 
+        "b772d4747c0e31bf99589401f8db80e7b3dac660", 
+        "d1e2076912fb58970fd6fbf4e627f51b9708716d"
+    ], 
+    "OPENEJB-513": [
+        "631136ae529303f1b3ada1acceeca4fda6074b8d"
+    ], 
+    "TOMEE-401": [
+        "af508b20bb64884138c55cda100eb6a01e0a9648"
+    ], 
+    "TOMEE-403": [
+        "0b9d29764ea59c381d05017ae7d1c5a165c6ae94", 
+        "f81080aad384a12d70650fca648a04fa6ca1b90e"
+    ], 
+    "OPENEJB-515": [
+        "318686d35cc88ca28f1df3567e0254909c7e0d56"
+    ], 
+    "TOMEE-407": [
+        "cdaa4693bc20da5a411f6f79bb06565777002f9b", 
+        "29bc12f798751a2e241d2761780feee24ef7236a"
+    ], 
+    "TOMEE-409": [
+        "42a5694a9eae4f8e1a8bbc90bd1d2eb4225405a5"
+    ], 
+    "OPENEJB-294": [
+        "246ab514372baf17be32a2ce3ac5535dba0403c8"
+    ], 
+    "OPENEJB-296": [
+        "b315fafbe02e0c87e0cf83d6be92b0a69b971cea"
+    ], 
+    "OPENEJB-297": [
+        "1a1423efe003e27b247cffd5629ed826e1a61fa9"
+    ], 
+    "OPENEJB-290": [
+        "5d8b04e3f1abbf0cbaf0c7e17d9c804223a6a43c"
+    ], 
+    "OPENEJB-291": [
+        "53cb3d96b7f2c6818b085f2d064e7958251c8832"
+    ], 
+    "OPENEJB-292": [
+        "94e1e4b62f3dde13418993db0ccd9a11e8309b81"
+    ], 
+    "OPENEJB-293": [
+        "72c326ee293c209384b307dbfac3de6b223a203d"
+    ], 
+    "OPENEJB-6": [
+        "2098499e8e2ac97a2590210e10c8599c75203c53"
+    ], 
+    "OPENEJB-411": [
+        "0886c5b0cde29037f96a6f7a9e20e63d1ded76e4"
+    ], 
+    "OPENEJB-887": [
+        "62d218147ec7d5ce89cb8644bf9e848ea4a3a18d"
+    ], 
+    "GERONIMO-666": [
+        "f354b1887ad6b7db98b1f1d4796ad78efa765058"
+    ], 
+    "OPENEJB-746": [
+        "0c0f4b183375d80d5d6448dbb2e775251ea9701d"
+    ], 
+    "OPENEJB-742": [
+        "d96346433b963cb13c68abdcd5e3bc3ce1767f70"
+    ], 
+    "OPENEJB-740": [
+        "7ba4caaa9324ba53209da0184be7ce9049feb8ea", 
+        "7ba4caaa9324ba53209da0184be7ce9049feb8ea", 
+        "c384ab97b6bec47ca94d293706b42719468cae0f"
+    ], 
+    "OPENEJB-583": [
+        "f1eed4426722902f90fb19065a76e2770ba69e2e", 
+        "48e348461734d8d221357f51b6bf7599966ec494", 
+        "b78405ca10ecc32806bde50b63fef0289e0e7a65"
+    ], 
+    "OPENEJB-587": [
+        "a9bd9b88cbe5a96134ce24d8416bbb9e67160e7a"
+    ], 
+    "TOMEE-664": [
+        "55432f85e87f034592e1d3f77e8574ac0fdf32bc"
+    ], 
+    "TOMEE-665": [
+        "3d1053709bd5e8b96d543c4af138333550fcc011"
+    ], 
+    "TOMEE-666": [
+        "96dbbe1e0bdb5a11edf0e2de822f701bf4efb7e0"
+    ], 
+    "TOMEE-667": [
+        "40fd67432990753d14d214beaa7446718f1756e0"
+    ], 
+    "TOMEE-668": [
+        "d1c28af44333bf911fc6f1f8e4cccf23d03a705a", 
+        "9072ba1f2076788be5229f1d966942642de25df0"
+    ], 
+    "GERONIMO-403": [
+        "caa68c0d5787e5c59133961babe48f7744cc638a"
+    ], 
+    "GERONIMO-402": [
+        "400d9174d874cc4ccde174adb801257ba0186e4b"
+    ], 
+    "GERONIMO-404": [
+        "82e3f3678cd8e018f46e8c532398cb32ed0c4ac4"
+    ], 
+    "OPENEJB-1798": [
+        "3c7ef34409b732f7f4664806fc38e20e0f361c84"
+    ], 
+    "OPENEJB-140": [
+        "96ecf6ebb84184a35f87a25021cf47b6c0848737"
+    ], 
+    "OPENEJB-735": [
+        "4289fd7fae4c7065afea3f6845421bbc6304acde"
+    ], 
+    "OPENEJB-1362": [
+        "b6c65d71cc4f7f773254de1249ad75cfb08ab869"
+    ], 
+    "OPENEJB-1249": [
+        "ed7f4501c588031c786f8cab6eb345e1feeecf56", 
+        "818c908ef1ef9d6d544d47e7adfe6d6bd400f1c2"
+    ], 
+    "OPENEJB-1711": [
+        "352ad0bf5dcba12078664925d4d74983343ce7c9", 
+        "19f0de372611aab17e4d7f24bdd389d2e743e5e1", 
+        "7902ea4fc34c5852d952f007e77ae155b35fa088"
+    ], 
+    "OPENEJB-1246": [
+        "576bc011b9d804c8894514bd7671df0ba657fa23"
+    ], 
+    "OPENEJB-1245": [
+        "8872552609f136ffe4d1911e08f83490b8c9addc"
+    ], 
+    "OPENEJB-1244": [
+        "96fdba42110a40d150549fb9abd807d21e1356ad"
+    ], 
+    "OPENEJB-1714": [
+        "df44fe5571063220cccc25e35cf7d42758ff3402"
+    ], 
+    "OPENEJB-1717": [
+        "c3da08f0ebbfce56fed847f745f724dae9d845f8"
+    ], 
+    "TOMEE-207": [
+        "806bf3aa0bf9f7d5d8265e42a731aeed22f932a6", 
+        "163fa4c9041a81d1c4eac2b57d59cf3f2803dd09"
+    ], 
+    "GERONIMO-579": [
+        "2df66663f459fdc454aab7044f68bef151ac08f6", 
+        "0405bc5be5481c27b20263ea310d3ffb8745842b"
+    ], 
+    "TOMEE-200": [
+        "49efb92a52e432119690d61d05c573646896c6c7", 
+        "8ced1997945215c5b3aff31156ebf190663303dc"
+    ], 
+    "OPENEJB-1426": [
+        "d25169fa3aa92acf9893a20680e9604b924dba20"
+    ], 
+    "OPENEJB-322": [
+        "6c94437e5731a7b4cc796c251be1717e6b4f6f03"
+    ], 
+    "TOMEE-193": [
+        "ab031edb77f97f3ddeb4aa8758f466193755d590"
+    ], 
+    "OPENEJB-1109": [
+        "247aa85b8423a12bf8ddf5b125dda523c49ae591"
+    ], 
+    "TOMEE-198": [
+        "caea86564ec36bfcca4ab232df5bb6185b966c69"
+    ], 
+    "TOMEE-199": [
+        "f944d01779db3b8bbce9f1f448f2ee891beaf6af", 
+        "7be72f0321d40c17337d631d28341cc7228b443c"
+    ], 
+    "OPENEJB-1628": [
+        "8bd125c6a64b2592dc3478af89c2adea6c1a2d5e", 
+        "4b432814c8300526fe8bf5ec62eed035cb1dae3b", 
+        "8100287a7097fc6502b70dce6ced9a1e2a52e95a"
+    ], 
+    "OPENEJB-1624": [
+        "84295452c8563174c3b86fc8d49f75c0bd6da117", 
+        "defadc2f4ba8cf5a08721e2fe682c02d1af2a016", 
+        "9b4269abd7b4c775f2bafe4c907c487341fb4e9e"
+    ], 
+    "OPENEJB-1627": [
+        "6ec1acbe9a4405c3a4c774041686c4837f986511", 
+        "1b0f5cc263348d0b037b81bead70061f4a0c43a1", 
+        "29536e1c40b7ddd75ee66249d1722a7ce9806d37", 
+        "88e415eaf25acdf33f16a2a464fad6d08881f2e3"
+    ], 
+    "OPENEJB-1961": [
+        "994f4262be0f56be10e6534fdcdfda55f5e02296"
+    ], 
+    "OPENEJB-1967": [
+        "80e39aa8f18d85347558b65c3dbcef49e9ac8ad9"
+    ], 
+    "OPENEJB-1622": [
+        "02ff37e43327e34c156684c3d26d4fff4a9703ae"
+    ], 
+    "OPENEJB-31": [
+        "001a67ba051ac162bf9ed3b49be6e730935d81d9"
+    ], 
+    "OPENEJB-1567": [
+        "277f542632994eddd0586ce7145e132b4eab613e", 
+        "72dc3f6a1ba8e88188d93a45622145f6d8597a71"
+    ], 
+    "OPENEJB-39": [
+        "1b617e434f014ec19e7087993d9fb65081acf70a", 
+        "47ae83d5970a583c83486f424a169677c7bdea82"
+    ], 
+    "OPENEJB-1405": [
+        "cb209cdb0b29e5923cdef761961e6178d5e6e750"
+    ], 
+    "OPENEJB-995": [
+        "7416d61d1e4ddd35ed398720f850ba7fe792f9b2"
+    ], 
+    "TOMEE-339": [
+        "5c88843e82040978547df0d3148f92212966cfb1"
+    ], 
+    "OPENEJB-1403": [
+        "eda4c04cd69f2ed29d3191db78980aa10425e31f", 
+        "2731cca6018bb091245f3529eb86719b9ad31d9e", 
+        "952f14c3ba7dbb6bdcc4bc5757c55296c3a74440", 
+        "e9f4a2d1ecfc1358c4c72abca85b613de1adb90c", 
+        "3346e37120cdd0dbd32dd2122deef3279bceeca1"
+    ], 
+    "TOMEE-444": [
+        "f430ea4094ec47311ba3ea02f718f147e1ae2a20", 
+        "330f0769ff899d813370dc430a51147ce80808bb"
+    ], 
+    "TOMEE-445": [
+        "69de2342a34f0f2c3a22724f80ba94b11aef20d4", 
+        "2528f1dbc6372c492a5cd4ab14e4051eeb41dfc5", 
+        "583d7a99f191c0451169ffa9379481fccc884779", 
+        "7cb5bed56085d810553dd73936258ecd7a9882f6", 
+        "6e525db8beb06c98fbcd2123729e03eb1f8dd5da", 
+        "420a856a102f2500b591e6049e6f4f4099db49ea", 
+        "b662b48a3daacda6aca5d2e8a2a3872bafe0daeb", 
+        "13dbfa1d02bebbe15028671b42e331b2fdf7fad1", 
+        "36a2b8aaa961853e41683644ea3b798f2ca243e6", 
+        "bc5b553f10bff0e524fbe33871d9590d5193ad58", 
+        "412153204517cc7518d9c98af59051d496bbfbfb"
+    ], 
+    "OPENEJB-1766": [
+        "77412b5f0089c4a1ac6a754f772b351d2a029e42"
+    ], 
+    "OPENEJB-554": [
+        "a433d768f888602512af5eb61e37711a237b12c3"
+    ], 
+    "OPENEJB-1409": [
+        "711547cf6b549b24339e4c11cbc8fdf6a91bc771", 
+        "b919601a96c93eeaa894c6acec3a793093305400"
+    ], 
+    "TOMEE-441": [
+        "49a050c227d101db276ac039b83e1607422b60d3", 
+        "0cab48260330370e763aa185fcd6eaf08df30014", 
+        "a68b1577f510756e792a18fdae8f0a2647b4814d"
+    ], 
+    "OPENEJB-999": [
+        "bd4f94f1552ba53f7a4744ff79a1bf871a1f4b1f", 
+        "1770cb00ff980d3f925f05a389468b45e99815e5"
+    ], 
+    "TOMEE-443": [
+        "390e460913020e42ecc6d5bac0994815e725fbaa", 
+        "fd9d451541ec745ddedc9f5666910e64f4a9e653"
+    ], 
+    "TOMEE-725": [
+        "12d135fba71c0d3fca1e0fcbc44b12925ba1aa32"
+    ], 
+    "TOMEE-720": [
+        "e000e19cc831e8c717b92e93cd9ffd3e0a10398b"
+    ], 
+    "TOMEE-722": [
+        "c7a8fa4baaa9fc053a0b66d246d3954cef63827f"
+    ], 
+    "OPENEJB-259": [
+        "e725489b169a6ae5b2306966fe9dfd544fa89982"
+    ], 
+    "OPENEJB-395": [
+        "1d3f43440785715aa1fdfeb8dc0809ce99527a9c"
+    ], 
+    "OPENEJB-394": [
+        "245b34949a8ec875159b1b310f95250a1c611377"
+    ], 
+    "TOMEE-684": [
+        "1529f9e165a4f05fd417bc5a8ed3be621bb499b5"
+    ], 
+    "TOMEE-685": [
+        "1529f9e165a4f05fd417bc5a8ed3be621bb499b5"
+    ], 
+    "GERONIMO-580": [
+        "8e9c422cfe374e2384a45b3ebcc6406de9cb8c00"
+    ], 
+    "XBEAN-179": [
+        "0af2e33e64fe484f87f6db20d60d64db8e8f69c0"
+    ], 
+    "OPENEJB-843": [
+        "40eefad6a2746fd6fe9a8346b86672610f789e4a"
+    ], 
+    "OPENEJB-965": [
+        "e48aede918ec26c95515d44c062d37bc2574eb5e", 
+        "ec408d7103b936fd3c889a904a61a31adc6e317b"
+    ], 
+    "GERONIMO-782": [
+        "3b5dbf5f3b12bbd63e2ce76f2089edcf76cf52e9", 
+        "ef47c72fec974e3e1091a0f1e2f0efa5011a5242", 
+        "143259394238d9b3f3ae9fb79b6658c2f6668855", 
+        "3f0ab90b4236fef85bb94ab39789276608f5bb4a"
+    ], 
+    "GERONIMO-780": [
+        "c0505bb7a01a4bb8329611664894b83576fe378a"
+    ], 
+    "OPENEJB-545": [
+        "543e7be25fd71ca60b7a61932f00f6d723810e75"
+    ], 
+    "OPENEJB-782": [
+        "8342b711a3c0cb78b8aebb3ce0ec83d3abd27ea2", 
+        "0dcc24f5ff7b427086278e0adaad1bf6d001331c", 
+        "09b0105a187485ce10b6dda77331f5f840ef892d"
+    ], 
+    "OPENEJB-783": [
+        "08be925541033ad2c0a46dfea3fbabecb737c910"
+    ], 
+    "GERONIMO-623": [
+        "11121269927fdd5c3f3542897360f68cbbc231ef"
+    ], 
+    "OPENEJB-786": [
+        "44c077316b2f617950a984ea5be823300d1f25a1", 
+        "bfa66c179c38a6624cccaf12f8c20ce1826b58a4", 
+        "046eee958220c42243c767a57cdf2fb1cb905b07"
+    ], 
+    "TOMEE-438": [
+        "d14601d72196d6104b6587d8168e0b114da870b4"
+    ], 
+    "OPENEJB-579": [
+        "0120b61c4829bc7b4c434976d15f8451f8e4f3bc"
+    ], 
+    "OPENEJB-955": [
+        "19bc66b584ebc0883f186435286d43e797301d8a"
+    ], 
+    "TOMEE-433": [
+        "cb99d20f468db65cfe60b5d3141999f83ac20c9d"
+    ], 
+    "TOMEE-432": [
+        "cb99d20f468db65cfe60b5d3141999f83ac20c9d"
+    ], 
+    "TOMEE-437": [
+        "5393a5f020e4885547a2324be1074f5a83491731"
+    ], 
+    "GERONIMO-355": [
+        "925def578db78533c9914292307d97271f9e24cd"
+    ], 
+    "GERONIMO-359": [
+        "925def578db78533c9914292307d97271f9e24cd"
+    ], 
+    "OPENEJB-1335": [
+        "99b47f1b81b69d265a728ee959ff8390dcd109d0"
+    ], 
+    "OPENEJB-1066": [
+        "a94c35753fe59ba2db446d52f4cdfda1533fd0b5"
+    ], 
+    "OPENEJB-1065": [
+        "a94c35753fe59ba2db446d52f4cdfda1533fd0b5"
+    ], 
+    "OPENEJB-1064": [
+        "1f78cd65b7acd3a108bcd9285cf93dc1ee0404bc"
+    ], 
+    "OPENEJB-1062": [
+        "d659cbab95dce6978aa92cd5809da74d6bbf7b00"
+    ], 
+    "OPENEJB-1061": [
+        "a6bf26595df4eb162092dce697beb02ea010dad4", 
+        "a6bf26595df4eb162092dce697beb02ea010dad4"
+    ], 
+    "OWB-595": [
+        "9ea6ab60f41c4bdef0dac6c05d9cc6606332c888"
+    ], 
+    "OPENEJB-1069": [
+        "7af3b9a8d3f3a2151a27fdd19f6589eabf2b4b7b"
+    ], 
+    "OPENEJB-1331": [
+        "f9e8bf245dcb4d5708d1db71b7f2ff6d8a70d0ee", 
+        "cc1b6e91f0a4f1528d570f609df6e907365d5e4b"
+    ], 
+    "TOMEE-487": [
+        "d9bda067e04e65a272c3e82abc32f7c4318f15cc"
+    ], 
+    "GERONIMO-715": [
+        "aa70bc8ae5763cae3705beb1c66eaa1480182ce4"
+    ], 
+    "OPENEJB-672": [
+        "77e6388919faf462426b795035ff38bb310b7b63"
+    ], 
+    "GERONIMO-651": [
+        "9a673503838c12994e01504e639938273860654a"
+    ], 
+    "OPENEJB-777": [
+        "30232ecf306d77dea9bb5669c9b4e64d6587c2f6"
+    ], 
+    "OPENEJB-472": [
+        "58c74b81c03b1996413183c137cc73a19a49c863"
+    ], 
+    "OPENEJB-778": [
+        "a0f3494b8c4c81fa72fe0a192136d0aa3f786725"
+    ], 
+    "OPENEJB-1615": [
+        "187fa4c892e2665fec49cee35c4ca042a691bd87", 
+        "0ef278fe527f38a33f17d7333744416a2103b869"
+    ], 
+    "TOMEE-658": [
+        "c82471769c44b72ad688da85eccfeb51e724ceaa"
+    ], 
+    "XBEAN-91": [
+        "f889137794fb6515562e24ae9c6cde0ea2ebded7"
+    ], 
+    "TOMEE-652": [
+        "e9b6b943417b778e6d241e3896a0207a97de244a"
+    ], 
+    "OPENEJB-390": [
+        "ed1d95a980b7353d3a0ca9767129e324141d68c5"
+    ], 
+    "TOMEE-154": [
+        "441a9180059782e421111f5fadb0a929d2301f08"
+    ], 
+    "TOMEE-155": [
+        "4937ad0f0e11542de0c293c4b4aeb0d64c04228b"
+    ], 
+    "TOMEE-159": [
+        "63a1bcc9edf45f30516cb0e83da15e64fba8d571"
+    ], 
+    "OPENEJB-1298": [
+        "f4a84b50834e53dc3ffc7cb586c8791acd63f9b1", 
+        "bfac9c7179e1f6015cc99f0645f5f948a8d42d24", 
+        "57c268849348146e85e1f0488fbc9d278ae9dd5e", 
+        "0337bd84c70a6d2a0a1b4b6e18f83af087f2c8e3", 
+        "c5be4cf6b88eee55725d30a4df71a270d302604c", 
+        "06f906006f42a43ba5461f4816aa2a6facc88eb8", 
+        "2638873ead6507467b93e92ed6cd317b98d0bcd0", 
+        "1c1ba9e3a0c0154dc0c5fe1457834622b86a6311", 
+        "4b1ad2f137822e672d7b646c545d49d510200031"
+    ], 
+    "OPENEJB-1299": [
+        "2e3f42beb32c3fe60f79bfc8ac2d8091be060080", 
+        "457702fb6458d478a2590e7668c7ae8f7139f44b"
+    ], 
+    "OPENEJB-1928": [
+        "54f2754e2387deb1fb627e602bfe16acee962576"
+    ], 
+    "OPENEJB-1923": [
+        "b35b8958513a72641054a0d88b03a8e2e84b6a6a"
+    ], 
+    "OPENEJB-1844": [
+        "fca4d342ebc581f4229b57bdf334e0510836bfe4"
+    ], 
+    "OPENEJB-1847": [
+        "1f077027b869a7b359cd0fe6feee99905c229066"
+    ], 
+    "OPENEJB-1002": [
+        "8833b8ed4efc81d86a75a04b1a5e77879b67344f"
+    ], 
+    "OPENEJB-1710": [
+        "7b857c7f675a98b71913a8a5a9707c86739f48d6"
+    ], 
+    "OPENEJB-706": [
+        "87e99fce5ae041220709abbdb80b5ab071ae0ee8"
+    ], 
+    "OPENEJB-601": [
+        "c9c3badc1ecf8e55f4638222a900585393aec98c"
+    ], 
+    "OPENEJB-607": [
+        "9b70aa4ea4883deee37eca4f05c088c03b09e423", 
+        "22d1632bccdd129882e2076679106e57d247aa7f"
+    ], 
+    "OPENEJB-953": [
+        "d53cf35e75b4043764e8820fa9c6bbb35a8ce97d", 
+        "25f77b455983436c02a279a44351acda2b4bee14"
+    ], 
+    "OPENEJB-952": [
+        "e5fc466b547c7b1a8de8be81a07e3ad896b85f53"
+    ], 
+    "OPENEJB-951": [
+        "e2ab07fea384559f5d4e9906bd798dd7d81d7e47", 
+        "c4b721088232f483431651f1fe6c5e3b2ffd5ad2"
+    ], 
+    "OPENEJB-956": [
+        "78033691ef506dd2d871b1ce6be898b85bbdc81f"
+    ], 
+    "CXF-2554": [
+        "53608301befe545d52edbd9bd741911ebeb1044f"
+    ], 
+    "OPENEJB-1441": [
+        "02645c29e981dd1132cb6cfd4c6e8041086c2997"
+    ], 
+    "OPENEJB-1336": [
+        "a6749c460ece3065e8ce4fc78608df86e67a1977"
+    ], 
+    "OPENEJB-1443": [
+        "90b67aa6d76118803c39bc1214d2260f69bd8559"
+    ], 
+    "TOMEE-483": [
+        "a49ac8833d641b140e8c6eab159a273cc8ec16c6"
+    ], 
+    "OPENEJB-1445": [
+        "82a39787223645ad8b7d6a5f6198d315eb30b751"
+    ], 
+    "OPENEJB-1447": [
+        "2469207e7e95bd1bb565424ed651f7360b9762bc"
+    ], 
+    "OPENEJB-1446": [
+        "0088e36bf1142d2b9eafbce531a859d9bb083ed4"
+    ], 
+    "GERONIMO-386": [
+        "6e5cc956e3c6bc57ea138c30c0c7a8a507b3e6b0"
+    ], 
+    "GERONIMO-595": [
+        "4c1bb0c49828d8fdc1a1279472b2218988f4ab31"
+    ], 
+    "OPENEJB-1241": [
+        "88af571141c8e77af5fc7c977fdbf21992f06cb7"
+    ], 
+    "OPENEJB-1729": [
+        "579f13ad333ebf6f68c59c5536a698e728366cca"
+    ], 
+    "TOMEE-38": [
+        "8166e8c3d9398f2b57b3cce82eccd404c2af2998"
+    ], 
+    "TOMEE-39": [
+        "8725df8b401a0ba03ffea329309a64f6ec99decd", 
+        "fc56b2f53a4b9a8d4aeacd08fde323b5f846bad5"
+    ], 
+    "TOMEE-610": [
+        "ba81ba4ee12b6692daa8c2a6287607b6d7c38631"
+    ], 
+    "TOMEE-36": [
+        "34d529116b5cd7917fe3c60470511aa03bf3d115"
+    ], 
+    "GERONIMO-549": [
+        "d20b00c71cc50a60977c11cc8614574caeba253f"
+    ], 
+    "OWB-743": [
+        "fd441da303852d7d28403da605a947c25921650e", 
+        "ceeba10d7bdee97f852eebe544cbf37f4fb3382b"
+    ], 
+    "OPENEJB-41": [
+        "a9c63f04d8918d6fc541f39b0d796513a613b263"
+    ], 
+    "OPENEJB-42": [
+        "a9c63f04d8918d6fc541f39b0d796513a613b263"
+    ], 
+    "OPENEJB-1535": [
+        "66736bfd0cbd15bae23149389bd68185e6723243"
+    ], 
+    "OPENEJB-1537": [
+        "a5737568342dba121bc98faeb869b2c9a0b2c5fc"
+    ], 
+    "OPENEJB-1536": [
+        "03ae98926e47b6b9c9a19b2bd34bec6c2305f5e1"
+    ], 
+    "TOMEE-578": [
+        "3116901355699bdc2089b8b254e8817bba11d65e"
+    ], 
+    "OPENEJB-1439": [
+        "b5f2760ea9ac879ab4c3445d14d2c59688aa4a65"
+    ], 
+    "OPENEJB-1533": [
+        "e18291f16ca86cb0cc92fe076046e5f636e53375"
+    ], 
+    "OPENEJB-1532": [
+        "2e4a694ca234639a234167c50ccb476804e77978"
+    ], 
+    "OPENEJB-1435": [
+        "0592c996aaf83a60ed49be48055c523564c109c8"
+    ], 
+    "OPENEJB-1437": [
+        "01e42a6731beaeefb022a0171b630adfbcf7ff4f"
+    ], 
+    "OPENEJB-1539": [
+        "dcdcabcf9fda2401c3af05b89183781450ddf75d"
+    ], 
+    "OPENEJB-1538": [
+        "071417e3bd16bf4c48be7c0d24ef3ec863968788"
+    ], 
+    "TOMEE-475": [
+        "df6ff35fd668b72b96612a499d9e9f19a6c66d95"
+    ], 
+    "TOMEE-451": [
+        "233bbfbf014e948af5e8916b4d8cadcd2fc171ce"
+    ], 
+    "OPENEJB-811": [
+        "f0506bafc81bab3e2aee98ae27f8b4b807d05966"
+    ], 
+    "OPENEJB-1893": [
+        "7e4b4bf7e928ce741b98900ab1f300f37d89921c"
+    ], 
+    "GERONIMO-612": [
+        "6d087635586dbb891ff2cf5e88bd53817ed499ca"
+    ], 
+    "OPENEJB-459": [
+        "ca052be2881dda32aace1c68251409a958a9a754"
+    ], 
+    "TOMEE-506": [
+        "5b998566856a667cbaf163652beef886ee7ec310"
+    ], 
+    "OPENEJB-436": [
+        "67dbbb1115a44d1380ef8c0fbccf6b98991d0735"
+    ], 
+    "OPENEJB-437": [
+        "1c16af6af9b0dfcc76ac0a1c79e3bb63ec37315c"
+    ], 
+    "OPENEJB-430": [
+        "7cf5fcfc8f22e2208d5d244adcdf7bb5a34f3737"
+    ], 
+    "GERONIMO-369": [
+        "29844e65fe6db48fb3661e4dcf01cf53e53b73af"
+    ], 
+    "GERONIMO-360": [
+        "925def578db78533c9914292307d97271f9e24cd"
+    ], 
+    "OPENEJB-1091": [
+        "2fda650cf58eaa6d705a73760f3bb3034c1a0222"
+    ], 
+    "OPENEJB-1809": [
+        "8fce49f599bb4d8874c0c9fb8d7165c521808a99"
+    ], 
+    "OPENEJB-1800": [
+        "700098219c179630cbc5d369c486cdaa228c65c3", 
+        "db99250d38d174cfd21715a2b1d840342d579066"
+    ], 
+    "OPENEJB-1022": [
+        "f53cf72b19b88be1c2e9c34b86c265b0fd043e7c"
+    ], 
+    "OPENEJB-1021": [
+        "a5291b4cede0dfd49022a5b6af4fea15898640e3"
+    ], 
+    "OPENEJB-725": [
+        "538e043696ee70346f372ff552bd0c665f666071"
+    ], 
+    "OPENEJB-1371": [
+        "e4590a7b3970d7adeb00569ccb681c3603ae5069", 
+        "6e9d52d8e914c30c7ad230bece58fce6d59bab29"
+    ], 
+    "TOMEE-237": [
+        "0f57e6a704e86fdc9ba652284841bb698576672d"
+    ], 
+    "OPENEJB-310": [
+        "a6ce402b1fa9b11ab34a3d702ac446a9c130c1a6"
+    ], 
+    "TOMEE-609": [
+        "eb0d0d1967b35a066e3f4dbf5a9fa331c2fc7036", 
+        "cb58bd7f2c4539cf297be603abcf62f71d885ec3"
+    ], 
+    "GERONIMO-506": [
+        "e8ac5b8d71aaf6a28575acced37aaced534cd02a"
+    ], 
+    "GERONIMO-467": [
+        "3f0b84ea1247015853fc8e688293c3db4164cb33"
+    ], 
+    "OPENEJB-1620": [
+        "e27f2b31e466014cd354be29166cd9549821a498", 
+        "0cb76b05d6ce8d00c9bb28772cc1734d1548db97", 
+        "1484d66e4738e42dfc18160a28ca8587fca6e012"
+    ], 
+    "OPENEJB-1879": [
+        "4cdf4389161beddd61bcf4a1a3d7f62eea55b0d1", 
+        "ff17b4c2f06d07e029e6609113ffa3c0bbc20087"
+    ], 
+    "OPENEJB-1531": [
+        "359ea02a6fa860974724d0cbcd22aa0f34b5d816"
+    ], 
+    "OPENEJB-1876": [
+        "aa190f390b3ce2cbbf37fd3b866ac396a9628711"
+    ], 
+    "OPENEJB-1978": [
+        "cd2b9e8bb4e7943d6e541d669affe807ba1cf581"
+    ], 
+    "OPENEJB-824": [
+        "898f209f2f3e0eebdc5af58360a894846247d3af"
+    ], 
+    "OPENEJB-1573": [
+        "3333ba32493df96a431a4180b2adbf665f92ad0c"
+    ], 
+    "OPENEJB-1575": [
+        "2d56af898d42aafd34e9bf53ba52af01942efe52"
+    ], 
+    "OPENEJB-1574": [
+        "50aaaac13f3032d0297a2964575105405f945bc6"
+    ], 
+    "OPENEJB-1577": [
+        "656a366fdb56d62fe97ae1aeb1a5f5e925645b9d"
+    ], 
+    "OPENEJB-986": [
+        "f4386c7bbf118b52cb5877e73991cab5830ab7b6", 
+        "ab01ca765f573cecd9c117e71c3571d6dcb99817"
+    ], 
+    "OPENEJB-549": [
+        "472facff6d19ac5cb57464727cf529cdd3acb16b"
+    ], 
+    "OPENEJB-982": [
+        "97ecad2c76767e8de89418cd8dce64922a98bea9"
+    ], 
+    "OPENEJB-1776": [
+        "7c2be453b845ad8d852126cc27ec5ac9b74322cb", 
+        "1eadc3fc4c74dcae168523b6b2370ab65e15c340", 
+        "8894c30f81c8c7915f4f1f52c46d6cf741f101e7"
+    ], 
+    "OPENEJB-546": [
+        "54e84320545b60d2aacc4aed858b9ae74c17a555"
+    ], 
+    "OPENEJB-540": [
+        "f1468af2540b1907ae3e6882d559c156ce4a7875"
+    ], 
+    "OPENEJB-989": [
+        "697ecd7aab818024d9eb4f6a3c25cdcc1a1ad4a2"
+    ], 
+    "OPENEJB-1771": [
+        "3ade16cad0fa4937e186655f56a50ee18c51b8a7"
+    ], 
+    "OPENEJB-388": [
+        "04b4d4b1259ea4fe69976ebf1b8ad048f00ad1ad"
+    ], 
+    "TOMEE-61": [
+        "cdd80c5499cc8c47e8fcc4ff3899bd29961089e5"
+    ], 
+    "GERONIMO-591": [
+        "3c416ed444f023cd560489f6e266c0a4f79287db"
+    ], 
+    "OPENEJB-852": [
+        "06ef36d2a96633049b260b3b489f38ecac32b924"
+    ], 
+    "OPENEJB-853": [
+        "eea45184793f004c2c0fac71a3804f72507b5407"
+    ], 
+    "OPENEJB-919": [
+        "27e02fe0552eccd27ab5083c2f959a62aa5905ba"
+    ], 
+    "GERONIMO-598": [
+        "4b4629a5de14a6a468dd05b536760f9ed3e02702", 
+        "8e9c422cfe374e2384a45b3ebcc6406de9cb8c00"
+    ], 
+    "OPENEJB-997": [
+        "d49920f9252b8c087d592e50670ce3b548595498"
+    ], 
+    "TOMEE-422": [
+        "9a2947e0a2451a4d3a388d0609e935d2c1d179a1"
+    ], 
+    "TOMEE-424": [
+        "7d95fa6f9070c77b4f46ede75518cff2004b3d72"
+    ]
+}

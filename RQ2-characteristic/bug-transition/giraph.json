@@ -1,0 +1,3806 @@
+{
+    "GIRAPH-1017": [
+        [
+            "Open", 
+            "Resolved", 
+            "117d 17h 43m"
+        ]
+    ], 
+    "GIRAPH-1015": [
+        [
+            "Open", 
+            "Resolved", 
+            "124d 17h 4m"
+        ]
+    ], 
+    "GIRAPH-805": [
+        [
+            "Open", 
+            "Patch Available", 
+            "49m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "210d 21h 22m"
+        ]
+    ], 
+    "GIRAPH-309": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 7m"
+        ]
+    ], 
+    "GIRAPH-154": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 52m"
+        ]
+    ], 
+    "GIRAPH-518": [
+        [
+            "Open", 
+            "Patch Available", 
+            "59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 11h 23m"
+        ]
+    ], 
+    "GIRAPH-449": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 3m"
+        ]
+    ], 
+    "GIRAPH-523": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 4h 53m"
+        ]
+    ], 
+    "GIRAPH-303": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 47s"
+        ]
+    ], 
+    "GIRAPH-302": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 43m"
+        ]
+    ], 
+    "GIRAPH-781": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 41m"
+        ]
+    ], 
+    "GIRAPH-476": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 23m"
+        ]
+    ], 
+    "GIRAPH-783": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 41m"
+        ]
+    ], 
+    "GIRAPH-782": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 41m"
+        ]
+    ], 
+    "GIRAPH-609": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "GIRAPH-576": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37m 41s"
+        ]
+    ], 
+    "GIRAPH-228": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 21h"
+        ]
+    ], 
+    "GIRAPH-575": [
+        [
+            "Open", 
+            "Patch Available", 
+            "58m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 9h 2m"
+        ]
+    ], 
+    "GIRAPH-311": [
+        [
+            "Open", 
+            "Patch Available", 
+            "308d 5h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 7m"
+        ]
+    ], 
+    "GIRAPH-478": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 23m"
+        ]
+    ], 
+    "GIRAPH-709": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 7h 50m"
+        ]
+    ], 
+    "GIRAPH-708": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 54m"
+        ]
+    ], 
+    "GIRAPH-386": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 5h 1m"
+        ]
+    ], 
+    "GIRAPH-903": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41d 40m"
+        ]
+    ], 
+    "GIRAPH-380": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 18m"
+        ]
+    ], 
+    "GIRAPH-498": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 36m"
+        ]
+    ], 
+    "GIRAPH-1163": [
+        [
+            "Open", 
+            "Resolved", 
+            "220d 1h 42m"
+        ]
+    ], 
+    "GIRAPH-664": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 7m"
+        ]
+    ], 
+    "GIRAPH-148": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 34m"
+        ]
+    ], 
+    "GIRAPH-705": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 4h 6m"
+        ]
+    ], 
+    "GIRAPH-865": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 57m"
+        ]
+    ], 
+    "GIRAPH-866": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 38m"
+        ]
+    ], 
+    "GIRAPH-860": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 3m"
+        ]
+    ], 
+    "GIRAPH-267": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4m 39s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 51m"
+        ]
+    ], 
+    "GIRAPH-1143": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "GIRAPH-441": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h"
+        ]
+    ], 
+    "GIRAPH-983": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 38m"
+        ]
+    ], 
+    "GIRAPH-884": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 17h 23m"
+        ]
+    ], 
+    "GIRAPH-1128": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17h 11m"
+        ]
+    ], 
+    "GIRAPH-334": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 45m"
+        ]
+    ], 
+    "GIRAPH-25": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 21m"
+        ]
+    ], 
+    "GIRAPH-184": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 11h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 10h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 56m"
+        ]
+    ], 
+    "GIRAPH-403": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 34m"
+        ]
+    ], 
+    "GIRAPH-1122": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "581d 5h 19m"
+        ]
+    ], 
+    "GIRAPH-456": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 7m"
+        ]
+    ], 
+    "GIRAPH-1009": [
+        [
+            "Open", 
+            "Resolved", 
+            "294d 5h 27m"
+        ]
+    ], 
+    "GIRAPH-889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "58d 10m"
+        ]
+    ], 
+    "GIRAPH-233": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 11h 39m"
+        ]
+    ], 
+    "GIRAPH-522": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 37m"
+        ]
+    ], 
+    "GIRAPH-239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 20h 31m"
+        ]
+    ], 
+    "GIRAPH-561": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 31m"
+        ]
+    ], 
+    "GIRAPH-560": [
+        [
+            "Open", 
+            "Patch Available", 
+            "51d 4h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 2m"
+        ]
+    ], 
+    "GIRAPH-563": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 7s"
+        ]
+    ], 
+    "GIRAPH-402": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 3m"
+        ]
+    ], 
+    "GIRAPH-477": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 21m"
+        ]
+    ], 
+    "GIRAPH-400": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m"
+        ]
+    ], 
+    "GIRAPH-647": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 15m"
+        ]
+    ], 
+    "GIRAPH-738": [
+        [
+            "Open", 
+            "Resolved", 
+            "179d 6h 10m"
+        ]
+    ], 
+    "GIRAPH-739": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 20m"
+        ]
+    ], 
+    "GIRAPH-130": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 56m"
+        ]
+    ], 
+    "GIRAPH-1098": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "GIRAPH-1097": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 10m"
+        ]
+    ], 
+    "GIRAPH-872": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "64d 9h 35m"
+        ]
+    ], 
+    "GIRAPH-1095": [
+        [
+            "Open", 
+            "Resolved", 
+            "98d 5h 1m"
+        ]
+    ], 
+    "GIRAPH-526": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 59m"
+        ]
+    ], 
+    "GIRAPH-1092": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "100d 2h 18m"
+        ]
+    ], 
+    "GIRAPH-1091": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 41m"
+        ]
+    ], 
+    "GIRAPH-972": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48m 26s"
+        ]
+    ], 
+    "GIRAPH-973": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 59m"
+        ]
+    ], 
+    "GIRAPH-488": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 9h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 29m"
+        ]
+    ], 
+    "GIRAPH-977": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 15h 4m"
+        ]
+    ], 
+    "GIRAPH-1193": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h 36m"
+        ]
+    ], 
+    "GIRAPH-17": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 21m"
+        ]
+    ], 
+    "GIRAPH-978": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 17m"
+        ]
+    ], 
+    "GIRAPH-481": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 34m"
+        ]
+    ], 
+    "GIRAPH-871": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "64d 9h 53m"
+        ]
+    ], 
+    "GIRAPH-839": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 32m"
+        ]
+    ], 
+    "GIRAPH-896": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21m"
+        ]
+    ], 
+    "GIRAPH-323": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11h 5m"
+        ]
+    ], 
+    "GIRAPH-527": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 3h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 12m"
+        ]
+    ], 
+    "GIRAPH-321": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h"
+        ]
+    ], 
+    "GIRAPH-1130": [
+        [
+            "Open", 
+            "Resolved", 
+            "481d 12h 8m"
+        ]
+    ], 
+    "GIRAPH-1132": [
+        [
+            "Open", 
+            "Resolved", 
+            "441d 8h 40m"
+        ]
+    ], 
+    "GIRAPH-159": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 7m"
+        ]
+    ], 
+    "GIRAPH-550": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 21h 36m"
+        ]
+    ], 
+    "GIRAPH-205": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 2h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 6h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17h 7m"
+        ]
+    ], 
+    "GIRAPH-659": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 32m"
+        ]
+    ], 
+    "GIRAPH-658": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 54m"
+        ]
+    ], 
+    "GIRAPH-554": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 3m"
+        ]
+    ], 
+    "GIRAPH-732": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 15h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 27m"
+        ]
+    ], 
+    "GIRAPH-556": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 2m"
+        ]
+    ], 
+    "GIRAPH-653": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 28m"
+        ]
+    ], 
+    "GIRAPH-559": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "8h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 54m"
+        ]
+    ], 
+    "GIRAPH-651": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 46m"
+        ]
+    ], 
+    "GIRAPH-1195": [
+        [
+            "Open", 
+            "Resolved", 
+            "146d 22h 49m"
+        ]
+    ], 
+    "GIRAPH-657": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 12m"
+        ]
+    ], 
+    "GIRAPH-209": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 43m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "11d 12h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "25d 21h 31m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 6h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 48m"
+        ]
+    ], 
+    "GIRAPH-655": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 27m"
+        ]
+    ], 
+    "GIRAPH-453": [
+        [
+            "Open", 
+            "In Progress", 
+            "79d 20h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5s"
+        ]
+    ], 
+    "GIRAPH-125": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 11m"
+        ]
+    ], 
+    "GIRAPH-722": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 10m"
+        ]
+    ], 
+    "GIRAPH-412": [
+        [
+            "Open", 
+            "Resolved", 
+            "44m 12s"
+        ]
+    ], 
+    "GIRAPH-318": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 4m"
+        ]
+    ], 
+    "GIRAPH-725": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 49s"
+        ]
+    ], 
+    "GIRAPH-724": [
+        [
+            "Open", 
+            "Patch Available", 
+            "168d 3h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 54m"
+        ]
+    ], 
+    "GIRAPH-1087": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 26m"
+        ]
+    ], 
+    "GIRAPH-1081": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 35s"
+        ]
+    ], 
+    "GIRAPH-1083": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 21h 38m"
+        ]
+    ], 
+    "GIRAPH-499": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 41m"
+        ]
+    ], 
+    "GIRAPH-960": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 26s"
+        ]
+    ], 
+    "GIRAPH-963": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "73d 20h 30m"
+        ]
+    ], 
+    "GIRAPH-962": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "77d 9h 48m"
+        ]
+    ], 
+    "GIRAPH-967": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 18h 55m"
+        ]
+    ], 
+    "GIRAPH-24": [
+        [
+            "Open", 
+            "Resolved", 
+            "42m 37s"
+        ]
+    ], 
+    "GIRAPH-490": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 32m"
+        ]
+    ], 
+    "GIRAPH-493": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 22h 24m"
+        ]
+    ], 
+    "GIRAPH-492": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22m 38s"
+        ]
+    ], 
+    "GIRAPH-624": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 22h 53m"
+        ]
+    ], 
+    "GIRAPH-494": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 36m"
+        ]
+    ], 
+    "GIRAPH-497": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 57m"
+        ]
+    ], 
+    "GIRAPH-219": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 25m"
+        ]
+    ], 
+    "GIRAPH-218": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 13h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "38d 10h 31m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "2d 21h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "24m 37s"
+        ]
+    ], 
+    "GIRAPH-452": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 28m"
+        ]
+    ], 
+    "GIRAPH-384": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 16h 20m"
+        ]
+    ], 
+    "GIRAPH-48": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 26m"
+        ]
+    ], 
+    "GIRAPH-836": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 8h"
+        ]
+    ], 
+    "GIRAPH-217": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4m 21s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 8h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 12m"
+        ]
+    ], 
+    "GIRAPH-162": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6h 27m"
+        ]
+    ], 
+    "GIRAPH-1103": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 2h 31m"
+        ]
+    ], 
+    "GIRAPH-352": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 8m"
+        ]
+    ], 
+    "GIRAPH-353": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 54m"
+        ]
+    ], 
+    "GIRAPH-545": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 15h 40m"
+        ]
+    ], 
+    "GIRAPH-543": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 22h"
+        ]
+    ], 
+    "GIRAPH-537": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 15h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 8h 7m"
+        ]
+    ], 
+    "GIRAPH-541": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 41m"
+        ]
+    ], 
+    "GIRAPH-355": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 2m"
+        ]
+    ], 
+    "GIRAPH-675": [
+        [
+            "Open", 
+            "Resolved", 
+            "46m 56s"
+        ]
+    ], 
+    "GIRAPH-112": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 14m"
+        ]
+    ], 
+    "GIRAPH-113": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 56m"
+        ]
+    ], 
+    "GIRAPH-114": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 21m"
+        ]
+    ], 
+    "GIRAPH-740": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38m 6s"
+        ]
+    ], 
+    "GIRAPH-293": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 21h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41d 15h 59m"
+        ]
+    ], 
+    "GIRAPH-394": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 27s"
+        ]
+    ], 
+    "GIRAPH-164": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 52m"
+        ]
+    ], 
+    "GIRAPH-420": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 1m"
+        ]
+    ], 
+    "GIRAPH-296": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 46m"
+        ]
+    ], 
+    "GIRAPH-422": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18m 35s"
+        ]
+    ], 
+    "GIRAPH-751": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 52m"
+        ]
+    ], 
+    "GIRAPH-815": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3s"
+        ]
+    ], 
+    "GIRAPH-814": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "163d 1h 2m"
+        ]
+    ], 
+    "GIRAPH-816": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "60d 21h 56m"
+        ]
+    ], 
+    "GIRAPH-429": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "80d 18h 50m"
+        ]
+    ], 
+    "GIRAPH-645": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1m 59s"
+        ]
+    ], 
+    "GIRAPH-487": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 40m"
+        ]
+    ], 
+    "GIRAPH-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "184d 23h 46m"
+        ]
+    ], 
+    "GIRAPH-956": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 1m"
+        ]
+    ], 
+    "GIRAPH-30": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h"
+        ]
+    ], 
+    "GIRAPH-1058": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 21h 51m"
+        ]
+    ], 
+    "GIRAPH-958": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 16m"
+        ]
+    ], 
+    "GIRAPH-39": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 7s"
+        ]
+    ], 
+    "GIRAPH-1036": [
+        [
+            "Open", 
+            "Resolved", 
+            "198d 16h 57m"
+        ]
+    ], 
+    "GIRAPH-187": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 23m"
+        ]
+    ], 
+    "GIRAPH-50": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 4h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 4h 20m"
+        ]
+    ], 
+    "GIRAPH-702": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38m 9s"
+        ]
+    ], 
+    "GIRAPH-683": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 5h 33m"
+        ]
+    ], 
+    "GIRAPH-354": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 30m"
+        ]
+    ], 
+    "GIRAPH-1115": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 3m"
+        ]
+    ], 
+    "GIRAPH-266": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 38m"
+        ]
+    ], 
+    "GIRAPH-1052": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 56s"
+        ]
+    ], 
+    "GIRAPH-59": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "23s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1h 55m"
+        ]
+    ], 
+    "GIRAPH-369": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 12m"
+        ]
+    ], 
+    "GIRAPH-1055": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 4s"
+        ]
+    ], 
+    "GIRAPH-439": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8m 33s"
+        ]
+    ], 
+    "GIRAPH-438": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 57m"
+        ]
+    ], 
+    "GIRAPH-347": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 30m"
+        ]
+    ], 
+    "GIRAPH-627": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 16m"
+        ]
+    ], 
+    "GIRAPH-635": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 9h 21m"
+        ]
+    ], 
+    "GIRAPH-634": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 21m"
+        ]
+    ], 
+    "GIRAPH-105": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 56m"
+        ]
+    ], 
+    "GIRAPH-630": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 24m"
+        ]
+    ], 
+    "GIRAPH-435": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 12h 38m"
+        ]
+    ], 
+    "GIRAPH-434": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 42m"
+        ]
+    ], 
+    "GIRAPH-530": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 8m"
+        ]
+    ], 
+    "GIRAPH-746": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 18h 39m"
+        ]
+    ], 
+    "GIRAPH-536": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 17h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 27m"
+        ]
+    ], 
+    "GIRAPH-825": [
+        [
+            "Patch Available", 
+            "Open", 
+            "67d 17h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 15h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 2h 41m"
+        ]
+    ], 
+    "GIRAPH-589": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 3h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 53m"
+        ]
+    ], 
+    "GIRAPH-742": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "140d 22h 7m"
+        ]
+    ], 
+    "GIRAPH-943": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "68d 20h 7m"
+        ]
+    ], 
+    "GIRAPH-829": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "153d 2h 25m"
+        ]
+    ], 
+    "GIRAPH-947": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 10h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 18m"
+        ]
+    ], 
+    "GIRAPH-1175": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 18h 23m"
+        ]
+    ], 
+    "GIRAPH-945": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 1h 15m"
+        ]
+    ], 
+    "GIRAPH-506": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49m 34s"
+        ]
+    ], 
+    "GIRAPH-363": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 12m"
+        ]
+    ], 
+    "GIRAPH-519": [
+        [
+            "Open", 
+            "In Progress", 
+            "20m 25s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 13m"
+        ]
+    ], 
+    "GIRAPH-1028": [
+        [
+            "Open", 
+            "Resolved", 
+            "209d 23h 52m"
+        ]
+    ], 
+    "GIRAPH-1024": [
+        [
+            "Open", 
+            "Resolved", 
+            "50m 45s"
+        ]
+    ], 
+    "GIRAPH-393": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "GIRAPH-602": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 18m"
+        ]
+    ], 
+    "GIRAPH-361": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 4m"
+        ]
+    ], 
+    "GIRAPH-46": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 43s"
+        ]
+    ], 
+    "GIRAPH-868": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "75d 8h 39m"
+        ]
+    ], 
+    "GIRAPH-424": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 23h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 24m"
+        ]
+    ], 
+    "GIRAPH-63": [
+        [
+            "Open", 
+            "In Progress", 
+            "16d 17h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2m 11s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 20s"
+        ]
+    ], 
+    "GIRAPH-278": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 2h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 39m"
+        ]
+    ], 
+    "GIRAPH-350": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 34m"
+        ]
+    ], 
+    "GIRAPH-274": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 23h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "43d 7h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 14h 45m"
+        ]
+    ], 
+    "GIRAPH-276": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 9h 31m"
+        ]
+    ], 
+    "GIRAPH-271": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 3m"
+        ]
+    ], 
+    "GIRAPH-819": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 9h 31m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 9h 9m"
+        ]
+    ], 
+    "GIRAPH-366": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 59m"
+        ]
+    ], 
+    "GIRAPH-778": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 28m"
+        ]
+    ], 
+    "GIRAPH-376": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 13h 56m"
+        ]
+    ], 
+    "GIRAPH-370": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 39m"
+        ]
+    ], 
+    "GIRAPH-605": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 51m"
+        ]
+    ], 
+    "GIRAPH-373": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 23m"
+        ]
+    ], 
+    "GIRAPH-608": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 23h 8m"
+        ]
+    ], 
+    "GIRAPH-297": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 17m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12h 14m"
+        ]
+    ], 
+    "GIRAPH-444": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 1h 3m"
+        ]
+    ], 
+    "GIRAPH-773": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 5h 10m"
+        ]
+    ], 
+    "GIRAPH-442": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "568d 7h 18m"
+        ]
+    ], 
+    "GIRAPH-440": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 54s"
+        ]
+    ], 
+    "GIRAPH-777": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 31m"
+        ]
+    ], 
+    "GIRAPH-688": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 23h 11m"
+        ]
+    ], 
+    "GIRAPH-520": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 21m"
+        ]
+    ], 
+    "GIRAPH-835": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 24m"
+        ]
+    ], 
+    "GIRAPH-834": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 1h 47m"
+        ]
+    ], 
+    "GIRAPH-833": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 10h 58m"
+        ]
+    ], 
+    "GIRAPH-832": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 10h 44m"
+        ]
+    ], 
+    "GIRAPH-831": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 19h 51m"
+        ]
+    ], 
+    "GIRAPH-830": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 11m"
+        ]
+    ], 
+    "GIRAPH-936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 54m"
+        ]
+    ], 
+    "GIRAPH-681": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 6h 18m"
+        ]
+    ], 
+    "GIRAPH-682": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 30m"
+        ]
+    ], 
+    "GIRAPH-423": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 59s"
+        ]
+    ], 
+    "GIRAPH-686": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 24m"
+        ]
+    ], 
+    "GIRAPH-838": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 8h 4m"
+        ]
+    ], 
+    "GIRAPH-918": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11m 24s"
+        ]
+    ], 
+    "GIRAPH-542": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 10h 19m"
+        ]
+    ], 
+    "GIRAPH-553": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 14m"
+        ]
+    ], 
+    "GIRAPH-1020": [
+        [
+            "Open", 
+            "Resolved", 
+            "48m 49s"
+        ]
+    ], 
+    "GIRAPH-144": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 19h 19m"
+        ]
+    ], 
+    "GIRAPH-587": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 54m"
+        ]
+    ], 
+    "GIRAPH-315": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39d 12h 32m"
+        ]
+    ], 
+    "GIRAPH-555": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 3h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 30m"
+        ]
+    ], 
+    "GIRAPH-241": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 21h 27m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "18h 8m"
+        ]
+    ], 
+    "GIRAPH-1176": [
+        [
+            "Open", 
+            "Resolved", 
+            "72d 18m"
+        ]
+    ], 
+    "GIRAPH-368": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h"
+        ]
+    ], 
+    "GIRAPH-1075": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 22m"
+        ]
+    ], 
+    "GIRAPH-150": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 14h 31m"
+        ]
+    ], 
+    "GIRAPH-1077": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 51m"
+        ]
+    ], 
+    "GIRAPH-1076": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 55s"
+        ]
+    ], 
+    "GIRAPH-1070": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 17h 57m"
+        ]
+    ], 
+    "GIRAPH-614": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 10h 31m"
+        ]
+    ], 
+    "GIRAPH-458": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 13h"
+        ]
+    ], 
+    "GIRAPH-611": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 22m"
+        ]
+    ], 
+    "GIRAPH-455": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 49m"
+        ]
+    ], 
+    "GIRAPH-454": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 4h 33m"
+        ]
+    ], 
+    "GIRAPH-457": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 30m"
+        ]
+    ], 
+    "GIRAPH-752": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 13h 53m"
+        ]
+    ], 
+    "GIRAPH-761": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 3h 20m"
+        ]
+    ], 
+    "GIRAPH-389": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 29m"
+        ]
+    ], 
+    "GIRAPH-34": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "378d 2h 33m"
+        ]
+    ], 
+    "GIRAPH-516": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 55m"
+        ]
+    ], 
+    "GIRAPH-650": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 42m"
+        ]
+    ], 
+    "GIRAPH-510": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41d 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 20m"
+        ]
+    ], 
+    "GIRAPH-512": [
+        [
+            "Open", 
+            "Resolved", 
+            "101d 18h 50m"
+        ]
+    ], 
+    "GIRAPH-698": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 39m"
+        ]
+    ], 
+    "GIRAPH-161": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 23m"
+        ]
+    ], 
+    "GIRAPH-208": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "47m 26s"
+        ]
+    ], 
+    "GIRAPH-695": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20m 42s"
+        ]
+    ], 
+    "GIRAPH-694": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22s"
+        ]
+    ], 
+    "GIRAPH-693": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 34m"
+        ]
+    ], 
+    "GIRAPH-853": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 3h 31m"
+        ]
+    ], 
+    "GIRAPH-167": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 46m"
+        ]
+    ], 
+    "GIRAPH-922": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 31m"
+        ]
+    ], 
+    "GIRAPH-842": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "127d 3h 32m"
+        ]
+    ], 
+    "GIRAPH-843": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 44m"
+        ]
+    ], 
+    "GIRAPH-1213": [
+        [
+            "Open", 
+            "Resolved", 
+            "159d 20h 18m"
+        ]
+    ], 
+    "GIRAPH-841": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 8h 36m"
+        ]
+    ], 
+    "GIRAPH-97": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 45s"
+        ]
+    ], 
+    "GIRAPH-599": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 58m"
+        ]
+    ], 
+    "GIRAPH-735": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 2h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1m 17s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 31m"
+        ]
+    ], 
+    "GIRAPH-595": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 3h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 54m"
+        ]
+    ], 
+    "GIRAPH-212": [
+        [
+            "Patch Available", 
+            "Open", 
+            "33d 23h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 3h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50d 2h 14m"
+        ]
+    ], 
+    "GIRAPH-597": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 2m"
+        ]
+    ], 
+    "GIRAPH-517": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 40m"
+        ]
+    ], 
+    "GIRAPH-592": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "40d 12h 7m"
+        ]
+    ], 
+    "GIRAPH-257": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21m 6s"
+        ]
+    ], 
+    "GIRAPH-718": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 13m"
+        ]
+    ], 
+    "GIRAPH-734": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 2h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11m 54s"
+        ]
+    ], 
+    "GIRAPH-433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 32m"
+        ]
+    ], 
+    "GIRAPH-319": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "GIRAPH-1069": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 26m"
+        ]
+    ], 
+    "GIRAPH-6": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34m 48s"
+        ]
+    ], 
+    "GIRAPH-259": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 20h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 1h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 18h"
+        ]
+    ], 
+    "GIRAPH-258": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 23h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 23h 1m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 22h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 6h 51m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 27m"
+        ]
+    ], 
+    "GIRAPH-656": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 35m"
+        ]
+    ], 
+    "GIRAPH-607": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 57s"
+        ]
+    ], 
+    "GIRAPH-791": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 56m"
+        ]
+    ], 
+    "GIRAPH-796": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 20m"
+        ]
+    ], 
+    "GIRAPH-797": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 13h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "216d 17h 15m"
+        ]
+    ], 
+    "GIRAPH-222": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 23h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "GIRAPH-71": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 7s"
+        ]
+    ], 
+    "GIRAPH-89": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9m 7s"
+        ]
+    ], 
+    "GIRAPH-88": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 38s"
+        ]
+    ], 
+    "GIRAPH-505": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h"
+        ]
+    ], 
+    "GIRAPH-662": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 26s"
+        ]
+    ], 
+    "GIRAPH-663": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10m 38s"
+        ]
+    ], 
+    "GIRAPH-171": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 26m"
+        ]
+    ], 
+    "GIRAPH-661": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 28m"
+        ]
+    ], 
+    "GIRAPH-666": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15s"
+        ]
+    ], 
+    "GIRAPH-915": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 23h 42m"
+        ]
+    ], 
+    "GIRAPH-916": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "32d 2h 46m"
+        ]
+    ], 
+    "GIRAPH-551": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 18h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 34m"
+        ]
+    ], 
+    "GIRAPH-3": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31m 58s"
+        ]
+    ], 
+    "GIRAPH-716": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 45m"
+        ]
+    ], 
+    "GIRAPH-717": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 10h 16m"
+        ]
+    ], 
+    "GIRAPH-398": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 30m"
+        ]
+    ], 
+    "GIRAPH-715": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 10s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 17m"
+        ]
+    ], 
+    "GIRAPH-850": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "98d 7h 14m"
+        ]
+    ], 
+    "GIRAPH-581": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 34m"
+        ]
+    ], 
+    "GIRAPH-580": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 17s"
+        ]
+    ], 
+    "GIRAPH-855": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 9h 45m"
+        ]
+    ], 
+    "GIRAPH-736": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 6h 33m"
+        ]
+    ], 
+    "GIRAPH-1201": [
+        [
+            "Open", 
+            "Resolved", 
+            "231d 23h 5m"
+        ]
+    ], 
+    "GIRAPH-70": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 2h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21m 35s"
+        ]
+    ], 
+    "GIRAPH-858": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2m"
+        ]
+    ], 
+    "GIRAPH-992": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16s"
+        ]
+    ], 
+    "GIRAPH-588": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 33m"
+        ]
+    ], 
+    "GIRAPH-849": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 12h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "108d 17h 12m"
+        ]
+    ]
+}

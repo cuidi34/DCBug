@@ -1,0 +1,9295 @@
+{
+    "AVRO-2400": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 8h 45m"
+        ]
+    ], 
+    "AVRO-2408": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 46m"
+        ]
+    ], 
+    "AVRO-515": [
+        [
+            "Open", 
+            "Resolved", 
+            "40m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "150d 3h 26m"
+        ]
+    ], 
+    "AVRO-517": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 14h 24m"
+        ]
+    ], 
+    "AVRO-516": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 15h 7m"
+        ]
+    ], 
+    "AVRO-510": [
+        [
+            "Open", 
+            "Resolved", 
+            "141d 20h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 23h 27m"
+        ]
+    ], 
+    "AVRO-1857": [
+        [
+            "Open", 
+            "Patch Available", 
+            "263d 5h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "93d 14h 16m"
+        ]
+    ], 
+    "AVRO-1990": [
+        [
+            "Open", 
+            "Patch Available", 
+            "118d 6h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 17h 58m"
+        ]
+    ], 
+    "AVRO-1995": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "696d 10h 58m"
+        ]
+    ], 
+    "AVRO-1994": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 15h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 13h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "677d 6m"
+        ]
+    ], 
+    "AVRO-1997": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 9h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 47m"
+        ]
+    ], 
+    "AVRO-1996": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 2h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 44s"
+        ]
+    ], 
+    "AVRO-1316": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 4h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "102d 19h 30m"
+        ]
+    ], 
+    "AVRO-2080": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 16h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "71d 4h 2m"
+        ]
+    ], 
+    "AVRO-2081": [
+        [
+            "Open", 
+            "Resolved", 
+            "187d 23h 21m"
+        ]
+    ], 
+    "AVRO-1109": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 17h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 3h 34m"
+        ]
+    ], 
+    "AVRO-1102": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 10h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 2h 20m"
+        ]
+    ], 
+    "AVRO-972": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 4h 18m"
+        ]
+    ], 
+    "AVRO-191": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 14h 50m"
+        ]
+    ], 
+    "AVRO-156": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "131d 23h 7m"
+        ]
+    ], 
+    "AVRO-150": [
+        [
+            "Open", 
+            "Patch Available", 
+            "237d 9h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 21h 27m"
+        ]
+    ], 
+    "AVRO-79": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 1h 27m"
+        ]
+    ], 
+    "AVRO-78": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 1h 57m"
+        ]
+    ], 
+    "AVRO-77": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 5h 27m"
+        ]
+    ], 
+    "AVRO-75": [
+        [
+            "Open", 
+            "Resolved", 
+            "186d 7h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 20h 54m"
+        ]
+    ], 
+    "AVRO-74": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 5h 46m"
+        ]
+    ], 
+    "AVRO-193": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 17h 37m"
+        ]
+    ], 
+    "AVRO-609": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 2h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 23h 9m"
+        ]
+    ], 
+    "AVRO-761": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 23h 29m"
+        ]
+    ], 
+    "AVRO-764": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 23h 7m"
+        ]
+    ], 
+    "AVRO-604": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 21h 57m"
+        ]
+    ], 
+    "AVRO-607": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2175d 12h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46d 7h 3m"
+        ]
+    ], 
+    "AVRO-194": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 21h 49m"
+        ]
+    ], 
+    "AVRO-562": [
+        [
+            "Open", 
+            "Resolved", 
+            "50m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 18h 54m"
+        ]
+    ], 
+    "AVRO-176": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "122d 14h 26m"
+        ]
+    ], 
+    "AVRO-1853": [
+        [
+            "Open", 
+            "In Progress", 
+            "117d 7h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 21m"
+        ]
+    ], 
+    "AVRO-871": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 21h 35m"
+        ]
+    ], 
+    "AVRO-2035": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 15h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "241d 7h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "38m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 21h 20m"
+        ]
+    ], 
+    "AVRO-2034": [
+        [
+            "Open", 
+            "Resolved", 
+            "578d 23h 48m"
+        ]
+    ], 
+    "AVRO-122": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 21h 6m"
+        ]
+    ], 
+    "AVRO-123": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 29m"
+        ]
+    ], 
+    "AVRO-124": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2m 6s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 20h 42m"
+        ]
+    ], 
+    "AVRO-125": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 5m"
+        ]
+    ], 
+    "AVRO-1407": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "362d 7h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 19h 25m"
+        ]
+    ], 
+    "AVRO-1406": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 21h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 5h 7m"
+        ]
+    ], 
+    "AVRO-1405": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 23h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 23h 35m"
+        ]
+    ], 
+    "AVRO-1401": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1304d 9h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 12h 38m"
+        ]
+    ], 
+    "AVRO-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 12h 39m"
+        ]
+    ], 
+    "AVRO-1036": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 16h 46m"
+        ]
+    ], 
+    "AVRO-1037": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 17h 50m"
+        ]
+    ], 
+    "AVRO-1034": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 20h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 12h 32m"
+        ]
+    ], 
+    "AVRO-1033": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 2h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 14h 59m"
+        ]
+    ], 
+    "AVRO-1030": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 17h 44m"
+        ]
+    ], 
+    "AVRO-1031": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 15h 9m"
+        ]
+    ], 
+    "AVRO-335": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 16h 6m"
+        ]
+    ], 
+    "AVRO-337": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 11h 57m"
+        ]
+    ], 
+    "AVRO-336": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 11h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 16h 19m"
+        ]
+    ], 
+    "AVRO-780": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 17h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12d 3h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 19h 36m"
+        ]
+    ], 
+    "AVRO-1356": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 5h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 21h 58m"
+        ]
+    ], 
+    "AVRO-1719": [
+        [
+            "Open", 
+            "Resolved", 
+            "381d 19h 42m"
+        ]
+    ], 
+    "AVRO-1249": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 1h 25m"
+        ]
+    ], 
+    "AVRO-1355": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 18h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "156d 1h 32m"
+        ]
+    ], 
+    "AVRO-232": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 14h 54m"
+        ]
+    ], 
+    "AVRO-1713": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 48m"
+        ]
+    ], 
+    "AVRO-943": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 2h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 22h 20m"
+        ]
+    ], 
+    "AVRO-1711": [
+        [
+            "Open", 
+            "Patch Available", 
+            "256d 7h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 19h 29m"
+        ]
+    ], 
+    "AVRO-238": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 17h 17m"
+        ]
+    ], 
+    "AVRO-1240": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 10h 6m"
+        ]
+    ], 
+    "AVRO-1715": [
+        [
+            "Open", 
+            "Patch Available", 
+            "60d 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "33s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 17h 46m"
+        ]
+    ], 
+    "AVRO-1242": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 7h 46m"
+        ]
+    ], 
+    "AVRO-1322": [
+        [
+            "Patch Available", 
+            "Open", 
+            "9s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "102d 20h 30m"
+        ]
+    ], 
+    "AVRO-1491": [
+        [
+            "Open", 
+            "Patch Available", 
+            "126d 12h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "343d 2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 2h 53m"
+        ]
+    ], 
+    "AVRO-1089": [
+        [
+            "Open", 
+            "Resolved", 
+            "201d 8h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 53m"
+        ]
+    ], 
+    "AVRO-1493": [
+        [
+            "Open", 
+            "Resolved", 
+            "686d 22h 24m"
+        ]
+    ], 
+    "AVRO-1326": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "102d 20h 41m"
+        ]
+    ], 
+    "AVRO-864": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 21h 29m"
+        ]
+    ], 
+    "AVRO-1498": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 9h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38d 21h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 23h 52m"
+        ]
+    ], 
+    "AVRO-1499": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 20h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41d 2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 4h 59m"
+        ]
+    ], 
+    "AVRO-1081": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 6h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 10m"
+        ]
+    ], 
+    "AVRO-1080": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "139d 12h 49m"
+        ]
+    ], 
+    "AVRO-1087": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 7h 33m"
+        ]
+    ], 
+    "AVRO-1086": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 3h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 5h 56m"
+        ]
+    ], 
+    "AVRO-786": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 22h 37m"
+        ]
+    ], 
+    "AVRO-1084": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 4h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 6h 3m"
+        ]
+    ], 
+    "AVRO-1819": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 7h 46m"
+        ]
+    ], 
+    "AVRO-1814": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 22h 27m"
+        ]
+    ], 
+    "AVRO-2286": [
+        [
+            "Open", 
+            "In Progress", 
+            "11h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 28m"
+        ]
+    ], 
+    "AVRO-1810": [
+        [
+            "Open", 
+            "Resolved", 
+            "1089d 3h 40m"
+        ]
+    ], 
+    "AVRO-1813": [
+        [
+            "Open", 
+            "Patch Available", 
+            "317d 3h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 34m"
+        ]
+    ], 
+    "AVRO-169": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 12h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 18h 19m"
+        ]
+    ], 
+    "AVRO-421": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 22h 29m"
+        ]
+    ], 
+    "AVRO-422": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 21h 45m"
+        ]
+    ], 
+    "AVRO-424": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 22h 40m"
+        ]
+    ], 
+    "AVRO-347": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 11h 18m"
+        ]
+    ], 
+    "AVRO-1146": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 12h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 2h 43m"
+        ]
+    ], 
+    "AVRO-1929": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18m 52s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 7h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "315d 16h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4m 12s"
+        ]
+    ], 
+    "AVRO-1881": [
+        [
+            "Open", 
+            "Resolved", 
+            "182d 16h 54m"
+        ]
+    ], 
+    "AVRO-1142": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 7h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 6m"
+        ]
+    ], 
+    "AVRO-1143": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 20h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 16h 29m"
+        ]
+    ], 
+    "AVRO-1141": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 15h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 16h 29m"
+        ]
+    ], 
+    "AVRO-1667": [
+        [
+            "Open", 
+            "Resolved", 
+            "314d 20h 9m"
+        ]
+    ], 
+    "AVRO-1921": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 31m"
+        ]
+    ], 
+    "AVRO-1889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33d 5h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "617d 22h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11h 25m"
+        ]
+    ], 
+    "AVRO-1923": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 1h 23m"
+        ]
+    ], 
+    "AVRO-1663": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "271d 5h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 17h 32m"
+        ]
+    ], 
+    "AVRO-2063": [
+        [
+            "Open", 
+            "Resolved", 
+            "492d 21h 29m"
+        ]
+    ], 
+    "AVRO-2065": [
+        [
+            "Open", 
+            "Resolved", 
+            "484d 14h 29m"
+        ]
+    ], 
+    "AVRO-2066": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 5h 49m"
+        ]
+    ], 
+    "AVRO-701": [
+        [
+            "Open", 
+            "Resolved", 
+            "93d 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 6h 34m"
+        ]
+    ], 
+    "AVRO-702": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "102d 1h 12m"
+        ]
+    ], 
+    "AVRO-1869": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 37m"
+        ]
+    ], 
+    "AVRO-640": [
+        [
+            "Open", 
+            "Resolved", 
+            "31m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d"
+        ]
+    ], 
+    "AVRO-643": [
+        [
+            "Open", 
+            "Resolved", 
+            "129d 22h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 6h 40m"
+        ]
+    ], 
+    "AVRO-524": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 17h 31m"
+        ]
+    ], 
+    "AVRO-704": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 20h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 4h 48m"
+        ]
+    ], 
+    "AVRO-527": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 19h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 17h 33m"
+        ]
+    ], 
+    "AVRO-521": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 7h 2m"
+        ]
+    ], 
+    "AVRO-1866": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "221d 54m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10m 31s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7m 24s"
+        ]
+    ], 
+    "AVRO-2448": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 28m"
+        ]
+    ], 
+    "AVRO-2444": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 1m"
+        ]
+    ], 
+    "AVRO-2442": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 1m"
+        ]
+    ], 
+    "AVRO-2443": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 20m"
+        ]
+    ], 
+    "AVRO-281": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 13h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 2h 28m"
+        ]
+    ], 
+    "AVRO-280": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 21h 47m"
+        ]
+    ], 
+    "AVRO-282": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 21h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 19h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 18h 41m"
+        ]
+    ], 
+    "AVRO-165": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "131d 21m"
+        ]
+    ], 
+    "AVRO-162": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "130d 51m"
+        ]
+    ], 
+    "AVRO-1442": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52d 10h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "75d 5h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 21h 49m"
+        ]
+    ], 
+    "AVRO-1441": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 20h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "177d 13m"
+        ]
+    ], 
+    "AVRO-1447": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "177d 10m"
+        ]
+    ], 
+    "AVRO-1446": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "177d 22h 10m"
+        ]
+    ], 
+    "AVRO-1445": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "177d 22h 6m"
+        ]
+    ], 
+    "AVRO-1560": [
+        [
+            "Open", 
+            "Resolved", 
+            "510d 16h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 23h 2m"
+        ]
+    ], 
+    "AVRO-733": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 5h 47m"
+        ]
+    ], 
+    "AVRO-1448": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "157d 21h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 15h 40m"
+        ]
+    ], 
+    "AVRO-1564": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "110d 9h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 19h 38m"
+        ]
+    ], 
+    "AVRO-736": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 17h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 12h 21m"
+        ]
+    ], 
+    "AVRO-631": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 21h 3m"
+        ]
+    ], 
+    "AVRO-632": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 20h 47m"
+        ]
+    ], 
+    "AVRO-633": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 21s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 1h 40m"
+        ]
+    ], 
+    "AVRO-31": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 5h 32m"
+        ]
+    ], 
+    "AVRO-36": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 2h 20m"
+        ]
+    ], 
+    "AVRO-39": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 6h 43m"
+        ]
+    ], 
+    "AVRO-2144": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 20h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "399d 21h 17m"
+        ]
+    ], 
+    "AVRO-1691": [
+        [
+            "Open", 
+            "Patch Available", 
+            "167d 16h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 8h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 17h 56m"
+        ]
+    ], 
+    "AVRO-986": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 12h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 7h 58m"
+        ]
+    ], 
+    "AVRO-984": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 16h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 9h 31m"
+        ]
+    ], 
+    "AVRO-1368": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 21h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "141d 58m"
+        ]
+    ], 
+    "AVRO-981": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 1h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "256d 12h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 2h 19m"
+        ]
+    ], 
+    "AVRO-1366": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 6h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "132d 23h 58m"
+        ]
+    ], 
+    "AVRO-824": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39d 9h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "124d 20h 47m"
+        ]
+    ], 
+    "AVRO-1363": [
+        [
+            "Open", 
+            "Resolved", 
+            "1933d 3h 41m"
+        ]
+    ], 
+    "AVRO-1047": [
+        [
+            "Open", 
+            "Resolved", 
+            "2093d 11h 36m"
+        ]
+    ], 
+    "AVRO-1046": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55d 6h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 22h 48m"
+        ]
+    ], 
+    "AVRO-1045": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "18s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "86d 20h 48m"
+        ]
+    ], 
+    "AVRO-1596": [
+        [
+            "Open", 
+            "Patch Available", 
+            "58m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "440d 23h 21m"
+        ]
+    ], 
+    "AVRO-1591": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "485d 14h 54m"
+        ]
+    ], 
+    "AVRO-1590": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 15h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 5h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "489d 15h 57m"
+        ]
+    ], 
+    "AVRO-1041": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 18h 43m"
+        ]
+    ], 
+    "AVRO-1592": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 3h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "450d 14h 1m"
+        ]
+    ], 
+    "AVRO-1598": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "451d 15h 24m"
+        ]
+    ], 
+    "AVRO-1049": [
+        [
+            "Open", 
+            "Patch Available", 
+            "49d 9h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 22h 3m"
+        ]
+    ], 
+    "AVRO-1048": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 23h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 13m"
+        ]
+    ], 
+    "AVRO-1912": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 10h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "139d 4h 30m"
+        ]
+    ], 
+    "AVRO-1914": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 28m"
+        ]
+    ], 
+    "AVRO-361": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 1h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 10h 17m"
+        ]
+    ], 
+    "AVRO-461": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 20h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 23h 22m"
+        ]
+    ], 
+    "AVRO-1183": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 18h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 20h 57m"
+        ]
+    ], 
+    "AVRO-1181": [
+        [
+            "Open", 
+            "Patch Available", 
+            "137d 20h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "95d 13h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2023d 21h 35m"
+        ]
+    ], 
+    "AVRO-1860": [
+        [
+            "Open", 
+            "In Progress", 
+            "118d 21h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 10h 43m"
+        ]
+    ], 
+    "AVRO-1623": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "410d 15h 33m"
+        ]
+    ], 
+    "AVRO-1622": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "417d 3h 17m"
+        ]
+    ], 
+    "AVRO-1621": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "409d 23h 46m"
+        ]
+    ], 
+    "AVRO-308": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 21h 13m"
+        ]
+    ], 
+    "AVRO-1626": [
+        [
+            "Open", 
+            "Resolved", 
+            "666d 10h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "876d 21h 34m"
+        ]
+    ], 
+    "AVRO-1624": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 15h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "385d 2h 27m"
+        ]
+    ], 
+    "AVRO-1741": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1191d 20h 55m"
+        ]
+    ], 
+    "AVRO-1966": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 17m"
+        ]
+    ], 
+    "AVRO-1967": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 22h 10m"
+        ]
+    ], 
+    "AVRO-1216": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1513d 15h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 52m"
+        ]
+    ], 
+    "AVRO-1217": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 23h 45m"
+        ]
+    ], 
+    "AVRO-917": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 5h 36m"
+        ]
+    ], 
+    "AVRO-1215": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "73d 1h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 6h 22m"
+        ]
+    ], 
+    "AVRO-851": [
+        [
+            "Open", 
+            "Resolved", 
+            "435d 13h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 1h 8m"
+        ]
+    ], 
+    "AVRO-2433": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 47m"
+        ]
+    ], 
+    "AVRO-1602": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 8h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "444d 16h 46m"
+        ]
+    ], 
+    "AVRO-1824": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 26m"
+        ]
+    ], 
+    "AVRO-1826": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 9m"
+        ]
+    ], 
+    "AVRO-1821": [
+        [
+            "Open", 
+            "Resolved", 
+            "441d 17h 22m"
+        ]
+    ], 
+    "AVRO-1820": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 1h"
+        ]
+    ], 
+    "AVRO-1981": [
+        [
+            "Open", 
+            "In Progress", 
+            "778d 23h 48m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 5m"
+        ]
+    ], 
+    "AVRO-931": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 11h 31m"
+        ]
+    ], 
+    "AVRO-1985": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "148d 23h 26m"
+        ]
+    ], 
+    "AVRO-418": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16m 42s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "24d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 18h 12m"
+        ]
+    ], 
+    "AVRO-1369": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 7h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "90d 23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 8h 12m"
+        ]
+    ], 
+    "AVRO-411": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 21h 31m"
+        ]
+    ], 
+    "AVRO-413": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 18h 31m"
+        ]
+    ], 
+    "AVRO-416": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 19h 7m"
+        ]
+    ], 
+    "AVRO-936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 12h 35m"
+        ]
+    ], 
+    "AVRO-1138": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 7h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 3m"
+        ]
+    ], 
+    "AVRO-2240": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 4h 33m"
+        ]
+    ], 
+    "AVRO-1135": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 4h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 13h 16m"
+        ]
+    ], 
+    "AVRO-2244": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 7h 16m"
+        ]
+    ], 
+    "AVRO-1972": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "47d 13m"
+        ]
+    ], 
+    "AVRO-2118": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 18m"
+        ]
+    ], 
+    "AVRO-2500": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h"
+        ]
+    ], 
+    "AVRO-61": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 13h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 1h 34m"
+        ]
+    ], 
+    "AVRO-775": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 23h 35m"
+        ]
+    ], 
+    "AVRO-1525": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 11h 18m"
+        ]
+    ], 
+    "AVRO-776": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "113d 13h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 14m"
+        ]
+    ], 
+    "AVRO-1522": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 23h 1m"
+        ]
+    ], 
+    "AVRO-772": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 6h 33m"
+        ]
+    ], 
+    "AVRO-675": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 1h 34m"
+        ]
+    ], 
+    "AVRO-1528": [
+        [
+            "Open", 
+            "Resolved", 
+            "1627d 2h 7m"
+        ]
+    ], 
+    "AVRO-671": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 21h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "155d 3h"
+        ]
+    ], 
+    "AVRO-573": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 18h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 19h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 1h 21m"
+        ]
+    ], 
+    "AVRO-571": [
+        [
+            "Open", 
+            "Resolved", 
+            "42m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "90d 21h 49m"
+        ]
+    ], 
+    "AVRO-2184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 4h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "179d 5h 54m"
+        ]
+    ], 
+    "AVRO-2183": [
+        [
+            "Open", 
+            "Resolved", 
+            "164d 6h 34m"
+        ]
+    ], 
+    "AVRO-2181": [
+        [
+            "Open", 
+            "Resolved", 
+            "182d 16h 16m"
+        ]
+    ], 
+    "AVRO-2189": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 18m"
+        ]
+    ], 
+    "AVRO-962": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 7h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 1h 21m"
+        ]
+    ], 
+    "AVRO-133": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 1h 13m"
+        ]
+    ], 
+    "AVRO-132": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 5h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 17h 54m"
+        ]
+    ], 
+    "AVRO-137": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 12h 52m"
+        ]
+    ], 
+    "AVRO-134": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 16m"
+        ]
+    ], 
+    "AVRO-1410": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 16h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 5h 23m"
+        ]
+    ], 
+    "AVRO-1799": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 3h 2m"
+        ]
+    ], 
+    "AVRO-138": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 23h 11m"
+        ]
+    ], 
+    "AVRO-1415": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 3h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1813d 9h 11m"
+        ]
+    ], 
+    "AVRO-1003": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 10h 46m"
+        ]
+    ], 
+    "AVRO-1002": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 3h 10m"
+        ]
+    ], 
+    "AVRO-1553": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "552d 2h 5m"
+        ]
+    ], 
+    "AVRO-1000": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 6h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 1h 14m"
+        ]
+    ], 
+    "AVRO-1007": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 18h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 30m"
+        ]
+    ], 
+    "AVRO-705": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 1h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 4h 7m"
+        ]
+    ], 
+    "AVRO-706": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 7h 51m"
+        ]
+    ], 
+    "AVRO-1004": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 10h 44m"
+        ]
+    ], 
+    "AVRO-708": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 18h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 3h 56m"
+        ]
+    ], 
+    "AVRO-968": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53d 11h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 10h 38m"
+        ]
+    ], 
+    "AVRO-500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 19h 40m"
+        ]
+    ], 
+    "AVRO-1257": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 1h 42m"
+        ]
+    ], 
+    "AVRO-1382": [
+        [
+            "Open", 
+            "Patch Available", 
+            "60d 22h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 14h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 2h 41m"
+        ]
+    ], 
+    "AVRO-1387": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 3h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 23h 44m"
+        ]
+    ], 
+    "AVRO-951": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 20h 39m"
+        ]
+    ], 
+    "AVRO-1701": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 7h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "259d 4h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "989d 7h 56m"
+        ]
+    ], 
+    "AVRO-227": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 17h 56m"
+        ]
+    ], 
+    "AVRO-225": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 20h 14m"
+        ]
+    ], 
+    "AVRO-223": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "101d 12h 39m"
+        ]
+    ], 
+    "AVRO-222": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "101d 14h 4m"
+        ]
+    ], 
+    "AVRO-1258": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 1h 39m"
+        ]
+    ], 
+    "AVRO-189": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "110d 17h 35m"
+        ]
+    ], 
+    "AVRO-954": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "167d 5h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "156d 11h 41m"
+        ]
+    ], 
+    "AVRO-184": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 20h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "87d 2h 32m"
+        ]
+    ], 
+    "AVRO-1700": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 8h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 17h 21m"
+        ]
+    ], 
+    "AVRO-950": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 19h 50m"
+        ]
+    ], 
+    "AVRO-815": [
+        [
+            "Open", 
+            "In Progress", 
+            "12m 10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 22h 57m"
+        ]
+    ], 
+    "AVRO-1098": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 23h 26m"
+        ]
+    ], 
+    "AVRO-1099": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 18h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 23h 19m"
+        ]
+    ], 
+    "AVRO-1094": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 22h 31m"
+        ]
+    ], 
+    "AVRO-1096": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 6h 10m"
+        ]
+    ], 
+    "AVRO-1097": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 14h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 23h 32m"
+        ]
+    ], 
+    "AVRO-1090": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 9h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 23h 45m"
+        ]
+    ], 
+    "AVRO-819": [
+        [
+            "Open", 
+            "Resolved", 
+            "52m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "92d 5h 6m"
+        ]
+    ], 
+    "AVRO-1092": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 5h 35m"
+        ]
+    ], 
+    "AVRO-2276": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 27m"
+        ]
+    ], 
+    "AVRO-793": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 8h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 7h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 8m"
+        ]
+    ], 
+    "AVRO-1178": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 19h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 1h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 19h 14m"
+        ]
+    ], 
+    "AVRO-450": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 23h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 19h 44m"
+        ]
+    ], 
+    "AVRO-980": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 23h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 1h 17m"
+        ]
+    ], 
+    "AVRO-352": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 19h 54m"
+        ]
+    ], 
+    "AVRO-1171": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 12h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 20h 33m"
+        ]
+    ], 
+    "AVRO-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 22h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 4h 29m"
+        ]
+    ], 
+    "AVRO-1177": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 8h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "54d 5h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 19h 10m"
+        ]
+    ], 
+    "AVRO-356": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 15h 16m"
+        ]
+    ], 
+    "AVRO-1175": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 22h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "54d 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 19h 1m"
+        ]
+    ], 
+    "AVRO-1174": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "63d 16h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 8h 4m"
+        ]
+    ], 
+    "AVRO-1779": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 11h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 3h 59m"
+        ]
+    ], 
+    "AVRO-929": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 4h 13m"
+        ]
+    ], 
+    "AVRO-1673": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 2h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 3h 18m"
+        ]
+    ], 
+    "AVRO-1676": [
+        [
+            "Open", 
+            "Patch Available", 
+            "77d 12h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 8h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "160d 26m"
+        ]
+    ], 
+    "AVRO-1770": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 17h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 3h 3m"
+        ]
+    ], 
+    "AVRO-1957": [
+        [
+            "Open", 
+            "Patch Available", 
+            "90d 5h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "354d 7h 15m"
+        ]
+    ], 
+    "AVRO-1772": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 13h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 2h 43m"
+        ]
+    ], 
+    "AVRO-1775": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 9h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 16h 23m"
+        ]
+    ], 
+    "AVRO-925": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 14h 42m"
+        ]
+    ], 
+    "AVRO-927": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 21h 48m"
+        ]
+    ], 
+    "AVRO-2222": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 19h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 40m"
+        ]
+    ], 
+    "AVRO-820": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "85d 4h 29m"
+        ]
+    ], 
+    "AVRO-2386": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 54m"
+        ]
+    ], 
+    "AVRO-2381": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 16m"
+        ]
+    ], 
+    "AVRO-2383": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 56m"
+        ]
+    ], 
+    "AVRO-537": [
+        [
+            "Open", 
+            "Patch Available", 
+            "155d 15h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 22h"
+        ]
+    ], 
+    "AVRO-1873": [
+        [
+            "Open", 
+            "Patch Available", 
+            "72d 14h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 5m"
+        ]
+    ], 
+    "AVRO-1877": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 7h 59m"
+        ]
+    ], 
+    "AVRO-1874": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 22h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2h 13m"
+        ]
+    ], 
+    "AVRO-518": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "144d 4h 33m"
+        ]
+    ], 
+    "AVRO-1597": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 3h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "450d 13h 58m"
+        ]
+    ], 
+    "AVRO-95": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 15h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 39m"
+        ]
+    ], 
+    "AVRO-97": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 1h 24m"
+        ]
+    ], 
+    "AVRO-1593": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "320d 10h 47m"
+        ]
+    ], 
+    "AVRO-2120": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 22h 21m"
+        ]
+    ], 
+    "AVRO-2122": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 23h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 38m"
+        ]
+    ], 
+    "AVRO-171": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 6h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 16h 33m"
+        ]
+    ], 
+    "AVRO-1454": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 19h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 1h 35m"
+        ]
+    ], 
+    "AVRO-1455": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 4h 49m"
+        ]
+    ], 
+    "AVRO-1457": [
+        [
+            "Open", 
+            "Patch Available", 
+            "99d 11h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 12h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 22h 49m"
+        ]
+    ], 
+    "AVRO-749": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 12h 3m"
+        ]
+    ], 
+    "AVRO-2491": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 20h 53m"
+        ]
+    ], 
+    "AVRO-745": [
+        [
+            "Open", 
+            "Resolved", 
+            "40m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 7h 40m"
+        ]
+    ], 
+    "AVRO-746": [
+        [
+            "Open", 
+            "Resolved", 
+            "168d 23h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "111d 22h 13m"
+        ]
+    ], 
+    "AVRO-1458": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 14h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "146d 9h 31m"
+        ]
+    ], 
+    "AVRO-1459": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "132d 23h 32m"
+        ]
+    ], 
+    "AVRO-742": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 12h 26m"
+        ]
+    ], 
+    "AVRO-1512": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 9h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 21h 56m"
+        ]
+    ], 
+    "AVRO-622": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 15h 53m"
+        ]
+    ], 
+    "AVRO-589": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 17h 49m"
+        ]
+    ], 
+    "AVRO-1038": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 12h 40m"
+        ]
+    ], 
+    "AVRO-2468": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 17h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 1h 12m"
+        ]
+    ], 
+    "AVRO-22": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 10h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13d 20h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 3h 50m"
+        ]
+    ], 
+    "AVRO-2302": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 9h 33m"
+        ]
+    ], 
+    "AVRO-389": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 11h 48m"
+        ]
+    ], 
+    "AVRO-385": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 6h 18m"
+        ]
+    ], 
+    "AVRO-387": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 19h 15m"
+        ]
+    ], 
+    "AVRO-382": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 23h 30m"
+        ]
+    ], 
+    "AVRO-993": [
+        [
+            "Open", 
+            "In Progress", 
+            "20m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 11h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 5h 3m"
+        ]
+    ], 
+    "AVRO-994": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 9h 13m"
+        ]
+    ], 
+    "AVRO-997": [
+        [
+            "Open", 
+            "Patch Available", 
+            "264d 7h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "664d 20h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59d 22h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "485d 18h 21m"
+        ]
+    ], 
+    "AVRO-996": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 17h 21m"
+        ]
+    ], 
+    "AVRO-1352": [
+        [
+            "Open", 
+            "Patch Available", 
+            "324d 23h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 17h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 1h 46m"
+        ]
+    ], 
+    "AVRO-1424": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 4h 27m"
+        ]
+    ], 
+    "AVRO-1427": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 2h 7m"
+        ]
+    ], 
+    "AVRO-1050": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1m 3s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "54m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56d 5h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 22h 22m"
+        ]
+    ], 
+    "AVRO-1051": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 2h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 22h 13m"
+        ]
+    ], 
+    "AVRO-1358": [
+        [
+            "Open", 
+            "Resolved", 
+            "146d 15h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 8h 32m"
+        ]
+    ], 
+    "AVRO-1055": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 9h 57m"
+        ]
+    ], 
+    "AVRO-1056": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 7h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 12h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 22h 44m"
+        ]
+    ], 
+    "AVRO-696": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "12s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "15h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "114d 3h 28m"
+        ]
+    ], 
+    "AVRO-694": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 2h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 20h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 3h 8m"
+        ]
+    ], 
+    "AVRO-693": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "126d 3h 18m"
+        ]
+    ], 
+    "AVRO-1589": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "496d 16h 41m"
+        ]
+    ], 
+    "AVRO-1900": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "7d 17h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 13h 57m"
+        ]
+    ], 
+    "AVRO-1901": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 5h 4m"
+        ]
+    ], 
+    "AVRO-1908": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 5m"
+        ]
+    ], 
+    "AVRO-496": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 20h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 36m"
+        ]
+    ], 
+    "AVRO-499": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 3h 9m"
+        ]
+    ], 
+    "AVRO-723": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 18h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 3h 49m"
+        ]
+    ], 
+    "AVRO-313": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 13h 38m"
+        ]
+    ], 
+    "AVRO-259": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 6h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 17h 5m"
+        ]
+    ], 
+    "AVRO-256": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 19h 44m"
+        ]
+    ], 
+    "AVRO-1635": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1349d 2h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 49s"
+        ]
+    ], 
+    "AVRO-255": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 19h 38m"
+        ]
+    ], 
+    "AVRO-1630": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "362d 23h 54m"
+        ]
+    ], 
+    "AVRO-318": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 18h 2m"
+        ]
+    ], 
+    "AVRO-1227": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 2h 50m"
+        ]
+    ], 
+    "AVRO-966": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 5h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 1h 29m"
+        ]
+    ], 
+    "AVRO-1221": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 1h 15m"
+        ]
+    ], 
+    "AVRO-1220": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50d 2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 31m"
+        ]
+    ], 
+    "AVRO-842": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 3h 49m"
+        ]
+    ], 
+    "AVRO-1739": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23d 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 20h 36m"
+        ]
+    ], 
+    "AVRO-845": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 3h 25m"
+        ]
+    ], 
+    "AVRO-1228": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 22h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 23h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 2h 39m"
+        ]
+    ], 
+    "AVRO-502": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 5h 45m"
+        ]
+    ], 
+    "AVRO-355": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 15h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 8h 9m"
+        ]
+    ], 
+    "AVRO-928": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 5h 11m"
+        ]
+    ], 
+    "AVRO-408": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 16h"
+        ]
+    ], 
+    "AVRO-407": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 17h 31m"
+        ]
+    ], 
+    "AVRO-1897": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 12h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "69d 16h 51m"
+        ]
+    ], 
+    "AVRO-448": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 20h 37m"
+        ]
+    ], 
+    "AVRO-1128": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 23h 50m"
+        ]
+    ], 
+    "AVRO-1642": [
+        [
+            "Open", 
+            "Patch Available", 
+            "189d 10h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "220d 17h 10m"
+        ]
+    ], 
+    "AVRO-825": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 18h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41d 8h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 18m"
+        ]
+    ], 
+    "AVRO-51": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 17h 2m"
+        ]
+    ], 
+    "AVRO-2516": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 6m"
+        ]
+    ], 
+    "AVRO-2517": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 9m"
+        ]
+    ], 
+    "AVRO-669": [
+        [
+            "Open", 
+            "Patch Available", 
+            "88d 17h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 22h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 2h 53m"
+        ]
+    ], 
+    "AVRO-1954": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 15h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 2h 51m"
+        ]
+    ], 
+    "AVRO-667": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 17h 24m"
+        ]
+    ], 
+    "AVRO-666": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 19h 17m"
+        ]
+    ], 
+    "AVRO-664": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 6h 17m"
+        ]
+    ], 
+    "AVRO-663": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 5h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 4h 45m"
+        ]
+    ], 
+    "AVRO-188": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "110d 19h"
+        ]
+    ], 
+    "AVRO-541": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 22h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 23h 43m"
+        ]
+    ], 
+    "AVRO-1898": [
+        [
+            "Open", 
+            "Resolved", 
+            "185d 5h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "678d 13h 2m"
+        ]
+    ], 
+    "AVRO-548": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 15h 20m"
+        ]
+    ], 
+    "AVRO-1": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 19h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1d 5m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "78d 2h 36m"
+        ]
+    ], 
+    "AVRO-3": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "94d 23h 18m"
+        ]
+    ], 
+    "AVRO-309": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 18h 30m"
+        ]
+    ], 
+    "AVRO-107": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 6m"
+        ]
+    ], 
+    "AVRO-104": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 21h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 23h 38m"
+        ]
+    ], 
+    "AVRO-1780": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 21h 46m"
+        ]
+    ], 
+    "AVRO-1781": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 4h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 10h 35m"
+        ]
+    ], 
+    "AVRO-1782": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 18h 22m"
+        ]
+    ], 
+    "AVRO-1783": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 16h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 23h 26m"
+        ]
+    ], 
+    "AVRO-1465": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 6h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 21h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "132d 23h 36m"
+        ]
+    ], 
+    "AVRO-895": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 13h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 23h 57m"
+        ]
+    ], 
+    "AVRO-892": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 21h 45m"
+        ]
+    ], 
+    "AVRO-1462": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "110d 18h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 34m"
+        ]
+    ], 
+    "AVRO-1014": [
+        [
+            "Patch Available", 
+            "Open", 
+            "9s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 7h 7m"
+        ]
+    ], 
+    "AVRO-1016": [
+        [
+            "Patch Available", 
+            "Open", 
+            "25s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 7h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 2h 23m"
+        ]
+    ], 
+    "AVRO-710": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 4h 29m"
+        ]
+    ], 
+    "AVRO-1546": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 1h 1m"
+        ]
+    ], 
+    "AVRO-1544": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "545d 18h 46m"
+        ]
+    ], 
+    "AVRO-1545": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "155d 6h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "410d 15h 47m"
+        ]
+    ], 
+    "AVRO-913": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 1h 23m"
+        ]
+    ], 
+    "AVRO-912": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 11h 14m"
+        ]
+    ], 
+    "AVRO-914": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 21h 53m"
+        ]
+    ], 
+    "AVRO-916": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 5h 30m"
+        ]
+    ], 
+    "AVRO-948": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 20h 15m"
+        ]
+    ], 
+    "AVRO-210": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "101d 21h 53m"
+        ]
+    ], 
+    "AVRO-211": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "101d 21h 53m"
+        ]
+    ], 
+    "AVRO-1308": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 21h 29m"
+        ]
+    ], 
+    "AVRO-1309": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 37m"
+        ]
+    ], 
+    "AVRO-1261": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "130d 23h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 19h 31m"
+        ]
+    ], 
+    "AVRO-1266": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43d 8h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 13h 13m"
+        ]
+    ], 
+    "AVRO-1300": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 2h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 21h 54m"
+        ]
+    ], 
+    "AVRO-198": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 23h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 19h 50m"
+        ]
+    ], 
+    "AVRO-1302": [
+        [
+            "Open", 
+            "Patch Available", 
+            "545d 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 5h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "451d 15h 37m"
+        ]
+    ], 
+    "AVRO-869": [
+        [
+            "Open", 
+            "Patch Available", 
+            "66d 15h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 5h 20m"
+        ]
+    ], 
+    "AVRO-1172": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 7h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "270d 14h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2013d 7h 47m"
+        ]
+    ], 
+    "AVRO-942": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 21h 28m"
+        ]
+    ], 
+    "AVRO-1065": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 7h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 13h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "135d 3h 55m"
+        ]
+    ], 
+    "AVRO-801": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 15h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 20h 1m"
+        ]
+    ], 
+    "AVRO-1066": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 11h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 6h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 1h 52m"
+        ]
+    ], 
+    "AVRO-1069": [
+        [
+            "Open", 
+            "Patch Available", 
+            "51d 23h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 2h 5m"
+        ]
+    ], 
+    "AVRO-1247": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 3h 24m"
+        ]
+    ], 
+    "AVRO-809": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 5h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "86d 10h 51m"
+        ]
+    ], 
+    "AVRO-208": [
+        [
+            "Open", 
+            "Patch Available", 
+            "61d 15h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 22h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 21h 8m"
+        ]
+    ], 
+    "AVRO-1951": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 5s"
+        ]
+    ], 
+    "AVRO-2196": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 21h 46m"
+        ]
+    ], 
+    "AVRO-2207": [
+        [
+            "Open", 
+            "Resolved", 
+            "87d 11h 38m"
+        ]
+    ], 
+    "AVRO-447": [
+        [
+            "Open", 
+            "Patch Available", 
+            "92d 23h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 21h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 22h 31m"
+        ]
+    ], 
+    "AVRO-861": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 17h 37m"
+        ]
+    ], 
+    "AVRO-441": [
+        [
+            "Open", 
+            "Resolved", 
+            "81d 3h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "95d 4h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "516d 21h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "AVRO-440": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 3h 24m"
+        ]
+    ], 
+    "AVRO-1164": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 22h 2m"
+        ]
+    ], 
+    "AVRO-1165": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 21h 57m"
+        ]
+    ], 
+    "AVRO-1166": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 59m"
+        ]
+    ], 
+    "AVRO-1161": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 21h 47m"
+        ]
+    ], 
+    "AVRO-1162": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 21h 34m"
+        ]
+    ], 
+    "AVRO-1163": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "76d 21h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 8h 3m"
+        ]
+    ], 
+    "AVRO-1604": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 19h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 19h 21m"
+        ]
+    ], 
+    "AVRO-257": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 18h 3m"
+        ]
+    ], 
+    "AVRO-933": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 5h 45m"
+        ]
+    ], 
+    "AVRO-1947": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 41m"
+        ]
+    ], 
+    "AVRO-1944": [
+        [
+            "Open", 
+            "Patch Available", 
+            "51m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 6h 18m"
+        ]
+    ], 
+    "AVRO-930": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 14h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 4h 6m"
+        ]
+    ], 
+    "AVRO-1943": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 22m"
+        ]
+    ], 
+    "AVRO-2004": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 2h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "601d 21h 29m"
+        ]
+    ], 
+    "AVRO-2415": [
+        [
+            "Open", 
+            "In Progress", 
+            "19m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 14h 37m"
+        ]
+    ], 
+    "AVRO-2396": [
+        [
+            "Open", 
+            "In Progress", 
+            "21d 20h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 41m"
+        ]
+    ], 
+    "AVRO-1083": [
+        [
+            "Open", 
+            "Patch Available", 
+            "58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 5h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 5h 58m"
+        ]
+    ], 
+    "AVRO-2394": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 6h 12m"
+        ]
+    ], 
+    "AVRO-501": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14m 49s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "143d 3h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 1h 43m"
+        ]
+    ], 
+    "AVRO-1849": [
+        [
+            "Open", 
+            "Resolved", 
+            "129d 16h 51m"
+        ]
+    ], 
+    "AVRO-1848": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "107d 2h 11m"
+        ]
+    ], 
+    "AVRO-1844": [
+        [
+            "Open", 
+            "Resolved", 
+            "942d 5h 48m"
+        ]
+    ], 
+    "AVRO-1119": [
+        [
+            "Open", 
+            "Patch Available", 
+            "59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 14h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 9m"
+        ]
+    ], 
+    "AVRO-2465": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 5h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 4h 17m"
+        ]
+    ], 
+    "AVRO-2466": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 19h 47m"
+        ]
+    ], 
+    "AVRO-833": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "73d 1h 15m"
+        ]
+    ], 
+    "AVRO-1111": [
+        [
+            "Open", 
+            "Patch Available", 
+            "92d 20h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 9h 25m"
+        ]
+    ], 
+    "AVRO-2306": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 21m"
+        ]
+    ], 
+    "AVRO-1115": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 10h"
+        ]
+    ], 
+    "AVRO-1114": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 2m"
+        ]
+    ], 
+    "AVRO-1116": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 14h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 12h 43m"
+        ]
+    ], 
+    "AVRO-80": [
+        [
+            "Open", 
+            "In Progress", 
+            "120d 18h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 18h 11m"
+        ]
+    ], 
+    "AVRO-141": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "137d 22h 16m"
+        ]
+    ], 
+    "AVRO-86": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 34m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "385d 23h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 3h 23m"
+        ]
+    ], 
+    "AVRO-87": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 6h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 5h 52m"
+        ]
+    ], 
+    "AVRO-84": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 2h 17m"
+        ]
+    ], 
+    "AVRO-85": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 17h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 2h 18m"
+        ]
+    ], 
+    "AVRO-88": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 1h 41m"
+        ]
+    ], 
+    "AVRO-2131": [
+        [
+            "Open", 
+            "Resolved", 
+            "315d 21h 24m"
+        ]
+    ], 
+    "AVRO-759": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 5h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 2h 42m"
+        ]
+    ], 
+    "AVRO-2483": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 7m"
+        ]
+    ], 
+    "AVRO-755": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 1h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 7h 12m"
+        ]
+    ], 
+    "AVRO-1500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 1h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 6h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 22h 18m"
+        ]
+    ], 
+    "AVRO-1112": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 16h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 3h 28m"
+        ]
+    ], 
+    "AVRO-612": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 3h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 23h 31m"
+        ]
+    ], 
+    "AVRO-598": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39d 1h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 3h 15m"
+        ]
+    ], 
+    "AVRO-596": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 14h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 11m"
+        ]
+    ], 
+    "AVRO-590": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50d 1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 14m"
+        ]
+    ], 
+    "AVRO-618": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 5h 44m"
+        ]
+    ], 
+    "AVRO-12": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 22h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 2h 4m"
+        ]
+    ], 
+    "AVRO-398": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 17h 19m"
+        ]
+    ], 
+    "AVRO-390": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 11h 33m"
+        ]
+    ], 
+    "AVRO-1433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "57m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 22h 24m"
+        ]
+    ], 
+    "AVRO-1346": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2016d 23h 7m"
+        ]
+    ], 
+    "AVRO-1436": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 3h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "177d 58m"
+        ]
+    ], 
+    "AVRO-1434": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 1h 6m"
+        ]
+    ], 
+    "AVRO-818": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "92d 5h 5m"
+        ]
+    ], 
+    "AVRO-1027": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 18h 24m"
+        ]
+    ], 
+    "AVRO-1348": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 20h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "181d 23h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 1h 25m"
+        ]
+    ], 
+    "AVRO-1020": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 2h 30m"
+        ]
+    ], 
+    "AVRO-681": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "148d 3h 18m"
+        ]
+    ], 
+    "AVRO-685": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 1h 10m"
+        ]
+    ], 
+    "AVRO-898": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 7h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 20h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 22h 49m"
+        ]
+    ], 
+    "AVRO-1937": [
+        [
+            "Open", 
+            "Patch Available", 
+            "115d 14h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 14h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "678d 13h 44m"
+        ]
+    ], 
+    "AVRO-1931": [
+        [
+            "Open", 
+            "Patch Available", 
+            "143d 15h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "171d 7h 36m"
+        ]
+    ], 
+    "AVRO-1930": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "115d 23h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "698d 4h 52m"
+        ]
+    ], 
+    "AVRO-1021": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 3h 7m"
+        ]
+    ], 
+    "AVRO-101": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 17h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 20h 56m"
+        ]
+    ], 
+    "AVRO-894": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 22h 28m"
+        ]
+    ], 
+    "AVRO-329": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 22h 20m"
+        ]
+    ], 
+    "AVRO-487": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 21h"
+        ]
+    ], 
+    "AVRO-489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 17h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "158d 18h 45m"
+        ]
+    ], 
+    "AVRO-417": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 6h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 15h 12m"
+        ]
+    ], 
+    "AVRO-90": [
+        [
+            "Open", 
+            "Patch Available", 
+            "49m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 2h 47m"
+        ]
+    ], 
+    "AVRO-247": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 2h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "82d 21h 29m"
+        ]
+    ], 
+    "AVRO-1230": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 18h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 8h 44m"
+        ]
+    ], 
+    "AVRO-1231": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 9h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 4h 22m"
+        ]
+    ], 
+    "AVRO-1233": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 3h 40m"
+        ]
+    ], 
+    "AVRO-1234": [
+        [
+            "Patch Available", 
+            "Open", 
+            "242d 2h 6m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "87d 7h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 20h 59m"
+        ]
+    ], 
+    "AVRO-1237": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "320d 7h 54m"
+        ]
+    ], 
+    "AVRO-1331": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "96d 11m"
+        ]
+    ], 
+    "AVRO-944": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 20h 11m"
+        ]
+    ], 
+    "AVRO-1725": [
+        [
+            "Open", 
+            "Patch Available", 
+            "120d 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 2h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 17h 54m"
+        ]
+    ], 
+    "AVRO-1334": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "489d 17h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "496d 16h 47m"
+        ]
+    ], 
+    "AVRO-1489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "210d 11h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "462d 38m"
+        ]
+    ], 
+    "AVRO-879": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 19h 15m"
+        ]
+    ], 
+    "AVRO-1485": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1197d 1h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 6h 35m"
+        ]
+    ], 
+    "AVRO-1082": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 6h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 6h 9m"
+        ]
+    ], 
+    "AVRO-978": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 5h 49m"
+        ]
+    ], 
+    "AVRO-713": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "85d 2h 34m"
+        ]
+    ], 
+    "AVRO-2298": [
+        [
+            "Open", 
+            "Resolved", 
+            "169d 6h 2m"
+        ]
+    ], 
+    "AVRO-790": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 20h"
+        ]
+    ], 
+    "AVRO-1807": [
+        [
+            "Open", 
+            "Patch Available", 
+            "61d 10h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 18m"
+        ]
+    ], 
+    "AVRO-945": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 28m"
+        ]
+    ], 
+    "AVRO-688": [
+        [
+            "Open", 
+            "Patch Available", 
+            "67d 3h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 23h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 3h 34m"
+        ]
+    ], 
+    "AVRO-717": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 9h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 2h 3m"
+        ]
+    ], 
+    "AVRO-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 22h 44m"
+        ]
+    ], 
+    "AVRO-1013": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 4h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 21h 4m"
+        ]
+    ], 
+    "AVRO-433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 22h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 23h 27m"
+        ]
+    ], 
+    "AVRO-431": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 3h 30m"
+        ]
+    ], 
+    "AVRO-1155": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 12h 54m"
+        ]
+    ], 
+    "AVRO-1154": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 39m"
+        ]
+    ], 
+    "AVRO-1150": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 32m"
+        ]
+    ], 
+    "AVRO-1153": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "12h 14m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 21h 22m"
+        ]
+    ], 
+    "AVRO-1152": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 21h 32m"
+        ]
+    ], 
+    "AVRO-1652": [
+        [
+            "Open", 
+            "Resolved", 
+            "242d 10h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 1h 8m"
+        ]
+    ], 
+    "AVRO-1653": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 15h 8m"
+        ]
+    ], 
+    "AVRO-1159": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 23h 51m"
+        ]
+    ], 
+    "AVRO-1158": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 23h 55m"
+        ]
+    ], 
+    "AVRO-1655": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "289d 18h 7m"
+        ]
+    ], 
+    "AVRO-2072": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 22h 41m"
+        ]
+    ], 
+    "AVRO-652": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 21h 56m"
+        ]
+    ], 
+    "AVRO-653": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 22h 4m"
+        ]
+    ], 
+    "AVRO-650": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 19h 40m"
+        ]
+    ], 
+    "AVRO-656": [
+        [
+            "Open", 
+            "Patch Available", 
+            "165d 5h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 22h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 2h 11m"
+        ]
+    ], 
+    "AVRO-657": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 14h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 1m"
+        ]
+    ], 
+    "AVRO-901": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 23h 28m"
+        ]
+    ], 
+    "AVRO-480": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 17h 28m"
+        ]
+    ], 
+    "AVRO-554": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 21h 56m"
+        ]
+    ], 
+    "AVRO-1883": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 21h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "417d 14h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 52m"
+        ]
+    ], 
+    "AVRO-1882": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 18h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "96d 3h 31m"
+        ]
+    ], 
+    "AVRO-740": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 12h 55m"
+        ]
+    ], 
+    "AVRO-1144": [
+        [
+            "Open", 
+            "Patch Available", 
+            "334d 21h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 15h 14m"
+        ]
+    ], 
+    "AVRO-741": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 20h 47m"
+        ]
+    ], 
+    "AVRO-64": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 11h 3m"
+        ]
+    ], 
+    "AVRO-743": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 11h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 5h 54m"
+        ]
+    ], 
+    "AVRO-2450": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 57m"
+        ]
+    ], 
+    "AVRO-119": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 20h 14m"
+        ]
+    ], 
+    "AVRO-118": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 21h 10m"
+        ]
+    ], 
+    "AVRO-291": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 17h 41m"
+        ]
+    ], 
+    "AVRO-182": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 19h 56m"
+        ]
+    ], 
+    "AVRO-113": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 21h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 5m"
+        ]
+    ], 
+    "AVRO-114": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 4h 59m"
+        ]
+    ], 
+    "AVRO-117": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "19h 16m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 20h 12m"
+        ]
+    ], 
+    "AVRO-620": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 16h 27m"
+        ]
+    ], 
+    "AVRO-1474": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 23h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "95d 23h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1642d 22h 24m"
+        ]
+    ], 
+    "AVRO-884": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 1h 36m"
+        ]
+    ], 
+    "AVRO-1473": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 19h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 1h 39m"
+        ]
+    ], 
+    "AVRO-1470": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "90d 20h 54m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "49m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 27m"
+        ]
+    ], 
+    "AVRO-1576": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "307d 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "209d 4h 43m"
+        ]
+    ], 
+    "AVRO-1888": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41d 1h 16m"
+        ]
+    ], 
+    "AVRO-722": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 21h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 6h 32m"
+        ]
+    ], 
+    "AVRO-1572": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "491d 19h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 23h 18m"
+        ]
+    ], 
+    "AVRO-46": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 12h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 4h 37m"
+        ]
+    ], 
+    "AVRO-47": [
+        [
+            "Open", 
+            "Patch Available", 
+            "223d 4h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 21h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 18h 27m"
+        ]
+    ], 
+    "AVRO-44": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 22h 39m"
+        ]
+    ], 
+    "AVRO-45": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 5h 3m"
+        ]
+    ], 
+    "AVRO-40": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 16m"
+        ]
+    ], 
+    "AVRO-583": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 20h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 22h 3m"
+        ]
+    ], 
+    "AVRO-1689": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "220d 22h 25m"
+        ]
+    ], 
+    "AVRO-1688": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 22h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 2h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 22h 35m"
+        ]
+    ], 
+    "AVRO-207": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52d 18h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 23h 43m"
+        ]
+    ], 
+    "AVRO-1272": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 20h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "154d 2h"
+        ]
+    ], 
+    "AVRO-1617": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "391d 14h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 23h 9m"
+        ]
+    ], 
+    "AVRO-832": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 8h 37m"
+        ]
+    ], 
+    "AVRO-1374": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 1h 28m"
+        ]
+    ], 
+    "AVRO-1377": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 5h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 16h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 1h 44m"
+        ]
+    ], 
+    "AVRO-1279": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34d 11h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "92d 7h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 3h 50m"
+        ]
+    ], 
+    "AVRO-835": [
+        [
+            "Open", 
+            "Resolved", 
+            "186d 21h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 2h 9m"
+        ]
+    ], 
+    "AVRO-1070": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 8h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 12h 25m"
+        ]
+    ], 
+    "AVRO-1071": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 1h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 22h 39m"
+        ]
+    ], 
+    "AVRO-1076": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 16h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 22h 38m"
+        ]
+    ], 
+    "AVRO-1078": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 5h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 14h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "132d 13h 1m"
+        ]
+    ], 
+    "AVRO-1292": [
+        [
+            "Open", 
+            "Resolved", 
+            "83d 20h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 23h 45m"
+        ]
+    ], 
+    "AVRO-1293": [
+        [
+            "Open", 
+            "Resolved", 
+            "83d 11h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d"
+        ]
+    ], 
+    "AVRO-1290": [
+        [
+            "Open", 
+            "Patch Available", 
+            "62d"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 20h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2023d 21h 22m"
+        ]
+    ], 
+    "AVRO-1296": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 21h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 22h 11m"
+        ]
+    ], 
+    "AVRO-1297": [
+        [
+            "Open", 
+            "Resolved", 
+            "94d 22h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 16h 51m"
+        ]
+    ], 
+    "AVRO-1295": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 4h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 18h 19m"
+        ]
+    ], 
+    "AVRO-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "59m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 18h 18m"
+        ]
+    ], 
+    "AVRO-904": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 9h 35m"
+        ]
+    ], 
+    "AVRO-373": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 8h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 22h 32m"
+        ]
+    ], 
+    "AVRO-375": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 23h 31m"
+        ]
+    ], 
+    "AVRO-374": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 21h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 20h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 19h 44m"
+        ]
+    ], 
+    "AVRO-1197": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 20h 42m"
+        ]
+    ], 
+    "AVRO-1199": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 18h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "9m 28s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 18h 35m"
+        ]
+    ], 
+    "AVRO-1198": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "96d 18h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 5h 11m"
+        ]
+    ], 
+    "AVRO-276": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 19h 39m"
+        ]
+    ], 
+    "AVRO-1201": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 6h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 19h 27m"
+        ]
+    ], 
+    "AVRO-1200": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 6h 59m"
+        ]
+    ], 
+    "AVRO-1970": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 6h 5m"
+        ]
+    ], 
+    "AVRO-1206": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 9h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 19h 22m"
+        ]
+    ], 
+    "AVRO-906": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 24m"
+        ]
+    ], 
+    "AVRO-1573": [
+        [
+            "Open", 
+            "Patch Available", 
+            "112d 21h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 3h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "389d 23h 7m"
+        ]
+    ], 
+    "AVRO-1755": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 15h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 39m"
+        ]
+    ], 
+    "AVRO-1754": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 14h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 9h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 19h 57m"
+        ]
+    ], 
+    "AVRO-902": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 5h 43m"
+        ]
+    ], 
+    "AVRO-903": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 14h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 9h 59m"
+        ]
+    ], 
+    "AVRO-1750": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1m 5s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "142d 23h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "286d 18h 50m"
+        ]
+    ]
+}

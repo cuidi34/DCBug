@@ -1,0 +1,5968 @@
+{
+    "NUTCH-1761": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41m 13s"
+        ]
+    ], 
+    "NUTCH-190": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 16m"
+        ]
+    ], 
+    "NUTCH-2413": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 33m"
+        ]
+    ], 
+    "NUTCH-1252": [
+        [
+            "Open", 
+            "Resolved", 
+            "267d 11h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "222d 7h 30m"
+        ]
+    ], 
+    "NUTCH-194": [
+        [
+            "Open", 
+            "Closed", 
+            "15h 24m"
+        ]
+    ], 
+    "NUTCH-197": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "264d 7h 54m"
+        ]
+    ], 
+    "NUTCH-1097": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 4h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34s"
+        ]
+    ], 
+    "NUTCH-1044": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 10h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "131d 15h 35m"
+        ]
+    ], 
+    "NUTCH-1764": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 17h 22m"
+        ]
+    ], 
+    "HADOOP-1080": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 20h 55m"
+        ]
+    ], 
+    "NUTCH-645": [
+        [
+            "Open", 
+            "Closed", 
+            "14m 41s"
+        ]
+    ], 
+    "NUTCH-845": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1048d 13h 38m"
+        ]
+    ], 
+    "NUTCH-641": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 2h 47m"
+        ]
+    ], 
+    "NUTCH-642": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 1h 42m"
+        ]
+    ], 
+    "NUTCH-643": [
+        [
+            "Open", 
+            "Closed", 
+            "181d 23h 23m"
+        ]
+    ], 
+    "NUTCH-525": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 1m"
+        ]
+    ], 
+    "NUTCH-1918": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 22h 5m"
+        ]
+    ], 
+    "NUTCH-1919": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6m"
+        ]
+    ], 
+    "NUTCH-1912": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 55m"
+        ]
+    ], 
+    "NUTCH-2466": [
+        [
+            "Open", 
+            "Resolved", 
+            "64d 1h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "608d 34m"
+        ]
+    ], 
+    "NUTCH-2465": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 5m"
+        ]
+    ], 
+    "NUTCH-2464": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 36m"
+        ]
+    ], 
+    "NUTCH-529": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 4h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36s"
+        ]
+    ], 
+    "NUTCH-487": [
+        [
+            "Open", 
+            "Closed", 
+            "128d 1m"
+        ]
+    ], 
+    "NUTCH-484": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "684d 5h 31m"
+        ]
+    ], 
+    "NUTCH-1671": [
+        [
+            "Open", 
+            "Resolved", 
+            "115d 23h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 8h 24m"
+        ]
+    ], 
+    "NUTCH-273": [
+        [
+            "Open", 
+            "Closed", 
+            "221d 7h 54m"
+        ]
+    ], 
+    "NUTCH-976": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 19h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 12h 32m"
+        ]
+    ], 
+    "NUTCH-977": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 19h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 12h 27m"
+        ]
+    ], 
+    "NUTCH-1211": [
+        [
+            "Open", 
+            "In Progress", 
+            "35s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "544d 1h 52m"
+        ]
+    ], 
+    "NUTCH-1215": [
+        [
+            "Open", 
+            "Resolved", 
+            "328d 16h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "210d 18h 7m"
+        ]
+    ], 
+    "NUTCH-91": [
+        [
+            "Open", 
+            "Closed", 
+            "180d 7h 42m"
+        ]
+    ], 
+    "NUTCH-161": [
+        [
+            "Open", 
+            "Resolved", 
+            "497d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "682d 1h 56m"
+        ]
+    ], 
+    "NUTCH-730": [
+        [
+            "Open", 
+            "Closed", 
+            "197d 9h 41m"
+        ]
+    ], 
+    "NUTCH-732": [
+        [
+            "Open", 
+            "Closed", 
+            "385d 6h 9m"
+        ]
+    ], 
+    "NUTCH-735": [
+        [
+            "Open", 
+            "Closed", 
+            "29d 10h 17m"
+        ]
+    ], 
+    "NUTCH-631": [
+        [
+            "Open", 
+            "In Progress", 
+            "268d 20h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14d 21h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 5h 59m"
+        ]
+    ], 
+    "NUTCH-739": [
+        [
+            "Open", 
+            "Closed", 
+            "184d 17h 3m"
+        ]
+    ], 
+    "NUTCH-633": [
+        [
+            "Open", 
+            "Closed", 
+            "119d 9h 16m"
+        ]
+    ], 
+    "NUTCH-636": [
+        [
+            "Open", 
+            "Closed", 
+            "227d 18h 7m"
+        ]
+    ], 
+    "NUTCH-2420": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 5h 38m"
+        ]
+    ], 
+    "NUTCH-228": [
+        [
+            "Open", 
+            "Closed", 
+            "58m 43s"
+        ]
+    ], 
+    "NUTCH-220": [
+        [
+            "Open", 
+            "Closed", 
+            "745d 5h 58m"
+        ]
+    ], 
+    "NUTCH-1828": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 3m"
+        ]
+    ], 
+    "NUTCH-1829": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 19h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "65d 8h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "29d 2h 15m"
+        ]
+    ], 
+    "NUTCH-1826": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 23h 21m"
+        ]
+    ], 
+    "NUTCH-2007": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 23h 46m"
+        ]
+    ], 
+    "NUTCH-1825": [
+        [
+            "Open", 
+            "Resolved", 
+            "82d 23h 27m"
+        ]
+    ], 
+    "NUTCH-2001": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 3h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 15s"
+        ]
+    ], 
+    "NUTCH-2000": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 7h 39m"
+        ]
+    ], 
+    "NUTCH-2225": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "NUTCH-2224": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 11m"
+        ]
+    ], 
+    "NUTCH-1136": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 17h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23s"
+        ]
+    ], 
+    "NUTCH-1137": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "78d 32m"
+        ]
+    ], 
+    "NUTCH-2189": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "53d 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20s"
+        ]
+    ], 
+    "NUTCH-2223": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 23m"
+        ]
+    ], 
+    "NUTCH-2635": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 23h 28m"
+        ]
+    ], 
+    "NUTCH-2639": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 21h 41m"
+        ]
+    ], 
+    "NUTCH-2180": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 10h 52m"
+        ]
+    ], 
+    "NUTCH-2228": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 29m"
+        ]
+    ], 
+    "NUTCH-2508": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "607d 15h 29m"
+        ]
+    ], 
+    "NUTCH-596": [
+        [
+            "Open", 
+            "Resolved", 
+            "110d 8h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44s"
+        ]
+    ], 
+    "NUTCH-597": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 6h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "NUTCH-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1001d 15h 9m"
+        ]
+    ], 
+    "NUTCH-350": [
+        [
+            "Open", 
+            "Closed", 
+            "37d 14m"
+        ]
+    ], 
+    "NUTCH-298": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 11h 28m"
+        ]
+    ], 
+    "NUTCH-356": [
+        [
+            "Open", 
+            "Resolved", 
+            "2713d 1h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "96d 17h 1m"
+        ]
+    ], 
+    "NUTCH-354": [
+        [
+            "Open", 
+            "Closed", 
+            "39m 46s"
+        ]
+    ], 
+    "NUTCH-292": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 13h 20m"
+        ]
+    ], 
+    "NUTCH-868": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1023d 17h 51m"
+        ]
+    ], 
+    "NUTCH-1621": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 22h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "167d 18h 9m"
+        ]
+    ], 
+    "NUTCH-2645": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 9h 3m"
+        ]
+    ], 
+    "NUTCH-2644": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 6h 6m"
+        ]
+    ], 
+    "NUTCH-2643": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 9h 52m"
+        ]
+    ], 
+    "NUTCH-2642": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 8h 45m"
+        ]
+    ], 
+    "NUTCH-860": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "249d 4h 40m"
+        ]
+    ], 
+    "NUTCH-949": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 56m"
+        ]
+    ], 
+    "NUTCH-2523": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "560d 23h 59m"
+        ]
+    ], 
+    "NUTCH-2520": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "574d 5h 46m"
+        ]
+    ], 
+    "NUTCH-2521": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "574d 5h 44m"
+        ]
+    ], 
+    "NUTCH-2359": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "NUTCH-2454": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 3h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "635d 20h 58m"
+        ]
+    ], 
+    "NUTCH-2452": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 2h 3m"
+        ]
+    ], 
+    "NUTCH-1415": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 7h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "245d 6h 55m"
+        ]
+    ], 
+    "NUTCH-2451": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 14h 34m"
+        ]
+    ], 
+    "NUTCH-1553": [
+        [
+            "Open", 
+            "Resolved", 
+            "1182d 16h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 1h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 55m"
+        ]
+    ], 
+    "NUTCH-1004": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 22h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 9h 27m"
+        ]
+    ], 
+    "NUTCH-2354": [
+        [
+            "Open", 
+            "Resolved", 
+            "329d 6h 14m"
+        ]
+    ], 
+    "NUTCH-2458": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 11m"
+        ]
+    ], 
+    "NUTCH-688": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 11h 12m"
+        ]
+    ], 
+    "NUTCH-375": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 12h 20m"
+        ]
+    ], 
+    "NUTCH-681": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "11m 15s"
+        ]
+    ], 
+    "NUTCH-682": [
+        [
+            "Open", 
+            "Closed", 
+            "19m 15s"
+        ]
+    ], 
+    "NUTCH-683": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 13h 28m"
+        ]
+    ], 
+    "NUTCH-1957": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 21h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4m 3s"
+        ]
+    ], 
+    "NUTCH-1954": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "24m 9s"
+        ]
+    ], 
+    "NUTCH-1950": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 14m"
+        ]
+    ], 
+    "NUTCH-1483": [
+        [
+            "Open", 
+            "Resolved", 
+            "734d 4h 58m"
+        ]
+    ], 
+    "NUTCH-1527": [
+        [
+            "Open", 
+            "Resolved", 
+            "129d 14h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 27m"
+        ]
+    ], 
+    "NUTCH-1521": [
+        [
+            "Open", 
+            "Closed", 
+            "449d 18h 29m"
+        ]
+    ], 
+    "NUTCH-1520": [
+        [
+            "Open", 
+            "Resolved", 
+            "168d 23h 54m"
+        ]
+    ], 
+    "NUTCH-1440": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "NUTCH-1251": [
+        [
+            "Open", 
+            "Resolved", 
+            "160d 9h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "329d 19h 31m"
+        ]
+    ], 
+    "NUTCH-1253": [
+        [
+            "Open", 
+            "Resolved", 
+            "741d 23h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 16h 7m"
+        ]
+    ], 
+    "NUTCH-1441": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 45s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "50d 6h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "245d 7h 33m"
+        ]
+    ], 
+    "NUTCH-1310": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 14h 46m"
+        ]
+    ], 
+    "NUTCH-1911": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "198d 2h 53m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "9d 19h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22m 18s"
+        ]
+    ], 
+    "NUTCH-774": [
+        [
+            "Open", 
+            "In Progress", 
+            "224d 6h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "260d 18h 54m"
+        ]
+    ], 
+    "NUTCH-777": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 30s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "30m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1250d 8h 51m"
+        ]
+    ], 
+    "NUTCH-773": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 56m"
+        ]
+    ], 
+    "NUTCH-578": [
+        [
+            "Open", 
+            "In Progress", 
+            "96d 16h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2323d 22h 22m"
+        ]
+    ], 
+    "NUTCH-579": [
+        [
+            "Open", 
+            "Closed", 
+            "427d 12h 1m"
+        ]
+    ], 
+    "NUTCH-671": [
+        [
+            "Open", 
+            "Closed", 
+            "55d 8h 30m"
+        ]
+    ], 
+    "NUTCH-2461": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 4h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "623d 20h 49m"
+        ]
+    ], 
+    "NUTCH-571": [
+        [
+            "Open", 
+            "Closed", 
+            "452d 9h 8m"
+        ]
+    ], 
+    "NUTCH-678": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 19h 47m"
+        ]
+    ], 
+    "NUTCH-574": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "438d 17h 55m"
+        ]
+    ], 
+    "NUTCH-575": [
+        [
+            "Open", 
+            "Closed", 
+            "126d 16h 27m"
+        ]
+    ], 
+    "NUTCH-2513": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "511d 2h 57m"
+        ]
+    ], 
+    "NUTCH-1113": [
+        [
+            "Open", 
+            "Resolved", 
+            "896d 19h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 19h 22m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 22h 57m"
+        ]
+    ], 
+    "NUTCH-1110": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3h 10m"
+        ]
+    ], 
+    "NUTCH-3": [
+        [
+            "Open", 
+            "Closed", 
+            "299d 12h 3m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "85d 17h 39m"
+        ]
+    ], 
+    "NUTCH-7": [
+        [
+            "Open", 
+            "Closed", 
+            "150d 16h 8m"
+        ]
+    ], 
+    "NUTCH-8": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 22h 59m"
+        ]
+    ], 
+    "NUTCH-1114": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 21h 14m"
+        ]
+    ], 
+    "NUTCH-131": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 10h 5m"
+        ]
+    ], 
+    "NUTCH-134": [
+        [
+            "Open", 
+            "Resolved", 
+            "156d 16h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "164d 21m"
+        ]
+    ], 
+    "NUTCH-135": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "317d 6h 30m"
+        ]
+    ], 
+    "NUTCH-700": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 10h 7m"
+        ]
+    ], 
+    "NUTCH-703": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h 9m"
+        ]
+    ], 
+    "NUTCH-707": [
+        [
+            "Open", 
+            "Closed", 
+            "222d 19h 3m"
+        ]
+    ], 
+    "NUTCH-706": [
+        [
+            "Open", 
+            "Resolved", 
+            "1321d 2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 6h 39m"
+        ]
+    ], 
+    "NUTCH-2571": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 3h 13m"
+        ]
+    ], 
+    "NUTCH-2570": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 15h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 3h 15m"
+        ]
+    ], 
+    "NUTCH-1771": [
+        [
+            "Open", 
+            "Resolved", 
+            "332d 12h 27m"
+        ]
+    ], 
+    "NUTCH-1776": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 22h 8m"
+        ]
+    ], 
+    "NUTCH-2574": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 8h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "475d 5h 50m"
+        ]
+    ], 
+    "NUTCH-317": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 17h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 16h 27m"
+        ]
+    ], 
+    "NUTCH-257": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 16h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 20h 24m"
+        ]
+    ], 
+    "NUTCH-254": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 56m"
+        ]
+    ], 
+    "NUTCH-2177": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 10m"
+        ]
+    ], 
+    "NUTCH-2176": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 36m"
+        ]
+    ], 
+    "NUTCH-2173": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 31s"
+        ]
+    ], 
+    "NUTCH-824": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "152d 17h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "72d 7h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 19h 35m"
+        ]
+    ], 
+    "NUTCH-1706": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 2h 34m"
+        ]
+    ], 
+    "NUTCH-1873": [
+        [
+            "Open", 
+            "Resolved", 
+            "210d 6m"
+        ]
+    ], 
+    "NUTCH-1874": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 39m"
+        ]
+    ], 
+    "NUTCH-1877": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 4h 20m"
+        ]
+    ], 
+    "NUTCH-2072": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 14h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 2s"
+        ]
+    ], 
+    "NUTCH-829": [
+        [
+            "Open", 
+            "Resolved", 
+            "1049d 1h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 2h 40m"
+        ]
+    ], 
+    "NUTCH-1708": [
+        [
+            "Open", 
+            "Resolved", 
+            "190d 15h"
+        ]
+    ], 
+    "NUTCH-2703": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 20h 26m"
+        ]
+    ], 
+    "NUTCH-2706": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 1h 46m"
+        ]
+    ], 
+    "NUTCH-2310": [
+        [
+            "Open", 
+            "Resolved", 
+            "636d 19h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "495d 22h 6m"
+        ]
+    ], 
+    "NUTCH-2254": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 8h 23m"
+        ]
+    ], 
+    "NUTCH-1681": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 10m"
+        ]
+    ], 
+    "NUTCH-2624": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "433d 57m"
+        ]
+    ], 
+    "NUTCH-1993": [
+        [
+            "Open", 
+            "In Progress", 
+            "8h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1184d 22h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "439d 1h 23m"
+        ]
+    ], 
+    "NUTCH-1991": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 18h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 21h 28m"
+        ]
+    ], 
+    "NUTCH-406": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 27s"
+        ]
+    ], 
+    "NUTCH-404": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "150d 2h 47m"
+        ]
+    ], 
+    "NUTCH-1096": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 20h 14m"
+        ]
+    ], 
+    "NUTCH-2386": [
+        [
+            "Open", 
+            "Resolved", 
+            "162d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "NUTCH-1173": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 17h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "558d 12h 30m"
+        ]
+    ], 
+    "NUTCH-1174": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 5h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "557d 12h 33m"
+        ]
+    ], 
+    "NUTCH-1178": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 22h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "558d 13h 23m"
+        ]
+    ], 
+    "NUTCH-911": [
+        [
+            "Open", 
+            "Resolved", 
+            "1035d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "266d 9h 12m"
+        ]
+    ], 
+    "NUTCH-2674": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 1h 47m"
+        ]
+    ], 
+    "NUTCH-1670": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "43d 4h 50m"
+        ]
+    ], 
+    "NUTCH-1675": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 12m"
+        ]
+    ], 
+    "NUTCH-1293": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "62d 17h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "383d 18h 37m"
+        ]
+    ], 
+    "NUTCH-1299": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "441d 10h 20m"
+        ]
+    ], 
+    "NUTCH-2403": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 13m"
+        ]
+    ], 
+    "NUTCH-1053": [
+        [
+            "Open", 
+            "Resolved", 
+            "675d 15h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 3h 9m"
+        ]
+    ], 
+    "NUTCH-1193": [
+        [
+            "Open", 
+            "Resolved", 
+            "107d 6h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "NUTCH-432": [
+        [
+            "Open", 
+            "Closed", 
+            "42d 1h 19m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 19h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16d 2h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 22h 45m"
+        ]
+    ], 
+    "NUTCH-2490": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "635d 20h 47m"
+        ]
+    ], 
+    "NUTCH-535": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "NUTCH-532": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 4h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22h 54m"
+        ]
+    ], 
+    "NUTCH-533": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4m 14s"
+        ]
+    ], 
+    "NUTCH-2494": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 5h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "609d 22h 47m"
+        ]
+    ], 
+    "NUTCH-2499": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "615d 20h 29m"
+        ]
+    ], 
+    "NUTCH-1904": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 21s"
+        ]
+    ], 
+    "NUTCH-1906": [
+        [
+            "Open", 
+            "In Progress", 
+            "100d 2h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12m 18s"
+        ]
+    ], 
+    "NUTCH-850": [
+        [
+            "Open", 
+            "Closed", 
+            "13m 57s"
+        ]
+    ], 
+    "NUTCH-1592": [
+        [
+            "Open", 
+            "Resolved", 
+            "532d 15h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 41s"
+        ]
+    ], 
+    "NUTCH-2572": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 3h 11m"
+        ]
+    ], 
+    "NUTCH-85": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 21h 56m"
+        ]
+    ], 
+    "NUTCH-81": [
+        [
+            "Open", 
+            "Resolved", 
+            "175d 9h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 10h 3m"
+        ]
+    ], 
+    "NUTCH-89": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 4h 18m"
+        ]
+    ], 
+    "NUTCH-746": [
+        [
+            "Open", 
+            "Closed", 
+            "124d 22h 4m"
+        ]
+    ], 
+    "NUTCH-741": [
+        [
+            "Open", 
+            "Closed", 
+            "183d 2h 30m"
+        ]
+    ], 
+    "NUTCH-620": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 3h 22m"
+        ]
+    ], 
+    "NUTCH-626": [
+        [
+            "Open", 
+            "Resolved", 
+            "323d 12h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 11h 9m"
+        ]
+    ], 
+    "NUTCH-63": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 18h 37m"
+        ]
+    ], 
+    "NUTCH-65": [
+        [
+            "Open", 
+            "Closed", 
+            "34d 11h 46m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "26d 23h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1d 52m"
+        ]
+    ], 
+    "NUTCH-211": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "249d 7h 42m"
+        ]
+    ], 
+    "NUTCH-1835": [
+        [
+            "Open", 
+            "In Progress", 
+            "55s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12h 31m"
+        ]
+    ], 
+    "NUTCH-1832": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 52m"
+        ]
+    ], 
+    "NUTCH-819": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 43s"
+        ]
+    ], 
+    "NUTCH-1601": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 10m"
+        ]
+    ], 
+    "NUTCH-2589": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "486d 2h 34m"
+        ]
+    ], 
+    "NUTCH-1640": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 2h 51m"
+        ]
+    ], 
+    "NUTCH-1646": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9d 23h 7m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "147d 6h 20m"
+        ]
+    ], 
+    "NUTCH-1647": [
+        [
+            "Open", 
+            "Resolved", 
+            "253d 3h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 16h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3h 19m"
+        ]
+    ], 
+    "NUTCH-926": [
+        [
+            "Open", 
+            "Resolved", 
+            "1356d 20h 47m"
+        ]
+    ], 
+    "NUTCH-2581": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 20h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "480d 4h 36m"
+        ]
+    ], 
+    "NUTCH-2585": [
+        [
+            "Open", 
+            "Resolved", 
+            "346d 48m"
+        ]
+    ], 
+    "NUTCH-446": [
+        [
+            "Open", 
+            "Resolved", 
+            "84d 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "687d 3h 57m"
+        ]
+    ], 
+    "NUTCH-889": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 1m"
+        ]
+    ], 
+    "NUTCH-367": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "210d 20h 9m"
+        ]
+    ], 
+    "NUTCH-2399": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 4h 58m"
+        ]
+    ], 
+    "NUTCH-362": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "147d 21h 51m"
+        ]
+    ], 
+    "NUTCH-361": [
+        [
+            "Open", 
+            "Closed", 
+            "59d 3h 53m"
+        ]
+    ], 
+    "NUTCH-285": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 4m"
+        ]
+    ], 
+    "NUTCH-280": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "153d 15h 46m"
+        ]
+    ], 
+    "NUTCH-956": [
+        [
+            "Open", 
+            "Resolved", 
+            "846d 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 5h 46m"
+        ]
+    ], 
+    "NUTCH-369": [
+        [
+            "Open", 
+            "Closed", 
+            "373d 3h 43m"
+        ]
+    ], 
+    "NUTCH-1636": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 53m"
+        ]
+    ], 
+    "NUTCH-2106": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 17m"
+        ]
+    ], 
+    "NUTCH-957": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "154d 22h 32m"
+        ]
+    ], 
+    "NUTCH-950": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 2h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "862d 17h 22m"
+        ]
+    ], 
+    "NUTCH-2535": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "564d 5h 31m"
+        ]
+    ], 
+    "NUTCH-1633": [
+        [
+            "Open", 
+            "Resolved", 
+            "302d 16h 24m"
+        ]
+    ], 
+    "NUTCH-1882": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 6m"
+        ]
+    ], 
+    "NUTCH-1884": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17h 4m"
+        ]
+    ], 
+    "NUTCH-1733": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 11h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 8h 13m"
+        ]
+    ], 
+    "NUTCH-1639": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 13h 25m"
+        ]
+    ], 
+    "NUTCH-812": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 4h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "27m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1128d 22h 14m"
+        ]
+    ], 
+    "NUTCH-1549": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 6h 59m"
+        ]
+    ], 
+    "NUTCH-2444": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "NUTCH-2447": [
+        [
+            "Open", 
+            "Resolved", 
+            "155d 4h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "552d 22h 39m"
+        ]
+    ], 
+    "NUTCH-2446": [
+        [
+            "Open", 
+            "Closed", 
+            "40m 58s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "5m 27s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "NUTCH-2442": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 12h 42m"
+        ]
+    ], 
+    "NUTCH-2364": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 50m"
+        ]
+    ], 
+    "NUTCH-2365": [
+        [
+            "Open", 
+            "Resolved", 
+            "284d 1h 30m"
+        ]
+    ], 
+    "NUTCH-2366": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6m 16s"
+        ]
+    ], 
+    "NUTCH-2448": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 24m"
+        ]
+    ], 
+    "NUTCH-1468": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "246d 18h 26m"
+        ]
+    ], 
+    "NUTCH-1010": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "81d 7h 30m"
+        ]
+    ], 
+    "NUTCH-1736": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 8h 24m"
+        ]
+    ], 
+    "NUTCH-2699": [
+        [
+            "Open", 
+            "In Progress", 
+            "29d 19h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7s"
+        ]
+    ], 
+    "NUTCH-1881": [
+        [
+            "Open", 
+            "Resolved", 
+            "84d 23h 21m"
+        ]
+    ], 
+    "NUTCH-2694": [
+        [
+            "Open", 
+            "Resolved", 
+            "84d 3h 39m"
+        ]
+    ], 
+    "NUTCH-2696": [
+        [
+            "Open", 
+            "Resolved", 
+            "192d 5h 51m"
+        ]
+    ], 
+    "NUTCH-1493": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "194d 13h 39m"
+        ]
+    ], 
+    "NUTCH-1491": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 18h 35m"
+        ]
+    ], 
+    "NUTCH-1494": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 11h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "132d 4h 22m"
+        ]
+    ], 
+    "NUTCH-1443": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "294d 6h 26m"
+        ]
+    ], 
+    "NUTCH-1082": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 9h 23m"
+        ]
+    ], 
+    "NUTCH-483": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "683d 5h 35m"
+        ]
+    ], 
+    "NUTCH-1089": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "78d 17h 35m"
+        ]
+    ], 
+    "NUTCH-2213": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 36m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "19d 12h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8m 47s"
+        ]
+    ], 
+    "NUTCH-1467": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "24m 4s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "274d 23h 49m"
+        ]
+    ], 
+    "HADOOP-12767": [
+        [
+            "Patch Available", 
+            "Open", 
+            "100d 1h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 19m"
+        ]
+    ], 
+    "NUTCH-814": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 38m"
+        ]
+    ], 
+    "NUTCH-1069": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 19h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 4h 47m"
+        ]
+    ], 
+    "NUTCH-1305": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "439d 14h"
+        ]
+    ], 
+    "NUTCH-1063": [
+        [
+            "Open", 
+            "Resolved", 
+            "2642d 20h 9m"
+        ]
+    ], 
+    "NUTCH-482": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "683d 5h 49m"
+        ]
+    ], 
+    "NUTCH-550": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52s"
+        ]
+    ], 
+    "NUTCH-826": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "312d 6h"
+        ]
+    ], 
+    "NUTCH-1016": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9m 19s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 19h 10m"
+        ]
+    ], 
+    "NUTCH-546": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 4h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "564d 42m"
+        ]
+    ], 
+    "NUTCH-545": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 11h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "NUTCH-2071": [
+        [
+            "Open", 
+            "Resolved", 
+            "750d 8h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "298d 18h 31m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "34d 2h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "441d 2h 59m"
+        ]
+    ], 
+    "NUTCH-822": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 14h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1062d 14h 27m"
+        ]
+    ], 
+    "NUTCH-1012": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 5h 23m"
+        ]
+    ], 
+    "NUTCH-1547": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 14h 44m"
+        ]
+    ], 
+    "NUTCH-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 9h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 11h"
+        ]
+    ], 
+    "NUTCH-107": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 16h 55m"
+        ]
+    ], 
+    "NUTCH-495": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 18h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "650d 9h 52m"
+        ]
+    ], 
+    "NUTCH-105": [
+        [
+            "Open", 
+            "Resolved", 
+            "347d 15h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 23h 22m"
+        ]
+    ], 
+    "NUTCH-102": [
+        [
+            "Open", 
+            "Resolved", 
+            "110d 8h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "278d 9h 10m"
+        ]
+    ], 
+    "NUTCH-2475": [
+        [
+            "Open", 
+            "Resolved", 
+            "394d 3h 29m"
+        ]
+    ], 
+    "NUTCH-719": [
+        [
+            "Open", 
+            "Resolved", 
+            "344d 4h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23s"
+        ]
+    ], 
+    "NUTCH-711": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 5h 17m"
+        ]
+    ], 
+    "NUTCH-715": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 13h 20m"
+        ]
+    ], 
+    "NUTCH-2544": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 15h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 3h 31m"
+        ]
+    ], 
+    "NUTCH-2547": [
+        [
+            "Open", 
+            "Resolved", 
+            "91d 1h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "460d 3h 20m"
+        ]
+    ], 
+    "NUTCH-2093": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 39m"
+        ]
+    ], 
+    "NUTCH-1767": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 37m"
+        ]
+    ], 
+    "NUTCH-1766": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 10h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3h 37m"
+        ]
+    ], 
+    "NUTCH-848": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 22h 19m"
+        ]
+    ], 
+    "NUTCH-2549": [
+        [
+            "Open", 
+            "Resolved", 
+            "67d 4h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "475d 19h 13m"
+        ]
+    ], 
+    "NUTCH-2098": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 15h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 58s"
+        ]
+    ], 
+    "NUTCH-323": [
+        [
+            "Open", 
+            "Closed", 
+            "55m 32s"
+        ]
+    ], 
+    "NUTCH-322": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 16h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 54m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "131d 14h 30m"
+        ]
+    ], 
+    "NUTCH-320": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "99d 9h 19m"
+        ]
+    ], 
+    "NUTCH-327": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "92d 21h 30m"
+        ]
+    ], 
+    "NUTCH-325": [
+        [
+            "Open", 
+            "Resolved", 
+            "169d 11h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "102d 6h 1m"
+        ]
+    ], 
+    "NUTCH-1259": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 22h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 2h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "23h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "461d 14h 45m"
+        ]
+    ], 
+    "NUTCH-329": [
+        [
+            "Open", 
+            "Closed", 
+            "7h 28m"
+        ]
+    ], 
+    "NUTCH-328": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "92d 21h 16m"
+        ]
+    ], 
+    "NUTCH-244": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 8h 56m"
+        ]
+    ], 
+    "NUTCH-246": [
+        [
+            "Open", 
+            "Closed", 
+            "344d 12h 16m"
+        ]
+    ], 
+    "NUTCH-247": [
+        [
+            "Open", 
+            "Resolved", 
+            "1049d 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 10h 32m"
+        ]
+    ], 
+    "NUTCH-2142": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 21h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 7s"
+        ]
+    ], 
+    "NUTCH-2145": [
+        [
+            "Open", 
+            "Resolved", 
+            "905d 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "538d 2h 8m"
+        ]
+    ], 
+    "NUTCH-2146": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 22h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 52s"
+        ]
+    ], 
+    "NUTCH-2063": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 21m"
+        ]
+    ], 
+    "NUTCH-2064": [
+        [
+            "Open", 
+            "Resolved", 
+            "111d 21h 5m"
+        ]
+    ], 
+    "NUTCH-1844": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 12h 39m"
+        ]
+    ], 
+    "NUTCH-1840": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 42m"
+        ]
+    ], 
+    "NUTCH-1842": [
+        [
+            "Open", 
+            "Resolved", 
+            "1520d 12h 52m"
+        ]
+    ], 
+    "NUTCH-2242": [
+        [
+            "Open", 
+            "Resolved", 
+            "152d 18h 7m"
+        ]
+    ], 
+    "NUTCH-2241": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 58s"
+        ]
+    ], 
+    "NUTCH-2715": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 1h 8m"
+        ]
+    ], 
+    "NUTCH-1500": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 23h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "126d 6h 30m"
+        ]
+    ], 
+    "NUTCH-2717": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 32m"
+        ]
+    ], 
+    "NUTCH-2716": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 9m"
+        ]
+    ], 
+    "NUTCH-2401": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 22m"
+        ]
+    ], 
+    "NUTCH-1692": [
+        [
+            "Open", 
+            "Resolved", 
+            "544d 14h 15m"
+        ]
+    ], 
+    "NUTCH-1699": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 15h"
+        ]
+    ], 
+    "NUTCH-436": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 12h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42s"
+        ]
+    ], 
+    "NUTCH-1983": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 49m"
+        ]
+    ], 
+    "NUTCH-433": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "83d 19h 52m"
+        ]
+    ], 
+    "NUTCH-2398": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 22h 20m"
+        ]
+    ], 
+    "NUTCH-430": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "93d 39m"
+        ]
+    ], 
+    "NUTCH-1596": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 6m"
+        ]
+    ], 
+    "NUTCH-2394": [
+        [
+            "Open", 
+            "Resolved", 
+            "134d 16h 34m"
+        ]
+    ], 
+    "NUTCH-2391": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 21h 20m"
+        ]
+    ], 
+    "NUTCH-1593": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 6m"
+        ]
+    ], 
+    "NUTCH-964": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "101d 6h 30m"
+        ]
+    ], 
+    "NUTCH-1604": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "296d 21h 31m"
+        ]
+    ], 
+    "NUTCH-1605": [
+        [
+            "Open", 
+            "Resolved", 
+            "363d 13m"
+        ]
+    ], 
+    "NUTCH-1603": [
+        [
+            "Open", 
+            "Resolved", 
+            "285d 1h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 15h 43m"
+        ]
+    ], 
+    "NUTCH-1600": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12m"
+        ]
+    ], 
+    "NUTCH-962": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 20h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 50m"
+        ]
+    ], 
+    "NUTCH-1439": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "299d 8h 31m"
+        ]
+    ], 
+    "NUTCH-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "738d 19h 31m"
+        ]
+    ], 
+    "NUTCH-1430": [
+        [
+            "Open", 
+            "Resolved", 
+            "331d 8m"
+        ]
+    ], 
+    "NUTCH-2436": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 49m"
+        ]
+    ], 
+    "NUTCH-1344": [
+        [
+            "Open", 
+            "Resolved", 
+            "172d 11h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 6h 34m"
+        ]
+    ], 
+    "NUTCH-1341": [
+        [
+            "Open", 
+            "Resolved", 
+            "186d 22h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "210d 14h 24m"
+        ]
+    ], 
+    "NUTCH-1182": [
+        [
+            "Open", 
+            "Resolved", 
+            "921d 1h 2m"
+        ]
+    ], 
+    "NUTCH-1029": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 20h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 7h 24m"
+        ]
+    ], 
+    "NUTCH-508": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 17h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "NUTCH-503": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "627d 13h 40m"
+        ]
+    ], 
+    "NUTCH-502": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "647d 11h 5m"
+        ]
+    ], 
+    "NUTCH-507": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "NUTCH-504": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "642d 10h 23m"
+        ]
+    ], 
+    "NUTCH-2483": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 53m"
+        ]
+    ], 
+    "NUTCH-2485": [
+        [
+            "Open", 
+            "Resolved", 
+            "195d 23h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "455d 23h 58m"
+        ]
+    ], 
+    "NUTCH-1939": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 35m"
+        ]
+    ], 
+    "NUTCH-2486": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "650d 23h 32m"
+        ]
+    ], 
+    "NUTCH-2489": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 12h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "600d 9h 12m"
+        ]
+    ], 
+    "NUTCH-2321": [
+        [
+            "Open", 
+            "Resolved", 
+            "466d 8h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "623d 20h 50m"
+        ]
+    ], 
+    "NUTCH-2322": [
+        [
+            "Open", 
+            "Resolved", 
+            "437d 2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4m 12s"
+        ]
+    ], 
+    "NUTCH-815": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 5m"
+        ]
+    ], 
+    "NUTCH-1232": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 21h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "505d 14h 37m"
+        ]
+    ], 
+    "NUTCH-1230": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "511d 13h 16m"
+        ]
+    ], 
+    "NUTCH-143": [
+        [
+            "Open", 
+            "Closed", 
+            "257d 7h 51m"
+        ]
+    ], 
+    "NUTCH-141": [
+        [
+            "Open", 
+            "Closed", 
+            "10h 40m"
+        ]
+    ], 
+    "NUTCH-146": [
+        [
+            "Open", 
+            "Resolved", 
+            "44m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 12h 47m"
+        ]
+    ], 
+    "NUTCH-1334": [
+        [
+            "Open", 
+            "Resolved", 
+            "379d 8h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 6h 7m"
+        ]
+    ], 
+    "NUTCH-405": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "147d 22h 23m"
+        ]
+    ], 
+    "NUTCH-756": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 3h 25m"
+        ]
+    ], 
+    "NUTCH-757": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 22h 50m"
+        ]
+    ], 
+    "NUTCH-618": [
+        [
+            "Open", 
+            "In Progress", 
+            "23h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "89d 7h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "296d 6h 47m"
+        ]
+    ], 
+    "NUTCH-616": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 19h 17m"
+        ]
+    ], 
+    "NUTCH-615": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 22h 4m"
+        ]
+    ], 
+    "NUTCH-613": [
+        [
+            "Open", 
+            "Closed", 
+            "24d 7h 54m"
+        ]
+    ], 
+    "NUTCH-612": [
+        [
+            "Open", 
+            "Closed", 
+            "27d 18h 47m"
+        ]
+    ], 
+    "NUTCH-1006": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 18h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "81d 6h 47m"
+        ]
+    ], 
+    "NUTCH-200": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 11h 1m"
+        ]
+    ], 
+    "NUTCH-145": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 12h 41m"
+        ]
+    ], 
+    "NUTCH-847": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 15s"
+        ]
+    ], 
+    "NUTCH-2614": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 22h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "447d 3h 49m"
+        ]
+    ], 
+    "NUTCH-2616": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 4h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "439d 1h 36m"
+        ]
+    ], 
+    "NUTCH-936": [
+        [
+            "Open", 
+            "Closed", 
+            "32d 23h 4m"
+        ]
+    ], 
+    "NUTCH-2598": [
+        [
+            "Open", 
+            "Resolved", 
+            "444d 17h 47m"
+        ]
+    ], 
+    "NUTCH-2597": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "466d 23h 51m"
+        ]
+    ], 
+    "NUTCH-1793": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 13m"
+        ]
+    ], 
+    "NUTCH-2593": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "482d 6h 40m"
+        ]
+    ], 
+    "NUTCH-2592": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "482d 6h 19m"
+        ]
+    ], 
+    "NUTCH-2590": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "486d 2h 10m"
+        ]
+    ], 
+    "NUTCH-379": [
+        [
+            "Open", 
+            "In Progress", 
+            "13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19d 23h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "176d 16m"
+        ]
+    ], 
+    "NUTCH-471": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 7h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "22d 5h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "16h 5m"
+        ]
+    ], 
+    "NUTCH-474": [
+        [
+            "Open", 
+            "Closed", 
+            "7h 23m"
+        ]
+    ], 
+    "NUTCH-374": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "199d 20h 5m"
+        ]
+    ], 
+    "NUTCH-912": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 5h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "123d 5h 49m"
+        ]
+    ], 
+    "NUTCH-2291": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 11m"
+        ]
+    ], 
+    "NUTCH-2119": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m 2s"
+        ]
+    ], 
+    "NUTCH-913": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 21h 5m"
+        ]
+    ], 
+    "NUTCH-275": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 12h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 20h 6m"
+        ]
+    ], 
+    "NUTCH-2295": [
+        [
+            "Open", 
+            "Resolved", 
+            "513d 23h 7m"
+        ]
+    ], 
+    "NUTCH-401": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 50m"
+        ]
+    ], 
+    "NUTCH-2505": [
+        [
+            "Open", 
+            "Resolved", 
+            "131d 11h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "480d 19h 5m"
+        ]
+    ], 
+    "NUTCH-1897": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 57m"
+        ]
+    ], 
+    "NUTCH-2509": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 23h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "546d 22h 20m"
+        ]
+    ], 
+    "NUTCH-2059": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10h 42m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "34d 6h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14m 56s"
+        ]
+    ], 
+    "NUTCH-1893": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 14h 15m"
+        ]
+    ], 
+    "NUTCH-1656": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 41m"
+        ]
+    ], 
+    "NUTCH-1475": [
+        [
+            "Open", 
+            "Resolved", 
+            "254d 16h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 3h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2303d 18h 35m"
+        ]
+    ], 
+    "NUTCH-2372": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 27m"
+        ]
+    ], 
+    "NUTCH-1476": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "222d 7h 10m"
+        ]
+    ], 
+    "NUTCH-1470": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "248d 4h 47m"
+        ]
+    ], 
+    "NUTCH-2084": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 42m"
+        ]
+    ], 
+    "NUTCH-2273": [
+        [
+            "Open", 
+            "Resolved", 
+            "720d 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "495d 22h 6m"
+        ]
+    ], 
+    "NUTCH-2680": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 6h 2m"
+        ]
+    ], 
+    "NUTCH-2687": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 54m"
+        ]
+    ], 
+    "NUTCH-986": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 12h 36m"
+        ]
+    ], 
+    "NUTCH-982": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "769d 8h 18m"
+        ]
+    ], 
+    "NUTCH-980": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 13h 37m"
+        ]
+    ], 
+    "NUTCH-833": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 17h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "44m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1060d 22h 18m"
+        ]
+    ], 
+    "NUTCH-871": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1022d 10h 34m"
+        ]
+    ], 
+    "NUTCH-1974": [
+        [
+            "Open", 
+            "In Progress", 
+            "18h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 13h 3m"
+        ]
+    ], 
+    "NUTCH-385": [
+        [
+            "Open", 
+            "Resolved", 
+            "2733d 1h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 12h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "80d 22h 58m"
+        ]
+    ], 
+    "NUTCH-384": [
+        [
+            "Open", 
+            "In Progress", 
+            "110d 13h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "39d 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4m 54s"
+        ]
+    ], 
+    "NUTCH-387": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 2h 15m"
+        ]
+    ], 
+    "NUTCH-2206": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 5h 22m"
+        ]
+    ], 
+    "NUTCH-1155": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 16h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "557d 12h 53m"
+        ]
+    ], 
+    "NUTCH-2203": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 57s"
+        ]
+    ], 
+    "NUTCH-388": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "150d 17h 46m"
+        ]
+    ], 
+    "NUTCH-126": [
+        [
+            "Open", 
+            "Closed", 
+            "847d 6h 4m"
+        ]
+    ], 
+    "NUTCH-1272": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "462d 15h 48m"
+        ]
+    ], 
+    "NUTCH-1074": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 22h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "87d 23h 20m"
+        ]
+    ], 
+    "NUTCH-793": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1191d 19h 43m"
+        ]
+    ], 
+    "NUTCH-797": [
+        [
+            "Open", 
+            "Resolved", 
+            "1523d 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 9h 13m"
+        ]
+    ], 
+    "NUTCH-794": [
+        [
+            "Open", 
+            "In Progress", 
+            "49m 51s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "43d 6h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1147d 10h 45m"
+        ]
+    ], 
+    "NUTCH-652": [
+        [
+            "Open", 
+            "Closed", 
+            "115d 35m"
+        ]
+    ], 
+    "NUTCH-654": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 1h 18m"
+        ]
+    ], 
+    "NUTCH-2478": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2h 5m"
+        ]
+    ], 
+    "NUTCH-554": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "NUTCH-1383": [
+        [
+            "Open", 
+            "Resolved", 
+            "123d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "222d 6h 48m"
+        ]
+    ], 
+    "NUTCH-2474": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 5h 55m"
+        ]
+    ], 
+    "NUTCH-1386": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "343d 17h 31m"
+        ]
+    ], 
+    "NUTCH-497": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 4h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24s"
+        ]
+    ], 
+    "NUTCH-1384": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 18h 23m"
+        ]
+    ], 
+    "NUTCH-2456": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 15h 47m"
+        ]
+    ], 
+    "NUTCH-269": [
+        [
+            "Open", 
+            "Resolved", 
+            "1333d 6h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1229d 15h 51m"
+        ]
+    ], 
+    "NUTCH-1209": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "544d 22h 2m"
+        ]
+    ], 
+    "NUTCH-862": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 2h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "977d 13h"
+        ]
+    ], 
+    "NUTCH-110": [
+        [
+            "Open", 
+            "Resolved", 
+            "250d 16h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 14h 1m"
+        ]
+    ], 
+    "NUTCH-2041": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 4h 35m"
+        ]
+    ], 
+    "NUTCH-112": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 3s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "52d 4h 19m"
+        ]
+    ], 
+    "NUTCH-727": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 22h 58m"
+        ]
+    ], 
+    "NUTCH-726": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 6h 39m"
+        ]
+    ], 
+    "NUTCH-725": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 45m"
+        ]
+    ], 
+    "NUTCH-723": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 23h 22m"
+        ]
+    ], 
+    "NUTCH-722": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 13h 46m"
+        ]
+    ], 
+    "NUTCH-721": [
+        [
+            "Open", 
+            "Closed", 
+            "160d 9h 17m"
+        ]
+    ], 
+    "NUTCH-876": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1014d 19h 18m"
+        ]
+    ], 
+    "NUTCH-873": [
+        [
+            "Open", 
+            "In Progress", 
+            "3s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1018d 4h 33m"
+        ]
+    ], 
+    "NUTCH-1752": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 10h 40m"
+        ]
+    ], 
+    "NUTCH-870": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 5h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 16h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "17h 43m"
+        ]
+    ], 
+    "NUTCH-1759": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 12h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 19h 18m"
+        ]
+    ], 
+    "NUTCH-878": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1015d 12h 29m"
+        ]
+    ], 
+    "NUTCH-336": [
+        [
+            "Open", 
+            "Closed", 
+            "53d 7m"
+        ]
+    ], 
+    "NUTCH-337": [
+        [
+            "Open", 
+            "Closed", 
+            "52d 18h 52m"
+        ]
+    ], 
+    "NUTCH-2357": [
+        [
+            "Open", 
+            "In Progress", 
+            "35d 9h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "39s"
+        ]
+    ], 
+    "NUTCH-332": [
+        [
+            "Open", 
+            "Closed", 
+            "56d 15h 32m"
+        ]
+    ], 
+    "NUTCH-333": [
+        [
+            "Open", 
+            "Resolved", 
+            "247d 20h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40s"
+        ]
+    ], 
+    "NUTCH-235": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 4h 3m"
+        ]
+    ], 
+    "NUTCH-494": [
+        [
+            "Open", 
+            "Resolved", 
+            "161d 10h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "NUTCH-231": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 22h 22m"
+        ]
+    ], 
+    "NUTCH-233": [
+        [
+            "Open", 
+            "Resolved", 
+            "358d 11h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3h 58m"
+        ]
+    ], 
+    "NUTCH-232": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 18h 22m"
+        ]
+    ], 
+    "NUTCH-2154": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 34m"
+        ]
+    ], 
+    "NUTCH-2017": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 10h 59m"
+        ]
+    ], 
+    "NUTCH-2014": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 18m"
+        ]
+    ], 
+    "NUTCH-2013": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 11m"
+        ]
+    ], 
+    "NUTCH-2159": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 35m"
+        ]
+    ], 
+    "NUTCH-1854": [
+        [
+            "Open", 
+            "Resolved", 
+            "205d 18h 23m"
+        ]
+    ], 
+    "NUTCH-19": [
+        [
+            "Open", 
+            "Closed", 
+            "22d 4h 55m"
+        ]
+    ], 
+    "NUTCH-10": [
+        [
+            "Open", 
+            "Closed", 
+            "155d 20h 55m"
+        ]
+    ], 
+    "NUTCH-2724": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 19h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "NUTCH-1100": [
+        [
+            "Open", 
+            "Resolved", 
+            "804d 3h 10m"
+        ]
+    ], 
+    "NUTCH-1102": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 22h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "97d 30m"
+        ]
+    ], 
+    "NUTCH-2232": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 58s"
+        ]
+    ], 
+    "NUTCH-2722": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 3h 46m"
+        ]
+    ], 
+    "NUTCH-2723": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 22h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "NUTCH-2729": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 17h 4m"
+        ]
+    ], 
+    "NUTCH-428": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "95d 17h 29m"
+        ]
+    ], 
+    "NUTCH-584": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "NUTCH-420": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 10h 31m"
+        ]
+    ], 
+    "NUTCH-425": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 39m"
+        ]
+    ], 
+    "NUTCH-426": [
+        [
+            "Open", 
+            "Closed", 
+            "20h 47m"
+        ]
+    ], 
+    "NUTCH-341": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 14h 29m"
+        ]
+    ], 
+    "NUTCH-340": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 1h 53m"
+        ]
+    ], 
+    "NUTCH-344": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 20h 21m"
+        ]
+    ], 
+    "NUTCH-347": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 11h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "243d 49m"
+        ]
+    ], 
+    "NUTCH-348": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 9h 6m"
+        ]
+    ], 
+    "NUTCH-1587": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 13h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "119d 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "160d 8h 16m"
+        ]
+    ], 
+    "NUTCH-1580": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 9h 10m"
+        ]
+    ], 
+    "NUTCH-2650": [
+        [
+            "Open", 
+            "Resolved", 
+            "225d 1h 56m"
+        ]
+    ], 
+    "NUTCH-2123": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 17h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 38s"
+        ]
+    ], 
+    "NUTCH-2652": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 12m"
+        ]
+    ], 
+    "NUTCH-2121": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 10s"
+        ]
+    ], 
+    "NUTCH-2655": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 20h 14m"
+        ]
+    ], 
+    "NUTCH-2124": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 5h"
+        ]
+    ], 
+    "NUTCH-2553": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 8h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "527d 21h 53m"
+        ]
+    ], 
+    "NUTCH-2552": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 8h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "527d 22h 4m"
+        ]
+    ], 
+    "NUTCH-2551": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "537d 1h 25m"
+        ]
+    ], 
+    "NUTCH-2550": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "538d 15h 37m"
+        ]
+    ], 
+    "NUTCH-972": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 1h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "78d 1h 47m"
+        ]
+    ], 
+    "NUTCH-1613": [
+        [
+            "Open", 
+            "Resolved", 
+            "299d 15h 13m"
+        ]
+    ], 
+    "NUTCH-2554": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "540d 43m"
+        ]
+    ], 
+    "NUTCH-2349": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 20h 4m"
+        ]
+    ], 
+    "NUTCH-1408": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "330d 13h 10m"
+        ]
+    ], 
+    "NUTCH-1404": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "336d 14h 29m"
+        ]
+    ], 
+    "NUTCH-1400": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "335d 18h 24m"
+        ]
+    ], 
+    "NUTCH-1030": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 10h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 11h 3m"
+        ]
+    ], 
+    "NUTCH-695": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 10h 1m"
+        ]
+    ], 
+    "NUTCH-694": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 13h 25m"
+        ]
+    ], 
+    "NUTCH-518": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "25m 51s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "565d 18h 46m"
+        ]
+    ], 
+    "NUTCH-515": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "619d 14h 8m"
+        ]
+    ], 
+    "NUTCH-516": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 20h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 17m"
+        ]
+    ], 
+    "NUTCH-517": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21s"
+        ]
+    ], 
+    "NUTCH-698": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 10h 17m"
+        ]
+    ], 
+    "NUTCH-2337": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 34m"
+        ]
+    ], 
+    "NUTCH-1536": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 7h 59m"
+        ]
+    ], 
+    "NUTCH-1245": [
+        [
+            "Open", 
+            "Resolved", 
+            "532d 4h 34m"
+        ]
+    ], 
+    "NUTCH-1243": [
+        [
+            "Open", 
+            "Resolved", 
+            "494d 3h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 12h 41m"
+        ]
+    ], 
+    "NUTCH-1320": [
+        [
+            "Open", 
+            "Resolved", 
+            "72d 5h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "348d 9h 4m"
+        ]
+    ], 
+    "NUTCH-150": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 18h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "290d 8h 49m"
+        ]
+    ], 
+    "NUTCH-151": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 15h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "285d 14h 5m"
+        ]
+    ], 
+    "NUTCH-606": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "409d 5h 36m"
+        ]
+    ], 
+    "NUTCH-607": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "412d 1h 46m"
+        ]
+    ], 
+    "NUTCH-44": [
+        [
+            "Open", 
+            "Resolved", 
+            "1036d"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1138d 8h 28m"
+        ]
+    ], 
+    "NUTCH-46": [
+        [
+            "Open", 
+            "Closed", 
+            "86d 11h 23m"
+        ]
+    ], 
+    "NUTCH-1811": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 58m"
+        ]
+    ], 
+    "NUTCH-1818": [
+        [
+            "Open", 
+            "Resolved", 
+            "41m 47s"
+        ]
+    ], 
+    "NUTCH-419": [
+        [
+            "Open", 
+            "Closed", 
+            "798d 20h 26m"
+        ]
+    ], 
+    "NUTCH-907": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 21h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "943d 15h 51m"
+        ]
+    ], 
+    "NUTCH-904": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 21h 52m"
+        ]
+    ], 
+    "NUTCH-2565": [
+        [
+            "Open", 
+            "Resolved", 
+            "72d 3h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "466d 23h 44m"
+        ]
+    ], 
+    "NUTCH-1786": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 10m"
+        ]
+    ], 
+    "NUTCH-2568": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 16h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "527d 21h 45m"
+        ]
+    ], 
+    "NUTCH-2569": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 15h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 3h 17m"
+        ]
+    ], 
+    "NUTCH-305": [
+        [
+            "Open", 
+            "Resolved", 
+            "165d 4h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "147d 21h 4m"
+        ]
+    ], 
+    "NUTCH-307": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "124d 12h 52m"
+        ]
+    ], 
+    "NUTCH-306": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 18h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 13h 40m"
+        ]
+    ], 
+    "NUTCH-302": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 2h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 14h 19m"
+        ]
+    ], 
+    "NUTCH-263": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 20h 41m"
+        ]
+    ], 
+    "NUTCH-268": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 23h 2m"
+        ]
+    ], 
+    "NUTCH-2165": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 44m"
+        ]
+    ], 
+    "NUTCH-2517": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 21h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 3h 20m"
+        ]
+    ], 
+    "NUTCH-832": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 10h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1061d 5h 53m"
+        ]
+    ], 
+    "NUTCH-2042": [
+        [
+            "Open", 
+            "Resolved", 
+            "173d 6h 29m"
+        ]
+    ], 
+    "NUTCH-1866": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 41m"
+        ]
+    ], 
+    "NUTCH-1715": [
+        [
+            "Open", 
+            "Resolved", 
+            "19m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "96d 12h 34m"
+        ]
+    ], 
+    "NUTCH-835": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1055d 15h 42m"
+        ]
+    ], 
+    "NUTCH-1865": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 7h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 17h 57m"
+        ]
+    ], 
+    "NUTCH-1718": [
+        [
+            "Open", 
+            "Resolved", 
+            "143d 13h 22m"
+        ]
+    ], 
+    "NUTCH-2518": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "545d 3h 29m"
+        ]
+    ], 
+    "NUTCH-2269": [
+        [
+            "Open", 
+            "Resolved", 
+            "311d 1h 52m"
+        ]
+    ], 
+    "NUTCH-1562": [
+        [
+            "Open", 
+            "Resolved", 
+            "172d 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "205d 20h 14m"
+        ]
+    ], 
+    "NUTCH-1566": [
+        [
+            "Open", 
+            "Resolved", 
+            "432d 23h 55m"
+        ]
+    ], 
+    "NUTCH-2618": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "439d 1h 30m"
+        ]
+    ], 
+    "NUTCH-993": [
+        [
+            "Open", 
+            "Resolved", 
+            "64d 3h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "166d 21h 43m"
+        ]
+    ], 
+    "NUTCH-996": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 16h 2m"
+        ]
+    ], 
+    "NUTCH-415": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 11h 37m"
+        ]
+    ], 
+    "NUTCH-1968": [
+        [
+            "Open", 
+            "In Progress", 
+            "19h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 13m"
+        ]
+    ], 
+    "NUTCH-1967": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 29m"
+        ]
+    ], 
+    "NUTCH-2609": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 19h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "460d 3h 20m"
+        ]
+    ], 
+    "NUTCH-393": [
+        [
+            "Open", 
+            "Resolved", 
+            "194d 12h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "688d 50m"
+        ]
+    ], 
+    "NUTCH-390": [
+        [
+            "Open", 
+            "In Progress", 
+            "97d 15h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 5s"
+        ]
+    ], 
+    "NUTCH-391": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "176d 1h 16m"
+        ]
+    ], 
+    "NUTCH-2601": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "466d 23h 34m"
+        ]
+    ], 
+    "NUTCH-2607": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "460d 4h 31m"
+        ]
+    ], 
+    "NUTCH-2606": [
+        [
+            "Open", 
+            "Resolved", 
+            "152d 10h 49m"
+        ]
+    ]
+}

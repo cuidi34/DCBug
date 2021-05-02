@@ -1,0 +1,969 @@
+{
+    "HAMA-739": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 37s"
+        ]
+    ], 
+    "HAMA-812": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 23h 46m"
+        ]
+    ], 
+    "HAMA-730": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 33s"
+        ]
+    ], 
+    "HAMA-731": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 20h 21m"
+        ]
+    ], 
+    "HAMA-957": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 4h 2m"
+        ]
+    ], 
+    "HAMA-952": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 17h 43m"
+        ]
+    ], 
+    "HAMA-950": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 17h 22m"
+        ]
+    ], 
+    "HAMA-951": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 8m"
+        ]
+    ], 
+    "HAMA-667": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 12m"
+        ]
+    ], 
+    "HAMA-659": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "31s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 36m"
+        ]
+    ], 
+    "HAMA-782": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 51m"
+        ]
+    ], 
+    "HAMA-780": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 10h 24m"
+        ]
+    ], 
+    "HAMA-789": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 15h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "44d 3h 47m"
+        ]
+    ], 
+    "HAMA-657": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 17m"
+        ]
+    ], 
+    "HAMA-821": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 9m"
+        ]
+    ], 
+    "HAMA-729": [
+        [
+            "Open", 
+            "Resolved", 
+            "17m 12s"
+        ]
+    ], 
+    "HAMA-943": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 58m"
+        ]
+    ], 
+    "HAMA-947": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 11h 49m"
+        ]
+    ], 
+    "HAMA-628": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 42m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "3m 5s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "19h 16m"
+        ]
+    ], 
+    "HAMA-621": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 34m"
+        ]
+    ], 
+    "HAMA-834": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 11h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 9h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22h 3m"
+        ]
+    ], 
+    "HAMA-837": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 17h 59m"
+        ]
+    ], 
+    "HAMA-757": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 59m"
+        ]
+    ], 
+    "HAMA-831": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 2m"
+        ]
+    ], 
+    "HAMA-830": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 14m"
+        ]
+    ], 
+    "HAMA-682": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 4m"
+        ]
+    ], 
+    "HAMA-935": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 8h 58m"
+        ]
+    ], 
+    "HAMA-931": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 2h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 10m"
+        ]
+    ], 
+    "HAMA-635": [
+        [
+            "Patch Available", 
+            "Open", 
+            "24m 24s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 7m"
+        ]
+    ], 
+    "HAMA-633": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 25m"
+        ]
+    ], 
+    "HAMA-437": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 13h 7m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 48m"
+        ]
+    ], 
+    "HAMA-745": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 32m"
+        ]
+    ], 
+    "HAMA-929": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 12m"
+        ]
+    ], 
+    "HAMA-928": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 23h 23m"
+        ]
+    ], 
+    "HAMA-922": [
+        [
+            "Open", 
+            "Resolved", 
+            "141d 8h 57m"
+        ]
+    ], 
+    "HAMA-844": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 13m"
+        ]
+    ], 
+    "HAMA-845": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 17h 48m"
+        ]
+    ], 
+    "HAMA-595": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 32m"
+        ]
+    ], 
+    "HAMA-590": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 6h 20m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10h 43m"
+        ]
+    ], 
+    "HAMA-1002": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "67d 16h 11m"
+        ]
+    ], 
+    "HAMA-608": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 20m"
+        ]
+    ], 
+    "HAMA-661": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 3s"
+        ]
+    ], 
+    "HAMA-662": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 39m"
+        ]
+    ], 
+    "HAMA-911": [
+        [
+            "Open", 
+            "Resolved", 
+            "217d 18h 50m"
+        ]
+    ], 
+    "HAMA-755": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 1h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 4m"
+        ]
+    ], 
+    "HAMA-668": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 23h 16m"
+        ]
+    ], 
+    "HAMA-669": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 48m"
+        ]
+    ], 
+    "HAMA-756": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "3h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 10m"
+        ]
+    ], 
+    "HAMA-857": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 2h 16m"
+        ]
+    ], 
+    "HAMA-855": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 4h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "27d 19h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6h 21m"
+        ]
+    ], 
+    "HAMA-905": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 23m"
+        ]
+    ], 
+    "HAMA-906": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 11m"
+        ]
+    ], 
+    "HAMA-677": [
+        [
+            "Open", 
+            "Resolved", 
+            "479d 20h 36m"
+        ]
+    ], 
+    "HAMA-678": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 52s"
+        ]
+    ], 
+    "HAMA-909": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 27m"
+        ]
+    ], 
+    "HAMA-153": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 1h 29m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 17m"
+        ]
+    ], 
+    "HAMA-867": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 3m"
+        ]
+    ], 
+    "HAMA-862": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17h 30m"
+        ]
+    ], 
+    "HAMA-860": [
+        [
+            "Open", 
+            "In Progress", 
+            "45s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 34m"
+        ]
+    ], 
+    "HAMA-986": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 50m"
+        ]
+    ], 
+    "HAMA-981": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 23h 39m"
+        ]
+    ], 
+    "HAMA-980": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 23m"
+        ]
+    ], 
+    "HAMA-868": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 7h 51m"
+        ]
+    ], 
+    "HAMA-982": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 18h 41m"
+        ]
+    ], 
+    "HAMA-270": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5h 25m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 50m"
+        ]
+    ], 
+    "HAMA-465": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 22h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 4m"
+        ]
+    ], 
+    "HAMA-772": [
+        [
+            "Open", 
+            "Resolved", 
+            "81d 3h 35m"
+        ]
+    ], 
+    "HAMA-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 18h 9m"
+        ]
+    ], 
+    "HAMA-776": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 13h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "HAMA-777": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 12h 19m"
+        ]
+    ], 
+    "HAMA-878": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 53m"
+        ]
+    ], 
+    "HAMA-712": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "37m 51s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "96d 8h 7m"
+        ]
+    ], 
+    "HAMA-874": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 18h 17m"
+        ]
+    ], 
+    "HAMA-716": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16h 34m"
+        ]
+    ], 
+    "HAMA-488": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 10h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "27m 38s"
+        ]
+    ], 
+    "HAMA-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "41m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11m 1s"
+        ]
+    ], 
+    "HAMA-973": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 19m"
+        ]
+    ], 
+    "HAMA-979": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 21h 22m"
+        ]
+    ], 
+    "HAMA-482": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 34s"
+        ]
+    ], 
+    "HAMA-246": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h"
+        ]
+    ], 
+    "HAMA-476": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 12h 52m"
+        ]
+    ], 
+    "HAMA-769": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 15h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 37m"
+        ]
+    ], 
+    "HAMA-574": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 45s"
+        ]
+    ], 
+    "HAMA-709": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 6h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 22h 40m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "19h 36m"
+        ]
+    ], 
+    "HAMA-809": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 16h 18m"
+        ]
+    ], 
+    "HAMA-805": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 48m"
+        ]
+    ], 
+    "HAMA-801": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 5h 38m"
+        ]
+    ], 
+    "HAMA-963": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 7h 9m"
+        ]
+    ], 
+    "HAMA-967": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 31m"
+        ]
+    ], 
+    "HAMA-966": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 25s"
+        ]
+    ], 
+    "HAMA-965": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "36m 54s"
+        ]
+    ], 
+    "HAMA-969": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 18h 13m"
+        ]
+    ], 
+    "HAMA-885": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 33m"
+        ]
+    ], 
+    "HAMA-889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 54m"
+        ]
+    ], 
+    "HAMA-791": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 6m"
+        ]
+    ], 
+    "HAMA-989": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 49m"
+        ]
+    ]
+}

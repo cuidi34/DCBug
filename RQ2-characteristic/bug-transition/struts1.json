@@ -1,0 +1,792 @@
+{
+    "STR-2971": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 14h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "218d 23h 6m"
+        ]
+    ], 
+    "STR-2998": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 9h 6m"
+        ]
+    ], 
+    "STR-2955": [
+        [
+            "Open", 
+            "Resolved", 
+            "60d 21h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 12h 16m"
+        ]
+    ], 
+    "STR-3179": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 5m"
+        ]
+    ], 
+    "STR-2855": [
+        [
+            "Open", 
+            "Closed", 
+            "56m 5s"
+        ]
+    ], 
+    "STR-2977": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "218d 12h 59m"
+        ]
+    ], 
+    "STR-2979": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 20h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "137d 4h 24m"
+        ]
+    ], 
+    "STR-2996": [
+        [
+            "Open", 
+            "Closed", 
+            "28d 1h 54m"
+        ]
+    ], 
+    "STR-2997": [
+        [
+            "Open", 
+            "Closed", 
+            "24d 19h 14m"
+        ]
+    ], 
+    "STR-2959": [
+        [
+            "Open", 
+            "Closed", 
+            "254d 17h 54m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 13h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "19d 16h 35m"
+        ]
+    ], 
+    "STR-2973": [
+        [
+            "Open", 
+            "Resolved", 
+            "59m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "235d 14h 34m"
+        ]
+    ], 
+    "STR-2893": [
+        [
+            "Open", 
+            "Resolved", 
+            "369d 6h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "795d 12h 29m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "18d 12h 47m"
+        ]
+    ], 
+    "STR-2870": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 22h 1m"
+        ]
+    ], 
+    "MNG-1527": [
+        [
+            "Open", 
+            "Closed", 
+            "179d 4h 10m"
+        ]
+    ], 
+    "STR-3110": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 38m"
+        ]
+    ], 
+    "STR-3174": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 28m"
+        ]
+    ], 
+    "STR-3173": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 7m"
+        ]
+    ], 
+    "STR-3011": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 3h 46m"
+        ]
+    ], 
+    "STR-3076": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 14m"
+        ]
+    ], 
+    "STR-3052": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 14h 59m"
+        ]
+    ], 
+    "STR-2877": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 5h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "400d 13h 24m"
+        ]
+    ], 
+    "STR-3070": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 23m"
+        ]
+    ], 
+    "STR-3029": [
+        [
+            "Open", 
+            "Closed", 
+            "23d 6h 38m"
+        ]
+    ], 
+    "STR-2854": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 9h 38m"
+        ]
+    ], 
+    "STR-2917": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "343d 2h 12m"
+        ]
+    ], 
+    "STR-2630": [
+        [
+            "Open", 
+            "Resolved", 
+            "734d 15h 7m"
+        ]
+    ], 
+    "STR-3191": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 7h 14m"
+        ]
+    ], 
+    "STR-2493": [
+        [
+            "Open", 
+            "Resolved", 
+            "357d 19h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "399d 15h 30m"
+        ]
+    ], 
+    "STR-2972": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 18h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "227d 18h 30m"
+        ]
+    ], 
+    "STR-3097": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 10s"
+        ]
+    ], 
+    "STR-2826": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 7h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11h 49m"
+        ]
+    ], 
+    "STR-2809": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 12h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "422d 14h 27m"
+        ]
+    ], 
+    "STR-2741": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 10h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "31m 12s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "422d 23h 33m"
+        ]
+    ], 
+    "STR-3093": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 19h 40m"
+        ]
+    ], 
+    "STR-2805": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 18h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 15h 46m"
+        ]
+    ], 
+    "STR-2925": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 22h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 15h 12m"
+        ]
+    ], 
+    "STR-2700": [
+        [
+            "Open", 
+            "Resolved", 
+            "559d 14h 15m"
+        ]
+    ], 
+    "STR-2922": [
+        [
+            "Open", 
+            "Resolved", 
+            "113d 21h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 14h 10m"
+        ]
+    ], 
+    "STR-2802": [
+        [
+            "Open", 
+            "Closed", 
+            "368d 5h 5m"
+        ]
+    ], 
+    "STR-2920": [
+        [
+            "Open", 
+            "Resolved", 
+            "119d 1h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 14h 10m"
+        ]
+    ], 
+    "STR-2866": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "421d 14m"
+        ]
+    ], 
+    "STR-2843": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 14h 51m"
+        ]
+    ], 
+    "STR-2967": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "244d 2h 7m"
+        ]
+    ], 
+    "STR-2966": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 7h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "235d 14h 35m"
+        ]
+    ], 
+    "STR-2793": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 9h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "422d 13h 8m"
+        ]
+    ], 
+    "STR-2985": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "209d 22h 21m"
+        ]
+    ], 
+    "STR-2724": [
+        [
+            "Open", 
+            "Resolved", 
+            "108d 20h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 15h 1m"
+        ]
+    ], 
+    "STR-2987": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "206d 28m"
+        ]
+    ], 
+    "STR-2496": [
+        [
+            "Open", 
+            "Resolved", 
+            "355d 15h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "399d 15h 32m"
+        ]
+    ], 
+    "STR-2876": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "415d 3h 13m"
+        ]
+    ], 
+    "STR-3026": [
+        [
+            "Open", 
+            "Resolved", 
+            "137d 4h 59m"
+        ]
+    ], 
+    "STR-3146": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 25m"
+        ]
+    ], 
+    "STR-3169": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 12h 46m"
+        ]
+    ], 
+    "STR-2960": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "260d 4h 9m"
+        ]
+    ], 
+    "STR-2883": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "390d 1h 13m"
+        ]
+    ], 
+    "STR-2995": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 1h 40m"
+        ]
+    ], 
+    "STR-3160": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 15m"
+        ]
+    ], 
+    "STR-3161": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 11m"
+        ]
+    ], 
+    "STR-2509": [
+        [
+            "Open", 
+            "Resolved", 
+            "313d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "424d 13h 56m"
+        ]
+    ], 
+    "STR-3144": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 45m"
+        ]
+    ], 
+    "STR-2903": [
+        [
+            "Open", 
+            "Resolved", 
+            "146d 6h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 13h 55m"
+        ]
+    ], 
+    "STR-2795": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 11h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 17h 7m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "8m 42s"
+        ]
+    ], 
+    "STR-1674": [
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1419d 13h 23m"
+        ]
+    ], 
+    "STR-2879": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "409d 28m"
+        ]
+    ], 
+    "STR-2872": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "419d 17h 3m"
+        ]
+    ], 
+    "STR-3084": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 34m"
+        ]
+    ], 
+    "STR-2831": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 16h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 15h 32m"
+        ]
+    ], 
+    "STR-3082": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 54m"
+        ]
+    ], 
+    "STR-3010": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 12h 30m"
+        ]
+    ], 
+    "STR-2935": [
+        [
+            "Open", 
+            "Resolved", 
+            "59m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "312d 9h 58m"
+        ]
+    ], 
+    "STR-2936": [
+        [
+            "Open", 
+            "Resolved", 
+            "47m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "312d 10h"
+        ]
+    ], 
+    "STR-3081": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 2h 11m"
+        ]
+    ], 
+    "STR-2698": [
+        [
+            "Open", 
+            "Resolved", 
+            "128d 5h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 15h 13m"
+        ]
+    ], 
+    "STR-2932": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 1h 18m"
+        ]
+    ], 
+    "STR-3088": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h"
+        ]
+    ]
+}

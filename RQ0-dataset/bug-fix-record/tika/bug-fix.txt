@@ -1,0 +1,2373 @@
+{
+    "TIKA-811": [
+        "8630e56468e1d25920030251d9d97a862cc719f3"
+    ], 
+    "TIKA-1063": [
+        "ce710eb27e10f3fe9bc2e2d30a72533bfa20c0a5", 
+        "794595c85cffc6cc811c60b1d8ae6fd3a341bcb1"
+    ], 
+    "TIKA-1061": [
+        "d45386ed08ec5e15edc0827459d030d7bdf4e951"
+    ], 
+    "TIKA-1109": [
+        "5dd29c4fd97c9a9de8d716e52e4998db1e92176d"
+    ], 
+    "TIKA-392": [
+        "728a218d7ea8c0f478cdbd1235e675ed7905314a", 
+        "d64fb550f400597267382abd95e5bd7c3805fb5b", 
+        "bbd3cd3e96c1c09bba0e6e8b3974cb67cff251cb"
+    ], 
+    "TIKA-2307": [
+        "dd515914e5b2986247834307eb7c922c3c2c50a9", 
+        "6205742a935ddd73093aa10a6601c14a259998a0", 
+        "58e18463c050574198944c909a97eeccd8fb48d7", 
+        "c4660b4f7debf7870742ba4e1da296c20dca1292"
+    ], 
+    "TIKA-391": [
+        "6f48f57a6a0f21e6589a1d512a25574425dcc4cb"
+    ], 
+    "TIKA-2717": [
+        "f18d267362d42e3589449cafcebbac15ab3a8a36"
+    ], 
+    "TIKA-1960": [
+        "19ed2619444af53d1108e1e1243ef8746a165455", 
+        "64b7ded37f981e298fcb62a996cbaf4ccabb2a96"
+    ], 
+    "TIKA-2719": [
+        "b99086ef54ada9fff2ca54c46528a204d6c36fc1"
+    ], 
+    "TIKA-398": [
+        "229b78fc5ea29a7a9be66fd1255f69ef6289714f"
+    ], 
+    "TIKA-2097": [
+        "308d26fb297c6248f98d777b7a94192fc0ecfce2"
+    ], 
+    "TIKA-401": [
+        "2e6dc433b6f2fb35b16963aca585ec3b8e5c407a"
+    ], 
+    "TIKA-404": [
+        "9d31098ffa9f9779a28a7cee1b471c71f67b4266", 
+        "a918dd64f4b96c362cf3648ebc9fbb6ec4eeca60", 
+        "648b5bf9544ea72be5a9597802a17fc5acb44e1f"
+    ], 
+    "TIKA-409": [
+        "5ec7c5164ac197771b1f0ab6686189c19385e5f3"
+    ], 
+    "TIKA-2098": [
+        "2df68c84b043f3158c0bdfa63d1a0c8d44d7e18a", 
+        "9b497d1fef2fe183b2099f1a835113dade8a0227", 
+        "0a4b0e80bad54e88c1f76cf8f37810757b1b34c9", 
+        "c33ac04618f97c06fe4508b5d41465b2c11ba1b9"
+    ], 
+    "TIKA-2099": [
+        "a194bc4ba2b771807e93e664245f24e3573a15df"
+    ], 
+    "TIKA-1563": [
+        "d7156b1f4155c721b608ba2a727eb6105a2558a1"
+    ], 
+    "TIKA-1562": [
+        "2867f73dbf08644d1113ba4c3e40ba72572cb36c", 
+        "f54cb9e354b71e720602acfa0b4da8f100b400c2"
+    ], 
+    "TIKA-2399": [
+        "f776c2479f8e7ab1134669fad1e25fd38bd82466"
+    ], 
+    "TIKA-1400": [
+        "9688c77128e5c3d53c1eeb4e72db62ff10dfafda"
+    ], 
+    "TIKA-1568": [
+        "7175b9027fb4c8566822c57b428363bc35893d74"
+    ], 
+    "TIKA-1404": [
+        "79db92bece9695d5841626dcd94579a6ec84b70c"
+    ], 
+    "TIKA-781": [
+        "ad78ecd3a85fcfc61b22cb045b3881cc9c170b13"
+    ], 
+    "TIKA-787": [
+        "f8e3364bfd7fa5d4d80c7b249894ebbe6a146b85"
+    ], 
+    "TIKA-786": [
+        "482cf37542e4fe863d4563e512663c9228a6d9c1", 
+        "2b39c7599a9930f8847f8839e9612ae5cdc56407", 
+        "ba101bb023a9553d0b5c22b0b625d0a0f1b8a707", 
+        "78f6eac056f8298cdcb80381a1628023a2392a4d"
+    ], 
+    "TIKA-1589": [
+        "671b314b1c25c3d4b390a61ef6c0d7d03b062806"
+    ], 
+    "TIKA-1581": [
+        "383208c193f5ed317c5ce928d15c84bd31f48cb9", 
+        "8a945810f8164828a6fd4a130f1bb17139f5cf1b", 
+        "de00e27abdba193cace29950dd75edb2f44cd766"
+    ], 
+    "TIKA-2231": [
+        "c978a1195b0b910f523468d51d73e54caba535c0", 
+        "02eae6d5c03d2ed1b23273536c92ea6c40648579", 
+        "5c51534a5731dba0ed22bc04b7da9d95adfb6f50"
+    ], 
+    "TIKA-2237": [
+        "a38a2b093c7f4f1128dd987663c4406fcd019cd8"
+    ], 
+    "TIKA-2625": [
+        "d502a4b31348a0176a3999f07cf970bfa6a9dac1"
+    ], 
+    "TIKA-2626": [
+        "c8b9b4409c72ded92d588660274977d5a6fdb539"
+    ], 
+    "TIKA-309": [
+        "246ab61ce2842d869ef802c04f38527afa907dfa", 
+        "98a96dae4038d6e4f1642e175e4b22800d8608d4", 
+        "bc54bef34c15ef306395ab6da3ad7271f5d516e1", 
+        "e5b3736215763861aa219cbaaea16e12b42ffcfb", 
+        "995d275ab2bd7c90b8adfc2f03f1cf97c3a7744a", 
+        "39469baa4c0a991b171dd71b36f65c205058e462", 
+        "987ec1d66d8f7e0047e4a1ef5399e440a15877a2"
+    ], 
+    "TIKA-659": [
+        "8c5858702a84042a76ade840d8b94a9717b51bc5"
+    ], 
+    "TIKA-657": [
+        "1aaac7faa4c43a53231492df115abce3301a5922", 
+        "02ec12f6b89d247905e63df050349c80ba70735d"
+    ], 
+    "TIKA-656": [
+        "8ef4561642c3b0b4173480b82708e192ac06d2a3", 
+        "469aa10c4736a905e343fe77e64fa9c7bec843b6", 
+        "5716665ac46861acb3b14fd56ed8b91d6ddc91f8", 
+        "6af91c661f3dbebcb599b67635fe858a26576ee0"
+    ], 
+    "TIKA-2780": [
+        "760eba3eeb3e4240a282d069a8a2f357295edf86", 
+        "dfe737c94bb71fe415fb6fa4fae505a73bd2e654"
+    ], 
+    "TIKA-654": [
+        "5119a98a67b6b30fa93614ebe8df0ef950df357e", 
+        "3e0191d232a8574083f3648f2b6b8590ac132c15"
+    ], 
+    "TIKA-651": [
+        "77ebfcd04dfb16f9f856dbcf6fe9098217c779c3", 
+        "fcde81cfbf6f7d4a7ba4e148471f1ce622d59f92"
+    ], 
+    "TIKA-650": [
+        "77c7847b54d396de91f281f4c58ff69d67ee9910"
+    ], 
+    "TIKA-717": [
+        "f60f1843320a4b9b9a9bd33b2ee57b5e44a8c070", 
+        "fdb902bcea910756c9f498b0db9bf3a1870cb2f2", 
+        "2f7241d842c56bc1a32e20a9f766f9a54eb80949"
+    ], 
+    "TIKA-1669": [
+        "761273f9e69c4a7595e50ccd6a2d9304c398d0b1"
+    ], 
+    "TIKA-1500": [
+        "f3df5ae5a98c31220a5946b70daa3fc2fd3752b2"
+    ], 
+    "TIKA-711": [
+        "af7df6bfaedc6b097a91eda6c789e5ee576401f6", 
+        "70d59d1b7c47a5f9f384218dec1ebe2b6b1680a8"
+    ], 
+    "TIKA-1664": [
+        "444dadd5eb090f6e2998507e444b2014905cb90f"
+    ], 
+    "TIKA-877": [
+        "44d14a51ff1c93fc597aa85fc828507d214269d3", 
+        "e91ba0c53057f51623ede0a4c0440f7651444501"
+    ], 
+    "TIKA-1035": [
+        "01c02e671a82fc89fca8748175a741a5c5605962", 
+        "771e368ba531ef5063b89811d98a3c756920f870"
+    ], 
+    "TIKA-875": [
+        "b11403daaddbbfd5385180a611b84ed5d131772e"
+    ], 
+    "TIKA-2300": [
+        "f55b87fc5cb91a9e9ee067e3c1c68dff691d48a5"
+    ], 
+    "TIKA-395": [
+        "cca6e63be096b1f1225ff7dea5336ee2048cb41b"
+    ], 
+    "TIKA-973": [
+        "ffc3b3cc73f7f931ac82425d9a0803e1c672aba3", 
+        "dcbe0d27ed0575fab0f2176503e5a5bc1014dfe2"
+    ], 
+    "PDFBOX-1749": [
+        "c183694b20f785371539284a3d6f84d29dceea68"
+    ], 
+    "TIKA-2433": [
+        "f31b7f1e281938c393f159cd4a76f3396291e7b6"
+    ], 
+    "TIKA-2438": [
+        "4e03f90cf0a20375819f33371ec094386a744f36"
+    ], 
+    "TIKA-570": [
+        "a78e2987289ea5fd6e95f9ce4fef05c59c773364"
+    ], 
+    "TIKA-378": [
+        "6ef60c2efd0c2607c400ac8b9e66d605a4ea2267", 
+        "6e4a971e7f747f134b1b9a213ef6fb67c6ed5809", 
+        "6e4a971e7f747f134b1b9a213ef6fb67c6ed5809", 
+        "3caba576686bcd6fe9e4501cd13e589a81032e2e", 
+        "1cad9b3fc6100a3b0f4a73b5ffac2dd23c680a48", 
+        "e64cad2d708e33347c8fa4a8b14a45554dd6b64a", 
+        "090001dbcf35c5729167fec0947cff0988f08cfa", 
+        "c9d44dbdd1cf61f17ed07d0df36af95d9ca51d0a"
+    ], 
+    "TIKA-379": [
+        "dd6330f7dfa0f836918306ee718e48f9c4418dbe", 
+        "9f10da2479473d7a16e333d727771376af5851df"
+    ], 
+    "TIKA-273": [
+        "4307560767072216358f604fb9147f947c7dac85"
+    ], 
+    "TIKA-274": [
+        "296e279858af9112d5500cc9a828a2d87d3218f5"
+    ], 
+    "TIKA-370": [
+        "f721fac72207602c19f43e51abc5611e97253e9e", 
+        "101a5c32aabc5bc3995c92f5ea797a4ed8df47ee"
+    ], 
+    "TIKA-371": [
+        "b8223f9c1353db748a7e1869bd9fe77e5e0ad5d7", 
+        "11970650568d41bd2318d3513c011240b7be3ecf"
+    ], 
+    "TIKA-374": [
+        "57cfc63946ebd79a3732d99955915f5e12fa75ea"
+    ], 
+    "TIKA-376": [
+        "a4013fabaff3650e83a00a3f550a87bdae503904"
+    ], 
+    "TIKA-377": [
+        "bfc53afebca5af5dd0f103166f890a1b62699989", 
+        "6a7f39d76ea4d2fabd263fbb88f8d5f1244dc863"
+    ], 
+    "TIKA-2127": [
+        "b3f1497caaafa1b53295d87592329f8d7cbca38b"
+    ], 
+    "TIKA-2123": [
+        "02425b290ce5ba2adbbc3951c7f04c8435692696"
+    ], 
+    "TIKA-49": [
+        "fa555fa60eba6ed1374cafb0d151cd35ba170a15", 
+        "54aa413c1fc4b02b1bcd90228e10bb2e91b30876"
+    ], 
+    "TIKA-156": [
+        "c22581fb98ef95a52d360b9ac84fde547e9883c2"
+    ], 
+    "TIKA-2040": [
+        "71cb9363c07839e68712edde4626d53aa928cc2a"
+    ], 
+    "TIKA-56": [
+        "b12c01d9b56053554cec501aab0530f7f4352daf"
+    ], 
+    "TIKA-2871": [
+        "7ec0dc07f360b431569e87f237b3cae3619d1568"
+    ], 
+    "TIKA-2872": [
+        "9ca1fe68374f4581bc3fcd6dc3d3cd5ce773f4b3"
+    ], 
+    "TIKA-1025": [
+        "963100eb1806048809b1fb2cb5076afdd640cdfa"
+    ], 
+    "TIKA-1927": [
+        "5a74addc0ded0120949fc330564986607f6d8b39", 
+        "48d17b69d00645e17f934eae7bd4a15303ea93f5", 
+        "4f22b085b1569d66d711b79751478dfb8448c353"
+    ], 
+    "TIKA-1926": [
+        "e0ca3b5dfaf102d2028d5f4f3deb294a43418283", 
+        "a30b143e41857be010149e01c5fb0df363157e6b", 
+        "a30b143e41857be010149e01c5fb0df363157e6b", 
+        "63bb15467fcd6e8766b0361e78231f6f7f6a4a08"
+    ], 
+    "TIKA-1389": [
+        "7e6448348853234fe76c732ffeccb76200fe464c"
+    ], 
+    "TIKA-1021": [
+        "7171855cd159df475f3eaa98177916616288db30"
+    ], 
+    "TIKA-1385": [
+        "12c6b363a98bcd33c32fc7d6114d150679e1f8c6", 
+        "eb9495e194c90d18ed5c48eb53f8ccab664e5e71"
+    ], 
+    "TIKA-1928": [
+        "b2821d921ac4cfd3be468e8bea9123f5cb627cbf"
+    ], 
+    "TIKA-1844": [
+        "8487fa73d0110fdead3475b2980425b1ef6662fe", 
+        "2ec36ff4b817d1378b75f0654648a260c3d5928f", 
+        "72d76f884e3997ecee322e8327f51053d0a34bad", 
+        "443ecd352deae04f650b2e3dddb534bb19734806"
+    ], 
+    "TIKA-1845": [
+        "1e0159b733dc7a8f48ce8943e1f15046c791349a"
+    ], 
+    "TIKA-1028": [
+        "58b7c17d1833caffd5e8693d656a6efc02463c43", 
+        "24faaa980924cc9aedbdcdbecdd6a9a19f4fdf1e", 
+        "32985edf6e025da754f974f951ef3ae1c4c61949", 
+        "a9f559d7a4921578cfbc827ae89f5dd0b80b7d79", 
+        "0c9237ed07fdeb7ed676cbb2da8c28976ab8f196", 
+        "7cd31ee5aea3b05525b84b0bd9b83df043f44381"
+    ], 
+    "TIKA-2198": [
+        "bc3b26369ffbeff83a6e27f57a564089661e5030"
+    ], 
+    "TIKA-2056": [
+        "011f33807e7e794c2c06154774ec167b818930f2", 
+        "b67373f22bb84d9e40019836817784faaff61ec8", 
+        "b67373f22bb84d9e40019836817784faaff61ec8"
+    ], 
+    "TIKA-2055": [
+        "27b9cf566da9772961b2fac3c2aa6cc1648ab2a5"
+    ], 
+    "TIKA-114": [
+        "048252939fddb381856c41f94ef1ce3f84057b3d"
+    ], 
+    "TIKA-1798": [
+        "a147d7c0b5808f7e8732898e907274abedb8c486"
+    ], 
+    "TIKA-2776": [
+        "a477d73ac56c169075b5c9ea66bf57be1f3dc672", 
+        "c037fb71e1d5e9e549a12f77c620229465763abf", 
+        "6710c52efe3cf8b220773ac9df85bb2f292d4415", 
+        "8d9061d281f7f46ecae8b902e27c49777ec43919"
+    ], 
+    "TIKA-44": [
+        "d4bb41f7968cb40d39f66b2c0430dde3eef2e618"
+    ], 
+    "TIKA-1445": [
+        "c9887c1db88576370ffecbb206b840d0ae330b78", 
+        "41c09d78e82af9ddd050cf02d5a14919e9e297fd", 
+        "f4337009b06e3621f68d4e1ecbe80d6eec4425ae", 
+        "192c0d0c9aafdf660e0b311b7fc2da11ecb9d572", 
+        "0a176a5aad749a0b15559b705b906937760d4a77", 
+        "5cf7785cf2540cc8cdfd7d21b4f8bf540fbdc55f", 
+        "1843bb593e6d3c479ed4b25a56883e48c6af0d32", 
+        "895ebb79404e3113766a0ec4b12c3a100294a96b", 
+        "5f6845257016bfbaef26e998edd8f660c5711ac1", 
+        "7dc73cee673ffde25441b1adba6d467873ed134c", 
+        "1233a93d97e9fb7f566b0b4f52d3733659f0ac7b"
+    ], 
+    "TIKA-1446": [
+        "746de4d60f1ea1e847dbd9fc1b940c53b874d787", 
+        "1cc2725cecf73a1156af53d21801a9196154f389", 
+        "b6fda2a09aa740e512eaca9b4bb0b2f5e264c78b", 
+        "65977bba2a5900c43dbb9f4c8512daf38b9163b5"
+    ], 
+    "TIKA-2908": [
+        "806489b59aebe4208cd21ad40fa0cf2c9e0e35e7", 
+        "477a8cad63c455be195e4a75468cc3e162e67688"
+    ], 
+    "TIKA-1728": [
+        "193b5bb6951838019c64cc73c416bf0a5aa46741", 
+        "e7a3a49561cc1f9ffa4cd34307005f559dcefe19", 
+        "3497ea6cae9cca43cb62d0c1ce63713dd50b3c94"
+    ], 
+    "TIKA-1335": [
+        "af6788a4b7bbe59b1eaaffeecb8e607707654a6f", 
+        "df7b18e3d7bee09eec144133eb678e76cd6f2d1b"
+    ], 
+    "TIKA-1567": [
+        "4aab1c1777a314644507d2acf27c814390f685d9"
+    ], 
+    "TIKA-2903": [
+        "ce693ed2acf5f70c6e8d919229be96456bf0ce9e"
+    ], 
+    "TIKA-1655": [
+        "84964ec057e05771725c1c6e1fbb70153229a306", 
+        "fdaedd0197c44a3a1ef56b9b68b8bb022b7da229"
+    ], 
+    "TIKA-1654": [
+        "5cdc797a9fe12f46423feb2588e94d5e5358b56a", 
+        "80a1126072d9af786e09f30a4fd951b45c844cec"
+    ], 
+    "TIKA-1159": [
+        "34f7c183ddcd4e859941f41bd97b9118698f9808"
+    ], 
+    "TIKA-1653": [
+        "b93a7d267f8d1899354c5e2b8c1c56651e50d99c"
+    ], 
+    "TIKA-1652": [
+        "209b64873106f14c745a729baac6b5d137ced64e"
+    ], 
+    "TIKA-2580": [
+        "f8b1d9a87c0954c7efb32606d2cce380fddc82a1", 
+        "257ee161f9b6b9ea8a52dd52d71779479d9af254", 
+        "d26fbb8b9be03567bef61e3ed2af2cd6ef4a677e", 
+        "690855f11b08f97e5849d5636e2067dbfdbfd4ac", 
+        "690855f11b08f97e5849d5636e2067dbfdbfd4ac"
+    ], 
+    "TIKA-1659": [
+        "1a3749fa632fdb8ad0bcb2cea673113031f9b4be"
+    ], 
+    "TIKA-2587": [
+        "8289d0b704514067a57928905b3654486b5831eb"
+    ], 
+    "TIKA-2275": [
+        "b3837a4c59489a2fa989b35d6c0341f52a25044b"
+    ], 
+    "TIKA-2379": [
+        "c3cf30fa7de70b350b6344459cbb39410f24d438", 
+        "fa1d41101f839692cc997c8933eeb6045d7dc484"
+    ], 
+    "TIKA-1821": [
+        "046e43f81c37f0ab92d9420fab8b645969d5a13c", 
+        "57ae2c5e0be62fbdc3321ebd89f37c81af190ad1", 
+        "784c0a466f577d800ce68b1612c6cb7c58ed84dd"
+    ], 
+    "TIKA-2373": [
+        "b2fc478e99b9814fde747d8f8eef03e054fb4d25"
+    ], 
+    "TIKA-2279": [
+        "7a7887b21d9cb1db0900ab4de1dae1b81b6bbcc5"
+    ], 
+    "TIKA-752": [
+        "c3f99103fd06292556f9eb0034365f0389205434"
+    ], 
+    "TIKA-294": [
+        "1cc319fa07f06043d7a39f64cca478e4441899dc"
+    ], 
+    "TIKA-453": [
+        "ed34e70f0ba7fc01769bed8dbf7f65a1a9058ec0"
+    ], 
+    "TIKA-454": [
+        "3cebb673fef211cfbde44f2dfdda47bb20f98ee2"
+    ], 
+    "TIKA-457": [
+        "e347b9887b6f02c00082c393b5a80d2126539995", 
+        "163d93c4e1e78a27b5dcd9502c2a4757fbd53b7d"
+    ], 
+    "TIKA-256": [
+        "0486ffb7be6bb98ba1a6d9737865789e09f9e175"
+    ], 
+    "TIKA-185": [
+        "e77e233f0e74edc6271a5dad2c8b1a7fe22925e2"
+    ], 
+    "TIKA-255": [
+        "226aaf44dd50986d1001eab68587669b7cbbebef"
+    ], 
+    "TIKA-181": [
+        "1e816222a12c2dcab6deb5c46e4db84aad28b5f7"
+    ], 
+    "TIKA-180": [
+        "aefe614e7c4846b173e102e1e99af03dc9d35e01", 
+        "235e80743cc75d3812c1fa59deb35df4a4c2af6e", 
+        "717833ad539511dc9c48eb488ce88c4337b05651"
+    ], 
+    "TIKA-189": [
+        "6397cdecef04b977d90c8638fdc1064870cd6a6b", 
+        "dd352d27c1b955103b2be76f2d5bca88f3b8e48b"
+    ], 
+    "TIKA-1537": [
+        "418fdcdde9e1f1c5718737069a3a954996442f01"
+    ], 
+    "PDFBOX-2896": [
+        "9a8798b8e19b2149e1f5b678804f328dd0be6686"
+    ], 
+    "TIKA-2478": [
+        "7e798ef8603bf40ea4a17a125aaff36677478353", 
+        "c068479d7ed1734f75e24fad24572b99c9c3a4c6", 
+        "ff481b25dd7f141f55907ce194b9bc2c77fc7069"
+    ], 
+    "TIKA-2479": [
+        "348b87e7f41b79ff115e17d9c91d2dad63a57c15", 
+        "b1b035e6bbcff0db24e133b682ac79916f92f599", 
+        "a1e42a0659ba33e90cb1bba0a0a10eeb97d4fac7"
+    ], 
+    "TIKA-2475": [
+        "94850f2e7c7d3df6a06a924fc6d643c0f6181643", 
+        "d5d739c237c677c49d64b3766700ce506c5982a1", 
+        "40e99f986f9cd8ab390f189a484c42e81994a911", 
+        "40e99f986f9cd8ab390f189a484c42e81994a911", 
+        "1f38be359b2735de94e9ae5850a3622e5393f77b"
+    ], 
+    "TIKA-1291": [
+        "0b57b5c2d885b9223c0c77133844a3fc39f5bcc4"
+    ], 
+    "TIKA-2470": [
+        "c54efd8b2f319c9c1547b293a5dd2fe80be564fa", 
+        "0e38f9419121f08117283e1876e8abd02b2ab52f"
+    ], 
+    "TIKA-1742": [
+        "5d50c2e9391a9f31ea435724aef9e0bb73624984", 
+        "191c03d14e33606ffd4bef2972704398abce289b"
+    ], 
+    "TIKA-2571": [
+        "cef8494070cfbcb468c37da0f4732e2453d505ee"
+    ], 
+    "TIKA-2673": [
+        "f8a8447550afcff941700375774ad3cb92db4d8b", 
+        "6ef66723174ea15d4e168769dea6f76f0ad7bd91", 
+        "f8f5e23841d23cfcaa13bfba6dccf7f44f33fdd5", 
+        "73232252c84a74c598014a7ba9d6ef63732a75d4", 
+        "73232252c84a74c598014a7ba9d6ef63732a75d4", 
+        "e7cda261f6aa2eb0102a8ffb53e454a4f3655bdd", 
+        "c27f53b8cb4918b957c782e3c856000f105c6d46", 
+        "82a1c61d628e604663b3b73326d44fbf57177af3", 
+        "7d96565e25b3d607b91f9384e9df48b235423d0b", 
+        "790c1248207371e6cb2a3e7a1ec3a021503ec7a4", 
+        "5eec28ae0203820364dbcdef58335fd64aeb90ec", 
+        "b688afa01939a1f32775a7e7f0797a8ea466c612"
+    ], 
+    "TIKA-984": [
+        "7d6167539dc165877b62ca1530144ff14931f532", 
+        "7b76a7ff27780dc866240d43dc0d5deef4846416"
+    ], 
+    "TIKA-231": [
+        "3864ebbe3229d7196b63ba237725e2350fba5a66", 
+        "1991c32a117ca59ef2161a731b67ed154201bb90"
+    ], 
+    "TIKA-2677": [
+        "7bd88f6eb2eb6035dd20f54364f8eeac7e2df0fd"
+    ], 
+    "TIKA-981": [
+        "4cdcefd5a87ed11e84ee4a016b989102bc84cdf1"
+    ], 
+    "TIKA-2675": [
+        "c9a81a400ee10e9342bbfe718d62f0b0d6c7944f"
+    ], 
+    "TIKA-336": [
+        "51c6242ef778e2c28057e4503350593c84cf68de"
+    ], 
+    "TIKA-1322": [
+        "375fde60b42c44b57c6931894ddee177b063fbae"
+    ], 
+    "TIKA-621": [
+        "b6d67d32c1e43de488673d1925e0b6319588e4f9"
+    ], 
+    "TIKA-339": [
+        "16db6681ebfcbb622255f81f5006020af07c2d1e"
+    ], 
+    "TIKA-808": [
+        "0ee593533742bbb6feda9c4f0591163cf22bef20", 
+        "486d767688ce4c93c9e90ede0b27459cebfa5233", 
+        "50d6e5858d1557c00a42726cbe59cce3453db245", 
+        "f8e572b5a18699ff25f1bf21744662877a3d362f"
+    ], 
+    "TIKA-809": [
+        "eec596c1b44922b7bd1e177f485338f8e8adf826"
+    ], 
+    "TIKA-800": [
+        "7e2326a8050352a38c2d278174877211d1049436", 
+        "374538b413fffbc254dca221e7a56021421e8871"
+    ], 
+    "TIKA-801": [
+        "b73dccb6bc47d33bdb6f1e51b723c7ef6bf3e1a3"
+    ], 
+    "TIKA-2384": [
+        "933ae1c6482312ec87b15d690b4ac3fe71833554", 
+        "f74b089162820b0e80a8217b505164edb1531ef0", 
+        "6d710da272285e04d6632b501e0752d020063182"
+    ], 
+    "TIKA-521": [
+        "9fbce438928982a43fa2ffac51d8550d39a47bef"
+    ], 
+    "TIKA-520": [
+        "0abbfee21acacabadd74211921ed7c047201f68a"
+    ], 
+    "TIKA-2370": [
+        "9f4bb56b7a8e2db8d5d60003531f6341563a8ee5"
+    ], 
+    "TIKA-939": [
+        "6e8f9ea6232844a1bf4625b54deb275f137b7f6f"
+    ], 
+    "TIKA-525": [
+        "6fd7bb8c982a554b4f4260d77578773a8d51bf89"
+    ], 
+    "TIKA-986": [
+        "4f920c7bc5fd262c2a83fe44a7fb7b7bcb2798b7"
+    ], 
+    "TIKA-529": [
+        "a157a6f025c4b5eda63881124919b4271f85ba0b"
+    ], 
+    "TIKA-244": [
+        "74947b6cf59fafedef133bebee40d442b4559972"
+    ], 
+    "TIKA-934": [
+        "4c58d09499bf164ed123410464d43c20b764b5d5"
+    ], 
+    "TIKA-935": [
+        "12c4ad280f267f8cdae8d93086f485729c0d78b7", 
+        "ffe67b3852ac83b18543b47a84ec2bd561141398", 
+        "914cafdbbe3748003cfc766c5d9b99339d08ce79"
+    ], 
+    "TIKA-1804": [
+        "1760249f26536047e54e3932f47910217a6c81f5", 
+        "b290cd79d652741a0c8249f3860583b4169f6455"
+    ], 
+    "TIKA-19": [
+        "d7dabee5ce14240f3c5ba2f6147c963d03604dd3"
+    ], 
+    "TIKA-2019": [
+        "2031de70c117fdabf793008fe22dd9c97c82d2c9", 
+        "7ae760e29ad3ed5874f7f50c27c6f850ab1d8025"
+    ], 
+    "TIKA-13": [
+        "f42035e439de514120e96bbaf4a024b73714ad9c"
+    ], 
+    "TIKA-10": [
+        "d363b828bc6e714aa5f4ffedfbd1d09e1880f9ee"
+    ], 
+    "TIKA-16": [
+        "d7dabee5ce14240f3c5ba2f6147c963d03604dd3"
+    ], 
+    "TIKA-2578": [
+        "8289d0b704514067a57928905b3654486b5831eb"
+    ], 
+    "TIKA-2157": [
+        "75fa1386b95ccf1bc7fb9a9f60811636baace05e"
+    ], 
+    "TIKA-2159": [
+        "8eb7d352f6b7a488bfdca172a0707cb514157a34", 
+        "47ba703d6e682147fa3e6abb9a9cc756c7fc2760"
+    ], 
+    "TIKA-1703": [
+        "38697cbec28a90ed7b4726b081a82ecf98cd47fd"
+    ], 
+    "TIKA-2547": [
+        "27a9c4069b6c1965d04a2a97d3c9a7ec131ff7e5"
+    ], 
+    "TIKA-1378": [
+        "65aea2b06b33c6b53999b6c52e017c38bf2af0b4"
+    ], 
+    "TIKA-1373": [
+        "f1d00dbf40f16ce8669628951b813d7972c07c45"
+    ], 
+    "TIKA-1370": [
+        "15521f132f69f80a42496a5fc38a49caa27c09cc"
+    ], 
+    "TIKA-1371": [
+        "3b004508773ee65ff2de9e90e12d8926b1a52489", 
+        "95051f2a352f3e7ee83acf203d75b803a26c3f4f"
+    ], 
+    "TIKA-1275": [
+        "90c7245672d66284d2f0f5da7862c1cc5e0b63e9"
+    ], 
+    "TIKA-1700": [
+        "abd6b8744917816a4695aca42e9f8e9cf9f09263", 
+        "cd129b5741d96d169823daadf6f40038ce773041", 
+        "9489bfdcc21d6ac611e9d99415f3c921bca68c16"
+    ], 
+    "TIKA-1272": [
+        "aacc74d026ce20cf50b4e7de0b7b8032ab287f7c"
+    ], 
+    "TIKA-1279": [
+        "0a329316d6cca111e64a71d2d0b81327018a7281", 
+        "3a9afb5d5dae8b5e4db84679ec39738d41d8fd75", 
+        "a570bfb2f3c4e7cd99f25d2ba9f39794f2a492b1"
+    ], 
+    "TIKA-2849": [
+        "20848961fae9853aa2afa7957f6421c57fe09272", 
+        "cf5b8123769cb094163331a1395487c1f874c296", 
+        "64877c5a6187ecd13e098e99edc97a1f6dc09112"
+    ], 
+    "TIKA-1117": [
+        "c46f54556357b08dc0d092cab3d316a1205b7d51"
+    ], 
+    "TIKA-1503": [
+        "5a7216e83d99238080e29ae2f46864113aaca3c6"
+    ], 
+    "TIKA-1115": [
+        "5ffe387253086d52017d32f7d5b20cbd912d56a5"
+    ], 
+    "TIKA-1112": [
+        "be6e237b2e391555ce5b01d2bf3b492ab3c1d8af"
+    ], 
+    "TIKA-1113": [
+        "d145ee6a07b53fdf66cea0a6a34e9b12cf0407bb"
+    ], 
+    "TIKA-1507": [
+        "2e60efbfc81132cb46e5d6edd2e0dde28881aadf", 
+        "4533e06da0231f88cf8a5d1b6a3708841e3c6880"
+    ], 
+    "TIKA-1506": [
+        "f5ad49dc58e0309b88084f6dda2d73fea3612804"
+    ], 
+    "TIKA-1970": [
+        "89881ce207444a9d53f041bf9a14b5b7d623dca6", 
+        "09cc658a30ae194323f1e444be73d396544efc6b"
+    ], 
+    "TIKA-2840": [
+        "1ab34b647463e0a6a4a12d9939bf01bcc71af352"
+    ], 
+    "TIKA-1118": [
+        "2936d550002fe564beb99e56eb6b4c5a7d33d36a", 
+        "c4581fb85824ad27725e17aeb49bfbe12ebea40a"
+    ], 
+    "NUTCH-1053": [
+        "b303c6ac4dffe30b0c30039da4c955a761fa1c6a"
+    ], 
+    "TIKA-2703": [
+        "5cb8d9a9e091ee61c8dc0f334d23c7677f5f519b", 
+        "0486852c46f42130c2f1c26cdd35f38005457a83"
+    ], 
+    "TIKA-386": [
+        "29ab691396ca430688876217a12ed039b5409a07", 
+        "9a049b4cd60afdfa1eb37d58485758f8125b5340"
+    ], 
+    "TIKA-1874": [
+        "0c030081bba17e607f8c79a0b95f72935be93efd"
+    ], 
+    "TIKA-1877": [
+        "1299c9e494882e011749fb8a4514c40631df03d1", 
+        "e105088729ef12acbda1fe4e71f462f84d98f981", 
+        "602d237feec48bfd97bc2b2b38ea614b1ae2c55d"
+    ], 
+    "TIKA-382": [
+        "fad221128b84c7ac5a3ffa7ee4bb2c521adb4e73"
+    ], 
+    "TIKA-389": [
+        "5451e28bc4506703205741b2163d785aa4e27826", 
+        "d20903f1f7832e646a3923a483e9177485214d08"
+    ], 
+    "TIKA-415": [
+        "6f758f813c435105ebe289478fd01addd227c38b"
+    ], 
+    "TIKA-417": [
+        "c0a922789617a049cca51a7f3a9ce04f23031b3c"
+    ], 
+    "TIKA-140": [
+        "836c4b953552c4dd4359d45197b0f241824ba32c"
+    ], 
+    "TIKA-418": [
+        "b471e61c790dcd9f6ad6be77f46f2e07afc56947", 
+        "b2b3685e8a3b9cddde06fe77bf7c3d1ed9ba4899"
+    ], 
+    "TIKA-1183": [
+        "38b15098fb9313a837e796c703eac90dde179f98"
+    ], 
+    "TIKA-1182": [
+        "841c587bcd64a75a8badf51eddb62d10360ba69d", 
+        "c183694b20f785371539284a3d6f84d29dceea68"
+    ], 
+    "TIKA-305": [
+        "03be219a6d7646d07c56b1cc98899d139cb62727"
+    ], 
+    "TIKA-678": [
+        "fc138458ed51df0bb3e3345611de68eb984ff3c5"
+    ], 
+    "TIKA-2838": [
+        "be7aa8441f5f0b5ad09aafe6c5e191b871f1bd4f"
+    ], 
+    "TIKA-2388": [
+        "916e5eda42bb2d56fec45d2a43647514bd254296"
+    ], 
+    "TIKA-304": [
+        "29c9a2728a08f37ab270a6a6c2a679a7228758bb"
+    ], 
+    "TIKA-1477": [
+        "74c231a575c9ac307b617c2c322d0f4151baeb64", 
+        "9005c6760366b29eac19e307f943dfe6f1e522c8"
+    ], 
+    "TIKA-655": [
+        "ddceb68bdabc6fb732ecf2182dcb589237277a58", 
+        "87fd9affb574d62ed26d669adaa3d7cf37e124fb"
+    ], 
+    "TIKA-1472": [
+        "ce51005a239e8c7c37d077550d03cf4a16449e54"
+    ], 
+    "TIKA-1171": [
+        "20ab62de27c7e34d1c09b3cd0a14c0e32e59994b"
+    ], 
+    "TIKA-1600": [
+        "f2c263dd409f62c6c3520e48816c9fca9244e854"
+    ], 
+    "TIKA-1605": [
+        "3e9db56e11340c06c39e71df4d320033eda5810c"
+    ], 
+    "TIKA-2209": [
+        "1d9445b4086805a713b93e25756efbeefeb7c9de"
+    ], 
+    "TIKA-1597": [
+        "1e33ed3bc35997cd4c8bcad689cd460313ea5605"
+    ], 
+    "TIKA-2636": [
+        "95d967b14c33acd4e82814f6cb470cbab0f4ee08", 
+        "1e45da928ab699cd3e483d5c1006412c69ff6c09", 
+        "fb4e39323b1d0576ea8066065febae94765a96c2", 
+        "d2c412940b976e607b698b598e25481495d0b8e4", 
+        "1fae340976e054bc8206cf79dff8b33758eebe82", 
+        "ceb7b42ba2e342e7becb81d0c661ccd6209a915e"
+    ], 
+    "TIKA-2637": [
+        "614190be65477afd956ce091dbe19eb5a8f51ade"
+    ], 
+    "TIKA-661": [
+        "49a9c4ffeebd479501cba457d5215dc9ec12991b"
+    ], 
+    "TIKA-1980": [
+        "5495ffcf35bb702d6cdb28b4fa3bdc7df34e55e9", 
+        "9024f12e0fbef206330b6317a537354fafbe9cd7"
+    ], 
+    "TIKA-665": [
+        "49692dead827eac2b7a0f9c6b6e48f97eabd5dae"
+    ], 
+    "TIKA-701": [
+        "ddf56cee81e96faaab73d5d2ae70262692431fc5", 
+        "6bd95ee7eec85356b90d407084c4e45eec97e8df", 
+        "6bc0e0554fff5cb287caa56a10eecea60bf840bf", 
+        "3e832b08f0b7b2f528af65bd2c10b414e21ded07", 
+        "8ef85fce930576a40daa400cc1419da4debcb654", 
+        "33595666efff7b475e461af98446e682a5724ca5"
+    ], 
+    "TIKA-293": [
+        "6c6c17dc1ad9fefa5f795410cce937af56b4558f"
+    ], 
+    "TIKA-702": [
+        "9d5cf328f700e655a38cdf547fc86a273b854b78"
+    ], 
+    "TIKA-705": [
+        "03e6113c9ea555bf93b9ce064a2c0d1cd8073cc5", 
+        "6187e037e0c72294440ef38e9fc3b76a002180ca", 
+        "ea21418703d689ad0fa926ca49a941076b5ac43a"
+    ], 
+    "TIKA-704": [
+        "e924f82d636a4e8da097822405493a565b039fa2", 
+        "9cb9439d367c9f35cd34723c73b7ed2f36edeb50", 
+        "04d1fb7cc895e054941280e991ef129cde11ab8b", 
+        "b4bfb99c580cf647b4c7691ecd91cb80f44d55f5", 
+        "9d73a101d5bd8f9ba3ba12f842862e2a72f14019"
+    ], 
+    "TIKA-2638": [
+        "a89170f6d5261c62bd59f3229235edc6c2175fc7"
+    ], 
+    "TIKA-460": [
+        "52664ffad6df20f8c864f3f22ca5ca22759fddc9"
+    ], 
+    "TIKA-1690": [
+        "98672cdd92b6325ff78c763955a7c045b364095b"
+    ], 
+    "TIKA-462": [
+        "e35b48cd3427203a214869c6bdec1b489188efbe", 
+        "d4a401460f56870c5085d87ec4f4856b6e6aacf3"
+    ], 
+    "TIKA-463": [
+        "ed7a1d1bda0d981359261c20e8617a73d7dc482b", 
+        "e347b9887b6f02c00082c393b5a80d2126539995", 
+        "163d93c4e1e78a27b5dcd9502c2a4757fbd53b7d", 
+        "31345be7c8cd6e347d0f7aeab12d99ed44187145"
+    ], 
+    "TIKA-290": [
+        "c9dfb89f029fe349a6057bec88d838b0200b9337"
+    ], 
+    "TIKA-498": [
+        "31452f9fdf15ef93f05cacf2a4f0bad530b89714"
+    ], 
+    "TIKA-961": [
+        "a7e03539f9944f4847164b4bfa14b1f2db077331"
+    ], 
+    "TIKA-963": [
+        "f58064ea00381a9c9fc28b0378dbf9f794dd7be3", 
+        "c36e5a0461b66a7941156dd9ee502c73aa0ee28c"
+    ], 
+    "TIKA-962": [
+        "efdb4679cb28841da7ba9d8e755596602b630893"
+    ], 
+    "TIKA-965": [
+        "dfcf3d4c7cee2dac641ea5b331965ad03ce37364"
+    ], 
+    "TIKA-966": [
+        "8e2309857ef5098842c3796cf81931a365633ab9"
+    ], 
+    "TIKA-969": [
+        "c70b12f68245eb179de7653639ca14c6491007e6"
+    ], 
+    "TIKA-968": [
+        "199368c51d825062fa6b0dba154483441690e912"
+    ], 
+    "TIKA-683": [
+        "5c22595f655362f983e73aca4fb79149f37a17ec", 
+        "07f6f6341cc11520eb1de18a4b9b712ac514f28d", 
+        "62abba6178d70f4255e0e16da9eb456cc150615b", 
+        "f5f1ef1195f9d44e39b1713d58cad3eb83b351fb", 
+        "ca890e427a1623b0e100ebe45a49edaacf17db39", 
+        "f7607ecb57cedee963eb5361efd1e55d5b2ea43f", 
+        "92b2619c307798127d406643bb27a22dc9abd47f"
+    ], 
+    "TIKA-495": [
+        "d32c1d879287b4b9ed81f1cd3b6b52025683f5f1"
+    ], 
+    "TIKA-2445": [
+        "67e2c5a80bc884818c3f905a26c396c57608d75f"
+    ], 
+    "TIKA-2447": [
+        "587e4ae5b0a87e01315156115c8b88d056036f96"
+    ], 
+    "TIKA-2446": [
+        "a0325c2480357c99dff0fa99248886d3372269fa", 
+        "bc24ccb302d1454a226dbfd38337b8f8050d7e4a"
+    ], 
+    "TIKA-567": [
+        "7e2393fabca843e0c596eae2a29aebea3a937842", 
+        "b6f45ba65a19f05aebded8444e0de3aab35dc175", 
+        "05f333cec46f9e48312de6bde67722bc4cf5b41c", 
+        "ff74808a0f61614f075a38de8e0a5220f5837c2b", 
+        "dba5043a3beb6fc0ef732c6a7553d0f7071ea802", 
+        "bf42aac951f70ae6396055e341e2de6b55616a70"
+    ], 
+    "TIKA-2521": [
+        "f57e0e78c3882c5003cf15b18375a334944d24dd"
+    ], 
+    "TIKA-2527": [
+        "9b7154cf37871f5ef0874e972ec9208538e15e44"
+    ], 
+    "TIKA-563": [
+        "d82bca596d70663c9ef138ae0df06d7aebcded0b"
+    ], 
+    "TIKA-562": [
+        "dac8ec870797facb61068b9bf06cd008dbc0ec10"
+    ], 
+    "TIKA-207": [
+        "411d5d8a30873e82c4dddc1497b944ec862533e9"
+    ], 
+    "TIKA-2311": [
+        "06486c8548daf5f9ba588da4e88e3da82a429e70", 
+        "0b37895ef0eae560444e3078b7fa33f6fec11eca", 
+        "3aab15f8f277614e3c5783c4862e25d63b737425"
+    ], 
+    "TIKA-208": [
+        "d016d322caa1e0928012287840bf40bf11293480"
+    ], 
+    "TIKA-209": [
+        "958c208009e3e1828f3b3b6c5a4598ce8f053313", 
+        "ef1cd4d3ba9d5ee8a78383128035b5abd2bd064f", 
+        "7a6089c0fd2f52119b5519ac30907875186e8815", 
+        "3476a722f94bebb4252ccf42d5ec1cc6d0db8c6e", 
+        "f11860eaefa210208dba647adcf25283b06b2b64", 
+        "84587e3bd3333f0424e78e58982240e16afa0fe6", 
+        "0c8e965c9369ff6263bf9b27285d49c296b07387", 
+        "655afb51b95e4bff1c4b86d40023da112544cad2", 
+        "27e6e47d03c13d3bf53f759426f0b3e9c3aaff58", 
+        "62697affaf3fb93c5f667f76fe54deb78003ef4e", 
+        "8c130bad35f52ddfa7df2252243d86168d29a41e", 
+        "12ec68e67fecb7008f0fa2dab9c1679cdccf6cf5"
+    ], 
+    "TIKA-2111": [
+        "15a92302501d5ee6a319442c8109eafe37ec4595"
+    ], 
+    "TIKA-1042": [
+        "95b897540065ecb8dc1962cf2383a6a3f355762d"
+    ], 
+    "TIKA-1044": [
+        "ab9f799ae4a3eec42e00a109ca3171cbdf7b6cd0"
+    ], 
+    "TIKA-1233": [
+        "04be3280412570d8923594b6f3df42741f098008", 
+        "6b7db9975871d6a9426fcff284661b33ed079448", 
+        "0e3c51ea1dd800ecf70f43ebdeb9559c07b72aca"
+    ], 
+    "TIKA-1231": [
+        "f033bcf5dff844fc01baf480596582b89095435e"
+    ], 
+    "TIKA-196": [
+        "ce6ac916c9fca1ff6362dd99c380256ac180caab"
+    ], 
+    "TIKA-1048": [
+        "71166dea776a676601d35bef3922717aa2d56301"
+    ], 
+    "TIKA-197": [
+        "f6f9d4fe18590bfd8b03e5e87b75af9a18ee059e"
+    ], 
+    "TIKA-1049": [
+        "7e3cc3ae5c1bb30b47f562eb3527529424fa28f0"
+    ], 
+    "TIKA-511": [
+        "453ae26882aa74faf4121b0713fd8d815e8804b7"
+    ], 
+    "TIKA-515": [
+        "c496ffa3a53dab8d8992b75e27b7475fb6e407f3"
+    ], 
+    "TIKA-1422": [
+        "42cebedc5a415b5f9fe32de184ee6dc9e6fab9b9", 
+        "fe06af65557221eefc7cc7290a61cb4e6ebc6516", 
+        "cf55425220f3c0dcab2fe6318e19560bf4c7827b", 
+        "eb7202d524dbf45d2d0e21b473e73e5401ed10b9"
+    ], 
+    "TIKA-2807": [
+        "06cf66cef14863fee0111dddefaebaa051a40c72"
+    ], 
+    "TIKA-1788": [
+        "6fc2b7e7ffdd9ab4ffd4780ac24e9018292f066c", 
+        "1f28f464e91300cfd50f881ac37fd6d467d5dc7a", 
+        "1f28f464e91300cfd50f881ac37fd6d467d5dc7a", 
+        "9653e77d935bb00b7a38be483991e8e185f751ff", 
+        "18aa69a16f09232413e06d04e921427ff4356cec"
+    ], 
+    "TIKA-1427": [
+        "ff8e253c1ce8d3ccfe35b0c12fdc72937dba5af8", 
+        "e8fac5b3060b8af39ff787fbf8038980b999c611", 
+        "4f421985cb2d1c75b8c2474719ab2d5e38d2793e"
+    ], 
+    "TIKA-2802": [
+        "c2909427492cd4917d8618a63fce35b2b75f45ce", 
+        "a0688825b15b8d3f1672236b0f1f6536c8a863c4"
+    ], 
+    "TIKA-1835": [
+        "542bebc69711f6cf25ad338affe87f163a1eda61", 
+        "fe841bc8760027eae3f9d0105238780815451346"
+    ], 
+    "TIKA-1782": [
+        "f43de5a24b56cdd6a3c5abc3e5a38e2410089d69"
+    ], 
+    "TIKA-1837": [
+        "16290d86c3a976f7c323b0be6750ad07f4840018"
+    ], 
+    "TIKA-193": [
+        "3864f42f1025c023d8103db4c984c6ff723d4292"
+    ], 
+    "TIKA-2742": [
+        "e024eab4d6df47dc1a27b8b700986b9b36925923"
+    ], 
+    "TIKA-2189": [
+        "aa2407a6ba9826684df81af60c58b476e193a830", 
+        "8e12ebea4178048373c3c946eb159d6f68baa4e9", 
+        "40401e51b8a135634f54c8c437dafc10378059be"
+    ], 
+    "TIKA-109": [
+        "4b33a0d88d8b87b9411a11564febb511e88ba55a", 
+        "d795c5fe92f6a2de1811515ec7851485a2840c74"
+    ], 
+    "TIKA-107": [
+        "fa6bb7e3c92145d29cd97820718ece69fd6ffd62"
+    ], 
+    "TIKA-1305": [
+        "6d7a36bfbfaa6dd37d65fff1d62a8a8aa6bb940b", 
+        "d0ced9671ef45210a1d0545f32281f3bd7724862"
+    ], 
+    "TIKA-1303": [
+        "b97ef3208fe5848c96c86d6d7b6a6bfb962e0568"
+    ], 
+    "TIKA-1736": [
+        "2aa5b9e9ac626cedc3609621da641bad23459791"
+    ], 
+    "TIKA-1937": [
+        "1c5e96cf617b231ce8d902fc86eca84edb9cafe7"
+    ], 
+    "TIKA-1646": [
+        "9413f4547eebadff017226c66b4cf87376433075", 
+        "cc326059cd05b9df51bbc82fba6528cb09f4395e"
+    ], 
+    "TIKA-1169": [
+        "2f4fbc64c9013c7c46bf6451f2b322afa89af621", 
+        "5ce1b585a9dcf9bb3a04a2b20dd9e6f5e39c36c0", 
+        "26b2e60b42c215629f1970f895367cee18e33fa3"
+    ], 
+    "TIKA-2242": [
+        "abfc826959a099d6000365ccdec23925f041043f", 
+        "8a04f207e8c4e2a87e61930e0e28be48ce99d20c"
+    ], 
+    "TIKA-21": [
+        "033a07cf008dfaf63c2d4bb76bebf184f8b7a338"
+    ], 
+    "TIKA-2244": [
+        "836e2d9040bacd7a8ffe88095187aa28ff26c6ba", 
+        "4cc15e2a3f813dce8001c1eb4aae712b05c557d4"
+    ], 
+    "TIKA-1421": [
+        "c20630790bfaaaa08626456a1ff8dc56b073aaad"
+    ], 
+    "TIKA-1945": [
+        "7842600560e02a4fd213d175301b4397bbe030a3"
+    ], 
+    "TIKA-741": [
+        "84d1ee3915c676005fdf741b2f18d7917761465d"
+    ], 
+    "TIKA-742": [
+        "da8cc2a822211064e5fda5188810bf16c48d1da1", 
+        "4e0b3e6cef33706b8e2eb510e4a1a04433b5938c"
+    ], 
+    "TIKA-425": [
+        "b12228176d847064d8b48a6af82b9bb47b3d6740"
+    ], 
+    "TIKA-426": [
+        "fbc7bac3b99c368e443903b926b66e9e9cbb4c48", 
+        "29972fd0e4cfcb772ae465b26b50230313f9c8a4"
+    ], 
+    "TIKA-748": [
+        "c256022ce85a05be039e81f152fe895cb4f38b3a"
+    ], 
+    "TIKA-422": [
+        "2af24f423ffd826ecf529c2f9c60bc59be2c2b47", 
+        "cd4dff4df0699bcaebf4fc7f3e59ef77b9a9ba47"
+    ], 
+    "TIKA-1019": [
+        "363ee3bf4604a36515df8deb49c520bc3a488184", 
+        "1d637c8e872ada489b3e928b854be0959ed0a0c4", 
+        "a2ddd8cffdb3c69d5e8fbfec24a939ab7c3f3bed"
+    ], 
+    "TIKA-1549": [
+        "8494d9310defb3bebbbc2d9f46393840f292a5e1"
+    ], 
+    "TIKA-1548": [
+        "8fc3a0925db66e3a15d7ad5f790f0201ed73b214"
+    ], 
+    "TIKA-1544": [
+        "e12bb7a68d1e1cf60bacdbd2e68afe6b0b6863a8"
+    ], 
+    "TIKA-1011": [
+        "a64d33c78c143f401d2d7ef795872fcc35fb2200"
+    ], 
+    "TIKA-1010": [
+        "55310ec7f4c8f2bfe6ff29485dfee156e6c9de84"
+    ], 
+    "TIKA-1015": [
+        "acdb2b0ea9082dad8120431ebbf34e68b76aafe2"
+    ], 
+    "TIKA-1938": [
+        "46d5775cd42e8c6c378f2100c70aca18c3f37df4", 
+        "b6d23c189e852fa2e41b441c18bfe3e66e3f67c4"
+    ], 
+    "TIKA-240": [
+        "f04edc5024a25ce5ce6d178fd8027b62ecc58b40"
+    ], 
+    "TIKA-2483": [
+        "90d624588483f379180c812b7235bb2222be9c2e", 
+        "06486c8548daf5f9ba588da4e88e3da82a429e70"
+    ], 
+    "TIKA-2567": [
+        "dbf35b6b4eff1cdcacf6a1265bc025c3bc7a6dd0"
+    ], 
+    "TIKA-2564": [
+        "7d22ba20ae6a628a1d51b9df7b6e3dae478a119a"
+    ], 
+    "TIKA-2561": [
+        "c80241952fa2f515687c6479768d24d7e907653c"
+    ], 
+    "TIKA-633": [
+        "7dc399b99823bbbd77ab6e6ab0b9cc1870210c0c"
+    ], 
+    "TIKA-632": [
+        "add1168c9f95961f6c986356c400a2e6a11e5f27", 
+        "0406ad0c64d131c50d92b14f2112692172393304", 
+        "c80eee31e10872648a1d23fefc8e13bb3b0e65a4", 
+        "7aeed0b52f5fbd5a1955270046220350d9a72885"
+    ], 
+    "TIKA-2568": [
+        "fcfd4e15fea1ba25a608b1d1b80147434985365e"
+    ], 
+    "TIKA-2569": [
+        "4c510d6a9910044825c6ee8df87c419a3370ab4e"
+    ], 
+    "TIKA-327": [
+        "7ece6ff5d3d16a8a4e3180abdff07a817a844a65"
+    ], 
+    "TIKA-731": [
+        "fb8a540025c7ca5a3947a27e74372fc904fb62ba"
+    ], 
+    "TIKA-733": [
+        "dc2b9a1fad73867e1499fbf03695eec051c536f7"
+    ], 
+    "TIKA-736": [
+        "3083e916b9a58aabca69a4cb7462415d4a7468e4"
+    ], 
+    "TIKA-738": [
+        "9769f860a20af595c85ba751c4b6652a8690a2e6", 
+        "0396c4fe2a36f3088f9def8b0216be477fc33c59"
+    ], 
+    "TIKA-739": [
+        "609cfe70bd396dc311c694161a59c1ac7076735c"
+    ], 
+    "TIKA-329": [
+        "61d64d2d6525caaef14d0e4f96c33c77f18512ff"
+    ], 
+    "TIKA-958": [
+        "e4e1f7d24631d713de2ec32779a7a3036c7064c4"
+    ], 
+    "TIKA-817": [
+        "9227e9f3d5090be28e28639ab92732c5be0507cf", 
+        "2ac245fc84207c6d61fd6ca9195d24eb91747fe9"
+    ], 
+    "TIKA-816": [
+        "3d6dbb3e6e567eac8191e408b3de47413301da94"
+    ], 
+    "PDFBOX-2383": [
+        "1916f12e068c277f9ef13df7eef44f718d551aa4"
+    ], 
+    "TIKA-2418": [
+        "0815b2144cf013e1a0803cee72d8076e8c544716"
+    ], 
+    "TIKA-2410": [
+        "91d0af282a5349bc5c7dd122f85401796c7b0e6e"
+    ], 
+    "TIKA-886": [
+        "232cc5ddc7a1adb357959102accd52a3ee11d755"
+    ], 
+    "TIKA-555": [
+        "683ac820ebcdbfdc9cd1b4c8b0fe33fafdd93ee3", 
+        "070b58356077dd2d2a277bf9776354a013ca503c", 
+        "29ef6fdc287dd872b2755ace2d2e50a4b5898b5f", 
+        "98c2833a4527b56e0e700423bc832784ca753f21"
+    ], 
+    "TIKA-556": [
+        "cbdd84eb78bdd264e36ef8dd0fc77f4a27d7937a", 
+        "4939ac6d44a4c05772ceee2e6f8747c8c1ecd3a9"
+    ], 
+    "TIKA-258": [
+        "15c83430df273aae65170d25ed95f4df62858de2"
+    ], 
+    "TIKA-882": [
+        "e48876756c9b1042e27529e71756df079af70e12"
+    ], 
+    "TIKA-924": [
+        "527f3d72120f6be58735c437d1f6453029485b15"
+    ], 
+    "TIKA-250": [
+        "5099b33a3552b1dbcb2b046057910f6d8edf3ab6"
+    ], 
+    "TIKA-257": [
+        "3d8a58aa28f15e17c21158d096e24b1f65e750cf"
+    ], 
+    "TIKA-920": [
+        "8d38e36c861acdfbf6996c924f66e31bbfb01088"
+    ], 
+    "TIKA-923": [
+        "8fd2a5298a5dbb2272279ea6b01087e9a96237ad", 
+        "edf26d44b961e28d6aeff6f0d03c6554dd8bb144"
+    ], 
+    "TIKA-2922": [
+        "cc43b276b60b1aabe01a2126363348db5a4d1888"
+    ], 
+    "TIKA-2026": [
+        "52f04bea6075003540a9d8b57768f814f908c442", 
+        "7cc610e1b3f164fe9de00b1a35e60fd00a69bb46"
+    ], 
+    "TIKA-2025": [
+        "3c0cd647571d23665056de9adcaf5d58dc087fb9", 
+        "a383567c2c947603c4c7aa12d3578d771bb58413"
+    ], 
+    "TIKA-1292": [
+        "f689fa7ee25c0c9c4bd4d68aa51941eb558f7026", 
+        "390222663ee5b3231faa59039cc71acfc24af665", 
+        "8e705720888c1abc4062fe96b33f8356ea5b472a", 
+        "9eaa4fc560810dc689055d0fc80693bc7a3f1dda", 
+        "2d51ad241003f34dcc3b211ea0940fffaaac6761", 
+        "ee8bc664d8848378205646209f10a0fb5a001555", 
+        "ef717955d3d161a708f1b9507e006049bb8c7257"
+    ], 
+    "TIKA-2144": [
+        "01163e23cc9d1701e4a23f6cb13771a31aa99f08"
+    ], 
+    "TIKA-1298": [
+        "821e1974dba7803211de0fa7759d3ee6e162ae40"
+    ], 
+    "TIKA-283": [
+        "a68d61cc30e6508264365b7838ef34a92acbdfec", 
+        "43bb4c6322386125e58aa9276e68764b9389190e"
+    ], 
+    "TIKA-793": [
+        "0f54339112fdc6c887d2f9e05d0826b1c7462873", 
+        "f6001f7cababf5dad2bdf063c839b5314eff2628", 
+        "3bdf69a7d2e119aa722a097d81a99fd63d76be78", 
+        "554605b284b0c4ac32b8cdda512700d780915a8d", 
+        "a739ddde294161f50b42858f64ba06f9b9e33cfe", 
+        "b93fc6f1b3e16e8f76dadb4d7a94a782879fe3ef"
+    ], 
+    "TIKA-279": [
+        "0297f443cdd0083445d3a37ca35d8ca87a5ec1e9"
+    ], 
+    "TIKA-586": [
+        "34bb845e679fcab10442c49c02beab7354b68e7d", 
+        "c187e0d51f677d27075c62662d5c81d195cf4370", 
+        "fa6ee732cfdbd0e0118dc0633538ca9d78dcdb7b"
+    ], 
+    "TIKA-51": [
+        "838fe5fc64d02bbab15e71131aca84a233558755"
+    ], 
+    "TIKA-1341": [
+        "6a306fbbe256c267cd1c5a863c78707f4c43085f"
+    ], 
+    "TIKA-585": [
+        "3e795106be703e44c0400c2617d340705748ef9e"
+    ], 
+    "TIKA-1263": [
+        "ef61057b0f0ad94c69dd8969177c4f1e0d264613"
+    ], 
+    "TIKA-2816": [
+        "f14090c803ca0aeb78a291f4719ee71db2be286a", 
+        "badad88737578ffd2d1f87b28bdc3502b9b4076c"
+    ], 
+    "TIKA-1512": [
+        "990c0c2096fdabec508371cbf96f9e77bd61f12d"
+    ], 
+    "TIKA-1041": [
+        "7260050594e7a13283d2dbfd1a079149a63d43ac"
+    ], 
+    "TIKA-1510": [
+        "227ef0111467325ac217e8f0f1682108dfa4717e", 
+        "5a1f1f31e080c54f689771b01d0175982ed1049f", 
+        "ba78bef63a9b267be31bd3987e3420bcfd249c1f"
+    ], 
+    "TIKA-1516": [
+        "61671f5d97d97e6f379dd94391ed8449f8c15073"
+    ], 
+    "TIKA-1905": [
+        "4a40cf5fcfacf3a5f640c3cb6d4e55155e26cc28"
+    ], 
+    "TIKA-2325": [
+        "f3db5739bad9b4e7a5522598630c4650a1355c36"
+    ], 
+    "TIKA-1519": [
+        "7d231d03247b9171dcce6e1758deb5c49560a6a1", 
+        "43086f4d2c69d69b10b52507be21c33a3397569b", 
+        "6194e6854392740a157cce3bb252af10244af8af"
+    ], 
+    "TIKA-1900": [
+        "a1243c7abcb7068c944d3f8699d8eb08c75228a9"
+    ], 
+    "TIKA-2854": [
+        "c3d32c37927c8dc2a99d74dd9a58c7d539b217ba", 
+        "b11141f1ed617127af8ad7d0b5b51a31509a9435"
+    ], 
+    "TIKA-2735": [
+        "0b2575b272c727f7c20cc58149dfec9a258ac799"
+    ], 
+    "TIKA-2730": [
+        "e4d6d15f705232b0a422c01e217919e53b118fdf"
+    ], 
+    "TIKA-1869": [
+        "08e38bb646eca79f30fde7285e8c977076c04ca4", 
+        "13d772ab6317c6151b4b4e6111b80af2bd30cd7b"
+    ], 
+    "TIKA-1196": [
+        "556ee2ad852fde5c45ee481809df30862977aa65", 
+        "6f7177ff791539fd277e7dc59e0f7fbe5e3f0e5a"
+    ], 
+    "TIKA-1192": [
+        "ceccd0b65b0a24bf44f4566a94c901c7c40135f6"
+    ], 
+    "TIKA-343": [
+        "d569761e7a729085ea47db39f66ea7ce7bfc130f", 
+        "5df8f87c4c865942a0c0990bc2c00a6d2ad0320d", 
+        "ebe7995a870c96ad5a7c9b05ed24bdb940bd166a", 
+        "7ed838caf2579be3c2d450cad8b61a10cf36ef0e", 
+        "2f0fa3b65a48bc4042491324cc546f9c32536c20"
+    ], 
+    "TIKA-1191": [
+        "7f6072ca26dccf1d791c426d4c32068535ddae8a", 
+        "6a398bd3f6245543091fd7c0e9e4facb34a26882"
+    ], 
+    "TIKA-1463": [
+        "eacb983cb6155dc00e98f5ad4c9d71244b7dba83"
+    ], 
+    "PDFBOX-3644": [
+        "7555b136d9ba046e2007d1f305f707948fcbcbc3"
+    ], 
+    "TIKA-1461": [
+        "2377a7c1cd8602457e8e5178884592ff2c502eb3", 
+        "63fb75d51e5d7150f596e10d570457ea6f6ff824"
+    ], 
+    "TIKA-1638": [
+        "65127bf050c6871fbecdcbf6a7873b3046c0a898", 
+        "5c664b967a8ac3d28d6fd3c36c46dc0224eb0ec0", 
+        "309752746d8ab0d8fc713c4f0ffb766c4135a07e"
+    ], 
+    "TIKA-2211": [
+        "202f137b7bd29f75d95ea815a28df30ab4f144da"
+    ], 
+    "TIKA-2212": [
+        "256a2814f2ee3e7d5f5d9b24447806d6204e4ae0"
+    ], 
+    "TIKA-1978": [
+        "fc4f13ddebf2b9519d75a3079adb307313e79259"
+    ], 
+    "TIKA-2219": [
+        "2dbd65122a477c1b7a61d88e4fdf25a3d47effcd"
+    ], 
+    "TIKA-2601": [
+        "90e31600755c5abb67e247ea9112203bc9e9561b", 
+        "90e31600755c5abb67e247ea9112203bc9e9561b"
+    ], 
+    "TIKA-2352": [
+        "19348811a9ff9e89cb309334cfba010a62b72600", 
+        "e7b0cadfeaf76bf6bd96ad35b3510633368a1a07"
+    ], 
+    "TIKA-2354": [
+        "90cbe005ed901e1791716c8d7d67baecc3a54c56"
+    ], 
+    "TIKA-282": [
+        "29ab691396ca430688876217a12ed039b5409a07", 
+        "29ab691396ca430688876217a12ed039b5409a07", 
+        "9c7c2c26deca3e473faedddff667249c11635d80", 
+        "cacb6b8cddecd296f2923b90b8955e35588a909c"
+    ], 
+    "TIKA-2604": [
+        "1df10c3ea2fd14e63beebd818540648d162bf150"
+    ], 
+    "TIKA-778": [
+        "6ef64ddbeff4b23ee25e3d3f51f8a07c49d37c2b"
+    ], 
+    "TIKA-1990": [
+        "6ad18f44cdfef5e80b343d9c06787b850fcfc9fd"
+    ], 
+    "TIKA-672": [
+        "2942530968d8b5a990b369eb619a7bf371c14c5c", 
+        "bc8f90a5d1fd8286f04fa7088c324db96e8cb36f", 
+        "2608c791c41fb82a55fbf8718e748b4d587032c5", 
+        "6a62fe06b4d5b54830a43235ff247aeb63b6811e", 
+        "cf8cb44b4e4e8de21b65d05f8c73fa8b0e6af477"
+    ], 
+    "TIKA-777": [
+        "2c3dbde39c16161dafc4b5cc03db4e259bf7fb7f"
+    ], 
+    "TIKA-771": [
+        "069305bd4d62a0767135dffd005e8c95ca83ba43"
+    ], 
+    "TIKA-1999": [
+        "99aa587d171207c0c557ce65397f767d6a42cdfd", 
+        "3e14505381eefa603adabe61171c0c19fc685b2f"
+    ], 
+    "TIKA-312": [
+        "e2049a1c4bf3cbdee365d0ed77ed5ebd6f802907"
+    ], 
+    "TIKA-1681": [
+        "320b2890038dfcb9191ba856c0e84e368851d24e"
+    ], 
+    "TIKA-475": [
+        "c730e0ddfd1568e268d9dc45132108c8226855e1"
+    ], 
+    "TIKA-1689": [
+        "1ff04b10f4c4b27d48f2103d7ae7b857001668a8", 
+        "58a757e0f7295af14bb8051a42d75bb0ccc8cfe6"
+    ], 
+    "TIKA-1127": [
+        "9d81bddc52fc3eb851f52099263d28b18bacde69"
+    ], 
+    "TIKA-1124": [
+        "ba80052ad7c7992a15aae7445488bed7584187f7"
+    ], 
+    "TIKA-915": [
+        "99ad6801379ee8e0918d51b7d4bba762694afbbf", 
+        "8630e56468e1d25920030251d9d97a862cc719f3", 
+        "e59e664a5cc17b5a0cc5be27986a5424719efcf5", 
+        "e2f1ef5cef672bf52400f35fc33ff4a123c2db16", 
+        "b90d72d36534d5b175b86b8584afd4f236f47696"
+    ], 
+    "TIKA-916": [
+        "00a14bb29de9d26224720194d596604f90570480"
+    ], 
+    "TIKA-698": [
+        "0fdbd741081cf2f166c3979e91d8a50e0c57f360", 
+        "4c5599b6694a31e8ce84a1a0d88100827d98490e", 
+        "9c9763a5ac67683553f155a33338bdf98e1a6937"
+    ], 
+    "TIKA-910": [
+        "5eb3dc1d76fe98ccdf522a0beb69f3d123ccfe98"
+    ], 
+    "TIKA-913": [
+        "28ae6120609d6303044588f6882bcfd72e607843"
+    ], 
+    "TIKA-693": [
+        "e7b51f0ea9a76e351fef07c806dce00ff47a2888"
+    ], 
+    "TIKA-692": [
+        "ad30687ead0422e4e71af4d7632f920af5b678fa", 
+        "24ef1035df8f53a1750884e8cff91d277528e6a9", 
+        "332e4986fc077212784ada8d5f3048473ccd06b4", 
+        "b16c8987e6910aeff242ce364753e6eec5eafafa", 
+        "8efad87c5e2933953eb7c254110e04f91104044d"
+    ], 
+    "TIKA-697": [
+        "2d42f07783fa52e1f3064f63e39712698916f2d6", 
+        "4885ea7e2eb8a557879a08be9eae85224b718063", 
+        "e72a9c4028f3e5d9039e6003c46015752be2282e", 
+        "31f96edba7e21c85a152c469e0331d0b6e6c71d0", 
+        "f74ff486131e6998800f1f8ee2f6d6ed56a33d7b"
+    ], 
+    "TIKA-695": [
+        "0c52b66e9dd568cd9af1529cd1b0fa0819c53e9d", 
+        "4b51beae8e08e82458792a63dd867319cb40e1e4", 
+        "022f18cecf52a0d653d5cba800ae1d6d3c2c294b", 
+        "ed4a05526afff4edf4eeea0eb0b9682fefaef310"
+    ], 
+    "TIKA-982": [
+        "0ce025c5cf0ab44a87bc56835e34803827f74b97"
+    ], 
+    "TIKA-2456": [
+        "560e91a176ca5ff1adfc3ff1c1f63e32ec4e928a"
+    ], 
+    "TIKA-2454": [
+        "3eff3ac86cb826faf76d98fb80147c28a4eb7562", 
+        "e0ff3ebff559bcdad690498d40898d426c0b2b02", 
+        "83f1afae3db65af966b13e6cc6dae3872aef630f"
+    ], 
+    "TIKA-594": [
+        "1121dfeff4a5ef26966c65473106f49213b46379", 
+        "7da803f8ec598ac8ec3f915e4d183e9cc5798754", 
+        "568868c333c37fbb0b3e93fe52022a4057a3f5f1"
+    ], 
+    "TIKA-595": [
+        "a0d5a4f7fb1f0eb938f9b5d9c894f0337cfeecc5"
+    ], 
+    "TIKA-2450": [
+        "a1533977852307c5095efaebfcc5a896d914a57c"
+    ], 
+    "TIKA-597": [
+        "e15598f83c404abb840bfe5cf285a436d2c3df3f", 
+        "ba5671c3f668decc79809d6ed8c8880219ab0ddc"
+    ], 
+    "TIKA-599": [
+        "d7601cc4516c3e2e9d00e882ba3bbf9c8f16ef8d"
+    ], 
+    "PDFBOX-1130": [
+        "aca3dfa1f086d2f6cbd6ebfdccfa9333ab1fbcf1"
+    ], 
+    "TIKA-592": [
+        "ca6b5ca5614867a682b966fdfa35a6f7b48c1591"
+    ], 
+    "TIKA-2511": [
+        "ce4d94888557a08f0535038e1586f235af0065b3"
+    ], 
+    "TIKA-2459": [
+        "d1a8bff9faacb828a1039f7cc2c7f9e1f1d5e3fd"
+    ], 
+    "TIKA-600": [
+        "2c5efd4a5bc0fab0d06677ae6f406dadc76c601e"
+    ], 
+    "TIKA-720": [
+        "aa944e848894e16adec24eeffe29e11b96ad29a8", 
+        "eb73a4be05f53e33679146810c28e74224f8b359", 
+        "2bbf5ca691a5b0a1fe9debe9922c2f5af2849609"
+    ], 
+    "TIKA-606": [
+        "2bf987b00c7d0b4d772b3502842ac3bb673198e6"
+    ], 
+    "TIKA-1166": [
+        "1e8e3c86d433337100aabfd9e22ce4cb2998ea9f"
+    ], 
+    "TIKA-609": [
+        "2129a0f906deee6fb05563da91d8642a72ac824b"
+    ], 
+    "TIKA-2356": [
+        "46334b8821d3d9df86491fdc46f669c0c7f39020"
+    ], 
+    "TIKA-828": [
+        "edb6775bf356eaaf656730589cc3340a15b602ea"
+    ], 
+    "TIKA-829": [
+        "dd8480f92b6a7750cb65ce2eb95c9d2fe8b9b988"
+    ], 
+    "TIKA-2106": [
+        "5af482ef6341369d6ba30df87ca2c8be9f0d0c0f"
+    ], 
+    "TIKA-2100": [
+        "198d5ef995532f262c970f2ef76e64b852bed7f4", 
+        "7536ed91afd9a3fe744464e34f95f3108c6bd5a2"
+    ], 
+    "TIKA-2101": [
+        "feac58b6f74156086113bf08bbfe9feda1c14b79"
+    ], 
+    "TIKA-820": [
+        "8fd76a41b32b80353820d4a8bdaa08de5529f7ee"
+    ], 
+    "TIKA-822": [
+        "48b28a6d31c3afb741ffa5ace4c0c4738101b539"
+    ], 
+    "TIKA-826": [
+        "83a8a97e02d1ac479bbea6770732e4ea9d8fcf7f", 
+        "9e22f46f2403b89dbc8454cefb8b83881f437419"
+    ], 
+    "TIKA-827": [
+        "a90b827bcbed21bb8a149cebdfdd483b3a20d7fe"
+    ], 
+    "TIKA-1226": [
+        "33280e0e96a3a6000e3bb747667ffca002752595", 
+        "7d3194a3be19dc81a425ad4247b85dc7891b8660"
+    ], 
+    "TIKA-1221": [
+        "359aae57ce045de191a14bb369e7980154deffc6"
+    ], 
+    "TIKA-1222": [
+        "8abbe99f47ed22f43097421264a356d2311801b4", 
+        "3b1d2498e25d51817c47e470a66c9251210b9dfd", 
+        "7b7ad9596116b402a938d5ded50a2ef621677c03"
+    ], 
+    "TIKA-1228": [
+        "1ca0efd92bf7068fb1ff0366dfe0f55612d56068"
+    ], 
+    "TIKA-1229": [
+        "2aaec12dbd492d716aab53f7ee32bdb247404c35", 
+        "17ef0deae2372bdb46cce2052425fec02badb6d7"
+    ], 
+    "TIKA-1906": [
+        "73aaa1bcee194e8fa73cb0c3cd60ae2eb3205bf9"
+    ], 
+    "TIKA-854": [
+        "5498c0eeea7d2a5d6d314bcddc7d307830e97c27"
+    ], 
+    "TIKA-501": [
+        "05acb51341cf2fd112ecbc8da517a33141b3a434"
+    ], 
+    "TIKA-851": [
+        "bd764ccb90cb61f40f22a0da1327e29f90590488", 
+        "b802cc16c4ee760be34c13f899cba2c8170ad712", 
+        "8584631a0ae23130dd8d3b28454479fc40a443c8"
+    ], 
+    "TIKA-853": [
+        "24bc3dc6f752d342a2d994da24545d4f9698ce90"
+    ], 
+    "TIKA-2078": [
+        "80efc84b675c8defa5e86b01b85e1dabc84d32f5"
+    ], 
+    "TIKA-1416": [
+        "fc87e4aa6f50760ad603b2e69a766ece2798b8e4"
+    ], 
+    "TIKA-32": [
+        "d3e678bf2c00961a33854ad3a0ecb0df7dd23b08"
+    ], 
+    "TIKA-1413": [
+        "0365ed2e430f3513931c01994e75fa55d1fb1b01"
+    ], 
+    "TIKA-1412": [
+        "484fe4ed66b39e9a11f44753e84e93384fc74201", 
+        "ec40cb6bad027e87eb32f4f20cfdb9fb0626f9c4", 
+        "a9406a5e17991af17b42e3cfee97d2060ddcb520"
+    ], 
+    "TIKA-1411": [
+        "cc922f459b20e997c2545bb1902aef6123eedea5"
+    ], 
+    "TIKA-1410": [
+        "1bafbb815913089847ed8689e47b958c44fd92c3"
+    ], 
+    "TIKA-1826": [
+        "3e7e335b29e175e1d937a7b4a0f70f0f1fda0d94"
+    ], 
+    "TIKA-1795": [
+        "f682eeec632bcfba9c879de077a968b926c3fc31"
+    ], 
+    "TIKA-1791": [
+        "02bcf2097e14a70274abbc1f9703548b82458f41", 
+        "c2895d525a941e22dff4e8a757d4025ce8f6e719"
+    ], 
+    "TIKA-1793": [
+        "f73655a020088276176c79359f8611f7eadc4378"
+    ], 
+    "TIKA-2170": [
+        "2e325cb7103f3e7090433264a52f9787200c526e", 
+        "e8bf985040e8b4fe6975468a6b912edd2d3e03d5"
+    ], 
+    "TIKA-130": [
+        "68628ea2173da55de9d767d17fd61558d4b140f7"
+    ], 
+    "TIKA-2175": [
+        "b97045aea303bac75bd3c937cde6b42c7a3b3c48", 
+        "91cdce43d22cd6726375a83c7842fa299035a258"
+    ], 
+    "TIKA-2174": [
+        "b97045aea303bac75bd3c937cde6b42c7a3b3c48", 
+        "98de2882842cecdf5d160c76c3b1f1e62c57d563", 
+        "1aff6380d46b9104835909c31e7f2f36f621eca0", 
+        "c17d1b8a6bef4409787aa2b58b96f691dfcf1170"
+    ], 
+    "TIKA-2179": [
+        "81fad8c97e60a3de7d926dc4ce10cbd235549583"
+    ], 
+    "PDFBOX-1320": [
+        "2e6b1bccfd5425f424da9ae8ceca7225a247b3f1"
+    ], 
+    "TIKA-1092": [
+        "6a41a3a009577a4cacb8d848aa8476c35f583bf6"
+    ], 
+    "TIKA-596": [
+        "88a018918d054ca07551035fdfb14ef4475dede2"
+    ], 
+    "TIKA-210": [
+        "60c9b0e05868fb786180b3d7403537b2e66dce03"
+    ], 
+    "TIKA-1110": [
+        "8d794b56dc413f41f0cb0a288aa55b55a7f198e9", 
+        "0eb87d73442571b7e7a66f8fd12236fd8e937594", 
+        "9385906e6a5adad9f820aca6e8138dce41ab122b"
+    ], 
+    "TIKA-1310": [
+        "0b57b5c2d885b9223c0c77133844a3fc39f5bcc4"
+    ], 
+    "TIKA-1058": [
+        "d1291b6478de7d8325db0453f549ebf69f4e0372"
+    ], 
+    "TIKA-2883": [
+        "f6644c577416c20ab8827ac857d75cf6874e093d"
+    ], 
+    "TIKA-1317": [
+        "a13fdace85d18eccc4ec9ee918e86541204374b1"
+    ], 
+    "TIKA-1251": [
+        "8e0c444b1f1bf61215a298c2b782b5cb451f9cde"
+    ], 
+    "TIKA-1252": [
+        "cb6c9b845c0a883ff35a30fb0018cccfe4deb024", 
+        "3cfe5ad70d02b22c8464b6073de9fe55830964ac"
+    ], 
+    "TIKA-1255": [
+        "80efc84b675c8defa5e86b01b85e1dabc84d32f5"
+    ], 
+    "TIKA-1257": [
+        "416b57e1ebdfddb14c75e6af7f700eec7d8f4eef", 
+        "beff3947978d4573e35a40a7b0ad8fb7ec89a2f6"
+    ], 
+    "TIKA-1971": [
+        "74085318373082e3b4662481eb78e62a07726ddc", 
+        "74085318373082e3b4662481eb78e62a07726ddc", 
+        "e08d00654a77267686a112e0665c324ef041c033"
+    ], 
+    "TIKA-1708": [
+        "3f784c6708e594956a5a62d9f421eec99a4b5f4a", 
+        "98b088d6f1cdd44aacabc60346b8b065ae2eb94e"
+    ], 
+    "TIKA-1170": [
+        "b2fcf77acc20e4dcf016b121cb0ccf53ca7ff2da", 
+        "4c6313ff8424a8b8eda7c2c6aa6f9406660ff946"
+    ], 
+    "TIKA-1078": [
+        "94ff74c029ab8ea6dfd121938b2e6a6bc414a8b3"
+    ], 
+    "TIKA-1175": [
+        "5c3070cbbaae9c3d52e07798519fc0b960594c78"
+    ], 
+    "TIKA-1070": [
+        "2db38125fb23d9ddfdf64a0cf18dce677a74499c"
+    ], 
+    "TIKA-2250": [
+        "90bf4f6e4c645240b36ded6973eb64961312fc0a", 
+        "e6c0082e41143a01f0bf646a8a8b6c06a85ca239", 
+        "847156ac0f5fa7d4cc06964198359cf594b66d50"
+    ], 
+    "TIKA-1899": [
+        "bf2d405437d5807525406e26025e12d445e00b20"
+    ], 
+    "TIKA-1898": [
+        "c94236a8365b9ab1491d98c31819a85b065a9fe1", 
+        "959c9ad2843ed8d21cb3e8c60e5ac614e2f7ab99"
+    ], 
+    "TIKA-1956": [
+        "dab10395ab59a36be52529d3afa7ed370ce60eef"
+    ], 
+    "TIKA-2310": [
+        "4131c6e30f2e0eb1feb85e0f7576531d4e830468"
+    ], 
+    "TIKA-1489": [
+        "d1e8d7176952d7e82e2d72ae08b2ee40df17902e"
+    ], 
+    "TIKA-478": [
+        "a1c050381e3cd2fff0ee9144f2d867d0491a1cdc", 
+        "486281b69d4d0f83ec4c35b85514b18b90a17eb8"
+    ], 
+    "TIKA-439": [
+        "c1fe86389add3dfcb068ee1dcebe15770d495eeb"
+    ], 
+    "TIKA-1870": [
+        "ed762b702875c843d0322b8ba6d05385ca91875d", 
+        "1882defb38ed244d667114399ea31e6b938c31b3", 
+        "3b7922db1a2e72181e1a00168d2aee33bfe1d4a3", 
+        "0bd05cec54c581c971d90380304aaa23c9543296"
+    ], 
+    "TIKA-434": [
+        "3c3e6d1fa65db1b5d8c01bb42a5da85bbde67bcc", 
+        "31ce68f698019a9051011faa6bbb47b082ed210a"
+    ], 
+    "TIKA-2089": [
+        "621ded89fd909380ff5c3d2c5d13d73dd6e5b982", 
+        "cb7b84a48aa7f500c08733b06fc78e6c1f0bba14", 
+        "95c515db2f303db049c79a7bd0c260ec559186b1"
+    ], 
+    "TIKA-431": [
+        "b7ada46ce72027b5a5c5a0bd455aaaff38144b51", 
+        "09c6122d4cb05da6a3e9d4b0eaaf3d5ecfc33d61", 
+        "7d89a5e455686a945f2e3302f0d201e5e6c4a985"
+    ], 
+    "TIKA-1005": [
+        "4e09c6360355b73801b95c97e139619acbe012bd"
+    ], 
+    "TIKA-1006": [
+        "433f21c4805e7bb930964f87d15c30f62e0eb5d5"
+    ], 
+    "TIKA-1000": [
+        "fe76f5716d09471a8751ad5bb88a7650f73d235b"
+    ], 
+    "TIKA-794": [
+        "96c92f509db1f424147ac0f1b7a5cfcfe6211435"
+    ], 
+    "TIKA-792": [
+        "ed60a56b5109a4c1b92a263a5f431d688d02dc80", 
+        "e9c0166da98b55b66b217e4fe6afd13904c620d6"
+    ], 
+    "TIKA-1024": [
+        "a3f156bfa445f5c0172a90107c6c15402bfa120e"
+    ], 
+    "TIKA-2490": [
+        "88a5e5179f4104c8e4f8e33a58753efb06fc3139"
+    ], 
+    "TIKA-2491": [
+        "88a5e5179f4104c8e4f8e33a58753efb06fc3139"
+    ], 
+    "TIKA-2221": [
+        "c62410443ca88f8118f50e6ee521a13a22f64729"
+    ], 
+    "TIKA-2759": [
+        "17cc77486d1c3f3e3379966b947687c57656a061"
+    ], 
+    "TIKA-2551": [
+        "066e60d5d6de8d51124c297410e7a4eca787d143"
+    ], 
+    "TIKA-2550": [
+        "a178f61b1ba63f2e81d4c0fb6244a03de95f6399", 
+        "6b5dd8bbe09eb099ec75846ec02391cbd32351c4", 
+        "4ae1a10ec3f44f5278a1b741f0ea795c3f664cb3"
+    ], 
+    "TIKA-2555": [
+        "919768a649ebb4585ce45cf0f0a37ee0bb371355", 
+        "919768a649ebb4585ce45cf0f0a37ee0bb371355"
+    ], 
+    "TIKA-2691": [
+        "1551a796b00949da4f7e7a26c9a5342c08882b18"
+    ], 
+    "TIKA-319": [
+        "945871993c88dba87c6311f01e65bb1a61db12df"
+    ], 
+    "TIKA-649": [
+        "907880f1c3f86e55fd83eae3209a5b238e580a06"
+    ], 
+    "TIKA-644": [
+        "9c9d6f85aa15ab2e65d103b0b0d34769dbfe100c"
+    ], 
+    "TIKA-645": [
+        "406cca3479f95de7543c59d8bd31856409b701b3", 
+        "c2f7fe03d7bbaf0ce42f9c0ea08c0871f39a9c24", 
+        "c77287289407b971e8e1811fd1e976e6f59093ad"
+    ], 
+    "TIKA-646": [
+        "1fcb10afd65a0a007beb631a3ac5f1f6b8027d35", 
+        "ac4b6ef8f4bc4cdf93d062c0a55a0e43007cfef1"
+    ], 
+    "TIKA-647": [
+        "ee817f06c81bcb356d3dee84cb9aff05376173be"
+    ], 
+    "TIKA-2795": [
+        "e921e69c1a484de3036ed4e5a8654b046f54ceea"
+    ], 
+    "TIKA-643": [
+        "03752ab3ea833c939929b677ae6f5465a872f7be", 
+        "a5df8777ca65f6f40545d0c02455b2443c6955c0", 
+        "0a7b8ce9f466dd895316084dcdd1ccc5401629a4"
+    ], 
+    "TIKA-1678": [
+        "1ecb5f93b3af6ab23cbf2eaa329fca7ae140f530", 
+        "9a8798b8e19b2149e1f5b678804f328dd0be6686"
+    ], 
+    "TIKA-725": [
+        "1e785151730deb210bbd72f96c8f3a599a24382e", 
+        "39a63cad3ad912f412f75a2dcdca400ab8e37ab6", 
+        "ab1aea62e8c1a20652c004c55bffea83b8f7eb60"
+    ], 
+    "TIKA-724": [
+        "94356cb82bdefc805b8d09bd00057ed8e260199e"
+    ], 
+    "TIKA-1673": [
+        "f2218da2a8fff4160c3a3931d4daa7acd2bef36a", 
+        "2764fb8606964c3350c781ecf5df4042706b4099"
+    ], 
+    "TIKA-483": [
+        "98eb0b0ec46c8a826a8a76a52636d8cc617d3201"
+    ], 
+    "TIKA-480": [
+        "fed8c465cd4b6b6fd4158b284b317806064f0a33"
+    ], 
+    "TIKA-481": [
+        "4f6a589842f4648f23a0d9e4bac5283893cac9da"
+    ], 
+    "TIKA-1676": [
+        "6029c0d5c4e07ff217fcd43a6c1e81170acf603e"
+    ], 
+    "TIKA-866": [
+        "66bdd0b3162ada79db13e684f918a0883be25d45", 
+        "fbd2d6db793746fbb5f605731157b5181dd6ee9d", 
+        "a547dde812cce268518796e116f63ef0a3f4c8f3", 
+        "1f16bf8e5ef4848d9d2e91e1566c1cfb5617f311"
+    ], 
+    "TIKA-948": [
+        "c6bcd32b9f0b086743ce0214a925901984a0a3f6", 
+        "3e2a65294894c61051034f049f034cde1322175a", 
+        "f28f04af7e60ffc04550030c0c99e8c7dd931442", 
+        "218352a1ce7de0881416eff741d832a1abc51f07", 
+        "1543cb0f3d1b4877825a923faa1f0f3ae990c4f9", 
+        "843569ad2fd8065d5654f709d12869d8c515803e"
+    ], 
+    "TIKA-863": [
+        "5c29442148711a86f01ded50bc5e13f1343090c9"
+    ], 
+    "TIKA-947": [
+        "23eb923e98ac1ee079834334d39a668f5bf231a3"
+    ], 
+    "TIKA-869": [
+        "56237e39f39092ede166eb790f3d5c0b4644d8e0"
+    ], 
+    "TIKA-945": [
+        "dcd70501358a71cb6b7e1da5337ec86c4018037e"
+    ], 
+    "TIKA-2753": [
+        "d6dd1b2a169500fc0452d2f7ec2a54ba3d31381a"
+    ], 
+    "TIKA-2426": [
+        "9f0144c248c210c03b7a3f3afa7885211dde3b52"
+    ], 
+    "TIKA-897": [
+        "aeeb366b987b20902c531f5ecac38f334a377d72"
+    ], 
+    "TIKA-543": [
+        "6789916a730bf91f51ee1ba502cbf137508ec370", 
+        "8ee313a52496e212e3af85012580b11250ab4af9"
+    ], 
+    "TIKA-268": [
+        "a09f5af5dd6e5b81bf7d3393851cc65f4855c619"
+    ], 
+    "TIKA-266": [
+        "3acc27cd9398527ed125aa21f3c77e30c38d3332"
+    ], 
+    "TIKA-267": [
+        "00ae4b3c4ef6503086aac939ff023dc57c85137f"
+    ], 
+    "TIKA-265": [
+        "b4e1a57cd26bc420c21d9800ea398cf0f323834f"
+    ], 
+    "TIKA-262": [
+        "ace49289168ed9367a6ed48a59f37719a9a544b9"
+    ], 
+    "TIKA-263": [
+        "29af90d132752b20e252f2aa275129e343082771"
+    ], 
+    "TIKA-260": [
+        "471655eaa05e3749869e9bf0fefccbea15c6bb68"
+    ], 
+    "TIKA-548": [
+        "edd122dde40de1eb77e8da15039a3aaf6792610e", 
+        "8e58142f50588e11c75529c0489a04d9cb167e1e"
+    ], 
+    "TIKA-2034": [
+        "ff5d065f902e66944f1b91a950c0ba288aa615e9"
+    ], 
+    "TIKA-2037": [
+        "952fb54ed78a2fba07db4653cc674f5641211031"
+    ], 
+    "TIKA-2030": [
+        "ff187a0f459e9b6b365fdf1160fff6a3f268426d", 
+        "c0320f14194608d31b9ffaae9250f28c46017b75"
+    ], 
+    "TIKA-2134": [
+        "27e026eff589f5829ddb4374de0d85daf37a9d2a", 
+        "526fc08f2a0a4c44ea191a10748ca9ef0e834cb3"
+    ], 
+    "TIKA-2130": [
+        "7ca105ef5716a23300da0b8939fcfa249b798532"
+    ], 
+    "TIKA-2133": [
+        "bc7216ff70d87c71c5817cda89d990d4f7075ccf"
+    ], 
+    "PDFBOX-2122": [
+        "468698dd18a0fb01bbc6554bb5eacbaf42b5c59c"
+    ], 
+    "TIKA-2761": [
+        "f7c3ece80e2db7e060deb0be3746d7dfa003303b"
+    ], 
+    "TIKA-1354": [
+        "11787f5fac99e14261dbe792e75549ef8fc19e42", 
+        "d600793f89bc2f03dfd9d258b9eb3942985fcc7a"
+    ], 
+    "TIKA-1350": [
+        "8c0667b5853dac5eb645ba6f5dddf14b75834f18"
+    ], 
+    "TIKA-1218": [
+        "ed77de42dbeb0b1fb5f7fafd42b02b7f43805929"
+    ], 
+    "TIKA-1353": [
+        "a9a5c03c4581fc43e0e17372dc4c4863e280e762"
+    ], 
+    "TIKA-311": [
+        "99c2dd5ea17081585bf559962e33366c4b2428d1"
+    ], 
+    "TIKA-179": [
+        "e43a19e433b6085b91bf44f534dbf055db313026"
+    ], 
+    "TIKA-2683": [
+        "60bba0696868fe1bb027e2ab3e5b7bbfbd0b75cc"
+    ], 
+    "TIKA-2681": [
+        "469d28a23269f5ab7f91882b569e6919afd8bf34"
+    ], 
+    "TIKA-1524": [
+        "70dbd04eb37b246d97ef3a6854f07495147463a1"
+    ], 
+    "TIKA-1031": [
+        "1781506c0d51152ffbbcfd9438bb8ea87c0a732d", 
+        "e10c23b3ad00dd9d8fb059fdbfc40273b8e2469c"
+    ], 
+    "TIKA-1032": [
+        "9ec715349810ab8e2d149028679ba6baebeae14b"
+    ], 
+    "TIKA-1916": [
+        "5e170d4373c28a4b520196591c4d94ab8073bfbf"
+    ], 
+    "TIKA-2721": [
+        "b6c4f8e2617840075d546433f461b7df566e401a"
+    ], 
+    "TIKA-1914": [
+        "7a4301ed3ac21f73b049d4111f46ba6cda69145c"
+    ], 
+    "TIKA-2688": [
+        "aac3af4ccb9da07b1ade1a57ed5e015dbedb17c4"
+    ], 
+    "TIKA-1038": [
+        "15303fe8bcb1b975be727041c0094e471f0b801a"
+    ], 
+    "TIKA-1529": [
+        "892f3a8b1e44efdf86ec9aed0887de7afcbf01ea", 
+        "83b8f79c71dde3f45097a047d8fdf4fd4cf66dfb"
+    ], 
+    "TIKA-2727": [
+        "86d4ba1e1806c8c386e913f6848b938f657df2c6"
+    ], 
+    "TIKA-2041": [
+        "bd9a9b911b4e0205c9dfd4527063e6e1c0fd0c44", 
+        "7dc5c671f892bac79d8fb2d55e9e94718ca31cbe", 
+        "d698d49793bb96aee6a8bfcc4a174c922cb83cb8"
+    ], 
+    "TIKA-1856": [
+        "2eb49a721b77edf23c3588326c8d480332d79722"
+    ], 
+    "TIKA-2042": [
+        "00221ad34a18f501d967979288236b98bd4cec58", 
+        "0579efe59c35a4db248d8a5547af05fbee3caad4", 
+        "0277fbb92c4714361949d59708db2a8734f1b1f2", 
+        "72d2d88b381ba75942ae791042ef54af33ee1f38"
+    ], 
+    "TIKA-2047": [
+        "415381212291e843e9091f43f6db8c432eb02aa9"
+    ], 
+    "TIKA-2048": [
+        "85e53850026aadce49bc99c1ef2de9d5c7be0451"
+    ], 
+    "TIKA-163": [
+        "c6d2f094af965cd6dfab8a668946c60aaf616ea2"
+    ], 
+    "TIKA-2836": [
+        "84343bd2aa2ef1fbbfbb2d95bc824283ab6c9f42"
+    ], 
+    "TIKA-2519": [
+        "95baca2b58538ec1d75fc5b6c80fd06b7eebb7dc", 
+        "2169cae44277a18430e4de462b4ae5b1dfb8956b"
+    ], 
+    "TIKA-1128": [
+        "8b82be859eca418bce7aa3a4687917c7385d4397", 
+        "14aa5bfbab763cb00677d89b7e6cc0077c8a6ca7"
+    ], 
+    "TIKA-1758": [
+        "91422cb971440950403688f0cadb10e814d39250"
+    ], 
+    "TIKA-1450": [
+        "f3718fa956c98be0169b74dd9e9edfe00b90ed1e", 
+        "3d1a87ef5795e0a3f10fb1a7154e2176afb46cc7"
+    ], 
+    "TIKA-1750": [
+        "e607d65bc58087116408988342331dcb20ff9bba"
+    ], 
+    "TIKA-1459": [
+        "e2293d302bc5f447563c5c6c93907b55bba6e91b"
+    ], 
+    "TIKA-1757": [
+        "91422cb971440950403688f0cadb10e814d39250"
+    ], 
+    "TIKA-1620": [
+        "497445ed4c3a776898bb710d416d8320ab7edc35", 
+        "9f255bc73011de43ef115e11c3fdf5438394bc42"
+    ], 
+    "TIKA-1621": [
+        "7f9d4c2209b860a9da5f3f5f93a131140483c12a", 
+        "3210d79b0330614e8088f31dfaa3712df027d521"
+    ], 
+    "TIKA-1622": [
+        "b5a79c85d13ce512fe3346653637d809efeda4c4", 
+        "398206631a2bf9f3bc74d6808a964af57fc8a1e0", 
+        "a54b37a407abbf72e9ac8f5867f873736757e1bf", 
+        "d4f437c5f4fe01903b825a072a53c802fe0c1c61", 
+        "d3c776ce35940cfb5f4b8127d239e580860a5bbd"
+    ], 
+    "TIKA-1623": [
+        "a85081207afc8d5bc7c9a9e9c09ad72b3c6743c2"
+    ], 
+    "TIKA-1629": [
+        "88f140f5cfd63202a48bab7a43e2c6cae05ea8da"
+    ], 
+    "TIKA-1145": [
+        "c7d7f66f8c9e389d8654a6a57f0e14040f2e9d51", 
+        "066f587584998f82e738496cd2906de8ffecb9b4"
+    ], 
+    "TIKA-1147": [
+        "a852c4f55cc320087d4cfa300fca5ffb9c759918"
+    ], 
+    "TIKA-1146": [
+        "c743609f654435a326c0df657597a7bf61a304ec", 
+        "22fc879bf987c2ab1fa24d68c10a97cb4797614e"
+    ], 
+    "TIKA-2594": [
+        "9c01111a822419797f20a09388ccd235c7e70db9", 
+        "09031046e5bece75ed22d9ee9b184ec49a14f99a"
+    ], 
+    "TIKA-2591": [
+        "bbf8447756887e00becc9beb201676de04a3fd2a", 
+        "462ee4744fd426cfdb12539435627b25e789c912"
+    ], 
+    "TIKA-2590": [
+        "947334cbf40bc6efef1cb488749213724bedb171", 
+        "c56c7c41a6c51e4cd4dac78b693bd883f1329264"
+    ], 
+    "TIKA-297": [
+        "a463b9fd2ac3046b7e669b3549385f962a2482f5", 
+        "26293c081dec22ba22f232f6d3d73c66a81e2ee9"
+    ], 
+    "TIKA-2510": [
+        "a047fa945c033666723cd0f18c536c1d56cac436", 
+        "d4fd659ac5c3070104a85df4a535afe570b08a0e"
+    ], 
+    "TIKA-2269": [
+        "0b85460ef3065b6f4750d1d8d35d79e692b9523e"
+    ], 
+    "TIKA-2347": [
+        "beedc4277526c6327524acb3a799b2ca6c898a05", 
+        "639f3bf361a08210da8fae68e3eeb4e12df6c4de", 
+        "93cbed6df993ef01e59c55b86449b664e9052cae", 
+        "d64a32c63f376b9e003a4512adfec05414d4dfe6"
+    ], 
+    "TIKA-2599": [
+        "10a48b7a0077fbe627d3a0111f92910228d05d77"
+    ], 
+    "TIKA-2345": [
+        "86e821b6d47b32e0d00dbaf95d84cff5aa5570b5", 
+        "4d3a43c1682ca88f8c5a88ea1b34cd6fb105f997"
+    ], 
+    "TIKA-217": [
+        "6ef60c2efd0c2607c400ac8b9e66d605a4ea2267", 
+        "4abeb2d772fc33aebdcc06ca0dfadfb660055cc0", 
+        "d34e55056c344bcc561e4213058f1d4fd8b87139", 
+        "23e3bae9d9d6ecfe035939e179e1dd3fd69a1539"
+    ], 
+    "TIKA-1584": [
+        "90bc595d756376cc40ca17ec13cdbae5fb023a90"
+    ], 
+    "TIKA-760": [
+        "f52da719f16ad7379d5b7019ac766a80ab48d6db"
+    ], 
+    "TIKA-444": [
+        "11cb2674b1cabedf3d371238ede98a327389fd06"
+    ], 
+    "TIKA-214": [
+        "f49c4bdbe322506c6ddbf301cf842ac14eac3d67", 
+        "f49c4bdbe322506c6ddbf301cf842ac14eac3d67"
+    ], 
+    "TIKA-190": [
+        "2699cf47e222d61b5c4f5ab0757c63199e3fd62a"
+    ], 
+    "TIKA-441": [
+        "97549f630d1971525d9b34f9af8b85e57212e500"
+    ], 
+    "TIKA-2290": [
+        "67cd6c35007aab2053bd0ee0e83108594f4e09bb"
+    ], 
+    "TIKA-1135": [
+        "ec32a29d3109df74e56b7878809aa0c5be862666"
+    ], 
+    "TIKA-1137": [
+        "19c87d948588c84927e3b03babbabdf4310a349c"
+    ], 
+    "TIKA-1130": [
+        "970bafe849a6aa2e4e5ed1140e033fdb9c8abe32", 
+        "8f492eb021cfbca132175d9418e17aa543874160", 
+        "281bcf591911f156c5592087b897ce293740239a"
+    ], 
+    "TIKA-2295": [
+        "65182ee39b4fcbea0ec4d96a651194b9751b6c9b"
+    ], 
+    "TIKA-448": [
+        "aea844ec10793bb440b0b1121cf7dba42bc13b16"
+    ], 
+    "TIKA-1441": [
+        "3c68cf0f918e5263a90fa4d24f32a364ce2ecac1", 
+        "ace2ad96b75fecffa2c54d220afe6c4f2b0d36c4"
+    ], 
+    "TIKA-903": [
+        "4a01b485567a750d7482f119586aa9ca29c38cbc", 
+        "27fbb0a2303433efb077ec449a591114c264e3c1"
+    ], 
+    "TIKA-211": [
+        "b7e960e5b58a28d67bcda70fb7d455cc0ac4d19b", 
+        "035d8d3dad64179c6eda295233f064d0e0310f1b"
+    ], 
+    "TIKA-900": [
+        "c181ed933b85bdccb109cb231e12bc421c2d2e67"
+    ], 
+    "TIKA-607": [
+        "1bbaa907a3d0fa8f8a21795f00fc46b1e7e7c469"
+    ], 
+    "TIKA-2469": [
+        "ad23d84f88abe6e540e989c988142f1ca0c876a7"
+    ], 
+    "TIKA-2464": [
+        "62d56653e676127bb4d8de39f383feadd513bddf"
+    ], 
+    "TIKA-2669": [
+        "2c75ea1d14a7d8bd662337e35eadc85a1931c43d"
+    ], 
+    "TIKA-581": [
+        "46dce5b798874e3b1130ad3f39308d89068b8d52"
+    ], 
+    "TIKA-587": [
+        "81336229e106373e3eaa190f61c8ac2667c85fe9", 
+        "b65fad1d762bdc691258a4b5d473671e1162801f"
+    ], 
+    "TIKA-999": [
+        "8b68138f77faf7d883455f5aeba908e52f5ddfe0", 
+        "9c0f4ca22c79a049b9459ce6f4dba8ba527da5d2", 
+        "a06209b1d5e263fd579afe66318560deeda7f66c"
+    ], 
+    "TIKA-2506": [
+        "1e8008c60ef1536b4c5bdd92fdae1e9e687e5966"
+    ], 
+    "TIKA-2509": [
+        "5f3102fc80b8bb8ef919153e000a0f7258621cba", 
+        "214b8923fdf0dae1e6866d5b75f4780306842c0d", 
+        "0b9aa9b5efde795f6b863c987abff5be07530a41"
+    ], 
+    "TIKA-588": [
+        "cb914940abee5c9e0289323eb163370ad483968a"
+    ], 
+    "TIKA-990": [
+        "3e7e7c95e68a8b3be8204e9c4120cc8199b5df57"
+    ], 
+    "TIKA-227": [
+        "6be2c4ab2f32e036b7e48539087c07b104ee71ea"
+    ], 
+    "TIKA-992": [
+        "aa18a7989e73510ac148ef56a47d151385e3b268"
+    ], 
+    "TIKA-225": [
+        "fd0470f664576fdfffe2cafd3f90f924021df38b", 
+        "27a100a886f452ebbe6e531d2681a1d8a86d8913", 
+        "e5d034df892bf6dceaf94026512ac6472372fde1", 
+        "368e6fafc5bce2abd9efeba0800d098a876cbcfc"
+    ], 
+    "TIKA-611": [
+        "4fca14426d641bb81e49ba5ec5c9534dc8375e43"
+    ], 
+    "TIKA-346": [
+        "4d89ea2c6349fe07b5dfc1134fa5cd4960a33710"
+    ], 
+    "TIKA-619": [
+        "3ab6160ca74fd1d6bb2e5de3ddb43d48b4ebef9b"
+    ], 
+    "TIKA-618": [
+        "8b87a3848fc28ffaf536c5d3e5954239959cac2f"
+    ], 
+    "TIKA-2588": [
+        "16a8ff95290027682762932b6b29463790fe5b6d"
+    ], 
+    "TIKA-839": [
+        "8f05b4e99721921279f2656663c58b403eff2329"
+    ], 
+    "TIKA-831": [
+        "5a1ebc75ec867a1d7d204239054e27198b88e2ce", 
+        "e2720e4736b830873d0abce69f3bd3e3798e527a", 
+        "915be4f4fb999a79ea1f3f90b3a2637ea086ae26"
+    ], 
+    "TIKA-830": [
+        "bc075703823e7250a7ad7db93ef58712133920f2"
+    ], 
+    "TIKA-394": [
+        "8a5f28845f28f5a5e2debdfc0fa3f89c738cd2fe"
+    ], 
+    "TIKA-326": [
+        "b4405b7be7210fb3a0d08bff33a274c229744ea3"
+    ], 
+    "TIKA-1152": [
+        "3dec31215d95917e7f6f5113ce966d2d61231800"
+    ], 
+    "TIKA-324": [
+        "ac74696e322fa93bdbec982f55226f717be66d24"
+    ], 
+    "TIKA-534": [
+        "cd45bd25057d9718afac37c69e6b4ab5b1b91a7b"
+    ], 
+    "TIKA-533": [
+        "4cf76141d00d705324dceeec7c6dfe1c1a2c75ce", 
+        "d60651e489947e4a57eac775928e4b82d77fbd6d", 
+        "1a564ef51767b8d8117bb9c4f58ad765214cc50b"
+    ], 
+    "TIKA-709": [
+        "ec9d7d201f0fb580a32b599a6340a220063ca82c"
+    ], 
+    "TIKA-1816": [
+        "40b4a6d988f3745e530d6c9f703f14771eb0a326", 
+        "caa2b5a675f71b2c66eea3a2216dfc1621710dd5"
+    ], 
+    "TIKA-1815": [
+        "3574c9c68d8620db9b89e294daa34267f2a09712"
+    ], 
+    "TIKA-663": [
+        "5e91e71556b700e9a84fd433bb40d7011c1ef35b"
+    ], 
+    "TIKA-1156": [
+        "042ec600f452dcfeff385744f639760e936c2407", 
+        "18a89e9a94571d511368529a80f72d90b17f65b3"
+    ], 
+    "PDFBOX-1803": [
+        "6b7db9975871d6a9426fcff284661b33ed079448", 
+        "0e3c51ea1dd800ecf70f43ebdeb9559c07b72aca", 
+        "0e3c51ea1dd800ecf70f43ebdeb9559c07b72aca"
+    ], 
+    "TIKA-121": [
+        "acf76a64d81eb9c901d92fe718c0f0ffb4d14ced"
+    ], 
+    "TIKA-2169": [
+        "2df8567ffc688a29de1394a208e651961a8ab53a"
+    ], 
+    "TIKA-1086": [
+        "ad853f4b7cc8f36c74761dd517d55dc052d722b7"
+    ], 
+    "TIKA-1369": [
+        "2335991f60135e641413a464687f75c15b82b21c"
+    ], 
+    "TIKA-1081": [
+        "36f505116edb3ab736570bf6c35c77aebafd4f2a"
+    ], 
+    "TIKA-2898": [
+        "9a8ef5e7844df2569494b27f51e28047a5596018", 
+        "06e734b3cfb192b96581338281c0373ef385d3cf"
+    ], 
+    "TIKA-2899": [
+        "620134b90b72632fee486ba3aa5b25ff6b271d22", 
+        "03fa48a887262a72146e6227da4b5eff8c6f6024", 
+        "18f5ce047c7f5fac7eed47038a4d53b91a204711"
+    ], 
+    "TIKA-1365": [
+        "d3be3ea26958b015579e170766e0cf61aad78806"
+    ], 
+    "TIKA-2895": [
+        "c3685d0767837a02cda93cfe49d81c31e352191d"
+    ], 
+    "TIKA-1363": [
+        "3aa77388e9edb77853181a7cd3e479d14e746c7a"
+    ], 
+    "TIKA-1362": [
+        "4a75eefea9d04499c7cd4c9e99c9df3e4b73a97b"
+    ], 
+    "TIKA-1716": [
+        "24b8c2a918ac599b5aff1265f2e08014de1a2fe0"
+    ], 
+    "TIKA-1711": [
+        "3e311797b0e8b220a506e6ba7be71a4bb87bd527"
+    ], 
+    "TIKA-1712": [
+        "4753ec6bb1426d55d8bac82ba947ff9c57da25f8", 
+        "31c5d2d173a1a8dbce45fe3aaab3412a68a096cc"
+    ], 
+    "TIKA-1248": [
+        "a360ec5add94fad571114f6090e363df6c9295e7"
+    ]
+}

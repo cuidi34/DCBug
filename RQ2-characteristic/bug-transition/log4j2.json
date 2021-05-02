@@ -1,0 +1,7664 @@
+{
+    "LOG4J2-946": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 10m"
+        ]
+    ], 
+    "LOG4J2-1180": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 10h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14h 12m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "146d 6h 37m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "66d 56m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "19h 54m"
+        ]
+    ], 
+    "LOG4J2-855": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "4m 18s"
+        ]
+    ], 
+    "LOG4J2-1058": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15h 33m"
+        ]
+    ], 
+    "LOG4J2-1506": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 5h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13h 58m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "33d 6h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 5h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 17h 27m"
+        ]
+    ], 
+    "LOG4J2-1504": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 13h 36m"
+        ]
+    ], 
+    "LOG4J2-1502": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 10h 26m"
+        ]
+    ], 
+    "LOG4J2-1051": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 26m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "459d 23h 20m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17h 54m"
+        ]
+    ], 
+    "LOG4J2-1500": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 28m"
+        ]
+    ], 
+    "LOG4J2-1501": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 6m"
+        ]
+    ], 
+    "LOG4J2-1117": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 37m"
+        ]
+    ], 
+    "LOG4J2-1110": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 8s"
+        ]
+    ], 
+    "LOG4J2-1294": [
+        [
+            "Open", 
+            "Closed", 
+            "3m"
+        ]
+    ], 
+    "LOG4J2-622": [
+        [
+            "Open", 
+            "In Progress", 
+            "52d 10h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 42m"
+        ]
+    ], 
+    "LOG4J2-704": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 21h 44m"
+        ]
+    ], 
+    "LOG4J2-705": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 21h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 36m"
+        ]
+    ], 
+    "LOG4J2-707": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 9h 42m"
+        ]
+    ], 
+    "LOG4J2-702": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "34m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "462d 10h 27m"
+        ]
+    ], 
+    "LOG4J2-703": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 7h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 8m"
+        ]
+    ], 
+    "LOG4J2-335": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 6m"
+        ]
+    ], 
+    "LOG4J2-336": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 47m"
+        ]
+    ], 
+    "LOG4J2-331": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 59m"
+        ]
+    ], 
+    "LOG4J2-709": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 14h 53m"
+        ]
+    ], 
+    "LOG4J2-2457": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 18h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 10h 1m"
+        ]
+    ], 
+    "LOG4J2-1372": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2h 13m"
+        ]
+    ], 
+    "LOG4J2-631": [
+        [
+            "Open", 
+            "In Progress", 
+            "66d 4h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 11m"
+        ]
+    ], 
+    "LOG4J2-634": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 10h 1m"
+        ]
+    ], 
+    "LOG4J2-1474": [
+        [
+            "Open", 
+            "Resolved", 
+            "134d 16h 13m"
+        ]
+    ], 
+    "LOG4J2-637": [
+        [
+            "Open", 
+            "In Progress", 
+            "30d 22h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "49m 45s"
+        ]
+    ], 
+    "LOG4J2-1573": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 7h 49m"
+        ]
+    ], 
+    "LOG4J2-639": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 19h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 38m"
+        ]
+    ], 
+    "LOG4J2-1570": [
+        [
+            "Open", 
+            "Resolved", 
+            "860d 21h 17m"
+        ]
+    ], 
+    "LOG4J2-430": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 9h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 5h 16m"
+        ]
+    ], 
+    "LOG4J2-149": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 21h 22m"
+        ]
+    ], 
+    "LOG4J2-410": [
+        [
+            "Open", 
+            "Resolved", 
+            "157d 5h 42m"
+        ]
+    ], 
+    "LOG4J2-147": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 6h 50m"
+        ]
+    ], 
+    "LOG4J2-144": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 17s"
+        ]
+    ], 
+    "LOG4J2-145": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 23s"
+        ]
+    ], 
+    "LOG4J2-1872": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 9m"
+        ]
+    ], 
+    "LOG4J2-143": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 56s"
+        ]
+    ], 
+    "LOG4J2-140": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 58m"
+        ]
+    ], 
+    "LOG4J2-141": [
+        [
+            "Open", 
+            "Resolved", 
+            "530d 13h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10h"
+        ]
+    ], 
+    "LOG4J2-793": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 11m"
+        ]
+    ], 
+    "LOG4J2-1971": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 19h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10s"
+        ]
+    ], 
+    "LOG4J2-380": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 12m"
+        ]
+    ], 
+    "LOG4J2-381": [
+        [
+            "Open", 
+            "Resolved", 
+            "810d 8h 26m"
+        ]
+    ], 
+    "LOG4J2-799": [
+        [
+            "Open", 
+            "Resolved", 
+            "418d 20h 21m"
+        ]
+    ], 
+    "LOG4J2-798": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 10h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19h 40m"
+        ]
+    ], 
+    "LOG4J2-385": [
+        [
+            "Open", 
+            "Resolved", 
+            "149d 1h 48m"
+        ]
+    ], 
+    "LOG4J2-2271": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 36m"
+        ]
+    ], 
+    "LOG4J2-2270": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3h 47m"
+        ]
+    ], 
+    "LOG4J2-71": [
+        [
+            "Open", 
+            "Resolved", 
+            "12m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 11h 12m"
+        ]
+    ], 
+    "LOG4J2-77": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 50s"
+        ]
+    ], 
+    "LOG4J2-409": [
+        [
+            "Open", 
+            "In Progress", 
+            "126d 16h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 40s"
+        ]
+    ], 
+    "LOG4J2-75": [
+        [
+            "Open", 
+            "Closed", 
+            "26m 21s"
+        ]
+    ], 
+    "LOG4J2-2276": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 16h 26m"
+        ]
+    ], 
+    "LOG4J2-2279": [
+        [
+            "Open", 
+            "Closed", 
+            "42m 11s"
+        ]
+    ], 
+    "LOG4J2-78": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 19s"
+        ]
+    ], 
+    "LOG4J2-2575": [
+        [
+            "Open", 
+            "Resolved", 
+            "111d 6h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 1h 35m"
+        ]
+    ], 
+    "LOG4J2-2476": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 16h 16m"
+        ]
+    ], 
+    "LOG4J2-1982": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 12h 57m"
+        ]
+    ], 
+    "LOG4J2-2478": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 12h 38m"
+        ]
+    ], 
+    "LOG4J2-1987": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 32m"
+        ]
+    ], 
+    "LOG4J2-1985": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 44s"
+        ]
+    ], 
+    "LOG4J2-99": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 14h 18m"
+        ]
+    ], 
+    "LOG4J2-404": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 9h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 11h 50m"
+        ]
+    ], 
+    "LOG4J2-2355": [
+        [
+            "Open", 
+            "Resolved", 
+            "54m 6s"
+        ]
+    ], 
+    "LOG4J2-91": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 14h 21m"
+        ]
+    ], 
+    "LOG4J2-92": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 21h 28m"
+        ]
+    ], 
+    "LOG4J2-94": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 8m"
+        ]
+    ], 
+    "LOG4J2-245": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 42m"
+        ]
+    ], 
+    "LOG4J2-244": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h 25m"
+        ]
+    ], 
+    "LOG4J2-247": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 18s"
+        ]
+    ], 
+    "LOG4J2-246": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 20h 14m"
+        ]
+    ], 
+    "LOG4J2-1653": [
+        [
+            "Open", 
+            "Resolved", 
+            "65d 13h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 17h 41m"
+        ]
+    ], 
+    "LOG4J2-1719": [
+        [
+            "Open", 
+            "Closed", 
+            "51m 39s"
+        ]
+    ], 
+    "LOG4J2-1803": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 21h 6m"
+        ]
+    ], 
+    "LOG4J2-1800": [
+        [
+            "Open", 
+            "In Progress", 
+            "52s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 5h 53m"
+        ]
+    ], 
+    "LOG4J2-560": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23h 2m"
+        ]
+    ], 
+    "LOG4J2-1806": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 23s"
+        ]
+    ], 
+    "LOG4J2-1658": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 10h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8m 25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 54m"
+        ]
+    ], 
+    "LOG4J2-1804": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 7h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 16h 43m"
+        ]
+    ], 
+    "LOG4J2-2617": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 9h 38m"
+        ]
+    ], 
+    "LOG4J2-2613": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 5h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "LOG4J2-2612": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 1h 36m"
+        ]
+    ], 
+    "LOG4J2-2610": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 2h 41m"
+        ]
+    ], 
+    "LOG4J2-2618": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 59s"
+        ]
+    ], 
+    "LOG4J2-56": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11h 54m"
+        ]
+    ], 
+    "LOG4J2-2129": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 9h 1m"
+        ]
+    ], 
+    "LOG4J2-2126": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6m 46s"
+        ]
+    ], 
+    "LOG4J2-2120": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "28m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 23h"
+        ]
+    ], 
+    "LOG4J2-2123": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 11h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14h 58m"
+        ]
+    ], 
+    "LOG4J2-50": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8d 5h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 15h 32m"
+        ]
+    ], 
+    "LOG4J2-1258": [
+        [
+            "Open", 
+            "Resolved", 
+            "53m 37s"
+        ]
+    ], 
+    "LOG4J2-1620": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 1m"
+        ]
+    ], 
+    "LOG4J2-1157": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 14h 33m"
+        ]
+    ], 
+    "LOG4J2-1159": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 18h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 9h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 23h 29m"
+        ]
+    ], 
+    "LOG4J2-1158": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 12m"
+        ]
+    ], 
+    "LOG4J2-1628": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 15h 30m"
+        ]
+    ], 
+    "LOG4J2-933": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 29s"
+        ]
+    ], 
+    "LOG4J2-931": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 20h 47m"
+        ]
+    ], 
+    "LOG4J2-1780": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 14h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 4h 39m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 3h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 13h 14m"
+        ]
+    ], 
+    "LOG4J2-2195": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 14h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 1h 16m"
+        ]
+    ], 
+    "LOG4J2-934": [
+        [
+            "Open", 
+            "Resolved", 
+            "149d 4h 30m"
+        ]
+    ], 
+    "LOG4J2-832": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "30m 57s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18m 1s"
+        ]
+    ], 
+    "LOG4J2-2053": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 13h 49m"
+        ]
+    ], 
+    "LOG4J2-938": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 3h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 54m"
+        ]
+    ], 
+    "LOG4J2-2055": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 15s"
+        ]
+    ], 
+    "LOG4J2-834": [
+        [
+            "Open", 
+            "Resolved", 
+            "73d 6h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 11h 18m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17m 38s"
+        ]
+    ], 
+    "LOG4J2-289": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 16m"
+        ]
+    ], 
+    "LOG4J2-1434": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 1h 37m"
+        ]
+    ], 
+    "LOG4J2-346": [
+        [
+            "Open", 
+            "Resolved", 
+            "251d 18h 18m"
+        ]
+    ], 
+    "LOG4J2-1025": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 3h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 22h 29m"
+        ]
+    ], 
+    "LOG4J2-1026": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 27s"
+        ]
+    ], 
+    "LOG4J2-1020": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 11h 57m"
+        ]
+    ], 
+    "LOG4J2-1530": [
+        [
+            "Open", 
+            "In Progress", 
+            "19d 2h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57m 18s"
+        ]
+    ], 
+    "LOG4J2-1538": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 22m"
+        ]
+    ], 
+    "LOG4J2-342": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 10h 15m"
+        ]
+    ], 
+    "LOG4J2-344": [
+        [
+            "Open", 
+            "In Progress", 
+            "168d 19h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "26s"
+        ]
+    ], 
+    "LOG4J2-345": [
+        [
+            "Open", 
+            "Resolved", 
+            "176d 2h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13d 33m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "63d 12h 26m"
+        ]
+    ], 
+    "LOG4J2-694": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 3h 1m"
+        ]
+    ], 
+    "LOG4J2-690": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "754d 20h 51m"
+        ]
+    ], 
+    "LOG4J2-2530": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54s"
+        ]
+    ], 
+    "LOG4J2-492": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 23h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "29m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "17d 3h 43m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 4h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "126d 7m"
+        ]
+    ], 
+    "LOG4J2-1320": [
+        [
+            "Open", 
+            "Resolved", 
+            "159d 10h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20d 14h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h"
+        ]
+    ], 
+    "LOG4J2-1318": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 11h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 45m"
+        ]
+    ], 
+    "LOG4J2-1324": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 22m"
+        ]
+    ], 
+    "LOG4J2-663": [
+        [
+            "Open", 
+            "Resolved", 
+            "82d 2h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-1440": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12d 2h 50m"
+        ]
+    ], 
+    "LOG4J2-1445": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41m 23s"
+        ]
+    ], 
+    "LOG4J2-528": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "204d 11h 3m"
+        ]
+    ], 
+    "LOG4J2-280": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 9h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "22d 7h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 11h 49m"
+        ]
+    ], 
+    "LOG4J2-283": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 29s"
+        ]
+    ], 
+    "LOG4J2-520": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 23h 6m"
+        ]
+    ], 
+    "LOG4J2-523": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "208d 4h 39m"
+        ]
+    ], 
+    "LOG4J2-330": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 43s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "47d 3h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "274d 19h 34m"
+        ]
+    ], 
+    "LOG4J2-1928": [
+        [
+            "Open", 
+            "Resolved", 
+            "84d 3h 12m"
+        ]
+    ], 
+    "LOG4J2-442": [
+        [
+            "Open", 
+            "In Progress", 
+            "92d 16h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 55m"
+        ]
+    ], 
+    "LOG4J2-889": [
+        [
+            "Open", 
+            "Resolved", 
+            "250d 17h 10m"
+        ]
+    ], 
+    "LOG4J2-447": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 8h 57m"
+        ]
+    ], 
+    "LOG4J2-114": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11h 32m"
+        ]
+    ], 
+    "LOG4J2-445": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 11h 18m"
+        ]
+    ], 
+    "LOG4J2-116": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h 18m"
+        ]
+    ], 
+    "LOG4J2-119": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 18m"
+        ]
+    ], 
+    "LOG4J2-1238": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 58m"
+        ]
+    ], 
+    "LOG4J2-1849": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 4m"
+        ]
+    ], 
+    "LOG4J2-710": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "12h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-2389": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 35m"
+        ]
+    ], 
+    "LOG4J2-2388": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7h 29m"
+        ]
+    ], 
+    "LOG4J2-2221": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 55m"
+        ]
+    ], 
+    "LOG4J2-221": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31m 21s"
+        ]
+    ], 
+    "LOG4J2-2543": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-2542": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 24s"
+        ]
+    ], 
+    "LOG4J2-2547": [
+        [
+            "Open", 
+            "Resolved", 
+            "128d 17h 12m"
+        ]
+    ], 
+    "LOG4J2-1799": [
+        [
+            "Open", 
+            "In Progress", 
+            "8d 7h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6m 9s"
+        ]
+    ], 
+    "LOG4J2-597": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 47s"
+        ]
+    ], 
+    "LOG4J2-591": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 24m"
+        ]
+    ], 
+    "LOG4J2-2002": [
+        [
+            "Open", 
+            "In Progress", 
+            "155d 16h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "30m 58s"
+        ]
+    ], 
+    "LOG4J2-278": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 17h 7m"
+        ]
+    ], 
+    "LOG4J2-2368": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 28m"
+        ]
+    ], 
+    "LOG4J2-279": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 22h 26m"
+        ]
+    ], 
+    "LOG4J2-2009": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6m 57s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "537d 15h 30m"
+        ]
+    ], 
+    "LOG4J2-2366": [
+        [
+            "Open", 
+            "Resolved", 
+            "390d 6h 47m"
+        ]
+    ], 
+    "LOG4J2-2365": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 1h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3h 55m"
+        ]
+    ], 
+    "LOG4J2-1583": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 18h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 55m"
+        ]
+    ], 
+    "LOG4J2-234": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2h 47m"
+        ]
+    ], 
+    "LOG4J2-235": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 5h 32m"
+        ]
+    ], 
+    "LOG4J2-106": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 46m"
+        ]
+    ], 
+    "LOG4J2-1589": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 1h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 7m"
+        ]
+    ], 
+    "LOG4J2-1216": [
+        [
+            "Open", 
+            "Resolved", 
+            "671d 11h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 17h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 31m"
+        ]
+    ], 
+    "LOG4J2-1743": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21h 31m"
+        ]
+    ], 
+    "LOG4J2-1744": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 27s"
+        ]
+    ], 
+    "LOG4J2-1748": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20d 23h 32m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 3h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 13h 58m"
+        ]
+    ], 
+    "LOG4J2-976": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15h 44m"
+        ]
+    ], 
+    "LOG4J2-974": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11h 32m"
+        ]
+    ], 
+    "LOG4J2-972": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 16s"
+        ]
+    ], 
+    "LOG4J2-971": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 8m"
+        ]
+    ], 
+    "LOG4J2-668": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5m 23s"
+        ]
+    ], 
+    "LOG4J2-2091": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 48m"
+        ]
+    ], 
+    "LOG4J2-873": [
+        [
+            "Open", 
+            "In Progress", 
+            "375d 2h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23m 44s"
+        ]
+    ], 
+    "LOG4J2-2318": [
+        [
+            "Open", 
+            "In Progress", 
+            "13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-2316": [
+        [
+            "Open", 
+            "Resolved", 
+            "99d 14h 38m"
+        ]
+    ], 
+    "LOG4J2-2317": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-2312": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 19h 58m"
+        ]
+    ], 
+    "LOG4J2-819": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 55m"
+        ]
+    ], 
+    "LOG4J2-2283": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 24m"
+        ]
+    ], 
+    "LOG4J2-457": [
+        [
+            "Open", 
+            "In Progress", 
+            "70d 10h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 56m"
+        ]
+    ], 
+    "LOG4J2-987": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 50m"
+        ]
+    ], 
+    "LOG4J2-1061": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 11s"
+        ]
+    ], 
+    "LOG4J2-1108": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 16h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 17m"
+        ]
+    ], 
+    "LOG4J2-1062": [
+        [
+            "Open", 
+            "Closed", 
+            "8m 55s"
+        ]
+    ], 
+    "LOG4J2-1067": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 38m"
+        ]
+    ], 
+    "LOG4J2-1069": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 6h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9h 31m"
+        ]
+    ], 
+    "LOG4J2-1103": [
+        [
+            "Open", 
+            "Resolved", 
+            "1357d 16h 46m"
+        ]
+    ], 
+    "LOG4J2-1104": [
+        [
+            "Open", 
+            "Closed", 
+            "35m 52s"
+        ]
+    ], 
+    "LOG4J2-1262": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 7h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 21h 14m"
+        ]
+    ], 
+    "LOG4J2-1261": [
+        [
+            "In Progress", 
+            "Open", 
+            "3h 42m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "526d 13h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 3m"
+        ]
+    ], 
+    "LOG4J2-1260": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 45m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "8s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-903": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 18h 8m"
+        ]
+    ], 
+    "LOG4J2-2163": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-1268": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 14h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 21h 7m"
+        ]
+    ], 
+    "LOG4J2-904": [
+        [
+            "Open", 
+            "Resolved", 
+            "590d 2h 11m"
+        ]
+    ], 
+    "LOG4J2-300": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-302": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 21h 53m"
+        ]
+    ], 
+    "LOG4J2-651": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 17m"
+        ]
+    ], 
+    "LOG4J2-304": [
+        [
+            "Open", 
+            "In Progress", 
+            "50s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m"
+        ]
+    ], 
+    "LOG4J2-657": [
+        [
+            "Open", 
+            "In Progress", 
+            "46d 22h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 27s"
+        ]
+    ], 
+    "LOG4J2-306": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 58s"
+        ]
+    ], 
+    "LOG4J2-309": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 3h 37m"
+        ]
+    ], 
+    "LOG4J2-1084": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 19m"
+        ]
+    ], 
+    "LOG4J2-470": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 8h 58m"
+        ]
+    ], 
+    "LOG4J2-1368": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19s"
+        ]
+    ], 
+    "LOG4J2-1369": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 14m"
+        ]
+    ], 
+    "LOG4J2-1363": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 6h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 12m"
+        ]
+    ], 
+    "LOG4J2-1407": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 41s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "107d 13h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "3m 37s"
+        ]
+    ], 
+    "LOG4J2-1406": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 42m"
+        ]
+    ], 
+    "LOG4J2-1405": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 2m"
+        ]
+    ], 
+    "LOG4J2-1402": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 10h 36m"
+        ]
+    ], 
+    "LOG4J2-620": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 11h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11h 56m"
+        ]
+    ], 
+    "LOG4J2-1562": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 31s"
+        ]
+    ], 
+    "LOG4J2-1563": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 13m"
+        ]
+    ], 
+    "LOG4J2-1409": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 21h 7m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "102d 20h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "21s"
+        ]
+    ], 
+    "LOG4J2-1408": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 12s"
+        ]
+    ], 
+    "LOG4J2-2597": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 16h 17m"
+        ]
+    ], 
+    "LOG4J2-158": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 13h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 8h 46m"
+        ]
+    ], 
+    "LOG4J2-2592": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 9m"
+        ]
+    ], 
+    "LOG4J2-407": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 38s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "140d 20h 39m"
+        ]
+    ], 
+    "LOG4J2-406": [
+        [
+            "Open", 
+            "In Progress", 
+            "115d 11h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 17m"
+        ]
+    ], 
+    "LOG4J2-1888": [
+        [
+            "Open", 
+            "Resolved", 
+            "113d 4h 53m"
+        ]
+    ], 
+    "LOG4J2-150": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 7h 50m"
+        ]
+    ], 
+    "LOG4J2-1964": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 9m"
+        ]
+    ], 
+    "LOG4J2-1961": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 7m"
+        ]
+    ], 
+    "LOG4J2-398": [
+        [
+            "Open", 
+            "Resolved", 
+            "123d 10h 57m"
+        ]
+    ], 
+    "LOG4J2-397": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 26m"
+        ]
+    ], 
+    "LOG4J2-395": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h"
+        ]
+    ], 
+    "LOG4J2-393": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 15h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 19h 53m"
+        ]
+    ], 
+    "LOG4J2-392": [
+        [
+            "Open", 
+            "Resolved", 
+            "154d 9h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "128d 1h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "LOG4J2-391": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "343d 5h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21d 2h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18h 22m"
+        ]
+    ], 
+    "LOG4J2-2266": [
+        [
+            "Open", 
+            "Resolved", 
+            "343d 14h 45m"
+        ]
+    ], 
+    "LOG4J2-443": [
+        [
+            "Open", 
+            "In Progress", 
+            "58d 21h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 21h 39m"
+        ]
+    ], 
+    "LOG4J2-66": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 3h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 5h 12m"
+        ]
+    ], 
+    "LOG4J2-2508": [
+        [
+            "Open", 
+            "Closed", 
+            "35m 28s"
+        ]
+    ], 
+    "LOG4J2-113": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 48m"
+        ]
+    ], 
+    "LOG4J2-2269": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 44m"
+        ]
+    ], 
+    "LOG4J2-719": [
+        [
+            "Open", 
+            "In Progress", 
+            "15m 39s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 24m"
+        ]
+    ], 
+    "LOG4J2-493": [
+        [
+            "Open", 
+            "In Progress", 
+            "650d 16h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21h 43m"
+        ]
+    ], 
+    "LOG4J2-2466": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 9h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 13h 38m"
+        ]
+    ], 
+    "LOG4J2-1313": [
+        [
+            "Open", 
+            "Resolved", 
+            "138d 2h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "46d 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 23h 54m"
+        ]
+    ], 
+    "LOG4J2-115": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-1311": [
+        [
+            "Open", 
+            "Resolved", 
+            "506d 22h 39m"
+        ]
+    ], 
+    "LOG4J2-1310": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 20s"
+        ]
+    ], 
+    "LOG4J2-2327": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 15s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 7m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "306d 22h 6m"
+        ]
+    ], 
+    "LOG4J2-2289": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 20h 7m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1m 52s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 21s"
+        ]
+    ], 
+    "LOG4J2-88": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 6h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 2h 14m"
+        ]
+    ], 
+    "LOG4J2-2322": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-2321": [
+        [
+            "Open", 
+            "In Progress", 
+            "49m 25s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "LOG4J2-2320": [
+        [
+            "Open", 
+            "In Progress", 
+            "24m 53s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "38m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-82": [
+        [
+            "Open", 
+            "Closed", 
+            "18m 48s"
+        ]
+    ], 
+    "LOG4J2-80": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 59m"
+        ]
+    ], 
+    "LOG4J2-273": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 12m"
+        ]
+    ], 
+    "LOG4J2-274": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 40m"
+        ]
+    ], 
+    "LOG4J2-275": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 19h 29m"
+        ]
+    ], 
+    "LOG4J2-107": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 6h 19m"
+        ]
+    ], 
+    "LOG4J2-277": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 8m"
+        ]
+    ], 
+    "LOG4J2-1818": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 24s"
+        ]
+    ], 
+    "LOG4J2-1920": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 59m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "15s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19h 43m"
+        ]
+    ], 
+    "LOG4J2-478": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 12m"
+        ]
+    ], 
+    "LOG4J2-570": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 19h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "34d 7h 37m"
+        ]
+    ], 
+    "LOG4J2-576": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "156d 22h 17m"
+        ]
+    ], 
+    "LOG4J2-1810": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 8h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22d 18h 9m"
+        ]
+    ], 
+    "LOG4J2-579": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "155d 10h 12m"
+        ]
+    ], 
+    "LOG4J2-471": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 14h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 6h 57m"
+        ]
+    ], 
+    "LOG4J2-475": [
+        [
+            "Open", 
+            "In Progress", 
+            "47d 16h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 2h 34m"
+        ]
+    ], 
+    "LOG4J2-1876": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 23h 11m"
+        ]
+    ], 
+    "LOG4J2-2606": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 58s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31d 7h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "LOG4J2-2210": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 53s"
+        ]
+    ], 
+    "LOG4J2-2602": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 9h 7m"
+        ]
+    ], 
+    "LOG4J2-2219": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 28s"
+        ]
+    ], 
+    "LOG4J2-2134": [
+        [
+            "Open", 
+            "Resolved", 
+            "325d 7h 31m"
+        ]
+    ], 
+    "LOG4J2-2032": [
+        [
+            "Open", 
+            "Resolved", 
+            "214d 8h 39m"
+        ]
+    ], 
+    "LOG4J2-2031": [
+        [
+            "Open", 
+            "In Progress", 
+            "8d 12h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 14h 54m"
+        ]
+    ], 
+    "LOG4J2-1740": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14h 43m"
+        ]
+    ], 
+    "LOG4J2-1144": [
+        [
+            "Open", 
+            "Closed", 
+            "32m"
+        ]
+    ], 
+    "LOG4J2-1636": [
+        [
+            "Open", 
+            "Resolved", 
+            "138d 16h 37m"
+        ]
+    ], 
+    "LOG4J2-1637": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 4h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 17h 25m"
+        ]
+    ], 
+    "LOG4J2-1227": [
+        [
+            "Open", 
+            "Resolved", 
+            "72d 11h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "LOG4J2-1639": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19h 56m"
+        ]
+    ], 
+    "LOG4J2-1222": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 11h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 20h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11d 1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 17h 38m"
+        ]
+    ], 
+    "LOG4J2-1221": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 21h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 20h 27m"
+        ]
+    ], 
+    "LOG4J2-1149": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 21m"
+        ]
+    ], 
+    "LOG4J2-829": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 21h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6h 4m"
+        ]
+    ], 
+    "LOG4J2-947": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 10h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 13h 1m"
+        ]
+    ], 
+    "LOG4J2-944": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 57m"
+        ]
+    ], 
+    "LOG4J2-2049": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 10s"
+        ]
+    ], 
+    "LOG4J2-948": [
+        [
+            "Open", 
+            "Resolved", 
+            "265d 1h 5m"
+        ]
+    ], 
+    "LOG4J2-1885": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 8m"
+        ]
+    ], 
+    "LOG4J2-1038": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 53m"
+        ]
+    ], 
+    "LOG4J2-1032": [
+        [
+            "Open", 
+            "Resolved", 
+            "598d 14h 46m"
+        ]
+    ], 
+    "LOG4J2-1033": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15h 9m"
+        ]
+    ], 
+    "LOG4J2-1030": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 22h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 8h 50m"
+        ]
+    ], 
+    "LOG4J2-1037": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 50m"
+        ]
+    ], 
+    "LOG4J2-1035": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21m 50s"
+        ]
+    ], 
+    "LOG4J2-1132": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 15s"
+        ]
+    ], 
+    "LOG4J2-1527": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 26m"
+        ]
+    ], 
+    "LOG4J2-1688": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 21h 16m"
+        ]
+    ], 
+    "LOG4J2-1135": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 22h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 25m"
+        ]
+    ], 
+    "LOG4J2-1687": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 9h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 1h 36m"
+        ]
+    ], 
+    "LOG4J2-1138": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 16s"
+        ]
+    ], 
+    "LOG4J2-1529": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 29m"
+        ]
+    ], 
+    "LOG4J2-1682": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 20h 9m"
+        ]
+    ], 
+    "LOG4J2-722": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 2h 58m"
+        ]
+    ], 
+    "LOG4J2-723": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 2h 28m"
+        ]
+    ], 
+    "LOG4J2-359": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 23h 54m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "145d 11h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18h 8m"
+        ]
+    ], 
+    "LOG4J2-358": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "49s"
+        ]
+    ], 
+    "LOG4J2-726": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 8h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "27m 45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 18h 3m"
+        ]
+    ], 
+    "LOG4J2-353": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "376d 6h 49m"
+        ]
+    ], 
+    "LOG4J2-351": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "378d 14h 19m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "698d 19h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4m 27s"
+        ]
+    ], 
+    "LOG4J2-729": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 12h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 23h 42m"
+        ]
+    ], 
+    "LOG4J2-684": [
+        [
+            "Open", 
+            "Resolved", 
+            "369d 2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 10m"
+        ]
+    ], 
+    "LOG4J2-686": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 10h 56m"
+        ]
+    ], 
+    "LOG4J2-683": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 9h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 25s"
+        ]
+    ], 
+    "LOG4J2-76": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 20s"
+        ]
+    ], 
+    "LOG4J2-74": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14h 10m"
+        ]
+    ], 
+    "LOG4J2-2422": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21h 11m"
+        ]
+    ], 
+    "LOG4J2-1354": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 57m"
+        ]
+    ], 
+    "LOG4J2-750": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 59m"
+        ]
+    ], 
+    "LOG4J2-1452": [
+        [
+            "Open", 
+            "In Progress", 
+            "18h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "79d 18h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "22s"
+        ]
+    ], 
+    "LOG4J2-1457": [
+        [
+            "Open", 
+            "Resolved", 
+            "64d 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 48m"
+        ]
+    ], 
+    "LOG4J2-539": [
+        [
+            "Open", 
+            "In Progress", 
+            "117d 4h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 3h 5m"
+        ]
+    ], 
+    "LOG4J2-538": [
+        [
+            "Open", 
+            "Resolved", 
+            "138d 18h 10m"
+        ]
+    ], 
+    "LOG4J2-535": [
+        [
+            "Open", 
+            "In Progress", 
+            "18d 9h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "98d 2h 45m"
+        ]
+    ], 
+    "LOG4J2-532": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 55m"
+        ]
+    ], 
+    "LOG4J2-531": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 19h 5m"
+        ]
+    ], 
+    "LOG4J2-125": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 14h 25m"
+        ]
+    ], 
+    "LOG4J2-126": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 21h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 3h 11m"
+        ]
+    ], 
+    "LOG4J2-127": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 12h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7h 12m"
+        ]
+    ], 
+    "LOG4J2-120": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2h 23m"
+        ]
+    ], 
+    "LOG4J2-1852": [
+        [
+            "Open", 
+            "Resolved", 
+            "824d 1h 17m"
+        ]
+    ], 
+    "LOG4J2-123": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 39m"
+        ]
+    ], 
+    "LOG4J2-1914": [
+        [
+            "Open", 
+            "Resolved", 
+            "119d 19h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 2h 17m"
+        ]
+    ], 
+    "LOG4J2-1858": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 22h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 5h 32m"
+        ]
+    ], 
+    "LOG4J2-129": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 27m"
+        ]
+    ], 
+    "LOG4J2-438": [
+        [
+            "Open", 
+            "In Progress", 
+            "103d 9h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 55m"
+        ]
+    ], 
+    "LOG4J2-1912": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 21h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 3h 4m"
+        ]
+    ], 
+    "LOG4J2-2397": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 27m"
+        ]
+    ], 
+    "LOG4J2-2390": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-2255": [
+        [
+            "Open", 
+            "Closed", 
+            "44m 58s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "LOG4J2-2254": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 3h 17m"
+        ]
+    ], 
+    "LOG4J2-51": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 5h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 15h 33m"
+        ]
+    ], 
+    "LOG4J2-2252": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 14h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 24m"
+        ]
+    ], 
+    "LOG4J2-2499": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 39s"
+        ]
+    ], 
+    "LOG4J2-2556": [
+        [
+            "Open", 
+            "Resolved", 
+            "151d 14h 44m"
+        ]
+    ], 
+    "LOG4J2-2559": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 24m"
+        ]
+    ], 
+    "LOG4J2-2497": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 11s"
+        ]
+    ], 
+    "LOG4J2-2074": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 30s"
+        ]
+    ], 
+    "LOG4J2-2073": [
+        [
+            "Open", 
+            "Closed", 
+            "21h 53m"
+        ]
+    ], 
+    "LOG4J2-2070": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 25m"
+        ]
+    ], 
+    "LOG4J2-322": [
+        [
+            "Open", 
+            "In Progress", 
+            "9m 29s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "35d 1h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 11h 19m"
+        ]
+    ], 
+    "LOG4J2-2373": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37s"
+        ]
+    ], 
+    "LOG4J2-2377": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 58m"
+        ]
+    ], 
+    "LOG4J2-223": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 25m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11d 5h 38m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "20d 2h 54m"
+        ]
+    ], 
+    "LOG4J2-222": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 22m"
+        ]
+    ], 
+    "LOG4J2-548": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 15h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 21h 18m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1452d 21h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 20h 28m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "20s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2m 35s"
+        ]
+    ], 
+    "LOG4J2-226": [
+        [
+            "Open", 
+            "Resolved", 
+            "137d 6h 51m"
+        ]
+    ], 
+    "LOG4J2-224": [
+        [
+            "Open", 
+            "Closed", 
+            "19m 57s"
+        ]
+    ], 
+    "LOG4J2-542": [
+        [
+            "Open", 
+            "Resolved", 
+            "70d 10h 40m"
+        ]
+    ], 
+    "LOG4J2-1676": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 22h 34m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 39m"
+        ]
+    ], 
+    "LOG4J2-228": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 18h 16m"
+        ]
+    ], 
+    "LOG4J2-980": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 50m"
+        ]
+    ], 
+    "LOG4J2-981": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 36m"
+        ]
+    ], 
+    "LOG4J2-1140": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19h 38m"
+        ]
+    ], 
+    "LOG4J2-988": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "LOG4J2-1779": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-2087": [
+        [
+            "Open", 
+            "In Progress", 
+            "11h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "37d 16h 19m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "19s"
+        ]
+    ], 
+    "LOG4J2-2085": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 10m"
+        ]
+    ], 
+    "LOG4J2-861": [
+        [
+            "Open", 
+            "In Progress", 
+            "15h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "6m"
+        ]
+    ], 
+    "LOG4J2-1226": [
+        [
+            "Open", 
+            "Resolved", 
+            "320d 4h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 15h 32m"
+        ]
+    ], 
+    "LOG4J2-2673": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 21h 27m"
+        ]
+    ], 
+    "LOG4J2-2672": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 36m"
+        ]
+    ], 
+    "LOG4J2-2108": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 19h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "24m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 46m"
+        ]
+    ], 
+    "LOG4J2-199": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 8m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7h 25m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12d 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18h 29m"
+        ]
+    ], 
+    "LOG4J2-1099": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 5h 52m"
+        ]
+    ], 
+    "LOG4J2-2102": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 2h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 39m"
+        ]
+    ], 
+    "LOG4J2-2101": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 3h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 39m"
+        ]
+    ], 
+    "LOG4J2-2100": [
+        [
+            "Open", 
+            "Closed", 
+            "17m 34s"
+        ]
+    ], 
+    "LOG4J2-2107": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 23h 47m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 21h 39m"
+        ]
+    ], 
+    "LOG4J2-2104": [
+        [
+            "Open", 
+            "Resolved", 
+            "124d 21h 19m"
+        ]
+    ], 
+    "LOG4J2-1488": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 18h 6m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "37d 9h 36m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "24s"
+        ]
+    ], 
+    "LOG4J2-1487": [
+        [
+            "Open", 
+            "Resolved", 
+            "156d 14h 54m"
+        ]
+    ], 
+    "LOG4J2-1482": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 16h 40m"
+        ]
+    ], 
+    "LOG4J2-1077": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 40m"
+        ]
+    ], 
+    "LOG4J2-1178": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 23h 9m"
+        ]
+    ], 
+    "LOG4J2-1176": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 11h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35m 28s"
+        ]
+    ], 
+    "LOG4J2-1173": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 10h 32m"
+        ]
+    ], 
+    "LOG4J2-1172": [
+        [
+            "Open", 
+            "In Progress", 
+            "17d 13h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 5h 38m"
+        ]
+    ], 
+    "LOG4J2-1078": [
+        [
+            "Open", 
+            "Resolved", 
+            "59m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 22h 39m"
+        ]
+    ], 
+    "LOG4J2-919": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 19m"
+        ]
+    ], 
+    "LOG4J2-918": [
+        [
+            "Open", 
+            "Resolved", 
+            "206d 15h 21m"
+        ]
+    ], 
+    "LOG4J2-1279": [
+        [
+            "Open", 
+            "Resolved", 
+            "163d 16h 13m"
+        ]
+    ], 
+    "LOG4J2-912": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m"
+        ]
+    ], 
+    "LOG4J2-914": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 10m"
+        ]
+    ], 
+    "LOG4J2-640": [
+        [
+            "Open", 
+            "In Progress", 
+            "21d 5h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7m 14s"
+        ]
+    ], 
+    "LOG4J2-311": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 43m"
+        ]
+    ], 
+    "LOG4J2-310": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 15h 23m"
+        ]
+    ], 
+    "LOG4J2-319": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 15h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "17d 11h 43m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "2m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "352d 11h 35m"
+        ]
+    ], 
+    "LOG4J2-318": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 7m"
+        ]
+    ], 
+    "LOG4J2-1215": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 53m"
+        ]
+    ], 
+    "LOG4J2-1853": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 15h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22h 30m"
+        ]
+    ], 
+    "LOG4J2-156": [
+        [
+            "Open", 
+            "Resolved", 
+            "24m 40s"
+        ]
+    ], 
+    "LOG4J2-1394": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 19h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "LOG4J2-1414": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 2h 3m"
+        ]
+    ], 
+    "LOG4J2-1417": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 3h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3m 51s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "99d 2h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "31s"
+        ]
+    ], 
+    "LOG4J2-1559": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 32m"
+        ]
+    ], 
+    "LOG4J2-233": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 16s"
+        ]
+    ], 
+    "LOG4J2-1009": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 17h 44m"
+        ]
+    ], 
+    "LOG4J2-1008": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 28s"
+        ]
+    ], 
+    "LOG4J2-161": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 23h 34m"
+        ]
+    ], 
+    "LOG4J2-165": [
+        [
+            "Open", 
+            "Resolved", 
+            "156d 6h 59m"
+        ]
+    ], 
+    "LOG4J2-166": [
+        [
+            "Open", 
+            "Resolved", 
+            "155d 11h 56m"
+        ]
+    ], 
+    "LOG4J2-167": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 11h 11m"
+        ]
+    ], 
+    "LOG4J2-168": [
+        [
+            "Open", 
+            "Resolved", 
+            "109d 5h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 17h 42m"
+        ]
+    ], 
+    "LOG4J2-1950": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 41m"
+        ]
+    ], 
+    "LOG4J2-1953": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 19s"
+        ]
+    ], 
+    "LOG4J2-1954": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 4h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "4m 57s"
+        ]
+    ], 
+    "LOG4J2-362": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 22h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "LOG4J2-367": [
+        [
+            "Open", 
+            "Resolved", 
+            "36m 6s"
+        ]
+    ], 
+    "LOG4J2-368": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57m 10s"
+        ]
+    ], 
+    "LOG4J2-2680": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 46m"
+        ]
+    ], 
+    "LOG4J2-2514": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "LOG4J2-713": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 47s"
+        ]
+    ], 
+    "LOG4J2-1712": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 50m"
+        ]
+    ], 
+    "LOG4J2-1309": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 50s"
+        ]
+    ], 
+    "LOG4J2-485": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2m 39s"
+        ]
+    ], 
+    "LOG4J2-2453": [
+        [
+            "Open", 
+            "Resolved", 
+            "60d 15h 41m"
+        ]
+    ], 
+    "LOG4J2-769": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11h 2m"
+        ]
+    ], 
+    "LOG4J2-1300": [
+        [
+            "In Progress", 
+            "Open", 
+            "20h 57m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "15h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1m 17s"
+        ]
+    ], 
+    "LOG4J2-1710": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15m 29s"
+        ]
+    ], 
+    "LOG4J2-763": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 16h"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 15h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "19h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12h 1m"
+        ]
+    ], 
+    "LOG4J2-760": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 51m"
+        ]
+    ], 
+    "LOG4J2-2336": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "LOG4J2-2331": [
+        [
+            "Open", 
+            "Resolved", 
+            "57m 18s"
+        ]
+    ], 
+    "LOG4J2-269": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18h 44m"
+        ]
+    ], 
+    "LOG4J2-2333": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24s"
+        ]
+    ], 
+    "LOG4J2-267": [
+        [
+            "Open", 
+            "In Progress", 
+            "32d 2h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 2h"
+        ]
+    ], 
+    "LOG4J2-264": [
+        [
+            "Open", 
+            "In Progress", 
+            "18m 35s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 8h 19m"
+        ]
+    ], 
+    "LOG4J2-263": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 18h 9m"
+        ]
+    ], 
+    "LOG4J2-261": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 9h 52m"
+        ]
+    ], 
+    "LOG4J2-260": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 46s"
+        ]
+    ], 
+    "LOG4J2-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "144d 20h 9m"
+        ]
+    ], 
+    "LOG4J2-2640": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 9m"
+        ]
+    ], 
+    "LOG4J2-1735": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 31s"
+        ]
+    ], 
+    "LOG4J2-1734": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "53m 50s"
+        ]
+    ], 
+    "LOG4J2-500": [
+        [
+            "Open", 
+            "In Progress", 
+            "18d 7h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 22h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "LOG4J2-1736": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 1s"
+        ]
+    ], 
+    "LOG4J2-463": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 12h 33m"
+        ]
+    ], 
+    "LOG4J2-1820": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 22h 57m"
+        ]
+    ], 
+    "LOG4J2-467": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 12h 33m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11h 54m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 6h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23h 49m"
+        ]
+    ], 
+    "LOG4J2-466": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 22h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18h 50m"
+        ]
+    ], 
+    "LOG4J2-103": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 27m"
+        ]
+    ], 
+    "LOG4J2-2631": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 2m"
+        ]
+    ], 
+    "LOG4J2-2201": [
+        [
+            "Open", 
+            "Resolved", 
+            "199d 12h 38m"
+        ]
+    ], 
+    "LOG4J2-2202": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 31m"
+        ]
+    ], 
+    "LOG4J2-101": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 12h 9m"
+        ]
+    ], 
+    "LOG4J2-511": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 22h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 18h 16m"
+        ]
+    ], 
+    "LOG4J2-122": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 17h 32m"
+        ]
+    ], 
+    "LOG4J2-459": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 7h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "29d 2h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 9h 35m"
+        ]
+    ], 
+    "LOG4J2-2028": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6h 1m"
+        ]
+    ], 
+    "LOG4J2-2029": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 34s"
+        ]
+    ], 
+    "LOG4J2-2026": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 21m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 19h 56m"
+        ]
+    ], 
+    "LOG4J2-219": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 19h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 41m"
+        ]
+    ], 
+    "LOG4J2-212": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 23h 39m"
+        ]
+    ], 
+    "LOG4J2-213": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-210": [
+        [
+            "Open", 
+            "Closed", 
+            "6m"
+        ]
+    ], 
+    "LOG4J2-211": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 5m"
+        ]
+    ], 
+    "LOG4J2-1003": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 40m"
+        ]
+    ], 
+    "LOG4J2-188": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 47m"
+        ]
+    ], 
+    "LOG4J2-189": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 33m"
+        ]
+    ], 
+    "LOG4J2-1601": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 37s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "5h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "LOG4J2-1600": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 13s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "5h 54m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "28s"
+        ]
+    ], 
+    "LOG4J2-1602": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 34s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m"
+        ]
+    ], 
+    "LOG4J2-1235": [
+        [
+            "Open", 
+            "Resolved", 
+            "243d 19h 52m"
+        ]
+    ], 
+    "LOG4J2-181": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 5h 11m"
+        ]
+    ], 
+    "LOG4J2-1230": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 19h 19m"
+        ]
+    ], 
+    "LOG4J2-1608": [
+        [
+            "Open", 
+            "Closed", 
+            "36m 36s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "17m 19s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "19h 9m"
+        ]
+    ], 
+    "LOG4J2-669": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18s"
+        ]
+    ], 
+    "LOG4J2-193": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7h 25m"
+        ]
+    ], 
+    "LOG4J2-957": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 14h 39m"
+        ]
+    ], 
+    "LOG4J2-956": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3h 56m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "21s"
+        ]
+    ], 
+    "LOG4J2-950": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 7h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 11h 8m"
+        ]
+    ], 
+    "LOG4J2-952": [
+        [
+            "Open", 
+            "Resolved", 
+            "208d 13h 2m"
+        ]
+    ], 
+    "LOG4J2-1007": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 50s"
+        ]
+    ], 
+    "LOG4J2-453": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-959": [
+        [
+            "Open", 
+            "Closed", 
+            "105d 4h 46m"
+        ]
+    ], 
+    "LOG4J2-811": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "41s"
+        ]
+    ], 
+    "LOG4J2-812": [
+        [
+            "Open", 
+            "Resolved", 
+            "352d 13h 46m"
+        ]
+    ], 
+    "LOG4J2-813": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 5h 42m"
+        ]
+    ], 
+    "LOG4J2-1195": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 12h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 32m"
+        ]
+    ], 
+    "LOG4J2-1194": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 51m"
+        ]
+    ], 
+    "LOG4J2-1196": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 6h 16m"
+        ]
+    ], 
+    "LOG4J2-1518": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 15h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22h 37m"
+        ]
+    ], 
+    "LOG4J2-1049": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 27m"
+        ]
+    ], 
+    "LOG4J2-1048": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 46m"
+        ]
+    ], 
+    "LOG4J2-1511": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 8h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23m 35s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "22d 5h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "19s"
+        ]
+    ], 
+    "LOG4J2-1046": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 1m"
+        ]
+    ], 
+    "LOG4J2-1045": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 2h 21m"
+        ]
+    ], 
+    "LOG4J2-893": [
+        [
+            "Open", 
+            "Resolved", 
+            "103d 16h 9m"
+        ]
+    ], 
+    "LOG4J2-1042": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 17h 42m"
+        ]
+    ], 
+    "LOG4J2-1289": [
+        [
+            "Open", 
+            "Closed", 
+            "17m 46s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 5h 31m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "7d 11h 18m"
+        ]
+    ], 
+    "LOG4J2-1123": [
+        [
+            "Open", 
+            "Closed", 
+            "12h 9m"
+        ]
+    ], 
+    "LOG4J2-1280": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "12h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11h 7m"
+        ]
+    ], 
+    "LOG4J2-731": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 18m"
+        ]
+    ], 
+    "LOG4J2-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 16h 45m"
+        ]
+    ], 
+    "LOG4J2-735": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 49m"
+        ]
+    ], 
+    "LOG4J2-736": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16h 18m"
+        ]
+    ], 
+    "LOG4J2-738": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7h 19m"
+        ]
+    ], 
+    "LOG4J2-1999": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 18h 23m"
+        ]
+    ], 
+    "LOG4J2-323": [
+        [
+            "Open", 
+            "Resolved", 
+            "79d 21m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "106d 10h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 8h 38m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "43d 23h 30m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "581d 16h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 11h 46m"
+        ]
+    ], 
+    "LOG4J2-320": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 1h 2m"
+        ]
+    ], 
+    "LOG4J2-2418": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 17m"
+        ]
+    ], 
+    "LOG4J2-563": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 8h 22m"
+        ]
+    ], 
+    "LOG4J2-1346": [
+        [
+            "Open", 
+            "Closed", 
+            "15m 52s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3m 44s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "LOG4J2-1342": [
+        [
+            "Open", 
+            "In Progress", 
+            "18d 16h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 6h 14m"
+        ]
+    ], 
+    "LOG4J2-169": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 21h 53m"
+        ]
+    ], 
+    "LOG4J2-605": [
+        [
+            "Open", 
+            "Resolved", 
+            "50m 50s"
+        ]
+    ], 
+    "LOG4J2-1467": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 16m"
+        ]
+    ], 
+    "LOG4J2-139": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 49m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "149d 11h 57m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 7h 40m"
+        ]
+    ], 
+    "LOG4J2-920": [
+        [
+            "Open", 
+            "In Progress", 
+            "424d 4h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "32m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 59m"
+        ]
+    ], 
+    "LOG4J2-196": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 6h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 18h 58m"
+        ]
+    ], 
+    "LOG4J2-133": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 15m"
+        ]
+    ], 
+    "LOG4J2-132": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 59m"
+        ]
+    ], 
+    "LOG4J2-130": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 7h 8m"
+        ]
+    ], 
+    "LOG4J2-135": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 36m"
+        ]
+    ], 
+    "LOG4J2-134": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 35s"
+        ]
+    ], 
+    "LOG4J2-425": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15h 25m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 3m"
+        ]
+    ], 
+    "LOG4J2-1901": [
+        [
+            "Open", 
+            "Resolved", 
+            "866d 23h 46m"
+        ]
+    ], 
+    "LOG4J2-1906": [
+        [
+            "Open", 
+            "Resolved", 
+            "564d 6h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 7h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "67d 1h 6m"
+        ]
+    ], 
+    "LOG4J2-423": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 25m"
+        ]
+    ], 
+    "LOG4J2-782": [
+        [
+            "Open", 
+            "Closed", 
+            "21d 22h 10m"
+        ]
+    ], 
+    "LOG4J2-783": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10m 54s"
+        ]
+    ], 
+    "LOG4J2-742": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 55m"
+        ]
+    ], 
+    "LOG4J2-81": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 14m"
+        ]
+    ], 
+    "LOG4J2-2243": [
+        [
+            "Open", 
+            "Closed", 
+            "8m 37s"
+        ]
+    ], 
+    "LOG4J2-2244": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 24m"
+        ]
+    ], 
+    "LOG4J2-2566": [
+        [
+            "Open", 
+            "Resolved", 
+            "94d 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 51m"
+        ]
+    ], 
+    "LOG4J2-2561": [
+        [
+            "Open", 
+            "Resolved", 
+            "71d 23h 9m"
+        ]
+    ], 
+    "LOG4J2-1068": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22m 5s"
+        ]
+    ], 
+    "LOG4J2-2485": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 10h 41m"
+        ]
+    ], 
+    "LOG4J2-2482": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15m 21s"
+        ]
+    ], 
+    "LOG4J2-2481": [
+        [
+            "Open", 
+            "Closed", 
+            "17m 34s"
+        ]
+    ], 
+    "LOG4J2-2060": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 17h 2m"
+        ]
+    ], 
+    "LOG4J2-2348": [
+        [
+            "Open", 
+            "Resolved", 
+            "60d 8h 28m"
+        ]
+    ], 
+    "LOG4J2-2341": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 11h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2m 29s"
+        ]
+    ], 
+    "LOG4J2-1640": [
+        [
+            "Open", 
+            "Resolved", 
+            "91d 3h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 22h 59m"
+        ]
+    ], 
+    "LOG4J2-254": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 14h 54m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 17h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 4h 58m"
+        ]
+    ], 
+    "LOG4J2-1642": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 14h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11h 27m"
+        ]
+    ], 
+    "LOG4J2-2001": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 14h 33m"
+        ]
+    ], 
+    "LOG4J2-1649": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 16h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 17h 33m"
+        ]
+    ], 
+    "LOG4J2-555": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 18h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 11m"
+        ]
+    ], 
+    "LOG4J2-554": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 32m"
+        ]
+    ], 
+    "LOG4J2-258": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 48s"
+        ]
+    ], 
+    "LOG4J2-259": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 53s"
+        ]
+    ], 
+    "LOG4J2-991": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 12h 18m"
+        ]
+    ], 
+    "LOG4J2-993": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 4h 31m"
+        ]
+    ], 
+    "LOG4J2-997": [
+        [
+            "Open", 
+            "Resolved", 
+            "412d 23h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 3h 53m"
+        ]
+    ], 
+    "LOG4J2-2564": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 6h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2m 37s"
+        ]
+    ], 
+    "LOG4J2-999": [
+        [
+            "Open", 
+            "In Progress", 
+            "183d 7h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13m 34s"
+        ]
+    ], 
+    "LOG4J2-908": [
+        [
+            "Open", 
+            "Resolved", 
+            "396d 9h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 13h 44m"
+        ]
+    ], 
+    "LOG4J2-255": [
+        [
+            "Open", 
+            "In Progress", 
+            "52m 6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 11h 15m"
+        ]
+    ], 
+    "LOG4J2-1153": [
+        [
+            "Open", 
+            "In Progress", 
+            "19m 44s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30m 49s"
+        ]
+    ], 
+    "LOG4J2-1269": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "LOG4J2-901": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 7h 15m"
+        ]
+    ], 
+    "LOG4J2-1166": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 1m"
+        ]
+    ], 
+    "LOG4J2-1160": [
+        [
+            "Open", 
+            "Resolved", 
+            "146d 5h 4m"
+        ]
+    ], 
+    "LOG4J2-2182": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 17h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 20h 59m"
+        ]
+    ], 
+    "LOG4J2-1246": [
+        [
+            "Open", 
+            "Resolved", 
+            "1063d 8h 57m"
+        ]
+    ], 
+    "LOG4J2-1243": [
+        [
+            "Open", 
+            "Resolved", 
+            "377d 16h 32m"
+        ]
+    ], 
+    "LOG4J2-1253": [
+        [
+            "Open", 
+            "Closed", 
+            "14m 30s"
+        ]
+    ], 
+    "LOG4J2-924": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 13m"
+        ]
+    ], 
+    "LOG4J2-146": [
+        [
+            "Open", 
+            "Closed", 
+            "21d 1h 32m"
+        ]
+    ], 
+    "LOG4J2-1249": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 43s"
+        ]
+    ], 
+    "LOG4J2-1248": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "853d 3h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 8s"
+        ]
+    ], 
+    "LOG4J2-922": [
+        [
+            "Open", 
+            "Resolved", 
+            "585d 9h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "395d 21h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "40s"
+        ]
+    ], 
+    "LOG4J2-675": [
+        [
+            "Open", 
+            "In Progress", 
+            "42m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "LOG4J2-676": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 56m"
+        ]
+    ], 
+    "LOG4J2-1251": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 22m"
+        ]
+    ], 
+    "LOG4J2-670": [
+        [
+            "Open", 
+            "In Progress", 
+            "40d 11h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 27s"
+        ]
+    ], 
+    "LOG4J2-1850": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21h 34m"
+        ]
+    ], 
+    "LOG4J2-678": [
+        [
+            "Open", 
+            "Closed", 
+            "89d 13h 56m"
+        ]
+    ], 
+    "LOG4J2-679": [
+        [
+            "Open", 
+            "In Progress", 
+            "48d 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9m 42s"
+        ]
+    ], 
+    "LOG4J2-1929": [
+        [
+            "Open", 
+            "Closed", 
+            "46m 9s"
+        ]
+    ], 
+    "LOG4J2-1380": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "LOG4J2-1382": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 2m"
+        ]
+    ], 
+    "LOG4J2-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 17h 43m"
+        ]
+    ], 
+    "LOG4J2-1786": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "6m 33s"
+        ]
+    ], 
+    "LOG4J2-1542": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 25m"
+        ]
+    ], 
+    "LOG4J2-1541": [
+        [
+            "Open", 
+            "Closed", 
+            "15h 54m"
+        ]
+    ], 
+    "LOG4J2-1019": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 11s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "21m 36s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "LOG4J2-1548": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 48m"
+        ]
+    ], 
+    "LOG4J2-177": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 19h 55m"
+        ]
+    ], 
+    "LOG4J2-968": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 37m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "55m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18h 1m"
+        ]
+    ], 
+    "LOG4J2-175": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 14s"
+        ]
+    ], 
+    "LOG4J2-1948": [
+        [
+            "Open", 
+            "Closed", 
+            "21m 53s"
+        ]
+    ], 
+    "LOG4J2-198": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 5h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 18h 56m"
+        ]
+    ], 
+    "LOG4J2-1946": [
+        [
+            "Open", 
+            "Resolved", 
+            "772d 23h 56m"
+        ]
+    ], 
+    "LOG4J2-1943": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "LOG4J2-178": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 1m"
+        ]
+    ], 
+    "LOG4J2-373": [
+        [
+            "Open", 
+            "Resolved", 
+            "326d 18h 57m"
+        ]
+    ], 
+    "LOG4J2-1994": [
+        [
+            "Open", 
+            "Closed", 
+            "9m 48s"
+        ]
+    ], 
+    "LOG4J2-377": [
+        [
+            "Open", 
+            "Resolved", 
+            "130d 9h 46m"
+        ]
+    ], 
+    "LOG4J2-378": [
+        [
+            "Open", 
+            "Resolved", 
+            "183d 4h 28m"
+        ]
+    ], 
+    "LOG4J2-830": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 15h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 5h 12m"
+        ]
+    ], 
+    "LOG4J2-2522": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 23h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3s"
+        ]
+    ], 
+    "LOG4J2-2527": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26s"
+        ]
+    ], 
+    "LOG4J2-257": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 5s"
+        ]
+    ], 
+    "LOG4J2-2441": [
+        [
+            "Open", 
+            "Resolved", 
+            "40m 25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-2444": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "LOG4J2-142": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7h 51m"
+        ]
+    ], 
+    "LOG4J2-1769": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 3h 58m"
+        ]
+    ], 
+    "LOG4J2-1339": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m 41s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "24m 6s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "LOG4J2-775": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 13h 12m"
+        ]
+    ], 
+    "LOG4J2-1336": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12h 8m"
+        ]
+    ], 
+    "LOG4J2-1330": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 42m"
+        ]
+    ], 
+    "LOG4J2-773": [
+        [
+            "Open", 
+            "Closed", 
+            "29m 27s"
+        ]
+    ], 
+    "LOG4J2-292": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 6h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13h 58m"
+        ]
+    ], 
+    "LOG4J2-293": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 16h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "55d 13h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 5h 19m"
+        ]
+    ], 
+    "LOG4J2-291": [
+        [
+            "Open", 
+            "In Progress", 
+            "26d 7h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20h 16m"
+        ]
+    ], 
+    "LOG4J2-296": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 56m"
+        ]
+    ], 
+    "LOG4J2-297": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 24m"
+        ]
+    ], 
+    "LOG4J2-295": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 3h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13h 58m"
+        ]
+    ], 
+    "LOG4J2-195": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 22m"
+        ]
+    ], 
+    "LOG4J2-298": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 58m"
+        ]
+    ], 
+    "LOG4J2-194": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14h 1m"
+        ]
+    ], 
+    "LOG4J2-102": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 7h 36m"
+        ]
+    ], 
+    "LOG4J2-1833": [
+        [
+            "Open", 
+            "Resolved", 
+            "173d 18h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6h 4m"
+        ]
+    ], 
+    "LOG4J2-517": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LOG4J2-1831": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 1m"
+        ]
+    ], 
+    "LOG4J2-1836": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "LOG4J2-1723": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55m 9s"
+        ]
+    ], 
+    "LOG4J2-104": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 11h 46m"
+        ]
+    ], 
+    "LOG4J2-105": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 33m"
+        ]
+    ], 
+    "LOG4J2-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 17m"
+        ]
+    ], 
+    "LOG4J2-862": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 7h 25m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "21h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 2h 41m"
+        ]
+    ], 
+    "LOG4J2-1936": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 6h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21m 49s"
+        ]
+    ], 
+    "LOG4J2-452": [
+        [
+            "Open", 
+            "In Progress", 
+            "74d 13h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 42m"
+        ]
+    ], 
+    "LOG4J2-1934": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 17m"
+        ]
+    ], 
+    "LOG4J2-897": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 9s"
+        ]
+    ], 
+    "LOG4J2-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "224d 13h 28m"
+        ]
+    ], 
+    "LOG4J2-891": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 22h 35m"
+        ]
+    ], 
+    "LOG4J2-892": [
+        [
+            "Open", 
+            "Resolved", 
+            "40m 26s"
+        ]
+    ], 
+    "LOG4J2-2629": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 3h 13m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "53s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "LOG4J2-268": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 58m"
+        ]
+    ], 
+    "LOG4J2-2622": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 1h 54m"
+        ]
+    ], 
+    "LOG4J2-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 21h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 5h 8m"
+        ]
+    ], 
+    "LOG4J2-581": [
+        [
+            "Open", 
+            "In Progress", 
+            "86d 19h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "481d 18h 52m"
+        ]
+    ], 
+    "LOG4J2-2018": [
+        [
+            "Open", 
+            "Closed", 
+            "7h 2m"
+        ]
+    ], 
+    "LOG4J2-619": [
+        [
+            "Open", 
+            "Closed", 
+            "48d 16h 10m"
+        ]
+    ], 
+    "LOG4J2-2158": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 17h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 1h 48m"
+        ]
+    ], 
+    "LOG4J2-2013": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 19h 1m"
+        ]
+    ], 
+    "LOG4J2-2012": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 7h 2m"
+        ]
+    ], 
+    "LOG4J2-1591": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "51m 48s"
+        ]
+    ], 
+    "LOG4J2-1590": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "8h 38m"
+        ]
+    ], 
+    "LOG4J2-1618": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 11h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2h 2m"
+        ]
+    ], 
+    "LOG4J2-1619": [
+        [
+            "Open", 
+            "Closed", 
+            "28m 1s"
+        ]
+    ], 
+    "LOG4J2-1599": [
+        [
+            "Open", 
+            "Closed", 
+            "14h 59m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "LOG4J2-200": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9h 43m"
+        ]
+    ], 
+    "LOG4J2-1610": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 59s"
+        ]
+    ], 
+    "LOG4J2-205": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 17h 8m"
+        ]
+    ], 
+    "LOG4J2-206": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 10s"
+        ]
+    ], 
+    "LOG4J2-1753": [
+        [
+            "Open", 
+            "Closed", 
+            "74d 23h 54m"
+        ]
+    ], 
+    "LOG4J2-1731": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 2m"
+        ]
+    ], 
+    "LOG4J2-1756": [
+        [
+            "Open", 
+            "Closed", 
+            "4m 35s"
+        ]
+    ], 
+    "LOG4J2-190": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 28m"
+        ]
+    ], 
+    "LOG4J2-962": [
+        [
+            "Open", 
+            "Resolved", 
+            "189d 3h 32m"
+        ]
+    ], 
+    "LOG4J2-192": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 14h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 1h 43m"
+        ]
+    ], 
+    "LOG4J2-964": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6h 48m"
+        ]
+    ], 
+    "LOG4J2-965": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 13h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8d 15h 6m"
+        ]
+    ], 
+    "LOG4J2-966": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 44s"
+        ]
+    ], 
+    "LOG4J2-967": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 11h 33m"
+        ]
+    ], 
+    "LOG4J2-801": [
+        [
+            "Open", 
+            "Resolved", 
+            "421d 10h 41m"
+        ]
+    ], 
+    "LOG4J2-2658": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 5h 58m"
+        ]
+    ], 
+    "LOG4J2-807": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 18h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 23h 8m"
+        ]
+    ], 
+    "LOG4J2-2301": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 10h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "LOG4J2-2650": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 13h 57m"
+        ]
+    ], 
+    "LOG4J2-2305": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 9h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 8h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "LOG4J2-2304": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 49m"
+        ]
+    ], 
+    "LOG4J2-2307": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 9h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ]
+}

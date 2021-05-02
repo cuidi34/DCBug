@@ -1,0 +1,13 @@
+A;Invocation;log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java;63;63
+D;Literal;log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java;64;64
+D;ConstructorCall;log4j-core/src/main/java/org/apache/logging/log4j/core/appender/FileManager.java;138;138
+A;Try;log4j-core/src/main/java/org/apache/logging/log4j/core/appender/FileManager.java;142;147
+A;LocalVariable;log4j-core/src/main/java/org/apache/logging/log4j/core/appender/FileManager.java;140;140
+A;ConstructorCall;log4j-core/src/main/java/org/apache/logging/log4j/core/appender/FileManager.java;141;141
+D;VariableRead;log4j-core/src/main/java/org/apache/logging/log4j/core/appender/FileManager.java;138;138
+A;LocalVariable;log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java;95;95
+A;LocalVariable;log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java;62;62
+A;LocalVariable;log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java;64;64
+A;VariableRead;log4j-core/src/main/java/org/apache/logging/log4j/core/appender/FileManager.java;141;141
+A;Literal;log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java;66;66
+A;Invocation;log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java;96;96

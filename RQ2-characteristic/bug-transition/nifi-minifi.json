@@ -1,0 +1,367 @@
+{
+    "MINIFI-348": [
+        [
+            "Open", 
+            "In Progress", 
+            "73d 12h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "53d 7h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 18h 27m"
+        ]
+    ], 
+    "MINIFI-26": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 57m"
+        ]
+    ], 
+    "MINIFI-104": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 34m"
+        ]
+    ], 
+    "MINIFI-54": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 32m"
+        ]
+    ], 
+    "MINIFI-50": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 28m"
+        ]
+    ], 
+    "MINIFI-128": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54d 3h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 45m"
+        ]
+    ], 
+    "MINIFI-58": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "75d 19h 45m"
+        ]
+    ], 
+    "MINIFI-412": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "48m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 9m"
+        ]
+    ], 
+    "MINIFI-415": [
+        [
+            "Open", 
+            "In Progress", 
+            "29d 16h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "11m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 56m"
+        ]
+    ], 
+    "MINIFI-416": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 4h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 44m"
+        ]
+    ], 
+    "MINIFI-431": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 18h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 12h 37m"
+        ]
+    ], 
+    "MINIFI-456": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 23h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 44m"
+        ]
+    ], 
+    "MINIFI-450": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48d 21h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 1h 40m"
+        ]
+    ], 
+    "MINIFI-496": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 21h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "89d 6h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 17h 55m"
+        ]
+    ], 
+    "MINIFI-353": [
+        [
+            "Open", 
+            "In Progress", 
+            "82d 1h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49d 18h 47m"
+        ]
+    ], 
+    "MINIFI-156": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17s"
+        ]
+    ], 
+    "MINIFI-136": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 38m"
+        ]
+    ], 
+    "MINIFI-117": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 23h 8m"
+        ]
+    ], 
+    "MINIFI-44": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 19h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 4h 8m"
+        ]
+    ], 
+    "MINIFI-42": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 12h"
+        ]
+    ], 
+    "MINIFI-43": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 22m"
+        ]
+    ], 
+    "MINIFI-40": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 23h 44m"
+        ]
+    ], 
+    "MINIFI-48": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10m"
+        ]
+    ], 
+    "MINIFI-49": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 44m"
+        ]
+    ], 
+    "MINIFI-8": [
+        [
+            "Open", 
+            "In Progress", 
+            "43m 3s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 37s"
+        ]
+    ], 
+    "MINIFI-403": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 12h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 14h 51m"
+        ]
+    ], 
+    "MINIFI-428": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 47m"
+        ]
+    ], 
+    "MINIFI-18": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19m 10s"
+        ]
+    ], 
+    "MINIFI-421": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "22d 2h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 57m"
+        ]
+    ], 
+    "MINIFI-408": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "18d 7h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 18h 27m"
+        ]
+    ]
+}

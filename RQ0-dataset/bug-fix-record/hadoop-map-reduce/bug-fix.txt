@@ -1,0 +1,1436 @@
+{
+    "MAPREDUCE-2290": [
+        "8cfd1ff8b7c83fab61ff8cfdb0131c6625d18c87"
+    ], 
+    "MAPREDUCE-825": [
+        "4d63f9f365ce1e3223dd15c344ac2dfc2fb14555"
+    ], 
+    "MAPREDUCE-826": [
+        "9da239ff1105647ef8384d63c47dc1b0894763b7"
+    ], 
+    "MAPREDUCE-2294": [
+        "3e454af064f616b9825f3d51eb30a0553d47ab87"
+    ], 
+    "MAPREDUCE-2448": [
+        "cd411ec972548046c72cc85c8fdb5a9716071c1f"
+    ], 
+    "MAPREDUCE-2296": [
+        "dc3296b3d29eb2590098f67efd00e0ab349a1120"
+    ], 
+    "MAPREDUCE-2445": [
+        "5050912fd60feabfbe85ab52c40dcf6f8b17251d"
+    ], 
+    "MAPREDUCE-2172": [
+        "5fbffcd4821f988ccb8045f08e099f41f514400e"
+    ], 
+    "MAPREDUCE-433": [
+        "77f87baf9729a859090fe8aa509cfe9a770c592f"
+    ], 
+    "MAPREDUCE-430": [
+        "868d1c2fe5a2c1ae5fa590a945ec4878ff32e717", 
+        "abf798934ccd7b7cc6c60d4f75e5b90640988977", 
+        "db08985e6d700183e3b6f77e17c6f448a95952a6"
+    ], 
+    "MAPREDUCE-1728": [
+        "6414b3e0faa1cafb78d2c2f23d56511bd6689dc5"
+    ], 
+    "MAPREDUCE-383": [
+        "0dcc18c6c764776506f17b60e81d4216d154e941"
+    ], 
+    "MAPREDUCE-1725": [
+        "e98b22ffa2b5e030149b160f4e52894574d92512"
+    ], 
+    "MAPREDUCE-1727": [
+        "d57a15a9baebdc4f5580de44680a6e43cc79a349"
+    ], 
+    "HDFS-1181": [
+        "628ec064f9be2a449db6b198f81c626f7592e636"
+    ], 
+    "HADOOP-6103": [
+        "d6e80559a6b90725327b4099e3e7d1d0b5bc4f96"
+    ], 
+    "MAPREDUCE-144": [
+        "64408689b93837b3cc98318cb493676cd364ee0e"
+    ], 
+    "MAPREDUCE-1314": [
+        "fcc42c940f9f5e7c642c162fbc3c1c1d7e98b839"
+    ], 
+    "MAPREDUCE-1316": [
+        "087eb48c0c4e0ab0f51e50f607bdeb23914c778d"
+    ], 
+    "MAPREDUCE-1310": [
+        "8f9b630db2a2a7250970e2810a49d6bba1d370e0"
+    ], 
+    "MAPREDUCE-1313": [
+        "c2f3e11399ff6810b16491c01b96dbcb9279eee9"
+    ], 
+    "MAPREDUCE-1293": [
+        "551cea55a97d6a7a2e55f88118e2303f3677dbdd"
+    ], 
+    "MAPREDUCE-2200": [
+        "c2d3babdb1d0cb5c790d0ab0595a56b3c1c1fe2c", 
+        "4aae3711ab757f0fc7fc6377ce905eacb4a93a29"
+    ], 
+    "MAPREDUCE-1863": [
+        "1a84d983db2623af64c7d1b4c2cfcff276873609"
+    ], 
+    "MAPREDUCE-1866": [
+        "b8e99a493bcaa9d38f20b47097167d8f6f859354"
+    ], 
+    "MAPREDUCE-1867": [
+        "5af1047432fd9249536c03e5e7b62b04c885a5fc"
+    ], 
+    "MAPREDUCE-1864": [
+        "e17be5e9314ee6309f47ff5d2a41b14ae7f4ac0a"
+    ], 
+    "MAPREDUCE-1865": [
+        "a4cef9ce651810793595fabce583cbc208c16b22"
+    ], 
+    "MAPREDUCE-1942": [
+        "98fe8126d1aad27d29eabce68d960e1959f14b27"
+    ], 
+    "HADOOP-1126": [
+        "2d8452eb00b4973b8dd59193d39bb5f68fbe82c4"
+    ], 
+    "MAPREDUCE-911": [
+        "2f5d3196099f6ba45c6a1b21d7d430c1886b7a88"
+    ], 
+    "MAPREDUCE-912": [
+        "5a36a1e2575c8b3df304ac373f53d80948d45e1b"
+    ], 
+    "MAPREDUCE-913": [
+        "661f09463aa06f2e3b808fbc360d35f114b95a44"
+    ], 
+    "MAPREDUCE-915": [
+        "1582d3ea89540cd82f05e76e6918b70df10b6a4d"
+    ], 
+    "MAPREDUCE-1543": [
+        "8ef600d21e99fe8a35b6ba4a11a9fe4963345cd2"
+    ], 
+    "MAPREDUCE-1260": [
+        "c6f88d71198076b0d8b6184bc7b6a1a5b7f12ce5"
+    ], 
+    "MAPREDUCE-648": [
+        "6754ae16767848c05ae914832fcb09393636d3a7"
+    ], 
+    "MAPREDUCE-722": [
+        "9d561f09e9e22ae20b842228cac00a089b4f617f"
+    ], 
+    "MAPREDUCE-834": [
+        "432687683e35a7eafac7ad1ee1b884a461e18f6b"
+    ], 
+    "MAPREDUCE-1267": [
+        "e2be611c8c0ad843f226f55022bd66f94a7f35e5"
+    ], 
+    "MAPREDUCE-645": [
+        "a6c22f5efcab7df261ea64ab31b155e52f63fb49"
+    ], 
+    "MAPREDUCE-646": [
+        "cca79167c91471e375a7d939a069fc74a78942e1"
+    ], 
+    "MAPREDUCE-2082": [
+        "a9a858c06cb4c291ab8ed972fbda0a50b7954d22"
+    ], 
+    "MAPREDUCE-642": [
+        "857232ab1516b7d6922cd0fdd424e19a5f9d0bec", 
+        "83482ad3c22c607615c9636c79a094b7b6112e22"
+    ], 
+    "MAPREDUCE-2084": [
+        "67d3f4eb4eff604532f67cba07bc2f9fd510b1fa"
+    ], 
+    "MAPREDUCE-2067": [
+        "c4f1ab2f5811361f1148a70c6671b38d4c2347c4"
+    ], 
+    "MAPREDUCE-1041": [
+        "4c4df8ba9bf40d1754b3a97623bbdfc9c56b8e3f"
+    ], 
+    "MAPREDUCE-964": [
+        "116acc63ee5d45dafb9136acaca3b222f270a177"
+    ], 
+    "MAPREDUCE-1165": [
+        "c0b546a653fda4b1caf0ba8a0d0ad6788bc9a7dd"
+    ], 
+    "MAPREDUCE-1163": [
+        "80540f15210c86c549e0ffe9854ce152806d499f"
+    ], 
+    "MAPREDUCE-1161": [
+        "ee5a009d8b55189c8bc86421c010854a952ff640"
+    ], 
+    "MAPREDUCE-962": [
+        "1615886bbd9ece187b7754d1a138fb7074a955c8"
+    ], 
+    "MAPREDUCE-968": [
+        "75ad1dc5aaf9e120a0d79a938c69a771babeb36a"
+    ], 
+    "MAPREDUCE-733": [
+        "10dcb22cad6bc1209f1df3a09c09325d374e088a"
+    ], 
+    "MAPREDUCE-734": [
+        "7d70bb32278217e74b1995feb325a242e42bfe26"
+    ], 
+    "MAPREDUCE-869": [
+        "a01b5ae5fa3ae8a927f9ff16e88a175ff3ec288b"
+    ], 
+    "MAPREDUCE-867": [
+        "10f6f615200ef19121ae6576417cd910fba77efa"
+    ], 
+    "MAPREDUCE-1686": [
+        "989cdc2b92a5039584facb3e773d01e82bbeac5c", 
+        "b2414079831a0e3de5153512b03eb114245e128c"
+    ], 
+    "MAPREDUCE-2012": [
+        "a1cb3e7fe4b44f9478e20f67ed6f2af4e91a8052"
+    ], 
+    "MAPREDUCE-1683": [
+        "4cc05540ce4f141fce9158884cf9f3ede2b6921f"
+    ], 
+    "MAPREDUCE-1448": [
+        "d86b0eaf5d3cdd4b9ca59c22bb19a4a56c97841a"
+    ], 
+    "MAPREDUCE-1765": [
+        "3fed3890541f390db1712d792220fa7555f31aa6"
+    ], 
+    "HADOOP-6991": [
+        "947249c8b8f9cf9045bd8c9624f5fb2e4f24e539"
+    ], 
+    "MAPREDUCE-1443": [
+        "05a53cbf2562db7af75a9c7439d73e81395035f0"
+    ], 
+    "MAPREDUCE-1444": [
+        "2096d6beb282af9bc1233600c4b4a8b5066ac4db"
+    ], 
+    "MAPREDUCE-637": [
+        "e81e0143c904c30477d773cc85ef840f804ac6c5"
+    ], 
+    "MAPREDUCE-2497": [
+        "a038f91679cb16c60d2990c03aefea271af6007d"
+    ], 
+    "MAPREDUCE-1885": [
+        "92bfb748850f8a017879fb085d02de798693a992"
+    ], 
+    "MAPREDUCE-2539": [
+        "0727aa6e8cb2499562ae1d35f7a4e5a923083571"
+    ], 
+    "MAPREDUCE-818": [
+        "71c6485ffae54edd39576bc31d591b58a548ec39"
+    ], 
+    "MAPREDUCE-2531": [
+        "34fc2ec906ba5602d4a65b0bb2ec9fc7c4cb855f"
+    ], 
+    "MAPREDUCE-1618": [
+        "02267a23c1c1a6b55f1adbab093abe9696879faa"
+    ], 
+    "MAPREDUCE-1615": [
+        "67166032772b591062b187be3e284cc5ed8f2ac2"
+    ], 
+    "MAPREDUCE-1900": [
+        "2452f9fdd24212fd545bfe9d9c853df83c6cc3f7"
+    ], 
+    "MAPREDUCE-1617": [
+        "0d18a1fa048d7a92b07a661604113c041b9da1fd"
+    ], 
+    "MAPREDUCE-2086": [
+        "2bdbd2e2c791fb8cc0e9387bcd02a1668383f3f3"
+    ], 
+    "MAPREDUCE-1611": [
+        "9228228a0417228fcef52d3d8f4f90775f414532"
+    ], 
+    "MAPREDUCE-1610": [
+        "61793f0fee0d8310e68dd7217b9fba8590100e41"
+    ], 
+    "MAPREDUCE-1612": [
+        "4772f72d369f224dc1e96844609d29282189e57a"
+    ], 
+    "MAPREDUCE-1888": [
+        "a2daa431967eb3f2415489e83ffa61ff407f0562", 
+        "40a39bd7365bb2e5aed48db0f67f247186d752ef", 
+        "bf08067f30ba1bdf458615390b6277965ea2dbaf"
+    ], 
+    "MAPREDUCE-1225": [
+        "26e296cb8886e946f612513bb03c41e4b3ac8d04"
+    ], 
+    "MAPREDUCE-1222": [
+        "24976c16cf66594723b7812c8d289054d7e7cb43"
+    ], 
+    "MAPREDUCE-1348": [
+        "2481a7e9dc12071c47259fcc30a94051d27d0b77"
+    ], 
+    "MAPREDUCE-1880": [
+        "34f34917cb3707f41a8ebf736dccd5b84c54525e"
+    ], 
+    "MAPREDUCE-1342": [
+        "868ba619fade1bb6a8d6556ce8e75cb23991579c"
+    ], 
+    "MAPREDUCE-1887": [
+        "889616022701d61714a106f7a2d395062cd62253"
+    ], 
+    "MAPREDUCE-2336": [
+        "1a39f078e337e3ec6011a27613638b95cebd9bd9"
+    ], 
+    "MAPREDUCE-2238": [
+        "f0af417e9c507fa4f073f551b0400d7a0c3019df"
+    ], 
+    "MAPREDUCE-2232": [
+        "a9409497dd848e133854117a0fb754832adedd61"
+    ], 
+    "MAPREDUCE-1834": [
+        "57a5889a3fe88a0cdb99ab4f3191ea56303ad523"
+    ], 
+    "MAPREDUCE-1836": [
+        "2e83d6cbabf63eecfebaa274c3c95a6fdca4b58a"
+    ], 
+    "MAPREDUCE-1128": [
+        "2c8fc255c217e90a4ca8051cf245ccbf593721bd"
+    ], 
+    "MAPREDUCE-1085": [
+        "7d62155178963fb2e3865763496a4de022a7f018"
+    ], 
+    "MAPREDUCE-1086": [
+        "0ef25cfa9ddfa78936f71e3939b0a80eabc05514"
+    ], 
+    "MAPREDUCE-1089": [
+        "1bd18c32a5309ab58f971eaee74dc935b59ae9c3"
+    ], 
+    "MAPREDUCE-923": [
+        "c4f49f0d483321f793db361cd5d02ebc55b03900"
+    ], 
+    "MAPREDUCE-924": [
+        "b9f9460ff9be39d7192955d8fc1976751b465bc8"
+    ], 
+    "MAPREDUCE-1124": [
+        "d7c166b821a27fee9ffbb16dc17bb0ba92da5829"
+    ], 
+    "MAPREDUCE-1532": [
+        "a5abe2a6b7ca5babfa28597994d3fcde2753c906"
+    ], 
+    "MAPREDUCE-1533": [
+        "6b18568ab2ff69c1b12ecda0b767e2c783b17c88"
+    ], 
+    "MAPREDUCE-1536": [
+        "d5a03d4303101bd44db8813f8c10569200fcf272"
+    ], 
+    "MAPREDUCE-1537": [
+        "29074ef2fc242914df2f8f5a5c7813b0ca5e2a73", 
+        "998342e3f86787c71e0a0c3b7c0c20866aac7662"
+    ], 
+    "MAPREDUCE-1538": [
+        "4574a494766d5e771d2f7b2e2b08d454be300a08"
+    ], 
+    "MAPREDUCE-771": [
+        "6cef49bee1a9863a26edfb4b50ba7d0aff442989"
+    ], 
+    "MAPREDUCE-773": [
+        "98563a1a73e385821bab4da95831e545e3b984c9"
+    ], 
+    "MAPREDUCE-677": [
+        "a3e58b09c7e6aefc77b96defefc677b73034a48e"
+    ], 
+    "MAPREDUCE-676": [
+        "c9f9ae573f316f930bd4e872b968bdb469d561ed"
+    ], 
+    "MAPREDUCE-671": [
+        "9fbca4f9c24010e58a87446fc47b5f06525e763d"
+    ], 
+    "MAPREDUCE-673": [
+        "3634d61bf49eac1c946500aee10003bbdb5ded16"
+    ], 
+    "MAPREDUCE-2195": [
+        "d90d37b1a6cae1d8483e97ab1900925129796f97"
+    ], 
+    "MAPREDUCE-2199": [
+        "568b9355718dc17791c01b09e13fc946e436fd7b"
+    ], 
+    "MAPREDUCE-988": [
+        "3b8ef2c5154391c52787e7381bd7066f5abd7631"
+    ], 
+    "MAPREDUCE-2054": [
+        "724d7d3b8cb773c7bb492c35908e88e85288aac3"
+    ], 
+    "MAPREDUCE-1016": [
+        "54f22e6189b5e31f17bfba18115608dfce2b836d"
+    ], 
+    "MAPREDUCE-1014": [
+        "1b48729f39b0e2ab67517a974663a07dfd1f03a9"
+    ], 
+    "MAPREDUCE-1408": [
+        "053bc1bc5f0e594c4bf964e39b6e39077e528883"
+    ], 
+    "MAPREDUCE-1409": [
+        "acaf35ac9a68872e0dd3deb637502b33152e60aa"
+    ], 
+    "MAPREDUCE-1158": [
+        "a98327008f5b124724f3577bde06f2b4ddec6a18"
+    ], 
+    "MAPREDUCE-986": [
+        "b2e0843dd294684b342f4d27d469e4e8210d18d8"
+    ], 
+    "HADOOP-6184": [
+        "164a885efac0c5b3833e413f33dac7ef7a70b69c"
+    ], 
+    "MAPREDUCE-1406": [
+        "eedf69c11a306fb6974d8f97843ba793a93ddd80"
+    ], 
+    "MAPREDUCE-1407": [
+        "0b71a6d53d4323b04a3b47468df47ad46658fc82"
+    ], 
+    "MAPREDUCE-1400": [
+        "3733c747a127a1c47d51672932d438e52607aaec"
+    ], 
+    "MAPREDUCE-1153": [
+        "966316bd5f575f8ffd6f8cbbe79fb1fb4e6baf32"
+    ], 
+    "MAPREDUCE-1018": [
+        "ba833e1f5115e1d94b038cc5b3d9c7bf29c36d15"
+    ], 
+    "MAPREDUCE-787": [
+        "dc7aa150f504cc1c2738e88325c80dc761f8f51c"
+    ], 
+    "MAPREDUCE-40": [
+        "9bae2730e37756c9c49c744b052f07ab22ca1d0a"
+    ], 
+    "MAPREDUCE-2285": [
+        "ce4541a75a6af79f79c3e86631a36182e65962c3"
+    ], 
+    "MAPREDUCE-2284": [
+        "bb0890a2e27e1bbb61a358db1a6f87431d936245", 
+        "aa925e58a64422a89311e9f7334a002de66687e0"
+    ], 
+    "MAPREDUCE-2283": [
+        "fd1c1e8b9e92e46a381412c8b913b15d2f2e75bf"
+    ], 
+    "MAPREDUCE-2282": [
+        "061999e0ebe05b55d92ee63ac6cc954119434282"
+    ], 
+    "MAPREDUCE-2281": [
+        "fb76e00b64b761c8ea565d437588c7446299c3c0"
+    ], 
+    "MAPREDUCE-2571": [
+        "4f130d36b519ecf4b0a3e0096385131d6751388f"
+    ], 
+    "MAPREDUCE-2573": [
+        "73338def063ccc13c5c4d1c430e8ffbb92e11e1c"
+    ], 
+    "MAPREDUCE-852": [
+        "46154c575b7f4151446ab83c8350fb4ceb627de4"
+    ], 
+    "MAPREDUCE-587": [
+        "28232dce5d28b5cc91632239f96fd211edacc17e"
+    ], 
+    "MAPREDUCE-2470": [
+        "2c80616ea8adcfe3e2db598eb6991d84e0dcfbc3", 
+        "59c1d0f465d743c6302d1c78cfdc88cf5c22b95c", 
+        "4b28c4e7d3999df0fb8b95487b217a5e801aa1e6"
+    ], 
+    "MAPREDUCE-421": [
+        "000478d87b63deb4231852df2dd0465bd4e0da3d"
+    ], 
+    "MAPREDUCE-2472": [
+        "3a38c108b6488d7f5690121ad4da3875fbcf748d"
+    ], 
+    "MAPREDUCE-2475": [
+        "c2729e451803d4ce5be57bde2e96f6e987841c00"
+    ], 
+    "MAPREDUCE-1718": [
+        "46f194d3547d9532dc44c861a7d3199e98cc101a"
+    ], 
+    "MAPREDUCE-1657": [
+        "75dbeca985ce2f56f53ade73def57c7cec1241b5"
+    ], 
+    "MAPREDUCE-1659": [
+        "ef6f52d69a841810185d7d9cc4aa4a96d0efa540"
+    ], 
+    "HADOOP-7259": [
+        "8f29d87b4ce9a3d7acf0f1e398f369ddf50a2487"
+    ], 
+    "MAPREDUCE-153": [
+        "d803a1b444de8c71a76bb807e7a75c7872e026b6"
+    ], 
+    "MAPREDUCE-1301": [
+        "9cb30c8dc2ab5439802bfdbf0c2bf8eb9f753ca3"
+    ], 
+    "HADOOP-6642": [
+        "fb76e00b64b761c8ea565d437588c7446299c3c0"
+    ], 
+    "MAPREDUCE-2529": [
+        "9994e75ded8a0729c23cb2bb343f29c33e399790"
+    ], 
+    "MAPREDUCE-2379": [
+        "49695ba9d500847fa9f10a4480076ac5e8fba81e"
+    ], 
+    "MAPREDUCE-2272": [
+        "a4240ee76b00719e63379e286c6b9b4da30341ef"
+    ], 
+    "MAPREDUCE-516": [
+        "4ef2718358b589aee86b14080a1d71a3704ad54a"
+    ], 
+    "MAPREDUCE-2271": [
+        "df9c19b00c4905c439d9e767b2a9a47528397276"
+    ], 
+    "MAPREDUCE-2179": [
+        "1085c204f5f73949b6a1f7cc8f085d91b3a2e666"
+    ], 
+    "MAPREDUCE-2277": [
+        "b487b579983f64c72dbe70a7f3312952e872fca1"
+    ], 
+    "MAPREDUCE-1870": [
+        "87943e87b92135bb80e80740ac150d35f362de3f"
+    ], 
+    "MAPREDUCE-2173": [
+        "6a87a1d781c21aa6bc132d9cfdd06a43804a8d6b"
+    ], 
+    "MAPREDUCE-1876": [
+        "7138210b5ef1586c6565ca93628bec3af0556962", 
+        "afa57827eda2e12ed23b2e013a52fef261e0417c"
+    ], 
+    "MAPREDUCE-1974": [
+        "179c693806581302f264454e5fc28e8bd1b88b3d"
+    ], 
+    "MAPREDUCE-1975": [
+        "b4a68c7fa677cf75f4f2641cebfb4138eb06649b"
+    ], 
+    "MAPREDUCE-1979": [
+        "a6fc25f7db402c6d31dc5b9e8c96e3e2bce48c31"
+    ], 
+    "MAPREDUCE-572": [
+        "ac557915ad5905a424acc9f166bd154fbf3acb5e"
+    ], 
+    "MAPREDUCE-1573": [
+        "afe61f685251250876d26eea6dee22da1bf84de8"
+    ], 
+    "MAPREDUCE-1276": [
+        "03b3eaf627a8e981bfc38f243a34386f95b23e0f"
+    ], 
+    "MAPREDUCE-1578": [
+        "0193e2610983fe149e9fabbcee3fac507a46c6d2"
+    ], 
+    "MAPREDUCE-639": [
+        "d063b3e96a051c7726e63998e6d8a4adddee7311"
+    ], 
+    "MAPREDUCE-732": [
+        "e71f038263410881a228150cd4c8c7b7715a970f"
+    ], 
+    "MAPREDUCE-1375": [
+        "5042f8624bb3f4c15832dc7861c958eee28ae217"
+    ], 
+    "MAPREDUCE-1372": [
+        "bf3127a045ec3908be09ad5d8706d8b9eac93717"
+    ], 
+    "MAPREDUCE-735": [
+        "2a10f2291fcd69b16be6c5d33f5e58fba8662013"
+    ], 
+    "MAPREDUCE-630": [
+        "24ad5079121694d6d8e794ef19e55a3695ffdcaa"
+    ], 
+    "MAPREDUCE-1378": [
+        "72303cbdaaf0622e92ec88604c0b9b87c1250081"
+    ], 
+    "MAPREDUCE-743": [
+        "25ae48c44bdb33be100652719373dd302af6d88a"
+    ], 
+    "MAPREDUCE-2307": [
+        "bf715529ca30afa230ec0aa21c43680169b0becd"
+    ], 
+    "MAPREDUCE-2304": [
+        "9ee9d2a6dc5e82bb080c4d24d715c45e592aea5f"
+    ], 
+    "MAPREDUCE-2099": [
+        "6bee31070d44c0514f25dc078bb299ee81b68c5b"
+    ], 
+    "MAPREDUCE-839": [
+        "66c131a091a21ad42b8f033a700361ab0c982cd2"
+    ], 
+    "MAPREDUCE-2300": [
+        "82c83799514db455ae8236115c62bb6b52c31814"
+    ], 
+    "MAPREDUCE-1606": [
+        "2fb120dd1326b2b28c346f36d6097ee1dbe22d68", 
+        "155586e0fbe24f6ca8db213bf71b23bc8d60ab58"
+    ], 
+    "MAPREDUCE-838": [
+        "f399fbc2bef90092277e38f71645cb29692ae2ed", 
+        "b4dce177ecf33f22787ff7084a2aab1ae5e2e3c3"
+    ], 
+    "MAPREDUCE-1059": [
+        "92de57f44a03c33e5731ae799a8f5b2bb57b98fb"
+    ], 
+    "MAPREDUCE-2095": [
+        "619d562887608cd0c145a785827dcdc1d2ed74bc"
+    ], 
+    "MAPREDUCE-977": [
+        "8a506389156ef3a1c3bad3759c0c83ecf862c011"
+    ], 
+    "MAPREDUCE-1111": [
+        "53dd57ba28182c8cb7f062cd72f20d88be9d8ad6"
+    ], 
+    "MAPREDUCE-973": [
+        "4a0f7437fcd24865e6afe1078c962cbfde3f725f"
+    ], 
+    "MAPREDUCE-971": [
+        "7b02d4ccbd7353c032702c01281bb7ef9a2749e9", 
+        "78e077b37e0b673ea5645e9fa352f30e91778d2d"
+    ], 
+    "MAPREDUCE-1119": [
+        "5b4f377df3d0df12d8b6b086ca63a88f7b82ecd4"
+    ], 
+    "MAPREDUCE-979": [
+        "0307aeb6506e3d3b5f0f4c8a7bbc6a630e7a7212"
+    ], 
+    "MAPREDUCE-745": [
+        "f106b98f1723d5538236695bdae136a8e577c1c2"
+    ], 
+    "MAPREDUCE-1280": [
+        "0b0cb05397c35ac248d51bfd9dcd8716d0f91904"
+    ], 
+    "MAPREDUCE-1284": [
+        "c8ab00b20eb9779c35d3a21d57bfd37958da6da0"
+    ], 
+    "MAPREDUCE-1285": [
+        "a3955d7f53ba63ef3a18b82a69adf57efb89d019"
+    ], 
+    "MAPREDUCE-1288": [
+        "cdd3c9e7a8a586abb3b8999c0dab24c5ff44e4eb"
+    ], 
+    "MAPREDUCE-2451": [
+        "b3a00bbc64ba6499d3dd47a8dfb2d556facc6fed"
+    ], 
+    "MAPREDUCE-895": [
+        "ac427b224961ca0142c4553eddc0828e9fda0c7f"
+    ], 
+    "MAPREDUCE-896": [
+        "7b347c4a3993946be01d12b6e29c3d0a512c6a8b"
+    ], 
+    "MAPREDUCE-890": [
+        "6b1d5cca837fe6fe15cd45b32b9764d12bafb404", 
+        "8d7511ab617c1822256d3b4cd3d12299de3e5f2c"
+    ], 
+    "MAPREDUCE-2437": [
+        "45a0ae23b232c22ba9bf76c850219710211cc2c7"
+    ], 
+    "MAPREDUCE-899": [
+        "6ef9b65872ec3391eb981c47da870171792e7772"
+    ], 
+    "MAPREDUCE-1695": [
+        "ab730c3ba04601854695830f6eb8ea485b9e2f64"
+    ], 
+    "MAPREDUCE-1697": [
+        "d62d9c2a909f2504ef100964fc6d24060a535a67"
+    ], 
+    "MAPREDUCE-2000": [
+        "a7d777518505c23a663bda2f85a9ecb2b681de9a"
+    ], 
+    "MAPREDUCE-1028": [
+        "022cb0bbe915a712d31d43a0a496ac5af7ab1d29"
+    ], 
+    "MAPREDUCE-1692": [
+        "b439497e2b27f5499246ce5a77ffd2e3b4d7444e"
+    ], 
+    "MAPREDUCE-1754": [
+        "9e0fe5e62dd27b61b2af5a6acab5236903589d42"
+    ], 
+    "MAPREDUCE-1022": [
+        "5fc6492f835636681c51bb7e5c0f3833b69b01e1"
+    ], 
+    "MAPREDUCE-118": [
+        "cbc45a164126d1453bd492daa056b417edfffa9c"
+    ], 
+    "MAPREDUCE-1599": [
+        "d1d8a003cc8ac70bf48fa49fce288f694d6b7fcc"
+    ], 
+    "MAPREDUCE-1597": [
+        "c72f23cdfc13fc825a0a045a0c35045641db7723"
+    ], 
+    "MAPREDUCE-112": [
+        "c0231817db277406468e8bc2a09ac8ec41d89206"
+    ], 
+    "MAPREDUCE-2483": [
+        "7ed6a1959af6801f25704d4d2eef75df0e204ee8"
+    ], 
+    "MAPREDUCE-408": [
+        "992cb17843dc02fdaa6e23bf089998dbd25afb5d"
+    ], 
+    "MAPREDUCE-2487": [
+        "9005a08c87b637bd45dfd4cf691b6b03b0bb13e0"
+    ], 
+    "MAPREDUCE-2486": [
+        "73e1cb6e5bd358037cd8664cdb4275369421f2d3"
+    ], 
+    "MAPREDUCE-845": [
+        "745e22e96f2553c3cac83ec5ab0835bedb3ddbf4"
+    ], 
+    "MAPREDUCE-808": [
+        "331593e67aa74a7c10370f7ddab6a0287e7544da"
+    ], 
+    "MAPREDUCE-809": [
+        "da1e8fac7f293b7625efb7de768224d3ccb4fe79"
+    ], 
+    "MAPREDUCE-807": [
+        "c7e05b8e600b66ebe35cf18c22b40c34f6675e13"
+    ], 
+    "MAPREDUCE-805": [
+        "e705a974381a4b46c0b63f203aee4e2677a57703"
+    ], 
+    "MAPREDUCE-1628": [
+        "6d8081108e09bbdbd42978a60989cfcc6bf051bb"
+    ], 
+    "MAPREDUCE-1629": [
+        "ba7ebada44b0acf9bf1f627dc1fdd323bde8a6ad"
+    ], 
+    "MAPREDUCE-647": [
+        "857232ab1516b7d6922cd0fdd424e19a5f9d0bec"
+    ], 
+    "MAPREDUCE-2134": [
+        "a50bd2f4307a3c2c991541ae2bd8bd2a13687c3a"
+    ], 
+    "MAPREDUCE-2137": [
+        "0eb5bf4a25fea97466813e33656dd03b564e7f79"
+    ], 
+    "MAPREDUCE-416": [
+        "5ed989f49102b80c501055c38bc2deddb8f720e4"
+    ], 
+    "MAPREDUCE-419": [
+        "fe7e6a4f00485f08a761c4b64f090d848d6d33c8"
+    ], 
+    "MAPREDUCE-1621": [
+        "a8047bca029795d32551379ab5f29f26f1d3ed23"
+    ], 
+    "MAPREDUCE-1622": [
+        "a1b59a2de784eb320d2fd4aa92df79c032459acc"
+    ], 
+    "MAPREDUCE-1897": [
+        "c8162f74ffa38ea148069475fd04eaa8a6730e3e"
+    ], 
+    "MAPREDUCE-1230": [
+        "a000f89cb10b850723faf45f63c7ead28709bc38"
+    ], 
+    "MAPREDUCE-1235": [
+        "c125a10835932c9f1dfda1c4e1d216f68791e608"
+    ], 
+    "MAPREDUCE-1239": [
+        "9116f49ae47369cb3fff2af8aa0e022d71c504d1", 
+        "c1a3c81b629e0386b89f913a6e9b52b618732a45"
+    ], 
+    "MAPREDUCE-1331": [
+        "d20ca8ad1bb23b38529e1133d45df824c71a8f7a"
+    ], 
+    "MAPREDUCE-1334": [
+        "938a355a3fe8970b17d5ceef8145909813aba82b"
+    ], 
+    "MAPREDUCE-2228": [
+        "82c0574c289a944294e9f49cf8081ccf47bfa267"
+    ], 
+    "MAPREDUCE-2224": [
+        "15d58b3104369aa49d5350ee321d04c73dbe2ddc"
+    ], 
+    "MAPREDUCE-2223": [
+        "ca29d90167f5dd443f991750c81416f01cc0b168"
+    ], 
+    "MAPREDUCE-2222": [
+        "457dbb8c9208add53909139d0d5dc503a479eff6"
+    ], 
+    "HADOOP-6826": [
+        "92bfb748850f8a017879fb085d02de798693a992"
+    ], 
+    "MAPREDUCE-1480": [
+        "6b74ef852657b8bea125d65ffe05b2dc342b069f"
+    ], 
+    "MAPREDUCE-1482": [
+        "df6a4d404177c2aa80588e537b0fa80c8e577d66"
+    ], 
+    "MAPREDUCE-1528": [
+        "1978b6d58bcd7f9b021e799ec7ae0df3f850aede"
+    ], 
+    "MAPREDUCE-1029": [
+        "d06c514092393b7ae3dd5025a7c1831b6f8af5c0"
+    ], 
+    "MAPREDUCE-1523": [
+        "44126d234f9d8e123558410bd4bd71cabf76b41e", 
+        "e293d994f6311baedd1b294e0afc50a1faf9a6fc"
+    ], 
+    "MAPREDUCE-1522": [
+        "80a438ff4d8e330071bda309071d8d954ce36fb2"
+    ], 
+    "MAPREDUCE-1520": [
+        "166dde5fab8eebb6892001b0d35e64a38c4fe45b"
+    ], 
+    "MAPREDUCE-709": [
+        "c2f4016d1aa9dfba44b484405a4dd7090165661c"
+    ], 
+    "MAPREDUCE-708": [
+        "3f8cd90a46433f12c5ec1573e47aef0d3cc8f7ca"
+    ], 
+    "MAPREDUCE-1244": [
+        "52f2291a1cbbf44c59b19df72abb8061731597e6", 
+        "ce52bdae3628bb5c3a60b9122374bd5fd588ecfb"
+    ], 
+    "MAPREDUCE-1245": [
+        "901d5707ae265372a9a194db4a9fb9aa84d1d70a"
+    ], 
+    "MAPREDUCE-1242": [
+        "65c5c54c9f006d8b176193ea8fc059b50fcb434a"
+    ], 
+    "MAPREDUCE-1241": [
+        "44f3335dd1e57d4615ef94225f2f254783cbd659"
+    ], 
+    "MAPREDUCE-703": [
+        "1b15217e1573c65261be055edcfa1567c6433642"
+    ], 
+    "MAPREDUCE-702": [
+        "bfa603364da7af4f8ab5ec2f043c2a389b257547"
+    ], 
+    "MAPREDUCE-1249": [
+        "a8b5b600220f5ac5944f3cdaea462a8167141ffb"
+    ], 
+    "MAPREDUCE-28": [
+        "5ce9a17efd28949dcc1b38a338c6a3e0af1e9134"
+    ], 
+    "MAPREDUCE-1062": [
+        "4989c962ae26d2296eef37a654854d9bd1a3a6b1"
+    ], 
+    "MAPREDUCE-1148": [
+        "19c13d65600112594af95c16a511488afbe62d1e"
+    ], 
+    "MAPREDUCE-1065": [
+        "59d6e6818466664dcb8aa67a6f02060f85040119"
+    ], 
+    "MAPREDUCE-1412": [
+        "2f6d620de649ab59e8ffc5497b8f84205518d344"
+    ], 
+    "MAPREDUCE-1147": [
+        "c29f362fe847db1b82c9c7e94e23701b22d2d7ae"
+    ], 
+    "MAPREDUCE-1146": [
+        "6d08be0790e787c9ed3e6fe18f6dc20a2ba145b7"
+    ], 
+    "MAPREDUCE-1417": [
+        "706063e9784bb458744a45e73394a1e244d9c685"
+    ], 
+    "MAPREDUCE-1140": [
+        "94092d644ccb5c266d3dd88dae7fd0317a94e159"
+    ], 
+    "MAPREDUCE-1143": [
+        "727ef637fc04ec982a41447352e758c5977c418b"
+    ], 
+    "MAPREDUCE-792": [
+        "42f21eb978b54ecc61539becd1b1997d0b5e625e"
+    ], 
+    "MAPREDUCE-796": [
+        "4fb2a1ff89a0a0f8983f0602f4c8cd7070b81796"
+    ], 
+    "MAPREDUCE-1098": [
+        "2ad0774df9c15eb03e3d06770ffb7aeae5f9c323"
+    ], 
+    "MAPREDUCE-799": [
+        "08fb8390aab17bb585675d29fe43979af622afce"
+    ], 
+    "MAPREDUCE-1090": [
+        "da47eebb274f52557238e7913b3d352007043fc7"
+    ], 
+    "MAPREDUCE-2467": [
+        "ced230f44dfd853485a6b72593e8f54259320c5f"
+    ], 
+    "MAPREDUCE-840": [
+        "57983e5ac1731efb43eacc5433a1ff240691d9bb"
+    ], 
+    "MAPREDUCE-1668": [
+        "752472e97177ed5a011f2010f7c974053236a95c"
+    ], 
+    "MAPREDUCE-2460": [
+        "f78f7f0415f39a25c20a758bbf5462ef520cd294"
+    ], 
+    "MAPREDUCE-1664": [
+        "a0ae5112afb235059bec6a0f0e86c6e6d8e4c3b2"
+    ], 
+    "MAPREDUCE-848": [
+        "75a9a5a3df4c98a2fdacc58ccdef182e7b2c6da4"
+    ], 
+    "MAPREDUCE-2": [
+        "285bb6adf100200e791fbf8a31ba2339f065eabe"
+    ], 
+    "MAPREDUCE-1662": [
+        "4eb3ba314f8717d3268c057524fccc099bd2cc34"
+    ], 
+    "MAPREDUCE-1707": [
+        "1f471a2232362ae29911a6ca50dd4cd330faa225"
+    ], 
+    "MAPREDUCE-1705": [
+        "94a5fde02a042fcad7dca683992ed3387b59510c"
+    ], 
+    "MAPREDUCE-1155": [
+        "f65782cf83a1a6f02c3204085f8091bd1093cc11"
+    ], 
+    "MAPREDUCE-1701": [
+        "77e448d3c4e11b7321350855beb0808e52d8867a"
+    ], 
+    "MAPREDUCE-1469": [
+        "5799b8dab7de22b237ea1af486304066e8abba5c"
+    ], 
+    "MAPREDUCE-1152": [
+        "8640fe293b5bd2a8d7fd8759a6c2bbbf014044a4"
+    ], 
+    "MAPREDUCE-124": [
+        "fff3bfd1d300ca6259031460f12e21980dc75032"
+    ], 
+    "MAPREDUCE-1992": [
+        "5cb6e31c80e921ad4d577d04c473e9b23aca6dbe"
+    ], 
+    "MAPREDUCE-1993": [
+        "a4adc90d422e603df6488f8dc851f7f25766ec3e"
+    ], 
+    "MAPREDUCE-1996": [
+        "bc8280bdb18312c97317c2e3173e79ac567ad909"
+    ], 
+    "MAPREDUCE-1999": [
+        "137569916266b4fc4143b246d196aa5f8a83b13b"
+    ], 
+    "MAPREDUCE-1845": [
+        "f43b0480e78362391f6ea7d00101ad800e3614a8"
+    ], 
+    "MAPREDUCE-565": [
+        "c85a3f9ba59c9ebbe00a2351e733d20da7072e6f"
+    ], 
+    "MAPREDUCE-2143": [
+        "3d75ebd8d6adce8c1e0e66d1e708005476a00a33"
+    ], 
+    "MAPREDUCE-1961": [
+        "632c052a8d5dd5665876ab9885aa3666ea047faf"
+    ], 
+    "MAPREDUCE-1566": [
+        "f4aa57d51d8d4ba79418653de605c9bb15f37417"
+    ], 
+    "MAPREDUCE-1160": [
+        "bc553b2fefafb68ebd84258cff6dfee5d9da1c17"
+    ], 
+    "MAPREDUCE-1365": [
+        "b82d007bc011f009ed90d27db7168845a60cd7a0"
+    ], 
+    "MAPREDUCE-628": [
+        "e92e85e2c2c98a65f5d2bc7cead5d40b282c852d"
+    ], 
+    "MAPREDUCE-1369": [
+        "f6426606a3c4d5c5a10df80dcba79ed830b8538b"
+    ], 
+    "MAPREDUCE-627": [
+        "33bd3cd42bb1feb106a5337b055b72a330ffa7f7"
+    ], 
+    "MAPREDUCE-2146": [
+        "1c05f3d33cef741152b49984644c8012d3b68c26"
+    ], 
+    "MAPREDUCE-2315": [
+        "2c135c480b9704d6d703f7baad2bb6202478bfd7"
+    ], 
+    "MAPREDUCE-2317": [
+        "57055f855e82a5e8a130a33efa8547071eb2a10c", 
+        "11131d72040c250f897a8d1c130b83ce1b065050"
+    ], 
+    "MAPREDUCE-2311": [
+        "242d4d94007d831f599e3281a0f1994f3633e02f"
+    ], 
+    "HADOOP-5472": [
+        "857232ab1516b7d6922cd0fdd424e19a5f9d0bec", 
+        "a115ca6b076248501230366b641d52f9620508e6"
+    ], 
+    "MAPREDUCE-64": [
+        "56be7b0a441e3b23b3f1a61c6a7d8ba917171797"
+    ], 
+    "MAPREDUCE-941": [
+        "4b5dd0766ae79184d49e2cddda1afc6f83bff7c0"
+    ], 
+    "MAPREDUCE-1515": [
+        "e253c41d1f7dd5ae1e6f236d176425c63122e4a0"
+    ], 
+    "MAPREDUCE-1105": [
+        "6ec9338bf2af0d759a47128f6816b428a1d049d2"
+    ], 
+    "MAPREDUCE-1104": [
+        "e4475c3370b3954a754f7c2b01dc011bb443fa6b"
+    ], 
+    "MAPREDUCE-945": [
+        "dd93cf475f26c23191ae1ef042ba5f31754966b7"
+    ], 
+    "MAPREDUCE-1519": [
+        "5a41caa30fe16830499d74b221644eab9605f47d"
+    ], 
+    "MAPREDUCE-754": [
+        "da589c34298a140cea761b17e7c8b3946ae5b97c"
+    ], 
+    "MAPREDUCE-1294": [
+        "68170744e415fd7ca863f998e2ae4f48e305a06b"
+    ], 
+    "MAPREDUCE-694": [
+        "cd70178d6a707fa3c1555d60804d35de444781c9"
+    ], 
+    "MAPREDUCE-690": [
+        "c43b0cbff67d0d0d1e6e5c06dcbc9b6cb10fcde4"
+    ], 
+    "MAPREDUCE-1196": [
+        "aceac6dd4d030563dae3a326d6fe71113da20288"
+    ], 
+    "MAPREDUCE-2581": [
+        "eb26c0fa42a874e967983251452d0739118b975e"
+    ], 
+    "HADOOP-6285": [
+        "1c7c550601e8c7760627a3ea77103aa6def0d38e"
+    ], 
+    "MAPREDUCE-2428": [
+        "6ee898a035604764fb22cfe9f5a18cbd68aa108c"
+    ], 
+    "HADOOP-6281": [
+        "207a36bd4b5ec9b4f4cbb1581334d2b4deed15ed", 
+        "2c4c7b908b7fb4aecc9973aaaa7c336f67647e71"
+    ], 
+    "MAPREDUCE-2420": [
+        "18e6bcdc3c3919ab52a1a971dd21557b382cfb25"
+    ], 
+    "MAPREDUCE-889": [
+        "f9e39fdff6961a107d240663bedf8c1f5422653c"
+    ], 
+    "MAPREDUCE-2031": [
+        "636c868c4d9c6e3486e805091b065fa6640a12cd"
+    ], 
+    "MAPREDUCE-2032": [
+        "6261f763d6cba3220c25eca8d31f880d4d3828c3"
+    ], 
+    "MAPREDUCE-1490": [
+        "408e44ac2074c503caf21aa73113dc48584619bb"
+    ], 
+    "MAPREDUCE-1038": [
+        "999f27aa08ff8dba79508cfd39347b5bb3e32589"
+    ], 
+    "MAPREDUCE-1037": [
+        "53c5371519d809cb68b1e5b2ce346daa96530813"
+    ], 
+    "MAPREDUCE-1031": [
+        "b3164c25ceff6552f10e7fecf3c361b440670fde"
+    ], 
+    "MAPREDUCE-1030": [
+        "92065860cad47dec1899c7d48ea64cc0e0ea3f2d"
+    ], 
+    "MAPREDUCE-1422": [
+        "90025a12dda3043e3c7e19a563647c49544ecc16"
+    ], 
+    "MAPREDUCE-1420": [
+        "bb1c72bce94aa87eb007dd3524ae8246abed323a"
+    ], 
+    "MAPREDUCE-1421": [
+        "9c311f6de80f12b347f3cead718044f94a9f89c2"
+    ], 
+    "MAPREDUCE-1585": [
+        "be30d31a05bc3fd23918040fd46c0d76ec514c9f"
+    ], 
+    "MAPREDUCE-2516": [
+        "d1637ceffa436c430c3004a5311637a7de791f65"
+    ], 
+    "MAPREDUCE-2515": [
+        "32aaa2a9469071c75dbc0f380a5613f444c2391e"
+    ], 
+    "MAPREDUCE-2514": [
+        "5776120969aed9093c448c88b112262f829a2375"
+    ], 
+    "MAPREDUCE-2104": [
+        "53ed400a307d92c5bbe12c4e1eaadf48791a9e30"
+    ], 
+    "MAPREDUCE-2457": [
+        "698f370d0fa3b7e7551e4a9114377da27a5c7728"
+    ], 
+    "MAPREDUCE-2452": [
+        "bf77e493ed7a8bb7cc9118359e1f49a31a3e6b8f"
+    ], 
+    "MAPREDUCE-2518": [
+        "88a87a8755a9dbc4fda1f748c8095e3bed709474"
+    ], 
+    "MAPREDUCE-1635": [
+        "270106ac92902e859a511d2e2e0c64c076cc37c1"
+    ], 
+    "MAPREDUCE-1920": [
+        "e3488570e2cfbe9db0511e4d0c80294bb04846c3"
+    ], 
+    "MAPREDUCE-1926": [
+        "53cc7b04353d54e6169bb2bb625395b7826c9bc6"
+    ], 
+    "MAPREDUCE-1925": [
+        "9e97c20796f6e9aa80f12774867e25232fd59c21"
+    ], 
+    "MAPREDUCE-1929": [
+        "136128075962c126db2a44ff51c1884a9b90eadf"
+    ], 
+    "MAPREDUCE-179": [
+        "e0dad7f96ec78f0ea36ef8b02561e973af9766cf"
+    ], 
+    "MAPREDUCE-1251": [
+        "358c5ae71ede0700d5dd6a26554418cf1e8f050a", 
+        "b71e9ed28f211b781306081574d4b372da6246f7"
+    ], 
+    "MAPREDUCE-682": [
+        "812aae6c297ac485bc66b0aa89acfd887265f9c6"
+    ], 
+    "MAPREDUCE-1322": [
+        "d8c5d36f8370451d163a429d85dffa22bbc8e588"
+    ], 
+    "MAPREDUCE-1327": [
+        "8db3109d7397cfde470bb3438f7aee5252dc6422"
+    ], 
+    "MAPREDUCE-859": [
+        "9e58f6fc35115eaa203f1d08c6b2c93279af8d52"
+    ], 
+    "MAPREDUCE-1813": [
+        "c2e41ceb1541ce550119256a82661c704f54e4df"
+    ], 
+    "MAPREDUCE-2215": [
+        "2de7f41f31b0aeab1b9df161de3c8ab0414b87da"
+    ], 
+    "MAPREDUCE-1811": [
+        "d7830458515a2dd428209a151fd57df86b939fe4"
+    ], 
+    "MAPREDUCE-717": [
+        "0062e5c30aa4c320f7938eb22d626ffb660180cb"
+    ], 
+    "MAPREDUCE-1958": [
+        "6694280dd3d9e4561ca1ff0251dd2242322c7eb3"
+    ], 
+    "MAPREDUCE-1558": [
+        "b36cb28e2fb44345989ec3922d1422afb4c3bdfa"
+    ], 
+    "MAPREDUCE-1559": [
+        "856ed3773e8f0daff4cd48fca315c3ea90a891ec"
+    ], 
+    "MAPREDUCE-1497": [
+        "82998addf43cf06a3a2bf535e04c7fc50f017516"
+    ], 
+    "MAPREDUCE-1494": [
+        "e96d0e2623afa0c54b613b84246358113041f74b"
+    ], 
+    "MAPREDUCE-1398": [
+        "383b60b0fc434918456b55e86af49a4387180e5f"
+    ], 
+    "MAPREDUCE-1399": [
+        "08b9212fb3c79189c102abcf03fefbf0eeda4db1"
+    ], 
+    "MAPREDUCE-1394": [
+        "48b001f6d55d08a7c5f94ea16ee2b588fa447d60"
+    ], 
+    "MAPREDUCE-1395": [
+        "20f000cd3400a7ac617a38acad64cccb79ad9936"
+    ], 
+    "MAPREDUCE-1397": [
+        "ba0c800d182b112571473ad2c32be04d3bf64d72", 
+        "b2b37a17e5fc5b138c1621dae28dc62740835164"
+    ], 
+    "MAPREDUCE-716": [
+        "3128b61b572666c2cc53c1e4b01c6b1d2a44258b"
+    ], 
+    "MAPREDUCE-1258": [
+        "84efd0d59b4e4f0676a1cda829ff1305bc21ea98"
+    ], 
+    "MAPREDUCE-714": [
+        "078b111927412f43a7b80a19bf369411459481bd"
+    ], 
+    "MAPREDUCE-657": [
+        "c6fd9700c975e737a4dbb30ce5c3317214ae1c12"
+    ], 
+    "MAPREDUCE-659": [
+        "3f8156f0e515f19783fc20a09138195cc868b0ff"
+    ], 
+    "MAPREDUCE-658": [
+        "10db66a425d2584382e721896e1f9ad0f5ca6876"
+    ], 
+    "MAPREDUCE-2074": [
+        "0a3a0753bd2ce4f10544fb33b3fc25b180d6aa8a"
+    ], 
+    "MAPREDUCE-18": [
+        "99b5ea2033c2be7b0b1574088b223084b81aa3e2", 
+        "53edd701072e317fcc6e818613151a5d9bf157bf", 
+        "9f448bf1494ab89fa2d4ad5693c17a92036f74c7"
+    ], 
+    "MAPREDUCE-2077": [
+        "c25a1bd745312cf25482b8986e1d884ad0edd8ef"
+    ], 
+    "MAPREDUCE-1788": [
+        "1aa7074ff6510781bf29ed7e876f8c92a9ae789c"
+    ], 
+    "MAPREDUCE-1784": [
+        "3e0ac956119068f1c47180b081eaff02ee346e4c"
+    ], 
+    "MAPREDUCE-2078": [
+        "85f42bd5237a8a6cc08062eff2551c60e8a43f63"
+    ], 
+    "MAPREDUCE-1780": [
+        "67b81aea1d18400c0d9b16e6d7868126f135900d", 
+        "9eef614379fea77361ac990180be216a9c608f6c"
+    ], 
+    "MAPREDUCE-1178": [
+        "c5a38e5c99d2834f3786dd1d36e8928e5527c436"
+    ], 
+    "MAPREDUCE-1070": [
+        "6d0990496e3c3d5efb4a122e580470cb292420ef"
+    ], 
+    "MAPREDUCE-1894": [
+        "33577cb7297279e8b9dcbf54d9f96e261b805954"
+    ], 
+    "MAPREDUCE-1075": [
+        "9c08b79db0aa747720b5794ad67cba9187d29371"
+    ], 
+    "MAPREDUCE-1077": [
+        "24d99a61b17c95d9e95623384acb8457595ad019"
+    ], 
+    "MAPREDUCE-1076": [
+        "cd1df1703d50cb6890ebc92ffd4ae084b46ed832"
+    ], 
+    "MAPREDUCE-1171": [
+        "c8292dfe4cd59c20ad2e04ed7ffacffd58994e92"
+    ], 
+    "MAPREDUCE-993": [
+        "e54c176d7085841463a892f8052f5b707fe60df1"
+    ], 
+    "MAPREDUCE-1174": [
+        "c502a62dd4034fea3afd4039e059b9fa8403db41"
+    ], 
+    "MAPREDUCE-995": [
+        "f5822bd5c9c1b70e443d98ae82ed00e5c6f6e0c4"
+    ], 
+    "MAPREDUCE-1177": [
+        "9f5a80635524e23fcf84ff0b93e9f77280fcbf3f"
+    ], 
+    "MAPREDUCE-626": [
+        "a0e38730efd9a061b0a5a801e53fc5e48d65cdcb"
+    ], 
+    "MAPREDUCE-2559": [
+        "c282207bcda343bd3c9c9d0b1f0d184e96b98636"
+    ], 
+    "MAPREDUCE-879": [
+        "983537bddd60b73b135733c479c562a8eb9946fd"
+    ], 
+    "MAPREDUCE-877": [
+        "177afcec823ea0b5473223c27818286d05467dfa"
+    ], 
+    "MAPREDUCE-2188": [
+        "5737bac625cf6a50f5c3a8c05e066d557609bcc3"
+    ], 
+    "MAPREDUCE-2416": [
+        "b6bef059f98b800c6c958c1a7cbd346af85ab37a"
+    ], 
+    "MAPREDUCE-2417": [
+        "759b2b84c08b4dc7629b9faf49c394182570df64"
+    ], 
+    "HADOOP-6090": [
+        "fbcc35a0fb0fdfec5fbe0e9748c4a7a31bb3c149"
+    ], 
+    "MAPREDUCE-1670": [
+        "a506ca6e18b9f8854498a5d970409edc27e43e78"
+    ], 
+    "HADOOP-6096": [
+        "51039f71c219a4574b14262e2f6a3a371a3b92ff"
+    ], 
+    "HADOOP-6097": [
+        "5e3092f58c6c6e1502a0b8427365928be160b0af"
+    ], 
+    "MAPREDUCE-1772": [
+        "867d27a01dfa1b077e64106d071f23dcbb3ea0cb"
+    ], 
+    "MAPREDUCE-1773": [
+        "f1e1eea8dbf934216f67ce6231ee2c08833285bb"
+    ], 
+    "MAPREDUCE-1474": [
+        "cea2b98152e1e0b22374fa29273451628817f1f0"
+    ], 
+    "MAPREDUCE-1476": [
+        "81a54574e88e8c34f196e6447a3804b7cfb1dd07"
+    ], 
+    "HADOOP-6243": [
+        "b6bbd1093e682d3d4cdc4f608faa0a43cad71df4"
+    ], 
+    "MAPREDUCE-130": [
+        "3d9638c710a5b5d966448ee0144e038edb0a0a8e"
+    ], 
+    "MAPREDUCE-1980": [
+        "20aabc050713d4730f74adabfe925cd12a9de8d9", 
+        "16359f6a10a89101554d7a12e3fcc2cbb282c52f"
+    ], 
+    "MAPREDUCE-1982": [
+        "08ffadea17956a641d6dfeea65140a462a082891"
+    ], 
+    "MAPREDUCE-1984": [
+        "58ee62d7b872109340bc4a0208f875481c1d299b"
+    ], 
+    "MAPREDUCE-1989": [
+        "cccda89c2868c775eb6e1f1e6b80541ed2579c4f"
+    ], 
+    "MAPREDUCE-2395": [
+        "7bcc3f3d3a3ff6fce6aab6ef57c3df868368bc7b"
+    ], 
+    "MAPREDUCE-2394": [
+        "c6c651354b31c83e87d8e5393947bd84421bde9e"
+    ], 
+    "MAPREDUCE-2258": [
+        "d800a717100c096a3b9de284284f36f00cf364b2"
+    ], 
+    "MAPREDUCE-2392": [
+        "f3a5acee34fc7bfa963ca239ff1cc90a4f640810"
+    ], 
+    "MAPREDUCE-2256": [
+        "24d0f05e92e45d31e6683b79e3514ce7bce738f3"
+    ], 
+    "MAPREDUCE-2251": [
+        "8dd47c8eef7c1e5068fbef8ff94646f7d3f86688"
+    ], 
+    "MAPREDUCE-2253": [
+        "124fbaf900d4f4996996a2d56eb064d1d6b2777a"
+    ], 
+    "MAPREDUCE-1853": [
+        "08a7c43a25fdf44a4d56c03e4244ac93462be2a9"
+    ], 
+    "MAPREDUCE-1857": [
+        "37e078a3061f356a93ce4ea33b0bce284da03928"
+    ], 
+    "MAPREDUCE-577": [
+        "b29427f110d832b4e1c00121e3577ebb4822e3d2"
+    ], 
+    "MAPREDUCE-1855": [
+        "838ecce707b937d7cc2b2bc2aa5f493e83809ca8"
+    ], 
+    "MAPREDUCE-1609": [
+        "f6a1e3bc8a8a5aa6afc82ba8759f021e2478816f"
+    ], 
+    "MAPREDUCE-2096": [
+        "1ccc840ffc50a1a1198541f748eb087f6b838859"
+    ], 
+    "MAPREDUCE-1607": [
+        "d67bc7d2c2b6ce8859723459279f95e6ab146e01"
+    ], 
+    "MAPREDUCE-1604": [
+        "e441055a6b3ee9a6f569cc3fed865e88364f884c"
+    ], 
+    "MAPREDUCE-1911": [
+        "699563e900d96e5c128fe8b2cb40cb3208d8e7ac"
+    ], 
+    "MAPREDUCE-1602": [
+        "e0c9588db89530558987d24789dc7a2f00710bcf"
+    ], 
+    "MAPREDUCE-2090": [
+        "ff844dcf00ceb6985047008522b991b8cf63bc55"
+    ], 
+    "MAPREDUCE-1915": [
+        "c98fae4126d9dade2321dbe087c62633e602ef64"
+    ], 
+    "MAPREDUCE-1219": [
+        "3e3a63f2dcf9a1e319f5d1ddc21e3adb8ed7fb1e"
+    ], 
+    "MAPREDUCE-1213": [
+        "11c4d7af4fa691135a3db90ecb9c90290201a788"
+    ], 
+    "MAPREDUCE-1212": [
+        "099598c1fc5dd057c9598656db63910fde70bcef"
+    ], 
+    "MAPREDUCE-1358": [
+        "2e646c225c5dd696c345f1c1fd9190f0b35b165d"
+    ], 
+    "HADOOP-6873": [
+        "6694280dd3d9e4561ca1ff0251dd2242322c7eb3"
+    ], 
+    "MAPREDUCE-1071": [
+        "74eac4e982c7bc77a3e0633cd2cadadbc69e556c"
+    ], 
+    "MAPREDUCE-2327": [
+        "2ea52929e4bbda3269258759e08e7e9fe52146e6"
+    ], 
+    "MAPREDUCE-1825": [
+        "8b3c01cc635e7807dc96eab960239d97a3b6dd43", 
+        "1e629eec78c237ba642a5ebe8d7b5167d629821f"
+    ], 
+    "MAPREDUCE-1820": [
+        "3a400790223c6f52dca3bae1d2c3d928abb5eb7f"
+    ], 
+    "HDFS-641": [
+        "e3bddd951272a5b7a875f63c5492110890431c2f", 
+        "60452f9d0ef0da6ba79aa6b9f000d5b312b3083e"
+    ], 
+    "MAPREDUCE-1131": [
+        "44818bdd19d8f20800e1c187b37323a8393c2a05"
+    ], 
+    "MAPREDUCE-952": [
+        "faed4b03cdff6a3dbdef6d125898eb075b6732b3"
+    ], 
+    "MAPREDUCE-1133": [
+        "bd1222852516c3abbd069782cdd4768a019b9f03"
+    ], 
+    "MAPREDUCE-1505": [
+        "c22c13890e8bc6ab85a578b068cd1a51bda808f4"
+    ], 
+    "MAPREDUCE-522": [
+        "2c139ba7b7dd57307b0225bf24c3d5352533a343"
+    ], 
+    "MAPREDUCE-1508": [
+        "03bf4679e2705ffd70452a1b7b0e29b058cae290"
+    ], 
+    "MAPREDUCE-760": [
+        "42ebde54df20879e28278ab4b7624e827ce9db59"
+    ], 
+    "MAPREDUCE-764": [
+        "254b2c67ad513470141ca2af6eadb9d64bbcb7ec"
+    ], 
+    "MAPREDUCE-680": [
+        "7e8367b9bb679b7f282ad60e069bbd413a73b39c"
+    ], 
+    "MAPREDUCE-769": [
+        "cff4666304be08559d248b2ebb515f37f767bfd8"
+    ], 
+    "MAPREDUCE-683": [
+        "512234f1aa67c83ad0dd278d1fba4cbedf8feaee"
+    ], 
+    "MAPREDUCE-685": [
+        "9cba15c32e3aa87a75e262c526ffcfe6dec9b031"
+    ], 
+    "MAPREDUCE-687": [
+        "c21c7fa2fd1bbd9123c6066cf95e323831364189"
+    ], 
+    "MAPREDUCE-1068": [
+        "03f904939c4be9f9fdca551e92c6330cdb41110c"
+    ], 
+    "MAPREDUCE-1182": [
+        "af6a24d39b297d34a1f6254dfee0abd13935c61e"
+    ], 
+    "MAPREDUCE-1186": [
+        "f4868b86729dfd92e3d81ab1fd3539eca3398e6d"
+    ], 
+    "MAPREDUCE-2185": [
+        "373996c8b966bc700fccc635f16c05a6e5ef1f25"
+    ], 
+    "MAPREDUCE-2029": [
+        "a860b24cdd3a0df9f636cddc3700a04abc41d991"
+    ], 
+    "MAPREDUCE-2023": [
+        "4457a24738cd7c9a0aec5de53d4db157bd9f677e"
+    ], 
+    "MAPREDUCE-2022": [
+        "0ab18cb418491ab19744b3d116782a449cf9de5f"
+    ], 
+    "MAPREDUCE-2021": [
+        "7a0afcc33c0f6c607f7aae6661cae50395c4a895"
+    ], 
+    "MAPREDUCE-1009": [
+        "a174277ec3e230535e03ea43b34d823d25df3d40"
+    ], 
+    "HADOOP-6199": [
+        "0ec3a2e94e46c55f007800aaf45e188003d99bdf"
+    ], 
+    "MAPREDUCE-1000": [
+        "32ee245eb98413451cd7eab51181d7ddac2ef69d"
+    ], 
+    "MAPREDUCE-1003": [
+        "b2d400b3ac92efee364d4a0811ee20fce103e83c"
+    ], 
+    "HADOOP-6192": [
+        "304525017f9788b8686e7892360ac9c7f673d858"
+    ], 
+    "MAPREDUCE-1007": [
+        "fca1ffb03358d9234d5e5fa59d91d6f4a816af41"
+    ], 
+    "MAPREDUCE-832": [
+        "6f92ac3c40dfa3445e998ea5fe29a75697795e98"
+    ], 
+    "MAPREDUCE-1435": [
+        "a4038cac9d85c5b8b6db419cba5a23b8b2118e7b"
+    ], 
+    "MAPREDUCE-946": [
+        "47f9eff7238d586688e47009ad9b522d29e5ce6c"
+    ]
+}

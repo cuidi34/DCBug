@@ -1,0 +1,1280 @@
+not sure,Documentation comment for getVariable/getParamVariable incorrect
+not sure,svn status' needs better error reporting
+not sure,Multolingual support in converting xml - pdf
+not sure,Velocity should provide an interface for explicit property retreival
+not sure,Translate svn-ref.tex to French
+not sure,better customisation features for schedule component
+not sure,No support for Apache 2.2 yet
+not sure,document JUnit pitfalls
+not sure,"Need to increase the maximum buffer size for HTTP header from 16k to 64k,"
+not sure,Add error printouts to rasterizer
+not sure,"Need the ability to change the port number for HTTP,"
+not sure,RMIC needs debug generation parameter support/property BugRat Report#350
+not sure,"Need to be able to set ""scheme"" for SSL offloading"
+not sure,"Upgrade Exceptions from fop 0,95 to 1,o"
+not sure,Metrics needed with Type 1 fonts to have accentuated chars
+not sure,Compliance page needs to be updated
+not sure,Add handling of the ZoomAndPan attribute
+not sure,Add support for overflow on clip-path
+not sure,[PATCH] A code-coverage tool for code analysis
+not sure,"Ant1,2's optional tasks does not compile against JUnit 3,5"
+not sure,Add metrics-version attribute to XML font metrics file
+not sure,JK Apache HowTo documentation doesn't explain the --enable-prefork option of the configure script
+not sure,"[PATCH] Upgrade to Java 1,5 - Added type-safe parameters to collections in Fonts"
+not sure,Updates to Apache XML Graphics Charter
+not sure,Document Creation Should Validate and Warn for Special Characters
+not sure,[PATCH] Add support for apr_hash_this_*
+not sure,Adding X509 subelements impotent for signing
+not sure,Depend task not in documentation
+not sure,Description of VSS label task missing
+not sure,TVT3.0: Missing link in CDT doc 'Debug Tutorial'
+not sure,Register: user created register groups disappear after debug session restart
+not sure,Fix bugs in Phoenix css files and add support for greyed-out left nav menu items
+not sure,"""Top Ten Voted Bugs"" should include RESOLVED/LATER"
+not sure,Add new features to the timeline page
+not sure,Exchanging entity objects contents when renaming a certain entity
+not sure,No Error on Missing View Model in Debug Mode
+not sure,FacesConfig Editor preferences page needs more info for screen readers
+not sure,[Dialogs] Dialog font should be used by jdt debug component
+not sure,"bugfix: CfgParser support for resolving environment variables, macros and include files"
+not sure,Adding a bug reports page to the Web site
+not sure,Create Wizard servlet
+not sure,"Download page needs to be updated to remove ""required ws"" section"
+not sure,README: Add readme item for Log Import problem on iSeries V4R5 (bugzilla 126792)
+not sure,Debug information should be in your build result.
+not sure,[Platform Project] Create Bugzilla component for statistical reports.
+not sure,Profile java application launch should use DebugPlugin.ATTR_CONSOLE_ENCODING
+not sure,Support line breakpoints in JS debug
+not sure,M8 Documentation updates on statistical console
+not sure,provide Find and Filter toolbar buttons in UML2SD view
+not sure,provide API for execution occurance to set the start and end time
+not sure,provide support to customize Graph Node and spacing size
+not sure,provide API for graph node stroke color
+not sure,provide API for graph node overlay icon
+not sure,Datapool Evaluator and Iterator extension points should be moved to test.datapool package. Extension point schemas also missing.
+not sure,Need a programmatic way to open the highlighting rectangle from the time compression bar to the interested lifeline
+not sure,Coverage Statistic: Update filter method
+not sure,(MON) Provide range filtering for GLA filter blade
+not sure,Prerequisite of feature / bug 74652
+not sure,Eclispse corner article
+not sure,[Deployment] File transfer service to support ability for command versions
+not sure,[Extensibility] Support for connection in test execution service for IAC and security
+not sure,TPTP Tester Guide::Performance chapter updates
+not sure,Provide a means to configure new AC so that it only launches pre-defined set of aliases
+not sure,"""Extending"" chapter not shipped in driver"
+not sure,Extend Filter action is missing in Log Interaction View
+not sure,Correlations are missing in UML2SD Log Interaction view.
+not sure,Migrate all Hyades examples to be NL-enabled.
+not sure,Overview is too small
+not sure,APIs to disable Show Caller/Called Message action
+not sure,Cannot re-edit a class that extends Composite
+not sure,Create Manifest file for GLA plugins
+not sure,New visual class templates should be in respective plugins
+not sure,Need Text Editor for Link Widget
+not sure,review: Add support for Insiders; Private comments; Private Attachments; Patch for July 12 tip
+not sure,review: Bugzilla should support translated/localized templates; Eighth version: Whitespace fixes; remove ($) prototyping
+not sure,review: Bugzilla Helper should be enter_bug.cgi template; Patch v.8
+not sure,review: buglist.cgi shouldn't find all bugs if loaded without parameters; Patch v.1
+not sure,review: if order is the first param to buglist.cgi; can't resort; Patch v.1
+not sure,review: Remove $onebug cruft.; Patch v.1
+not sure,review: Add support for Insiders; Private comments; Private Attachments; Revised patch with timeless's suggestions
+not sure,review: relogin.cgi should use a template; Patch v.2
+not sure,review: confirm_login in CGI.pl should use a template for the login dialog; Patch v.1
+not sure,review: add translation of system messages; Patch v.2
+not sure,review: quips.cgi should require a login to access.; Patch v.1
+not sure,review: Enhancements to generic reporting; Patch v.3
+not sure,review: Component/Product IDs mean you can't do change queries on component/product; v2
+not sure,review: you should be able to enter bug dependencies/blockers when you enter a bug.; Patch v.1
+not sure,review: Disallow novice users (without bugzilla account) from use of Advanced Entry form; Patch v.1
+not sure,review: Real name capability on bug_list.cgi.; Patch against HEAD
+not sure,"review: Default comments search box type to ""contains string""; Patch v.1"
+not sure,review: make request tracker use generic user matching code; patch v3: review fixes
+not sure,review: make request tracker use generic user matching code; patch v4: very minor updates
+not sure,review: Abstract out GenerateSQL into perl module; Patch v.1
+not sure,review: Add support for Insiders; Private comments; Private Attachments; Patch updated to current HEAD
+not sure,review: param to disable adding new quips; Add param to restrict entry of quips
+not sure,review: param to disable adding new quips; Revised patch keeps total number of params constant
+not sure,[IME]Chinese character composition not work with Korean input
+not sure,(feature) List properties needs to be implemented
+not sure,insert source dialog fixes
+not sure,Update site-policies documentation
+not sure,Add CS Styles for Ethiopian/Eritrean Languages
+not sure,Suggested additions to the menu of the test bed viewer
+not sure,Document->createTextNode() API dumps core
+not sure,Document->createFragment Java DOM API dumps core
+not sure,Document->createComment API call dumps core
+not sure,Document createProcessingInstruction method dumps core
+not sure,need managed tools/software infrastructure
+not sure,Request for SSH account to be able to upload files to ftp.mozilla.org
+not sure,QA Reminder: Test IMAP server prefs migration with UI
+not sure,QA reminder: retest migration addr prefs after UI fix
+not sure,To add a new compile switch to distinguish Windows and ATK code
+not sure,OS/2 - Create Desktop folder REXX script.
+not sure,nsMultiMixedConverter needs to add nsIStreamObserver to it's QI method
+not sure,Port nsFileChannel to use nsIFile
+not sure,negotiate webshell ownership model
+not sure,errors in your documentation;
+not sure,"Link to resource uses ,html extension"
+not sure,EARFileImpl.saveAsNoReopen does not include application.xml
+not sure,Need enablement of the j2ee extension for its own custom extensions in navigator
+not sure,Generate HTML test reports
+not sure,AC doesn't report observer/controller status to agents
+not sure,Agent Controller doesn't shutdown agents
+not sure,Accessibility: Cannot set focus to testcase invocation using keyboard only
+configuration-issue,fop's configuration file is distributed under Apache License
+configuration-issue,"Apache; mod_jk + APJ13 problems with RequestDispatcher,forward() BugRat Report#373"
+configuration-issue,"LineNumberTable toString method uses jdk 1,4 StringBuffer append(StringBuffer) method,"
+configuration-issue,"httpd-2,2,14 hangs in port_getn"
+configuration-issue,binding to an invalid ip address in Linux
+configuration-issue,"duplicate license,txt constrains ClassLoader"
+configuration-issue,"Deep link into Bugzilla broken on ROOT/index,jsp"
+configuration-issue,"Focus problems under jdk 1,4,1"
+configuration-issue,"HttpServletRequest,isAsyncStarted() returns false when a Runnable is started"
+configuration-issue,JSPs no longer compile in Java 8
+configuration-issue,Handling of font URL pointing to a JAR entry don't work
+configuration-issue,makeurl command does not allow relative paths
+configuration-issue,[PATCH] Refactored configuration; font detection and caching; url resolution
+configuration-issue,URL mapping case sensitive
+configuration-issue,"Undeploy of webapps with antiResourceLocking in META-INF\context,xml fails after Tomcat restart"
+configuration-issue,APR compile failure with Visual Studio 2013
+configuration-issue,"Building 1,3 fails with NCDFE: SerializerTrace"
+configuration-issue,missing classpath entry in ./build.bat and ./build.sh
+configuration-issue,Collections doesn't build with jdk1.2 javac
+configuration-issue,Starting and stopping the servlet engine in ant
+configuration-issue,Could not compile
+configuration-issue,session:get-attribute bug
+configuration-issue,lock files don't work in JDK 1.1
+configuration-issue,Error building Xerces.C
+configuration-issue,Problem to config Soap 2.3 + Tomcat 4.0.5 + xerces 1.4.4
+configuration-issue,x:datatable doesn't support Set
+configuration-issue,Document API incompatibility with HttpClient 2.0
+configuration-issue,"Build fails on AIX 4.3.3 (IBM RS/6000), VisualAge C++ Pro v5"
+configuration-issue,Bug Reporting System' link on Struts home page is broken..
+configuration-issue,"Accounts with ""."""
+configuration-issue,Headers install in wrong directory.
+configuration-issue,Bad links
+configuration-issue,Sending mail to local recipient and remote recipient fails to send to remote recipient
+configuration-issue,Error: 500
+configuration-issue,Bounced mail to unknown sender address or SMTP server hangs James
+configuration-issue,"Microsoft Update: KB920342; Apache 2,2,3 service doesn't start"
+configuration-issue,nph- CGIs and/or server-pushed methodes not working properly
+configuration-issue,"FOP 0,95 does not resolve server path names,"
+configuration-issue,Problem clustering tomcat when a failed server is restarting
+configuration-issue,"Sendfile broken in 2,2,2 on Solaris 10 when using Server parsed html includes"
+configuration-issue,"Unable to connect via DAV (server is 10,4,9; client is 10,4,9)"
+configuration-issue,iPlanet / SunONE web server tomcat connector connection re-use disabled
+configuration-issue,(OS 10048) error during installation
+configuration-issue,[PATCH] cforms libraries are not loaded
+configuration-issue,"[PATCH] Endorsed libraries are not considered properly,"
+configuration-issue,Execute does not properly change drive for Windows
+configuration-issue,"Tomcat (4,1,7 - 4,1,9)-LE-jdk14 ignores error page specified in web,xml"
+configuration-issue,"JDK 1,4,2_05 has new org,apache,xpath,compiler api,,, now private m_functions field"
+configuration-issue,"cope with OpenSSL 0,9,7g API changes"
+configuration-issue,Fix incompatible API changes to TransformSpi
+configuration-issue,Add a text-search in the SVG Browser
+configuration-issue,Add marker support
+configuration-issue,"JUnit task not compatible w/ JUnit 3,5"
+configuration-issue,"[PATCH] jdk1,3 compatibility fix for fop-0_94"
+configuration-issue,"Transform TRANSFORM_XPATH2FILTER subtract filter bug in 1,3 release"
+configuration-issue,NoClassDefFoundError IDebugViewAdapter
+configuration-issue,Bug resolving CollectionTypes in AbstractTypeResolver
+configuration-issue,[SysML 1.4][releng] promote bug
+configuration-issue,Debugger mapping - when an extra directory is added to the project - breakpoints are ignored
+configuration-issue,Run/Debug As -> PHP Script will not start if a configuration with xdebug was used before that
+configuration-issue,Incorrect default Launch URL when Run/Debug As PHP Web Page
+configuration-issue,get rid of all fragment.properties in UI fragments
+configuration-issue,DBCS: DBCS file and path name
+configuration-issue,Adding a bug reports page to the Web site
+configuration-issue,RTSC build profile should be set to 'whole_program_debug' in wizard page
+configuration-issue,Unnecessary dependency of rse.ui -> debug.ui
+configuration-issue,Facet actions sort does not termination for certain version change actions
+configuration-issue,New UI plugin dependency introduced in WTP 1.5 model plugin
+configuration-issue,[j2ee] EAR with J2EE modules in a directory fail to import properly
+configuration-issue,Make .JETEmitter project optional
+configuration-issue,Workarounds need fixing for capability with Eclipse 3.1
+configuration-issue,[perf]* BeaninfoClassAdapter should specify parser pool option
+configuration-issue,http://java.sun.com/xml/ns/j2ee/jsp_2_0.xsd does not have license associated
+configuration-issue,Investigate Dependency graph builder as resource change listener
+configuration-issue,EAR import does not place classes in correct location
+configuration-issue,[j2ee] 'EAR Libraries' does not include JAR files in directories
+configuration-issue,[hotbug] JEE5 Web model does not update on changes in web.xml
+configuration-issue,J2EEModuleVirtualComponent.getManifestReferences() performance
+configuration-issue,SDK doesn't include other source files
+configuration-issue,"Two SDK ""source plugins"" mistakenly jarred"
+configuration-issue,[arch] org.eclipse.wst.wsi mixes model and UI code
+configuration-issue,Turn off the Execution framework debug
+configuration-issue,NLS33:plugins referenced by org.eclipse.wst.rdb_userdoc.feature is missing
+configuration-issue,bugs in tptp_decodeBase64()
+configuration-issue,org.eclipse.hyades.test.* plugins missing in WSWB 3.0
+configuration-issue,EMF Java Example installed causes problem
+configuration-issue,coredump while parsing optHeap on ThreeTierQueues applet
+configuration-issue,coredump while parsing optHeap on ThreeTierQueues applet
+configuration-issue,Version mismatch in org.eclipse.hyades.models.hierarchy feature and plugin
+configuration-issue,Trace loaders don't work in the 4.0 environment
+configuration-issue,[Platform Specific] The automation framework has issues on non-Windows platforms
+configuration-issue,libpiAgent.so missing from z/OS Agent Controller zip due to build error
+configuration-issue,zOS: manual build of the piAgent/RAC fails - initial c89 compile exits with code 137
+configuration-issue,Agent Controller in 4.0.1 configuration incorrect due to plugin jar name change
+configuration-issue,Broken link in on-line navigation tree
+configuration-issue,Statistical Agents do not work through the IAC
+configuration-issue,Attachment viewing in Test Log Viewer doesn't work for .JPG files
+configuration-issue,Update legal doc for log4J
+configuration-issue,(New AC) Default setting for TPTP_AC_HOME in serviceconfg.xml is bad
+configuration-issue,[Webdoc] (README) Cannot use IAC in multiple instances of the Eclipse workbench
+configuration-issue,Remote Log Import with Filter does not work due to change in File Transfer behaviour
+configuration-issue,Restore the UML2SD log interactions view as in AC1.2
+configuration-issue,placeholder for the UML2SD view
+configuration-issue,VE hangs; times out; then throws NPE doing pause/reload
+configuration-issue,"(Plat) RAC plugin system has version number dependency in ""requires"""
+configuration-issue,Should remove some plugin dependencies from plugin.xml
+configuration-issue,(Provisional) Remote console feature not working if target OS is Linux.
+configuration-issue,Cannot add JFace support to project - NPE
+configuration-issue,VE errors on M6
+configuration-issue,Broken link to download Chart::Base module
+configuration-issue,review: usedependencies must die; Patch v.2
+configuration-issue,review: Problem with the regex in checksetup.pl to find dependancies.; v2
+configuration-issue,review: Importxml will fail if versioncache needs update; Fix - needed on 2.16 as well as 2.17
+configuration-issue,review: Importxml will fail if versioncache needs update; Fix - needed on 2.16 as well as 2.17
+configuration-issue,review: run checksetup.pl non-interactively (for use with cron jobs on test installs); Optionally non-interactive checksetup.pl
+configuration-issue,review: If multiple cookies exist; the least significant is assigned.; Fix for both 121419 and 165685
+configuration-issue,review: run checksetup.pl non-interactively (for use with cron jobs on test installs); v2
+configuration-issue,review: Linkify script to use GetBugLink on texts provided by user; Patch v.2
+configuration-issue,review: Templatise all calls to DisplayError; Patch v.1
+configuration-issue,review: Start using CGI.pm; v3
+configuration-issue,review: Fix site-navigation.html.tmpl to link to flags CGI and not attachments one; Patch v.1
+configuration-issue,review: Start using CGI.pm; v5.1
+configuration-issue,perl 5.6: config.cgi dies when it tries to use Bugzilla::DB
+configuration-issue,Trailing slash
+configuration-issue,[DOGFOOD] [PORKJOCKEY]URL Dispatching Part II
+configuration-issue,Remove #ifndef NECKO from tree
+configuration-issue,replace nsIIOService constructors with CreateInstance
+configuration-issue,url bar does not update
+configuration-issue,Initial installation of M10 on OpenVMS fails in LIBGTK
+configuration-issue,[DOGFOOD][IME] CJK input disabled in location field
+configuration-issue,figure out what resource: URLs should really be
+configuration-issue,[Outdated plug-in] Sherlock plug-in for Google is outdated
+configuration-issue,browser doesn't handle simple response of HTTP protocol
+configuration-issue,Inappropriate source into the plaintext copy.
+configuration-issue,Multi-paragraph blockquotes do not render correctly
+configuration-issue,[Plug-in for ActiveX] Switched parameter in XPconnect.cpp / xpc_GetCLSIDForType / keyMimeType.QueryValue
+configuration-issue,implement RDF resource pseudo-aggregation
+configuration-issue,remove STREAM_CONVERTER_HACK from file channel
+configuration-issue,use of #ifndef XP_MAC is not needed in wallet.cpp
+configuration-issue,triple static link of dbm code.
+configuration-issue,trace-malloc broken on fxdbug-win32-tbox (due to Vista SDK?)
+configuration-issue,"[Windows] After bug 551254, Firefox/SeaMonkey fails to build or run with error like ""?"
+configuration-issue,Cannot build old Windows SDKs since Bug 830347
+configuration-issue,Bug 906072 completely broke IME context management when password field gets focus
+configuration-issue,browser_pluginCrashCommentAndURL.js hangs ubuntu ec2 slaves in conjunction with browser_bug410900.js
+configuration-issue,[SeaMonkey] Windows bustage in nsUrlWidget after bug 581596 landing
+configuration-issue,Core dump on http://www.vecernji-list.hr/ page load
+configuration-issue,alfred chrome out of date--won't run on moz0.8.1
+configuration-issue,Web console is buggy in window mode
+configuration-issue,Today repository cause a black display on SGS2/Otoro due to regression from bug 778079
+configuration-issue,bugzilla searches timing out (loading bugs directly works fine)
+configuration-issue,Port |Bug 600435 - XULRunner universal for i386/x64_64 fails to unify nspr-config| to comm-central
+configuration-issue,Trunk builds broken by bug 556214: undeclared 'MonitorAutoEnter'
+configuration-issue,Port build system changes from Bug 585016 and Bug 924615 to comm-central
+configuration-issue,"Port |Bug 1044162 - make install locations for EXTRA_{PP_,}JS_MODULES better| to comm-central"
+configuration-issue,Fix build problems caused by Bug 847195 [error: nsIDOMNamedNodeMap.h: No such file or directory]
+configuration-issue,no response from email to ftp-stage@mozilla.org for releases
+configuration-issue,Old link to Bugzilla Helper
+configuration-issue,Alt-Start => Alt-Home (in Ga naar)
+configuration-issue,Navigator doesn't build
+configuration-issue,Mozilla does not compile on NetBSD/arm32
+configuration-issue,No not shared library support in Makefiles
+configuration-issue,libplds21.so: can't open file: errno=2
+configuration-issue,BUILD: messages about OSF in Linux build
+configuration-issue,[PP] NSPR building incorrectly on FreeBSD 3.0
+configuration-issue,PR_ImportFile; etc. should initialize NSPR implicitly.
+configuration-issue,Shared library suffix incorrectly assumed to be .so in several places
+configuration-issue,minor tweak to Makefile.in for editor/txmgr/src and editor/txtsvc/src
+configuration-issue,JA:PR2 Bargain America link incorrect in sidebar
+configuration-issue,DE:PR1 investorworld link not working
+configuration-issue,DE:Customize link for InvestorWorld should be disabled
+configuration-issue,[FIX]about: protocol directory needs clean up
+configuration-issue,Nightly 1.3 are debug builds (file size ~ 40MB) (missing MSVCRTD.DLL)
+configuration-issue,1.4 won't launch
+configuration-issue,Checkin for Bug 240552 broke clobber builds and builds w/ disable-cookie
+configuration-issue,SuiteRunner doesn't compile with --enable-debug
+configuration-issue,Recover from bug 552703 test outage after upgrading buildbotcustom
+configuration-issue,Port |Bug 827303 - Firefox core and crypto services components assume services/sync is built|
+configuration-issue,Fix OSX64 buildage from |Bug 780561 - (new-packager) Overhaul the packager|
+configuration-issue,nsFilePicker.cpp deallocates buffer incorrectly
+configuration-issue,DE:PR2 Location Search w/o Search entry
+configuration-issue,567920 byte leak on Linux
+configuration-issue,icomputer.be - has some text truncated
+configuration-issue,Testopia is not compatible with Bugzilla 4.5 due to a DB schema change
+configuration-issue,[Thunderbird] mozilla-central 'Linux comm-central build' do not compile after bug 511326 landing
+configuration-issue,OSX bustage from bug 895047
+configuration-issue,OSX build bustage on comm-central from bug 941409 (layout/xul/nsMenuFrame.cpp:682:64: error: no member named 'anonid' in 'nsGkAtoms')
+configuration-issue,Port bug 1101170 (Move Linux desktop sandboxing code into plugin-container) to fix bustage: Missing file(s): bin/libmozsandbox.so
+database-issue,"SQL task doesn't work with Informix IDS 9,2"
+database-issue,Search result of Bugzilla isn't correct
+database-issue,Selection section(selection radio/selection table) of ConnectionFilterPropertyPage needs to be disabled for database connection profile objects
+database-issue,need a similar allowQuotedDML() api on database
+database-issue,Failed to run the sql if the database is disconnect
+database-issue,a '-' in de database name crashes the connection
+database-issue,[app.class.php] Patch to add Marketplace Database Connections
+database-issue,An issue with Action in Symptom Database Editor
+database-issue,EDT Supports more database vendors
+database-issue,Encoding error while export Symptom Database that contains GB18030 chars
+database-issue,RT: Database Cursors are not closed when using Batch mode.
+database-issue,Symptom Database preference page should be under Profiling and logging.
+database-issue,An Issue with Localized Message in Symptom Database editor
+database-issue,Set Profile for Editor drop down Database Name selection does not work
+database-issue,Data Source Explorer view - properties on Database root has blank dialog
+database-issue,SQL database binding resources should not let user create duplicate name
+database-issue,Error message of create records from sql database does not clear.
+database-issue,Update of problems database fails
+database-issue,Test Connection doesn't give any feedback if the wrong database type is selected
+database-issue,review: Remembered query options need regrouping; Patch v.1
+database-issue,review: Remembered query options need regrouping; Patch v.2
+database-issue,review: Remembered query options need regrouping; Patch v.3
+database-issue,review: Move the quip list into the database; patch; atttempt 3
+database-issue,review: Remembered query options need regrouping; Patch v.3
+database-issue,review: Query - multiple-select product (and probably component) broken; Patch
+database-issue,review: Query for CC/longdesc/OR takes long time; Revised with readability improvements
+database-issue,rampant uninitialized value error in log with fix for bug 255512
+database-issue,Startup failure since Bug 589032 - Error: Error setting up timezone database: TypeError: Components.classes[mozilla.org/storage/statement-wrapper;1'] is undefined
+database-issue,[IME][IME-Commit][IME-HighLight]DB text input always appended regardless of cursor position
+database-issue,Is DBM needed if the DiskCache is not used?
+database-issue,Run SQL from bug 495740 on support-stage for testing
+database-issue,bugzilla searches take forever (or never complete)
+database-issue,db-authenticator wont reuse pool connections
+database-issue,DatabaseServlet reads from getResourceStream and writes to getRealPath
+database-issue,Database connection stops action servlet from loading
+functional-issue,Logging level now defaults to debug - crashed server
+functional-issue,[patch] Block.java loop terminator fails due to a bug
+functional-issue,case matching failure in <?xml ... ?> tag
+functional-issue,testXSLT linked with hard coded path to xerces library
+functional-issue,error messages don't show the error name
+functional-issue,Cannot find ActionMappings
+functional-issue,Parser do not throw exceptions
+functional-issue,Exception when running browser in binary distribution
+functional-issue,MultiboxTag.doAfterBody() always aborts page rendering
+functional-issue,getLength error
+functional-issue,NULL sysId causes exception when using a DOM_Document as XSLTInputSource
+functional-issue,javax.servlet.jsp.JspException: Cannot find message resources under key org.apache.struts.action.MESSAGE
+functional-issue,accessing localhost:8080/cocoon/ gives ComponentException
+functional-issue,Calendar replacing Date is wsdl transformation
+functional-issue,Upper case conversion of special characters causes javac error
+functional-issue,[email] Errors when sending MultiPartEmail with another email as an attachment
+functional-issue,Exception:: java.lang.Exception: FIXME
+functional-issue,ServletContextProviderImpl.java:36: cannot resolve symbol
+functional-issue,Exception handling in HttpClient requires redesign
+functional-issue,Xalan C crashes with this style sheet
+functional-issue,Bugs in TTFReader
+functional-issue,[PATCH] Bugfix for XMLReader: Support for other ImageReaders
+functional-issue,mod_rewrite Set-Cookie bug
+functional-issue,Unable to create document on repeating basis
+functional-issue,org.apache.fop.apps.CommandLineOptions#checkSettings() (0.18.1-DEV) throws NullPointerException
+functional-issue,ImageTag bug in altKey attribute
+functional-issue,org.apache.cocoon.ProcessingException: Exception in Handler:java.util.NoSuchElementException when starting Cocoon
+functional-issue,"Error: DTD file not found if XML file name contains character such as ""%"""
+functional-issue,"checking out a url ending in slash (""/"") makes lossy wc"
+functional-issue,no match with simple xml file
+functional-issue,null pointer exception in TransportMessage.read()
+functional-issue,Error masked by nested try-catch blocks
+functional-issue,LinkTag/RequestUtils.computeParameters - no longer supports non-String bean properties as parameters
+functional-issue,Assigning null value to variable appears to be a no-op
+functional-issue,calling MessageElement#getChildren with a Text-Only content returns an empty list
+functional-issue,Error when <import> refers to a schema inlined in another XML document
+functional-issue,"Exception is thrown when building a project that uses ""extend"" in project.xml"
+functional-issue,java.net.InetAddress.getAllByName(null) throws UnknownHostException instead of valid InetAddress
+functional-issue,Problems uploading image file using multipart form request
+functional-issue,unintuitive NullPointerException for wrong configuration entry
+functional-issue,ISAPI redirector crashes IIS with access violation
+functional-issue,NullPointerException - Parsing document
+functional-issue,"tomcat-connectors-1,2,23-src: source code fails to compile"
+functional-issue,CGI and POST-requests broken when DAV enabled
+functional-issue,MessageTag causes NullPointer Exception
+functional-issue,Crash on console startup in ap_recent_ctime
+functional-issue,balancer setup crashes apache during start
+functional-issue,Delete Language Version does not work
+functional-issue,timers control doesnt match with results
+functional-issue,-noclasspath crashes ant if no system classpath is set
+functional-issue,FATAL ERROR: no transformer class found
+functional-issue,Different behaviour with NodeSet and RootNode with InclusiveNamespaces
+functional-issue,"NullPointerExeption on table with border-separation=""[value]"""
+functional-issue,Signing throws an exception if custom resource resolver is registered
+functional-issue,"win32 Apache 2,0,48 build broken!!! missing ssl-std,conf"
+functional-issue,< and > are not quoted properly in HTML and XHTML output
+functional-issue,"java,lang,ClassCastException: org,apache,fop,layoutmgr,inline,WrapperLayoutManager"
+functional-issue,"Build fails due to publication-tests,xml build target"
+functional-issue,"version 1,6 JMeterThread calls getSampler with entry == null"
+functional-issue,"Fail to handle the external entity,,,"
+functional-issue,Fixes to ResponseAssertion to make it thread safe
+functional-issue,"Random (frequent) error - pages not loading in Netscape 4,x"
+functional-issue,table-omit-footer-at-break sometimes cause crash
+functional-issue,mod_proxy_fcgi crashes Apache on invalid headers
+functional-issue,Apache is crashing during graceful restart
+functional-issue,mod_rewrite logging crashes apache 64 bit builds on windows
+functional-issue,"loading mod_logio,so on win2k resulting apache crash"
+functional-issue,"FOP SVN TRUNK crashes at inline page manager and Knuth inline box,"
+functional-issue,fop crashes on break-after
+functional-issue,"PFMFile,load() crashes if a font has a name longer than 16 characters and also if parsing pfm files larger than 2048 bytes"
+functional-issue,"The parser does not raise an error when the facet ""minLength"" for the datatype ""language"" has a value other than nonNegativeInteger,"
+functional-issue,"Error in org\apache\fop\apps\Options,java"
+functional-issue,Gradient stops error handling
+functional-issue,i am getting Error preallocating sequence numbers while inserting row into oracle tablre using toplink
+functional-issue,"1,6 introduced errors with SVG saving"
+functional-issue,mod_proxy_fcgi+mod_deflate error with header-only output stream record
+functional-issue,"There is an error while writing the TLE's while writing the attribute qualifier in the afp output,"
+functional-issue,Font metrics-url and embed-url are aways absolute; fails without good error message
+functional-issue,mod_jk: JkLogLevel set to error; however apparently logging at info
+functional-issue,compilation error; missing axis jar on classpath
+functional-issue,"FOP 0,20,5 AWTRenderer: Sometimes rendering fails in the middle of a table with no error message"
+functional-issue,Error parsing parameters: mandatory parameter 'document-language' not found [docu:live:::expires]
+functional-issue,"Invalid Content-Length error for the binary file size greater than 2,1GB"
+functional-issue,"Error message ""document checked out"" not i18n-ized"
+functional-issue,error notification for wrong characters in uploaded filename and define space as wrong character
+functional-issue,[PATCH] Fop CLI Errors
+functional-issue,ClassCastException when fo:wrapper is used as a child of fo:block-container
+functional-issue,"Running xindice,war in Tomcat - error java,lang,NullPointerException"
+functional-issue,"[PATCH] JCR ConfigurationException on start-up,"
+functional-issue,"FOP 0,17 throws exception with basic-link in xsl-region-before/after"
+functional-issue,"StringIndexOutOfBoundsException During Simple Perl5Util,split"
+functional-issue,NullPointerException in AFPRendererConfigurator
+functional-issue,"GRAVE: Exception: java,lang,NullPointerException when unsing fop"
+functional-issue,NullpointerException in RTFHandler
+functional-issue,[PATCH] NullPointerException in RtfTableRow : tableBorderAttributes
+functional-issue,"Webresources class AbstractResourceSet throws exception upon callong ServletContext,getRealPath("""")"
+functional-issue,[PATCH] FOP with fop-pdf-images throws ImageException
+functional-issue,NullPointerException when min-height is specified for table-row
+functional-issue,X509CertificateResolver throws NullPointerException
+functional-issue,IndexOutOfBoundsException in TableCellLayoutManager
+functional-issue,ClassCastException: InlineLayoutManager cannot be cast to BlockLevelLayoutManager
+functional-issue,"NullPointerException in LineHeightPropertyMaker,java:57"
+functional-issue,"""Checkin"" menu item leads to exception"
+functional-issue,IndexOutOfBoundsException due to absent table-cells
+functional-issue,"Base64 Transform throws ""Stream is closed"" IOExceptions"
+functional-issue,"NullPointerException when redering ,fo file in TableLayoutManager,initialize"
+functional-issue,"break-before=""page"" causes IllegalArgumentException"
+functional-issue,[Patch] White-space fo character element throws NullPointerException
+functional-issue,"nullpointer exception in ListItemContentLayoutManager,addAreas"
+functional-issue,Canonicalizing an empty node-set throws an ArrayIndexOutOfBoundsException
+functional-issue,"java,lang,ClassCastException: org,apache,fop,layoutmgr,PaddingElement"
+functional-issue,Regression: soft hyphen character gives IllegalArgumentException
+functional-issue,Null Pointer Exception (when a table cloned due to a retrieve-marker operation)
+functional-issue,"[PATCH] IndexOutOfBoundsException at ListItemLayoutManager,java:495"
+functional-issue,"NullPointerException in -rtf only (not pdf; txt; png,,)"
+functional-issue,"NullpointerException on invalid attribute values for text-decoration,"
+functional-issue,"id already exists error when using span=""all"" attribute"
+functional-issue,File upload broken
+functional-issue,AddCharset default conf is wrong from latin5 to latin9
+functional-issue,"request,getSession(false) fails to return null,"
+functional-issue,PropPatchMethod() fails with duplicate names in different namespaces
+functional-issue,Build fails: XConfToolTask not found
+functional-issue,CYGWIN fails to load modules
+functional-issue,ant task fails in fop-trunk
+functional-issue,"parse,tcl: auto_path failes for pathes with spaces"
+functional-issue,mod_jk segfaults; if fail_on_status is used
+functional-issue,java compilation bugs
+functional-issue,Fix segmentation fault on stale cache when mod_disk_cache is used
+functional-issue,"Problem compiling with new TTFs because ttffont-file,xsl not found"
+functional-issue,caching is broken in trunk
+functional-issue,No content in the generated rtf file using FOP after revision 1036000
+functional-issue,mod_jk fails to pass correct path after mod_rewrite
+functional-issue,erroneous cell overlap code
+functional-issue,"KeyValue,getPublicKey does not work"
+functional-issue,Search page loses results when switching the language
+functional-issue,SOAP-call does not support Unicode data
+functional-issue,NDC column does not sort properly on double-click if some of the NDC values are null
+functional-issue,Undeclared identifier BINDPROCESS
+functional-issue,"Cannot compile on Japanese locale (ja_JP,EUC)"
+functional-issue,Copy Paste of Japanese charactres are not working in PDF document
+functional-issue,NPE when having an empty <fo:inline>-element with hyphenation turned on
+functional-issue,Can't compile with bundled apr/apr-util
+functional-issue,"NPE SignedInfo,getCanonicalizationMethodURI 1,4,Beta2"
+functional-issue,Broken build
+functional-issue,keep-with-next broken
+functional-issue,Corruption issues writing PPT
+functional-issue,Problem creating header and footer
+functional-issue,Workflow: Role condition applies to request roles; not to actual roles
+functional-issue,"XMLCipher-loadEncryptedKey() doesn't set the correct CarriedKeyName element,"
+functional-issue,Can't create internal links with Kupu
+functional-issue,RuntimeController not working correctly
+functional-issue,"""restore"" out of the trash and out of the archive does not work"
+functional-issue,Bug with last font character at PFMReader and TTFReader
+functional-issue,Under Cygwin; fop bash script CLASSPATH problem
+functional-issue,"RTF files don't work in TextEdit,app or Pages,app on the Mac"
+functional-issue,"While generating output as image/tiff it is only possible to use PackBits compression,"
+functional-issue,Percentages not working for provisional-distance-between-starts
+functional-issue,NPE in PropertyList
+functional-issue,"""import content"" heuristics fail when index page language is not english,"
+functional-issue,Schema constraint voilation not reported by the parser
+functional-issue,ORO dies while trying to match a String with wierd characters BugRat Report#831
+functional-issue,two text nodes with the value '\n' in succession within <ds:SignedInfo> and <ds:X509IssuerSerial>
+functional-issue,NPE with fo:title
+functional-issue,Java launch debug session aborts after 10 seconds
+functional-issue,org.eclipse.birt.report.debug.ui compiles error in daily build 20060321
+functional-issue,Structure Changed event is fired in the wrong drawing sequence.
+functional-issue,Debugger don't show Variables
+functional-issue,NullPointerException and failed to launch debug session for a project
+functional-issue,Parsing of function declarations in stdio.h is broken.
+functional-issue,Fix Parser Error Handling
+functional-issue,TVT3.0: In japanese locale; automated discovery of include paths doesn't seem to work
+functional-issue,jdt.debug.gerrit jobs failing
+functional-issue,Generate some of Roadmap from project information files.
+functional-issue,[Rhino Debug] Debugger fails when trying to evaluate function arguments
+functional-issue,EDAPT: Bug in ChangeAttributeType
+functional-issue,Bug between facets and customizations : BasicIndexOutOfBoundsException
+functional-issue,Persistency bug: processes store from href for selected Steps
+functional-issue,Step into resumes instead
+functional-issue,IllegalThreadStateException reconciling editor
+functional-issue,NPE in NewMethodCompletionProposal.apply
+functional-issue,Unable to create multiple source folders when not using bin for output
+functional-issue,[Builder] Build output folder not getting flushed because files are not marked as derived
+functional-issue,Replace bug key input delay environment property
+functional-issue,Bugzilla launch contains reference to /Users/mffiedler/.m2 in source lookup path
+functional-issue,Fix bugs in Xtend / Xpand middleend related to changes in MWE
+functional-issue,Bug in OperationCallExpOperations.checkArgumentsConform restriction
+functional-issue,J2EEModuleVirtualComponent.getManifestReferences() performance
+functional-issue,"There is the error displayed in the concole when running a file without ""Debug Info"" option."
+functional-issue,There is exception thrown if choosing directory for debug.
+functional-issue,NullPointerException in PHPDebugPlugin.getDebuggerId
+functional-issue,[Viewers] Error while debugging but no log
+functional-issue,NullPointerException in OpenWithMenu.fill()
+functional-issue,decorator creation not protected from failed plugin activation
+functional-issue,NPE in OleEditor
+functional-issue,Cycle Actions do not work in German
+functional-issue,[Dialogs] SelectionDialog should not return an initial selection of null
+functional-issue,NPE in TitleAreaDialog - Can't create a Java class.
+functional-issue,Workbench startup is throwing dialog rather than logging to .log
+functional-issue,[Preferences] NPE in font preference page on Apply
+functional-issue,[Preferences] Import Preferences: Crashes on eclipse
+functional-issue,[Dialogs] AssertionFailedException with M4 build while rebuilding my project
+functional-issue,DBCS:Copy/Paste DBCS failed between eclipse and gedit
+functional-issue,DBCS: shown up GnomeVFS-WARNING messages
+functional-issue,[Jobs] concurrent modification in progress view
+functional-issue,[Progress] NPE when deleting project
+functional-issue,NPE on startup (all the time!)
+functional-issue,NPE on startup (part 2)
+functional-issue,[Encoding] NullPointerException when changing file encoding
+functional-issue,Dangerous change to setSystem in MarkersViews
+functional-issue,[BUG: BinaryStorage Access] since rev300 BinaryStorage can not Access some files (see bug 269967)
+functional-issue,NullPointerException in DebugSourceInstallingCompilationParticipant.buildFinished (149)
+functional-issue,[emfworkbench] SetCommand created by ModelModifier causes NPE when unset feature
+functional-issue,[validation] Fix constructors for EnabledValidatorsOperation to remove asynch flag
+functional-issue,[emfworkbench] NPE in ResourceSetImpl.getResource() during AutoBuild
+functional-issue,Flexible Project: findResourcesBySourcePath with workspace relative path returns null
+functional-issue,validator extension schema files are not in the builds
+functional-issue,[hotbug] Exceptions when XDoclet version is changed
+functional-issue,XQDT SF BUG#2883207: two dashes in an element
+functional-issue,Module factory is failing to show the connector module
+functional-issue,WebResource.getPath() is incorrect for a JSP unless the web folder is set to WebContent
+functional-issue,[emfworkbench] ResourceSetWorkBenchEditSynchronizer releasing projecgt resource when it shouldn't
+functional-issue,[j2ee] Bad import generated for package class from referenced generator model
+functional-issue,Extending an abstract class fails
+functional-issue,JavaReflectionAdaptor tries to load classes on a flush
+functional-issue,Missing servlet class when import EAR
+functional-issue,IVirtualFile.exist() returns incorrect value
+functional-issue,Flexible Project: J2EE Web Module and builder creates incorrect structure and extra folders
+functional-issue,Fix both SynchHelpers for Linux combo events
+functional-issue,Fix EJBArtifactEdit.getEJBModuleRelative() to handle paths already relative
+functional-issue,EAR import does not hook up EJB module and EJB client module
+functional-issue,Opening xml from jar causes exception.
+functional-issue,Race condition getting model causes UI adapters not to be registered in StructuredTextEditor
+functional-issue,ModelManager#getNewModelForRead/Edit always throws ResourceAlreadyExists exception
+functional-issue,IStructuredModel#releaseFromEdit() throws AssertionFailed Exception
+functional-issue,"Typing enters text ""in place"" if exception occurs"
+functional-issue,Can't find .tld files by filename
+functional-issue,Error in .log when creating new Web project
+functional-issue,"Validate XML File; is always returning ""no constraints detected"" - patch supplied"
+functional-issue,Accidently included unintended 3PC code related to JS parser
+functional-issue,File protocol gets truncated in CMDocumentFactoryXSD.createCMDocument()
+functional-issue,Unable to Create Web Service in J2EE 1.4 Web Project
+functional-issue,NullPointerException when associating service project with EAR project.
+functional-issue,OverwriteFilesEnabled=true does not have any effect in ant tasks
+functional-issue,Nullpointer Exception from WSDLNewFileOptionsPage
+functional-issue,WSExplorer does not show any input field in the form view
+functional-issue,WSDL in Java Project causes NPE in Web service Client wizard
+functional-issue,Xtend debugging intermittently stops working
+functional-issue,[debugger] line mapping different for Xtend-as-primary-source vs. SMAP
+functional-issue,Bug in generated code when method throws an exception in constructor
+functional-issue,AC doesn't filter requests by interface
+functional-issue,AC doesn't send error responses
+functional-issue,TVT 3.1 - TCT 421 - Non-external string
+functional-issue,Bug in JSDLJobDescription#getJSDLString
+functional-issue,AgentController crashes when set to DEBUG log level
+functional-issue,z/OS RAC ASCII/EBCDIC translation problem
+functional-issue,IllegalArguementException in GoToSource action
+functional-issue,Profiling Launch: IProfilingType.launch doesn't always get called
+functional-issue,Deployment corrupts local jar files
+functional-issue,Child lost on snippet update
+functional-issue,Hyades M9 build breaks on 20040521 IES build
+functional-issue,Renaming project with VE open crashes Eclipse
+functional-issue,Perfmon agent remote registry connect fails
+functional-issue,Build break; PDE internal change
+functional-issue,LINUX OS/390 ??�� RAC dies if terminate the java app through workbench
+functional-issue,Non-English EMF CBE resources are corrupted.
+functional-issue,JJet compilation of templates cause extra CR.\LF.
+functional-issue,new visual bean wizard generates wrong code for OTHER
+functional-issue,Exception error occurs when selecting SWT style on new Visual Class dialog
+functional-issue,Snippet update of all components caused remote vm to crash; error message
+functional-issue,Deadlock between image refresh and instantiate
+functional-issue,getClassPath in TemplateUtil always failing on Linux and OS-X
+functional-issue,parameters/return value should be constructed only when there is data available
+functional-issue,Application template puts settings in wrong order
+functional-issue,Importing log files from AIX fails altogether; causing the RAC to shut-down.
+functional-issue,HTTP Recorder doesn't stop; no test can be generated
+functional-issue,Dynamic discovery not working properly
+functional-issue,Dynamic discovery not working properly
+functional-issue,Expose public access to existing method in internal package to enable access to Editor extensions
+functional-issue,Opening a class with a SWT Shell throws StringIndexOutOfBoundsException
+functional-issue,(Mon) When trying to import an HTTP access log file and error occurs
+functional-issue,Properties view does not work in Eclipse 3.1
+functional-issue,TableColumn data property issues
+functional-issue,Error in JavaBeans Window
+functional-issue,[perf] Load from model cache fails in second startup
+functional-issue,Default JLabel text Incorrect
+functional-issue,3.1 SWT GridLayout does not work correctly
+functional-issue,Project clean doesn't work correctly
+functional-issue,TVT 3.1 - TCT 526 - Translated strings not being pulled from NL fragment for japanese for preferences and help plugins
+functional-issue,TVT 3.1: TCT573 TPTP - incorrect Decimal separator
+functional-issue,"TVT 3.1: TCT 585 - ""Execution Verdict Decorator"" not translated"
+functional-issue,Untranslated in filters customization
+functional-issue,When starting a RAC in a command prompt window I get an error when starting it
+functional-issue,Remove references to Eclipse classes from standalone plugin
+functional-issue,Remote import log files got an error message
+functional-issue,Exception: org.eclipse.hyades.logging.events.cbe.ValidationException : IWAT0207
+functional-issue,New AC: Failure to launch application results in dup of ProcessController
+functional-issue,Clients aren't notified if their agents deregister ; to add client listener notification
+functional-issue,Validation failure with noValue EDE's
+functional-issue,Run HyadesLoggingLog4JSample sample got compile error
+functional-issue,[Functionality; Reliability] Exception thrown by Agent Controller on remote host when launching remote test suite.
+functional-issue,[Regression] NullPointerException when importing log file with filters from remote Linux IA32
+functional-issue,Parsing of shipped sample Apache error log with default UTF-8 file encoding fails
+functional-issue,Agent Manager ID is in agent ID range
+functional-issue,Named pipe gets in blocking state
+functional-issue,[Regression] Put file command in file system services fails on Linux
+functional-issue,[Regression] Automation services framework failures on Windows
+functional-issue,Rule for OtherSitutation gives error on GLA run
+functional-issue,[Platform Specific; Regression] Automation client adapter shell script incorrect
+functional-issue,Exceptions thrown when opening Database Explorer View related to loading images
+functional-issue,Configuration not picking up Profiling settings in certain cases
+functional-issue,globalInstanceId and localInstanceId are null for all import log records
+functional-issue,Perfmom Data Collection Agent launch configuration create 2 agents
+functional-issue,Extensibility does not work at the second level in the 'requires' chain
+functional-issue,"""Unknown"" method names appearing in the Method Statistics view"
+functional-issue,SimpleAttributeDecoder; need parse tree for non-new type args too
+functional-issue,ArrayIndexOutOfBoundsException when gathering data via Agent Controller
+functional-issue,New Class Creation Wizard Fails for JFrame
+functional-issue,RCP Launcher Fails
+functional-issue,IllegalStateException: Expression type sent in invalid order
+functional-issue,Eclipse crashes when checking out a large project from CVS
+functional-issue,Changing Certain SWT Table Properties Causes Exceptions
+functional-issue,(Plat) Configuration fails with JVM located in a directory name with double byte chars
+functional-issue,Exceptions when editing layoutproperties
+functional-issue,Link Message Box Errors
+functional-issue,SWT Dropping Components causes Incorrect Code
+functional-issue,Rename of ViewPart's parent argument not working
+functional-issue,Incorrect code generated for EditorPart and ViewPart instances
+functional-issue,(MON) Log import with filters of non-TPTP log file types is failing
+functional-issue,(Provisional) Parallel transfer of files causing exception in base agent
+functional-issue,Deleting a method/components may render the VE unusable
+functional-issue,Agent launch configuration bugs
+functional-issue,Choose Bean Dialog Exception
+functional-issue,(Provisional) Timing issues with the Agent Tech Preview Linux build
+functional-issue,Name Pipe TL not working properly on RH EL3
+functional-issue,Clients aren't notified if their agents deregister
+functional-issue,"TVT3.1: tct393 - ""TPTP Example IType Count Template"" is in"
+functional-issue,"buglist.cgi crashes for logged out users if the ""Reporter"" column is displayed"
+functional-issue,New STS header in Bugzilla::CGI causes malformed header error due to lack of Content-Type naming
+functional-issue,review: Footer on create attachment page looks wrong.; v1
+functional-issue,review: list/list.html.tmpl: Error in hash initialisation; v1: move '}' one line down and add a comma.
+functional-issue,review: search/knob.html.tmpl: script type missing; space missing; v1: simple three-liner patch
+functional-issue,review: xml.cgi - attachments is broken and insiders not enforced; Fix
+functional-issue,review: checksetup gives torrent of cryptic errors if my_webservergroup is not found; die with sensible message
+functional-issue,review: On failure in template->new; a template is used to display error; Replace DisplayError with die
+functional-issue,review: Document CheckCanChangeField so sites can modify it for local needs; Patch v.1
+functional-issue,review: clean up format ambiguities; Patch v.2
+functional-issue,review: colchange.cgi is not localisable; Patch v.1
+functional-issue,review: Fix page.cgi's method of finding templates; Patch v.1
+functional-issue,review: boolean chart addition doesn't keep query template format; Patch v.1
+functional-issue,review: Regression - buglist highlighting broken; Patch
+functional-issue,review: Remove hard-coded titles and things; Patch A v.2
+functional-issue,review: Remove hard-coded titles and things; Patch B v.1
+functional-issue,review: Remove old reporting (most doomed etc.); Patch v.2
+functional-issue,review: field names should be l10n in user-errors.html.tmpl called by Add Estimated; Actual; Remaining Time Fields; Patch v.1
+functional-issue,regetlastlist returns all bugs
+functional-issue,review: Templatise colchange.cgi; Patch v.1
+functional-issue,review: token.cgi: localize strings send to message.html.tmpl (Part one); v1: Patch token.cgi
+functional-issue,review: Templatise all calls to DisplayError; Patch D v.1
+functional-issue,chimera crash on 10.2.1 while calling SetThemeCursor [@ QDIsPortBuffered]
+functional-issue,Merge user.js program: Not correct out.js file is created.
+functional-issue,Creation of JSC component does not create an output .JSC file.
+functional-issue,Wrong error message is displayed on the DOS-box.
+functional-issue,nsCookieService::GetCookieString returns NS_OK in all cases
+functional-issue,[PP] Error in page loading
+functional-issue,Recent fixes to nsChromeRegistry.cpp cause HP builds to fail
+functional-issue,hr's don't float correctly.
+functional-issue,Can't build current CVS Tree (21.1.99) Getting internal compiler error
+functional-issue,warnings: hiding inherited virtual functions
+functional-issue,Scribble (widget test) won't compile on AIX
+functional-issue,Error in Makefile widget/src/xpwidgets
+functional-issue,Crash on nsPluginsDirWin.cpp
+functional-issue,GetNextSibling returns node with value of child; not sibling
+functional-issue,warnings / bugs in EditTable.cpp
+functional-issue,compiler warning
+functional-issue,ServiceImpl::UnregisterResource does not catch null uri
+functional-issue,Assert/abort on this URL
+functional-issue,Use of uninitialized class pointer
+functional-issue,resource protocol handler not up to current XPCOM registry file location standards
+functional-issue,RDF/XML datasource Refresh() sends bad notifications
+functional-issue,[dogfood] crash visiting various websites in the image / networking code
+functional-issue,crash on page (not reproducable)
+functional-issue,[talkback] random but high hit crash in cache code?
+functional-issue,reproducible crash; build id 200013114; NSGetModule() loop?
+functional-issue,Crashes every time; under Windows 98; with M14.
+functional-issue,startDownload string not localizable
+functional-issue,warning (bug!) when compiling nsUnicodeToGBK.cpp
+functional-issue,nsToolboxFrame::HandleEvent hides inherited methods
+functional-issue,Browser is crashing while loading big images( > 5MB)
+functional-issue,nsHTMLEditor::IsEmptyCell should be rewritten
+functional-issue,uneval(); Error.prototype.toSource() does not escape quotes correctly
+functional-issue,"-remote 'openURL(""xyz"")' while no browser window up causes an unchromed browser window to display"
+functional-issue,last all.js checkin has bad useragent.override
+functional-issue,Trunk M099 crashes [@ FrameManager::ReResolveStyleContext] [@ RuleProcessorData::RuleProcessorData][@ nsXULElement::GetID]
+functional-issue,view-source handles CDATA sections badly
+functional-issue,Combo boxes submit %0D%0A for no value/label/content
+functional-issue,[DOGFOOD] Enable network cache by default
+functional-issue,improperly parented modal dialog in nsWalletService
+functional-issue,warning in nsMenuBar.cpp
+functional-issue,Accessing cross frame properties from signed jar file fails
+functional-issue,mach-o bustage in nsNativeThemeMac.cpp
+functional-issue,EUC-KR decoder : a bug in 8byte seq. rep. of Hangul syllables
+functional-issue,"crash when I go to my 0.9.1 bug list, and then to my 0.9.2 bug list, Trunk & M091"
+functional-issue,rendering breaks (or crash) when going from tweakers.net to bugzilla - Trunk
+functional-issue,browser hangs on bugzilla and bonsai pages
+functional-issue,crash caused by GetImageData; buggy JSObject allocation
+functional-issue,Crash on startup from bug 580407
+functional-issue,Impossible to sanely debug JS::Value code because all the functions get inlined and can't be called by gdb
+functional-issue,Build failure with syntax error in nsDebug.h
+functional-issue,The ASCII text rendering is broken on Linux (regression of bug 356235)
+functional-issue,Invoking Node->getFirstChild method dumps core
+functional-issue,Invoking Node->getLastChild method dumps core
+functional-issue,Loading photocube applet twice crashes apprunner.
+functional-issue,AutoTranslate does not translate Japanese pages into English
+functional-issue,AutoTranslate-Source Language detects this page as German
+functional-issue,LiveConnect crashes when Java not present
+functional-issue,"LiveConnect crash in gc_root_marker with (char*)he->value = ""member_val->field_val"""
+functional-issue,crash on startup with IBM JRE
+functional-issue,Crash when clicking on links in Java applet
+functional-issue,psm hangs on solaris
+functional-issue,Bugfix for 215981 kills build process of MozillaFirebird.
+functional-issue,[SkipList] Add mozalloc_abort and NS_DebugBreak_P to irrelevantSignatureRegEx
+functional-issue,Build bustage from bug 384374 landing
+functional-issue,"crash opening bugtraq-digest mails via IMAP, no error message"
+functional-issue,unable to compile mozilla/mailnews/base/src/nsMsgMD5.cpp
+functional-issue,[PP]Select Message|Mark|As Read crashes my system
+functional-issue,mozilla Windows build of 12/13 crashes reading particular message
+functional-issue,Browser crashed when navigating between folders in a POP mail account for Netscape 6.0.
+functional-issue,Changing Headers View Causes Crash In NECKO.DLL
+functional-issue,Crash if reading email when profile is non-local and another instance of mozilla is running
+functional-issue,Cannot move mail from Subfolder of (IMAP-)INBOX to my Local Folders
+functional-issue,Crash on multipart messages [@ nsProperties::Set ]
+functional-issue,Password isn't remembered or sent properly during auto-mass retrieval.
+functional-issue,dead link to cryptographic code
+functional-issue,Source for 1.2.1 is not available from FTP
+functional-issue,missing dot in chinese win32 Talkback enabled Zipfile
+functional-issue,Invalid Return in JavaScript
+functional-issue,PL_GetNextOpt asserts if an option with an associated value is not immediately followed by its value.
+functional-issue,NSPR gives me a compile error on Linux.
+functional-issue,Warning fix: -DBSD on BSD platforms
+functional-issue,Mozilla fails to build correctly on any non-gcc/g++ HP-UX compiler
+functional-issue,incomplete .zip file
+functional-issue,"EXPORT - interface methods on ""services"" - appcores"
+functional-issue,[PP]Search Messages:open dropdowns don't collapse correctly
+functional-issue,__STDC__ in intl/uconv/src/Makefile.in
+functional-issue,Minor fixup to protypes.h for OpenVMS
+functional-issue,Warnings and error first time mozilla is run
+functional-issue,Mac build scripts can fail to pull NSPR
+functional-issue,compile-time error in nsWebShell.cpp on AIX-4.3.2
+functional-issue,Netcenter search pages are supposedly UTF-8 encoded; but are sending back bad data
+functional-issue,JA: The orange gif in center of side bar panel rakuten [ichiba] produces a page not found error when clicked on in the sidebar pannel its self.
+functional-issue,"""Ticket OnlineEvents"" search extended char. problem"
+functional-issue,"DE:PR1 investorworld spacing after ""Anmelden"" has to be fixed"
+functional-issue,DE:PR1 investorworld link problems
+functional-issue,"""Save As"" doesn't work on OpenVMS"
+functional-issue,Client generates corrupted UTF-8 for keyword search
+functional-issue,Profile Manager XML Parsing Error
+functional-issue,Crash accessing non existent jar files
+functional-issue,Mail/News startup Default Website defaced
+functional-issue,Bug 22056 checkin regressed Ts and Txul
+functional-issue,[OpenVMS] Process hangs after quit
+functional-issue,HP-UX 11.00 Builds no longer run.
+functional-issue,Where the hell is Kerz
+functional-issue,OS/2 gmake choking on REGCHROME lines
+functional-issue,OS/2 - Mozilla stays in Window List.
+functional-issue,Multiple reciepients are shown wrong
+functional-issue,"Tab control misdrawn with Windows's ""Rainy Day"" in classic"
+functional-issue,Unable to login at http://www.inbox.ru
+functional-issue,fic.com -- missing content due to malformed comment tags
+functional-issue,"[Refactoring] Rename *,getDocumentIdentityMap() to *,get(Document)Factory()"
+functional-issue,"faulty implementation of org,w3c,dom,css,CSSValue"
+functional-issue,log4j does not show Class Name; Method; or Line Number on AS400
+gui-issue,Username display broken on whimsy.a.o
+gui-issue,struts-html.xml doesnt support 'file' tag 'size' attribute
+gui-issue,text color not working after a page break
+gui-issue,aligning text to 'right'
+gui-issue,Text alignment in table cells
+gui-issue,right align with euro symbol
+gui-issue,"this special character is not rendered correctly in the pdf,"
+gui-issue,"Image loading in pdf,"
+gui-issue,Adobe Acrobat claims Fop output has bad page contents
+gui-issue,Problem with monospaced font
+gui-issue,Text alignment in table cells
+gui-issue,"Multi-byte characters in default error page aren't printed out correctly,"
+gui-issue,Problems font subset embedding
+gui-issue,"Table rows of a table in a page body with two columns are ommitted on last page,"
+gui-issue,Problems with UTF-8 hyphenation patterns
+gui-issue,Lists do not display correctly
+gui-issue,"Browsers can't display html documentation pages correctly (versions 2,0; 2,2; 2,4)"
+gui-issue,Error screen is not displayed when usecase failed
+gui-issue,Site overview not displayed if dublin core title is empty
+gui-issue,Error in Font-Documentation
+gui-issue,"Attempt to render xml with inline image causes java,lang,OutOfMemoryError"
+gui-issue,[PATCH] PostScript PDF-image causes error
+gui-issue,Cannot delete users using Administration Tool webapp (HTTP 500 error)
+gui-issue,the chinese font cannot view all
+gui-issue,NPE: Area is missing in site view
+gui-issue,"PFMReader throws Exception: No scheme found in URI: charlist,xml"
+gui-issue,Rendering fails with IndexOutOfBoundsException in LineLayoutManager
+gui-issue,IndexOutOfBoundsException when missing fo:table-cell column-number and number-rows-spanned used in the same fo:table
+gui-issue,Horizontal space needed for a text block is always too large
+gui-issue,text-decoration does not work
+gui-issue,border width in tables adds up
+gui-issue,fo:external-graphic rendered as block level object
+gui-issue,problem with rendering of external-graphic in Fop-18
+gui-issue,"[PATCH] PDFRenderer - text-decoration (e,g, underline) not being renderered with Type1 fonts"
+gui-issue,Incorrect hyperlinks area rendering in justified text blocks
+gui-issue,right border of cell spanning multiple columns is not rendered
+gui-issue,"When using AWTRenderer for printing of document incorrect imageable area is specified in java,awt,print,PageFormat"
+gui-issue,"Solid bottom border not rendered correctly since 0,94"
+gui-issue,[PATCH] CMYK colors converted to RGB when not provided <fo:declarations> tag
+gui-issue,Tables on multi-column pages sometimes come out wrong
+gui-issue,Alignment of page-number-citation inside a ToC
+gui-issue,Bug with fo:page-number-citation and CID fonts
+gui-issue,backgroud-color in fo:table-cell and fo:table-column produce no output
+gui-issue,"table-cell background colour doesn't work,"
+gui-issue,text color not working after a page break
+gui-issue,"Asset properties (size etc,) are stored in the download link"
+gui-issue,Wrong page break with 2 columned region and tables
+gui-issue,Wrong generation of merged elements if footer has thicker borders than normal
+gui-issue,[PATCH] To render GIF external images in RTF output via PNG
+gui-issue,"Setting the property ""width"" on cell does not take effect,"
+gui-issue,Extra space added after table under some circumstances
+gui-issue,Background-color attribute handling for fo:block in RTF rendering
+gui-issue,BXE menu images do not show
+gui-issue,"""Live Sites"" section on website: ""File not found"""
+gui-issue,Multolingual support in converting xml - pdf
+gui-issue,Border-right not visible if hyphenation is activated
+gui-issue,Percentages in proportional-column-width() not supported
+gui-issue,Wrong border resolution when header/footer omitted at break
+gui-issue,Saving a document in the default pub produces multiple html meta charset entries
+gui-issue,table header is missing when table is inside a list and splitted
+gui-issue,Filter doc example misleading for usage
+gui-issue,The collapsing border model on an fo:table is currently not supported by FOP
+gui-issue,Dynamically generated HTML pages compressed with mod_deflate are sometimes truncated
+gui-issue,fo:character generates invalid PDF
+gui-issue,ensure that launcher does not launch if selected project is closed
+gui-issue,remote editing of files
+gui-issue,Maintaining bugzilla data for technology.mat
+gui-issue,Committer nomination failing with a known good Bugzilla address
+gui-issue,Description of bug in Events area should stretch with area
+gui-issue,Source does not show up on debug
+gui-issue,"PHP Preferences - in servers page - add a ""make default"" in servers and executables (currently only in debug page)"
+gui-issue,[regression] PHP Debug perspective - Debug view - 'Use step filters' button is enabled
+gui-issue,Debug annotations not going away
+gui-issue,NPE attempting to Show View Menu for a view that does not have this menu
+gui-issue,DBCS: Add from Local History incorrect for DBCS project name
+gui-issue,need default hpux fonts to be defined
+gui-issue,DBCS: Pasted string can't be shown correctly in Search dialog
+gui-issue,DBCS: DBCS project name cannot retrieve from CVS repository
+gui-issue,DBCS: Perspective change caused core dump after adding DBCS project to the workspace
+gui-issue,[Dialogs] widget is disposed in open type dialog
+gui-issue,Coverage Statistics view deletes all the Java packages in the agent but default package
+gui-issue,Show lifeline name when scroll down the view
+gui-issue,(M8) Missing icon: link with viewer
+gui-issue,log graph node expend and collapse support in log interactions view
+gui-issue,show correlations of group log node base on user selection
+gui-issue,"When no profiling is selected; UI should set TRACE_MODE to ""none"""
+gui-issue,Widgets with no text don't show on Composite w/GridLayout
+gui-issue,Launched app w/Composite and Gridlayout doesn't show controls
+gui-issue,SWT ToolItem figure doesn't position correctly in graph viewer
+gui-issue,Profile to file doesn't create UTF-8 compliant files
+gui-issue,Problems setting BoxLayout with under a TabbedPane
+gui-issue,MoreSwingComponents not rendering properly
+gui-issue,Editor fails to open - throws NPEs
+gui-issue,Snippet update kicking in during top down updates
+gui-issue,Editing RCP Mail causes codegen to write syntax errors
+gui-issue,TVT 3.1 - TCT 545 - Probekit-detected Problem untranslated in Filters Customization
+gui-issue,"TVT 3.1 - About > Plugins contains plug-in names "" #%plugin.name"
+gui-issue,Unable to add Equivalence classes to the datapool
+gui-issue,Refresh' in Profiling Monitor view without saving lost active attach agent(s)
+gui-issue,Properties action object contribution for Log Node/Correlations
+gui-issue,ensureVisible(GraphNode) does not show selection
+gui-issue,TargetVM does not refresh
+gui-issue,Sometimes the Console contents are wiped when profiling
+gui-issue,New Visual Class wizard: extend Composite gens bad code and errors
+gui-issue,Deleting populated TabFolder causes editor to hang until remote vm times out
+gui-issue,SWT ToolItem problems with modeling and setting styles
+gui-issue,Pause/Reload doesnt display UI editparts correctly for CardLayout
+gui-issue,JVECDGEN01: Changing location annotations does not update GUI
+gui-issue,Accessibility: Method invocation details table not accessible using keyboard only
+gui-issue,Accessibility:Screen reader unable to read text in the manual test execution application
+gui-issue,Reload of a dirty editor causes the cache to be written even though file wasn't saved
+gui-issue,NPE with Customize Layout dialog and switching tabs in TabFolder
+gui-issue,SWT Launcher causes huge Composites
+gui-issue,Incorrect Ordering for Swing Components
+gui-issue,JVELAYT01: Change Location Property then Undo Hides control
+gui-issue,SWT renderer does not support horizontal bar and horizontal stack bar charts
+gui-issue,TVT3.1: tct 416-BIDI icon not flipped in the product-PDE
+gui-issue,Templatise post_bug.cgi
+gui-issue,Templatise process_bug.cgi
+gui-issue,Audit show_bug.html.tmpl for FILTER usage
+gui-issue,review: Add <label> to email prefs; v2: Update using account/prefs/email.html.tmpl
+gui-issue,review: search/knob.html.tmpl should use <label> for the radiobuttons; v2: Add <label> to the check/radiobuttons of search/knob.html.tmpl
+gui-issue,review: bug/create/create.html.tmpl should use <label>; Patch for the group permission checkboxes in bug/create/create.html.tmpl
+gui-issue,review: attachment/*.tmpl should use <label>; v1: Patch ./edit.html.tmpl and ./create.html.tmpl in ./attachment/*
+gui-issue,"review: Turn ""all selected"" into ""none selected"" for efficiency; Patch v.2"
+gui-issue,"review: Turn ""all selected"" into ""none selected"" for efficiency; Patch v.3"
+gui-issue,"review: Turn ""all selected"" into ""none selected"" for efficiency; Patch v.3"
+gui-issue,"review: Button ""Add another boolean chart"" appears twice after clicking ""And""; Patch v.1"
+gui-issue,Crash when changing the status of a bug which has dependencies
+gui-issue,"Setting a flag (from attachment details, or while uploading an attachment) results in ""Missing bug ID"""
+gui-issue,review: More <link> elements & templatization of navigation_links; Patch v.1
+gui-issue,[4.xP] GIF does not serve as link
+gui-issue,Related Links titles get displayed over scroll bar arrows
+gui-issue,Menu accesskey (shortcut key) info should be in DTD.
+gui-issue,Make normally empty inline elements (e.g. named anchor) visible in editor
+gui-issue,[REFLOW]Entire HTML content area repaints when mousing over a link
+gui-issue,horizontal rules don't center correctly over a floating table
+gui-issue,Italics are measured and rendered incorrectly
+gui-issue,[MF][BTN][FIX]buttons text isn't shown when using HTML strict and css height
+gui-issue,Javascript won't change image over frames
+gui-issue,Suggested Baltic fonts are only iso-8859-4
+gui-issue,Sun's Copy/Cut/Paste key don't work on HTML Editor
+gui-issue,Lack of semicolons on escape characters causes browser to crash
+gui-issue,Character coding can't be applied to the ALL frame of the homepage.
+gui-issue,setting image source via dom methods no longer working
+gui-issue,CJK titles/links on Sidebar Related Links displayed garbage
+gui-issue,"Auto translate feature ""View Original"" shows a blank page"
+gui-issue,"html form select is broken so cannot use Bugzilla for reporting, updating or querying bugs"
+gui-issue,Incorrect form submission on bug pages (wrong form submitted)
+gui-issue,Shadow layers on android broken by bug 594553
+gui-issue,Virtual keyboard taking full screen after bug 860318
+gui-issue,Bugzilla helper is broken
+gui-issue,words between < and > is not displayed (in bugmail)
+gui-issue,Entering a # in the smtp auth username textbox results in the smtp servers name dissapearing from the smtp server dropdown list (Mozilla Mail 1.3)
+gui-issue,<IFRAME> tag not supported correctly
+gui-issue,Mail & Nieuws | Account instellingen | Cancel->Annuleren
+gui-issue,Mac loses 4 pixels at top of browser window
+gui-issue,JA: A gray dotted outline appears around the edge of the pull-down menu and the submit buttons. .
+gui-issue,First pull-down menu form the top; when an idem is selected form this menu and you hit the go button the host is not resolved constantly.
+gui-issue,JA: Rakuten. The target page of the third link from bottom appears to have moved
+gui-issue,JA:PR2 there are two eBay links with same name
+gui-issue,DE:PR1 eBay item in pull-down list spelled wrong
+gui-issue,DE:PR1 eBay items in pull-down not alphabetized
+gui-issue,"DE:PR1 change ""Events"" to ""Highlights"" in eBay pull-down list"
+gui-issue,"DE:PR1 ""investorworld-Finanzcommunity"" search problem"
+gui-issue,DE: Investor World; Arrow image next to ??��Anmelden??? appears too high
+gui-issue,DE:PR1 investorworld logo doesn't fit into panel
+gui-issue,DE:PR1 some sidebar items don't fit the default panel size
+gui-issue,Some content doesn't fit vertically in panels
+gui-issue,FR/DE:PR1 ALaFolie's background image is duplicated in tab window
+gui-issue,DE:PR1 alafolie.de not appearing in sidebar customization
+gui-issue,DE:PR1 alafoli.de links take user to FR pages
+gui-issue,Clicking off of Browser Menu selection doesn't close Warpzilla menus
+gui-issue,priority color should be for all text columns
+gui-issue,"""Hyper Text Markup Language"" should be ""HyperText Markup Language"""
+gui-issue,Page location is not preserved when going back inside any tab after the 1st one
+gui-issue,Linked image files truncated to 16kB after editing image links in source view
+gui-issue,emails disappearing from mail folders
+gui-issue,Panels window is empty; cannot add new panels to Sidebar
+gui-issue,Default Sidebar Tabs open are not according to spec
+gui-issue,Default popup text and text background colours are difficult to read on Warpzilla.
+gui-issue,Incorrect build ID in Warpzilla titlebar
+gui-issue,"Cannot ""Grab"" separator bar in three-pane view to resize"
+gui-issue,bil.lu - Page doesn't display everything
+gui-issue,JavaScript drop-down menus don't work
+gui-issue,Missing header images on Tiny Software web site.
+gui-issue,text when typing in input box is not viewable because it is too small
+gui-issue,The homepage field in my stored info will not get remembered.
+gui-issue,Exception when using a badly formed layout
+gui-issue,"Greek Extended character throwing ArrayIndexOutOfBoundException,"
+gui-issue,Exception when editing new German document with Kupu
+gui-issue,"text-align=""end"" doesn't work properly"
+gui-issue,fo document output is placed in page margins
+gui-issue,[info area] sitetree not reloaded after cut & paste
+gui-issue,No UUIDs used for image links
+gui-issue,Cannot find font if font family name contains space
+gui-issue,Content after forced break in block-container is not rendered
+not sure,[PATCH] JAI image does not release all resources / LinkageError not caught
+not sure,"Release version 1,0"
+not sure,"Wrong title on the FOP 0,93 Release Notes page"
+not sure,Create all the bugzilla milestones and versions for Sirius up to 1.0.0
+not sure,Evaluate use of utility classes for components and push down API to models
+not sure,[Test Project] [Web] [Matrix] Update the TPTP Matrix and Bugzilla component owners.
+not sure,Project summary
+not sure,2.18 Release Tracking Bug
+not sure,"Release Announcement for Bugzilla 2.18, 2.16.8, and 2.19.2"
+not sure,Release Notes for Bugzilla 2.16.8
+not sure,"Release Bugzilla 2.20.2, 2.22, and 2.23.1"
+not sure,Update bugzilla-update.xml for Bugzilla 3.0 RC1
+not sure,Release of Bugzilla 3.0
+not sure,Release notes for Bugzilla 4.4.2
+not sure,"Release Bugzilla 4.5.6, 4.4.6, 4.2.11 and 4.0.15"
+not sure,"Release Bugzilla 5.0rc1, 4.4.7, 4.2.12, and 4.0.16"
+not sure,spec list of components required for each install/distribution package
+not sure,[PATCH] Upgrade to JUnit4
+network-issue,refactor HttpRequestExecutor and AsyncHttpProcessor
+network-issue,Redefine HttpClient vs HttpMultiClient interface for 2.0
+network-issue,Scripts using HTTP Redirects difficult to debug
+network-issue,IP adresses banned/blacklisted on apache.org
+network-issue,URL Encoding of jsessionid when browser supports cookies
+network-issue,AutoReadHttpURLConnection automatically follows redirects
+network-issue,SSL connection gives error 500: NullPointerExeption at at org.apache.struts.taglib.html.LinkTag.hyperlink(LinkTag.java:497)
+network-issue,Connection Pool does not handle stale (closed) connections
+network-issue,HTTP Status 403 - SecurityConstraintsImpl.checkConstraints(): Access for view not permitted
+network-issue,entities and connection handling incomplete
+network-issue,Incorrect bytes sent logged for aborted connection
+network-issue,"HTTPS BIO/NIO connector does not enable TLS 1,1 and TLS 1,2 by default"
+network-issue,HTTP APR connector does not supply certificate chain
+network-issue,"IIS Tomcat Connector URL Rewrite only works in ""debug"" mode"
+network-issue,Uninitialised jk_ws_service_t fields prevent AJP13 connection reuse and cause flushing
+network-issue,stopping a connector produces intermittent SocketException
+network-issue,Major bug on EclipseCon NA 2011 web page : Unable to connect to the database server at this time.
+network-issue,DSE connections should be registered in SQL Debugger framework
+network-issue,Window > Preferences > PHP > Debug will break if an invalid server config is entered and cannot be fixed
+network-issue,When connecting to a non-existing debugger or wrong version debugger - no message appears
+network-issue,Debugging with xDebug over SSH Tunnel doesn't work
+network-issue,Two ��Generic Server�� entries in Run/Debug dialog
+network-issue,"""Restart the server"" option in ""Run/Debug/Profile On Server"" dialog"
+network-issue,class path errors after ejb jar import with server target
+network-issue,SSL recording no longer works
+network-issue,[Regression; Linux] Socket reader class receives -1 and disconnects connection
+network-issue,[tml][protocol][bug] There is no support for proxies when connecting the protocol
+network-issue,the connection was refused message should ignore ip addressess == 0.0.0.0
+network-issue,HTTP needs to arbitrarily retrieve data
+network-issue,[Dogfood]Need to implement nsHTTPChannel::OpenInputStream
+network-issue,Unable to file/update bugs in bugzilla
+network-issue,we're sometimes submitting the wrong thing to bugzilla
+network-issue,Can't build a working optimized Windows from trunk since bug 715821 landed; resulting build crashes on startup and attempting to build installer crashes during build
+network-issue,Enable SSL on landfill.bugzilla.org (for QA testing)
+network-issue,BzAPI cannot connect to bugzilla.mozilla.org
+network-issue,fxdbug-linux-tbox wont restart
+network-issue,"""Internal Server Error"" messages when loading pages from bugzilla.mozilla.org"
+network-issue,"local (POP3) move filter ends up corrupting messages, even after fix of bug 736539"
+network-issue,"Thunderbird build is broken after Bug 807678 (error: no matching function for call to ��nsIDNSRecord::GetNextAddr(int, PRNetAddr*)��)"
+network-issue,mozilla not identified
+network-issue,Data URI Support for RTF ExternalGraphic Throws Null Pointer Exception
+network-issue,getRemoteAddr() returns IPv6 address on RedHat 9 when IPv6 is disabled
+network-issue,"buffer overrun in ssl_callback_SSLVerify_CRL( ) (ssl_engine_kernel,c)"
+network-issue,Landing of |Bug 654201 - avoid nsHttpConnection::IsAlive() running event loop for unused SSL connections| broke nsImapProtocol
+performance-issue,"""svn up"" fails if too much svndiff data received"
+performance-issue,Memory allocation problem in DOMString class
+performance-issue,memory leaks in DOM_Element::setAttribute
+performance-issue,Huge performance problem with the parser in XMLScanner::sendCharData()
+performance-issue,Huge memory leak resulting from the use of ThreadLocal
+performance-issue,OutOfMemoryError after generating several thousand pdfs
+performance-issue,"Infinite loop when matching regular expression (Jakarta-ORO v2,0,1)"
+performance-issue,read of unitialized memory
+performance-issue,Memory leak in JUnit task
+performance-issue,OutOfMemory or NullPointer exception with short xml/xsl-fo
+performance-issue,StackOverflow problem when using FOP in multi threaded environment
+performance-issue,FilePolicyManager infinite loop
+performance-issue,"Ant 1,8 exec task changes have slowed exec to a crawl"
+performance-issue,Attribute number-columns-spanned leads to the endless loop
+performance-issue,unreliable coordination between daemon and request thread for BusyTimeout processing
+performance-issue,XMLWhiteSpaceHandler leaks memory
+performance-issue,Performance problem in method TypeUtil.resolveInParents()
+performance-issue,[eclipseme] Include EclipseME 1.7.9 bug fix
+performance-issue,Error when debugging using xDebug
+performance-issue,[Decorators] UI freezes while checking out project
+performance-issue,"Bug in computation of Standard Disease Models, possible underflow for extreme parameters"
+performance-issue,JSP Editor: Memory leaking after a working a few hours with jsp files
+performance-issue,infinite loop when trying to initialize datapool with CSV containing embedded commas in fields
+performance-issue,New PC fails testing with PCTestAgent sending error to self
+performance-issue,Performance concerns in the application context system
+performance-issue,New AC passes bad environment to process being launched
+performance-issue,Object references are not collected
+performance-issue,(MON) GLA performance degradation reported by downstream product
+performance-issue,SWT container goes into infinite loop - NewClassCreationWizard Fails
+performance-issue,M9 Profiling options not applied
+performance-issue,review: Improve performance of duplicates.cgi; Patch v.2
+performance-issue,Multiple Threads Are Loaded
+performance-issue,Mozilla rapidly repeats requests multiple times
+performance-issue,Memory leak on www.bhun.net
+performance-issue,[Performance] Speed up loading of bookmarks.html
+performance-issue,Takes several reloads for web page to load fully
+performance-issue,Necko Performance Review
+performance-issue,"Reduce the size of debug browser-chrome logs, exceeding the maximum log size and thus closing trunk and aurora trees"
+performance-issue,B2G-Inbound closed due to ICS Emulator Debug Mochitests Leaks in most of the tests
+performance-issue,Loading a large script in the Rhino debugger results in an endless loop (100% CPU utilization)
+performance-issue,large number of process sections
+performance-issue,Building process while compiling in NsModule.cpp - related to bugfix for bug 182928 ?
+permission-issue,new IndexReader.terms(myterm) skips over first term
+permission-issue,xerces2b3: smoketest api tests add &#13; char to lineends
+permission-issue,Access violation in DOMServices::getNamespaceForPrefix (DOMServices.cpp:759)
+permission-issue,deprecated example code for form
+permission-issue,mod_rewrite; RewriteLock permissions failure
+permission-issue,[PATCH] (Almost) silent failure of grantPermission in RDBMS adapters
+permission-issue,[PATCH] Permission management uses wrong URI in RDBMS adapters
+permission-issue,"obsolete neutron usecase policy in the default pub,"
+permission-issue,Remove useless call
+permission-issue,"Doesn't compile with OpenSSL 0,9,8 (works with olders)"
+permission-issue,"Outdated documentation pages,"
+permission-issue,setTrackModification(boolean) not deprecated; but does not work
+permission-issue,Migrate Servlet operation to new data model provider framework
+permission-issue,[WSDL4J] org.wsdl4j plugin uses obsolete WSDL MIME binding schema
+permission-issue,New warning messages for deprecated code in 3.3RC1
+permission-issue,Deprecate Transfer.State in favor of transfer-specific listener
+permission-issue,Remove deprecated AbstractPDTTTest
+permission-issue,"[Discovery] Deprecate ""String IServiceID#getServiceType"" in favor of ""IServiceTypeID IServiceID#getServiceTypeID"""
+permission-issue,Remove deprecated Code for Scout 3.10/4.0
+permission-issue,"Deprecate the ""version"" attribute of the phpExe ext. point"
+permission-issue,Filtering of Deprecated and Wrapper ODA Data Source Types in DSE
+permission-issue,Delete deprecated org.eclipse.aether.util.repository.layout package
+permission-issue,Delete deprecated class DiagramsUtil
+permission-issue,[EGL] Deprecate store in favour of generate
+permission-issue,Delete deprecated org.eclipse.aether.spi.connector.Transfer.State enum
+permission-issue,Remove deprecated class DestructionEventHelperAdvice
+permission-issue,[Hibernate] CVS: Move hibernate example plugins from deprecated to other location in cvs
+permission-issue,Deprecate and cleanup ordered bundle list
+permission-issue,Implement FactsService for @Deprecated
+permission-issue,Remove all usage of deprecated SWTObservables
+permission-issue,Much of Probekit uses deprecated APIs
+permission-issue,Mark @ConfigPropertyValue as deprecated
+permission-issue,Use MouseEventHelper and deprecate AbstractModeEventHandler#eventOnSameCell()
+permission-issue,New version of UBMs not including any deprecated modules
+permission-issue,Pupulate deprecated flag to type members
+permission-issue,Enable additional permission for Jon Rubin's bugzilla account
+permission-issue,Bug 599428 broke Thunderbird and Sunbird builds
+permission-issue,Fix for bug 15345 breaks webclient and javadom
+permission-issue,Trunk mailnews mac builds broken by bug 489344 (port uriloader to x86_64 Mac OS X)
+security-issue,Java SecurityManager java.lang.RuntimePermission createSecurityManager required for cocoon 2
+security-issue,Admin resetting password when encryption is turned on
+security-issue,[FIX] Default security constraint can override registry-level portlet security
+security-issue,Signature checking vulnerability
+security-issue,JVM crashes with unexpected exception in native code
+security-issue,"org,apache,xml,security,keys,content,KeyValue,getPublicKey() returns null for DSA key"
+security-issue,"Xml canonization - UTF-8 encoding issue in Xml security 1,4,0"
+security-issue,"[Patch] Disable cocoon reload parameter for security reasons,"
+security-issue,Security access to server and database
+security-issue,"org,apache,xml,internal,security,utils,Base64 is not working in EBCDIC platform"
+security-issue,"""package.access"" security check too general for Jasper - precompiled JSPs get package-access violation"
+security-issue,SOAP Security
+security-issue,SECURITY: Apache serving 'private' files!
+security-issue,documentation suggests insecure file permissions
+security-issue,security tips should suggest subscribing to announcements list
+security-issue,Memory retention problem in XMLSecurity 1.1.0 java library
+security-issue,[Patch] Disable cocoon reload parameter for security reasons.
+security-issue,JK Status Worker Security User Case Problem in Windows
+security-issue,Xml canonization - UTF-8 encoding issue in Xml security 1.4.0
+security-issue,org.apache.xml.security.keys.content.KeyValue.getPublicKey() returns null for DSA key
+security-issue,XML Security 1.4.0 does not build with IBM's JDK
+security-issue,Security access to server and database
+security-issue,"""package.access"" security check too general for Jasper - precompiled JSPs get package-access violation"
+security-issue,SOAP Security
+security-issue,SECURITY: Apache serving 'private' files!
+security-issue,documentation suggests insecure file permissions
+security-issue,security tips should suggest subscribing to announcements list
+security-issue,Memory retention problem in XMLSecurity 1.1.0 java library
+security-issue,[Patch] Disable cocoon reload parameter for security reasons.
+security-issue,JK Status Worker Security User Case Problem in Windows
+security-issue,Xml canonization - UTF-8 encoding issue in Xml security 1.4.0
+security-issue,org.apache.xml.security.keys.content.KeyValue.getPublicKey() returns null for DSA key
+security-issue,XML Security 1.4.0 does not build with IBM's JDK
+security-issue,Security access to server and database
+security-issue,Store author of comment as user id
+security-issue,Unable to login on a fresh Bugzilla install using the login form on the home page
+security-issue,"Security Advisory for Bugzilla 3.0.4, 3.1.4, 2.22.4, and 2.20.6"
+security-issue,Security Advisory for Bugzilla 3.2.4 and 3.4rc1
+security-issue,"Security advisory for Bugzilla 4.3.2, 4.2.2, 4.0.7 and 3.6.10"
+security-issue,automated security audit of the code
+security-issue,Bug 754202 regressed IsCapabilityEnabled
+security-issue,file protections are wrong
+security-issue,[Functionality] Port file transfer service changes (bugzilla 75002) to secure file server
+security-issue,[Security] Test execution does not work with secure RAC
+test-issue,"Test crashes when run multithreaded, but not when run serially"
+test-issue,tearDown() not called when test method fails
+test-issue,Test results requested before they are available
+test-issue,Error by appending a text node to a child
+test-issue,JUnitReport does not work
+test-issue,"Broken link to ""Running a test script"""
+test-issue,JUnitTestRunner masks exceptions
+test-issue,"ClassCastException Testing Database in 1,6"
+test-issue,"XMLCipherTester,testSameDocumentCipherReference test fails (regression)"
+test-issue,[PATCH] font-size testcases
+test-issue,[PATCH] Cleanup and tests to TTFFile (subsetting Glyf)
+test-issue,[PATCH] word-spacing testcases
+test-issue,Tests don't run on Solaris (id command has different output format)
+test-issue,[PATCH] Test cases for font-family; font-style and font-weight
+test-issue,Test datas
+test-issue,NullPointerException in junit task
+test-issue,Setting accessibility in Java
+test-issue,Presentation Files
+test-issue,TVT34:TCT611: TRK-No data in the JPA details window
+test-issue,[Unit Test Failure] org.eclipse.emf.facet.widgets.table.tests.internal.v0_2.swtbot.Bug344563Test.testBug344563
+test-issue,[Unit Test Failure] org.eclipse.emf.facet.infra.query.tests.internal.UnitTests.bug307095/bug307095v2/bug307095v3/emfmqQueryTest/osgiReload/resourceSet/simpleEval/test001
+test-issue,[Unit Test Faillure] org.eclipse.emf.facet.infra.query.tests.internal.UnitTests.bug307187
+test-issue,Investigate possible test suite bug when ServiceProviderCatalog contains ref to serviceProvider resource
+test-issue,"FacetTests.bug308947(): error during: ""Catalog Notifications"""
+test-issue,[Unit Test Failure] org.eclipse.gmt.modisco.infra.browser.custom.tests.BrowserCustomTest.testBug299277
+test-issue,Failing JUnit tests [wst.common]
+test-issue,[web services] webservice.NewProjectListener initialization takes 35% cpu time of CommonNavigator.createPartControl()
+test-issue,problem validating xml when there's relative schemas and only the 'top' schema is reg'd in catalog
+test-issue,[Testing] Refactor the TPTP test suite to contain the name of the bugzilla component
+test-issue,NPE raised while performing Test.UI.TestNavigator_bugzilla_242645
+test-issue,Launching consecutive tests on Linux causes hangs with no indication of problems
+test-issue,Executing a test suite that invokes another test suite in a loop generates erroneous verdict events.
+test-issue,hyades.test feature refs hyades.test.common at 3.0.1 level; but plugin at 3.0.2 level
+test-issue,[Usability] Tests don't run when firewall blocks workbench's incoming connections
+test-issue,"TVT 3.1 - TCT 426 - ""Test"" is translated in JUnit generated code and should not be"
+test-issue,"TVT 3.1: TCT 393 - NPE when creating new ""TPTP Example IType Count Template"""
+test-issue,"TVT 3.1 - TCT 561 ""Probe"" content type not externalized"
+test-issue,TestExecutionHarness cleanup enters an infinite wait and prevents from executing further tests
+test-issue,[Regression] Test harness hangs on launch after previously cancelling a harness
+test-issue,[Testing] Deliver automated tests for test execution service
+test-issue,[Functionality] Integration and testing of shell adapter scripts for test execution service
+test-issue,[Regression; IAC] Not all execution history events when running tests using IAC
+test-issue,"""Review documentation"" test case fails (bad links)"
+test-issue,"""Refresh test methods from code"" button in the JUnit test editor throws an exception."
+test-issue,Historical reference to test suite not deleted
+test-issue,[Platform Specific; Regression] Test execution broken on z/OS
+test-issue,Improve GLA testsuites
+test-issue,[Reliability] Canceling a test execution doesn't work properly
+test-issue,[Regression] Test from recording dynamic deployment broken
+test-issue,[JVM Specific; Platform Specific; Regression] Test execution hangs on Linux with Sun JDK 1.4.2
+test-issue,[Webdoc] (README) (IAC; Platform specific) Test execution and test recorder hangs on Linux
+test-issue,Dialog; JDialog; Frame; and Window do not come up
+test-issue,JUnit test hangs when run it via the Run->Test context menu selection in the Test Navigator view
+test-issue,(Plat) Unable to run a JUnit test as test from launch configuration
+test-issue,[Reliability] Test run terminates prematurely before all execution events are loaded in the model
+test-issue,(Test) Downstream products should have control over time-out delays
+test-issue,(Provisional) Add regression tests for tech preview agent controller to TPTP regression test suite: to enable recording of test results and report generation.
+test-issue,TVT 3.1: TCT 409 - Test Navigator view local dropdown menu 'ToggleLinkingAction.text' label missing
+test-issue,TEST
+test-issue,TEST
+test-issue,testing; ignore
+test-issue,test bug
+test-issue,test; please ignore
+test-issue,test; please ignore
+test-issue,layout/generic/test/test_bug496275.html makes mochitest-plain time out when the HTML5 parser is enabled
+test-issue,"[Debug MacOSX SeaMonkey] leak test: ""ASSERTION: Want to fire mutation events, but it's not safe"" since bug 429175landing. (""all"" other test suites too)"
+test-issue,"Fix ""#ifdef MOZ_WINSDK_TARGETVER >= MOZ_NTDDI_LONGHORN"" from bug 441197"
+test-issue,"mochitest-3 is nearly perma-orange on m-c nightly builds (""test_bug445544.html | Part 1 successfully loaded from the application cache"" and more)"
+test-issue,layout/generic/test/test_bug496275.html makes mochitest-plain time out when the HTML5 parser is enabled
+test-issue,bug1103273-1.js and bug1103273-2.js are going to permafail when Gecko 36 merges to Aurora tomorrow
+test-issue,"test for bug 419731 failing on qm-win2k3-pgo01 (VM, PGO)"
+test-issue,Fix holly after bug 805374 broke tests
+test-issue,Gaia unit tests are perma-failing on b2g30_v1_4 since bug 874510 was merged into production
+test-issue,"""mach reftest --debugger"" is broken"
+test-issue,JavaScript Debug assertions in gloda mime tests
+test-issue,nsMsgDBFolder.cpp:180: error: cannot convert ��const char*�� to ��nsStringBuffer*�� in initialization (port bug 534136)
+test-issue,"Test failure: mailnews/news/test/unit/test_bug540288.js | [Exception... ""Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheSession.openCacheEntry]"" nsresult: ""0x80040111 (NS_ERROR_NOT_AVAILABLE)"""
+test-issue,Test bug
+test-issue,Unhide gaia-ui-test once bug 911552 is successfully merged and date-based test failures are no longer occurring

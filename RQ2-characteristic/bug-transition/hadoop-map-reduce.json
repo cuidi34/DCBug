@@ -1,0 +1,8373 @@
+{
+    "MAPREDUCE-2290": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "MAPREDUCE-825": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 22h 19m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 14h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "363d 11h 46m"
+        ]
+    ], 
+    "MAPREDUCE-826": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 2h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "34d 22h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 15h 35m"
+        ]
+    ], 
+    "MAPREDUCE-2294": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 2m"
+        ]
+    ], 
+    "MAPREDUCE-2448": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 1m"
+        ]
+    ], 
+    "MAPREDUCE-2296": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 12m"
+        ]
+    ], 
+    "MAPREDUCE-2445": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "228d 4h 29m"
+        ]
+    ], 
+    "MAPREDUCE-2172": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "360d 18h 22m"
+        ]
+    ], 
+    "MAPREDUCE-433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 11h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 21h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "208d 5h 29m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 21h 33m"
+        ]
+    ], 
+    "MAPREDUCE-430": [
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 28m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "27d 18h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 1h 36m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "36d 13h 49m"
+        ]
+    ], 
+    "MAPREDUCE-1728": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 3h 47m"
+        ]
+    ], 
+    "MAPREDUCE-383": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 16h 27m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 22h 17m"
+        ]
+    ], 
+    "MAPREDUCE-1725": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 4h 49m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 2h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39d 18h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 23h"
+        ]
+    ], 
+    "MAPREDUCE-1727": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 13h 58m"
+        ]
+    ], 
+    "HDFS-1181": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 6h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 18h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 21h 3m"
+        ]
+    ], 
+    "HADOOP-6103": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47d 23h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "368d 13h 38m"
+        ]
+    ], 
+    "MAPREDUCE-144": [
+        [
+            "Patch Available", 
+            "Open", 
+            "100d 21h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "66d 4h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "350d 6h 17m"
+        ]
+    ], 
+    "MAPREDUCE-1314": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 21h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33d 22h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 16h 51m"
+        ]
+    ], 
+    "MAPREDUCE-1316": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 1h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "217d 5h 46m"
+        ]
+    ], 
+    "MAPREDUCE-1310": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 3h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 19h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 30m"
+        ]
+    ], 
+    "MAPREDUCE-1313": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 18h 37m"
+        ]
+    ], 
+    "MAPREDUCE-1293": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 5h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 20h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "235d 20h 39m"
+        ]
+    ], 
+    "MAPREDUCE-2200": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "382d 5h 47m"
+        ]
+    ], 
+    "MAPREDUCE-1863": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 20h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "530d 23h 32m"
+        ]
+    ], 
+    "MAPREDUCE-1866": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43d 21h 14m"
+        ]
+    ], 
+    "MAPREDUCE-1867": [
+        [
+            "Patch Available", 
+            "Open", 
+            "35d 21h 9m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "97d 9h 10m"
+        ]
+    ], 
+    "MAPREDUCE-1864": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 1h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 2h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "527d 23h 58m"
+        ]
+    ], 
+    "MAPREDUCE-1865": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 21h 34m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 2h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "513d 23h 43m"
+        ]
+    ], 
+    "MAPREDUCE-1942": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 59m"
+        ]
+    ], 
+    "HADOOP-1126": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 47m"
+        ]
+    ], 
+    "MAPREDUCE-911": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 22m"
+        ]
+    ], 
+    "MAPREDUCE-912": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 20h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "339d 21h 2m"
+        ]
+    ], 
+    "MAPREDUCE-913": [
+        [
+            "Patch Available", 
+            "Open", 
+            "77d 4h 10m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "201d 18h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "83d 10h 3m"
+        ]
+    ], 
+    "MAPREDUCE-915": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 3h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "79d 9h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "279d 23h 47m"
+        ]
+    ], 
+    "MAPREDUCE-1543": [
+        [
+            "Open", 
+            "Patch Available", 
+            "70d 19h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 4h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "554d 1h 42m"
+        ]
+    ], 
+    "MAPREDUCE-1260": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "264d 18h 38m"
+        ]
+    ], 
+    "MAPREDUCE-648": [
+        [
+            "Open", 
+            "Patch Available", 
+            "91d 9h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "343d 10m"
+        ]
+    ], 
+    "MAPREDUCE-722": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "413d 4h 11m"
+        ]
+    ], 
+    "MAPREDUCE-834": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 21h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1267": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 10h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "258d 11h 57m"
+        ]
+    ], 
+    "MAPREDUCE-645": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 3h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "201d 23h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 15h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "340d 14h 19m"
+        ]
+    ], 
+    "MAPREDUCE-646": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 22h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "421d 2h 52m"
+        ]
+    ], 
+    "MAPREDUCE-1612": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 21h 14m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "34d 16h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 16h 26m"
+        ]
+    ], 
+    "MAPREDUCE-642": [
+        [
+            "Patch Available", 
+            "In Progress", 
+            "7d 6h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "26d 6h 31m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 9h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 13h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "419d 7h 28m"
+        ]
+    ], 
+    "MAPREDUCE-2084": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "110d 13h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "335d 14m"
+        ]
+    ], 
+    "MAPREDUCE-2067": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 22h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "438d 6h 2m"
+        ]
+    ], 
+    "MAPREDUCE-1041": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 17h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 12h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "309d 21h 15m"
+        ]
+    ], 
+    "MAPREDUCE-964": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 43m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 12h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "333d 2h 24m"
+        ]
+    ], 
+    "MAPREDUCE-1165": [
+        [
+            "Patch Available", 
+            "Open", 
+            "46d 14h 13m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "42d 19h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 21h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "244d 15h 44m"
+        ]
+    ], 
+    "MAPREDUCE-1163": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 19h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 11h 56m"
+        ]
+    ], 
+    "MAPREDUCE-1161": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 17h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "263d 11h 21m"
+        ]
+    ], 
+    "MAPREDUCE-962": [
+        [
+            "Patch Available", 
+            "Open", 
+            "27d 18h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "32d 23h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "292d 15h 2m"
+        ]
+    ], 
+    "MAPREDUCE-968": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 5h 17m"
+        ]
+    ], 
+    "MAPREDUCE-733": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "411d 3h 54m"
+        ]
+    ], 
+    "MAPREDUCE-734": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "411d 8h 41m"
+        ]
+    ], 
+    "MAPREDUCE-869": [
+        [
+            "Open", 
+            "Patch Available", 
+            "635d 12h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "214d 5h 45m"
+        ]
+    ], 
+    "MAPREDUCE-867": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 11h 47m"
+        ]
+    ], 
+    "MAPREDUCE-1686": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 12h 32m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "106d 11h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 36m"
+        ]
+    ], 
+    "MAPREDUCE-2012": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 15h 46m"
+        ]
+    ], 
+    "MAPREDUCE-1683": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10d 8h 50m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "33d 16h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 10h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "566d 11h 33m"
+        ]
+    ], 
+    "MAPREDUCE-1448": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 2h 49m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 14h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 19h 36m"
+        ]
+    ], 
+    "MAPREDUCE-1765": [
+        [
+            "Open", 
+            "Patch Available", 
+            "459d 11h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 15h 37m"
+        ]
+    ], 
+    "HADOOP-6991": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 14h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 3h 31m"
+        ]
+    ], 
+    "MAPREDUCE-1443": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 6m"
+        ]
+    ], 
+    "MAPREDUCE-1444": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 2h 2m"
+        ]
+    ], 
+    "MAPREDUCE-637": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 7h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "419d 19h 36m"
+        ]
+    ], 
+    "MAPREDUCE-2497": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 3h 23m"
+        ]
+    ], 
+    "MAPREDUCE-1885": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 15h 11m"
+        ]
+    ], 
+    "MAPREDUCE-2539": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 14h 3m"
+        ]
+    ], 
+    "MAPREDUCE-818": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 23h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 2h 4m"
+        ]
+    ], 
+    "MAPREDUCE-2531": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 18h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "123d 9h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 17h 7m"
+        ]
+    ], 
+    "MAPREDUCE-1618": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "32d 23h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 17h 8m"
+        ]
+    ], 
+    "MAPREDUCE-2031": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 18h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "462d 2h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1615": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 15h 11m"
+        ]
+    ], 
+    "MAPREDUCE-1900": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 21h 50m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 3h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "494d 11h 42m"
+        ]
+    ], 
+    "MAPREDUCE-1617": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 3h 57m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "48d 19h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 5h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "569d 20h 33m"
+        ]
+    ], 
+    "MAPREDUCE-2086": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 3h 10m"
+        ]
+    ], 
+    "MAPREDUCE-1611": [
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 18h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "111d 16h 21m"
+        ]
+    ], 
+    "MAPREDUCE-1610": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52d 2h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 5h 47m"
+        ]
+    ], 
+    "MAPREDUCE-2082": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 19h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "436d 7h 48m"
+        ]
+    ], 
+    "MAPREDUCE-1888": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 43m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 8h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1d 9h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "525d 1h 7m"
+        ]
+    ], 
+    "MAPREDUCE-1225": [
+        [
+            "Patch Available", 
+            "Open", 
+            "58d 4h 33m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "150d 1h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "542d 19h 35m"
+        ]
+    ], 
+    "MAPREDUCE-1222": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 15h 8m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 1h 28m"
+        ]
+    ], 
+    "MAPREDUCE-1348": [
+        [
+            "Open", 
+            "Patch Available", 
+            "81d 17h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "154d 18h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1880": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 17h 48m"
+        ]
+    ], 
+    "MAPREDUCE-1342": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 3h 9m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 4h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "217d 10h 58m"
+        ]
+    ], 
+    "MAPREDUCE-1887": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 2h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "535d 5h 11m"
+        ]
+    ], 
+    "MAPREDUCE-2336": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 20h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "279d 8h 30m"
+        ]
+    ], 
+    "MAPREDUCE-2238": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 7h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "321d 5h 8m"
+        ]
+    ], 
+    "MAPREDUCE-2232": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 12m"
+        ]
+    ], 
+    "MAPREDUCE-1834": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 13h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "57d 3h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "495d 11h 55m"
+        ]
+    ], 
+    "MAPREDUCE-1836": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "556d 5h 38m"
+        ]
+    ], 
+    "MAPREDUCE-1128": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15h 17m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 13h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 12h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "292d 15h 17m"
+        ]
+    ], 
+    "MAPREDUCE-1085": [
+        [
+            "Open", 
+            "Patch Available", 
+            "462d 2h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 15h 21m"
+        ]
+    ], 
+    "MAPREDUCE-1086": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 46m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 3h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "308d 13h 54m"
+        ]
+    ], 
+    "MAPREDUCE-1089": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 4h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 20h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "299d 19h 46m"
+        ]
+    ], 
+    "MAPREDUCE-923": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 3h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 28m"
+        ]
+    ], 
+    "MAPREDUCE-924": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 2h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1124": [
+        [
+            "Patch Available", 
+            "Open", 
+            "46d 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 19h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 1h 45m"
+        ]
+    ], 
+    "MAPREDUCE-1532": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50d 23h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25d 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "579d 3h 19m"
+        ]
+    ], 
+    "MAPREDUCE-1533": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 19h 47m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "85d 17h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 11h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "554d 5m"
+        ]
+    ], 
+    "MAPREDUCE-1536": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 13h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "159d 3h 43m"
+        ]
+    ], 
+    "MAPREDUCE-1537": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 18m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "11h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "178d 23h 49m"
+        ]
+    ], 
+    "MAPREDUCE-1538": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "45d 18h 43m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 18h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 23h 8m"
+        ]
+    ], 
+    "MAPREDUCE-771": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "400d 12h 29m"
+        ]
+    ], 
+    "MAPREDUCE-773": [
+        [
+            "Patch Available", 
+            "Open", 
+            "27d 22h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "371d 12h 19m"
+        ]
+    ], 
+    "MAPREDUCE-677": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 18h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 1h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "406d 10h 20m"
+        ]
+    ], 
+    "MAPREDUCE-676": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 4h 50m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 14h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "413d 9h 42m"
+        ]
+    ], 
+    "MAPREDUCE-671": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "420d 21h 35m"
+        ]
+    ], 
+    "MAPREDUCE-673": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 5h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 14m"
+        ]
+    ], 
+    "MAPREDUCE-2195": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "387d 6h 54m"
+        ]
+    ], 
+    "MAPREDUCE-2199": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "356d 2h 46m"
+        ]
+    ], 
+    "MAPREDUCE-988": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 10h 22m"
+        ]
+    ], 
+    "MAPREDUCE-2054": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 5h 43m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "166d 7h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "287d 55m"
+        ]
+    ], 
+    "MAPREDUCE-1016": [
+        [
+            "Patch Available", 
+            "Open", 
+            "24d 3h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "304d 21h 26m"
+        ]
+    ], 
+    "MAPREDUCE-1014": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "336d 3h 36m"
+        ]
+    ], 
+    "MAPREDUCE-1408": [
+        [
+            "Patch Available", 
+            "Open", 
+            "16d 10h 15m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 9h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 18h 7m"
+        ]
+    ], 
+    "MAPREDUCE-1409": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 22h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "82d 10h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "126d 1h 50m"
+        ]
+    ], 
+    "MAPREDUCE-1158": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "300d 7h 45m"
+        ]
+    ], 
+    "MAPREDUCE-986": [
+        [
+            "Patch Available", 
+            "Open", 
+            "19h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 13h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 13h 41m"
+        ]
+    ], 
+    "HADOOP-6184": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 23h 49m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 19h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "365d 8h 49m"
+        ]
+    ], 
+    "MAPREDUCE-1406": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 16h 8m"
+        ]
+    ], 
+    "MAPREDUCE-1407": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32d 12h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 6h 52m"
+        ]
+    ], 
+    "MAPREDUCE-1400": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 12h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "192d 10h 9m"
+        ]
+    ], 
+    "MAPREDUCE-1153": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 16h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 3h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "295d 13h 21m"
+        ]
+    ], 
+    "MAPREDUCE-1018": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 7h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "373d 14h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 15h 53m"
+        ]
+    ], 
+    "MAPREDUCE-787": [
+        [
+            "Patch Available", 
+            "Open", 
+            "24d 19h 41m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "102d 21h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "270d 10h 18m"
+        ]
+    ], 
+    "MAPREDUCE-40": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48d 4h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 13h 21m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "15d 11h 19m"
+        ]
+    ], 
+    "MAPREDUCE-2285": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 7h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 16h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "308d 10h 27m"
+        ]
+    ], 
+    "MAPREDUCE-2284": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17d 8h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "279d 9h 39m"
+        ]
+    ], 
+    "MAPREDUCE-2283": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "54m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "318d 5h 54m"
+        ]
+    ], 
+    "MAPREDUCE-2282": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "323d 8h 10m"
+        ]
+    ], 
+    "MAPREDUCE-2281": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 3h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 20h 16m"
+        ]
+    ], 
+    "MAPREDUCE-2571": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "187d 8h 11m"
+        ]
+    ], 
+    "MAPREDUCE-2573": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "158d 2h 3m"
+        ]
+    ], 
+    "MAPREDUCE-852": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "372d 3h 1m"
+        ]
+    ], 
+    "MAPREDUCE-587": [
+        [
+            "Open", 
+            "Patch Available", 
+            "67d 1h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 12h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "203d 12h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "472d 4h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 1h 33m"
+        ]
+    ], 
+    "MAPREDUCE-2470": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 23h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 17h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "2d 16h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "173d 15h 39m"
+        ]
+    ], 
+    "MAPREDUCE-421": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 21h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 21h 1m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "43d 6h 25m"
+        ]
+    ], 
+    "MAPREDUCE-2472": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "221d 9h 55m"
+        ]
+    ], 
+    "MAPREDUCE-2475": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "192d 22h 2m"
+        ]
+    ], 
+    "MAPREDUCE-1718": [
+        [
+            "Open", 
+            "Patch Available", 
+            "89d 23h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "506d 7h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1657": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 21h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 14h 44m"
+        ]
+    ], 
+    "MAPREDUCE-1659": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 4h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 15h 54m"
+        ]
+    ], 
+    "HADOOP-7259": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 16h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "93d 21h 29m"
+        ]
+    ], 
+    "MAPREDUCE-153": [
+        [
+            "Open", 
+            "Resolved", 
+            "65d 15h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "410d 9h 25m"
+        ]
+    ], 
+    "MAPREDUCE-1301": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 18h"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "244d 13h 54m"
+        ]
+    ], 
+    "HADOOP-6642": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2m 19s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "319d 19h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 20h 12m"
+        ]
+    ], 
+    "MAPREDUCE-2529": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 2h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 8h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 16h 49m"
+        ]
+    ], 
+    "MAPREDUCE-2379": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 8h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "245d 16h 23m"
+        ]
+    ], 
+    "MAPREDUCE-2272": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44d 3h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 37m"
+        ]
+    ], 
+    "MAPREDUCE-516": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 5h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "426d 6h 30m"
+        ]
+    ], 
+    "MAPREDUCE-2271": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 11h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "292d 6h 33m"
+        ]
+    ], 
+    "MAPREDUCE-2179": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "397d 22h 46m"
+        ]
+    ], 
+    "MAPREDUCE-2277": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 43m"
+        ]
+    ], 
+    "MAPREDUCE-1870": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 17h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 5h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 16h 16m"
+        ]
+    ], 
+    "MAPREDUCE-2173": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "398d 21h 44m"
+        ]
+    ], 
+    "MAPREDUCE-1876": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 5h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 9h 33m"
+        ]
+    ], 
+    "MAPREDUCE-1974": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 22m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "124d 16h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "67d 4h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 7h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1975": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 21h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "461d 2h 32m"
+        ]
+    ], 
+    "MAPREDUCE-1979": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 17h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "455d 1h 15m"
+        ]
+    ], 
+    "MAPREDUCE-572": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 23h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "817d 20h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h"
+        ]
+    ], 
+    "MAPREDUCE-1573": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 11h 48m"
+        ]
+    ], 
+    "MAPREDUCE-1276": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 53m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "126d 17h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 5h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "96d 11h 49m"
+        ]
+    ], 
+    "MAPREDUCE-1578": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 1h 49m"
+        ]
+    ], 
+    "MAPREDUCE-639": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "149d 4h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "339d 20h 47m"
+        ]
+    ], 
+    "MAPREDUCE-732": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "411d 10h 31m"
+        ]
+    ], 
+    "MAPREDUCE-1375": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 4h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "218d 2h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 10h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "465d 22h 7m"
+        ]
+    ], 
+    "MAPREDUCE-1372": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "117d 19h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 6h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 21h 31m"
+        ]
+    ], 
+    "MAPREDUCE-735": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 9h 5m"
+        ]
+    ], 
+    "MAPREDUCE-630": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15d 4h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 21h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "404d 15h 25m"
+        ]
+    ], 
+    "MAPREDUCE-1378": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33d 17h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "187d 23h 5m"
+        ]
+    ], 
+    "MAPREDUCE-743": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 2h 27m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 7h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "398d 5h 49m"
+        ]
+    ], 
+    "MAPREDUCE-2307": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 23h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 7h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 2h 57m"
+        ]
+    ], 
+    "MAPREDUCE-2304": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 31m"
+        ]
+    ], 
+    "MAPREDUCE-2099": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 22h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "409d 4h 48m"
+        ]
+    ], 
+    "MAPREDUCE-839": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15d 21h 43m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 5h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 3h 40m"
+        ]
+    ], 
+    "MAPREDUCE-2300": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 19m"
+        ]
+    ], 
+    "MAPREDUCE-1606": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12d 4h 46m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "73d 15h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 9h 56m"
+        ]
+    ], 
+    "MAPREDUCE-2514": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 23h 23m"
+        ]
+    ], 
+    "MAPREDUCE-1059": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15d 14h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "57d 13h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 6h 52m"
+        ]
+    ], 
+    "MAPREDUCE-2095": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 19h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "426d 19h 49m"
+        ]
+    ], 
+    "MAPREDUCE-977": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 11h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1111": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "47s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "309d 2h 2m"
+        ]
+    ], 
+    "MAPREDUCE-973": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 25m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "347d 3h 37m"
+        ]
+    ], 
+    "MAPREDUCE-971": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 15h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 5h 51m"
+        ]
+    ], 
+    "MAPREDUCE-1119": [
+        [
+            "Patch Available", 
+            "Open", 
+            "39d 12h 10m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 21h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "263d 16h 10m"
+        ]
+    ], 
+    "MAPREDUCE-979": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 3h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 22h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 51m"
+        ]
+    ], 
+    "MAPREDUCE-745": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 21h 18m"
+        ]
+    ], 
+    "MAPREDUCE-1280": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 18h 57m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "776d 1h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 4h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "336d 23h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1284": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 17h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "249d 14h 37m"
+        ]
+    ], 
+    "MAPREDUCE-1285": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 19h 48m"
+        ]
+    ], 
+    "MAPREDUCE-1288": [
+        [
+            "Open", 
+            "Patch Available", 
+            "233d 1h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "496d 11h 59m"
+        ]
+    ], 
+    "MAPREDUCE-2451": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 11h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 16h 45m"
+        ]
+    ], 
+    "MAPREDUCE-895": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "367d 22h 24m"
+        ]
+    ], 
+    "MAPREDUCE-896": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 3h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "125d 6h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "239d 8h 6m"
+        ]
+    ], 
+    "MAPREDUCE-890": [
+        [
+            "Patch Available", 
+            "Open", 
+            "73d 2h 24m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "124d 18h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 16h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 19h 35m"
+        ]
+    ], 
+    "MAPREDUCE-2437": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "241d 12h 35m"
+        ]
+    ], 
+    "MAPREDUCE-899": [
+        [
+            "Patch Available", 
+            "Open", 
+            "35d 5h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "126d 23h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "205d 9h 9m"
+        ]
+    ], 
+    "MAPREDUCE-1695": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 21h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "123d 12h 9m"
+        ]
+    ], 
+    "MAPREDUCE-1697": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12d 29m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "37d 4h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 20h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 14h 38m"
+        ]
+    ], 
+    "MAPREDUCE-2000": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "37m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 8h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "486d 21h 5m"
+        ]
+    ], 
+    "MAPREDUCE-1028": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "333d 2h 51m"
+        ]
+    ], 
+    "MAPREDUCE-1692": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 22h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 11h 41m"
+        ]
+    ], 
+    "MAPREDUCE-1754": [
+        [
+            "Patch Available", 
+            "Open", 
+            "126d 17h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "140d 4h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "317d 8h 43m"
+        ]
+    ], 
+    "MAPREDUCE-1022": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "334d 17h 48m"
+        ]
+    ], 
+    "MAPREDUCE-118": [
+        [
+            "Patch Available", 
+            "Open", 
+            "85d 18h 25m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "398d 1h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "458d 16h 47m"
+        ]
+    ], 
+    "MAPREDUCE-1599": [
+        [
+            "Open", 
+            "Resolved", 
+            "78d 5h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "558d 7h 45m"
+        ]
+    ], 
+    "MAPREDUCE-1597": [
+        [
+            "Open", 
+            "Patch Available", 
+            "177d 12h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "460d 21h 12m"
+        ]
+    ], 
+    "MAPREDUCE-112": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 41m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "209d 9h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 5m"
+        ]
+    ], 
+    "MAPREDUCE-2483": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 20h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "179d 6h 57m"
+        ]
+    ], 
+    "MAPREDUCE-408": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 23h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "385d 13h 19m"
+        ]
+    ], 
+    "MAPREDUCE-2487": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25d 14h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 39m"
+        ]
+    ], 
+    "MAPREDUCE-2486": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "214d 6h 45m"
+        ]
+    ], 
+    "MAPREDUCE-2460": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 20h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "196d 1h 42m"
+        ]
+    ], 
+    "MAPREDUCE-808": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 2h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "379d 3h 33m"
+        ]
+    ], 
+    "MAPREDUCE-809": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "390d 21h 37m"
+        ]
+    ], 
+    "MAPREDUCE-807": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 5h 5m"
+        ]
+    ], 
+    "MAPREDUCE-805": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 21h 27m"
+        ]
+    ], 
+    "MAPREDUCE-1628": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 18m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 21h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "146d 2h 34m"
+        ]
+    ], 
+    "MAPREDUCE-1629": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 22h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "151d 3h 20m"
+        ]
+    ], 
+    "MAPREDUCE-647": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 14h 32m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "377d 16h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 11h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "541d 12h 22m"
+        ]
+    ], 
+    "MAPREDUCE-2134": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 16h 55m"
+        ]
+    ], 
+    "MAPREDUCE-2137": [
+        [
+            "Patch Available", 
+            "Open", 
+            "179d 23h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "42d 21h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 20h 11m"
+        ]
+    ], 
+    "MAPREDUCE-416": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 7h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "421d 7h 49m"
+        ]
+    ], 
+    "MAPREDUCE-419": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 16h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "426d 12h 36m"
+        ]
+    ], 
+    "MAPREDUCE-1621": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 22h 34m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "110d 11h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "513d 19h 19m"
+        ]
+    ], 
+    "MAPREDUCE-1622": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33d 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 22m"
+        ]
+    ], 
+    "MAPREDUCE-1897": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53d 1h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 4h 41m"
+        ]
+    ], 
+    "MAPREDUCE-1230": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12d 8h 6m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "258d 10h 40m"
+        ]
+    ], 
+    "MAPREDUCE-1235": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 6h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 6h 55m"
+        ]
+    ], 
+    "MAPREDUCE-1239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10m 18s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "271d 4h 52m"
+        ]
+    ], 
+    "MAPREDUCE-1331": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 12m"
+        ]
+    ], 
+    "MAPREDUCE-1334": [
+        [
+            "Patch Available", 
+            "Open", 
+            "342d 3h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 11h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "339d 22h 37m"
+        ]
+    ], 
+    "MAPREDUCE-2228": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 21h 39m"
+        ]
+    ], 
+    "MAPREDUCE-2224": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "349d 34m"
+        ]
+    ], 
+    "MAPREDUCE-2223": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h"
+        ]
+    ], 
+    "MAPREDUCE-2222": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "144d 5h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "215d 1h 59m"
+        ]
+    ], 
+    "HADOOP-6826": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 6h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 16h 27m"
+        ]
+    ], 
+    "MAPREDUCE-1480": [
+        [
+            "Patch Available", 
+            "Open", 
+            "32d 8h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 13h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1482": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 9h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 22h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 1h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 3h 16m"
+        ]
+    ], 
+    "MAPREDUCE-1528": [
+        [
+            "Open", 
+            "Resolved", 
+            "135d 22h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "520d 9h 50m"
+        ]
+    ], 
+    "MAPREDUCE-1029": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 18h 29m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 12h 53m"
+        ]
+    ], 
+    "MAPREDUCE-1523": [
+        [
+            "Patch Available", 
+            "Open", 
+            "37d 7h 23m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 17h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 20h 21m"
+        ]
+    ], 
+    "MAPREDUCE-1522": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 3h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 9h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 26m"
+        ]
+    ], 
+    "MAPREDUCE-1520": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "173d 15h 3m"
+        ]
+    ], 
+    "MAPREDUCE-709": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "413d 13h 23m"
+        ]
+    ], 
+    "MAPREDUCE-708": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "413d 13h 44m"
+        ]
+    ], 
+    "MAPREDUCE-1244": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "8d 10h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "262d 23h 31m"
+        ]
+    ], 
+    "MAPREDUCE-1245": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "265d 14h 41m"
+        ]
+    ], 
+    "MAPREDUCE-1242": [
+        [
+            "Open", 
+            "Patch Available", 
+            "421d 2h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 11h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "255d 19h 55m"
+        ]
+    ], 
+    "MAPREDUCE-1241": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 22m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 10h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 7h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "244d 17h 28m"
+        ]
+    ], 
+    "MAPREDUCE-703": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 22s"
+        ]
+    ], 
+    "MAPREDUCE-702": [
+        [
+            "Open", 
+            "Resolved", 
+            "47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "417d 9h 29m"
+        ]
+    ], 
+    "MAPREDUCE-1249": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "263d 18h 6m"
+        ]
+    ], 
+    "MAPREDUCE-28": [
+        [
+            "Patch Available", 
+            "Open", 
+            "32d 7h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "241d 19h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 19h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "270d 16h 21m"
+        ]
+    ], 
+    "MAPREDUCE-1062": [
+        [
+            "Patch Available", 
+            "Open", 
+            "54d 19h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 2h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "131d 18h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 22h 31m"
+        ]
+    ], 
+    "MAPREDUCE-1148": [
+        [
+            "Patch Available", 
+            "Open", 
+            "45d 19h 23m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 51m"
+        ]
+    ], 
+    "MAPREDUCE-1065": [
+        [
+            "Patch Available", 
+            "Open", 
+            "24d 23h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "146d 12h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 4h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 18h 45m"
+        ]
+    ], 
+    "MAPREDUCE-1412": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "206d 18h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1147": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 12h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 16h 58m"
+        ]
+    ], 
+    "MAPREDUCE-1146": [
+        [
+            "Patch Available", 
+            "Open", 
+            "42d 4h 48m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 1h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 43m"
+        ]
+    ], 
+    "MAPREDUCE-1417": [
+        [
+            "Open", 
+            "Patch Available", 
+            "91d 1h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 14h 37m"
+        ]
+    ], 
+    "MAPREDUCE-1140": [
+        [
+            "Patch Available", 
+            "Open", 
+            "25d 16h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 1h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "267d 10h 15m"
+        ]
+    ], 
+    "MAPREDUCE-1143": [
+        [
+            "Patch Available", 
+            "Open", 
+            "39d 18h 8m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 23h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "249d 12h 44m"
+        ]
+    ], 
+    "MAPREDUCE-792": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 44m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 15h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "390d 2h 25m"
+        ]
+    ], 
+    "MAPREDUCE-796": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 21h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 14m"
+        ]
+    ], 
+    "MAPREDUCE-1098": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 22h 48m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 10h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "303d 21h 40m"
+        ]
+    ], 
+    "MAPREDUCE-799": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 22h 56m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "378d 4h 43m"
+        ]
+    ], 
+    "MAPREDUCE-1090": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "303d 10h 26m"
+        ]
+    ], 
+    "MAPREDUCE-2467": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 17h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "187d 7h 12m"
+        ]
+    ], 
+    "MAPREDUCE-840": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 16h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "377d 6h 36m"
+        ]
+    ], 
+    "MAPREDUCE-1668": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 22h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "109d 14h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "469d 2h 5m"
+        ]
+    ], 
+    "MAPREDUCE-845": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "378d 21h 50m"
+        ]
+    ], 
+    "MAPREDUCE-1664": [
+        [
+            "Open", 
+            "Resolved", 
+            "168d 22h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "450d 22h 41m"
+        ]
+    ], 
+    "MAPREDUCE-848": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "377d 7h 8m"
+        ]
+    ], 
+    "MAPREDUCE-2": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 19h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 4h 44m"
+        ]
+    ], 
+    "MAPREDUCE-1662": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50d 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "569d 21h 32m"
+        ]
+    ], 
+    "MAPREDUCE-1707": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 23h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "586d 23h 48m"
+        ]
+    ], 
+    "MAPREDUCE-1705": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 23h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 20h 10m"
+        ]
+    ], 
+    "MAPREDUCE-1155": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 17h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "61d 11h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 6h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "231d 15h 8m"
+        ]
+    ], 
+    "MAPREDUCE-1701": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 18h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "501d 5h 21m"
+        ]
+    ], 
+    "MAPREDUCE-1469": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 49m"
+        ]
+    ], 
+    "MAPREDUCE-1152": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 1h 19m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 1h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 22h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "263d 13h 5m"
+        ]
+    ], 
+    "MAPREDUCE-124": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 18h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 4h 50m"
+        ]
+    ], 
+    "MAPREDUCE-1992": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13h 23m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 20h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "486d 20h 17m"
+        ]
+    ], 
+    "MAPREDUCE-1993": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "494d 17h 1m"
+        ]
+    ], 
+    "MAPREDUCE-1996": [
+        [
+            "Open", 
+            "Patch Available", 
+            "168d 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38d 11h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 19h 23m"
+        ]
+    ], 
+    "MAPREDUCE-1999": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "489d 9h 33m"
+        ]
+    ], 
+    "MAPREDUCE-1845": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 18h 14m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 8h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 22h 10m"
+        ]
+    ], 
+    "MAPREDUCE-565": [
+        [
+            "Patch Available", 
+            "Open", 
+            "38d 1h 48m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "39d 10h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 24m"
+        ]
+    ], 
+    "MAPREDUCE-2143": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 12h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "412d 11h 19m"
+        ]
+    ], 
+    "MAPREDUCE-1961": [
+        [
+            "Patch Available", 
+            "Open", 
+            "14d 1h 9m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 8h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "486d 21h 29m"
+        ]
+    ], 
+    "MAPREDUCE-1566": [
+        [
+            "Open", 
+            "Resolved", 
+            "139d 1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "507d 5h 28m"
+        ]
+    ], 
+    "MAPREDUCE-1160": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7h 54m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "299d 17h 26m"
+        ]
+    ], 
+    "MAPREDUCE-1365": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "211d 16h 39m"
+        ]
+    ], 
+    "MAPREDUCE-628": [
+        [
+            "Patch Available", 
+            "Open", 
+            "25d 22h 53m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 10h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 11h 6m"
+        ]
+    ], 
+    "MAPREDUCE-1369": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 3h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 13h 59m"
+        ]
+    ], 
+    "MAPREDUCE-627": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18d 18h 24m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 3h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "404d 15h 29m"
+        ]
+    ], 
+    "MAPREDUCE-2315": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "304d 22h 33m"
+        ]
+    ], 
+    "MAPREDUCE-2317": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 2h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49d 6h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "206d 4h 5m"
+        ]
+    ], 
+    "MAPREDUCE-2311": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "278d 2h 24m"
+        ]
+    ], 
+    "HADOOP-5472": [
+        [
+            "Open", 
+            "Patch Available", 
+            "70d 16h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 19h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "455d 2h 49m"
+        ]
+    ], 
+    "MAPREDUCE-64": [
+        [
+            "Patch Available", 
+            "Open", 
+            "78d 9h 31m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "296d 15h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 6h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 15h 29m"
+        ]
+    ], 
+    "MAPREDUCE-941": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 4h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "340d 6h 41m"
+        ]
+    ], 
+    "MAPREDUCE-1515": [
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 9h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "14h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "26d 4h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 17h 26m"
+        ]
+    ], 
+    "MAPREDUCE-1105": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 8h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "307d 4h 47m"
+        ]
+    ], 
+    "MAPREDUCE-1104": [
+        [
+            "Patch Available", 
+            "Open", 
+            "22h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 13h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 11h 37m"
+        ]
+    ], 
+    "MAPREDUCE-945": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 1h 1m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "172d 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "350d 6h 1m"
+        ]
+    ], 
+    "MAPREDUCE-1519": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 13h 49m"
+        ]
+    ], 
+    "MAPREDUCE-754": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "146d 3h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 5h 52m"
+        ]
+    ], 
+    "MAPREDUCE-1294": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "251d 17h 40m"
+        ]
+    ], 
+    "MAPREDUCE-694": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "417d 10h 2m"
+        ]
+    ], 
+    "MAPREDUCE-690": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 25m"
+        ]
+    ], 
+    "MAPREDUCE-1196": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "287d 20h 59m"
+        ]
+    ], 
+    "MAPREDUCE-2581": [
+        [
+            "Open", 
+            "Patch Available", 
+            "112d 6h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 22h 7m"
+        ]
+    ], 
+    "HADOOP-6285": [
+        [
+            "Patch Available", 
+            "Open", 
+            "54m 5s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "329d 23h 13m"
+        ]
+    ], 
+    "MAPREDUCE-2428": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 5h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 21h 14m"
+        ]
+    ], 
+    "HADOOP-6281": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 24m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "333d 2h 51m"
+        ]
+    ], 
+    "MAPREDUCE-2420": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 19h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 1h 38m"
+        ]
+    ], 
+    "MAPREDUCE-889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "217d 22h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 12h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 22h 39m"
+        ]
+    ], 
+    "MAPREDUCE-2146": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 10h 17m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 9h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 32m"
+        ]
+    ], 
+    "MAPREDUCE-2032": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 4h 13m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 10h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "459d 20h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1490": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "191d 12h 11m"
+        ]
+    ], 
+    "MAPREDUCE-1038": [
+        [
+            "Patch Available", 
+            "Open", 
+            "46m 36s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 18h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 7h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "294d 13h 27m"
+        ]
+    ], 
+    "MAPREDUCE-1037": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35d 4h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 4h 4m"
+        ]
+    ], 
+    "MAPREDUCE-1031": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "154d 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46d 5h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 21h 35m"
+        ]
+    ], 
+    "MAPREDUCE-1030": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 4h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "315d 7h 32m"
+        ]
+    ], 
+    "MAPREDUCE-1422": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 10h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "167d 15h 52m"
+        ]
+    ], 
+    "MAPREDUCE-1420": [
+        [
+            "Patch Available", 
+            "Open", 
+            "41d 2h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 3h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 13h 54m"
+        ]
+    ], 
+    "MAPREDUCE-1421": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 33m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 23h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "174d 16h 26m"
+        ]
+    ], 
+    "MAPREDUCE-1585": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20d 1h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 19h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 2h 13m"
+        ]
+    ], 
+    "MAPREDUCE-2516": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 42m"
+        ]
+    ], 
+    "MAPREDUCE-2515": [
+        [
+            "Patch Available", 
+            "Open", 
+            "47m 36s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "34m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 48m"
+        ]
+    ], 
+    "MAPREDUCE-838": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5h 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 10h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 57m"
+        ]
+    ], 
+    "MAPREDUCE-2104": [
+        [
+            "Open", 
+            "Patch Available", 
+            "242d 18h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 19h 7m"
+        ]
+    ], 
+    "MAPREDUCE-2457": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21m 20s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "223d 6h 59m"
+        ]
+    ], 
+    "MAPREDUCE-2452": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 20h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "37d 3h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "164d 2h 28m"
+        ]
+    ], 
+    "MAPREDUCE-2518": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "179d 2h 9m"
+        ]
+    ], 
+    "MAPREDUCE-1635": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 20h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 22h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 6h 59m"
+        ]
+    ], 
+    "MAPREDUCE-1920": [
+        [
+            "Patch Available", 
+            "Open", 
+            "33d 2h 15m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 16h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 17h 2m"
+        ]
+    ], 
+    "MAPREDUCE-1926": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 20h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 44m"
+        ]
+    ], 
+    "MAPREDUCE-1925": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 22h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 22h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "506d 8h 14m"
+        ]
+    ], 
+    "MAPREDUCE-1929": [
+        [
+            "Open", 
+            "Patch Available", 
+            "109d 11h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "76d 20h 50m"
+        ]
+    ], 
+    "MAPREDUCE-179": [
+        [
+            "Patch Available", 
+            "Open", 
+            "43d 12h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 31m"
+        ]
+    ], 
+    "MAPREDUCE-1251": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10d 6h 10m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 12h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "58d 40m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 9h 44m"
+        ]
+    ], 
+    "MAPREDUCE-682": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 8h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "398d 6h 24m"
+        ]
+    ], 
+    "MAPREDUCE-1322": [
+        [
+            "Patch Available", 
+            "Open", 
+            "38d 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 7h 43m"
+        ]
+    ], 
+    "MAPREDUCE-1327": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 14h 56m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 7h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 6h 49m"
+        ]
+    ], 
+    "MAPREDUCE-859": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 16h 3m"
+        ]
+    ], 
+    "MAPREDUCE-1813": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 22h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "548d 18h 37m"
+        ]
+    ], 
+    "MAPREDUCE-2215": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "340d 51m"
+        ]
+    ], 
+    "MAPREDUCE-1811": [
+        [
+            "Open", 
+            "Patch Available", 
+            "277d 9h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 9h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 19h 8m"
+        ]
+    ], 
+    "MAPREDUCE-717": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 22h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "399d 15h"
+        ]
+    ], 
+    "MAPREDUCE-1958": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "495d 6h 30m"
+        ]
+    ], 
+    "MAPREDUCE-1558": [
+        [
+            "Open", 
+            "Resolved", 
+            "71d 21h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "576d 10h 27m"
+        ]
+    ], 
+    "MAPREDUCE-1559": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 21h 33m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "102d 20h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "541d 4h 33m"
+        ]
+    ], 
+    "MAPREDUCE-1497": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 20h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 14h 3m"
+        ]
+    ], 
+    "MAPREDUCE-1494": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 20h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "58d 20h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 19h 56m"
+        ]
+    ], 
+    "MAPREDUCE-1398": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 18h 7m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 18h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "189d 10h 26m"
+        ]
+    ], 
+    "MAPREDUCE-1399": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 3h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "195d 19h"
+        ]
+    ], 
+    "MAPREDUCE-1394": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 49m"
+        ]
+    ], 
+    "MAPREDUCE-1395": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 6h 57m"
+        ]
+    ], 
+    "MAPREDUCE-1397": [
+        [
+            "Patch Available", 
+            "Open", 
+            "48d 19h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 2h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 11h 16m"
+        ]
+    ], 
+    "MAPREDUCE-716": [
+        [
+            "Patch Available", 
+            "In Progress", 
+            "5m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "116d 1h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "2h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "22h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 12h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "399d 5h 1m"
+        ]
+    ], 
+    "MAPREDUCE-1258": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "248d 5h 18m"
+        ]
+    ], 
+    "MAPREDUCE-714": [
+        [
+            "Open", 
+            "Patch Available", 
+            "491d 23h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 20h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "347d 9h 20m"
+        ]
+    ], 
+    "MAPREDUCE-657": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 21m"
+        ]
+    ], 
+    "MAPREDUCE-659": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 17h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "4h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 21h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "383d 14h 30m"
+        ]
+    ], 
+    "MAPREDUCE-658": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "421d 14h 10m"
+        ]
+    ], 
+    "MAPREDUCE-2074": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12d 3h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "133d 4h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "258d 18h 49m"
+        ]
+    ], 
+    "MAPREDUCE-18": [
+        [
+            "Open", 
+            "Patch Available", 
+            "68d 23h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 38m"
+        ]
+    ], 
+    "MAPREDUCE-2077": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "140d 4h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "311d 2h 55m"
+        ]
+    ], 
+    "MAPREDUCE-1788": [
+        [
+            "Patch Available", 
+            "Open", 
+            "16h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "489d 18h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 21h 55m"
+        ]
+    ], 
+    "MAPREDUCE-1784": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "174d 4h 50m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "10d 8h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2m 9s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1d 1h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 54m"
+        ]
+    ], 
+    "MAPREDUCE-2078": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "446d 20m"
+        ]
+    ], 
+    "MAPREDUCE-1780": [
+        [
+            "Open", 
+            "Resolved", 
+            "93d 22h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "486d 21h 53m"
+        ]
+    ], 
+    "MAPREDUCE-1178": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 4h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "288d 13h 16m"
+        ]
+    ], 
+    "MAPREDUCE-1070": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 12h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 4h 9m"
+        ]
+    ], 
+    "MAPREDUCE-1894": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 22h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 8h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 23h 57m"
+        ]
+    ], 
+    "MAPREDUCE-1075": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 1m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 5h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 12h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 16h 12m"
+        ]
+    ], 
+    "MAPREDUCE-1077": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 1h 50m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 18h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 1h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1076": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 18h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 15h 19m"
+        ]
+    ], 
+    "MAPREDUCE-1171": [
+        [
+            "Patch Available", 
+            "Open", 
+            "19h 15m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 8h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "256d 17h 6m"
+        ]
+    ], 
+    "MAPREDUCE-993": [
+        [
+            "Open", 
+            "Patch Available", 
+            "526d 13h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 9h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "257d 19h 5m"
+        ]
+    ], 
+    "MAPREDUCE-1174": [
+        [
+            "Patch Available", 
+            "Open", 
+            "46d 3h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 50m"
+        ]
+    ], 
+    "MAPREDUCE-995": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15h 45m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "54m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26m 6s"
+        ]
+    ], 
+    "MAPREDUCE-1177": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 17h 47m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 19h 3m"
+        ]
+    ], 
+    "MAPREDUCE-626": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 2h 42m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 21h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "404d 12h 42m"
+        ]
+    ], 
+    "MAPREDUCE-2559": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 7h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "159d 23h 49m"
+        ]
+    ], 
+    "MAPREDUCE-879": [
+        [
+            "Open", 
+            "Patch Available", 
+            "115d 18h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "136d 10h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 22h 48m"
+        ]
+    ], 
+    "MAPREDUCE-877": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "372d 16h 7m"
+        ]
+    ], 
+    "MAPREDUCE-2188": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 3h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "311d 2h 37m"
+        ]
+    ], 
+    "MAPREDUCE-2416": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 23h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "199d 20h 56m"
+        ]
+    ], 
+    "MAPREDUCE-2417": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 22h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 16h 38m"
+        ]
+    ], 
+    "HADOOP-6090": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 3h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 22h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "411d 12h 28m"
+        ]
+    ], 
+    "MAPREDUCE-1670": [
+        [
+            "Patch Available", 
+            "Open", 
+            "14d 3h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "108d 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25d 22h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "469d 4h 30m"
+        ]
+    ], 
+    "HADOOP-6096": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "427d 4h 47m"
+        ]
+    ], 
+    "HADOOP-6097": [
+        [
+            "Patch Available", 
+            "Open", 
+            "70d 11h 52m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 17h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "32d 7m"
+        ]
+    ], 
+    "MAPREDUCE-1772": [
+        [
+            "Open", 
+            "Patch Available", 
+            "628d 10h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 45m"
+        ]
+    ], 
+    "MAPREDUCE-1773": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 20h 20m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "317d 10h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "558d 18h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1474": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 8h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "192d 10h 44m"
+        ]
+    ], 
+    "MAPREDUCE-1476": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "190d 6h 56m"
+        ]
+    ], 
+    "HADOOP-6243": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7m 35s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "350d 4h 25m"
+        ]
+    ], 
+    "MAPREDUCE-130": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 3h 7m"
+        ]
+    ], 
+    "MAPREDUCE-1980": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 17h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 14h 57m"
+        ]
+    ], 
+    "MAPREDUCE-1982": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 2h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "496d 29m"
+        ]
+    ], 
+    "MAPREDUCE-1984": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 18h 10m"
+        ]
+    ], 
+    "MAPREDUCE-1989": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 19h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "440d 23h 2m"
+        ]
+    ], 
+    "MAPREDUCE-2395": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 4h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "222d 48m"
+        ]
+    ], 
+    "MAPREDUCE-2394": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "269d 12h 4m"
+        ]
+    ], 
+    "MAPREDUCE-2258": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 6h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "119d 17h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "180d 5h 49m"
+        ]
+    ], 
+    "MAPREDUCE-2392": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "269d 8h 57m"
+        ]
+    ], 
+    "MAPREDUCE-2256": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 7h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 4h 38m"
+        ]
+    ], 
+    "MAPREDUCE-2251": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46d 13h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 18h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "280d 2h 39m"
+        ]
+    ], 
+    "MAPREDUCE-2253": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 23h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 19h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "319d 10h 41m"
+        ]
+    ], 
+    "MAPREDUCE-1853": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 13h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 9h 55m"
+        ]
+    ], 
+    "MAPREDUCE-1857": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 22h 46m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 45m"
+        ]
+    ], 
+    "MAPREDUCE-577": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10d 23h 24m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "750d 15h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "524d 19h 35m"
+        ]
+    ], 
+    "MAPREDUCE-1855": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 6h 32m"
+        ]
+    ], 
+    "MAPREDUCE-1609": [
+        [
+            "Patch Available", 
+            "Open", 
+            "36d 2h 34m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 16h 52m"
+        ]
+    ], 
+    "MAPREDUCE-2096": [
+        [
+            "Open", 
+            "Patch Available", 
+            "68d 23h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "339d 11h 36m"
+        ]
+    ], 
+    "MAPREDUCE-1607": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 20h 34m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "41d 2h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 6h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1604": [
+        [
+            "Patch Available", 
+            "Open", 
+            "39d 2h 13m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 8h 38m"
+        ]
+    ], 
+    "MAPREDUCE-1911": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 23h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "510d 23h 6m"
+        ]
+    ], 
+    "MAPREDUCE-1602": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 19h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "146d 37m"
+        ]
+    ], 
+    "MAPREDUCE-2090": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1915": [
+        [
+            "Patch Available", 
+            "Open", 
+            "206d 22h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 19m"
+        ]
+    ], 
+    "MAPREDUCE-1219": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 6h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "154d 21h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 17h 2m"
+        ]
+    ], 
+    "MAPREDUCE-1213": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 22h 49m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 11h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "250d 18h 28m"
+        ]
+    ], 
+    "MAPREDUCE-1212": [
+        [
+            "Patch Available", 
+            "Open", 
+            "53d 18h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 5h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "221d 20h 36m"
+        ]
+    ], 
+    "MAPREDUCE-1358": [
+        [
+            "Patch Available", 
+            "Open", 
+            "28d 18h 24m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "36m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 15h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "192d 9h 22m"
+        ]
+    ], 
+    "HADOOP-6873": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 21h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 7h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "500d 1h 21m"
+        ]
+    ], 
+    "MAPREDUCE-1071": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "314d 14h 35m"
+        ]
+    ], 
+    "MAPREDUCE-2327": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 16h 11m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "64d 7h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "209d 2h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1825": [
+        [
+            "Open", 
+            "Patch Available", 
+            "241d 19h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "310d 5h 33m"
+        ]
+    ], 
+    "MAPREDUCE-1820": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10d 12h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 20h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "522d 6h 8m"
+        ]
+    ], 
+    "HDFS-641": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 6h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "283d 20h 30m"
+        ]
+    ], 
+    "MAPREDUCE-1131": [
+        [
+            "Patch Available", 
+            "Open", 
+            "54d 52m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "235d 20h 3m"
+        ]
+    ], 
+    "MAPREDUCE-952": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6h 24m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "94d 19h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "258d 11h 6m"
+        ]
+    ], 
+    "MAPREDUCE-1133": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "305d 22h 17m"
+        ]
+    ], 
+    "MAPREDUCE-1505": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 2h 19m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "92d 17h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 7h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "554d 4h 51m"
+        ]
+    ], 
+    "MAPREDUCE-522": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 6h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "417d 7h 14m"
+        ]
+    ], 
+    "MAPREDUCE-1508": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 6h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 15h 6m"
+        ]
+    ], 
+    "MAPREDUCE-760": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 21h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "389d 12h 36m"
+        ]
+    ], 
+    "MAPREDUCE-764": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "23h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53d 4h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "351d 8h 44m"
+        ]
+    ], 
+    "MAPREDUCE-680": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 19h 35m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 18h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "405d 4h 30m"
+        ]
+    ], 
+    "MAPREDUCE-769": [
+        [
+            "Open", 
+            "Patch Available", 
+            "81d 21h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 2h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 9h 47m"
+        ]
+    ], 
+    "MAPREDUCE-683": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 19h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "413d 14h 45m"
+        ]
+    ], 
+    "MAPREDUCE-685": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 20h 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 21m"
+        ]
+    ], 
+    "MAPREDUCE-687": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55d 21h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 58m"
+        ]
+    ], 
+    "MAPREDUCE-1068": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 16h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 1h 39m"
+        ]
+    ], 
+    "MAPREDUCE-1182": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 1h 29m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 12h 36m"
+        ]
+    ], 
+    "MAPREDUCE-1186": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21d 20h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "40d 4h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "229d 13h 17m"
+        ]
+    ], 
+    "MAPREDUCE-2185": [
+        [
+            "Open", 
+            "Patch Available", 
+            "191d 23h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 2h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 2h 23m"
+        ]
+    ], 
+    "MAPREDUCE-2029": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 12h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "437d 17h 10m"
+        ]
+    ], 
+    "MAPREDUCE-2023": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 8h 2m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 6h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "465d 5h 5m"
+        ]
+    ], 
+    "MAPREDUCE-2022": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "478d 18h 46m"
+        ]
+    ], 
+    "MAPREDUCE-2021": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "465d 22h 47m"
+        ]
+    ], 
+    "MAPREDUCE-1009": [
+        [
+            "Patch Available", 
+            "Open", 
+            "62d 17h 24m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "32d 13h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "244d 10h 9m"
+        ]
+    ], 
+    "HADOOP-6199": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 14h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "356d 19h 11m"
+        ]
+    ], 
+    "MAPREDUCE-1000": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 15h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 14h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "333d 8h 53m"
+        ]
+    ], 
+    "MAPREDUCE-1003": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "340d 7h 18m"
+        ]
+    ], 
+    "HADOOP-6192": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 12h 22m"
+        ]
+    ], 
+    "MAPREDUCE-1007": [
+        [
+            "Patch Available", 
+            "Open", 
+            "54d 19m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 9h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "277d 11h 17m"
+        ]
+    ], 
+    "MAPREDUCE-832": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 19h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 52m"
+        ]
+    ], 
+    "MAPREDUCE-1435": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 14h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 9h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 19h 9m"
+        ]
+    ], 
+    "MAPREDUCE-946": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 1h 32m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 10h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "341d 13h 9m"
+        ]
+    ]
+}

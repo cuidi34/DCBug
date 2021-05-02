@@ -1,0 +1,6863 @@
+{
+    "ZEPPELIN-757": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 57m"
+        ]
+    ], 
+    "ZEPPELIN-754": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 13h 14m"
+        ]
+    ], 
+    "ZEPPELIN-3391": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 14h 24m"
+        ]
+    ], 
+    "ZEPPELIN-751": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 17h 32m"
+        ]
+    ], 
+    "ZEPPELIN-1387": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 14h 2m"
+        ]
+    ], 
+    "ZEPPELIN-3399": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 16h 34m"
+        ]
+    ], 
+    "ZEPPELIN-3099": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 10h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "75d 18h 17m"
+        ]
+    ], 
+    "ZEPPELIN-3098": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 8h 5m"
+        ]
+    ], 
+    "ZEPPELIN-755": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 26m"
+        ]
+    ], 
+    "ZEPPELIN-185": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 6h 35m"
+        ]
+    ], 
+    "ZEPPELIN-3091": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 16m"
+        ]
+    ], 
+    "ZEPPELIN-3309": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 22h 3m"
+        ]
+    ], 
+    "ZEPPELIN-3463": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 6m"
+        ]
+    ], 
+    "ZEPPELIN-3395": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 18m"
+        ]
+    ], 
+    "ZEPPELIN-3304": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 54m"
+        ]
+    ], 
+    "ZEPPELIN-638": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 17h 38m"
+        ]
+    ], 
+    "ZEPPELIN-119": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 5m"
+        ]
+    ], 
+    "ZEPPELIN-3265": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 9m"
+        ]
+    ], 
+    "ZEPPELIN-111": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 35m"
+        ]
+    ], 
+    "ZEPPELIN-3520": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 17h 51m"
+        ]
+    ], 
+    "ZEPPELIN-3522": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 13h 36m"
+        ]
+    ], 
+    "ZEPPELIN-2985": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 3m"
+        ]
+    ], 
+    "ZEPPELIN-3489": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 37m"
+        ]
+    ], 
+    "ZEPPELIN-2988": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 58m"
+        ]
+    ], 
+    "ZEPPELIN-3484": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 29m"
+        ]
+    ], 
+    "ZEPPELIN-3482": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1239": [
+        [
+            "Open", 
+            "Resolved", 
+            "145d 9h 31m"
+        ]
+    ], 
+    "ZEPPELIN-331": [
+        [
+            "Open", 
+            "Resolved", 
+            "113d 16h 37m"
+        ]
+    ], 
+    "ZEPPELIN-620": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 18h 56m"
+        ]
+    ], 
+    "ZEPPELIN-2103": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 15h 33m"
+        ]
+    ], 
+    "ZEPPELIN-335": [
+        [
+            "Open", 
+            "Resolved", 
+            "375d 12h 54m"
+        ]
+    ], 
+    "ZEPPELIN-4102": [
+        [
+            "Open", 
+            "Closed", 
+            "62d 18h 33m"
+        ]
+    ], 
+    "ZEPPELIN-628": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 13h 16m"
+        ]
+    ], 
+    "ZEPPELIN-1461": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 21h 53m"
+        ]
+    ], 
+    "ZEPPELIN-1466": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 17h 50m"
+        ]
+    ], 
+    "ZEPPELIN-183": [
+        [
+            "Open", 
+            "Resolved", 
+            "279d 13h 31m"
+        ]
+    ], 
+    "ZEPPELIN-2024": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 43m"
+        ]
+    ], 
+    "ZEPPELIN-2023": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "ZEPPELIN-2149": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 8h 3m"
+        ]
+    ], 
+    "ZEPPELIN-1744": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 27m"
+        ]
+    ], 
+    "ZEPPELIN-2147": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 6h 27m"
+        ]
+    ], 
+    "ZEPPELIN-410": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 7m"
+        ]
+    ], 
+    "ZEPPELIN-868": [
+        [
+            "Open", 
+            "Resolved", 
+            "132d 9h 31m"
+        ]
+    ], 
+    "ZEPPELIN-3411": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 23h 16m"
+        ]
+    ], 
+    "ZEPPELIN-869": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 22h 13m"
+        ]
+    ], 
+    "ZEPPELIN-781": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 42m"
+        ]
+    ], 
+    "ZEPPELIN-3567": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 12h 29m"
+        ]
+    ], 
+    "ZEPPELIN-3419": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 5h 11m"
+        ]
+    ], 
+    "ZEPPELIN-1991": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 54m"
+        ]
+    ], 
+    "ZEPPELIN-1997": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 18h 37m"
+        ]
+    ], 
+    "ZEPPELIN-1994": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 57m"
+        ]
+    ], 
+    "ZEPPELIN-3738": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "153d 9h 34m"
+        ]
+    ], 
+    "ZEPPELIN-3633": [
+        [
+            "Open", 
+            "Resolved", 
+            "70d 1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "119d 1h 53m"
+        ]
+    ], 
+    "ZEPPELIN-1302": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 7h 27m"
+        ]
+    ], 
+    "ZEPPELIN-1301": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 3h 49m"
+        ]
+    ], 
+    "ZEPPELIN-521": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 51m"
+        ]
+    ], 
+    "ZEPPELIN-1305": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 57m"
+        ]
+    ], 
+    "ZEPPELIN-1304": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 11m"
+        ]
+    ], 
+    "ZEPPELIN-936": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 15h 46m"
+        ]
+    ], 
+    "ZEPPELIN-937": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 10h 23m"
+        ]
+    ], 
+    "ZEPPELIN-247": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 51m"
+        ]
+    ], 
+    "ZEPPELIN-930": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 54m"
+        ]
+    ], 
+    "ZEPPELIN-243": [
+        [
+            "Open", 
+            "Closed", 
+            "109d 18h 41m"
+        ]
+    ], 
+    "ZEPPELIN-1909": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 19m"
+        ]
+    ], 
+    "ZEPPELIN-1908": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 39m"
+        ]
+    ], 
+    "ZEPPELIN-2281": [
+        [
+            "Open", 
+            "Resolved", 
+            "154d 23h 31m"
+        ]
+    ], 
+    "ZEPPELIN-59": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 2m"
+        ]
+    ], 
+    "ZEPPELIN-1513": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 3h 54m"
+        ]
+    ], 
+    "ZEPPELIN-4030": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 6h 44m"
+        ]
+    ], 
+    "ZEPPELIN-1901": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 4m"
+        ]
+    ], 
+    "ZEPPELIN-53": [
+        [
+            "Open", 
+            "In Progress", 
+            "547d 12h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17d 4h 8m"
+        ]
+    ], 
+    "ZEPPELIN-50": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 10h 17m"
+        ]
+    ], 
+    "ZEPPELIN-2288": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 39m"
+        ]
+    ], 
+    "ZEPPELIN-1905": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 34m"
+        ]
+    ], 
+    "ZEPPELIN-54": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 2m"
+        ]
+    ], 
+    "ZEPPELIN-55": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 23h 55m"
+        ]
+    ], 
+    "ZEPPELIN-1866": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 13m"
+        ]
+    ], 
+    "ZEPPELIN-2731": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 8m"
+        ]
+    ], 
+    "ZEPPELIN-2730": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 11m"
+        ]
+    ], 
+    "ZEPPELIN-783": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 16h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7d 10h 54m"
+        ]
+    ], 
+    "ZEPPELIN-72": [
+        [
+            "Open", 
+            "Resolved", 
+            "293d 11h 40m"
+        ]
+    ], 
+    "ZEPPELIN-1868": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 44m"
+        ]
+    ], 
+    "ZEPPELIN-1869": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 23h 36m"
+        ]
+    ], 
+    "ZEPPELIN-2515": [
+        [
+            "Open", 
+            "Resolved", 
+            "309d 13h 13m"
+        ]
+    ], 
+    "ZEPPELIN-1015": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 10m"
+        ]
+    ], 
+    "ZEPPELIN-2801": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 11h 42m"
+        ]
+    ], 
+    "ZEPPELIN-2804": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 43m"
+        ]
+    ], 
+    "ZEPPELIN-2806": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 15m"
+        ]
+    ], 
+    "ZEPPELIN-802": [
+        [
+            "Open", 
+            "Resolved", 
+            "370d 8h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "ZEPPELIN-85": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 27m"
+        ]
+    ], 
+    "ZEPPELIN-2964": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 19h 35m"
+        ]
+    ], 
+    "ZEPPELIN-1398": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 19h 10m"
+        ]
+    ], 
+    "ZEPPELIN-2215": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 1h 25m"
+        ]
+    ], 
+    "ZEPPELIN-2355": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 22h 4m"
+        ]
+    ], 
+    "ZEPPELIN-4081": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 9m"
+        ]
+    ], 
+    "ZEPPELIN-4329": [
+        [
+            "Open", 
+            "In Progress", 
+            "19h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1h 2m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 16m"
+        ]
+    ], 
+    "ZEPPELIN-2602": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 6m"
+        ]
+    ], 
+    "ZEPPELIN-2601": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 52m"
+        ]
+    ], 
+    "ZEPPELIN-3946": [
+        [
+            "Open", 
+            "Resolved", 
+            "139d 18h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 7h 9m"
+        ]
+    ], 
+    "ZEPPELIN-413": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 13h 59m"
+        ]
+    ], 
+    "ZEPPELIN-414": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 3h 45m"
+        ]
+    ], 
+    "ZEPPELIN-141": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 20h"
+        ]
+    ], 
+    "ZEPPELIN-140": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "ZEPPELIN-3864": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 7h 27m"
+        ]
+    ], 
+    "ZEPPELIN-3863": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 3h 27m"
+        ]
+    ], 
+    "ZEPPELIN-1342": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 10h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 20h 21m"
+        ]
+    ], 
+    "ZEPPELIN-1963": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 20h 29m"
+        ]
+    ], 
+    "ZEPPELIN-3228": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 31m"
+        ]
+    ], 
+    "ZEPPELIN-1647": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h 1m"
+        ]
+    ], 
+    "ZEPPELIN-1645": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 15h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1162": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 6h 48m"
+        ]
+    ], 
+    "ZEPPELIN-3226": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 25m"
+        ]
+    ], 
+    "ZEPPELIN-1166": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 10m"
+        ]
+    ], 
+    "ZEPPELIN-3224": [
+        [
+            "Open", 
+            "Resolved", 
+            "79d 9h 55m"
+        ]
+    ], 
+    "ZEPPELIN-563": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 11m"
+        ]
+    ], 
+    "ZEPPELIN-666": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 17h 41m"
+        ]
+    ], 
+    "ZEPPELIN-665": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 40m"
+        ]
+    ], 
+    "ZEPPELIN-662": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 9h 36m"
+        ]
+    ], 
+    "ZEPPELIN-2304": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 57m"
+        ]
+    ], 
+    "ZEPPELIN-705": [
+        [
+            "Open", 
+            "Closed", 
+            "831d 15h 19m"
+        ]
+    ], 
+    "ZEPPELIN-704": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 2h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1964": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 21h 18m"
+        ]
+    ], 
+    "ZEPPELIN-4039": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 37m"
+        ]
+    ], 
+    "ZEPPELIN-669": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 12h 53m"
+        ]
+    ], 
+    "ZEPPELIN-466": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 38m"
+        ]
+    ], 
+    "ZEPPELIN-467": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 5m"
+        ]
+    ], 
+    "ZEPPELIN-461": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 37m"
+        ]
+    ], 
+    "ZEPPELIN-1701": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 29m"
+        ]
+    ], 
+    "ZEPPELIN-463": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 19h 47m"
+        ]
+    ], 
+    "ZEPPELIN-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 53m"
+        ]
+    ], 
+    "ZEPPELIN-3893": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 13m"
+        ]
+    ], 
+    "ZEPPELIN-3593": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 20h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17s"
+        ]
+    ], 
+    "ZEPPELIN-2105": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 41m"
+        ]
+    ], 
+    "ZEPPELIN-2106": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 22h 56m"
+        ]
+    ], 
+    "ZEPPELIN-2108": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 24m"
+        ]
+    ], 
+    "ZEPPELIN-3898": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 42m"
+        ]
+    ], 
+    "ZEPPELIN-2680": [
+        [
+            "Open", 
+            "Resolved", 
+            "826d 16h 59m"
+        ]
+    ], 
+    "ZEPPELIN-3356": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "27d 11h 15m"
+        ]
+    ], 
+    "ZEPPELIN-1081": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 11m"
+        ]
+    ], 
+    "ZEPPELIN-3350": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 23m"
+        ]
+    ], 
+    "ZEPPELIN-386": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 56m"
+        ]
+    ], 
+    "ZEPPELIN-389": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 23m"
+        ]
+    ], 
+    "ZEPPELIN-3290": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 6h 55m"
+        ]
+    ], 
+    "ZEPPELIN-2080": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 22h 11m"
+        ]
+    ], 
+    "ZEPPELIN-2083": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 28m"
+        ]
+    ], 
+    "ZEPPELIN-3672": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "175d 1h 46m"
+        ]
+    ], 
+    "ZEPPELIN-2085": [
+        [
+            "Open", 
+            "Resolved", 
+            "321d 23h 2m"
+        ]
+    ], 
+    "ZEPPELIN-2084": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 11m"
+        ]
+    ], 
+    "ZEPPELIN-1264": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 25m"
+        ]
+    ], 
+    "ZEPPELIN-1266": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 13m"
+        ]
+    ], 
+    "ZEPPELIN-1267": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 20m"
+        ]
+    ], 
+    "ZEPPELIN-1260": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 2m"
+        ]
+    ], 
+    "ZEPPELIN-1261": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 16h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 52m"
+        ]
+    ], 
+    "ZEPPELIN-1263": [
+        [
+            "Open", 
+            "Resolved", 
+            "354d 11h 32m"
+        ]
+    ], 
+    "ZEPPELIN-204": [
+        [
+            "Open", 
+            "Resolved", 
+            "764d 17h 39m"
+        ]
+    ], 
+    "ZEPPELIN-1914": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 10h 27m"
+        ]
+    ], 
+    "ZEPPELIN-4072": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 54m"
+        ]
+    ], 
+    "ZEPPELIN-1550": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 34m"
+        ]
+    ], 
+    "ZEPPELIN-1551": [
+        [
+            "Open", 
+            "Resolved", 
+            "116d 7h 17m"
+        ]
+    ], 
+    "ZEPPELIN-1557": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 3m"
+        ]
+    ], 
+    "ZEPPELIN-1555": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 21m"
+        ]
+    ], 
+    "ZEPPELIN-4173": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 9m"
+        ]
+    ], 
+    "ZEPPELIN-1412": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 11m"
+        ]
+    ], 
+    "ZEPPELIN-2775": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 10h 27m"
+        ]
+    ], 
+    "ZEPPELIN-1410": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 19h 1m"
+        ]
+    ], 
+    "ZEPPELIN-2078": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 24m"
+        ]
+    ], 
+    "ZEPPELIN-13": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 30m"
+        ]
+    ], 
+    "ZEPPELIN-2770": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 23h 30m"
+        ]
+    ], 
+    "ZEPPELIN-2075": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 16h 17m"
+        ]
+    ], 
+    "ZEPPELIN-1820": [
+        [
+            "Open", 
+            "Resolved", 
+            "126d 18h 37m"
+        ]
+    ], 
+    "ZEPPELIN-3687": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 14h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 23h 45m"
+        ]
+    ], 
+    "ZEPPELIN-2072": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 34m"
+        ]
+    ], 
+    "ZEPPELIN-19": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 58m"
+        ]
+    ], 
+    "ZEPPELIN-2175": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 14h 30m"
+        ]
+    ], 
+    "ZEPPELIN-3171": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 20h"
+        ]
+    ], 
+    "ZEPPELIN-3177": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 5h 10m"
+        ]
+    ], 
+    "ZEPPELIN-3174": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 25m"
+        ]
+    ], 
+    "ZEPPELIN-2172": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 8h 30m"
+        ]
+    ], 
+    "ZEPPELIN-3077": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 14h 40m"
+        ]
+    ], 
+    "ZEPPELIN-2178": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 18h 18m"
+        ]
+    ], 
+    "ZEPPELIN-3075": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 16h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 13h 2m"
+        ]
+    ], 
+    "ZEPPELIN-2657": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 10h 45m"
+        ]
+    ], 
+    "ZEPPELIN-2650": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 5h 57m"
+        ]
+    ], 
+    "ZEPPELIN-17": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 39m"
+        ]
+    ], 
+    "ZEPPELIN-1192": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 16h 58m"
+        ]
+    ], 
+    "ZEPPELIN-3704": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 8h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 2h 28m"
+        ]
+    ], 
+    "ZEPPELIN-3707": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 13h 13m"
+        ]
+    ], 
+    "ZEPPELIN-2796": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 22h 54m"
+        ]
+    ], 
+    "ZEPPELIN-2659": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 14h 40m"
+        ]
+    ], 
+    "ZEPPELIN-985": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 8m"
+        ]
+    ], 
+    "ZEPPELIN-849": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 21h 3m"
+        ]
+    ], 
+    "ZEPPELIN-846": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 4h 32m"
+        ]
+    ], 
+    "ZEPPELIN-515": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 14m"
+        ]
+    ], 
+    "ZEPPELIN-844": [
+        [
+            "Open", 
+            "Closed", 
+            "28d 18m"
+        ]
+    ], 
+    "ZEPPELIN-845": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 51m"
+        ]
+    ], 
+    "ZEPPELIN-510": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 21m"
+        ]
+    ], 
+    "ZEPPELIN-843": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 4h 25m"
+        ]
+    ], 
+    "ZEPPELIN-840": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 22h 24m"
+        ]
+    ], 
+    "ZEPPELIN-961": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 11h 35m"
+        ]
+    ], 
+    "ZEPPELIN-960": [
+        [
+            "Open", 
+            "Closed", 
+            "80d 12h 40m"
+        ]
+    ], 
+    "ZEPPELIN-2924": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 4h 32m"
+        ]
+    ], 
+    "ZEPPELIN-1299": [
+        [
+            "Open", 
+            "Closed", 
+            "74d 19h 51m"
+        ]
+    ], 
+    "ZEPPELIN-1298": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "107d 13h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "26d 7h 49m"
+        ]
+    ], 
+    "ZEPPELIN-2928": [
+        [
+            "Open", 
+            "In Progress", 
+            "18m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 21h 50m"
+        ]
+    ], 
+    "ZEPPELIN-2253": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 32m"
+        ]
+    ], 
+    "ZEPPELIN-680": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 31m"
+        ]
+    ], 
+    "ZEPPELIN-3106": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 37m"
+        ]
+    ], 
+    "ZEPPELIN-1487": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 19h 26m"
+        ]
+    ], 
+    "ZEPPELIN-2315": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 17h 28m"
+        ]
+    ], 
+    "ZEPPELIN-2314": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 34m"
+        ]
+    ], 
+    "ZEPPELIN-1482": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 10m"
+        ]
+    ], 
+    "ZEPPELIN-1483": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 18h 39m"
+        ]
+    ], 
+    "ZEPPELIN-2318": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 3m"
+        ]
+    ], 
+    "ZEPPELIN-1488": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "26d 10h 15m"
+        ]
+    ], 
+    "ZEPPELIN-1489": [
+        [
+            "Open", 
+            "Closed", 
+            "621d 1h 15m"
+        ]
+    ], 
+    "ZEPPELIN-3821": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 4m"
+        ]
+    ], 
+    "ZEPPELIN-3822": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 53m"
+        ]
+    ], 
+    "ZEPPELIN-2421": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 43m"
+        ]
+    ], 
+    "ZEPPELIN-2420": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 26m"
+        ]
+    ], 
+    "ZEPPELIN-1159": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12h 10m"
+        ]
+    ], 
+    "ZEPPELIN-852": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 20m"
+        ]
+    ], 
+    "ZEPPELIN-1129": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1128": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 11h 11m"
+        ]
+    ], 
+    "ZEPPELIN-1125": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 18h 56m"
+        ]
+    ], 
+    "ZEPPELIN-1123": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 51m"
+        ]
+    ], 
+    "ZEPPELIN-1122": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 10h 30m"
+        ]
+    ], 
+    "ZEPPELIN-1121": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1689": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 28m"
+        ]
+    ], 
+    "ZEPPELIN-1047": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 45m"
+        ]
+    ], 
+    "ZEPPELIN-1042": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 35m"
+        ]
+    ], 
+    "ZEPPELIN-1043": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 9m"
+        ]
+    ], 
+    "ZEPPELIN-2855": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 3h 36m"
+        ]
+    ], 
+    "ZEPPELIN-2229": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 21h 15m"
+        ]
+    ], 
+    "ZEPPELIN-4214": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 47m"
+        ]
+    ], 
+    "ZEPPELIN-2555": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 13h 15m"
+        ]
+    ], 
+    "ZEPPELIN-2554": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 7h 36m"
+        ]
+    ], 
+    "ZEPPELIN-2221": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 20h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "62d 2h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "378d 9h 28m"
+        ]
+    ], 
+    "ZEPPELIN-428": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 52m"
+        ]
+    ], 
+    "ZEPPELIN-2173": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 16m"
+        ]
+    ], 
+    "ZEPPELIN-749": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 10m"
+        ]
+    ], 
+    "ZEPPELIN-748": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 8h 32m"
+        ]
+    ], 
+    "ZEPPELIN-422": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 13m"
+        ]
+    ], 
+    "ZEPPELIN-423": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 39m"
+        ]
+    ], 
+    "ZEPPELIN-3910": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 23h 45m"
+        ]
+    ], 
+    "ZEPPELIN-426": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 1h 46m"
+        ]
+    ], 
+    "ZEPPELIN-3089": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "104d 13h 27m"
+        ]
+    ], 
+    "ZEPPELIN-3850": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 57m"
+        ]
+    ], 
+    "ZEPPELIN-2148": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 3h 26m"
+        ]
+    ], 
+    "ZEPPELIN-3080": [
+        [
+            "Open", 
+            "Resolved", 
+            "223d 7h 39m"
+        ]
+    ], 
+    "ZEPPELIN-306": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 4h 52m"
+        ]
+    ], 
+    "ZEPPELIN-3858": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 1h 19m"
+        ]
+    ], 
+    "ZEPPELIN-3313": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 11h 4m"
+        ]
+    ], 
+    "ZEPPELIN-3310": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 4h 56m"
+        ]
+    ], 
+    "ZEPPELIN-3311": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 18h 57m"
+        ]
+    ], 
+    "ZEPPELIN-824": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 15m"
+        ]
+    ], 
+    "ZEPPELIN-3255": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 23h 43m"
+        ]
+    ], 
+    "ZEPPELIN-103": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 23h 25m"
+        ]
+    ], 
+    "ZEPPELIN-102": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 23h 29m"
+        ]
+    ], 
+    "ZEPPELIN-101": [
+        [
+            "Open", 
+            "Resolved", 
+            "248d 10h 32m"
+        ]
+    ], 
+    "ZEPPELIN-826": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 14h 22m"
+        ]
+    ], 
+    "ZEPPELIN-717": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 48m"
+        ]
+    ], 
+    "ZEPPELIN-1222": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 49m"
+        ]
+    ], 
+    "ZEPPELIN-3531": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 53m"
+        ]
+    ], 
+    "ZEPPELIN-1224": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 13m"
+        ]
+    ], 
+    "ZEPPELIN-1225": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h 37m"
+        ]
+    ], 
+    "ZEPPELIN-1228": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7m"
+        ]
+    ], 
+    "ZEPPELIN-634": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 37s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "47m 11s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "21s"
+        ]
+    ], 
+    "ZEPPELIN-3538": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 52m"
+        ]
+    ], 
+    "ZEPPELIN-632": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 13h 55m"
+        ]
+    ], 
+    "ZEPPELIN-734": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 28m"
+        ]
+    ], 
+    "ZEPPELIN-1454": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20m"
+        ]
+    ], 
+    "ZEPPELIN-4133": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "154d 1h 3m"
+        ]
+    ], 
+    "ZEPPELIN-4132": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 23h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "135d 32m"
+        ]
+    ], 
+    "ZEPPELIN-1451": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 15h 5m"
+        ]
+    ], 
+    "ZEPPELIN-324": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 13h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1754": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 58m"
+        ]
+    ], 
+    "ZEPPELIN-329": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 22h 28m"
+        ]
+    ], 
+    "ZEPPELIN-328": [
+        [
+            "Open", 
+            "Closed", 
+            "15d 8h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1459": [
+        [
+            "Open", 
+            "Resolved", 
+            "602d 2h 37m"
+        ]
+    ], 
+    "ZEPPELIN-1753": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 14h 1m"
+        ]
+    ], 
+    "ZEPPELIN-2139": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 8h 39m"
+        ]
+    ], 
+    "ZEPPELIN-2033": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 53m"
+        ]
+    ], 
+    "ZEPPELIN-3039": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 37m"
+        ]
+    ], 
+    "ZEPPELIN-2037": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 9h 28m"
+        ]
+    ], 
+    "ZEPPELIN-2131": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 15h 12m"
+        ]
+    ], 
+    "ZEPPELIN-2130": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 17h 25m"
+        ]
+    ], 
+    "ZEPPELIN-3034": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 13m"
+        ]
+    ], 
+    "ZEPPELIN-2135": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 29m"
+        ]
+    ], 
+    "ZEPPELIN-3406": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 35m"
+        ]
+    ], 
+    "ZEPPELIN-3404": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 5h 37m"
+        ]
+    ], 
+    "ZEPPELIN-3405": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 16h 34m"
+        ]
+    ], 
+    "ZEPPELIN-3400": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 50m"
+        ]
+    ], 
+    "ZEPPELIN-3401": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 12h 27m"
+        ]
+    ], 
+    "ZEPPELIN-1094": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1091": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 12h 14m"
+        ]
+    ], 
+    "ZEPPELIN-1090": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 14m"
+        ]
+    ], 
+    "ZEPPELIN-3749": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 13h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 17h 33m"
+        ]
+    ], 
+    "ZEPPELIN-1316": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 35m"
+        ]
+    ], 
+    "ZEPPELIN-3625": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "187d 3h 45m"
+        ]
+    ], 
+    "ZEPPELIN-1311": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 43m"
+        ]
+    ], 
+    "ZEPPELIN-1312": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1313": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 1h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 15h 49m"
+        ]
+    ], 
+    "ZEPPELIN-1255": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 12h 53m"
+        ]
+    ], 
+    "ZEPPELIN-886": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 19h 6m"
+        ]
+    ], 
+    "ZEPPELIN-258": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 41m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6d 15h 36m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "166d 5h 22m"
+        ]
+    ], 
+    "ZEPPELIN-2294": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 6m"
+        ]
+    ], 
+    "ZEPPELIN-2291": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 6m"
+        ]
+    ], 
+    "ZEPPELIN-926": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 23h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1918": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 41m"
+        ]
+    ], 
+    "ZEPPELIN-2684": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 44m"
+        ]
+    ], 
+    "ZEPPELIN-4005": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 8h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "210d 18h 27m"
+        ]
+    ], 
+    "ZEPPELIN-4004": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 23h 28m"
+        ]
+    ], 
+    "ZEPPELIN-1910": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 3m"
+        ]
+    ], 
+    "ZEPPELIN-22": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 29m"
+        ]
+    ], 
+    "ZEPPELIN-2722": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 34m"
+        ]
+    ], 
+    "ZEPPELIN-20": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 14m"
+        ]
+    ], 
+    "ZEPPELIN-2045": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h 49m"
+        ]
+    ], 
+    "ZEPPELIN-1851": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 23h 54m"
+        ]
+    ], 
+    "ZEPPELIN-2046": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 10m"
+        ]
+    ], 
+    "ZEPPELIN-1855": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 10m"
+        ]
+    ], 
+    "ZEPPELIN-1854": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 11m"
+        ]
+    ], 
+    "ZEPPELIN-2049": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 5h 22m"
+        ]
+    ], 
+    "ZEPPELIN-2048": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 17h 19m"
+        ]
+    ], 
+    "ZEPPELIN-3105": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 5h 7m"
+        ]
+    ], 
+    "ZEPPELIN-1108": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 32m"
+        ]
+    ], 
+    "ZEPPELIN-2502": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 3h 23m"
+        ]
+    ], 
+    "ZEPPELIN-2663": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 30m"
+        ]
+    ], 
+    "ZEPPELIN-818": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1001": [
+        [
+            "Open", 
+            "Resolved", 
+            "110d 13h 29m"
+        ]
+    ], 
+    "ZEPPELIN-516": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 57m"
+        ]
+    ], 
+    "ZEPPELIN-817": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 6h 46m"
+        ]
+    ], 
+    "ZEPPELIN-958": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 19m"
+        ]
+    ], 
+    "ZEPPELIN-959": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 44m"
+        ]
+    ], 
+    "ZEPPELIN-954": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11d 18h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 21h 39m"
+        ]
+    ], 
+    "ZEPPELIN-956": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 11m"
+        ]
+    ], 
+    "ZEPPELIN-957": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 38m"
+        ]
+    ], 
+    "ZEPPELIN-950": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 4h 43m"
+        ]
+    ], 
+    "ZEPPELIN-951": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 8h 49m"
+        ]
+    ], 
+    "ZEPPELIN-953": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 53m"
+        ]
+    ], 
+    "ZEPPELIN-1965": [
+        [
+            "Open", 
+            "Resolved", 
+            "79d 8h 49m"
+        ]
+    ], 
+    "ZEPPELIN-2590": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 8h 26m"
+        ]
+    ], 
+    "ZEPPELIN-2348": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 41m"
+        ]
+    ], 
+    "ZEPPELIN-3818": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 1h 4m"
+        ]
+    ], 
+    "ZEPPELIN-176": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 54m"
+        ]
+    ], 
+    "ZEPPELIN-3631": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 18h 48m"
+        ]
+    ], 
+    "ZEPPELIN-3815": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 18h 41m"
+        ]
+    ], 
+    "ZEPPELIN-1679": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 56m"
+        ]
+    ], 
+    "ZEPPELIN-1674": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 9h 41m"
+        ]
+    ], 
+    "ZEPPELIN-1672": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 46m"
+        ]
+    ], 
+    "ZEPPELIN-3217": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 9m"
+        ]
+    ], 
+    "ZEPPELIN-1175": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 23h 20m"
+        ]
+    ], 
+    "ZEPPELIN-3215": [
+        [
+            "Open", 
+            "Resolved", 
+            "147d 22h 15m"
+        ]
+    ], 
+    "ZEPPELIN-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 10h 20m"
+        ]
+    ], 
+    "ZEPPELIN-1078": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 59m"
+        ]
+    ], 
+    "ZEPPELIN-1074": [
+        [
+            "Open", 
+            "Resolved", 
+            "185d 5h 18m"
+        ]
+    ], 
+    "ZEPPELIN-1077": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 9h 29m"
+        ]
+    ], 
+    "ZEPPELIN-1076": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 37m"
+        ]
+    ], 
+    "ZEPPELIN-1178": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 10h 29m"
+        ]
+    ], 
+    "ZEPPELIN-527": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 17m"
+        ]
+    ], 
+    "ZEPPELIN-1072": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 12m"
+        ]
+    ], 
+    "ZEPPELIN-2469": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 15h 19m"
+        ]
+    ], 
+    "ZEPPELIN-2468": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 14m"
+        ]
+    ], 
+    "ZEPPELIN-2467": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 36s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 49m"
+        ]
+    ], 
+    "ZEPPELIN-2463": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 9h 18m"
+        ]
+    ], 
+    "ZEPPELIN-686": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 12h 43m"
+        ]
+    ], 
+    "ZEPPELIN-2461": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 9m"
+        ]
+    ], 
+    "ZEPPELIN-4028": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 8h 24m"
+        ]
+    ], 
+    "ZEPPELIN-671": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 8h 43m"
+        ]
+    ], 
+    "ZEPPELIN-779": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 16h 39m"
+        ]
+    ], 
+    "ZEPPELIN-523": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 8h 41m"
+        ]
+    ], 
+    "ZEPPELIN-173": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 4h 41m"
+        ]
+    ], 
+    "ZEPPELIN-770": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 21m"
+        ]
+    ], 
+    "ZEPPELIN-775": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 30m"
+        ]
+    ], 
+    "ZEPPELIN-776": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 51m"
+        ]
+    ], 
+    "ZEPPELIN-1710": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 16h 3m"
+        ]
+    ], 
+    "ZEPPELIN-475": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 43m"
+        ]
+    ], 
+    "ZEPPELIN-473": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 13h 32m"
+        ]
+    ], 
+    "ZEPPELIN-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 17h 28m"
+        ]
+    ], 
+    "ZEPPELIN-1716": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 6m"
+        ]
+    ], 
+    "ZEPPELIN-98": [
+        [
+            "Open", 
+            "Closed", 
+            "37d 10h 49m"
+        ]
+    ], 
+    "ZEPPELIN-1718": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 16h 55m"
+        ]
+    ], 
+    "ZEPPELIN-3928": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 21h 6m"
+        ]
+    ], 
+    "ZEPPELIN-478": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 8h 24m"
+        ]
+    ], 
+    "ZEPPELIN-3886": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 12h 17m"
+        ]
+    ], 
+    "ZEPPELIN-3442": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 57m"
+        ]
+    ], 
+    "ZEPPELIN-3443": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 12h 43m"
+        ]
+    ], 
+    "ZEPPELIN-3441": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 35m"
+        ]
+    ], 
+    "ZEPPELIN-1480": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 21h 31m"
+        ]
+    ], 
+    "ZEPPELIN-3284": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 30m"
+        ]
+    ], 
+    "ZEPPELIN-3285": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 9h 10m"
+        ]
+    ], 
+    "ZEPPELIN-3286": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 43m"
+        ]
+    ], 
+    "ZEPPELIN-595": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 22h 11m"
+        ]
+    ], 
+    "ZEPPELIN-2091": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 13h 41m"
+        ]
+    ], 
+    "ZEPPELIN-2096": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 2h 2m"
+        ]
+    ], 
+    "ZEPPELIN-591": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 50m"
+        ]
+    ], 
+    "ZEPPELIN-2094": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 2h 38m"
+        ]
+    ], 
+    "ZEPPELIN-2282": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 45m"
+        ]
+    ], 
+    "ZEPPELIN-1359": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 57m"
+        ]
+    ], 
+    "ZEPPELIN-3668": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "175d 1h 51m"
+        ]
+    ], 
+    "ZEPPELIN-1212": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 17m"
+        ]
+    ], 
+    "ZEPPELIN-1514": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 8m"
+        ]
+    ], 
+    "ZEPPELIN-358": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 17h"
+        ]
+    ], 
+    "ZEPPELIN-1627": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 1s"
+        ]
+    ], 
+    "ZEPPELIN-1562": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 17h 58m"
+        ]
+    ], 
+    "ZEPPELIN-1561": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 38m"
+        ]
+    ], 
+    "ZEPPELIN-1560": [
+        [
+            "Open", 
+            "Resolved", 
+            "87d 15h 33m"
+        ]
+    ], 
+    "ZEPPELIN-4164": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 15m"
+        ]
+    ], 
+    "ZEPPELIN-4166": [
+        [
+            "Open", 
+            "Resolved", 
+            "119d 23h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 15h 36m"
+        ]
+    ], 
+    "ZEPPELIN-351": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 17h 43m"
+        ]
+    ], 
+    "ZEPPELIN-4160": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 15h 50m"
+        ]
+    ], 
+    "ZEPPELIN-2760": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 42m"
+        ]
+    ], 
+    "ZEPPELIN-1767": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 16m"
+        ]
+    ], 
+    "ZEPPELIN-1812": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 13h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "ZEPPELIN-1763": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 36m"
+        ]
+    ], 
+    "ZEPPELIN-1810": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 3h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 14h 44m"
+        ]
+    ], 
+    "ZEPPELIN-2000": [
+        [
+            "Open", 
+            "Closed", 
+            "20h 2m"
+        ]
+    ], 
+    "ZEPPELIN-1769": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 41m"
+        ]
+    ], 
+    "ZEPPELIN-2006": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h"
+        ]
+    ], 
+    "ZEPPELIN-2167": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 28m"
+        ]
+    ], 
+    "ZEPPELIN-2164": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 56m"
+        ]
+    ], 
+    "ZEPPELIN-797": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 10h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 10h 41m"
+        ]
+    ], 
+    "ZEPPELIN-3063": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 15m"
+        ]
+    ], 
+    "ZEPPELIN-283": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 12m"
+        ]
+    ], 
+    "ZEPPELIN-285": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 2h 3m"
+        ]
+    ], 
+    "ZEPPELIN-2168": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 45m"
+        ]
+    ], 
+    "ZEPPELIN-287": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19h"
+        ]
+    ], 
+    "ZEPPELIN-1747": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10m"
+        ]
+    ], 
+    "ZEPPELIN-2323": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 7h 30m"
+        ]
+    ], 
+    "ZEPPELIN-1578": [
+        [
+            "Open", 
+            "Resolved", 
+            "100d 17h 29m"
+        ]
+    ], 
+    "ZEPPELIN-3717": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 19m"
+        ]
+    ], 
+    "ZEPPELIN-3715": [
+        [
+            "Open", 
+            "Closed", 
+            "65d 1h 57m"
+        ]
+    ], 
+    "ZEPPELIN-1208": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 11m"
+        ]
+    ], 
+    "ZEPPELIN-859": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 42m"
+        ]
+    ], 
+    "ZEPPELIN-1327": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 21h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "7d 5h 42m"
+        ]
+    ], 
+    "ZEPPELIN-1326": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 18h 56m"
+        ]
+    ], 
+    "ZEPPELIN-1902": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 20h 4m"
+        ]
+    ], 
+    "ZEPPELIN-1907": [
+        [
+            "Open", 
+            "Resolved", 
+            "172d 17h 45m"
+        ]
+    ], 
+    "ZEPPELIN-2919": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 55m"
+        ]
+    ], 
+    "ZEPPELIN-508": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 8s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "23h 21m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 17h 20m"
+        ]
+    ], 
+    "ZEPPELIN-850": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 17h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 5h 25m"
+        ]
+    ], 
+    "ZEPPELIN-853": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 10m"
+        ]
+    ], 
+    "ZEPPELIN-1906": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 29m"
+        ]
+    ], 
+    "ZEPPELIN-1328": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 19h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 5h 44m"
+        ]
+    ], 
+    "ZEPPELIN-500": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 21h 31m"
+        ]
+    ], 
+    "ZEPPELIN-377": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 7m"
+        ]
+    ], 
+    "ZEPPELIN-1287": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 21h 10m"
+        ]
+    ], 
+    "ZEPPELIN-1284": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 6h 17m"
+        ]
+    ], 
+    "ZEPPELIN-698": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 7h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "104d 16h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13h 43m"
+        ]
+    ], 
+    "ZEPPELIN-3553": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 20h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 16h 37m"
+        ]
+    ], 
+    "ZEPPELIN-2302": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 2h 47m"
+        ]
+    ], 
+    "ZEPPELIN-1889": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 16h 41m"
+        ]
+    ], 
+    "ZEPPELIN-1961": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 16h 54m"
+        ]
+    ], 
+    "ZEPPELIN-4195": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 37m"
+        ]
+    ], 
+    "ZEPPELIN-2713": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 8m"
+        ]
+    ], 
+    "ZEPPELIN-4196": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 39m"
+        ]
+    ], 
+    "ZEPPELIN-1880": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 8h 47m"
+        ]
+    ], 
+    "ZEPPELIN-79": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 16h 55m"
+        ]
+    ], 
+    "ZEPPELIN-1969": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 31m"
+        ]
+    ], 
+    "ZEPPELIN-1883": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 19h 33m"
+        ]
+    ], 
+    "ZEPPELIN-1884": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 34m"
+        ]
+    ], 
+    "ZEPPELIN-3788": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 53m"
+        ]
+    ], 
+    "ZEPPELIN-1887": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 31m"
+        ]
+    ], 
+    "ZEPPELIN-2434": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 43m"
+        ]
+    ], 
+    "ZEPPELIN-1427": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 16h 55m"
+        ]
+    ], 
+    "ZEPPELIN-2530": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 23m"
+        ]
+    ], 
+    "ZEPPELIN-223": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 19h 32m"
+        ]
+    ], 
+    "ZEPPELIN-1138": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 29m"
+        ]
+    ], 
+    "ZEPPELIN-1130": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 21m"
+        ]
+    ], 
+    "ZEPPELIN-1131": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 17m"
+        ]
+    ], 
+    "ZEPPELIN-1136": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 39m"
+        ]
+    ], 
+    "ZEPPELIN-1031": [
+        [
+            "Open", 
+            "Closed", 
+            "182d 9h 25m"
+        ]
+    ], 
+    "ZEPPELIN-1033": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 15m"
+        ]
+    ], 
+    "ZEPPELIN-828": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 22h 16m"
+        ]
+    ], 
+    "ZEPPELIN-1420": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 10h 46m"
+        ]
+    ], 
+    "ZEPPELIN-344": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 45m"
+        ]
+    ], 
+    "ZEPPELIN-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 16m"
+        ]
+    ], 
+    "ZEPPELIN-825": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 29m"
+        ]
+    ], 
+    "ZEPPELIN-2861": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 20m"
+        ]
+    ], 
+    "ZEPPELIN-4224": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 30m"
+        ]
+    ], 
+    "ZEPPELIN-146": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 58m"
+        ]
+    ], 
+    "ZEPPELIN-4220": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 22m"
+        ]
+    ], 
+    "ZEPPELIN-2237": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 11h 4m"
+        ]
+    ], 
+    "ZEPPELIN-2234": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 8h 57m"
+        ]
+    ], 
+    "ZEPPELIN-2544": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 47m"
+        ]
+    ], 
+    "ZEPPELIN-1785": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 21m"
+        ]
+    ], 
+    "ZEPPELIN-1071": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 15m"
+        ]
+    ], 
+    "ZEPPELIN-431": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 4h 53m"
+        ]
+    ], 
+    "ZEPPELIN-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 57m"
+        ]
+    ], 
+    "ZEPPELIN-436": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 28m"
+        ]
+    ], 
+    "ZEPPELIN-788": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 3h 20m"
+        ]
+    ], 
+    "ZEPPELIN-3846": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 22m"
+        ]
+    ], 
+    "ZEPPELIN-3847": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 5h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 4h 20m"
+        ]
+    ], 
+    "ZEPPELIN-1176": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16h 7m"
+        ]
+    ], 
+    "ZEPPELIN-3849": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 3m"
+        ]
+    ], 
+    "ZEPPELIN-3325": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "36d 18h 11m"
+        ]
+    ], 
+    "ZEPPELIN-3324": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22d 20h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1149": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 11h 22m"
+        ]
+    ], 
+    "ZEPPELIN-3322": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 14m"
+        ]
+    ], 
+    "ZEPPELIN-1622": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 16h 49m"
+        ]
+    ], 
+    "ZEPPELIN-2062": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 31m"
+        ]
+    ], 
+    "ZEPPELIN-1145": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1144": [
+        [
+            "Open", 
+            "In Progress", 
+            "35d 7h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "34d 10h 19m"
+        ]
+    ], 
+    "ZEPPELIN-1146": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 44m"
+        ]
+    ], 
+    "ZEPPELIN-3240": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 54m"
+        ]
+    ], 
+    "ZEPPELIN-3241": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 53m"
+        ]
+    ], 
+    "ZEPPELIN-3242": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 13h 55m"
+        ]
+    ], 
+    "ZEPPELIN-3243": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 14h 21m"
+        ]
+    ], 
+    "ZEPPELIN-136": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 9h 48m"
+        ]
+    ], 
+    "ZEPPELIN-134": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 2h 43m"
+        ]
+    ], 
+    "ZEPPELIN-135": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 10h 14m"
+        ]
+    ], 
+    "ZEPPELIN-649": [
+        [
+            "Open", 
+            "Resolved", 
+            "73d 20h 14m"
+        ]
+    ], 
+    "ZEPPELIN-319": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 15h 15m"
+        ]
+    ], 
+    "ZEPPELIN-314": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 8h"
+        ]
+    ], 
+    "ZEPPELIN-315": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 22h 42m"
+        ]
+    ], 
+    "ZEPPELIN-312": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 7m"
+        ]
+    ], 
+    "ZEPPELIN-725": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 8m"
+        ]
+    ], 
+    "ZEPPELIN-723": [
+        [
+            "Open", 
+            "Resolved", 
+            "64d 2h 40m"
+        ]
+    ], 
+    "ZEPPELIN-1446": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 24m"
+        ]
+    ], 
+    "ZEPPELIN-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 11h 27m"
+        ]
+    ], 
+    "ZEPPELIN-486": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 9h"
+        ]
+    ], 
+    "ZEPPELIN-1723": [
+        [
+            "Open", 
+            "Closed", 
+            "42d 2h 52m"
+        ]
+    ], 
+    "ZEPPELIN-485": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 44m"
+        ]
+    ], 
+    "ZEPPELIN-1725": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 55m"
+        ]
+    ], 
+    "ZEPPELIN-1724": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 10m"
+        ]
+    ], 
+    "ZEPPELIN-729": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 23h 17m"
+        ]
+    ], 
+    "ZEPPELIN-728": [
+        [
+            "Open", 
+            "In Progress", 
+            "162d 11h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 15h 52m"
+        ]
+    ], 
+    "ZEPPELIN-3183": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h"
+        ]
+    ], 
+    "ZEPPELIN-3029": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 53m"
+        ]
+    ], 
+    "ZEPPELIN-3180": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 17h 5m"
+        ]
+    ], 
+    "ZEPPELIN-2122": [
+        [
+            "Open", 
+            "Resolved", 
+            "98d 3h 11m"
+        ]
+    ], 
+    "ZEPPELIN-3022": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 41m"
+        ]
+    ], 
+    "ZEPPELIN-3025": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 37m"
+        ]
+    ], 
+    "ZEPPELIN-2124": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 11m"
+        ]
+    ], 
+    "ZEPPELIN-3432": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 9m"
+        ]
+    ], 
+    "ZEPPELIN-3431": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 20h 32m"
+        ]
+    ], 
+    "ZEPPELIN-3430": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 18h 41m"
+        ]
+    ], 
+    "ZEPPELIN-3435": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 10m"
+        ]
+    ], 
+    "ZEPPELIN-1368": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 4h 24m"
+        ]
+    ], 
+    "ZEPPELIN-1082": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 20m"
+        ]
+    ], 
+    "ZEPPELIN-3618": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 15h 10m"
+        ]
+    ], 
+    "ZEPPELIN-898": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 37m"
+        ]
+    ], 
+    "ZEPPELIN-2893": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 12h 47m"
+        ]
+    ], 
+    "ZEPPELIN-897": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 54m"
+        ]
+    ], 
+    "ZEPPELIN-896": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 57m"
+        ]
+    ], 
+    "ZEPPELIN-2896": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 38m"
+        ]
+    ], 
+    "ZEPPELIN-3616": [
+        [
+            "Open", 
+            "Resolved", 
+            "120d 21h 37m"
+        ]
+    ], 
+    "ZEPPELIN-2894": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 13h 42m"
+        ]
+    ], 
+    "ZEPPELIN-1366": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 26m"
+        ]
+    ], 
+    "ZEPPELIN-542": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 22h 24m"
+        ]
+    ], 
+    "ZEPPELIN-541": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 31m"
+        ]
+    ], 
+    "ZEPPELIN-547": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 4m"
+        ]
+    ], 
+    "ZEPPELIN-1240": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 14h 55m"
+        ]
+    ], 
+    "ZEPPELIN-544": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 5m"
+        ]
+    ], 
+    "ZEPPELIN-4014": [
+        [
+            "Open", 
+            "Resolved", 
+            "202d 6h 30m"
+        ]
+    ], 
+    "ZEPPELIN-263": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 9m"
+        ]
+    ], 
+    "ZEPPELIN-4011": [
+        [
+            "Open", 
+            "In Progress", 
+            "37s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 11h 37m"
+        ]
+    ], 
+    "ZEPPELIN-4012": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 9h 32m"
+        ]
+    ], 
+    "ZEPPELIN-2758": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 19h 30m"
+        ]
+    ], 
+    "ZEPPELIN-1437": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 12h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "27d 8h 25m"
+        ]
+    ], 
+    "ZEPPELIN-1924": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "ZEPPELIN-1848": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 5h 51m"
+        ]
+    ], 
+    "ZEPPELIN-4150": [
+        [
+            "Open", 
+            "Resolved", 
+            "95d 6h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 1h 17m"
+        ]
+    ], 
+    "ZEPPELIN-1921": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 20h 59m"
+        ]
+    ], 
+    "ZEPPELIN-1920": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 3m"
+        ]
+    ], 
+    "ZEPPELIN-792": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 2h 10m"
+        ]
+    ], 
+    "ZEPPELIN-2699": [
+        [
+            "Open", 
+            "In Progress", 
+            "15h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23d 3h 39m"
+        ]
+    ], 
+    "ZEPPELIN-1847": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 17h 14m"
+        ]
+    ], 
+    "ZEPPELIN-4159": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 12h 18m"
+        ]
+    ], 
+    "ZEPPELIN-1438": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 20h 28m"
+        ]
+    ], 
+    "ZEPPELIN-1929": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 7h 22m"
+        ]
+    ], 
+    "ZEPPELIN-1518": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 23m"
+        ]
+    ], 
+    "ZEPPELIN-3115": [
+        [
+            "Open", 
+            "Resolved", 
+            "108d 9h 12m"
+        ]
+    ], 
+    "ZEPPELIN-298": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 28m"
+        ]
+    ], 
+    "ZEPPELIN-480": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 18h 42m"
+        ]
+    ], 
+    "ZEPPELIN-2199": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 42m"
+        ]
+    ], 
+    "ZEPPELIN-2197": [
+        [
+            "Open", 
+            "Resolved", 
+            "240d 19h 45m"
+        ]
+    ], 
+    "ZEPPELIN-3506": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 32m"
+        ]
+    ], 
+    "ZEPPELIN-3119": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 42m"
+        ]
+    ], 
+    "ZEPPELIN-2191": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 21h 44m"
+        ]
+    ], 
+    "ZEPPELIN-2155": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 11m"
+        ]
+    ], 
+    "ZEPPELIN-2672": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 17h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 5h 35m"
+        ]
+    ], 
+    "ZEPPELIN-1519": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 11m"
+        ]
+    ], 
+    "ZEPPELIN-2827": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 23m"
+        ]
+    ], 
+    "ZEPPELIN-2825": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 16m"
+        ]
+    ], 
+    "ZEPPELIN-2824": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 12h 42m"
+        ]
+    ], 
+    "ZEPPELIN-2823": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 22h 2m"
+        ]
+    ], 
+    "ZEPPELIN-2821": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 20h 7m"
+        ]
+    ], 
+    "ZEPPELIN-1391": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h 52m"
+        ]
+    ], 
+    "ZEPPELIN-2944": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 19m"
+        ]
+    ], 
+    "ZEPPELIN-863": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 56m"
+        ]
+    ], 
+    "ZEPPELIN-866": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 54m"
+        ]
+    ], 
+    "ZEPPELIN-2943": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 24m"
+        ]
+    ], 
+    "ZEPPELIN-2584": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h 44m"
+        ]
+    ], 
+    "ZEPPELIN-946": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 13h 27m"
+        ]
+    ], 
+    "ZEPPELIN-943": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 44m"
+        ]
+    ], 
+    "ZEPPELIN-4305": [
+        [
+            "In Progress", 
+            "Open", 
+            "9s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "25m 2s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 17h 6m"
+        ]
+    ], 
+    "ZEPPELIN-941": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 31m"
+        ]
+    ], 
+    "ZEPPELIN-4307": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 5h 11m"
+        ]
+    ], 
+    "ZEPPELIN-1843": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 18h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "26d 2h 3m"
+        ]
+    ], 
+    "ZEPPELIN-83": [
+        [
+            "Open", 
+            "Resolved", 
+            "99d 16h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "ZEPPELIN-2279": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 11h 8m"
+        ]
+    ], 
+    "ZEPPELIN-2377": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 17h 36m"
+        ]
+    ], 
+    "ZEPPELIN-3189": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 38s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 46m"
+        ]
+    ], 
+    "ZEPPELIN-2375": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 7h 57m"
+        ]
+    ], 
+    "ZEPPELIN-2409": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 41m"
+        ]
+    ], 
+    "ZEPPELIN-2408": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 1h 6m"
+        ]
+    ], 
+    "ZEPPELIN-2407": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 22m"
+        ]
+    ], 
+    "ZEPPELIN-1668": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 53m"
+        ]
+    ], 
+    "ZEPPELIN-1421": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 48m"
+        ]
+    ], 
+    "ZEPPELIN-1452": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 6m"
+        ]
+    ], 
+    "ZEPPELIN-1664": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 6m"
+        ]
+    ], 
+    "ZEPPELIN-1665": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 4h 43m"
+        ]
+    ], 
+    "ZEPPELIN-1666": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 19h 50m"
+        ]
+    ], 
+    "ZEPPELIN-1100": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 3m"
+        ]
+    ], 
+    "ZEPPELIN-3202": [
+        [
+            "Open", 
+            "In Progress", 
+            "54m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 14h 46m"
+        ]
+    ], 
+    "ZEPPELIN-1102": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 22h 50m"
+        ]
+    ], 
+    "ZEPPELIN-3204": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 20h 54m"
+        ]
+    ], 
+    "ZEPPELIN-1104": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17h 30m"
+        ]
+    ], 
+    "ZEPPELIN-1107": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 47m"
+        ]
+    ], 
+    "ZEPPELIN-3207": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 17h 12m"
+        ]
+    ], 
+    "ZEPPELIN-1109": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 7h 14m"
+        ]
+    ], 
+    "ZEPPELIN-3209": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 7h 9m"
+        ]
+    ], 
+    "ZEPPELIN-1062": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 8h 27m"
+        ]
+    ], 
+    "ZEPPELIN-1060": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 11m"
+        ]
+    ], 
+    "ZEPPELIN-420": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 15h 26m"
+        ]
+    ], 
+    "ZEPPELIN-4272": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 22h 25m"
+        ]
+    ], 
+    "ZEPPELIN-421": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 16h 56m"
+        ]
+    ], 
+    "ZEPPELIN-2471": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 4h 12m"
+        ]
+    ], 
+    "ZEPPELIN-2473": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 10h 16m"
+        ]
+    ], 
+    "ZEPPELIN-3839": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 4m"
+        ]
+    ], 
+    "ZEPPELIN-769": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 5h 30m"
+        ]
+    ], 
+    "ZEPPELIN-768": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 40m"
+        ]
+    ], 
+    "IVY-94": [
+        [
+            "Open", 
+            "Closed", 
+            "397d 19h 47m"
+        ]
+    ], 
+    "ZEPPELIN-424": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 18m"
+        ]
+    ], 
+    "ZEPPELIN-767": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 57m"
+        ]
+    ], 
+    "ZEPPELIN-2873": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 30m"
+        ]
+    ], 
+    "ZEPPELIN-765": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 37m"
+        ]
+    ], 
+    "ZEPPELIN-441": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 32m"
+        ]
+    ], 
+    "ZEPPELIN-196": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 11m"
+        ]
+    ], 
+    "ZEPPELIN-449": [
+        [
+            "Open", 
+            "Resolved", 
+            "355d 20h 48m"
+        ]
+    ], 
+    "ZEPPELIN-2357": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 5m"
+        ]
+    ], 
+    "ZEPPELIN-2860": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 1h 59m"
+        ]
+    ], 
+    "ZEPPELIN-3475": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 52m"
+        ]
+    ], 
+    "ZEPPELIN-1615": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 15m"
+        ]
+    ], 
+    "ZEPPELIN-1613": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 16h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1612": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 58m"
+        ]
+    ], 
+    "ZEPPELIN-3273": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 12m"
+        ]
+    ], 
+    "ZEPPELIN-165": [
+        [
+            "Open", 
+            "Resolved", 
+            "107d 13h 45m"
+        ]
+    ], 
+    "ZEPPELIN-164": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 17h 8m"
+        ]
+    ], 
+    "ZEPPELIN-3278": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 3m"
+        ]
+    ], 
+    "ZEPPELIN-3554": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 30m"
+        ]
+    ], 
+    "ZEPPELIN-3555": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "210d 22h 15m"
+        ]
+    ], 
+    "ZEPPELIN-2995": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 10h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1209": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 9h 8m"
+        ]
+    ], 
+    "ZEPPELIN-581": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 22h 21m"
+        ]
+    ], 
+    "ZEPPELIN-2990": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 35m"
+        ]
+    ], 
+    "ZEPPELIN-992": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 3h 27m"
+        ]
+    ], 
+    "ZEPPELIN-3496": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 39m"
+        ]
+    ], 
+    "ZEPPELIN-1206": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 10h 9m"
+        ]
+    ], 
+    "ZEPPELIN-3490": [
+        [
+            "Open", 
+            "In Progress", 
+            "18d 4h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25d 21h 12m"
+        ]
+    ], 
+    "ZEPPELIN-2999": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 14h 12m"
+        ]
+    ], 
+    "ZEPPELIN-2998": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 43m"
+        ]
+    ], 
+    "ZEPPELIN-4051": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 27m"
+        ]
+    ], 
+    "ZEPPELIN-4054": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "200d 1h 14m"
+        ]
+    ], 
+    "ZEPPELIN-1576": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 6h 34m"
+        ]
+    ], 
+    "ZEPPELIN-2382": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 3h 8m"
+        ]
+    ], 
+    "ZEPPELIN-1473": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 45m"
+        ]
+    ], 
+    "ZEPPELIN-349": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 45m"
+        ]
+    ], 
+    "ZEPPELIN-1968": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 13h 59m"
+        ]
+    ], 
+    "ZEPPELIN-1776": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 18m"
+        ]
+    ], 
+    "ZEPPELIN-1801": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 10h 44m"
+        ]
+    ], 
+    "ZEPPELIN-1818": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 9h 20m"
+        ]
+    ], 
+    "ZEPPELIN-1808": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 11h 10m"
+        ]
+    ], 
+    "ZEPPELIN-2011": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 12m"
+        ]
+    ], 
+    "ZEPPELIN-3986": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 15h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 5h 59m"
+        ]
+    ], 
+    "ZEPPELIN-2014": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 46m"
+        ]
+    ], 
+    "ZEPPELIN-299": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 8h 50m"
+        ]
+    ], 
+    "ZEPPELIN-2150": [
+        [
+            "Open", 
+            "Closed", 
+            "45d 6h 19m"
+        ]
+    ], 
+    "ZEPPELIN-3014": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 8h 8m"
+        ]
+    ], 
+    "ZEPPELIN-3017": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 13h 19m"
+        ]
+    ], 
+    "ZEPPELIN-293": [
+        [
+            "Open", 
+            "Closed", 
+            "70d 19h 18m"
+        ]
+    ], 
+    "ZEPPELIN-297": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 24m"
+        ]
+    ], 
+    "ZEPPELIN-1983": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 55m"
+        ]
+    ], 
+    "ZEPPELIN-1982": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 1h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1985": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h 14m"
+        ]
+    ], 
+    "ZEPPELIN-1984": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1989": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "ZEPPELIN-1365": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 16h 44m"
+        ]
+    ], 
+    "ZEPPELIN-3721": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 21h 57m"
+        ]
+    ], 
+    "ZEPPELIN-3726": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 24m"
+        ]
+    ], 
+    "ZEPPELIN-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 19h 35m"
+        ]
+    ], 
+    "ZEPPELIN-1334": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 7h 53m"
+        ]
+    ], 
+    "ZEPPELIN-1335": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 55m"
+        ]
+    ], 
+    "ZEPPELIN-3838": [
+        [
+            "Open", 
+            "Resolved", 
+            "90d 12h 44m"
+        ]
+    ], 
+    "ZEPPELIN-1333": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 52m"
+        ]
+    ], 
+    "ZEPPELIN-97": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 18h 43m"
+        ]
+    ], 
+    "ZEPPELIN-2900": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 48m"
+        ]
+    ], 
+    "ZEPPELIN-2903": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 31m"
+        ]
+    ], 
+    "ZEPPELIN-536": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 14h 52m"
+        ]
+    ], 
+    "ZEPPELIN-534": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 8h 54m"
+        ]
+    ], 
+    "ZEPPELIN-535": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 56m"
+        ]
+    ], 
+    "ZEPPELIN-1501": [
+        [
+            "Open", 
+            "Resolved", 
+            "290d 35m"
+        ]
+    ], 
+    "ZEPPELIN-1500": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 22h 5m"
+        ]
+    ], 
+    "ZEPPELIN-905": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 1h 35m"
+        ]
+    ], 
+    "ZEPPELIN-1502": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 17m"
+        ]
+    ], 
+    "ZEPPELIN-1974": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 10h 10m"
+        ]
+    ], 
+    "ZEPPELIN-2336": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 52m"
+        ]
+    ], 
+    "ZEPPELIN-1976": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1977": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 6m"
+        ]
+    ], 
+    "ZEPPELIN-1509": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 2h 44m"
+        ]
+    ], 
+    "ZEPPELIN-1244": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 10m"
+        ]
+    ], 
+    "ZEPPELIN-1972": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 29s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25d 21h 50m"
+        ]
+    ], 
+    "ZEPPELIN-2330": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 50m"
+        ]
+    ], 
+    "ZEPPELIN-1727": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 23m"
+        ]
+    ], 
+    "ZEPPELIN-1874": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 43m"
+        ]
+    ], 
+    "ZEPPELIN-3794": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 27m"
+        ]
+    ], 
+    "ZEPPELIN-46": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 19h 36m"
+        ]
+    ], 
+    "ZEPPELIN-41": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 9h 50m"
+        ]
+    ], 
+    "ZEPPELIN-1242": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 41m"
+        ]
+    ], 
+    "ZEPPELIN-3655": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 13h 11m"
+        ]
+    ], 
+    "ZEPPELIN-49": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 40m"
+        ]
+    ], 
+    "ZEPPELIN-3123": [
+        [
+            "Open", 
+            "Resolved", 
+            "187d 16h 46m"
+        ]
+    ], 
+    "ZEPPELIN-1970": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 22m"
+        ]
+    ], 
+    "ZEPPELIN-2520": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 49m"
+        ]
+    ], 
+    "ZEPPELIN-2521": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 35m"
+        ]
+    ], 
+    "ZEPPELIN-1534": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 10h 49m"
+        ]
+    ], 
+    "ZEPPELIN-1": [
+        [
+            "Open", 
+            "Closed", 
+            "122d 1h 53m"
+        ]
+    ], 
+    "ZEPPELIN-2": [
+        [
+            "Open", 
+            "Closed", 
+            "1h"
+        ]
+    ], 
+    "ZEPPELIN-3": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 3h 32m"
+        ]
+    ], 
+    "ZEPPELIN-1409": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 39m"
+        ]
+    ], 
+    "ZEPPELIN-8": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 14h 28m"
+        ]
+    ], 
+    "ZEPPELIN-2706": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 21h 24m"
+        ]
+    ], 
+    "ZEPPELIN-1020": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 42m"
+        ]
+    ], 
+    "ZEPPELIN-2979": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 31m"
+        ]
+    ], 
+    "ZEPPELIN-1356": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 22m"
+        ]
+    ], 
+    "ZEPPELIN-2707": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 16m"
+        ]
+    ], 
+    "ZEPPELIN-837": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 10h 39m"
+        ]
+    ], 
+    "ZEPPELIN-836": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 9h 58m"
+        ]
+    ], 
+    "ZEPPELIN-4232": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 11m"
+        ]
+    ], 
+    "ZEPPELIN-834": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 23h 55m"
+        ]
+    ], 
+    "ZEPPELIN-4234": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 18m"
+        ]
+    ], 
+    "ZEPPELIN-2970": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 7m"
+        ]
+    ], 
+    "ZEPPELIN-1384": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 33m"
+        ]
+    ], 
+    "ZEPPELIN-4335": [
+        [
+            "Open", 
+            "In Progress", 
+            "15m 22s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 15h 41m"
+        ]
+    ], 
+    "ZEPPELIN-1357": [
+        [
+            "Open", 
+            "Resolved", 
+            "239d 3h 28m"
+        ]
+    ], 
+    "ZEPPELIN-76": [
+        [
+            "Open", 
+            "In Progress", 
+            "34d 20m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "83d 7h 25m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "9h 9m"
+        ]
+    ], 
+    "ZEPPELIN-65": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 2h 25m"
+        ]
+    ], 
+    "ZEPPELIN-404": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 45m"
+        ]
+    ], 
+    "ZEPPELIN-403": [
+        [
+            "Open", 
+            "Closed", 
+            "87d 20h 25m"
+        ]
+    ], 
+    "ZEPPELIN-400": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 7h 46m"
+        ]
+    ], 
+    "ZEPPELIN-401": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 2m"
+        ]
+    ], 
+    "ZEPPELIN-3970": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 23m"
+        ]
+    ], 
+    "ZEPPELIN-3753": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 19h 56m"
+        ]
+    ], 
+    "ZEPPELIN-1169": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 13h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19s"
+        ]
+    ], 
+    "ZEPPELIN-408": [
+        [
+            "Open", 
+            "Resolved", 
+            "104d 23h 43m"
+        ]
+    ], 
+    "ZEPPELIN-599": [
+        [
+            "Open", 
+            "Resolved", 
+            "119d 1h 37m"
+        ]
+    ], 
+    "ZEPPELIN-3871": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 16h 40m"
+        ]
+    ], 
+    "ZEPPELIN-3876": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 9h 26m"
+        ]
+    ], 
+    "ZEPPELIN-3875": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 27m"
+        ]
+    ], 
+    "ZEPPELIN-3656": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 17h 9m"
+        ]
+    ], 
+    "ZEPPELIN-3879": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 1h 24m"
+        ]
+    ], 
+    "ZEPPELIN-2179": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "29d 13h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 11h 31m"
+        ]
+    ], 
+    "ZEPPELIN-3239": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 17m"
+        ]
+    ], 
+    "ZEPPELIN-3332": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 4h 59m"
+        ]
+    ], 
+    "ZEPPELIN-1652": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 9m"
+        ]
+    ], 
+    "ZEPPELIN-1655": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 44m"
+        ]
+    ], 
+    "ZEPPELIN-1654": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 36m"
+        ]
+    ], 
+    "ZEPPELIN-1656": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 26m"
+        ]
+    ], 
+    "ZEPPELIN-1659": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 13m"
+        ]
+    ], 
+    "ZEPPELIN-3234": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 3h 59m"
+        ]
+    ], 
+    "ZEPPELIN-1150": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 41m"
+        ]
+    ], 
+    "ZEPPELIN-121": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 20h 31m"
+        ]
+    ], 
+    "ZEPPELIN-34": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 17h 16m"
+        ]
+    ], 
+    "ZEPPELIN-1564": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 16h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "ZEPPELIN-2708": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 23m"
+        ]
+    ], 
+    "ZEPPELIN-127": [
+        [
+            "Open", 
+            "Resolved", 
+            "367d 20h 27m"
+        ]
+    ], 
+    "ZEPPELIN-4042": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "205d 43m"
+        ]
+    ], 
+    "ZEPPELIN-309": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 9h 36m"
+        ]
+    ], 
+    "ZEPPELIN-602": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 24m"
+        ]
+    ], 
+    "ZEPPELIN-495": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 44m"
+        ]
+    ], 
+    "ZEPPELIN-33": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 4h 6m"
+        ]
+    ], 
+    "ZEPPELIN-1840": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 9h 22m"
+        ]
+    ], 
+    "ZEPPELIN-303": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 31s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 19h 41m"
+        ]
+    ], 
+    "ZEPPELIN-305": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 17h 22m"
+        ]
+    ], 
+    "ZEPPELIN-304": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 6m"
+        ]
+    ], 
+    "ZEPPELIN-1841": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 20h 22m"
+        ]
+    ], 
+    "ZEPPELIN-1404": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 15h 45m"
+        ]
+    ], 
+    "ZEPPELIN-1738": [
+        [
+            "Open", 
+            "In Progress", 
+            "28d 19h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "45d 21h 32m"
+        ]
+    ], 
+    "ZEPPELIN-716": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 48m"
+        ]
+    ], 
+    "ZEPPELIN-2757": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 23h 27m"
+        ]
+    ], 
+    "ZEPPELIN-491": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 16h 50m"
+        ]
+    ], 
+    "ZEPPELIN-493": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 7m"
+        ]
+    ], 
+    "ZEPPELIN-1731": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 7h 34m"
+        ]
+    ], 
+    "ZEPPELIN-3190": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 13m"
+        ]
+    ], 
+    "ZEPPELIN-496": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 15m"
+        ]
+    ], 
+    "ZEPPELIN-2116": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 55m"
+        ]
+    ], 
+    "ZEPPELIN-3581": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 55m"
+        ]
+    ], 
+    "ZEPPELIN-1400": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 5h 27m"
+        ]
+    ], 
+    "ZEPPELIN-3423": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 23m"
+        ]
+    ], 
+    "ZEPPELIN-3345": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 50m"
+        ]
+    ], 
+    "ZEPPELIN-3344": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 19h 3m"
+        ]
+    ], 
+    "ZEPPELIN-395": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 22h 48m"
+        ]
+    ], 
+    "ZEPPELIN-3343": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 51m"
+        ]
+    ], 
+    "ZEPPELIN-2448": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 17m"
+        ]
+    ], 
+    "ZEPPELIN-30": [
+        [
+            "Open", 
+            "Resolved", 
+            "70d 16h 58m"
+        ]
+    ], 
+    "ZEPPELIN-2009": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 49m"
+        ]
+    ], 
+    "ZEPPELIN-1379": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 13h 38m"
+        ]
+    ], 
+    "ZEPPELIN-562": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 48m"
+        ]
+    ], 
+    "ZEPPELIN-1372": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 7h 6m"
+        ]
+    ], 
+    "ZEPPELIN-577": [
+        [
+            "Open", 
+            "Resolved", 
+            "138d 1h 16m"
+        ]
+    ], 
+    "ZEPPELIN-1370": [
+        [
+            "Open", 
+            "Resolved", 
+            "236d 20h 27m"
+        ]
+    ], 
+    "ZEPPELIN-492": [
+        [
+            "Open", 
+            "Closed", 
+            "17h 13m"
+        ]
+    ], 
+    "ZEPPELIN-572": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 1m"
+        ]
+    ], 
+    "ZEPPELIN-3560": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1273": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 50m"
+        ]
+    ], 
+    "ZEPPELIN-151": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 4m"
+        ]
+    ], 
+    "ZEPPELIN-276": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 25m"
+        ]
+    ], 
+    "ZEPPELIN-271": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 53m"
+        ]
+    ], 
+    "ZEPPELIN-1276": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 20h 44m"
+        ]
+    ], 
+    "ZEPPELIN-375": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 22h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15h 17m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "153d 21h 58m"
+        ]
+    ], 
+    "ZEPPELIN-4063": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 23h 45m"
+        ]
+    ], 
+    "ZEPPELIN-4062": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "199d 6h 37m"
+        ]
+    ], 
+    "ZEPPELIN-279": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "13h 49m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "59s"
+        ]
+    ], 
+    "ZEPPELIN-1544": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 8h 38m"
+        ]
+    ], 
+    "ZEPPELIN-1930": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 1m"
+        ]
+    ], 
+    "ZEPPELIN-4147": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 19h 56m"
+        ]
+    ], 
+    "ZEPPELIN-1932": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 29m"
+        ]
+    ], 
+    "ZEPPELIN-1425": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 11m"
+        ]
+    ], 
+    "ZEPPELIN-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 46m"
+        ]
+    ], 
+    "ZEPPELIN-1800": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 5m"
+        ]
+    ], 
+    "ZEPPELIN-1936": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 23h 30m"
+        ]
+    ], 
+    "ZEPPELIN-5": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 11h 40m"
+        ]
+    ], 
+    "ZEPPELIN-1831": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 21h 19m"
+        ]
+    ], 
+    "ZEPPELIN-1833": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 24m"
+        ]
+    ], 
+    "ZEPPELIN-1832": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 22h 18m"
+        ]
+    ], 
+    "ZEPPELIN-1834": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 36m"
+        ]
+    ], 
+    "ZEPPELIN-2063": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 4m"
+        ]
+    ], 
+    "ZEPPELIN-3519": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 5h 48m"
+        ]
+    ], 
+    "ZEPPELIN-3691": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 10h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 1h 56m"
+        ]
+    ], 
+    "ZEPPELIN-2067": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 59m"
+        ]
+    ], 
+    "ZEPPELIN-3166": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 51m"
+        ]
+    ], 
+    "ZEPPELIN-3169": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 16h 51m"
+        ]
+    ], 
+    "ZEPPELIN-3698": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 22h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "132d 15h 9m"
+        ]
+    ], 
+    "ZEPPELIN-3517": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 37m"
+        ]
+    ], 
+    "ZEPPELIN-2648": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 19h 14m"
+        ]
+    ], 
+    "ZEPPELIN-2564": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 42m"
+        ]
+    ], 
+    "ZEPPELIN-58": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 29m"
+        ]
+    ], 
+    "ZEPPELIN-2641": [
+        [
+            "Open", 
+            "Resolved", 
+            "106d 20h 13m"
+        ]
+    ], 
+    "ZEPPELIN-2640": [
+        [
+            "Open", 
+            "In Progress", 
+            "40s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 23h 1m"
+        ]
+    ], 
+    "ZEPPELIN-2975": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 13m"
+        ]
+    ], 
+    "ZEPPELIN-2645": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "84d 9h 13m"
+        ]
+    ], 
+    "ZEPPELIN-1186": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 35m"
+        ]
+    ], 
+    "ZEPPELIN-2833": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 10h 26m"
+        ]
+    ], 
+    "ZEPPELIN-873": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 16h 39m"
+        ]
+    ], 
+    "ZEPPELIN-2930": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 12h 19m"
+        ]
+    ], 
+    "ZEPPELIN-2484": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 26m"
+        ]
+    ], 
+    "ZEPPELIN-973": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 55m"
+        ]
+    ], 
+    "ZEPPELIN-976": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 5m"
+        ]
+    ], 
+    "ZEPPELIN-2241": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 10h 24m"
+        ]
+    ], 
+    "ZEPPELIN-2366": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 13m"
+        ]
+    ], 
+    "ZEPPELIN-2367": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 4h 31m"
+        ]
+    ], 
+    "ZEPPELIN-1941": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 1m"
+        ]
+    ], 
+    "ZEPPELIN-1943": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 2h 38m"
+        ]
+    ], 
+    "ZEPPELIN-3767": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 44m"
+        ]
+    ], 
+    "ZEPPELIN-1492": [
+        [
+            "Open", 
+            "Resolved", 
+            "190d 7h 52m"
+        ]
+    ], 
+    "ZEPPELIN-94": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2m 23s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13h 59m"
+        ]
+    ], 
+    "ZEPPELIN-93": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 3h 14m"
+        ]
+    ], 
+    "ZEPPELIN-3761": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 13h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 21h 30m"
+        ]
+    ], 
+    "ZEPPELIN-91": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 22h 59m"
+        ]
+    ], 
+    "ZEPPELIN-2030": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 12m"
+        ]
+    ], 
+    "ZEPPELIN-706": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 11h 18m"
+        ]
+    ], 
+    "ZEPPELIN-381": [
+        [
+            "Open", 
+            "Resolved", 
+            "92d 5h 12m"
+        ]
+    ], 
+    "ZEPPELIN-2410": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 39m"
+        ]
+    ], 
+    "ZEPPELIN-31": [
+        [
+            "Open", 
+            "In Progress", 
+            "33d 1h"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "117d 13h 35m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "ZEPPELIN-1697": [
+        [
+            "Open", 
+            "Resolved", 
+            "121d 19h 5m"
+        ]
+    ], 
+    "ZEPPELIN-1693": [
+        [
+            "Open", 
+            "Resolved", 
+            "50m 15s"
+        ]
+    ], 
+    "ZEPPELIN-1417": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 18h 5m"
+        ]
+    ], 
+    "ZEPPELIN-2605": [
+        [
+            "Open", 
+            "In Progress", 
+            "383d 5h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31d 15h 25m"
+        ]
+    ], 
+    "ZEPPELIN-3012": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 1h 19m"
+        ]
+    ], 
+    "ZEPPELIN-2698": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 21h 26m"
+        ]
+    ], 
+    "ZEPPELIN-1059": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 14h 47m"
+        ]
+    ], 
+    "ZEPPELIN-1052": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8h 21m"
+        ]
+    ], 
+    "ZEPPELIN-2846": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 45m"
+        ]
+    ], 
+    "ZEPPELIN-2841": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 32m"
+        ]
+    ], 
+    "ZEPPELIN-1979": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 55m"
+        ]
+    ], 
+    "ZEPPELIN-2486": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 21m"
+        ]
+    ], 
+    "ZEPPELIN-286": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 19h 37m"
+        ]
+    ], 
+    "ZEPPELIN-1028": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 8h 43m"
+        ]
+    ]
+}

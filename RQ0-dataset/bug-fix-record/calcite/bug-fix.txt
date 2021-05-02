@@ -1,0 +1,3663 @@
+{
+    "CALCITE-835": [
+        "4140927c99b9dceb15ef4b85059b60e7898de0e7"
+    ], 
+    "CALCITE-1408": [
+        "e09703df9e72fffe59270c6046dda3ed3aa9a85e"
+    ], 
+    "CALCITE-570": [
+        "7f815c99c701f6869bcc958ea0e0b04ea731ffe6"
+    ], 
+    "CALCITE-575": [
+        "ee3347f805d7802ab8f6defbea3ec616a1c04ff0", 
+        "341bdd8e2e1a48165652bab1d6341ef4d09e2523"
+    ], 
+    "CALCITE-574": [
+        "1b430721c0d9e22b2252ffcd893b42959cb7966c"
+    ], 
+    "CALCITE-577": [
+        "ee3347f805d7802ab8f6defbea3ec616a1c04ff0"
+    ], 
+    "CALCITE-686": [
+        "057f847bf6a918ee767f597be2705d70145cabac"
+    ], 
+    "CALCITE-931": [
+        "b859937906c7e38ab6c91a57652dfc6eb2be2693"
+    ], 
+    "CALCITE-2028": [
+        "d7c4627c78d39627c39452dcc8ee53518632dac9"
+    ], 
+    "CALCITE-930": [
+        "5ed5ef46909774c6284a6a7521cc3b2c0d23177a"
+    ], 
+    "CALCITE-370": [
+        "6d79b5ebf7b1fa40455eb3df82998c58a8e08b8d"
+    ], 
+    "CALCITE-933": [
+        "57e1b4c14f0369e9b40df99435c6525fea9d1c96"
+    ], 
+    "CALCITE-783": [
+        "ac934f695db39d88beb5a12c792ba7da68cc386e", 
+        "9177063b5217ba01a7a34f85a0bf8e8753adeb20", 
+        "c711fed6e2392f296554719a98b2d737da53c9b5"
+    ], 
+    "CALCITE-780": [
+        "03111d2b680c4f4eb4886d60cab9beebd1c7bdcb"
+    ], 
+    "CALCITE-1730": [
+        "bff34c1a361faef793d4133032153f6956d03bbe"
+    ], 
+    "CALCITE-1618": [
+        "2c9fddfe7db9c0c7c55b8a8b2fe1b00948cd94b2"
+    ], 
+    "CALCITE-1619": [
+        "fdf017aad5c339c6c41441156dfaf60805f25343", 
+        "a07c7420bcf6283441d042ad77dafc929a7e9efe"
+    ], 
+    "CALCITE-785": [
+        "5cee2a1ada46a38212122e562a9326a501d3187e"
+    ], 
+    "CALCITE-935": [
+        "690faa55f553fdaa86aa91a3f2c731d6c16007ca"
+    ], 
+    "CALCITE-1616": [
+        "dad581868b815510389f61936b0c583be93d5dc5"
+    ], 
+    "CALCITE-1617": [
+        "6759218b014ce2de75cf706843d413b54f808711"
+    ], 
+    "CALCITE-1610": [
+        "beb465334c1bdc62b8282492ad7580c0683cee01"
+    ], 
+    "CALCITE-1613": [
+        "6cb4d45b02b03a71f4fe1ce52844f750e3ec1fd8"
+    ], 
+    "CALCITE-571": [
+        "f036de876064f51e5271cd1d5de342b431299e91"
+    ], 
+    "CALCITE-1189": [
+        "04c5ff9e8ae0627025406c627f8474913ba863a0"
+    ], 
+    "CALCITE-937": [
+        "74803d0ac093a291b38f629fdc3dc720bcc5cd4c"
+    ], 
+    "CALCITE-1734": [
+        "9f87b666976181d7946aa9c6c4fefef01c53858c"
+    ], 
+    "CALCITE-403": [
+        "d4b80bf93f28d8aac8b1997d0b8bee2da84fb99c", 
+        "de0bfaade674ec325c5b6a5458f2da8ac6fcd3de"
+    ], 
+    "CALCITE-2994": [
+        "395aa85085e0dad1ba14d8761aeb79b2b11c3809"
+    ], 
+    "CALCITE-2993": [
+        "614b4350f558a4fabaafc06fef9689ec4c267994", 
+        "577e72cb95e5d4d88f187909c14d8691c266ac4c"
+    ], 
+    "CALCITE-2990": [
+        "af97f55f1fcbb3cf6005393dffd91eb345c04b6f"
+    ], 
+    "CALCITE-1207": [
+        "dc553607d3c7f2a9baa74f7e059dde09d0df5f3c"
+    ], 
+    "CALCITE-1205": [
+        "e010b1b207d8cfbba9d1ff88c65a489fbdeeba40"
+    ], 
+    "CALCITE-1204": [
+        "825acf1e4f728e906ced0b17c4d53d71a121c3e6"
+    ], 
+    "CALCITE-1571": [
+        "2c2b883910147b429ed38030cc6cf6543ace6e98"
+    ], 
+    "CALCITE-1479": [
+        "03d6b00cdadb1b7dd4e4ae6de370c7f4bf5e2207"
+    ], 
+    "CALCITE-2388": [
+        "f258706467a480cf3f6083748690b10640d0e8eb"
+    ], 
+    "CALCITE-1575": [
+        "010f7abb9c17ea3a7763988d667ef84c50651e11"
+    ], 
+    "CALCITE-1574": [
+        "28ae333f0c7174b758487dbb5ddef91dacacd213"
+    ], 
+    "CALCITE-1577": [
+        "e5c9f2ed3d44e690185ff7c5da25a9d655fbfc9e"
+    ], 
+    "CALCITE-2383": [
+        "df774b9efa97c0b11ed63036e829750aaa88b99d"
+    ], 
+    "CALCITE-2382": [
+        "ccbc656d1681dc322a30107f096cd57c4e5353fe"
+    ], 
+    "CALCITE-2380": [
+        "4f8354651021dbabf123836d205aee25c658b6d9", 
+        "9721283bd0ce46a337f51a3691585cca8003e399"
+    ], 
+    "CALCITE-2387": [
+        "8a91c8dd4510f0741242f89c1a988e46036a2139"
+    ], 
+    "CALCITE-1586": [
+        "89f112511ce741c06349015a5f247cfb64ce23a8"
+    ], 
+    "CALCITE-2384": [
+        "d68f486b7889bc2d3b08606681f7e5a4c63547f1"
+    ], 
+    "CALCITE-1777": [
+        "520c0ccc9b8ec4832f69ebba366e23d80326be5f"
+    ], 
+    "CALCITE-1800": [
+        "f6af061ced056d1935b4173f9901152cbaca318b"
+    ], 
+    "CALCITE-876": [
+        "f003187cf1422d98a688787ba3b6a9e1c5a9c32e"
+    ], 
+    "CALCITE-1802": [
+        "83cef58b2b51e3e428fa50e532bf6ce6fa8f201c", 
+        "c8462e1acb01c0ff1b5d62a1ef318bfcc01301c0"
+    ], 
+    "CALCITE-1805": [
+        "bdaa485eecf7e5d6a80b3ee7cc3ccd5579c41794", 
+        "a088aab78655e138353f40b57bebaf3cf3aec939", 
+        "12e020e0f6e157f9339ecaedeb1570cc46d7f99d"
+    ], 
+    "CALCITE-1804": [
+        "f164fb8eaa9dbcbb44b0a3e1cd3427d457ebffb8"
+    ], 
+    "CALCITE-1807": [
+        "915c218b0fcbff26652071d267903d97875c7b9e"
+    ], 
+    "CALCITE-1770": [
+        "ea994131cd6d109ff7edf5e61754104e2b8619be", 
+        "ef00738a053cbe881f2c840f3e3b5feeb010b6e1"
+    ], 
+    "CALCITE-3151": [
+        "914e2127b096dd40d6c8a5f5c05ddad89b2e0863"
+    ], 
+    "CALCITE-1808": [
+        "3763abfab2675faeabd2bca9803e86d52aa50cca"
+    ], 
+    "CALCITE-977": [
+        "5323d8d48baa2d7bc8dea8b03bc0bda93563e0f9"
+    ], 
+    "CALCITE-3155": [
+        "8dd4fed46ff31df8737788847fdd2963944295f9"
+    ], 
+    "CALCITE-2016": [
+        "bd14112100584a0106c4778047f64f276ff0d14b", 
+        "a3dd90f1088966dc09caecf88779853ba34d290c"
+    ], 
+    "CALCITE-1778": [
+        "6b8e2c3d3e4468206ac974a090fa8e7db6b4e347"
+    ], 
+    "CALCITE-3012": [
+        "9ece70f5dcdb00dbc6712496c51f52c05178d4aa"
+    ], 
+    "CALCITE-2156": [
+        "96d620be8054d83aca97d62780cb38cea928a655"
+    ], 
+    "CALCITE-2154": [
+        "fe3b65f50f0d74aed7177dadf46eb4dc1bb3e940"
+    ], 
+    "CALCITE-88": [
+        "2709896eb176c14605b1ddc4be57d916ebeb0fe8", 
+        "c0120dd80bfe5e5fb077a5b631efbccb35afd9eb"
+    ], 
+    "CALCITE-2159": [
+        "c3f2705f65da71ecf70aa6fc1fb42ecf07114790"
+    ], 
+    "CALCITE-1980": [
+        "2773c4846a67360de8301680e375779ce3b1304b"
+    ], 
+    "CALCITE-2632": [
+        "847e76cde2894ea7540749f68669ce2d910c2fa9"
+    ], 
+    "CALCITE-2631": [
+        "7a079229a9d4d42c9249ba95544e235db5b6eb1f"
+    ], 
+    "CALCITE-2637": [
+        "453f171d900ac8ac04bed95bbdd59c986ba4e726"
+    ], 
+    "CALCITE-1986": [
+        "3e97cff7253691bbd7df690721981de4c2d9f88b"
+    ], 
+    "CALCITE-1987": [
+        "796a28f9a9d49a16971135074f315d536eb929cf"
+    ], 
+    "CALCITE-1988": [
+        "8441e79cdde01a901de894d44b597cf582a259d1"
+    ], 
+    "CALCITE-1989": [
+        "d173640c202238c8cb6bdb87d20ab4f3f9fcc88b"
+    ], 
+    "CALCITE-2639": [
+        "7a079229a9d4d42c9249ba95544e235db5b6eb1f"
+    ], 
+    "CALCITE-2638": [
+        "0d31de796e3120e63c48f5459f7be3c1164f57d3"
+    ], 
+    "CALCITE-2908": [
+        "25ffeb4ac9c996855f8a946f6180dc01844f80dc"
+    ], 
+    "CALCITE-1334": [
+        "63a7a1a96856d3f900d2a6997da859aa06cb54ad", 
+        "87435a9b86e0d44a6c9123c028e5c5180fe3da88"
+    ], 
+    "CALCITE-1333": [
+        "6d56222dab93551d357076d158cb03ca479b3bbd"
+    ], 
+    "CALCITE-1332": [
+        "b4df7c97bb7905cb2c510a08830b8bd710107119"
+    ], 
+    "CALCITE-1330": [
+        "a0c98837c2012cec540e350ac16613923002afb2"
+    ], 
+    "CALCITE-2900": [
+        "1018d25af62da638f8125e24214d3b97a76f71c2"
+    ], 
+    "CALCITE-2903": [
+        "8d81495967533c556d861cfda8de5adcb9fd912c"
+    ], 
+    "CALCITE-1675": [
+        "55d7c6d80faf8a4b1b54bbde41b79064f1e36466"
+    ], 
+    "CALCITE-1338": [
+        "53561d2af027bbeaeef4843c7915d33b1af8fb4f"
+    ], 
+    "CALCITE-1506": [
+        "e4fb4c4ed46febbbc2790f142e9e2b1d18b0ee18"
+    ], 
+    "CALCITE-1507": [
+        "106dcc0fa58d651c17a3a01993e23f4bf3fdbf89"
+    ], 
+    "CALCITE-1501": [
+        "ce2122ff2562340333bfa0ba371872fc9a9c6251"
+    ], 
+    "CALCITE-2338": [
+        "564caac262e43d7c27397d7bd17ab0f1689fdf4d"
+    ], 
+    "CALCITE-814": [
+        "67ea045ca65083aed9feb803da8d467286c93800"
+    ], 
+    "CALCITE-915": [
+        "c104c75bdf6d663070cf16b5ab0f94f8c269c9b6"
+    ], 
+    "CALCITE-1976": [
+        "41687f3bd7316acd931e81c7d2b061681fefc30b"
+    ], 
+    "CALCITE-2332": [
+        "76fd6c41d18176258fc9205e4847c3490e1746ba", 
+        "6fe55e3ecc1f476bb0d629007f128ee62e771ff0"
+    ], 
+    "CALCITE-1970": [
+        "900c941bfed6298b41195debd197cd171102fa74"
+    ], 
+    "CALCITE-871": [
+        "00517e7afa60377214ad4bb84720d12557be1931", 
+        "a63639b1ab7c52f5b425a69359d66ce08ee59bbc"
+    ], 
+    "CALCITE-2331": [
+        "6344afc4770b6bb5bafc27c7d3709ab69b52633a"
+    ], 
+    "CALCITE-2705": [
+        "849f1416d435acb1409be853f8cc62ff610eda9a"
+    ], 
+    "CALCITE-1877": [
+        "dac513ab446ad7cfed4be7858721659591134a00"
+    ], 
+    "CALCITE-1870": [
+        "b47413a1d648455c43dbe8d51df926ebd68b3a36"
+    ], 
+    "CALCITE-1871": [
+        "65d95e6792c002d70d826b049cf16a748fe3109d"
+    ], 
+    "CALCITE-1258": [
+        "446c2b7611be33571baff005ceb4651d9fe6ed1f"
+    ], 
+    "CALCITE-1873": [
+        "d4ab1e508b47e4e168296ad701742e879f05c571"
+    ], 
+    "CALCITE-2264": [
+        "b0f470473087982c48518860b9199a7735d57a5f"
+    ], 
+    "CALCITE-3126": [
+        "79a4ec63adfa83c6920b9ece5042f65a322ff80f"
+    ], 
+    "CALCITE-3121": [
+        "0ed54bd64d0beb0849a499e65e872c43f00efce9"
+    ], 
+    "CALCITE-3123": [
+        "0cce229903a845a7b8ed36cf86d6078fd82d73d3", 
+        "15e63787a6c2ccaa01582991068d8e74daf93d1f", 
+        "e01ba5ab6e7c57348f9f7be2babf00ae007204b5"
+    ], 
+    "CALCITE-751": [
+        "cf7a7a97368d6e72b2a413f9f8857f54c2970e61"
+    ], 
+    "CALCITE-2441": [
+        "9c26a9e74dafadb27ea363d82cfe1105d5dd3329", 
+        "eb496c702cb2b8998836d02cde28a53861fc39aa"
+    ], 
+    "CALCITE-753": [
+        "ccdda9b203a9468e439eb2dbffc0359658fb38c3"
+    ], 
+    "CALCITE-459": [
+        "fa08c46d3f9b1d5bb6f8f2772effb76d02cecb9a"
+    ], 
+    "CALCITE-2444": [
+        "19826da5bae2b390ea0cdbb060d2d3f1e28c07ac", 
+        "37a6f9f4f85d59185225e8883df74ffa8ca94c1b"
+    ], 
+    "CALCITE-941": [
+        "1594ed571a699fa239c476add44970177663c68e", 
+        "d012b245e4e040ae94bb3d7045cf4d71af8ac279"
+    ], 
+    "CALCITE-2446": [
+        "5574873844a440d2ed14dfdc7b0e40a0dae91355"
+    ], 
+    "CALCITE-2447": [
+        "ac33200faf62d2667c2fa075fc3423d602131d9d"
+    ], 
+    "CALCITE-2527": [
+        "52eda6d911f06a542e1d681de294c77e8246e354"
+    ], 
+    "CALCITE-451": [
+        "167623f40797f051450c2d8dda5b26998317bd94"
+    ], 
+    "CALCITE-2523": [
+        "3df638c9d34cd83eeb381dd288be786e97ec4c39"
+    ], 
+    "CALCITE-2522": [
+        "5e765bd1ab13397d46baaa42db655bd52f5a9ffa"
+    ], 
+    "CALCITE-2521": [
+        "fa7b48267195053da7029988e013e6e9cd5151b9"
+    ], 
+    "CALCITE-2520": [
+        "0c0f61e963497070a62ccdfc50c84b2826ca2d5f"
+    ], 
+    "CALCITE-970": [
+        "19a67e1de28dcb7576589222f79c804a3b81975c"
+    ], 
+    "CALCITE-1393": [
+        "683958579f6b64749a730024d24cc09585dd741b"
+    ], 
+    "CALCITE-2875": [
+        "24a7a1b49bc4fb9f089031625f1a7ee052524125"
+    ], 
+    "CALCITE-1022": [
+        "8c2bc8f16b7b26fed7a53aa06f940341dea18219"
+    ], 
+    "CALCITE-1021": [
+        "6acb28d844e336426ef9b541f6260569e19519e1"
+    ], 
+    "CALCITE-1026": [
+        "4e9064fa94a419987a5d654f0e41899dde60df54", 
+        "29a925a62ed4a2b5855dd1d8ba296455433d32ad", 
+        "fbb0b8286e7c7bf6ee4680a7b27e2afef39ea5e9"
+    ], 
+    "CALCITE-1024": [
+        "d55ff83ff3a45b6adffb840daefac3cd2aea34e5"
+    ], 
+    "CALCITE-2977": [
+        "38e3c3015b661f8f9dc61d8d0ef4be6186a4bc7a"
+    ], 
+    "CALCITE-1386": [
+        "963876bbbf4e9da2d0ea7687b9ed10ca7e9172c4"
+    ], 
+    "CALCITE-2878": [
+        "ebafff1ede5921901b322872693bf1dbdf09fc8d"
+    ], 
+    "CALCITE-467": [
+        "e415f35d55a8c8a50e798f317d3a37c9139c0d45"
+    ], 
+    "CALCITE-613": [
+        "272e604082bbaf27a93e5c4f04a2eb1c951a99f4"
+    ], 
+    "CALCITE-365": [
+        "57b38db5ee1ee31b444fbd535d8df574f8cd7e11"
+    ], 
+    "CALCITE-1599": [
+        "0f45481daf31ebdec8e8e6b9f42262b5fe3a9257"
+    ], 
+    "CALCITE-1598": [
+        "fdbb81cf23016887ad4df0423080dbe8ebd68526"
+    ], 
+    "CALCITE-1597": [
+        "603648bc2466ab699fa6646ffc1ad717b8c11880"
+    ], 
+    "CALCITE-2203": [
+        "4893a3db50eacfb0cd9153d65f1a0c9fec7ff2b3"
+    ], 
+    "CALCITE-2200": [
+        "b60112c4b4caa44e680a81a0f51e9716b7231f48"
+    ], 
+    "CALCITE-1594": [
+        "83e517d51f2601a4795ec386a2e17f9a6e3c7303"
+    ], 
+    "CALCITE-2206": [
+        "d83cb9029e37c52fba7d07a5a33978a9f01b8c5f", 
+        "502c108473e535a76cebc5e09bd6be5efcc24531"
+    ], 
+    "CALCITE-1592": [
+        "aadc62d4c283e31b7004c98bee55c1df4128fb9e"
+    ], 
+    "CALCITE-2205": [
+        "499f0c6e9c3b2c35b803037f5b60e54fd4a6a5f3"
+    ], 
+    "CALCITE-789": [
+        "464fd364a4ed0563645dee3cefdf2cc5195533fa"
+    ], 
+    "CALCITE-988": [
+        "f155666156c26fa43e4191af43ad99a779aad5b0"
+    ], 
+    "DRILL-4906": [
+        "b5b9e53ace83397175baa0d7546c03f1cf85b17d"
+    ], 
+    "CALCITE-542": [
+        "4e95a8ca3ec412943c87c17c73af97d3db5e37ab"
+    ], 
+    "CALCITE-986": [
+        "3e7efce6e9eafd1c3fcaaac5ce9b1c2e483e8446"
+    ], 
+    "CALCITE-987": [
+        "24b074715c2663d78c0b2a2d42e0711c733b1f40", 
+        "33f737ea4fe2bc84b5df7c9df024359c9d1178d2"
+    ], 
+    "CALCITE-980": [
+        "963ba1b1b3d2ab95989d8383e0a855c3ae5e24cb"
+    ], 
+    "CALCITE-983": [
+        "cd58fe73f29dd576ac2525f22c34e9b3d4df1913"
+    ], 
+    "CALCITE-625": [
+        "9e0be8bca83a172f0edb48430e01e0236dd406de"
+    ], 
+    "CALCITE-623": [
+        "e0f29dd797229a883d6461e75915cb376dd6b208"
+    ], 
+    "CALCITE-619": [
+        "119a39931df38e92cacc25973c46154549247061"
+    ], 
+    "CALCITE-1652": [
+        "abfcc79bcd635ee73791c2d647c3f843d047ee5d"
+    ], 
+    "CALCITE-1653": [
+        "88d1d67d98663a760039f9a507e66e23f83ef2bd"
+    ], 
+    "CALCITE-1654": [
+        "1b11385687171946d961fc4c836ee348f682b00a"
+    ], 
+    "CALCITE-1655": [
+        "f8546915671cc4d96fa3b5561e289c3bfd80209f"
+    ], 
+    "CALCITE-1656": [
+        "c90fddfb1c600e6c870558778c50ebfbcd5f1799"
+    ], 
+    "CALCITE-1657": [
+        "baa13d696f98bb4993f9e1a4de7da7ad684be101"
+    ], 
+    "CALCITE-1658": [
+        "1e9fd38ba7b702675a066f6bd712d03b7b07410e"
+    ], 
+    "CALCITE-1659": [
+        "bb6ae0acf76d7890d545b64c29b0d0d60ed43190"
+    ], 
+    "CALCITE-3234": [
+        "a042b6115120cb48079266444a264e16a9ca611b"
+    ], 
+    "CALCITE-3236": [
+        "5c017135b6b923abbf1b465ac1962bcec7886dfd"
+    ], 
+    "CALCITE-3237": [
+        "996cdd0249a4e5086fadc27a15ccc23eb9defd8e"
+    ], 
+    "CALCITE-1486": [
+        "b7e99bca93b6601a7e28ae0f3100031a75f67a92"
+    ], 
+    "CALCITE-1953": [
+        "2156d8265178f92c52f94ef47588a89ab1fdb7de"
+    ], 
+    "CALCITE-1371": [
+        "23c14b5f8552923f0af21d8bf552d091cd8b7fea"
+    ], 
+    "CALCITE-507": [
+        "ca871d3776646e94e6b1a1d61692c6d80777952f"
+    ], 
+    "CALCITE-910": [
+        "4000edd8e69956cdc6a95f3c8d6292d648c0bb32"
+    ], 
+    "CALCITE-1898": [
+        "ee0afb6e38ce09f82cc1883aae757306b55ce8fe"
+    ], 
+    "CALCITE-1516": [
+        "1cea152e270a5af9850ee231233d3b697e6e743d"
+    ], 
+    "CALCITE-2357": [
+        "e50795a42ccc6804e2044cf6e62b1abe9152d6f4"
+    ], 
+    "CALCITE-1482": [
+        "dd3782e73c7ef16abeeb7bb1a06f157a68c5fce7"
+    ], 
+    "CALCITE-2280": [
+        "3e50a5325357720d109e5fa300dad7a918087139"
+    ], 
+    "CALCITE-522": [
+        "e218cb1534ea6e0c5d9a2f41a6005fa28a6164d2", 
+        "93c2ff517f44ca35285811130ce86f1a022956bb"
+    ], 
+    "CALCITE-1896": [
+        "d23e529515ce0eb6e0c150052fe3d2c5d90f1747", 
+        "a473eca597300395ff89f949401505ec122a9774"
+    ], 
+    "CALCITE-526": [
+        "2709896eb176c14605b1ddc4be57d916ebeb0fe8"
+    ], 
+    "CALCITE-527": [
+        "076ac11a8b8eddb3200f199051414421db7fbdad"
+    ], 
+    "CALCITE-1897": [
+        "61f1cf925a3542bbb0f2aca4d3c66bb95e60c1cb"
+    ], 
+    "CALCITE-3195": [
+        "18974ce8a945424a8a3465c03b253e292641f420"
+    ], 
+    "CALCITE-1732": [
+        "14ee9f3542d65bccf33c3dd06b7239795e5259d0"
+    ], 
+    "CALCITE-528": [
+        "acd27fdea5fb54375a999a9221b79a6df166660c"
+    ], 
+    "CALCITE-3196": [
+        "1c5de1cd27a0251ac28a503e877ef9c21e61b620"
+    ], 
+    "CALCITE-3191": [
+        "c3108bc1231b2aa4ba25227d225544fef4576508"
+    ], 
+    "CALCITE-934": [
+        "1bbb6a2b97bf3da149c5f878b2d59ceafa737521"
+    ], 
+    "CALCITE-1183": [
+        "bf03cd9dc752017c0d90fc0168fcbdfc61be619d"
+    ], 
+    "CALCITE-3192": [
+        "f7762b6a7cd85711a8cc6d7c7174dedca22bdcd2"
+    ], 
+    "CALCITE-2116": [
+        "c0f912ddff717eaedb9a2d652e95f232d10e207f"
+    ], 
+    "CALCITE-489": [
+        "986f994349a92ba2644f7384cefaccd165735832", 
+        "3fccc08ef23d33efbc692b389cc1049ee7939533", 
+        "696da1685f6c86b6e90abfbe369ea861deeb72d5"
+    ], 
+    "CALCITE-2113": [
+        "d3b35a4b5c9270f905175fefa312ab5d8207c1b0"
+    ], 
+    "CALCITE-2110": [
+        "2a171fb86a64e06208564d02ab24bca23d426a0a"
+    ], 
+    "CALCITE-2111": [
+        "d26330f2c58c1ccd470dc27d2b41b6b4dbb41b45", 
+        "1945c9a9283121f7a690ec024632dcd09dff8351"
+    ], 
+    "CALCITE-1622": [
+        "4f257149f1f52d5f42d505ee53186e88a578fc3f"
+    ], 
+    "CALCITE-2118": [
+        "adc1bb265c45cef92c26b028c2fe4cc9bdead3f3"
+    ], 
+    "CALCITE-1488": [
+        "f36584ab7718496de3430aa80b97f4ea98c9b308"
+    ], 
+    "CALCITE-3344": [
+        "02a4ced35cb1f9fdc18b16528db1f922365a33c2"
+    ], 
+    "CALCITE-852": [
+        "3e4d2b5c7eb07cac9c3cc9799de2793d1521b93a"
+    ], 
+    "CALCITE-1148": [
+        "a3bc0d8ea3c1f320b96a4ab9641becee90a388bc"
+    ], 
+    "CALCITE-1901": [
+        "a2880dd59bcf132a0a4d862815acd6f6ef244631"
+    ], 
+    "CALCITE-3348": [
+        "0115bd102fdbab66a2a7447b96b9f7bf49f14308"
+    ], 
+    "CALCITE-1146": [
+        "caa1cd326f545ee120aa34ae3abb480a30f2a3b4"
+    ], 
+    "CALCITE-1277": [
+        "a02da271c2be6f5bf3a226698529748b5ee706ba"
+    ], 
+    "CALCITE-1378": [
+        "349c7dcebc2c72b51b921ce692c0b16e8628ec03"
+    ], 
+    "CALCITE-1274": [
+        "d18da01ed88c772f62123e8420cdefc9b5d76daf"
+    ], 
+    "CALCITE-1060": [
+        "62576556abd0467eba7c964a90b9dc2178807f7a"
+    ], 
+    "CALCITE-1372": [
+        "f9724c2739fe482d36cfdd5aa6cad207c7a8fcd4"
+    ], 
+    "CALCITE-1568": [
+        "b656c0c7a9d72d16e2c4798b70f7a4d58b4fc10d", 
+        "5c6a94f4beb10fd73adc324ca9f906a9a5970d8c"
+    ], 
+    "CALCITE-1370": [
+        "547aa67c208933739197ffbd0d5f9c9d142ea593"
+    ], 
+    "CALCITE-1209": [
+        "e4dd6dc765e125b156c2317fbe567f11585ea9f2"
+    ], 
+    "CALCITE-1548": [
+        "599ea339fb5100ae4ac3f96e48db1c0119586002"
+    ], 
+    "CALCITE-1549": [
+        "5f9c019080c7231acaf3df80732d915351051d93"
+    ], 
+    "CALCITE-1270": [
+        "b22733c7c52def566abf84dd020258ae0194b21d"
+    ], 
+    "CALCITE-675": [
+        "8276f2580ed427d02cee7f3695f182e77a7ae978"
+    ], 
+    "CALCITE-1276": [
+        "435e203028a872933c6d8bd6404ebc445552e599"
+    ], 
+    "CALCITE-1519": [
+        "e38d51e8f4e61e32213aaeb39790e58069f718a4"
+    ], 
+    "HADOOP-14586": [
+        "9dc61aea2bcf2ee453bde6b2a909bf7db2986f04"
+    ], 
+    "CALCITE-729": [
+        "bf423761a7abb58015587b53c4b06162cbbfad0f", 
+        "ee68f83359f01194283c14dbe80c27c0694fbf29"
+    ], 
+    "CALCITE-1540": [
+        "005090949c88a469613bc37f95a80fd531760cd9"
+    ], 
+    "CALCITE-1278": [
+        "76616379a8018679230930c4f8d16c51ecb35c59"
+    ], 
+    "CALCITE-1543": [
+        "408285f08f0b8e0e019dc0c6fe02d8e05425f4a3"
+    ], 
+    "CALCITE-1544": [
+        "91102baf9ad9d45764ec190fbbeb00182be9aabe"
+    ], 
+    "CALCITE-483": [
+        "696da1685f6c86b6e90abfbe369ea861deeb72d5"
+    ], 
+    "CALCITE-1546": [
+        "0bd4f86b6e5f1e1f6b8fa6ce4d9939235ef50bd1"
+    ], 
+    "CALCITE-1547": [
+        "934271f21c18da33cb69d7e932a7438a6fa63529"
+    ], 
+    "CALCITE-1427": [
+        "d1bada4231c2ce81b6236e0c11d73c85a7df6e83"
+    ], 
+    "CALCITE-1930": [
+        "7321c8708bd1273b8cd4aab818bf3abb55afb2a4"
+    ], 
+    "CALCITE-1932": [
+        "01c5446138d419a85678bff7db06eabb4cd39846"
+    ], 
+    "CALCITE-1935": [
+        "5ec3a2a503dcf26fe1b3cad8a5a9467264213dcf", 
+        "2a2de705f93c886cea0996e757348a2493eef737", 
+        "205fe17eee11b923356e6f297679e43366043043"
+    ], 
+    "CALCITE-812": [
+        "54249d04d4b578cfd7cb437e097d848e57737987"
+    ], 
+    "CALCITE-1788": [
+        "d619304070bf2874ab760c92ec2573ee6c19f536"
+    ], 
+    "CALCITE-1936": [
+        "bfaea7ccfd33e9a4b5fee1617f56f2ccdd78db08"
+    ], 
+    "CALCITE-1830": [
+        "d393cab26e72f3c0de5eebcbeac5d94fff87a997"
+    ], 
+    "CALCITE-1833": [
+        "47c8df9ecad8aa0c8a65530dd89b94b3749f54a2"
+    ], 
+    "CALCITE-1834": [
+        "319e888f792f1f416cbddbf77f02fd167195eef2"
+    ], 
+    "CALCITE-865": [
+        "43b88dbfc57fa433ac7f4fdd1f849441f353351d", 
+        "d69f2c20c5a75977d50c182565d8e7b8e011515e"
+    ], 
+    "CALCITE-1429": [
+        "97ccd6ded2b9910a551d12f610100371aad6c6a8"
+    ], 
+    "CALCITE-2744": [
+        "340e21a6a93e0766acf3fa292c4ecd86d5f5f8ef", 
+        "d8f4cc4aa4f6c8b49bd76d5043e30270b7ff2546"
+    ], 
+    "CALCITE-3160": [
+        "6abf37a83b71568c3aa6d757913ab871fa15f837"
+    ], 
+    "CALCITE-2063": [
+        "9085b601081689b5b7f1e9f57deb20e2229910cb"
+    ], 
+    "CALCITE-1864": [
+        "ccaa700a0126cbca993217192df2bfe3fa4bce1a"
+    ], 
+    "CALCITE-2066": [
+        "b60b67eb8f62463ccbc230358969ef2450cdbe05"
+    ], 
+    "CALCITE-3165": [
+        "e5e5809d28f422896147bd9f069f4930f22629ad"
+    ], 
+    "CALCITE-3049": [
+        "247c7d4f76a3d7d862ae6f4148cc8e6556efa497"
+    ], 
+    "CALCITE-3048": [
+        "7429c25a178401bd49b74d96645ef4226fc228ce"
+    ], 
+    "CALCITE-3047": [
+        "5c477f0dee1b9f709016a63ae8e5b824fb560585"
+    ], 
+    "CALCITE-3169": [
+        "e723ee943f575823db5c8c155236368fc6bb00e2"
+    ], 
+    "CALCITE-3045": [
+        "a8f46239509f01162c4e3ecf640a59cf0e0dfcad"
+    ], 
+    "CALCITE-2069": [
+        "189aad19c4f904e4dd0602fb64c65c5586f093b2"
+    ], 
+    "CALCITE-2187": [
+        "6b1d24746624b13c97df401f344449f44cb6b3bd"
+    ], 
+    "CALCITE-2563": [
+        "5f8c06f03be9bd9daa55a6c1e96d762423604bdd"
+    ], 
+    "CALCITE-2562": [
+        "17e0a054259f10079ce9c95fa01f447e41a84577"
+    ], 
+    "CALCITE-1417": [
+        "54556b82c0599012f2e7fefaae3a9868cb68f879"
+    ], 
+    "CALCITE-2567": [
+        "1420e4da8240d44a6a0f80b42d37a9e6fd836af7"
+    ], 
+    "CALCITE-2642": [
+        "c5ff67031ccec02d4577fbc37ce4af2b2a24f4b7"
+    ], 
+    "CALCITE-1860": [
+        "5a91d0a41e88423eb17a85cb5d1382905181b59d"
+    ], 
+    "CALCITE-2647": [
+        "0b7b24a689d1791ad5c8127f02f69a3dba124689"
+    ], 
+    "CALCITE-1186": [
+        "919b31f0ebbd1501b9b2216fcc8534449fa3258e"
+    ], 
+    "CALCITE-419": [
+        "a0ba73cd2de76696b96a1cd828d2aa4d3ef9eb55", 
+        "a611d645ad754844a39f3d98f5f814f13dbd9404"
+    ], 
+    "CALCITE-1424": [
+        "0f2d666df3f6d92aa5f23a5428bdd01b08f24842"
+    ], 
+    "CALCITE-1423": [
+        "68b78f06233dc0cc7ee98066201e12c46da609a5"
+    ], 
+    "CALCITE-679": [
+        "57311b6bd1b1a279a836b11381771ac0121f99da"
+    ], 
+    "CALCITE-2835": [
+        "602b2a10e3f81888c0759ca69f7415497124ef82"
+    ], 
+    "CALCITE-808": [
+        "b550ff887b41c51348f14c0dc10481fe18aadf0f"
+    ], 
+    "CALCITE-2930": [
+        "43ba147937dc53dfb86ee8723d45562e48b14d20"
+    ], 
+    "CALCITE-810": [
+        "da5d5c2dfc3dfc26fb2e6a8f0dc7ed7dfd5dbc51"
+    ], 
+    "CALCITE-2739": [
+        "f2869e9ad3864caa4d1678fbefc50389b981f2e6"
+    ], 
+    "CALCITE-1587": [
+        "517bf62e5b891fa7e927486ab7c4ab22eb04bd54"
+    ], 
+    "CALCITE-2249": [
+        "9c31e96729ed9630b20956eb657f7539e755ef2c"
+    ], 
+    "CALCITE-1172": [
+        "906183a35b6355b3f5e394ce838f5ea1dad09ad2", 
+        "463ab84d2e889a12011a2395ee64dba5cf3e1028"
+    ], 
+    "CALCITE-2242": [
+        "8c1b34e3518620ac023f43b170610c9b783f1ae5"
+    ], 
+    "CALCITE-2365": [
+        "b36a10725b2569d8583ea66aea9dcceb9e0341ac"
+    ], 
+    "CALCITE-1945": [
+        "4208d8021b4978a3f0a259ec299fa7a62c582180"
+    ], 
+    "CALCITE-1946": [
+        "4d0e83e7e51b28acff7305e1342c5107f1357b1c"
+    ], 
+    "CALCITE-1572": [
+        "2d7e1f1a6649c085c88f8d81410363800a5b91ae"
+    ], 
+    "CALCITE-1471": [
+        "08eb16bb5e0ef70695e305967eeac1dd79624420"
+    ], 
+    "CALCITE-1943": [
+        "d3a7c0d794cb9d0079fb37999dcd0dd6992f2041"
+    ], 
+    "CALCITE-1493": [
+        "1ccebc89befa93a0bf2a4d98cf35b2558a37f6d4", 
+        "bac9ee7cb7e76d6307e34091b5a132e3d068dfd7"
+    ], 
+    "CALCITE-691": [
+        "9da7bc89c6feb7e41eb8294515f48df662bcc7e5"
+    ], 
+    "CALCITE-2369": [
+        "0db06f780e9276424467690c703004df9f012314"
+    ], 
+    "CALCITE-2368": [
+        "242e12f256d62c72dafcec57cf60f1a5960ac738"
+    ], 
+    "CALCITE-661": [
+        "01183de8ca99b6e5689a4dcb5b38d3a9788a789f", 
+        "88a6c5bdd2437eecabe05181c892957ff6b1ac5c"
+    ], 
+    "CALCITE-660": [
+        "5648083f017a1cf28e223f2230c59c20cd713a4b"
+    ], 
+    "CALCITE-806": [
+        "096d2820b6a3c48e0fa9e5f7d5489a25aeff10a5"
+    ], 
+    "CALCITE-665": [
+        "dbdb091dc6fa5d2322d87df65bde142276930129"
+    ], 
+    "CALCITE-2418": [
+        "76a8cfd18acb70b6053b983ba99bbf0ccf967e12"
+    ], 
+    "CALCITE-2417": [
+        "3c40d866a43f8a74f35a6b31fadf145c4d1d9f94"
+    ], 
+    "CALCITE-2416": [
+        "0bb92498900a6314e93805c5d2238a5179577e61"
+    ], 
+    "CALCITE-700": [
+        "ec4b290721650f7f041719779d5c399384fd344a"
+    ], 
+    "CALCITE-2413": [
+        "00c36467d0a90290f6085f88debec71b217fe43f"
+    ], 
+    "CALCITE-707": [
+        "238b3225a2309a1a72bd1383b57982feaa2068e8"
+    ], 
+    "CALCITE-704": [
+        "f5434a495271a6887f7964423630405cf3d8c877"
+    ], 
+    "CALCITE-800": [
+        "ef5833f3f4b8b6a2296a6f43170981dac03012ad"
+    ], 
+    "CALCITE-1694": [
+        "256b1b90f4f00ace5c987edef536d767001278e8"
+    ], 
+    "CALCITE-1695": [
+        "868d64140d446cdb33652c0c76c4038b1ca26a14", 
+        "ca48431ee7872f294de7a10a6da0892185e8e4a7"
+    ], 
+    "CALCITE-1696": [
+        "9f23e1a0d6a4ed10d938b7f5eaa8c2c0314a029b"
+    ], 
+    "CALCITE-460": [
+        "b9d8de38d2aa4ee6791aec42ffe2adb58942060a"
+    ], 
+    "CALCITE-1690": [
+        "205af8134857ba312415b9a5b4a48020fe0ce888"
+    ], 
+    "CALCITE-1691": [
+        "46672b41fdb0c0aedb30d0ec7158d138d36222d5"
+    ], 
+    "CALCITE-465": [
+        "71dd68de18644754543442d264b698ea4f164fbc"
+    ], 
+    "CALCITE-1578": [
+        "a118f821e3d49b6fc30c0e1e39d72026f2bf6ea1"
+    ], 
+    "CALCITE-692": [
+        "56342c124175cac8f03b47368001fedf77ad8361"
+    ], 
+    "CALCITE-469": [
+        "539253562067dcea9609c766fa7b6f413e1ac001"
+    ], 
+    "CALCITE-1837": [
+        "8fb885d95adf5aefd28eb7e82593992f625fa5df"
+    ], 
+    "CALCITE-1699": [
+        "554d963ece3bbcd7a36fc1b9922c8a5c6e1444c1"
+    ], 
+    "CALCITE-847": [
+        "d19a9133f4941ef80195b8ef19fb7c21a1258abd"
+    ], 
+    "CALCITE-743": [
+        "c09a872fd481082af1d7f3bb760c68c2c91ff145"
+    ], 
+    "CALCITE-1113": [
+        "ea71f9295ae3bed9b88046f9a9e426bcc93a0005"
+    ], 
+    "CALCITE-2189": [
+        "47c49c9c64e4ec9e6ff6d33f1c7917c7927e673a"
+    ], 
+    "CALCITE-1111": [
+        "5897dcd9d59d260a7d2b5c2dde257291fba5f9d1"
+    ], 
+    "CALCITE-1059": [
+        "6201013a9a8fe79c234656ec20c5fe524d68b4d5"
+    ], 
+    "CALCITE-2188": [
+        "5bf7b9a4d7b54778bbbcb71ed77f15a88b6b9680"
+    ], 
+    "CALCITE-1474": [
+        "e062f6d1edb8dea7ee4826d47ce79525b55cd2cf"
+    ], 
+    "CALCITE-509": [
+        "b1d22c7ed929e586808f90b25df13fb86cb89546"
+    ], 
+    "CALCITE-1051": [
+        "b4b04d29cb63ceea123ec41dd3247a0555f9c150"
+    ], 
+    "CALCITE-1056": [
+        "ee52f691b844d97919a8c0ca211a7c78b86165ef"
+    ], 
+    "CALCITE-2842": [
+        "880393ee46352dea1569380bbdbc8004f7b39990"
+    ], 
+    "CALCITE-2843": [
+        "e8baf4f4720e07cdce1aa2baabf20042b9353bbb"
+    ], 
+    "CALCITE-2484": [
+        "0af6e4133d859a7dfd7498f141950a995d248f4c", 
+        "23eb11eb3b59e496cdc865926537a76fff53c165"
+    ], 
+    "CALCITE-2480": [
+        "6d6421c8a4e0c578bfff736c4690c1c6f47572dd"
+    ], 
+    "CALCITE-2481": [
+        "6cad2ee13e50e9444f80a744409d4e6ca483a30c"
+    ], 
+    "CALCITE-693": [
+        "bf88476b04595f16037733901ed8256324bac187"
+    ], 
+    "CALCITE-820": [
+        "77674a7c64dfbe7f45a2fea12bce475a9f96161f"
+    ], 
+    "CALCITE-1121": [
+        "dd8d3c5888618d1568db49f0deb8b4a2f7c2b56f"
+    ], 
+    "CALCITE-506": [
+        "b7427ed741b1ab20a3d919b618a6f2eaef0b275a"
+    ], 
+    "CALCITE-874": [
+        "ba789deb425402aa3f92672f8ec956a90359ca2e"
+    ], 
+    "CALCITE-1764": [
+        "d2368327ede5891417e579998c0e30e1ef5c54c5"
+    ], 
+    "CALCITE-3166": [
+        "15e63787a6c2ccaa01582991068d8e74daf93d1f"
+    ], 
+    "CALCITE-568": [
+        "1b159393f91be1b9c24d2166fab01a61af6dbf33"
+    ], 
+    "CALCITE-1147": [
+        "94f8837c4974edc33e58b16b9ee2f061125b9b60"
+    ], 
+    "CALCITE-566": [
+        "49ec280180cfa74cb35f6a50fbcf84857f690951"
+    ], 
+    "CALCITE-567": [
+        "28907b7d10b7f46813b429c9f651d777645f9a0d"
+    ], 
+    "CALCITE-563": [
+        "53e15af6c5e8e782b2edcd7f5bf4f5f32225d110"
+    ], 
+    "CALCITE-560": [
+        "42d723928b091a7aeb57e9792022d7d7f8afd3d6"
+    ], 
+    "CALCITE-3098": [
+        "6c96d15c47fb545e7a8405f68d090fd7233e553d"
+    ], 
+    "CALCITE-1046": [
+        "f650bccd1bcb364fc6be9c92214843499bac6843"
+    ], 
+    "CALCITE-748": [
+        "6609cb1a30bf36b1223078e8ebaf7cc9f7289b7c"
+    ], 
+    "CALCITE-3046": [
+        "b8bdfb074be12f90c98f9f1fa2af8cf46f2d36f1"
+    ], 
+    "CALCITE-979": [
+        "8cd8ad9259bbab48b8794e6033eafddc2d611698"
+    ], 
+    "CALCITE-2183": [
+        "3ce09bdb2adb01fb7b7abed0cc9f17a86ad448f5", 
+        "d329331932628fb446fc8404639cb67190cab1cc"
+    ], 
+    "CALCITE-3096": [
+        "aabcb2e5d1df0201fc8b5f3d99f9317bde6d49ae"
+    ], 
+    "CALCITE-3097": [
+        "21ada17e140ebe76bba7c3e348305eff651bcaef"
+    ], 
+    "CALCITE-1609": [
+        "3f955ee758c1d7d54e7be258c0fc79e6b66cccec"
+    ], 
+    "CALCITE-1608": [
+        "6cb4d45b02b03a71f4fe1ce52844f750e3ec1fd8", 
+        "d6c5d6e122f23ea1e62a4e02636f79011cbe2248"
+    ], 
+    "CALCITE-1042": [
+        "efb668bb58cdc85e85facba3ec2365549778eee8"
+    ], 
+    "CALCITE-1602": [
+        "5181563f9f26d1533a7d98ecca8443077e7b7efa"
+    ], 
+    "CALCITE-1601": [
+        "4a3df4ef9746760b17c639c6b5be609a31adcd5c", 
+        "095acb1004c4432b6eb11390f61227ee58dd78db"
+    ], 
+    "CALCITE-3307": [
+        "e2300d297d291514906ca002d045664732ec928c"
+    ], 
+    "CALCITE-975": [
+        "0045e01f6178df5bcc8caf780040f3cff159bb20"
+    ], 
+    "CALCITE-826": [
+        "0357573f57346e976baac9828759b0a991bd9597"
+    ], 
+    "CALCITE-1194": [
+        "a5928f04655df08e1680ef508219e957575ac8d1"
+    ], 
+    "CALCITE-974": [
+        "4e61eae560f5e2e46ca96a1002522cd1a3317a4e", 
+        "737846ee992cbeb6513075fdda5d99b42b6cf515"
+    ], 
+    "CALCITE-1497": [
+        "dccbb55ae4ef904c4242fba57e173b6536a32ed5"
+    ], 
+    "CALCITE-1188": [
+        "d1bada4231c2ce81b6236e0c11d73c85a7df6e83", 
+        "8de5d8d000104fc1e48d77abac72811c52fd9cf1"
+    ], 
+    "CALCITE-2982": [
+        "eed664de8c45af1423d692af88cc98395adcb072"
+    ], 
+    "CALCITE-1230": [
+        "e77b86638cc85fe58784c447619a8d4bef9f3940", 
+        "6bc34d03158168d4d8910e04fa33e5189cfc245e"
+    ], 
+    "CALCITE-2986": [
+        "cd9697398959bf518b255d1c59e7686c45f39646"
+    ], 
+    "CALCITE-1238": [
+        "0d2eae5be5adcebcc2dd7df6a7887d70cc961b6d"
+    ], 
+    "CALCITE-1239": [
+        "eb02ac3fcef9deb2b16668f5dc06c9a89c0e658e"
+    ], 
+    "CALCITE-1273": [
+        "063f5788bb2eb29311f43f642660a8d56ed1f40e"
+    ], 
+    "CALCITE-515": [
+        "85887fe3516e6dcee2e11f95571a40bed3e1cfbb"
+    ], 
+    "CALCITE-534": [
+        "019a16f94b8c856b604c5525051666ded88f841a"
+    ], 
+    "CALCITE-841": [
+        "c1fb82996b702397a2506970a31f3a6b4c7a956a"
+    ], 
+    "CALCITE-840": [
+        "cb7c213cd74a9d684d3707b35ec993e68ceb1da5"
+    ], 
+    "CALCITE-1461": [
+        "3e886e9e898066d5e251ec6d958478282e817d79"
+    ], 
+    "CALCITE-842": [
+        "4b519b9882c861bf366e2c9d9928cd6deb5cc8b9"
+    ], 
+    "CALCITE-845": [
+        "2fd8c5a462a4369a267cfc118fa87b03ccba6478"
+    ], 
+    "CALCITE-844": [
+        "977206c5c0521f4e7aa3f18159b19a6467e0744c", 
+        "5219eb8cd4e8c1f0b1654da3136ce1c04e38a96e"
+    ], 
+    "CALCITE-1465": [
+        "0f36aec7fd2c8de1acfe381af7bb4f0690511377"
+    ], 
+    "CALCITE-846": [
+        "0c1a135833cccdd7f75e18544ed2a627fdad1119"
+    ], 
+    "CALCITE-1742": [
+        "4519ef6e599ebe9b1c182016bea62d0ac920ea1a"
+    ], 
+    "CALCITE-2027": [
+        "0ecbdab792a80b1f05c6e03e99026f854b7e3af6"
+    ], 
+    "CALCITE-960": [
+        "7dd2142065f0348fe9ce89974b4a5751330452e3"
+    ], 
+    "CALCITE-961": [
+        "05e099f3986e7e52c6213e26e9e9d8044987e9f6"
+    ], 
+    "CALCITE-1746": [
+        "35cd2abc8a53c746eabcd9f273ec2dd3b9dee98e"
+    ], 
+    "CALCITE-1747": [
+        "fa8defdd2709489215927362f87da97af1769674"
+    ], 
+    "CALCITE-2020": [
+        "d134694aedcf19c0620b42045167ee13e15f5e2a"
+    ], 
+    "CALCITE-2021": [
+        "16f1fcf25617fca22c6bf097161602df17884f06"
+    ], 
+    "CALCITE-1724": [
+        "22fdd88584bfb3a0d77fc8f03cf847d343e5f9a7"
+    ], 
+    "CALCITE-2147": [
+        "1bd6839bc3f755c3e5599a1e251e4772e33e3f56"
+    ], 
+    "CALCITE-969": [
+        "80bbb5bf2a53612be6bf2e6f086141e84c5e9a61"
+    ], 
+    "CALCITE-687": [
+        "8f2fa3a50d43bc91b54a42d70ce5fd471fa25a9d", 
+        "d4e31a1cd2bbd36a0e991edd62c84b705125e61a", 
+        "948e45671d04f720a71b79f022e143aa480164d4", 
+        "b18a4df3dacc63d01aa71e3145049e3fdb2eef5c"
+    ], 
+    "CALCITE-1579": [
+        "a118f821e3d49b6fc30c0e1e39d72026f2bf6ea1"
+    ], 
+    "CALCITE-2143": [
+        "26b18910f267233f812c3774723516742b5b3f42"
+    ], 
+    "CALCITE-2029": [
+        "61f1258c678d40d1041d89bdfec58b665a36fb6b"
+    ], 
+    "CALCITE-824": [
+        "5d8a90b8da6ed93393df0545dd4e49558dbb6db0"
+    ], 
+    "CALCITE-3007": [
+        "ceb36747a6b2546f87cf52e65c4f622a08e2828e"
+    ], 
+    "CALCITE-3006": [
+        "41df09cb3a842b43606fa69bbcb25a70d8250bdb"
+    ], 
+    "CALCITE-3004": [
+        "f26d92f956c4f8b59bafbf7cfc7431f3d4d536f9"
+    ], 
+    "CALCITE-761": [
+        "e03dafcf20c8c5af5fffda88b4813017dca30048", 
+        "4b60b9bf46b88b4dc6af8279013cbb731d98a8d3"
+    ], 
+    "CALCITE-3182": [
+        "58b6ad6135d909c053f15fb902d8b73559d1fa53"
+    ], 
+    "CALCITE-557": [
+        "0c052cc68ac0e215ac53ae3fd5dae59c18eb145d", 
+        "506c1ab46b6b3e0279c799acc4e4412d542e8b6d"
+    ], 
+    "CALCITE-1990": [
+        "9c5ebe340ac45d2d71f3dd3cde391d04ca19a771"
+    ], 
+    "CALCITE-1996": [
+        "fb760a6f4e0cf8ccf92380dd676a72d00402d53e"
+    ], 
+    "CALCITE-1995": [
+        "a9ac3e486863b36009a6e5e0f066134ad34b3334"
+    ], 
+    "CALCITE-1394": [
+        "514d262e50dec42e8605479f9d6b2d95f0d5fe2e"
+    ], 
+    "CALCITE-1279": [
+        "23c8e4588c2c23703cb90ad66e51b90a8a53d7df"
+    ], 
+    "CALCITE-1998": [
+        "45425103c0be0604bb3c6c650f8f13ecb47de519"
+    ], 
+    "CALCITE-1397": [
+        "0a1a190c137f91d8cef73e610c9c6baf0142d03a"
+    ], 
+    "CALCITE-1302": [
+        "ac9c8c7af020a0532e3e7e31b4216f69d9f0b39f"
+    ], 
+    "CALCITE-1300": [
+        "3b5d88e6a717600f2c7c282ae7319875866017ea"
+    ], 
+    "CALCITE-1301": [
+        "b22733c7c52def566abf84dd020258ae0194b21d", 
+        "92e6494b1b5e781c58e5a99a86c1566418774ca4"
+    ], 
+    "CALCITE-1306": [
+        "e046be23d7364e16648ade5240ad948a04cc814b"
+    ], 
+    "CALCITE-1305": [
+        "787a9a1b19da84021d2a9090c6ff5972e999c6b3"
+    ], 
+    "CALCITE-1390": [
+        "8aa11626ea3e87ec4f06bc383eb452a77cc695e5"
+    ], 
+    "CALCITE-1909": [
+        "9efefbc8cad3a965e2a22730dd06015c0b2b4ff7"
+    ], 
+    "CALCITE-1515": [
+        "a3c0abd920e65afd47abc2afffd645d6f851ad15"
+    ], 
+    "CALCITE-2281": [
+        "44f7338902627a5306f2390af1b407069bdebdda"
+    ], 
+    "CALCITE-1513": [
+        "44c04eedff518ee3ed04106b53775c97cdc77707", 
+        "1ccebc89befa93a0bf2a4d98cf35b2558a37f6d4"
+    ], 
+    "CALCITE-2287": [
+        "7924eb0eb38e7955b054919788baf45f9e72cd6f", 
+        "08e432295e202c59427f15b47ec5b54d992db68f"
+    ], 
+    "CALCITE-1511": [
+        "1d2067bd0497540b3e416ac5c7440ea9578cd196"
+    ], 
+    "CALCITE-1290": [
+        "9b1624a88a506a3ceb1c5ccada1522d2a665aec6", 
+        "77315c069ad01ad37c6add10abd179a59ce3765c"
+    ], 
+    "CALCITE-1900": [
+        "0cbd2a1825768835dccce1b24f746bc968908c3a"
+    ], 
+    "CALCITE-2320": [
+        "2a79e837b38ac1348d9acf4f2f9faf1bda323525"
+    ], 
+    "CALCITE-2323": [
+        "f17c376b6f8441d4f029a450588179341d90208f"
+    ], 
+    "CALCITE-2324": [
+        "a9d6cfdfdce908b31a4361ac0460b83548d0fd4b"
+    ], 
+    "CALCITE-2327": [
+        "c8e91ea1db1e519d9d73bbb8b08ee27f710cb1d4", 
+        "141781bf4d591d973812c73ea9f03d715b5406cb"
+    ], 
+    "CALCITE-1907": [
+        "a473eca597300395ff89f949401505ec122a9774"
+    ], 
+    "CALCITE-1866": [
+        "bc269aab9e87715a250a4e28851d125b195815c7"
+    ], 
+    "CALCITE-2730": [
+        "8c7dc786312d0dc0dc3f075c81ff71ac1ea871c5"
+    ], 
+    "CALCITE-2731": [
+        "b51dbdb99907f92d9e9f3f92dbe27fe4160ae0b2"
+    ], 
+    "CALCITE-3138": [
+        "1e62d3d64fc217d14016702237b4f8d56b3683f2"
+    ], 
+    "CALCITE-3136": [
+        "59c7acd802a885dec1db576974bea6e205d3d955"
+    ], 
+    "CALCITE-932": [
+        "d50c46a1a970c6bad47f31c1dfc56a14146c37f3"
+    ], 
+    "CALCITE-2551": [
+        "001a8fd377854ac7ee7bc13c81502621777894d8"
+    ], 
+    "CALCITE-3131": [
+        "3ab722b5cccf3357f5c6fddf796ccf612d978cc2"
+    ], 
+    "CALCITE-746": [
+        "4b93fa82633da350309d214af52e4606fa18e5ab"
+    ], 
+    "CALCITE-728": [
+        "a27bb57ab612fdb87d77cb073f9aaa93499ee775"
+    ], 
+    "CALCITE-3189": [
+        "0732283cab7894ffdce6a22ebe5d31b28d389a4d"
+    ], 
+    "CALCITE-2456": [
+        "72e952d1a79ee2d7ba05de88cbc2ac11f65cd879"
+    ], 
+    "CALCITE-740": [
+        "6ece12a862d9fb03f2be77c0d60880a30fbd79b1"
+    ], 
+    "CALCITE-2454": [
+        "866d855bfb7f95d4e064531fceb0cbf27ed6edff"
+    ], 
+    "CALCITE-2512": [
+        "2817bda61dc8d7dd4249f32f250228f5f0797e24"
+    ], 
+    "CALCITE-1781": [
+        "5ee895d3021028b5412833b8cd37deda1b5af4ea"
+    ], 
+    "CALCITE-1982": [
+        "d633402c41158da3fc00eebcf0e75b0c7da71450"
+    ], 
+    "CALCITE-2514": [
+        "d12549530c0aeeedbd6b03f5473c15029d93566f"
+    ], 
+    "CALCITE-420": [
+        "5184aa7baba6298a31fa063e5ac2c55e41a21a13"
+    ], 
+    "CALCITE-1018": [
+        "84b55ef5877f947548bb19ce1133fb0abd9a6d29"
+    ], 
+    "CALCITE-1019": [
+        "352aaeade9c9b1d99710009e0509cfe8ddfdb698"
+    ], 
+    "CALCITE-1016": [
+        "02e7ad61321f9690b41cc1c93c6b9c92fb925451"
+    ], 
+    "CALCITE-1984": [
+        "20eee6313c87a149fb36392a8edf7ede2ec17705"
+    ], 
+    "CALCITE-1015": [
+        "f12aa72ec79f8300be6441c1afd83c908f9fe0be"
+    ], 
+    "CALCITE-554": [
+        "1edcba060a55888204f32b8516eee65f8409c8e7"
+    ], 
+    "CALCITE-1010": [
+        "82fd259c64e94eb58bf163183871e1c9d6332b62"
+    ], 
+    "CALCITE-2801": [
+        "78251a196543a51b67f43b21f484ffcc8a8aa3f9"
+    ], 
+    "CALCITE-2802": [
+        "1961d13fd801a6ef8d12ae6babdb75e61f87013f"
+    ], 
+    "CALCITE-1396": [
+        "ddd70fa9ea214ce284c8cb41c38e6bea1c3bfa5f"
+    ], 
+    "CALCITE-2804": [
+        "3ebaa591c6fa045310252944a292b85908a938f8", 
+        "e0774db1fad3e0c509cfa9c1a929875015c14c2b"
+    ], 
+    "CALCITE-2805": [
+        "cd01913c2c2333ea120b3b5dedcdacf40c618de4"
+    ], 
+    "CALCITE-2806": [
+        "edbaf6c2b61d10eed082ca33993b919b683fd955"
+    ], 
+    "CALCITE-1392": [
+        "66274481fbca9c3ed9cd1f6f690bb2163ff07ba9", 
+        "a1e50b618d9ef011cb5b771b3a872bb69d93a361"
+    ], 
+    "CALCITE-2965": [
+        "4d04773054c5bda3b43c3dbeb2be01df19cbe3e3"
+    ], 
+    "CALCITE-1399": [
+        "c9ec5c88dd46e2c49ec3137d835b086708fbc4d6"
+    ], 
+    "CALCITE-2962": [
+        "a51a187c2216351905d0da552dd59479ba5b6bd6"
+    ], 
+    "CALCITE-2358": [
+        "37944bb638f2d3c52f884a841c2a27532e892014", 
+        "4536000f2c4868b75f1000d61a8ac9ed0141fcfa"
+    ], 
+    "CALCITE-2359": [
+        "184bb1857fcb6df63b05410d25bc0078de0f71ab"
+    ], 
+    "CALCITE-2213": [
+        "8746ef792d067a72473349200c741d4054b11e95"
+    ], 
+    "CALCITE-2355": [
+        "d35c11c73cc78cf379d7e886cbbfb62b91d75fad"
+    ], 
+    "CALCITE-2605": [
+        "06197d3bbe54d00fc695e7c50280653c1758e056", 
+        "fce3966b29673a835b2a21b714d107eb4aa56e47"
+    ], 
+    "CALCITE-2353": [
+        "aaf44711ae2b01ab97be93dafd86dd97b75e5101"
+    ], 
+    "CALCITE-638": [
+        "76a0665c071fe127a514e4425e875bfe2a9d0e1f"
+    ], 
+    "CALCITE-508": [
+        "94752a6066cd8a379782510a78a885cffb5aadb9"
+    ], 
+    "CALCITE-1420": [
+        "c7e0ff2e0853206b06650dd331a08ac4b3282540"
+    ], 
+    "CALCITE-632": [
+        "3923ec76b749dcb29d53f8d4cce6f7070a5724e3"
+    ], 
+    "CALCITE-633": [
+        "3807827b849dbdb8e58f8319e04823c69bfe7256"
+    ], 
+    "CALCITE-634": [
+        "5e285a16108b725f826acf8b14e2edf3b26989ef"
+    ], 
+    "CALCITE-733": [
+        "0e7de28f92caf5d2692603ea18b0776a35149686"
+    ], 
+    "CALCITE-951": [
+        "b82704f8c1a1559b4b2a04315ae934851a4a74eb"
+    ], 
+    "CALCITE-2933": [
+        "7df06784a725bd9bde421b5d86ac69a3e30d66b4"
+    ], 
+    "CALCITE-356": [
+        "6c88546ea8a0deb544df57536ed24466fbb46b85"
+    ], 
+    "CALCITE-735": [
+        "b812e045088e7eec83005fd04a4c64cd1adc71b7"
+    ], 
+    "DRILL-1145": [
+        "468a161bbd8fd4994085d96e2bc801209a17cf76"
+    ], 
+    "CALCITE-259": [
+        "9475b2d337ab16b0b98dd046784afab2e7c5ca24", 
+        "01b2d057c329165f1180c53a8d8329b1b225447f"
+    ], 
+    "CALCITE-3229": [
+        "7625938f1faa37fe34540d3a7a2257ec7eae5704"
+    ], 
+    "CALCITE-3228": [
+        "22577e488e04d4056e15af96bac4246fd810f0fa"
+    ], 
+    "CALCITE-3223": [
+        "729446005617059c0ce9fef4068087e4ca9ca139"
+    ], 
+    "CALCITE-699": [
+        "a357e910809da869e2edbad68f35346b1f5498fd"
+    ], 
+    "CALCITE-1649": [
+        "b74d3b13eb98e71633a724e8f2d1a7ceadaf9352"
+    ], 
+    "CALCITE-3220": [
+        "48c0db1206b17c571d477d912d193d32b5be1eff"
+    ], 
+    "CALCITE-3227": [
+        "979a825fab0757c506363f5df6ed7997674e8726"
+    ], 
+    "CALCITE-1167": [
+        "4402f9194291def0de7263a57889572df339fdb7"
+    ], 
+    "CALCITE-3225": [
+        "f82353c80223143673fc78561a05c79d6fd4f364"
+    ], 
+    "CALCITE-600": [
+        "1ae40b0051bff7100e415e1954d1220cd3ff62f3"
+    ], 
+    "CALCITE-604": [
+        "b916a65b9615b8fff377f6b05991f445d43edf6c", 
+        "d14040c52f8b0bc351443cff1584e8b587378698"
+    ], 
+    "CALCITE-1706": [
+        "6b54b6ec1718040980ed9ea60faa0e1814ae3ea4"
+    ], 
+    "CALCITE-1707": [
+        "7c2f5a83c5c4416a6ec91bb8aa043cd60962ed37"
+    ], 
+    "CALCITE-1704": [
+        "0e11746aca3e0abf4e60fd1545eb89ecf174ca95"
+    ], 
+    "CALCITE-886": [
+        "96cdda29e78427ae8aeecdab2f3ffab4651ad0b5"
+    ], 
+    "CALCITE-553": [
+        "95fd04176576958c7766c98945186092ae226764"
+    ], 
+    "CALCITE-552": [
+        "6e1791adc4c3dcec4701821c30b777516e11a447"
+    ], 
+    "CALCITE-883": [
+        "577e72cb95e5d4d88f187909c14d8691c266ac4c", 
+        "d7946a94adfd2e788f5d324910944dd65dab11ee"
+    ], 
+    "CALCITE-929": [
+        "ee0e824d1246bb3ac4da3bfd2757d390f8ca6583"
+    ], 
+    "CALCITE-926": [
+        "2c339be180d67853431387c26f8ed6726148f2cc"
+    ], 
+    "CALCITE-927": [
+        "afd7e2e213d8db6a2a1689bb0e9842833178ff1b"
+    ], 
+    "CALCITE-922": [
+        "c5f2599f493ecdd12494e6cb0bb36ee0f09fe857"
+    ], 
+    "CALCITE-923": [
+        "808d540b3df47d98b25eeb83ee8f407909ba8c3a", 
+        "a6f65dc97ac578c886544b961cb4db40e90bcccf"
+    ], 
+    "CALCITE-559": [
+        "d80e26c016babcb250e41b0abe94b8b0cfadbbe7"
+    ], 
+    "CALCITE-921": [
+        "6f326d0391923f4c4af5f9e60eb2ce263fdad081"
+    ], 
+    "CALCITE-2101": [
+        "8eb7d0ff2a6067b7555ef63ddc5422d6523f45cb"
+    ], 
+    "CALCITE-1944": [
+        "183004093139d697b479a32b1f82db511bf74127"
+    ], 
+    "CALCITE-2102": [
+        "1e9fd38ba7b702675a066f6bd712d03b7b07410e", 
+        "01ee7235b76f8d0111d43ab9d46655c3804777c0"
+    ], 
+    "CALCITE-2105": [
+        "a609b4732f545b7a17006728f0d36587b2babc95"
+    ], 
+    "CALCITE-2107": [
+        "e3a3f7b7915923323e698d0585a2b70fadb35ce6", 
+        "7f86f4e6e416d134a436bdc9cacb478bd288be6b"
+    ], 
+    "CALCITE-2108": [
+        "cb8376b13ad50003134e398a87161bec68908606"
+    ], 
+    "CALCITE-1498": [
+        "6a2d9e02e7696d46428a19d37cb8ad88ef304981"
+    ], 
+    "CALCITE-3357": [
+        "3b26283b61ca5e6be79c8e95c6558c8ab6985952"
+    ], 
+    "CALCITE-688": [
+        "53b4b09606de5fe14f49e65a6d5b4346ec930a62"
+    ], 
+    "CALCITE-1218": [
+        "9deff987ba177a6eb1ded2813e770a9233f3f2f4"
+    ], 
+    "CALCITE-3296": [
+        "70f1453086d67bd6d431d63b93a27baf0cdba06d"
+    ], 
+    "CALCITE-3297": [
+        "c1b042fec9a979bfa39a767f7b04da0a5134053a"
+    ], 
+    "CALCITE-3295": [
+        "97d68952d467540cddddbe8350f706028001dfbf"
+    ], 
+    "CALCITE-3292": [
+        "b8d24a6f7f2b4c7cb8093eea158f1fa00dbc6ffc"
+    ], 
+    "CALCITE-2080": [
+        "04cbdb2cead5985322db737e1b0b8ce2259a7306"
+    ], 
+    "CALCITE-2081": [
+        "a1fe769114a15559b5f352059aec1f91f416a28b"
+    ], 
+    "CALCITE-1344": [
+        "39baed5a2b77a1e41fcee49c1b74258c8213270f"
+    ], 
+    "CALCITE-2084": [
+        "26b4712d4ac36c49aa8c80b2f0841be37c9de1df"
+    ], 
+    "CALCITE-1343": [
+        "f8c2c8070238b99d8b16dc9b057e1a53462b1d9a"
+    ], 
+    "CALCITE-1340": [
+        "69839c3798c8221081d80edaaca27a310ce9005e"
+    ], 
+    "CALCITE-1264": [
+        "2f937c1ba354726a340968a51224131a71017979"
+    ], 
+    "CALCITE-1266": [
+        "48e434263e526dcfa0c367e523cdc83b5989ab16"
+    ], 
+    "CALCITE-352": [
+        "59657ec75981fb1416d127c413a8dd7ae3571a1d"
+    ], 
+    "CALCITE-1263": [
+        "92e6494b1b5e781c58e5a99a86c1566418774ca4", 
+        "240cee44579e25f87ac5de0c2e676278ed474e5b"
+    ], 
+    "CALCITE-92": [
+        "3c508b5c4fa3aa3eff3837df77a06f3361103dee"
+    ], 
+    "CALCITE-1559": [
+        "b0362231a6b1cbc85a0e1fe2308d2476800f1511"
+    ], 
+    "CALCITE-1558": [
+        "2b9663752a0bfffce4641450b01365cc4f2124e1"
+    ], 
+    "CALCITE-2678": [
+        "02ca9bc995cac5b4b97855a4d06df46e632d7c22"
+    ], 
+    "CALCITE-1366": [
+        "29daa4513f19c82a410ea3c36a6116260caa0216"
+    ], 
+    "CALCITE-1072": [
+        "7b944ade81f600e74b43f9ab8ef7ce84f05b3e2a"
+    ], 
+    "CALCITE-612": [
+        "469e5fc1231ee93db333c47222ecf4b6533f2c6b"
+    ], 
+    "CALCITE-1552": [
+        "6f761d367feb1819664f145b9f7732bff5e9c602"
+    ], 
+    "CALCITE-1551": [
+        "31d68f71b01f016625a1def800c283820c600840"
+    ], 
+    "CALCITE-1555": [
+        "70b8325130bc6be953e5a9a0ce99f9e0c383268b", 
+        "3f261072c96a3c5042b2987c35880826f0a47a00"
+    ], 
+    "CALCITE-1772": [
+        "9c10c3da15ee65190cca4767d9a52406ba9ba1b0"
+    ], 
+    "CALCITE-2776": [
+        "614b4350f558a4fabaafc06fef9689ec4c267994", 
+        "bfc842a043fc1fb0776d4d2ac633cf91acda3dc0", 
+        "bfc842a043fc1fb0776d4d2ac633cf91acda3dc0", 
+        "bfc842a043fc1fb0776d4d2ac633cf91acda3dc0"
+    ], 
+    "CALCITE-1798": [
+        "946b24f4dc163dee018de90b2dcf7082bb892cfe", 
+        "f8ab9078bae8c519ce4c86d741490779ea899a14"
+    ], 
+    "CALCITE-1829": [
+        "419b810fe67539cf7a3d653e918352fbaf10e8b0"
+    ], 
+    "CALCITE-958": [
+        "c7809245478a74b3e574f2899589d83dfb27817f"
+    ], 
+    "CALCITE-1416": [
+        "6378fa6889a2527f13ef70a223ee4ee305bb51fb"
+    ], 
+    "CALCITE-2078": [
+        "c7d9b3d561243c3cb97595f4fe9a0ccf05ce85ac"
+    ], 
+    "CALCITE-1414": [
+        "a28378237fdaeef66a74476d30b10bcb5999f2b2"
+    ], 
+    "CALCITE-732": [
+        "3e50232b681e8dadb921580ee6f3e0376dd0f664"
+    ], 
+    "CALCITE-2074": [
+        "11da17b59249b4bd1bbd384a53f1cfd9ebaaf888"
+    ], 
+    "CALCITE-1418": [
+        "5cfe4e18b9a6dd9ff5f607844df3351c90c3e079"
+    ], 
+    "CALCITE-1419": [
+        "c3592044c1db6d2ca21cbc3e25d47f3854db3347"
+    ], 
+    "CALCITE-2071": [
+        "01be1ce69a5cafd8c60d528c28f1220554ee48c7"
+    ], 
+    "CALCITE-2070": [
+        "d11664905f8b6875196aa6ab25d6b3b314492cbf"
+    ], 
+    "CALCITE-955": [
+        "9a52b5eda9fcfb4e6a7ad94fbd4a1c3fa2fb869a"
+    ], 
+    "CALCITE-1949": [
+        "b1e3c82cb1f25396eb41a106b805f3cff90a5346"
+    ], 
+    "CALCITE-3172": [
+        "046f9f4e2e3c779e4e2e61946d67a0dc124f7f72"
+    ], 
+    "CALCITE-3171": [
+        "e1875e3f78d91711ba174834cdead500361b19e6"
+    ], 
+    "CALCITE-3170": [
+        "cb364ce8109f92c80c17bb37d1cb1a03e6222bbe"
+    ], 
+    "CALCITE-3177": [
+        "4954216c71a6262728ad6ed4792d4ac7b9ec7b71"
+    ], 
+    "CALCITE-3175": [
+        "61b7280ee1167235e3fbd76a6ce379fc83658dbb"
+    ], 
+    "CALCITE-3174": [
+        "6d7eca19bb0a22d059abe4e283d003d2848e55af"
+    ], 
+    "CALCITE-3072": [
+        "7fa13bf164f9354aed492b03f753c2b9b30b0164"
+    ], 
+    "CALCITE-1782": [
+        "ac364e8c8a100e818cfc048bf78a4100f07276d7"
+    ], 
+    "CALCITE-3076": [
+        "50cd1340c6df8f4d8e2bde287ddd18c1b07e312c"
+    ], 
+    "CALCITE-3077": [
+        "4e1b68e3c0b2a90832cc790c6166cebb14ae2970"
+    ], 
+    "CALCITE-1502": [
+        "9b62ab3dca7c3c8aac3f8c0106ecc459a291d9a6"
+    ], 
+    "CALCITE-2654": [
+        "4cc46130f71d21e4f5b76f6e645380cd83d2c921"
+    ], 
+    "CALCITE-2657": [
+        "042fa6b7135fc8861816985253657dd685471f25"
+    ], 
+    "CALCITE-3310": [
+        "81c768e60078bcb6c8c78057d80090d27ac86030"
+    ], 
+    "CALCITE-2652": [
+        "ebc43d9288dca1990992b16a1fa8bbfdd193f939"
+    ], 
+    "CALCITE-1636": [
+        "bbb7eaa93f47bf58ab2e44219b26ee0c09058f50"
+    ], 
+    "CALCITE-2796": [
+        "1f4b61989faec2a4b5a4a8eac58cd621843cf2b3"
+    ], 
+    "CALCITE-2658": [
+        "0537f27d87598dea888050a4cc63cf4d6fe027d7"
+    ], 
+    "CALCITE-1509": [
+        "808ca6219c30599985dd5cda8e0f4fc14f40fc82"
+    ], 
+    "CALCITE-662": [
+        "7d522dc93f776ca019366c442dc54f6f8c5fd6b1"
+    ], 
+    "CALCITE-1634": [
+        "d6093f080215a51c7617747440569c13611ee70d", 
+        "dc03b5ae98d06bfdb167a97b62310dc1b5456aba"
+    ], 
+    "CALCITE-1972": [
+        "f10950b58b66954eadc7c275e9549fb9dcc02864"
+    ], 
+    "CALCITE-2259": [
+        "d59b639d27da704f00eff616324a2c04aa06f84c"
+    ], 
+    "CALCITE-697": [
+        "d952efb831e13f7408aab27779e5dd70c955c9f3"
+    ], 
+    "CALCITE-1292": [
+        "eb291b029eef17b36362fa042c21f54b57a278af"
+    ], 
+    "CALCITE-1293": [
+        "2ddff7a5eceef62b906e9e17820bc0238c2f351a"
+    ], 
+    "CALCITE-2927": [
+        "3124a85b93ff2f1b79484c7bd4cc41835d4f1920"
+    ], 
+    "CALCITE-1357": [
+        "962eac566cb19a95d8581a1b10fc120657069b1c"
+    ], 
+    "CALCITE-851": [
+        "39487512e04cc89ae4f0e6909bf91c552f933659"
+    ], 
+    "CALCITE-1297": [
+        "2193c6e6e88873dc4b63d8572eebeaa51c795c6c"
+    ], 
+    "CALCITE-2253": [
+        "d83cb9029e37c52fba7d07a5a33978a9f01b8c5f"
+    ], 
+    "CALCITE-1356": [
+        "7aa9c5d278d4e71ad875d9fa49c36eb9738e4f58"
+    ], 
+    "CALCITE-651": [
+        "17d7a8e3dea6e4868a5851ec46bf400b9caf0038"
+    ], 
+    "CALCITE-1485": [
+        "aed0a9e90cc2a9c7a90dde5a5775f329db743bc2"
+    ], 
+    "CALCITE-1484": [
+        "6a7da0ec8280c29512d4250e0fa06af436e11632"
+    ], 
+    "CALCITE-615": [
+        "e848cc02ed81153faa1d7426ddc6d4ac1abea41d"
+    ], 
+    "CALCITE-1954": [
+        "22e5cfc0d0cf05fab398e3d5aa49209d5e1424ca"
+    ], 
+    "CALCITE-2314": [
+        "6fe55e3ecc1f476bb0d629007f128ee62e771ff0"
+    ], 
+    "CALCITE-2316": [
+        "b4d9246ee34813745926c877918068e796ded982"
+    ], 
+    "CALCITE-1899": [
+        "b516216b6a51fb17b9cebb47e5b84c31207bab8f"
+    ], 
+    "CALCITE-2318": [
+        "772815470e25d2836ef876acc6d62dec1b5c4d86"
+    ], 
+    "CALCITE-2319": [
+        "2f8cc3586fe421a3783897ba8f05b3458757b310"
+    ], 
+    "CALCITE-1895": [
+        "84b49a9c1e0436bc61fba1c5d499492fddb31ebd"
+    ], 
+    "CALCITE-1489": [
+        "3f92157d5742dd10f3b828d22d7a753e0a2899cc"
+    ], 
+    "CALCITE-1893": [
+        "7ef986e28458637a7e5aa89cf4378c9e9cca04be"
+    ], 
+    "CALCITE-676": [
+        "a42b88d4ff73c41587f6a593d56fda8e25f27fbb"
+    ], 
+    "CALCITE-677": [
+        "7f8ce1978b1792848bea127094a2ee24d52c6604"
+    ], 
+    "CALCITE-2428": [
+        "a0983768d28e48ddd6ebd0488834f80ab54b85d7"
+    ], 
+    "CALCITE-2429": [
+        "a18a380095c9f0bb3da9912748a5b368e547134f"
+    ], 
+    "CALCITE-672": [
+        "a00e45219ab32455b431a4497ba3bd034ff460ea"
+    ], 
+    "CALCITE-670": [
+        "5f57f78927a38939be56325fa9b6f44693b29cc9"
+    ], 
+    "CALCITE-671": [
+        "3e26a873ae17759a9fce12d56c133488558fb771"
+    ], 
+    "CALCITE-2422": [
+        "41a06771876374474d46ef8d3a14886d742c66e9"
+    ], 
+    "CALCITE-774": [
+        "e51f853f3461a4e3f0a74b8d83cfc01e39b3f5db"
+    ], 
+    "CALCITE-2427": [
+        "f596539fcd31e60193d0032c72db9fed3b6f2654"
+    ], 
+    "CALCITE-678": [
+        "615065ac7e4aca3edf1bfb3fd8e56bf4ddba3da3"
+    ], 
+    "CALCITE-770": [
+        "e1378123eb236721414d9ac3e77a08fd10bd4aa2"
+    ], 
+    "CALCITE-470": [
+        "ca980a469702224c458c9e3473e679ff491c3578"
+    ], 
+    "CALCITE-1686": [
+        "b20b79621301507f53022184e7e77e807b038fa4"
+    ], 
+    "CALCITE-1685": [
+        "69e9fe7c21c4a31d5ad825c796a7929fd6e85716"
+    ], 
+    "CALCITE-1845": [
+        "f47465236b7650f2280092b708fa39062fe79ffd"
+    ], 
+    "CALCITE-1960": [
+        "f1a002ea8386fc89abcebc185b1f0e7a7bd30246"
+    ], 
+    "CALCITE-476": [
+        "aed5bca7c5f49d117d7b794395ff4b6ad2d76bde"
+    ], 
+    "CALCITE-478": [
+        "501040719720f9c312b2cc0db52f1fb2a7604f78", 
+        "a640e58cf026cfc80aacc92ef393c3c9ea29d7dd"
+    ], 
+    "CALCITE-1430": [
+        "aad03def2ab2995dfdfedfe8f62605a43c7d2858"
+    ], 
+    "CALCITE-1125": [
+        "aa8fe0828d319614bce2fc1a519ad907f25d904e"
+    ], 
+    "CALCITE-1122": [
+        "c7db615fa3432efeaa55bd3962758d48635c9e5c"
+    ], 
+    "CALCITE-1120": [
+        "f8f2af3e16364745e228570a51cf2fa5decbe686", 
+        "40576e716a402647c4b60da14e138f7911658b64"
+    ], 
+    "CALCITE-1688": [
+        "785c2fbea745649903d98f0a9e7f43de9576e8c5"
+    ], 
+    "CALCITE-1047": [
+        "3cba7055061108ce0e079d8756bcfb020b8628c3"
+    ], 
+    "CALCITE-1475": [
+        "b22733c7c52def566abf84dd020258ae0194b21d", 
+        "b22733c7c52def566abf84dd020258ae0194b21d"
+    ], 
+    "CALCITE-1041": [
+        "d4bbf58d6e5f4f67ebae412b5a1aae23769eccb7"
+    ], 
+    "CALCITE-1040": [
+        "361096ba1d0436f588e4c7a3290560059882223f"
+    ], 
+    "CALCITE-2858": [
+        "e94c1574e234ae58b7daac327ea8ce69d2873f22"
+    ], 
+    "CALCITE-2306": [
+        "e1326ace25d508f7217a8cbc5a7a2db2abf92048"
+    ], 
+    "CALCITE-2496": [
+        "ccad6f982fc0d6bd45424e602ec0432a1bcecda7"
+    ], 
+    "CALCITE-2495": [
+        "2f33a0c57b7b7e77b8193d0fff1e3531119aee0a"
+    ], 
+    "CALCITE-2494": [
+        "6b2b9ffd7e620696e7e7cf34e38641d1817f0fd9"
+    ], 
+    "CALCITE-2229": [
+        "d0a119d50e5bd9b366f2e41eff70b2d646935626"
+    ], 
+    "CALCITE-2491": [
+        "0a330e79ff1c120cf7e53af1787be913d83f73ca"
+    ], 
+    "CALCITE-2559": [
+        "4b4d8037c5073e4eb5702b12bc4ecade31476616"
+    ], 
+    "CALCITE-2224": [
+        "7bc9f14032b7cf0761c0b2eefdb6bb588047ec8e"
+    ], 
+    "CALCITE-2225": [
+        "c4e9070b8ce55c26612a1f5bdd993f6adbb56954"
+    ], 
+    "CALCITE-2226": [
+        "6b35306e7818cb3e67e27b9edbb00b1ed8338cdd"
+    ], 
+    "CALCITE-2227": [
+        "92f7259b96744180a0a556ac9f5842f705192b3f"
+    ], 
+    "CALCITE-2222": [
+        "09693abbe333ecf3c973ddee33ff8d31b20386d4"
+    ], 
+    "CALCITE-2498": [
+        "9589a360656a752be73fb27ce285cd32b22bc0e0"
+    ], 
+    "CALCITE-593": [
+        "f9db1ee9210a04f7a3ddae23e52e26be1669debb"
+    ], 
+    "CALCITE-592": [
+        "0fe2637d66d3c263d507fc2ef98366238707dfea"
+    ], 
+    "CALCITE-801": [
+        "c57d80725766c84834a35e4f3b68feb38540b66c"
+    ], 
+    "CALCITE-833": [
+        "a61be0db744081af4c375fb0dcbae4a95041ff9d"
+    ], 
+    "CALCITE-596": [
+        "2b07a9e9680e662a6d9785deb2a4ed140026e95f"
+    ], 
+    "CALCITE-1220": [
+        "216035f890c298a631137fa98d83478b6c00ab3b", 
+        "e872959797de16ef856d76526da484e094ef0a10"
+    ], 
+    "CALCITE-1166": [
+        "d81133fd0e8aee9dcd80eb62046550f65464b377"
+    ], 
+    "CALCITE-599": [
+        "c493108d38af2c152a0de48c98eec210fd5ae9fc"
+    ], 
+    "CALCITE-809": [
+        "5e7d457ae82cc7a0e3bf055fa2e1f45b19186dcf", 
+        "a3da69153b030552abf87f279487ebda4a5ae69c", 
+        "30d618d5f6254b269f7a6740f78ba9b63ff79040"
+    ], 
+    "CALCITE-3226": [
+        "2678eb9a867c6589208b60c2a07446c658d2d8c6"
+    ], 
+    "CALCITE-603": [
+        "dacde8f2ee4abb0cc11f102b1373d5d41909d91a"
+    ], 
+    "CALCITE-602": [
+        "0ecd8702ab95fd59b7ef2182720d12b2167ae968"
+    ], 
+    "CALCITE-752": [
+        "fcb6ba5fa4be7c5eb55f784f5ff74ce4bd993abb"
+    ], 
+    "CALCITE-607": [
+        "b659d0f3be34819705beffed612d82b3c162cd9c"
+    ], 
+    "CALCITE-606": [
+        "b312031f3ead3adb272b79d02d7fcfc095ec4deb"
+    ], 
+    "CALCITE-605": [
+        "3eb6515d651de14f8baa20cf9987331ab31200fb"
+    ], 
+    "CALCITE-1404": [
+        "92b3d381de4c0f6670cff06d54ce06b8231e6684"
+    ], 
+    "CALCITE-355": [
+        "5c049bc8764e931bd7771928fd25c21f33d24546"
+    ], 
+    "CALCITE-3082": [
+        "d8768f9c07fa3927475902e27c13c8bc39687897"
+    ], 
+    "CALCITE-1842": [
+        "05595f64902aa02c22a1a92c23452d74ceef02fe", 
+        "48a20668647b5a5e86073ef0e9ce206669ad6867"
+    ], 
+    "CALCITE-3087": [
+        "a3c56be7bccc58859524ba39e5b30b7078f97d00"
+    ], 
+    "CALCITE-1407": [
+        "d9ef9bbd4766b242f06f69e0432f8b6b1bc9c65b"
+    ], 
+    "CALCITE-754": [
+        "87acda3179d6a5536f8af1506d5048ef06aeb591", 
+        "ebce955d700602720882aa01b6ddead9ab10bde0"
+    ], 
+    "CALCITE-3319": [
+        "ce8ca6742bf1296af421c8e61f9918734db74cf3"
+    ], 
+    "CALCITE-1639": [
+        "6cb4d45b02b03a71f4fe1ce52844f750e3ec1fd8", 
+        "0d2d11f3b8ab4a11279b4f73d0cd913902872880"
+    ], 
+    "CALCITE-757": [
+        "468a161bbd8fd4994085d96e2bc801209a17cf76"
+    ], 
+    "CALCITE-1632": [
+        "d8c4d73fe9bd188ebc004e11ef0f48d934124d8c"
+    ], 
+    "CALCITE-1633": [
+        "b74d3b13eb98e71633a724e8f2d1a7ceadaf9352", 
+        "ceca631872ec64fa345f7df9cdf185e1f9252449"
+    ], 
+    "CALCITE-2528": [
+        "79af1c9ba735286653697deed3ff849b7c921fe4"
+    ], 
+    "CALCITE-3317": [
+        "43b6abcb35ce91aec340e0963072647106ccf229"
+    ], 
+    "CALCITE-3316": [
+        "507d383a0f8db339691bb126d66c58875fd47ef8"
+    ], 
+    "CALCITE-3315": [
+        "48086a76578b96ac961c833075357710bd624d3e"
+    ], 
+    "CALCITE-3314": [
+        "c9520c35899fe5ac363053e9fb9b292989b1176c"
+    ], 
+    "CALCITE-3252": [
+        "e8b08c490ab4270945c35f31846cd36b5788cc23"
+    ], 
+    "CALCITE-3251": [
+        "5a42812832e51a7551a793ac75160188e06668e6"
+    ], 
+    "CALCITE-3257": [
+        "ab97af39bd9438420cb5b212b95b23d9cb798f0d"
+    ], 
+    "CALCITE-1109": [
+        "8c90d862179f43ab8855f4ff50cbc1d5968b21a2"
+    ], 
+    "CALCITE-3258": [
+        "a71def51dbf3dc18af2e73418ed30e0f2e6addde"
+    ], 
+    "CALCITE-1402": [
+        "55ecc709cf1b133a36f68347730cbdcc408d3193"
+    ], 
+    "CALCITE-282": [
+        "a059f76c79080b0e283cb54e273f1ef89a444282"
+    ], 
+    "CALCITE-280": [
+        "e39911ed78221b23a8837f00b806a251ee496401"
+    ], 
+    "CALCITE-1816": [
+        "d4b0acdd32552360f983013aa1ab7505e19f4a28"
+    ], 
+    "CALCITE-1222": [
+        "af315fbeab178437162ebf3e00c44f6f2b133ba3"
+    ], 
+    "CALCITE-1225": [
+        "6031b7a477be2e60828df586f4a3542065b97bce"
+    ], 
+    "CALCITE-2051": [
+        "75e838fabaeed5ab427e606b5cb292d21bcf9158"
+    ], 
+    "CALCITE-1227": [
+        "65c1cec22d93a83b73bbdb8c73d08d8642db46e1"
+    ], 
+    "CALCITE-1765": [
+        "a377f8f2826f51c77b639ee711e2bd578f4de822"
+    ], 
+    "CALCITE-1229": [
+        "0c58243542677072a7b77555363c6204441c571a"
+    ], 
+    "CALCITE-1228": [
+        "f191a386aedaee05c6ffcc1d4b155193bfa4ca01"
+    ], 
+    "CALCITE-1058": [
+        "ee283cadf17d8add8e8ea2bf1f8dd5735f05dc1d"
+    ], 
+    "CALCITE-457": [
+        "f3cae13060f53bd673616a2cb8f6e87021dfe587"
+    ], 
+    "CALCITE-1456": [
+        "e9d0ca6731b2f5ec33b9270b5ffcaaf9e4eb8537"
+    ], 
+    "CALCITE-2196": [
+        "fb3213c3e98bc7e980b74ac845bcc006452d8b18"
+    ], 
+    "CALCITE-1454": [
+        "105bba1f83cd9631e8e1211d262e4886a4a863b7"
+    ], 
+    "CALCITE-1767": [
+        "6f07293a3843c8790af9c028b2962fd8a0512db9"
+    ], 
+    "CALCITE-1759": [
+        "d97c14c5dd62ed55da4d771e585973213affcb6e"
+    ], 
+    "CALCITE-2197": [
+        "fb8ebd31526cd2e203fa3526ca8de7a22ee0d139"
+    ], 
+    "CALCITE-1754": [
+        "cc839874242c69a8199f92097eaf113e5195e4a3"
+    ], 
+    "CALCITE-854": [
+        "4762b889699f5fb963749dca8b3106c17f44f2a9"
+    ], 
+    "CALCITE-855": [
+        "354e8240d49de42bd6972d985fea692e4785e8b0"
+    ], 
+    "CALCITE-1751": [
+        "9247cb990d697f231ec50a12a8b13aad9e8b2192", 
+        "66cdfc6a38da1ba19ac2d1f17554bba632d03701"
+    ], 
+    "CALCITE-1750": [
+        "6543c0fd8b63efb00d035790209f8546668d7aa5"
+    ], 
+    "CALCITE-1753": [
+        "2ce41591be8986359ac7382359f6934be1fc402b"
+    ], 
+    "CALCITE-1752": [
+        "478de569cf4b7084207b40ce957f47b6e8015fe7"
+    ], 
+    "CALCITE-698": [
+        "a9625ad7a4166da87a7cdbeb41b4bebf8bf1b18c"
+    ], 
+    "CALCITE-2139": [
+        "be2fe5f95827eb911c49887882268749b45e372b"
+    ], 
+    "CALCITE-1212": [
+        "4255767d9ccc3221963a98d7e2e8ce3b68e156a3", 
+        "6baa9c4bed1100012ebf4ef9547cbb077f2edaaf"
+    ], 
+    "CALCITE-914": [
+        "b1e91e1e6b3cb240899ce4448cea0c22c2ebce30"
+    ], 
+    "CALCITE-2035": [
+        "fe3529d9a6d4d826c6e77fc4c0d7d18bd681bb85"
+    ], 
+    "CALCITE-2767": [
+        "e67eb2d74c0a1f32d74025048f30fd8a94d98f8f"
+    ], 
+    "CALCITE-911": [
+        "ac8d04ed95589f29571b7de3c220876c3ebc3a00"
+    ], 
+    "CALCITE-3039": [
+        "da4970e647d58b2989077688d1e19747fd459d14"
+    ], 
+    "CALCITE-2039": [
+        "051809b4dc580bda04c401e861a62b52553c2418"
+    ], 
+    "CALCITE-2192": [
+        "3ce09bdb2adb01fb7b7abed0cc9f17a86ad448f5"
+    ], 
+    "CALCITE-3034": [
+        "b039a36a3d683f0948531b16a9d97ee50615a5eb"
+    ], 
+    "CALCITE-860": [
+        "6c81b869de56423aaef3ed276ebdf0a692711c26"
+    ], 
+    "CALCITE-694": [
+        "61ba314f1328dd5392d3d440763139ea81b86645"
+    ], 
+    "CALCITE-2135": [
+        "2f0642686b24e35c49079b432d57377c25b3f92d"
+    ], 
+    "CALCITE-3030": [
+        "e3a69708df55cf05bbe38f8f1d5bd472cf8de81f"
+    ], 
+    "CALCITE-3031": [
+        "357cb741f70f9c9d541dfc77fa0b813ee4dfe959", 
+        "fef2133ee6652688de7c6cd7ecb755cf5459cba1", 
+        "a1851b67d56f98e14fbe54a96972104585ae8a61"
+    ], 
+    "CALCITE-1112": [
+        "5464f3329ee42106ababde679b005e6eaa6a74e1"
+    ], 
+    "CALCITE-2001": [
+        "7546ef2d7f041d61fdeaee73266b710dd37c0914"
+    ], 
+    "CALCITE-1403": [
+        "73544eda3c043db65c82d79161856b00cf7744c6"
+    ], 
+    "CALCITE-2058": [
+        "0d10336a37eabd26b856171a2abcc599eecdc878"
+    ], 
+    "CALCITE-2002": [
+        "fb07036819f330e8c5c24cad64c2234d5bbc5bd6"
+    ], 
+    "CALCITE-1097": [
+        "5fdc866b72739163a6a418ea7aa1a7f68812761e"
+    ], 
+    "CALCITE-1095": [
+        "339ac13eb23b5aac6cadc16c42e36deebbcd1e39"
+    ], 
+    "CALCITE-1315": [
+        "799e1b083b57d2295681d3e58c4d88563f7ccc91"
+    ], 
+    "CALCITE-1314": [
+        "c22628fe0a1ae774b9f8549599bdee515cad2d2f"
+    ], 
+    "CALCITE-1310": [
+        "63c51d0c6459a4de5cab01188a7f3b7dd1a259fb"
+    ], 
+    "CALCITE-1313": [
+        "b4f28d7e2b79d0df9ce5e8d2ec824c84d31e9741"
+    ], 
+    "CALCITE-1312": [
+        "db6a3b3b298df81a199aff6003a32b67d74ba643"
+    ], 
+    "CALCITE-1254": [
+        "08c966b9828f534ba3d8d2ccf052de7d887c70ef"
+    ], 
+    "CALCITE-2299": [
+        "3fa29455664bec0056c436491b369e0cd72242ea"
+    ], 
+    "CALCITE-1054": [
+        "6e22245aee0b6d581bdfb5ff0b7aec0d9ff44088", 
+        "a59d677254a10c16920af26d2b19033bbb0e58ce", 
+        "d1bada4231c2ce81b6236e0c11d73c85a7df6e83"
+    ], 
+    "CALCITE-1431": [
+        "3b4e17142c98b78eabb611dcdc3e0094a957c9eb"
+    ], 
+    "CALCITE-1819": [
+        "d47191e8c48932d888cfc79574fe1ca075eb4eeb"
+    ], 
+    "CALCITE-2291": [
+        "68ba411e23ba930bb2086bb3eed4c46edfac23eb"
+    ], 
+    "CALCITE-1259": [
+        "80b05c2a931ecf4134c2c7ff73735f36c8989fbe"
+    ], 
+    "CALCITE-2293": [
+        "2b93eaa35aa8f758bfe498dc213b6c5dddf20b1f"
+    ], 
+    "CALCITE-2292": [
+        "20dbd23f8d03e762478d2d9b35df515e0fc87da2"
+    ], 
+    "CALCITE-2687": [
+        "463255c75f7e83081f56e657549d69d4feb7dbdf"
+    ], 
+    "CALCITE-2684": [
+        "0ad68c3194c7bca24dfd21302418636730274312"
+    ], 
+    "CALCITE-877": [
+        "4000edd8e69956cdc6a95f3c8d6292d648c0bb32"
+    ], 
+    "CALCITE-2729": [
+        "aafdc5219682e535144b1f25e2e41884f793d514"
+    ], 
+    "CALCITE-1527": [
+        "02752fe78f817ed317b8873d2f4c7b79bfe8b9b5"
+    ], 
+    "CALCITE-1524": [
+        "751e2b0c6d6e19bef7f07b1e0acf1ce491b59311"
+    ], 
+    "CALCITE-504": [
+        "e0a1f7d3069f0eefeb8bdd411a250cd1fb0532f3"
+    ], 
+    "CALCITE-2727": [
+        "d6fb6abd9a17b81a5d8d592860ecd5c2f20ce9b1"
+    ], 
+    "CALCITE-2726": [
+        "4da9c0d94ee0e2a2f4d03845730ffc63a83a7cbd"
+    ], 
+    "CALCITE-827": [
+        "b9670731e05465fa2a257bab809f9ff71e7213cf"
+    ], 
+    "CALCITE-2720": [
+        "5ebf458f3aa82a4b319815a014ef3cb30c775af7"
+    ], 
+    "CALCITE-825": [
+        "87e7454cf5ba1c1d1a492371e493bfae5445e62e"
+    ], 
+    "CALCITE-2722": [
+        "0e15ae669102ceffec49a6f99ac12106226a9ba9"
+    ], 
+    "CALCITE-2044": [
+        "a8505d2bd4b1560eb303e738d8137cf1840fa596"
+    ], 
+    "CALCITE-1853": [
+        "898c2d66a18af9f97f8061803a19f211d3d6ed85"
+    ], 
+    "CALCITE-1856": [
+        "c03075719c2f0aa76cb3ab611474db94d5c5f256"
+    ], 
+    "CALCITE-2041": [
+        "0ea976eed7ec6a4368c6002025a1eba0377df509"
+    ], 
+    "CALCITE-1854": [
+        "03bb2cea517a62c9d7c80295527328e1b5c84ef9"
+    ], 
+    "CALCITE-2043": [
+        "d407395e05b5b37e019a44f812aae04540e6f398"
+    ], 
+    "CALCITE-3102": [
+        "ef0c4c6ddb7553e2e858259007d8ca1cb3692101", 
+        "682dd8f6c25e421355e83e113e98d4b27bee89bc"
+    ], 
+    "CALCITE-3101": [
+        "0bbbae54dbac2bc8f738e091167dd9b027ad4f20"
+    ], 
+    "CALCITE-1226": [
+        "bf03cd9dc752017c0d90fc0168fcbdfc61be619d"
+    ], 
+    "CALCITE-2162": [
+        "e25e74977f4205ab085e8c2472a323df437511f5"
+    ], 
+    "CALCITE-2505": [
+        "453441cfd6f10683ebf0d64dfba771588c532911", 
+        "80c04cb6028f307a599350fda32411fc19733b3c"
+    ], 
+    "CALCITE-1023": [
+        "5197a714705c7bfaa6a46a0907267b47870b18d1"
+    ], 
+    "CALCITE-2506": [
+        "999716535b53f8541907fa3269de11e3e6e374e8", 
+        "1c30edca1bd7b60e3e8c0368a4c736c4775125d4"
+    ], 
+    "CALCITE-2669": [
+        "fcc8bf7f44f92efb3c9a1e1f51ffc1a09cab27b9"
+    ], 
+    "CALCITE-916": [
+        "5eb395c9ff5f60a409332b1a32536629d2d3f92e"
+    ], 
+    "CALCITE-436": [
+        "7dd1e6f10fce14aef3882fa3d015251fea8d59e0", 
+        "263640ff6c409d6a13225a01b0042afbc5226c2b"
+    ], 
+    "CALCITE-2661": [
+        "1d2929105f47b944c65529fe59b3072cce167116"
+    ], 
+    "CALCITE-1852": [
+        "f63a65a8c6ffd9a771e27ef0446496c6b67baeea"
+    ], 
+    "CALCITE-1009": [
+        "a850c41e2da262234475ec56383457475e9fabee"
+    ], 
+    "CALCITE-1008": [
+        "9c86556ff397f2548bffe90e7e338774d329211d"
+    ], 
+    "CALCITE-585": [
+        "b6283dbb74983410c99357332aadd90ec9a000d3"
+    ], 
+    "CALCITE-1001": [
+        "14419d8c360da8bdfa9d29f8c1d2fff357106db0"
+    ], 
+    "CALCITE-913": [
+        "bf178d55f88c317f36c68807649d35d3e0614e6a"
+    ], 
+    "CALCITE-1005": [
+        "b0fa9f379a2ed4426130bc565c55af74becbcd25"
+    ], 
+    "CALCITE-2034": [
+        "c25f7c93787f210927c455e9907c753695a273a2"
+    ], 
+    "CALCITE-885": [
+        "3f8363855985106cccefa339dd12a3f86dacabb4"
+    ], 
+    "CALCITE-2958": [
+        "a9687de8145de35262c34288c27961585c141ca7"
+    ], 
+    "CALCITE-2817": [
+        "d64f60cc513370cd409098f8ec997463329c1d6c"
+    ], 
+    "CALCITE-2814": [
+        "542c086749d504de5542c37f12f6a1329842f18d"
+    ], 
+    "CALCITE-2952": [
+        "98d0dce058edc66f17e89adcb5d586b74bb8504d"
+    ], 
+    "CALCITE-2953": [
+        "90e69d4188c02420027b51b11c315330759ec2ea"
+    ], 
+    "CALCITE-2818": [
+        "5ee592a19bf377438aa100dbc19d40ae8b2e2cd9"
+    ], 
+    "CALCITE-30": [
+        "d9eb4383290e6ec7a5bca8d23fa3e03167c699fe"
+    ], 
+    "CALCITE-2954": [
+        "6d57ff983cc8e1bc0db4b8422a5140184dba3053"
+    ], 
+    "CALCITE-586": [
+        "4b76c50d88c7524ef4c4a29a77cebcde8d317ca7"
+    ], 
+    "CALCITE-2262": [
+        "972c54c441bcbd17ad1c2b43558e84efa5bdf0ae"
+    ], 
+    "CALCITE-2591": [
+        "b9da74ee3baed9ef6bd16472cf4a34515e3e29ab"
+    ], 
+    "CALCITE-2596": [
+        "5c6d3c22cd77e3fd6427f327187b3e0bfd8a2a81"
+    ], 
+    "CALCITE-2265": [
+        "da568324ad84c5a792f2b9c2bd2c827c1440b19c"
+    ], 
+    "CALCITE-2267": [
+        "f5b041ff46710fca7d104385b7f917384e4a7f1a"
+    ], 
+    "CALCITE-2611": [
+        "dfd012cf082adf50688c2cc57c7e857f6d702f72"
+    ], 
+    "CALCITE-881": [
+        "16512edc1308b6643bbdba901996a4b0a5c014e9"
+    ], 
+    "CALCITE-2344": [
+        "5ff57651c7bdbc61ecbc212293c21ae90d3d370f"
+    ], 
+    "CALCITE-2343": [
+        "b03cdc486cf5c7232bbc6fa9b5f02f564e9601c3"
+    ], 
+    "CALCITE-2342": [
+        "a99f386d5c36d560c832f9e70542f9d058ea22f5"
+    ], 
+    "CALCITE-2341": [
+        "03dce1337c8c1d46ab050b55af426efa5f33c3a9", 
+        "39fee5d636867a6b1ddf8a5d5bc2d38482c7d33c"
+    ], 
+    "CALCITE-1381": [
+        "8d9a5d241e489657845e0e5ba59c96a024386117"
+    ], 
+    "CALCITE-551": [
+        "82b586040ffbb4a7e46544b39b2dcc165d642430"
+    ], 
+    "CALCITE-649": [
+        "61eea9ce4f0b02cb84557477bb58fd38d03e9c5c"
+    ], 
+    "CALCITE-648": [
+        "a24b3c1f0877db1da64108af9bceb3e7023dc049"
+    ], 
+    "CALCITE-311": [
+        "9f7e565ffcadd161e8a92906a493f551b9c02f2b"
+    ], 
+    "CALCITE-646": [
+        "0d80fd25315bc53f71622415c8bb3d364e634507"
+    ], 
+    "CALCITE-550": [
+        "1390832aa69d262f09af70e9dc0b77403d7f1059", 
+        "0caa1c546de42d02399cd4f21f90926fb970182e"
+    ], 
+    "CALCITE-695": [
+        "f076a9bacc25dc5671b5557e48d9a654a6aa6854"
+    ], 
+    "CALCITE-720": [
+        "eea915816cf8192481b1b49c2e7abe9e1d9abb00"
+    ], 
+    "CALCITE-488": [
+        "28fd9c8b991ff30d3657bc56a0f2c1b84261aac4"
+    ], 
+    "CALCITE-722": [
+        "06a192a0afaf8de758d55aaf3e4858733df6c55e"
+    ], 
+    "CALCITE-723": [
+        "aee32bc498737720428ee51e779473f8deedf51c"
+    ], 
+    "CALCITE-919": [
+        "56a612af4c537b2f9cab0e1979a28ded20ae59d8"
+    ], 
+    "CALCITE-819": [
+        "5a3970635030ddde27e4237da5d8c5c3419c34b5"
+    ], 
+    "CALCITE-727": [
+        "21cf1259b8c02b63dbfebb8cf23e65f73bca567c"
+    ], 
+    "CALCITE-1676": [
+        "a56b84e3ba2dbcb47b60f040c86a43209acc154c"
+    ], 
+    "CALCITE-1677": [
+        "55ffb5edd2761147396356154491f29ffd194f47"
+    ], 
+    "CALCITE-1674": [
+        "58217cb2122b508016a1b8c4278a21a2e890b861"
+    ], 
+    "CALCITE-2137": [
+        "73e57ad482b030368b8048874bc1f9159ecc42c4"
+    ], 
+    "CALCITE-1673": [
+        "8e0d76bb98bf201373fad769c54b6e17f9383bd7"
+    ], 
+    "CALCITE-1174": [
+        "332ffb44783142bd75ffd429e72bfba305aa3bf1"
+    ], 
+    "CALCITE-3214": [
+        "6400a509501419beef0d34e1deccdc2beadfbb30", 
+        "a68bfc96bacc95b4b8ab5d185bb5cc1991113769"
+    ], 
+    "CALCITE-3215": [
+        "1e999374f3a40c26d1cb3469211f10cd2fdc0622"
+    ], 
+    "CALCITE-1346": [
+        "fd4f85e6738c8165d4ea96499195612ba3226f59"
+    ], 
+    "CALCITE-1398": [
+        "14ac78229989d416290573a1a8641747df7dd9c8"
+    ], 
+    "CALCITE-3210": [
+        "e863294ccfbed9dd520c999f75ed0bbe03f9fb1d"
+    ], 
+    "CALCITE-3211": [
+        "d98856bf1a5f5c151d004b769e14bdd368a67234"
+    ], 
+    "CALCITE-1074": [
+        "5324a3988c8ca354c7af771b124762be3002c648"
+    ], 
+    "CALCITE-254": [
+        "2709896eb176c14605b1ddc4be57d916ebeb0fe8"
+    ], 
+    "CALCITE-1076": [
+        "4dfd6dbb232718ca60b0a4885b6e37194cfdf3c7"
+    ], 
+    "CALCITE-569": [
+        "2709896eb176c14605b1ddc4be57d916ebeb0fe8", 
+        "c0120dd80bfe5e5fb077a5b631efbccb35afd9eb"
+    ], 
+    "CALCITE-1070": [
+        "7e348654e47e2fd7cb60682da8589bfabb2318f4"
+    ], 
+    "CALCITE-1071": [
+        "ecf4d6dcb4b6fdc40828d0c853ae10abc0550a76"
+    ], 
+    "CALCITE-3218": [
+        "22817fb34ab0921e6ab6567a9c65819ebd11b9c5"
+    ], 
+    "CALCITE-888": [
+        "aaac1d23a95d6b42c1866bd95db7d3bce2f2d788"
+    ], 
+    "CALCITE-1458": [
+        "6010ce10faba4457ffdc0809bff981bebba5237b"
+    ], 
+    "CALCITE-2750": [
+        "cce9c79ac3cc40988e342ace5340b5ed771bc2a2", 
+        "cce9c79ac3cc40988e342ace5340b5ed771bc2a2", 
+        "cce9c79ac3cc40988e342ace5340b5ed771bc2a2", 
+        "cce9c79ac3cc40988e342ace5340b5ed771bc2a2"
+    ], 
+    "CALCITE-2468": [
+        "40d12b7419bd544bd829011a18ac37f6bc529ce7"
+    ], 
+    "CALCITE-2469": [
+        "86993bdedea758916deefcabbfd38eaa1c14eca7", 
+        "90f49be639b9a569e3dc4d8369c08e2db64ea301"
+    ], 
+    "CALCITE-462": [
+        "039f7cb08fb7ac7fb8e099862b01b807923c8c9e"
+    ], 
+    "CALCITE-2464": [
+        "846494a0091b00357f3ccb67c8a4a7d9d226cd7d"
+    ], 
+    "CALCITE-2463": [
+        "a3711d78d450b7183a65e0ce695527ca92218bd8"
+    ], 
+    "CALCITE-898": [
+        "0cb2e275d61a22b931212f834a7922266fa5d772"
+    ], 
+    "CALCITE-1883": [
+        "eb911cb5756f2ddb4ce643b7e462702b967ca462"
+    ], 
+    "CALCITE-576": [
+        "2709896eb176c14605b1ddc4be57d916ebeb0fe8"
+    ], 
+    "CALCITE-893": [
+        "c2950ebaf83176e56d3cb4bf44ca74078dc45a83"
+    ], 
+    "CALCITE-891": [
+        "5c45547582d8a05fc929c97d0930122a15817fdd"
+    ], 
+    "CALCITE-896": [
+        "3ed76375fd05b29db17d6117aa0487ccb85f45ba"
+    ], 
+    "CALCITE-897": [
+        "77e6f49c680cd154195e9e66c19356f0a2251bad", 
+        "a1e0b0068f585cfd5e2ffb2b4747d8b62c7d19df"
+    ], 
+    "CALCITE-894": [
+        "c6cc5a7794848ef745739518742c490839770e31"
+    ], 
+    "CALCITE-895": [
+        "d697ca16456424f04ad81e550ee19f677c7520b2", 
+        "2fa63dda5809d519dc60aa36f464476bed961df3"
+    ], 
+    "CALCITE-545": [
+        "c9e58edf0001af203ecd374d92fb82ed3d152e1d"
+    ], 
+    "CALCITE-546": [
+        "1c292a9d5225f495d319aaa581185a18ae4502aa"
+    ], 
+    "CALCITE-547": [
+        "8cdc6634267e138e237bba785e46ea0017c2a0fd"
+    ], 
+    "CALCITE-1714": [
+        "0209b16c0adca468c3da06ef036e3d06432ea17b"
+    ], 
+    "CALCITE-1717": [
+        "5289d343fb9eb2f54233f0bc54b2672023f4de14"
+    ], 
+    "CALCITE-548": [
+        "3b34d300d516f5455a1c29f154c66e70e9d29455"
+    ], 
+    "CALCITE-1595": [
+        "a55e5eb4b3ca9f1afa6e9dbeef466fa78f66812f"
+    ], 
+    "CALCITE-978": [
+        "898fdfc2720770ec4752fb702ce0aae1521aa07d"
+    ], 
+    "CALCITE-1199": [
+        "ebb68dadf64e318025bd3e2d12d1ed6608384fb7"
+    ], 
+    "CALCITE-799": [
+        "92f32e8d5b0301e91bc31b3b95ae6049824b9ecf"
+    ], 
+    "CALCITE-795": [
+        "efecdade5efa8155ca20a7262a37944829d8f96d"
+    ], 
+    "CALCITE-794": [
+        "cabdcf44e4aec4d4ceea7f97c8c6fd9e9dbd36b1", 
+        "cf7a7a97368d6e72b2a413f9f8857f54c2970e61"
+    ], 
+    "CALCITE-791": [
+        "c9fe32b7d693cff7dc337335029fe94d3a4d5c53"
+    ], 
+    "CALCITE-793": [
+        "5b02090a5f70804aca3bcc73c5104523664cb86c"
+    ], 
+    "CALCITE-792": [
+        "6385cf5d0d7a4e9c4414b5d8214f039bc1a03787"
+    ], 
+    "CALCITE-3360": [
+        "883e19170a45e0badffa5b8fba04cd536e0f2eb2"
+    ], 
+    "CALCITE-652": [
+        "fa9bdc4ac8b7d0106ebf5fa875cd9edc00d47865"
+    ], 
+    "CALCITE-3283": [
+        "77e7808fc0aa4e089a992535bc890047724fd900"
+    ], 
+    "CALCITE-3282": [
+        "f3758a6fa301cbd910ceabeca9075a3772ee4e8b"
+    ], 
+    "CALCITE-3287": [
+        "9693817df9421fda9a727d03b225f686f5393def"
+    ], 
+    "CALCITE-3286": [
+        "29d8508f591be79683d0efeb3541dc3bdbc36d44"
+    ], 
+    "CALCITE-2093": [
+        "cc983a6060d0da666cb21a07dfa702ac5d14291b"
+    ], 
+    "CALCITE-2092": [
+        "9c6dc773e31a8b555350a75a6e9d9199b8244219"
+    ], 
+    "CALCITE-2097": [
+        "be78de9420c6588d04c4bedf885615f138448d53"
+    ], 
+    "CALCITE-2096": [
+        "82cdc2fa7dd84e243f736a9772a03b17bef6215a"
+    ], 
+    "CALCITE-2095": [
+        "82cdc2fa7dd84e243f736a9772a03b17bef6215a"
+    ], 
+    "CALCITE-2094": [
+        "82cdc2fa7dd84e243f736a9772a03b17bef6215a"
+    ], 
+    "CALCITE-1210": [
+        "c07f33ae62fd7b3c91713e3f7a038031fb7db5b9"
+    ], 
+    "CALCITE-1358": [
+        "962eac566cb19a95d8581a1b10fc120657069b1c"
+    ], 
+    "CALCITE-2099": [
+        "bb57919df89cadeac117a966f4e9a74187267887"
+    ], 
+    "CALCITE-1213": [
+        "26fddf2a641aebf943f18b7da8f81397955f4e59"
+    ], 
+    "CALCITE-1215": [
+        "4255767d9ccc3221963a98d7e2e8ce3b68e156a3"
+    ], 
+    "CALCITE-608": [
+        "03e9449837eee214df8131185a80a560dd192660"
+    ], 
+    "CALCITE-1483": [
+        "b196b26d093028565cb59ab36507d1520eed2a9c"
+    ], 
+    "CALCITE-2398": [
+        "606240d4f1e39ab36447a9b4abe20c6c519d5cab"
+    ], 
+    "CALCITE-1567": [
+        "5c6a94f4beb10fd73adc324ca9f906a9a5970d8c"
+    ], 
+    "CALCITE-1931": [
+        "54ed57f8244384cf56323450feb5e6cfd6bc6245"
+    ], 
+    "CALCITE-1563": [
+        "40e5b8847b6a2966b024191fb5f65db642d17519"
+    ], 
+    "CALCITE-1560": [
+        "d4557f1d775ceb2fa2e3aba9bce3ba880d293d93"
+    ], 
+    "CALCITE-2391": [
+        "312ab81227d0b6edfdad80bb3dcc6d1f1c771e75"
+    ], 
+    "CALCITE-2392": [
+        "5bbc501a565494442784f65870a20cd65a5016f4"
+    ], 
+    "CALCITE-366": [
+        "e48c7627c162726f42e786a0e0b8c3042315491a"
+    ], 
+    "CALCITE-1400": [
+        "22ddc820204552834b98104428e3acb15e1050be"
+    ], 
+    "CALCITE-2396": [
+        "cf3eca294bedb5e268752cb54056700541177c99"
+    ], 
+    "CALCITE-1569": [
+        "8e0d76bb98bf201373fad769c54b6e17f9383bd7", 
+        "d335e48ce62bf124a961343d7b843c045ffb6b15"
+    ], 
+    "CALCITE-2008": [
+        "6c435a03e83eac6c0d9f13b87ef22ad9f93df714"
+    ], 
+    "CALCITE-1855": [
+        "43e32fa5a4d5828370dbdf9cffe3bb295ffc475a"
+    ], 
+    "CALCITE-1766": [
+        "1aaa0d6860c7538d62998ec13bcc83763c04720f"
+    ], 
+    "CALCITE-1815": [
+        "a61098b6a0c1bb8337a81842797f8daf757db2e4"
+    ], 
+    "CALCITE-1761": [
+        "a11d14054e9c1d2ce22f60e11536f1885faaae7c"
+    ], 
+    "CALCITE-3148": [
+        "6375e24d4a8848e11e776ed6968f3a6f499424ae"
+    ], 
+    "CALCITE-3149": [
+        "ccbacf624c60b8b707c9e219a58d3968a9d4b854"
+    ], 
+    "CALCITE-3147": [
+        "ac06e64fed6865949207aabd4ef839418589b6e3"
+    ], 
+    "CALCITE-3144": [
+        "687b7d8cc8c63259138b43745a9e28ef64483839"
+    ], 
+    "CALCITE-3145": [
+        "0cce229903a845a7b8ed36cf86d6078fd82d73d3", 
+        "15e63787a6c2ccaa01582991068d8e74daf93d1f"
+    ], 
+    "CALCITE-2004": [
+        "e043640ef1c3eef36bab457fc98303a7627b5505"
+    ], 
+    "CALCITE-2005": [
+        "9bb54006aa5cfd7765f791ccaef5e25afacaed86"
+    ], 
+    "CALCITE-1818": [
+        "cdb30028ae429c3b6513c09627bceb3da5ac720a"
+    ], 
+    "CALCITE-2007": [
+        "06c18ca74df2d4bf20a5dccef11d424ab28c97d7"
+    ], 
+    "CALCITE-2166": [
+        "f95f74a13a20413bb0074f0a3c94901a7a88305c", 
+        "f95f74a13a20413bb0074f0a3c94901a7a88305c"
+    ], 
+    "CALCITE-3067": [
+        "2765791e60c46e0d66a3c510a5c91d16fe757720"
+    ], 
+    "CALCITE-3066": [
+        "d6896202c865b38b7821f1e0b644e1de0c95eda2"
+    ], 
+    "CALCITE-3061": [
+        "d0a06f78644906c2ca73e6fb5ea08f7d17f55dab"
+    ], 
+    "CALCITE-3060": [
+        "bd42d29123c54200b6c3c213d8dbd8e8ec24db79"
+    ], 
+    "CALCITE-3063": [
+        "adf4cc4dc5cdb9f5e49c85d10f46a2fdcd831ccf"
+    ], 
+    "CALCITE-3068": [
+        "1a5fca0feab124f33c16d31b65f0ba0806231731"
+    ], 
+    "CALCITE-2180": [
+        "3c67a605cb6d6613ea1696288254a90f621a2834"
+    ], 
+    "CALCITE-2622": [
+        "29046930dd747d986dc9583db3d1e5e6c1f64e43", 
+        "fb7914ec61fc57c8348d9da144e2fbd608c00c61"
+    ], 
+    "CALCITE-2625": [
+        "276e24b089bc066e9d9ffe3ed5f9bdf3f4699b96"
+    ], 
+    "CALCITE-2788": [
+        "0202ef59519eda6d4c416d84544e152304849715"
+    ], 
+    "CALCITE-2628": [
+        "784372debb2b51c3041c0d5b420a6f93a2457a16"
+    ], 
+    "CALCITE-2785": [
+        "f992e6c8fbc3712c6bd70096fb6b05da448b2cab"
+    ], 
+    "CALCITE-2783": [
+        "e804521beeec30eccb5ae3a29620f818d0de8427"
+    ], 
+    "CALCITE-2782": [
+        "c978304cbceb35fb09cb49b91d38d14ce18a3e17"
+    ], 
+    "CALCITE-879": [
+        "8f2b32cda8ae95e66490a83c8ef17411e66e1095"
+    ], 
+    "CALCITE-1324": [
+        "6002cd2809250cdfa095235fe79a30c41218b6b6"
+    ], 
+    "CALCITE-1325": [
+        "d1f4f885c0ead3332320c19c91fa76130714e068"
+    ], 
+    "CALCITE-1327": [
+        "69839c3798c8221081d80edaaca27a310ce9005e"
+    ], 
+    "CALCITE-1321": [
+        "c933c79f7ba2ccedd109c4a3cb55e23cfbe90f2b"
+    ], 
+    "CALCITE-2914": [
+        "906183a35b6355b3f5e394ce838f5ea1dad09ad2"
+    ], 
+    "CALCITE-1329": [
+        "2f1932dcd91407bd44930f9644e1f9d2e5c750c3"
+    ], 
+    "CALCITE-1283": [
+        "8eca1c9f42d7ee63fa2007d9154b56ab7ab3d9f1", 
+        "0404349e84b6286aa16add5ce9ae6728240ffdbc"
+    ], 
+    "CALCITE-1282": [
+        "f68ae55ca3eb9241a47d956a49a4b407ce40a565"
+    ], 
+    "CALCITE-1281": [
+        "ec49a0fa37195bb4b34945b53ce39b27d558d6ab"
+    ], 
+    "CALCITE-1053": [
+        "2712d7dafc1b724c33b0c29846666c1903d5afb2"
+    ], 
+    "CALCITE-1285": [
+        "4483e1cc98491c6760d718d07d255bc1f6f10ebd"
+    ], 
+    "CALCITE-1284": [
+        "a2d7165f360e450889ba8b8d051810ddb45e3b62"
+    ], 
+    "CALCITE-666": [
+        "a6f65dc97ac578c886544b961cb4db40e90bcccf", 
+        "4f415b24e52511eb9ef1faaf2b274f0241dcde5b"
+    ], 
+    "CALCITE-1289": [
+        "94051eaed884bd07a03f69ab20c9e1496aac4862"
+    ], 
+    "CALCITE-2303": [
+        "03b7af4863359dd3bb0a4c84eb01d0e39f865cf6"
+    ], 
+    "CALCITE-2715": [
+        "ce47088f118b796908b1de4b1440d21d08d2b6b7"
+    ], 
+    "CALCITE-2301": [
+        "21fe666e9634ab9a752c7cc328924b68f6143afe"
+    ], 
+    "CALCITE-2717": [
+        "de9a7164b2d3e5a1637254fd0d54c7a4c886166e"
+    ], 
+    "CALCITE-2711": [
+        "632a85d0b851075941cf6dad402ad181d145cf3e"
+    ], 
+    "CALCITE-2712": [
+        "996579a20cc6a66481055a93ca634622f69b1bfd"
+    ], 
+    "CALCITE-2713": [
+        "6c7a7edd1b9b11f2c0826db04d60cc2b62bea636"
+    ], 
+    "CALCITE-1881": [
+        "6679353f2d77999daec372d4528ce50784018e29"
+    ], 
+    "CALCITE-2309": [
+        "36b1d5c34f0f94cd95f832a0d9aa2e9f89210e1d"
+    ], 
+    "CALCITE-1969": [
+        "b2bf1ca0a40762b904f7334c92e851b21f6b2844"
+    ], 
+    "CALCITE-2719": [
+        "dfb29f7627d02f6e4414be7bc42822a26684778c"
+    ], 
+    "CALCITE-2435": [
+        "96b28f7ba11de22a68d984de6b6b88311cc2c57e"
+    ], 
+    "CALCITE-2434": [
+        "1ed6b75717d154b046f0ba3df30e88f91811536c"
+    ], 
+    "CALCITE-2437": [
+        "d368fc570a5d0f836c049c6acd73f2dd9f467f79"
+    ], 
+    "CALCITE-2431": [
+        "466b3279dcc7a274349ecbbde94b562eb50a043b"
+    ], 
+    "CALCITE-2430": [
+        "1a94885aa46216a1ab564afcf3e7968ecb54dbf9"
+    ], 
+    "CALCITE-2433": [
+        "89e22e3ff8082790a3160d0a95cf3546e65a77d1"
+    ], 
+    "CALCITE-2535": [
+        "c69e1bcb13000adf9ae4bd433e2f8c75baba1501"
+    ], 
+    "CALCITE-2438": [
+        "afee2a80e44623c533fcfe20f1c782919af8f38e", 
+        "be1769bcc260e0b84380d16bd3cbda834e071209"
+    ], 
+    "CALCITE-763": [
+        "8774a671f035d7bbc8fe8fa420ba237941431c08"
+    ], 
+    "CALCITE-445": [
+        "bd0b606178252c90805aff49851f4c9d5eea1a0a"
+    ], 
+    "CALCITE-444": [
+        "e4fcf2a3be10c53e72276ca42789cf5fbd7fe7c7"
+    ], 
+    "CALCITE-447": [
+        "c91259dd5b89351a5218af5c89471748213547c2"
+    ], 
+    "CALCITE-446": [
+        "8e480759fc25d7a1e10f7f20f9eddc7556beded8"
+    ], 
+    "CALCITE-443": [
+        "28f160268c53915a5440066defef971eec3e3d36", 
+        "df35cd236580e2653e55cc939c0b7c5e396ed318"
+    ], 
+    "CALCITE-442": [
+        "3afe4b14942e4a60672f807f52b512b6df24b28b"
+    ], 
+    "CALCITE-1342": [
+        "b5b9e53ace83397175baa0d7546c03f1cf85b17d", 
+        "cb356d8af3453b3407af8695693127e740cd06af"
+    ], 
+    "CALCITE-1600": [
+        "7605d42185ac627f33d14ffbb0e95d6ca4082659"
+    ], 
+    "CALCITE-1269": [
+        "7fe475a8b135d4c91f521d6f519b13188e28a8bb"
+    ], 
+    "CALCITE-448": [
+        "011a6b4ce6cc999bab126dfc2fee58c23aaab074"
+    ], 
+    "CALCITE-659": [
+        "30ae0513c1c7e9cfb14a8a6b0e60cc37ec499ce7"
+    ], 
+    "CALCITE-1030": [
+        "39f505fa9def053be54b548c030acb3e3973aa02"
+    ], 
+    "CALCITE-1889": [
+        "93a96ddf4adf688d5b30a3e3224805d32d3d54bc"
+    ], 
+    "CALCITE-1032": [
+        "eaa35a41b4df6474c50e4b7437d8c1834265661f"
+    ], 
+    "CALCITE-1034": [
+        "c8709f3874740f198b7423d1acc7d31b423725a3"
+    ], 
+    "CALCITE-1036": [
+        "8bc5f8538f5c284e93ddc4ecfb59dab9458117f7"
+    ], 
+    "CALCITE-1963": [
+        "1f04d556fad1ba8ef4a9ac6f73aca2bdbb945f37", 
+        "9ab47c0000732ec99c3162954e1eb74eaa30cddf"
+    ], 
+    "CALCITE-1038": [
+        "904c73da60b9f9deec61ea34d89ada3462381f93"
+    ], 
+    "CALCITE-2863": [
+        "e93522a8f374d9269e6657cd23603377762b4bc1", 
+        "83d8cf1e9189d0098677751d928cc39ac188b5a9"
+    ], 
+    "CALCITE-2716": [
+        "efec74deb80da1708fd42bcc2b57289840869346"
+    ], 
+    "CALCITE-2865": [
+        "89829252689477bfeb305071285edcde1b4a3048"
+    ], 
+    "CALCITE-654": [
+        "0ea085b7858cbf0e8b250ac238d4f1def1ff20f5"
+    ], 
+    "CALCITE-1589": [
+        "0187cfc53aec4b1d472baebdc899038e5c970b7b"
+    ], 
+    "CALCITE-2239": [
+        "9dc61aea2bcf2ee453bde6b2a909bf7db2986f04", 
+        "9dc61aea2bcf2ee453bde6b2a909bf7db2986f04"
+    ], 
+    "CALCITE-2238": [
+        "9dc61aea2bcf2ee453bde6b2a909bf7db2986f04", 
+        "9dc61aea2bcf2ee453bde6b2a909bf7db2986f04"
+    ], 
+    "CALCITE-2237": [
+        "000622daf9af011b88022b4679dd08c7d09f1475"
+    ], 
+    "CALCITE-2236": [
+        "f94f4131f69e849fb5f15b090ad400c652b77689"
+    ], 
+    "CALCITE-2543": [
+        "c6ad15e239b34b5d228611790b5105edf27623aa"
+    ], 
+    "CALCITE-2542": [
+        "45258404b7844204266f8c356a8e41ef1f1e3683"
+    ], 
+    "CALCITE-1580": [
+        "a118f821e3d49b6fc30c0e1e39d72026f2bf6ea1"
+    ], 
+    "CALCITE-2232": [
+        "d881d47766e8162dbdd4deb40a64b1138a4acec4"
+    ], 
+    "CALCITE-1582": [
+        "499b55e32b5febe1c88612c3b80ebb71b3b71f88"
+    ], 
+    "CALCITE-2546": [
+        "337f247975d92b826e159f6dd50b228bacf5056d"
+    ], 
+    "CALCITE-580": [
+        "cca42158f5b9b6c43059cbd10167f7cb72aeb6b8"
+    ], 
+    "CALCITE-581": [
+        "2709896eb176c14605b1ddc4be57d916ebeb0fe8", 
+        "c0a3085ce9f5f5de1d2c9d3656ad740a35a5a91e"
+    ], 
+    "CALCITE-582": [
+        "6c5dd43113a8695a9fd0c12f564e6c87516ca3b9"
+    ], 
+    "CALCITE-583": [
+        "8afdd01fb4cca79e5960fb682308e888e985cc4c"
+    ], 
+    "CALCITE-2305": [
+        "4433b102bdeede2da9eadedb2257cc76be32ab8e"
+    ], 
+    "CALCITE-999": [
+        "578fb2cd9bbcfcf38fd0cd900544e17c513f3a24", 
+        "4d58768d35d5accbf7330d10b91f2541b6f1ab38"
+    ], 
+    "CALCITE-998": [
+        "7ce2e62133be221e65d67250ad28809324d055c8"
+    ], 
+    "CALCITE-997": [
+        "6c35f3b81c0dc9d37897dd7304098204e96ee883"
+    ], 
+    "CALCITE-995": [
+        "3e49bc4384ae51732f8b3589c4a0db77001f1890"
+    ], 
+    "CALCITE-2304": [
+        "870e54facba01b7c3cbeb7c5386ebc0787ed50aa"
+    ], 
+    "CALCITE-993": [
+        "9be2bdb96a0f40de463ab867ab8232712c544ed8"
+    ], 
+    "CALCITE-1919": [
+        "3d88b254a703fa2c4b20e7952802c5cd3f38ffc2"
+    ], 
+    "CALCITE-990": [
+        "81b487684f9a0781d6e58494cba1b690ff42c028"
+    ], 
+    "CALCITE-611": [
+        "c50a6e0d4fd6c8c28ce1c4715695a582c4818fb2"
+    ], 
+    "CALCITE-870": [
+        "b3d35c03310e2e8aff57cb46e4985ed9e7506e1d"
+    ], 
+    "CALCITE-828": [
+        "815fa262b83d5a864b1eacdc3661df3b04704c20"
+    ], 
+    "CALCITE-614": [
+        "321217ddd6629fda3e2620c39283c415724c123e"
+    ], 
+    "CALCITE-1348": [
+        "0c91411a57919486c95726c523371d5b7cf8aaf2"
+    ], 
+    "CALCITE-617": [
+        "321dc4303bccd260eb94a957dbc419fe6e5c6afe"
+    ], 
+    "CALCITE-1526": [
+        "cd806089478dae1276280c1bedf487c9719907fa", 
+        "584432cacdd3cbe87c974e3657b3c93d811b65df"
+    ], 
+    "CALCITE-1968": [
+        "cc20ca13db4d506d9d4d1b861dd1c7ac3944e56e"
+    ], 
+    "CALCITE-884": [
+        "24c25fc30315f308df13eb303177163e5a972949", 
+        "cf46d3be19f701ad056aba3b60a701b962e0f1b0"
+    ], 
+    "DRILL-4407": [
+        "0ad58ed624dfad43bfcd26881588a9d3482397c1"
+    ], 
+    "CALCITE-1621": [
+        "5431bd992030cbbcde59d63d2b0b84c4c78fbde4", 
+        "d6093f080215a51c7617747440569c13611ee70d"
+    ], 
+    "CALCITE-1623": [
+        "a269a2b783648f16be0bf721d4696e3d8bd7d958"
+    ], 
+    "CALCITE-3321": [
+        "6fabfd609800824d84fb13703f4d70ac1798c9aa"
+    ], 
+    "CALCITE-750": [
+        "e25ceef6f31f9c0989ef695e6599e2f81f1f3556", 
+        "918e612bbb4da90ad94b283c1f06cf055102c09e"
+    ], 
+    "CALCITE-1158": [
+        "68a17fc91bcec738907e980c9ea3f97e44e875cf"
+    ], 
+    "CALCITE-716": [
+        "f98d567fa6843762a830a272e06f2d74908ce440"
+    ], 
+    "CALCITE-1635": [
+        "3b78d1d74e33977a93005b65b0b209844e783fd1"
+    ], 
+    "CALCITE-822": [
+        "e827bf0a2e410e5613dcf407778e4f5735e75c1c", 
+        "ac934f695db39d88beb5a12c792ba7da68cc386e"
+    ], 
+    "CALCITE-296": [
+        "a0ba73cd2de76696b96a1cd828d2aa4d3ef9eb55", 
+        "a611d645ad754844a39f3d98f5f814f13dbd9404"
+    ], 
+    "CALCITE-1911": [
+        "dfe251d7e5136ce93b1172ad1822bd908e953c86"
+    ], 
+    "CALCITE-1910": [
+        "188c8020d4e68c0a3180265b07949aeb8830ff1b"
+    ], 
+    "CALCITE-702": [
+        "91f0fca610c0ec8964e95a87547e3a941b834aab"
+    ], 
+    "CALCITE-1153": [
+        "22aa8a8072bd98d4d81d17aad7db5a972e03478e", 
+        "9dd4993ad2ae41e0309eb2631af1a91e64f693e7"
+    ], 
+    "CALCITE-2038": [
+        "93a3aaeddb18078352556c5c8859b5e3cae7d482"
+    ], 
+    "CALCITE-1916": [
+        "93b8349895df2183864bc4bd7ef2fafa227b22e9"
+    ], 
+    "CALCITE-1442": [
+        "25a7d938de915ebaa6d64ebe64b2e5618b3becca"
+    ], 
+    "CALCITE-1151": [
+        "fa76779106ce975e9893c7cd38678f0ce98d3f27"
+    ], 
+    "CALCITE-479": [
+        "288254b22b270b9a6e893490e776a3ba4ff01fb6"
+    ], 
+    "CALCITE-1055": [
+        "cecef9d3209cbd092a6e9b578bc063a52007b99f"
+    ], 
+    "CALCITE-1722": [
+        "370dfdac54de00c883869954cfaaf5e20f0f2519"
+    ], 
+    "CALCITE-1723": [
+        "aa0bf32c626db0f3b72f15df5d69f1ae6c0e612d"
+    ], 
+    "CALCITE-531": [
+        "189b50d5ec8ac3c5f61be5540bb186f811fbf633"
+    ], 
+    "CALCITE-1725": [
+        "e76d5ee33a3cda0d9ce495e21681f5bede25f129", 
+        "2eebca8cff3b8ba7978a64c89f88199ba81cab56", 
+        "04c0c8b6f212e513aba76a36e62f99e4bde4370e", 
+        "ef03b6e4c6dbae800e7c1aaa1deb5bbd7960e911"
+    ], 
+    "CALCITE-1726": [
+        "2102f1f5442fa271c258b7754da8df07d65847ec"
+    ], 
+    "CALCITE-3029": [
+        "37002c1399cea1464b5d53c0fc4e5ec90f831f1b"
+    ], 
+    "CALCITE-3183": [
+        "bb0bae9c047db0f4bebaa6cd5b149876476e6ebe"
+    ], 
+    "CALCITE-906": [
+        "afcf3a6c852d4827e5de10c0aa37f2cf3b0179ee"
+    ], 
+    "CALCITE-902": [
+        "9adf259763a9c52a6db8d4a19425722fbedcaa6c"
+    ], 
+    "CALCITE-3021": [
+        "ab40586dd6b6a8daff5054176db463d63e9c250c", 
+        "b7226129d16ee2ed5c0e2a3d3c945b06cc555535", 
+        "758ce8b0eab0bfe59c7eefeedaf4cdd0d2235a10"
+    ], 
+    "CALCITE-2122": [
+        "2918b8fe55c58e0bafd38accfface242f1847c54"
+    ], 
+    "CALCITE-3188": [
+        "954f27c2a09e019dd22d689ddd770ffb42c1c10c"
+    ], 
+    "CALCITE-3022": [
+        "f1cad57035db0f94190433aa6db2352228a641e0"
+    ], 
+    "CALCITE-2127": [
+        "efef4e24446fdcee19a59a3e27b5fa7815533a0b", 
+        "7b85d445462799926474945c6ab33b1cb8ce33cc"
+    ], 
+    "CALCITE-909": [
+        "b4c4f49389cd74cd2e748f33ced1add9278bf8f4"
+    ], 
+    "CALCITE-2124": [
+        "1c7f690d391d81ff251253277944b07e410243da"
+    ], 
+    "CALCITE-918": [
+        "13f6efddf350ee87699c767d6d949563f02208b2"
+    ], 
+    "CALCITE-1799": [
+        "c12e37d41a9d81b1303a345bad5067e1518d6c7d"
+    ], 
+    "CALCITE-1083": [
+        "670fa73e24a7b72d6ddafd69793474083bb4b9f0"
+    ], 
+    "CALCITE-813": [
+        "c818d50bb6a07be251ce4b395e9a9e60ae58743a"
+    ], 
+    "CALCITE-1360": [
+        "0eaf0e2d2e7397a6e3519330e702f802336257d4"
+    ], 
+    "CALCITE-1361": [
+        "fb6c24adcc49ca83ee92af325a2664475cc00ebc"
+    ], 
+    "CALCITE-2891": [
+        "92562a0f213fc1edc66e25f9c88e15bacb9085df"
+    ], 
+    "CALCITE-2890": [
+        "0876740d2457a7f735267d14e1639d6decfed16d"
+    ], 
+    "CALCITE-1410": [
+        "59978493b4123e8e5139ef76a5db257ad5f5bf88"
+    ], 
+    "CALCITE-2895": [
+        "ea5a0364eec6c0de9a52d51a40609692d6e4ad76"
+    ], 
+    "CALCITE-2894": [
+        "c3fa21b805edf5be79ef4a4992d7b5213488cbaa"
+    ], 
+    "CALCITE-1247": [
+        "25bba06974e07f89a36f3ddd2596fe1f2d4d916e"
+    ], 
+    "CALCITE-821": [
+        "1580bd0fec62d836c9870edc339b0ab99d909cad"
+    ], 
+    "CALCITE-1243": [
+        "987a257ae7cff588ac2f63518a7f75263a9bddb9"
+    ], 
+    "CALCITE-816": [
+        "505a9064b96a6c8399735fc2fa4d0ac9d5f3ed87"
+    ], 
+    "CALCITE-1537": [
+        "1d2067bd0497540b3e416ac5c7440ea9578cd196"
+    ], 
+    "CALCITE-1530": [
+        "267e2f3e1db71e678f80bb69015164c0d45bcfe4"
+    ], 
+    "CALCITE-1532": [
+        "c397f37bda7bbb6f323aa43dd44f0a3733c2d8b6"
+    ], 
+    "CALCITE-1434": [
+        "55ba6b58363d8fc2a16aa02fd1ee998bc2c9b9e4"
+    ], 
+    "CALCITE-1436": [
+        "834ad98e714f6df435b171cd898fb70f9bdb0b04", 
+        "f84a3eb330d4ac69dd412498398909a690e9ce2d"
+    ], 
+    "CALCITE-1859": [
+        "a2faf47b0f2bc98482a39ff51c23f7b92c118fee"
+    ], 
+    "CALCITE-1849": [
+        "e43520a8164f1ade4389ae853befaf85ff8a2c82"
+    ], 
+    "CALCITE-1069": [
+        "1e7ae1c30a5e6f4335f2e4cc0059f2f2901e35fd"
+    ], 
+    "CALCITE-591": [
+        "7b65eebe6c4cd96ad1e7977e00c6e6fbcd7d8bf6"
+    ], 
+    "CALCITE-1433": [
+        "9e18351be595ef258cc3dffc311798f7fb22e839", 
+        "4edb3697f6a4117da80663a14b3a5664b26dc912"
+    ], 
+    "CALCITE-2699": [
+        "d0bdec4f639e05498fe4ba6427fab53c826987b8"
+    ], 
+    "CALCITE-1847": [
+        "e57c7372aca1679a2178c3a5fb2e71933e6f6908"
+    ], 
+    "CALCITE-1846": [
+        "86a5cc9a45b28bdc6b60d27d6bb018f441109f66"
+    ], 
+    "CALCITE-834": [
+        "c9d7233d4e2be531814663f2a2ef3fc5600c4950"
+    ], 
+    "CALCITE-1439": [
+        "0ea976eed7ec6a4368c6002025a1eba0377df509", 
+        "052f854594f92fd52a142c53998b83d70302075b", 
+        "54556b82c0599012f2e7fefaae3a9868cb68f879"
+    ], 
+    "CALCITE-1929": [
+        "c2d388578237c3db366f734f559cae04791d96af", 
+        "a98b21ea33e80d801dd77cd215d23bd0debd8b67"
+    ], 
+    "CALCITE-1067": [
+        "4ec47270b199cef58c39f6bf07209c5fb40875ef"
+    ], 
+    "CALCITE-2055": [
+        "237b627779a137b6d442e51543571961377862c6"
+    ], 
+    "CALCITE-2054": [
+        "cd493efd3e892d8279582cd9252204d90caa2589"
+    ], 
+    "CALCITE-2053": [
+        "bd7e66a4487c3c6660903b2e107e6c81a5a63c82"
+    ], 
+    "CALCITE-3113": [
+        "0a87daf30d635277b8f1c94355e04ef907fc4002"
+    ], 
+    "CALCITE-2050": [
+        "f7933c7cb340d5880b43abc00fbb13a6fe0ce827"
+    ], 
+    "CALCITE-3054": [
+        "f5363478e1feed6a090b2ac0c9fc52743a653ca0"
+    ], 
+    "CALCITE-3055": [
+        "ac40d6951bc8c475ca6804be6d878107cc2ebb13"
+    ], 
+    "CALCITE-3056": [
+        "b727f3b04286dd39fddb25a9905819449d27475b"
+    ], 
+    "CALCITE-2195": [
+        "73a09a691a67eec46349c94b21cf3fa483775c02"
+    ], 
+    "CALCITE-3050": [
+        "170d5225fb65fd49df83d0234d8a69d11a9469c4"
+    ], 
+    "CALCITE-3118": [
+        "2d52dd3f2dc3e6087c034008037e6c47b201c732"
+    ], 
+    "CALCITE-3052": [
+        "046bb81a9a4ac3e5b63c0ca4a0141446df325a44"
+    ], 
+    "CALCITE-3053": [
+        "735fc068012a7de5a93563e55f3f9a6846331d11"
+    ], 
+    "CALCITE-2571": [
+        "8f14945461b3c20cba3f2d794a6ac950b7687da9"
+    ], 
+    "CALCITE-2572": [
+        "4f1b5eff9dbed20ecd8b327ada7c6db1bfd8d78d"
+    ], 
+    "CALCITE-1064": [
+        "48415a80b8f7f5763cbc3ba4e90c59e3dbeca389", 
+        "7901eda051dc756ba5a985d1cf2fed1942459281"
+    ], 
+    "CALCITE-2575": [
+        "6bca0b80859e86ac41ba1e342460db929cf72268"
+    ], 
+    "CALCITE-2679": [
+        "d7d28a273c127d324787298ed253fae94b9f221d"
+    ], 
+    "HIVE-20617": [
+        "4da9c0d94ee0e2a2f4d03845730ffc63a83a7cbd"
+    ], 
+    "CALCITE-2677": [
+        "bfc842a043fc1fb0776d4d2ac633cf91acda3dc0", 
+        "bfc842a043fc1fb0776d4d2ac633cf91acda3dc0"
+    ], 
+    "CALCITE-2675": [
+        "d32ee5c320938b5c34ce09df2276c9570c27a301"
+    ], 
+    "CALCITE-2674": [
+        "870d5f48de16d44e44a09891018ba2c138980f68"
+    ], 
+    "CALCITE-1826": [
+        "8cb189f727aafade53708d18bc7e51526da0bf38"
+    ], 
+    "CALCITE-864": [
+        "d80e26c016babcb250e41b0abe94b8b0cfadbbe7"
+    ], 
+    "CALCITE-1211": [
+        "62f9abae4e0c79b02d4a46b4a6aa40aebc6418f9"
+    ], 
+    "CALCITE-512": [
+        "f2a67050b30f727932fd94947c926ae0d7287ded"
+    ], 
+    "CALCITE-730": [
+        "bf86ef9d225df1fe1aa30b67239e5bb764ff35f3"
+    ], 
+    "CALCITE-2072": [
+        "c1749ade6638cd2e724f33a09f12f45d8d2a5503"
+    ], 
+    "CALCITE-843": [
+        "fbe19d83be71a0c3be315262d215a2d439b34511"
+    ], 
+    "DRILL-1149": [
+        "a1baf68dfdca88a0cca5dba87bc84bb23ffd877f"
+    ], 
+    "CALCITE-2946": [
+        "2fa7fd79b7dbb09276574784baa80b99edf37412"
+    ], 
+    "CALCITE-2941": [
+        "382f62c84ac1c976c6569fde8be225b32d865730"
+    ], 
+    "CALCITE-390": [
+        "23396f0637724205ae35a89972bb61bc60d3e946"
+    ], 
+    "CALCITE-2586": [
+        "b78dd4a7e33607357ef530d0adb358e9741d9941"
+    ], 
+    "CALCITE-2581": [
+        "56def3946d7e30706b2845464f7fc575c66e4694"
+    ], 
+    "CALCITE-2580": [
+        "a5d4a8b53cebbf781f0c457bdccc576ec1a9d036"
+    ], 
+    "CALCITE-516": [
+        "46b5691864224e9ebbd12775848f95f187c5530c"
+    ], 
+    "CALCITE-850": [
+        "9f1f73d392fbff4f0ac2b29cc9462cf388be645d"
+    ], 
+    "CALCITE-2271": [
+        "af3e35d64a7c29dfaa451c4ab4880424a8fe8cee"
+    ], 
+    "CALCITE-2379": [
+        "625edb88e6afd41b37fdae95e15d5d04cc794b7e"
+    ], 
+    "CALCITE-2277": [
+        "fd5dc8adf4bca6a4f0c631479985cbb2b43b47e4"
+    ], 
+    "CALCITE-2276": [
+        "2a4f6c2c7509c94b5eeb89d3925c91828f8ef1e1"
+    ], 
+    "CALCITE-2275": [
+        "e78f8c61e3ed9c9637a2061db426680b1b3ad042"
+    ], 
+    "CALCITE-948": [
+        "b8e09fe9a2e22a82065107d56649bf86e6edbafb"
+    ], 
+    "CALCITE-1529": [
+        "e641211fd72a4f4a24f0f4644034c4b2f3c040ca"
+    ], 
+    "CALCITE-2370": [
+        "3c051474dd86fb14b85df55fd54b869ff5381cb0"
+    ], 
+    "CALCITE-2278": [
+        "446945c7cd3a1770da89636783d60517d7f340ce"
+    ], 
+    "CALCITE-2375": [
+        "535bd8d41c304c7a1694df765bef639d7d181206"
+    ], 
+    "CALCITE-962": [
+        "d1c72b80c67814f670a3d87580f44f913c4eb0e5"
+    ], 
+    "CALCITE-868": [
+        "2a215df30d26f4363e6a7fe2d27be0ee7db9357f"
+    ], 
+    "CALCITE-2409": [
+        "008bfd6e9668f5be01057f73c14334d4b77446e4"
+    ], 
+    "CALCITE-308": [
+        "5511253b5c46741dfed8e1ac8d4fa23025aeb3c5"
+    ], 
+    "CALCITE-1031": [
+        "8bbef2d6fbba8547adc55dcbb7d5b07a7a5437bc"
+    ], 
+    "CALCITE-2404": [
+        "ae63f9c28c69bad135f4ebbe0086e4f09b6f58ab"
+    ], 
+    "CALCITE-307": [
+        "38a4dd416287e60d607e9194ee2de317a25706f9"
+    ], 
+    "CALCITE-657": [
+        "241f77e256a1ee7df8c9bd5c73b025d45b7e6cb5"
+    ], 
+    "CALCITE-650": [
+        "e2833a297cf1308fe63795ebabb52a2d66e3b863"
+    ], 
+    "CALCITE-862": [
+        "f98ed96f041b615dca1560b7014d112a40e43d6e"
+    ], 
+    "CALCITE-2402": [
+        "ca858dd725dea6bf9b4a9059cf1c3ba98bd82f26"
+    ], 
+    "CALCITE-2403": [
+        "c749f25dcb8b0f9be41014af181666b6eed6350b"
+    ], 
+    "CALCITE-715": [
+        "4402f9194291def0de7263a57889572df339fdb7", 
+        "feff5964bf36d2e5aa311fcd7777b159aa4a8a1e"
+    ], 
+    "CALCITE-714": [
+        "e03dafcf20c8c5af5fffda88b4813017dca30048", 
+        "29030d8c12709525cf874f4c28a13abe165f46aa"
+    ], 
+    "CALCITE-717": [
+        "26a08774516c49eba39ccb7690295f87560a43fc"
+    ], 
+    "CALCITE-905": [
+        "73e81ac2608605c4df0792b0df17c93db0ad7a58"
+    ], 
+    "CALCITE-710": [
+        "af01c5afa849f38e8148130afcdf8e911575d7bd"
+    ], 
+    "CALCITE-741": [
+        "f8a542740733070a3be2ef3c4346816ab7eeaa6c"
+    ], 
+    "CALCITE-712": [
+        "e8c3cccded6fbeb4e4e82bc2dabdcd3babc0c986"
+    ], 
+    "CALCITE-1661": [
+        "952214a24fdc70c602500cac3b4d7b0e873f6399", 
+        "0372d23b847d4d145917dd786d1c9e3570cb8041"
+    ], 
+    "CALCITE-966": [
+        "d3c5acd3a95e1926e0985e99a2d802a60e096b32"
+    ], 
+    "CALCITE-1665": [
+        "60777142e0b7be9302e22c1dd934020c6e64be69"
+    ], 
+    "CALCITE-1664": [
+        "915c218b0fcbff26652071d267903d97875c7b9e", 
+        "4ba9d1b2284b93bee8f94d4fcff62b8ff2235d84"
+    ], 
+    "CALCITE-1667": [
+        "8df27ce9dfc24c3116e6343432d581d112d83557", 
+        "75152c5b7fd62f60c6cdfb86605af8b34a129898"
+    ], 
+    "CALCITE-1100": [
+        "25d1e42a7fb248d24caaaa949779e06056c9916c"
+    ], 
+    "CALCITE-511": [
+        "155d24f1aa2b0733e402aca6c2b0ba1ed1ef456b"
+    ], 
+    "CALCITE-1103": [
+        "e4dd6dc765e125b156c2317fbe567f11585ea9f2", 
+        "aa9db8a36046b1e812021fa1cf0973906cfffbad"
+    ], 
+    "CALCITE-964": [
+        "bb333e20519ae6299a8adf235dc1bcc82a1cb9a2"
+    ], 
+    "CALCITE-3207": [
+        "3309396dbb73d1f2ec2e32e8ffee0f9e68262db1"
+    ], 
+    "CALCITE-1068": [
+        "f55d10c147746d6299fb713adc184576380a1f49"
+    ], 
+    "CALCITE-3209": [
+        "9ba140ef66ad1e048789532211ddf8b3ca1cf8ec"
+    ], 
+    "CALCITE-1066": [
+        "707e72d5c2a03f4ec5994b58109d7421ed938d9f"
+    ], 
+    "CALCITE-1037": [
+        "1ca15524992927eb88b41951a8a6ff3f45dfd4f7"
+    ], 
+    "CALCITE-1063": [
+        "8cba7fc421488cb27ce0756ecd2d422a71f72650"
+    ], 
+    "CALCITE-1061": [
+        "0b855b180406cd2b055966f4c832eba46b1c91ee"
+    ], 
+    "CALCITE-1590": [
+        "f10810a2e17cc945eec2d0eb2b8343cdd82e49bd"
+    ], 
+    "CALCITE-2479": [
+        "c2ae9f0d5b518ea702b4000958b0460e8ef167e1"
+    ], 
+    "CALCITE-2478": [
+        "67923a27e64439305e113e0db9fcbe44a8c965ec"
+    ], 
+    "CALCITE-397": [
+        "1f91bbf811d45d5c6832f23ba27972f2e304537b"
+    ], 
+    "CALCITE-1039": [
+        "8531ab11715109716215c0006d28014754e566f9"
+    ], 
+    "CALCITE-2471": [
+        "9667f8537010d21556a592bd0dfbf20f7d0a4411"
+    ], 
+    "CALCITE-2470": [
+        "370e95ab8557946023ce209e975e1c321765559e"
+    ], 
+    "CALCITE-2473": [
+        "1c913e1b0499e85b5bfcb6495e478d68ad34d280"
+    ], 
+    "CALCITE-2475": [
+        "4afea52a7d50a188cd7b740deea6545013796690"
+    ], 
+    "CALCITE-2474": [
+        "14a98e93949d016bb4a4d105e42414410803c8e4"
+    ], 
+    "CALCITE-2477": [
+        "9f6c067256dde19d1b43b4ee978ce443e73797a4"
+    ], 
+    "CALCITE-2476": [
+        "77b8c4dbf4f42c8cbbbb0e41ef9d49f0c2d9ba39"
+    ]
+}

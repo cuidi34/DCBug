@@ -1,0 +1,8710 @@
+{
+    "STORM-977": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 21h 6m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "41m 20s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "39s"
+        ]
+    ], 
+    "STORM-1208": [
+        [
+            "Open", 
+            "In Progress", 
+            "30m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 23h 31m"
+        ]
+    ], 
+    "STORM-2511": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 39m"
+        ]
+    ], 
+    "STORM-3466": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 13h 47m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "30d 39m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "28s"
+        ]
+    ], 
+    "STORM-3297": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 11m"
+        ]
+    ], 
+    "STORM-3295": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 19h 1m"
+        ]
+    ], 
+    "STORM-480": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 21h 35m"
+        ]
+    ], 
+    "STORM-1934": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 40s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11d 17h 17m"
+        ]
+    ], 
+    "STORM-1005": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 14h 59m"
+        ]
+    ], 
+    "STORM-351": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 7h 5m"
+        ]
+    ], 
+    "STORM-330": [
+        [
+            "Open", 
+            "Resolved", 
+            "100d 7h 2m"
+        ]
+    ], 
+    "STORM-1001": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 14h 6m"
+        ]
+    ], 
+    "STORM-335": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 50m"
+        ]
+    ], 
+    "STORM-485": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 6h 18m"
+        ]
+    ], 
+    "STORM-338": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 10m"
+        ]
+    ], 
+    "STORM-1773": [
+        [
+            "Open", 
+            "In Progress", 
+            "23h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 4h 6m"
+        ]
+    ], 
+    "STORM-1772": [
+        [
+            "Open", 
+            "Resolved", 
+            "303d 1h 12m"
+        ]
+    ], 
+    "STORM-1771": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 4h 37m"
+        ]
+    ], 
+    "STORM-1426": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 12h 35m"
+        ]
+    ], 
+    "STORM-1676": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 21h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "37d 22h 3m"
+        ]
+    ], 
+    "STORM-1578": [
+        [
+            "Open", 
+            "Resolved", 
+            "54m 43s"
+        ]
+    ], 
+    "STORM-3269": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 10m"
+        ]
+    ], 
+    "STORM-3343": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 9h 46m"
+        ]
+    ], 
+    "STORM-1672": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 11h 8m"
+        ]
+    ], 
+    "STORM-1673": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13h 50m"
+        ]
+    ], 
+    "STORM-1670": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 26m"
+        ]
+    ], 
+    "STORM-729": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 22h 25m"
+        ]
+    ], 
+    "STORM-3348": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "36m 31s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "14s"
+        ]
+    ], 
+    "STORM-3262": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 16m"
+        ]
+    ], 
+    "STORM-1572": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 28m"
+        ]
+    ], 
+    "STORM-1575": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 14h 37m"
+        ]
+    ], 
+    "STORM-3265": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 17h 35m"
+        ]
+    ], 
+    "STORM-3264": [
+        [
+            "Open", 
+            "Closed", 
+            "17d 18h 59m"
+        ]
+    ], 
+    "STORM-2431": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 16h 48m"
+        ]
+    ], 
+    "STORM-3129": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 49m"
+        ]
+    ], 
+    "STORM-2345": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 12h 26m"
+        ]
+    ], 
+    "STORM-2432": [
+        [
+            "Open", 
+            "In Progress", 
+            "25m 57s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 1h 33m"
+        ]
+    ], 
+    "STORM-2435": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 6h 31m"
+        ]
+    ], 
+    "STORM-527": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "36d 3h 31m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "78d 13h 38m"
+        ]
+    ], 
+    "STORM-2028": [
+        [
+            "Open", 
+            "In Progress", 
+            "356d 14h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 20h 34m"
+        ]
+    ], 
+    "STORM-525": [
+        [
+            "Open", 
+            "Resolved", 
+            "110d 1h 10m"
+        ]
+    ], 
+    "STORM-3120": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 56m"
+        ]
+    ], 
+    "STORM-3121": [
+        [
+            "Open", 
+            "In Progress", 
+            "42m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 20h 33m"
+        ]
+    ], 
+    "STORM-3123": [
+        [
+            "Open", 
+            "Resolved", 
+            "142d 20h 40m"
+        ]
+    ], 
+    "STORM-3124": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 55m"
+        ]
+    ], 
+    "STORM-2023": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 20h 20m"
+        ]
+    ], 
+    "STORM-3126": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 3h 30m"
+        ]
+    ], 
+    "STORM-3127": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 3h 19m"
+        ]
+    ], 
+    "STORM-3043": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 2h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15s"
+        ]
+    ], 
+    "STORM-3042": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25d 18h 53m"
+        ]
+    ], 
+    "STORM-3046": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 2h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "68d 22h 35m"
+        ]
+    ], 
+    "STORM-2976": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 35m"
+        ]
+    ], 
+    "STORM-2978": [
+        [
+            "Open", 
+            "In Progress", 
+            "11h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 18h 50m"
+        ]
+    ], 
+    "STORM-2979": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 23m"
+        ]
+    ], 
+    "STORM-3048": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 19h 6m"
+        ]
+    ], 
+    "STORM-2210": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 56m"
+        ]
+    ], 
+    "STORM-417": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 21h 44m"
+        ]
+    ], 
+    "STORM-1134": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 5h 17m"
+        ]
+    ], 
+    "STORM-203": [
+        [
+            "Open", 
+            "Resolved", 
+            "1010d 7h 40m"
+        ]
+    ], 
+    "STORM-2067": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14d 4h 54m"
+        ]
+    ], 
+    "STORM-2505": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 23h 5m"
+        ]
+    ], 
+    "STORM-3194": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 52m"
+        ]
+    ], 
+    "STORM-635": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 15h 27m"
+        ]
+    ], 
+    "STORM-633": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 50m"
+        ]
+    ], 
+    "STORM-2503": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 19h 56m"
+        ]
+    ], 
+    "STORM-1853": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 17h 46m"
+        ]
+    ], 
+    "STORM-2239": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 9h 31m"
+        ]
+    ], 
+    "STORM-1851": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 19m"
+        ]
+    ], 
+    "STORM-742": [
+        [
+            "Open", 
+            "In Progress", 
+            "43m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "135d 15h 16m"
+        ]
+    ], 
+    "STORM-740": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 21m"
+        ]
+    ], 
+    "STORM-2231": [
+        [
+            "Open", 
+            "In Progress", 
+            "265d 3h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 20h 34m"
+        ]
+    ], 
+    "STORM-1859": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 35m"
+        ]
+    ], 
+    "STORM-2234": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 58m"
+        ]
+    ], 
+    "STORM-2724": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 8h 30m"
+        ]
+    ], 
+    "STORM-2330": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 23m"
+        ]
+    ], 
+    "STORM-2331": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 41m"
+        ]
+    ], 
+    "STORM-2488": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "7d 12h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22s"
+        ]
+    ], 
+    "STORM-2489": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 7h"
+        ]
+    ], 
+    "STORM-2334": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 3h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "22d 7h 57m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "9h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "29s"
+        ]
+    ], 
+    "CURATOR-409": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 30m"
+        ]
+    ], 
+    "STORM-849": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17h 15m"
+        ]
+    ], 
+    "STORM-596": [
+        [
+            "Open", 
+            "In Progress", 
+            "22d 20h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "133d 18h 16m"
+        ]
+    ], 
+    "STORM-2486": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 1h 34m"
+        ]
+    ], 
+    "STORM-2729": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 21h 48m"
+        ]
+    ], 
+    "STORM-829": [
+        [
+            "Open", 
+            "Resolved", 
+            "478d 22h 26m"
+        ]
+    ], 
+    "STORM-1370": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 19m"
+        ]
+    ], 
+    "STORM-3319": [
+        [
+            "Open", 
+            "In Progress", 
+            "29m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "53d 5h 31m"
+        ]
+    ], 
+    "STORM-3117": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 21h 18m"
+        ]
+    ], 
+    "STORM-2246": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 7m"
+        ]
+    ], 
+    "STORM-2074": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 14h 56m"
+        ]
+    ], 
+    "STORM-449": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 33m"
+        ]
+    ], 
+    "STORM-113": [
+        [
+            "Open", 
+            "Resolved", 
+            "139d 3h 7m"
+        ]
+    ], 
+    "STORM-447": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 21h 6m"
+        ]
+    ], 
+    "STORM-443": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 9h 3m"
+        ]
+    ], 
+    "STORM-442": [
+        [
+            "Open", 
+            "Resolved", 
+            "152d 13h 39m"
+        ]
+    ], 
+    "STORM-2659": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 49m"
+        ]
+    ], 
+    "STORM-2226": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 3h 38m"
+        ]
+    ], 
+    "STORM-2240": [
+        [
+            "Open", 
+            "In Progress", 
+            "57d 20h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "159d 7h 52m"
+        ]
+    ], 
+    "STORM-2652": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "21h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31m 33s"
+        ]
+    ], 
+    "STORM-2655": [
+        [
+            "Open", 
+            "In Progress", 
+            "13m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 6h 14m"
+        ]
+    ], 
+    "STORM-766": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 20h 37m"
+        ]
+    ], 
+    "STORM-2158": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 31m"
+        ]
+    ], 
+    "STORM-2321": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 3h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 16h 21m"
+        ]
+    ], 
+    "STORM-3310": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 52s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23d 13h 15m"
+        ]
+    ], 
+    "STORM-1405": [
+        [
+            "Open", 
+            "In Progress", 
+            "27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "33d 11h 22m"
+        ]
+    ], 
+    "STORM-1407": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 19h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "STORM-2320": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 4h 19m"
+        ]
+    ], 
+    "STORM-1409": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 45m"
+        ]
+    ], 
+    "STORM-1625": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 20h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 9h 43m"
+        ]
+    ], 
+    "CALCITE-1386": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 16h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 21h 29m"
+        ]
+    ], 
+    "STORM-2323": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 19h 18m"
+        ]
+    ], 
+    "STORM-2853": [
+        [
+            "Open", 
+            "In Progress", 
+            "49d 13h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 41m"
+        ]
+    ], 
+    "STORM-2851": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 15h 13m"
+        ]
+    ], 
+    "STORM-2850": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 13h 19m"
+        ]
+    ], 
+    "STORM-2856": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17d 23h 14m"
+        ]
+    ], 
+    "STORM-2855": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 40s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17h 14m"
+        ]
+    ], 
+    "STORM-2993": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 20h 5m"
+        ]
+    ], 
+    "STORM-2859": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23d 22h 47m"
+        ]
+    ], 
+    "STORM-2994": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 6h 21m"
+        ]
+    ], 
+    "STORM-2496": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 18h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 4h"
+        ]
+    ], 
+    "STORM-3252": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 49m"
+        ]
+    ], 
+    "STORM-3251": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 27m"
+        ]
+    ], 
+    "STORM-3254": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 54m"
+        ]
+    ], 
+    "STORM-3255": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 19h 46m"
+        ]
+    ], 
+    "STORM-992": [
+        [
+            "Open", 
+            "In Progress", 
+            "35s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7h 47m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "9d 4h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 9h 46m"
+        ]
+    ], 
+    "STORM-549": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 53m"
+        ]
+    ], 
+    "STORM-2272": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 23m"
+        ]
+    ], 
+    "STORM-1579": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 14h 38m"
+        ]
+    ], 
+    "STORM-1677": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 29s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 14h 23m"
+        ]
+    ], 
+    "STORM-415": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 39m"
+        ]
+    ], 
+    "STORM-1674": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 16h 29m"
+        ]
+    ], 
+    "STORM-1535": [
+        [
+            "Open", 
+            "In Progress", 
+            "51d 1h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25d 1h 59m"
+        ]
+    ], 
+    "STORM-1534": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 42m"
+        ]
+    ], 
+    "STORM-3225": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2m"
+        ]
+    ], 
+    "STORM-3224": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 10m"
+        ]
+    ], 
+    "STORM-3223": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 31m"
+        ]
+    ], 
+    "STORM-3221": [
+        [
+            "Open", 
+            "In Progress", 
+            "48m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 4h 4m"
+        ]
+    ], 
+    "STORM-3220": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 20m"
+        ]
+    ], 
+    "STORM-994": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 16h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 8h 45m"
+        ]
+    ], 
+    "STORM-1538": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 24m"
+        ]
+    ], 
+    "STORM-3228": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 38m"
+        ]
+    ], 
+    "STORM-395": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 37m"
+        ]
+    ], 
+    "STORM-396": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 8h 37m"
+        ]
+    ], 
+    "STORM-643": [
+        [
+            "Open", 
+            "In Progress", 
+            "56m 56s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "166d 15h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 17h 37m"
+        ]
+    ], 
+    "STORM-3375": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 35m"
+        ]
+    ], 
+    "STORM-3009": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 59m"
+        ]
+    ], 
+    "STORM-640": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 23h 5m"
+        ]
+    ], 
+    "STORM-399": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 30m"
+        ]
+    ], 
+    "STORM-649": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 23h 58m"
+        ]
+    ], 
+    "STORM-648": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 19h 45m"
+        ]
+    ], 
+    "STORM-369": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 14h 27m"
+        ]
+    ], 
+    "STORM-1078": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 2m"
+        ]
+    ], 
+    "STORM-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 34m"
+        ]
+    ], 
+    "STORM-244": [
+        [
+            "Open", 
+            "Resolved", 
+            "100d 22h 30m"
+        ]
+    ], 
+    "STORM-248": [
+        [
+            "Open", 
+            "Resolved", 
+            "265d 21h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "18s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "58d 3h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4h 15m"
+        ]
+    ], 
+    "STORM-1179": [
+        [
+            "Open", 
+            "In Progress", 
+            "32d 7h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 16h 31m"
+        ]
+    ], 
+    "STORM-366": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 7h 50m"
+        ]
+    ], 
+    "STORM-1073": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 15h 45m"
+        ]
+    ], 
+    "STORM-1629": [
+        [
+            "Open", 
+            "In Progress", 
+            "54m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "4d 11h 18m"
+        ]
+    ], 
+    "STORM-3091": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 23h 59m"
+        ]
+    ], 
+    "STORM-3092": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20h 52m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3h 34m"
+        ]
+    ], 
+    "STORM-1213": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 15m"
+        ]
+    ], 
+    "STORM-1396": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 22h 34m"
+        ]
+    ], 
+    "STORM-3096": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 10m"
+        ]
+    ], 
+    "STORM-3097": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 51m"
+        ]
+    ], 
+    "STORM-3098": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 54m"
+        ]
+    ], 
+    "STORM-1620": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 8h 26m"
+        ]
+    ], 
+    "STORM-1623": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 4m"
+        ]
+    ], 
+    "STORM-1576": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 39m"
+        ]
+    ], 
+    "STORM-3317": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 21h 59m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 5h 38m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12s"
+        ]
+    ], 
+    "STORM-1749": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 13h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "34m 7s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15d 20h 11m"
+        ]
+    ], 
+    "STORM-2276": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 5h 7m"
+        ]
+    ], 
+    "STORM-2275": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 53m"
+        ]
+    ], 
+    "STORM-2274": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 56m"
+        ]
+    ], 
+    "STORM-809": [
+        [
+            "Open", 
+            "In Progress", 
+            "45d 4h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 2h 48m"
+        ]
+    ], 
+    "STORM-808": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 22h 38m"
+        ]
+    ], 
+    "STORM-2271": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h"
+        ]
+    ], 
+    "STORM-2270": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 17h 45m"
+        ]
+    ], 
+    "STORM-2374": [
+        [
+            "Open", 
+            "In Progress", 
+            "28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 1h 32m"
+        ]
+    ], 
+    "STORM-419": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 57m"
+        ]
+    ], 
+    "STORM-2372": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 16m"
+        ]
+    ], 
+    "STORM-800": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 58m"
+        ]
+    ], 
+    "STORM-2279": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 57m"
+        ]
+    ], 
+    "STORM-2371": [
+        [
+            "Open", 
+            "Resolved", 
+            "71d 4h 24m"
+        ]
+    ], 
+    "STORM-2070": [
+        [
+            "Open", 
+            "In Progress", 
+            "9m 15s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 7h 10m"
+        ]
+    ], 
+    "STORM-3170": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 1h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17h 53m"
+        ]
+    ], 
+    "STORM-2885": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3m"
+        ]
+    ], 
+    "STORM-1217": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 52m"
+        ]
+    ], 
+    "STORM-2079": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 34m"
+        ]
+    ], 
+    "STORM-3073": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 1h 14m"
+        ]
+    ], 
+    "STORM-3179": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 15h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 13h 46m"
+        ]
+    ], 
+    "STORM-3070": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 20h 8m"
+        ]
+    ], 
+    "STORM-3075": [
+        [
+            "Open", 
+            "In Progress", 
+            "38s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1d 19h 42m"
+        ]
+    ], 
+    "STORM-1526": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 23h 3m"
+        ]
+    ], 
+    "STORM-1218": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 20h 21m"
+        ]
+    ], 
+    "STORM-296": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10d 22h 19m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "25m 35s"
+        ]
+    ], 
+    "STORM-3485": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "23h 45m"
+        ]
+    ], 
+    "STORM-3488": [
+        [
+            "Open", 
+            "Closed", 
+            "19d 23h 42m"
+        ]
+    ], 
+    "STORM-2026": [
+        [
+            "Open", 
+            "In Progress", 
+            "42m 30s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 2h 39m"
+        ]
+    ], 
+    "STORM-2479": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 11h 19m"
+        ]
+    ], 
+    "STORM-2478": [
+        [
+            "Open", 
+            "Resolved", 
+            "81d 12h 56m"
+        ]
+    ], 
+    "STORM-682": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 20h 10m"
+        ]
+    ], 
+    "STORM-2475": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 54s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 19h 54m"
+        ]
+    ], 
+    "STORM-2474": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 18m"
+        ]
+    ], 
+    "STORM-565": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 8h 24m"
+        ]
+    ], 
+    "STORM-563": [
+        [
+            "Open", 
+            "Resolved", 
+            "150d 20h 23m"
+        ]
+    ], 
+    "STORM-1219": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 1h 56m"
+        ]
+    ], 
+    "STORM-2193": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 20h 44m"
+        ]
+    ], 
+    "STORM-2190": [
+        [
+            "Open", 
+            "Resolved", 
+            "42d 10h 37m"
+        ]
+    ], 
+    "STORM-529": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 23h 52m"
+        ]
+    ], 
+    "STORM-2196": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 24m"
+        ]
+    ], 
+    "STORM-2197": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 6h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14s"
+        ]
+    ], 
+    "STORM-2194": [
+        [
+            "Open", 
+            "Closed", 
+            "119d 2h 22m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "13s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4s"
+        ]
+    ], 
+    "STORM-2195": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 22h 34m"
+        ]
+    ], 
+    "STORM-737": [
+        [
+            "Open", 
+            "Resolved", 
+            "119d 4h"
+        ]
+    ], 
+    "STORM-2022": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 44m"
+        ]
+    ], 
+    "STORM-1928": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 13h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 5h 41m"
+        ]
+    ], 
+    "STORM-1521": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 5h 35m"
+        ]
+    ], 
+    "STORM-3481": [
+        [
+            "Open", 
+            "Closed", 
+            "22h 52m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 5h 40m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "STORM-839": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 3h 55m"
+        ]
+    ], 
+    "STORM-1884": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 21m"
+        ]
+    ], 
+    "STORM-1887": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 9m"
+        ]
+    ], 
+    "STORM-2449": [
+        [
+            "Open", 
+            "In Progress", 
+            "76d 2h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 5h 28m"
+        ]
+    ], 
+    "STORM-2758": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 12h 40m"
+        ]
+    ], 
+    "STORM-2020": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 28m"
+        ]
+    ], 
+    "STORM-2613": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 15h 11m"
+        ]
+    ], 
+    "STORM-2205": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 47m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 2h 59m"
+        ]
+    ], 
+    "STORM-2208": [
+        [
+            "Open", 
+            "In Progress", 
+            "9m 10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 22h 35m"
+        ]
+    ], 
+    "STORM-2757": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 56s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 16h 16m"
+        ]
+    ], 
+    "STORM-2750": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 1m"
+        ]
+    ], 
+    "STORM-2751": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23m"
+        ]
+    ], 
+    "STORM-688": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 46m"
+        ]
+    ], 
+    "STORM-1361": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 2m"
+        ]
+    ], 
+    "STORM-1363": [
+        [
+            "Open", 
+            "Resolved", 
+            "447d 9m"
+        ]
+    ], 
+    "STORM-2815": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 45m"
+        ]
+    ], 
+    "STORM-2814": [
+        [
+            "Open", 
+            "In Progress", 
+            "10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 5h 2m"
+        ]
+    ], 
+    "STORM-2811": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 9h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5h"
+        ]
+    ], 
+    "STORM-2810": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 1h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 9h 16m"
+        ]
+    ], 
+    "STORM-1956": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 37m"
+        ]
+    ], 
+    "STORM-1954": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 55m"
+        ]
+    ], 
+    "STORM-786": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 18m"
+        ]
+    ], 
+    "STORM-787": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 16m"
+        ]
+    ], 
+    "STORM-788": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 22m"
+        ]
+    ], 
+    "STORM-1486": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 48m"
+        ]
+    ], 
+    "STORM-2682": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 11h 4m"
+        ]
+    ], 
+    "CURATOR-202": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 22h 22m"
+        ]
+    ], 
+    "STORM-1959": [
+        [
+            "Open", 
+            "In Progress", 
+            "31m 2s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "33m 28s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 22h 36m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "22s"
+        ]
+    ], 
+    "STORM-3018": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 21m"
+        ]
+    ], 
+    "STORM-1087": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 14m"
+        ]
+    ], 
+    "STORM-2109": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 49m"
+        ]
+    ], 
+    "STORM-2101": [
+        [
+            "Open", 
+            "In Progress", 
+            "32s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "89d 23h"
+        ]
+    ], 
+    "STORM-2100": [
+        [
+            "Open", 
+            "In Progress", 
+            "3h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 14h 9m"
+        ]
+    ], 
+    "STORM-2066": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 11h 20m"
+        ]
+    ], 
+    "STORM-2104": [
+        [
+            "Open", 
+            "Resolved", 
+            "99d 9h 48m"
+        ]
+    ], 
+    "STORM-2736": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 24m"
+        ]
+    ], 
+    "STORM-2293": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 6h 3m"
+        ]
+    ], 
+    "STORM-675": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 19h 40m"
+        ]
+    ], 
+    "STORM-2295": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 23m"
+        ]
+    ], 
+    "STORM-2868": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 54m"
+        ]
+    ], 
+    "STORM-2869": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 4h 1m"
+        ]
+    ], 
+    "STORM-2863": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 52m"
+        ]
+    ], 
+    "STORM-3320": [
+        [
+            "Open", 
+            "In Progress", 
+            "19m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "36d 6h 41m"
+        ]
+    ], 
+    "STORM-3321": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 34s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "44d 17h"
+        ]
+    ], 
+    "STORM-3327": [
+        [
+            "Open", 
+            "In Progress", 
+            "15m 5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15d 17h 16m"
+        ]
+    ], 
+    "STORM-3284": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 9m"
+        ]
+    ], 
+    "STORM-1030": [
+        [
+            "Open", 
+            "In Progress", 
+            "206d 1h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11h 5m"
+        ]
+    ], 
+    "STORM-3288": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 21h 47m"
+        ]
+    ], 
+    "STORM-326": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 12h 20m"
+        ]
+    ], 
+    "STORM-2476": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 49m"
+        ]
+    ], 
+    "STORM-322": [
+        [
+            "Open", 
+            "Resolved", 
+            "245d 6h 18m"
+        ]
+    ], 
+    "STORM-328": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 8m"
+        ]
+    ], 
+    "STORM-1665": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 43m"
+        ]
+    ], 
+    "STORM-3356": [
+        [
+            "Open", 
+            "In Progress", 
+            "25m 6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 16h"
+        ]
+    ], 
+    "STORM-3354": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21d 16h 26m"
+        ]
+    ], 
+    "STORM-3352": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 19h 36m"
+        ]
+    ], 
+    "STORM-3218": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 45m"
+        ]
+    ], 
+    "STORM-3219": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 24m"
+        ]
+    ], 
+    "STORM-3216": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 7m"
+        ]
+    ], 
+    "STORM-3217": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 6h 6m"
+        ]
+    ], 
+    "STORM-3215": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 16m"
+        ]
+    ], 
+    "STORM-1669": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "20h 12m"
+        ]
+    ], 
+    "STORM-3213": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 31m"
+        ]
+    ], 
+    "STORM-3210": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 10m"
+        ]
+    ], 
+    "STORM-1543": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 1h 3m"
+        ]
+    ], 
+    "STORM-2407": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 5h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 17h 19m"
+        ]
+    ], 
+    "STORM-2400": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 51m"
+        ]
+    ], 
+    "STORM-512": [
+        [
+            "Open", 
+            "Resolved", 
+            "184d 5h 49m"
+        ]
+    ], 
+    "STORM-511": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 6h 29m"
+        ]
+    ], 
+    "STORM-2403": [
+        [
+            "Open", 
+            "In Progress", 
+            "37s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 16h 2m"
+        ]
+    ], 
+    "STORM-3137": [
+        [
+            "Open", 
+            "In Progress", 
+            "9h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 14h 37m"
+        ]
+    ], 
+    "STORM-3136": [
+        [
+            "Open", 
+            "In Progress", 
+            "22m 13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10d 4h 40m"
+        ]
+    ], 
+    "STORM-3135": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 22s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11d 2h 3m"
+        ]
+    ], 
+    "STORM-2036": [
+        [
+            "Open", 
+            "Closed", 
+            "23m 54s"
+        ]
+    ], 
+    "STORM-922": [
+        [
+            "Open", 
+            "Resolved", 
+            "93d 5h 24m"
+        ]
+    ], 
+    "STORM-2409": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 22h 24m"
+        ]
+    ], 
+    "STORM-2032": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 10h 16m"
+        ]
+    ], 
+    "STORM-2967": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 11m"
+        ]
+    ], 
+    "STORM-2965": [
+        [
+            "Open", 
+            "In Progress", 
+            "23s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 12h 5m"
+        ]
+    ], 
+    "STORM-3035": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 8h 34m"
+        ]
+    ], 
+    "STORM-2969": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 9m"
+        ]
+    ], 
+    "STORM-2968": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 8h 27m"
+        ]
+    ], 
+    "STORM-1924": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 59m"
+        ]
+    ], 
+    "STORM-195": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 16h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "622d 5h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "STORM-194": [
+        [
+            "Open", 
+            "Resolved", 
+            "100d 15h 39m"
+        ]
+    ], 
+    "STORM-1104": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 10m"
+        ]
+    ], 
+    "STORM-1106": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 24m"
+        ]
+    ], 
+    "STORM-1925": [
+        [
+            "Open", 
+            "In Progress", 
+            "23m 59s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 29m"
+        ]
+    ], 
+    "STORM-214": [
+        [
+            "Open", 
+            "Resolved", 
+            "410d 6h 15m"
+        ]
+    ], 
+    "STORM-1103": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 4h 32m"
+        ]
+    ], 
+    "STORM-603": [
+        [
+            "Open", 
+            "Resolved", 
+            "131d 20h 16m"
+        ]
+    ], 
+    "STORM-2532": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 9h 29m"
+        ]
+    ], 
+    "STORM-2533": [
+        [
+            "Open", 
+            "In Progress", 
+            "98d 15h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 4h 25m"
+        ]
+    ], 
+    "STORM-2534": [
+        [
+            "Open", 
+            "In Progress", 
+            "98d 15h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18d 13h 33m"
+        ]
+    ], 
+    "STORM-2535": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 8m"
+        ]
+    ], 
+    "STORM-2536": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 58s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 14h 23m"
+        ]
+    ], 
+    "STORM-356": [
+        [
+            "Open", 
+            "Resolved", 
+            "73d 1h 22m"
+        ]
+    ], 
+    "STORM-1713": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 23h 12m"
+        ]
+    ], 
+    "STORM-608": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 13h 36m"
+        ]
+    ], 
+    "STORM-1714": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 56m"
+        ]
+    ], 
+    "STORM-1841": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 12h 5m"
+        ]
+    ], 
+    "STORM-1842": [
+        [
+            "Open", 
+            "In Progress", 
+            "11h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 6h 3m"
+        ]
+    ], 
+    "STORM-1844": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 23h 43m"
+        ]
+    ], 
+    "STORM-1849": [
+        [
+            "Open", 
+            "Resolved", 
+            "117d 10h 23m"
+        ]
+    ], 
+    "STORM-1848": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 9h 27m"
+        ]
+    ], 
+    "STORM-2245": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 58m"
+        ]
+    ], 
+    "STORM-2716": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 7h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "37d 4h 1m"
+        ]
+    ], 
+    "STORM-2088": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 14m"
+        ]
+    ], 
+    "STORM-853": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 15h 45m"
+        ]
+    ], 
+    "STORM-3148": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 59m"
+        ]
+    ], 
+    "STORM-583": [
+        [
+            "Open", 
+            "Resolved", 
+            "141d 22h 2m"
+        ]
+    ], 
+    "STORM-584": [
+        [
+            "Open", 
+            "Resolved", 
+            "473d 4h 34m"
+        ]
+    ], 
+    "STORM-585": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 21h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "38d 1h 56m"
+        ]
+    ], 
+    "STORM-586": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 17h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "330d 6h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "756d 5h 13m"
+        ]
+    ], 
+    "STORM-3143": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 9h 8m"
+        ]
+    ], 
+    "STORM-3141": [
+        [
+            "Open", 
+            "In Progress", 
+            "13m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 19h 3m"
+        ]
+    ], 
+    "STORM-996": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 4h 15m"
+        ]
+    ], 
+    "STORM-2087": [
+        [
+            "Open", 
+            "Resolved", 
+            "100d 5h 1m"
+        ]
+    ], 
+    "STORM-2912": [
+        [
+            "Open", 
+            "In Progress", 
+            "18s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 12h 17m"
+        ]
+    ], 
+    "STORM-2913": [
+        [
+            "Open", 
+            "In Progress", 
+            "12h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 15h 48m"
+        ]
+    ], 
+    "STORM-2910": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 45m"
+        ]
+    ], 
+    "STORM-2911": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 1h 7m"
+        ]
+    ], 
+    "STORM-269": [
+        [
+            "Open", 
+            "In Progress", 
+            "28d 20h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "7m 48s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "26d 59m"
+        ]
+    ], 
+    "STORM-2918": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 7h 1m"
+        ]
+    ], 
+    "STORM-279": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 19h 51m"
+        ]
+    ], 
+    "STORM-687": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 29m"
+        ]
+    ], 
+    "STORM-1704": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 40m"
+        ]
+    ], 
+    "STORM-458": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 52m"
+        ]
+    ], 
+    "STORM-456": [
+        [
+            "Open", 
+            "Resolved", 
+            "290d 23h 48m"
+        ]
+    ], 
+    "STORM-1449": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 56m"
+        ]
+    ], 
+    "STORM-454": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 17h 40m"
+        ]
+    ], 
+    "STORM-451": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 42m"
+        ]
+    ], 
+    "STORM-3422": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 2h 18m"
+        ]
+    ], 
+    "STORM-747": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 2h 22m"
+        ]
+    ], 
+    "STORM-1882": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 5m"
+        ]
+    ], 
+    "STORM-273": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 40m"
+        ]
+    ], 
+    "STORM-2144": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21s"
+        ]
+    ], 
+    "STORM-745": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 59s"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "6m 53s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "56d 7h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 11h 15m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "128d 18h 59m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "STORM-2142": [
+        [
+            "Open", 
+            "In Progress", 
+            "37m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 23h 7m"
+        ]
+    ], 
+    "STORM-2666": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 12h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "54d 7h 19m"
+        ]
+    ], 
+    "STORM-2660": [
+        [
+            "Open", 
+            "In Progress", 
+            "36d 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 15h 4m"
+        ]
+    ], 
+    "STORM-3079": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 51m"
+        ]
+    ], 
+    "STORM-1432": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 42m"
+        ]
+    ], 
+    "STORM-2988": [
+        [
+            "Open", 
+            "In Progress", 
+            "61d 9h 48m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 3h 55m"
+        ]
+    ], 
+    "STORM-2396": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 36m"
+        ]
+    ], 
+    "STORM-685": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 52s"
+        ]
+    ], 
+    "STORM-2391": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 52m"
+        ]
+    ], 
+    "STORM-2989": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 56m"
+        ]
+    ], 
+    "STORM-2827": [
+        [
+            "Open", 
+            "In Progress", 
+            "10m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 19h 8m"
+        ]
+    ], 
+    "STORM-2820": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 39m"
+        ]
+    ], 
+    "STORM-2981": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 15m"
+        ]
+    ], 
+    "STORM-2980": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 14h 38m"
+        ]
+    ], 
+    "STORM-2983": [
+        [
+            "Open", 
+            "In Progress", 
+            "29d 12h 47m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 9h 37m"
+        ]
+    ], 
+    "STORM-1962": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 23h 49m"
+        ]
+    ], 
+    "STORM-2987": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 22h 7m"
+        ]
+    ], 
+    "STORM-2986": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 15h 18m"
+        ]
+    ], 
+    "STORM-3241": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 22h 4m"
+        ]
+    ], 
+    "STORM-3240": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 20m"
+        ]
+    ], 
+    "STORM-3245": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 26m"
+        ]
+    ], 
+    "STORM-3244": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 49m"
+        ]
+    ], 
+    "STORM-3247": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 22m"
+        ]
+    ], 
+    "STORM-3246": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 48m"
+        ]
+    ], 
+    "STORM-3249": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 38m"
+        ]
+    ], 
+    "STORM-3248": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 2m"
+        ]
+    ], 
+    "STORM-684": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 17s"
+        ]
+    ], 
+    "STORM-370": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 32m"
+        ]
+    ], 
+    "STORM-1481": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 8h 37m"
+        ]
+    ], 
+    "STORM-773": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 13h 8m"
+        ]
+    ], 
+    "STORM-772": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 30m"
+        ]
+    ], 
+    "STORM-1964": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 3h 53m"
+        ]
+    ], 
+    "STORM-1631": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 54m"
+        ]
+    ], 
+    "STORM-1503": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 16m"
+        ]
+    ], 
+    "STORM-1504": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 34m"
+        ]
+    ], 
+    "STORM-842": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 23m"
+        ]
+    ], 
+    "STORM-307": [
+        [
+            "Open", 
+            "Resolved", 
+            "183d 2h 39m"
+        ]
+    ], 
+    "STORM-2336": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 6h 48m"
+        ]
+    ], 
+    "STORM-2829": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 59m"
+        ]
+    ], 
+    "STORM-2040": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 14h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "29d 21h 13m"
+        ]
+    ], 
+    "STORM-2337": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 51m"
+        ]
+    ], 
+    "STORM-3408": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 1h 40m"
+        ]
+    ], 
+    "STORM-381": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 9h 39m"
+        ]
+    ], 
+    "STORM-967": [
+        [
+            "Open", 
+            "Resolved", 
+            "64d 6h 30m"
+        ]
+    ], 
+    "STORM-2722": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 55m"
+        ]
+    ], 
+    "STORM-388": [
+        [
+            "Open", 
+            "Resolved", 
+            "248d 2h"
+        ]
+    ], 
+    "STORM-303": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 23h 26m"
+        ]
+    ], 
+    "STORM-1939": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 7h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 9h 14m"
+        ]
+    ], 
+    "STORM-1142": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 2s"
+        ]
+    ], 
+    "STORM-2338": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 19m"
+        ]
+    ], 
+    "STORM-1147": [
+        [
+            "Open", 
+            "Resolved", 
+            "111d 2h 47m"
+        ]
+    ], 
+    "STORM-1063": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 47m"
+        ]
+    ], 
+    "STORM-2480": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 11m"
+        ]
+    ], 
+    "STORM-1069": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 28m"
+        ]
+    ], 
+    "STORM-406": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 23h 3m"
+        ]
+    ], 
+    "STORM-259": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 3m"
+        ]
+    ], 
+    "STORM-313": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 21h 30m"
+        ]
+    ], 
+    "STORM-3087": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 10h 45m"
+        ]
+    ], 
+    "STORM-2303": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 19s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 1h 12m"
+        ]
+    ], 
+    "STORM-3084": [
+        [
+            "Open", 
+            "In Progress", 
+            "40s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 18h 50m"
+        ]
+    ], 
+    "STORM-3082": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 5h 3m"
+        ]
+    ], 
+    "STORM-156": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 17h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16d 19h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "622d 5h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "STORM-1614": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 22h 7m"
+        ]
+    ], 
+    "STORM-3379": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21d 18h 54m"
+        ]
+    ], 
+    "STORM-1616": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 15m"
+        ]
+    ], 
+    "STORM-3362": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 57m"
+        ]
+    ], 
+    "STORM-427": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 20h 55m"
+        ]
+    ], 
+    "STORM-424": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 6h 58m"
+        ]
+    ], 
+    "STORM-422": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 9h 55m"
+        ]
+    ], 
+    "STORM-818": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 21h 56m"
+        ]
+    ], 
+    "STORM-420": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 55s"
+        ]
+    ], 
+    "STORM-816": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 21h 43m"
+        ]
+    ], 
+    "STORM-139": [
+        [
+            "Open", 
+            "Resolved", 
+            "584d 17h 44m"
+        ]
+    ], 
+    "STORM-813": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 5h 49m"
+        ]
+    ], 
+    "STORM-811": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 21h 54m"
+        ]
+    ], 
+    "STORM-3068": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 16h 41m"
+        ]
+    ], 
+    "STORM-2047": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 4m"
+        ]
+    ], 
+    "STORM-2893": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 12h 34m"
+        ]
+    ], 
+    "STORM-3103": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 21h 40m"
+        ]
+    ], 
+    "STORM-2042": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 17m"
+        ]
+    ], 
+    "STORM-3063": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 31m"
+        ]
+    ], 
+    "STORM-3065": [
+        [
+            "Open", 
+            "In Progress", 
+            "19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 6m"
+        ]
+    ], 
+    "STORM-1609": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 17m"
+        ]
+    ], 
+    "STORM-2950": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 5m"
+        ]
+    ], 
+    "STORM-3109": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 3m"
+        ]
+    ], 
+    "STORM-3376": [
+        [
+            "Open", 
+            "In Progress", 
+            "4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22d 19h 49m"
+        ]
+    ], 
+    "STORM-2346": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 10h 52m"
+        ]
+    ], 
+    "STORM-1566": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 49m"
+        ]
+    ], 
+    "STORM-659": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 9m"
+        ]
+    ], 
+    "STORM-2443": [
+        [
+            "In Progress", 
+            "Open", 
+            "18h 46m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "152d 5h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17s"
+        ]
+    ], 
+    "STORM-2445": [
+        [
+            "Open", 
+            "In Progress", 
+            "153d 2h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 10h 32m"
+        ]
+    ], 
+    "STORM-555": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 25m"
+        ]
+    ], 
+    "STORM-554": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 37s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 6h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "110d 4m"
+        ]
+    ], 
+    "STORM-2563": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 17m"
+        ]
+    ], 
+    "STORM-2562": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 6h 41m"
+        ]
+    ], 
+    "STORM-558": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 38m"
+        ]
+    ], 
+    "STORM-2564": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 40m"
+        ]
+    ], 
+    "STORM-2350": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 23m"
+        ]
+    ], 
+    "STORM-723": [
+        [
+            "Open", 
+            "In Progress", 
+            "23h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13h 52m"
+        ]
+    ], 
+    "STORM-2185": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 19m"
+        ]
+    ], 
+    "STORM-2184": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 47m"
+        ]
+    ], 
+    "STORM-1937": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "31s"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "19h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 22h 58m"
+        ]
+    ], 
+    "STORM-727": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 17h 39m"
+        ]
+    ], 
+    "STORM-728": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 22h 59m"
+        ]
+    ], 
+    "STORM-2621": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 23h 50m"
+        ]
+    ], 
+    "STORM-2627": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 7h 39m"
+        ]
+    ], 
+    "STORM-1470": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 37m"
+        ]
+    ], 
+    "STORM-2742": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13m"
+        ]
+    ], 
+    "STORM-2213": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 14s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 6h 20m"
+        ]
+    ], 
+    "STORM-1378": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 20m"
+        ]
+    ], 
+    "STORM-1476": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 1h 22m"
+        ]
+    ], 
+    "STORM-1478": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 34m"
+        ]
+    ], 
+    "STORM-2748": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 38m"
+        ]
+    ], 
+    "STORM-1377": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 6h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 17h 27m"
+        ]
+    ], 
+    "STORM-1376": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 14h 59m"
+        ]
+    ], 
+    "STORM-1375": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 34m"
+        ]
+    ], 
+    "STORM-794": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 22m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "192d 9h 11m"
+        ]
+    ], 
+    "STORM-1728": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 27m"
+        ]
+    ], 
+    "STORM-683": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 54m"
+        ]
+    ], 
+    "STORM-2425": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 18h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "49s"
+        ]
+    ], 
+    "STORM-1220": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "5d 22h 29m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 43m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "18s"
+        ]
+    ], 
+    "STORM-538": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 21h 43m"
+        ], 
+        [
+            "Open", 
+            "Reopened", 
+            "51s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6s"
+        ]
+    ], 
+    "STORM-2695": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 24s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 16h 29m"
+        ]
+    ], 
+    "STORM-793": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 22h 24m"
+        ]
+    ], 
+    "STORM-2691": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 15h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "193d 20h 31m"
+        ]
+    ], 
+    "STORM-2690": [
+        [
+            "Open", 
+            "Resolved", 
+            "139d 6h 48m"
+        ]
+    ], 
+    "STORM-1556": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 14h 42m"
+        ]
+    ], 
+    "STORM-2343": [
+        [
+            "Open", 
+            "Resolved", 
+            "106d 10h 2m"
+        ]
+    ], 
+    "STORM-3013": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 13h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "101d 8h 55m"
+        ]
+    ], 
+    "STORM-945": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 11h 33m"
+        ]
+    ], 
+    "STORM-1988": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 17s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19h 10m"
+        ]
+    ], 
+    "STORM-1985": [
+        [
+            "Open", 
+            "Closed", 
+            "97d 14h 26m"
+        ]
+    ], 
+    "STORM-1987": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 2h 2m"
+        ]
+    ], 
+    "STORM-2131": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 34m"
+        ]
+    ], 
+    "STORM-3072": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 44m"
+        ]
+    ], 
+    "STORM-1558": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 11m"
+        ]
+    ], 
+    "STORM-1496": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 53m"
+        ]
+    ], 
+    "STORM-3500": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 20h 22m"
+        ]
+    ], 
+    "STORM-2879": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 31m"
+        ]
+    ], 
+    "STORM-1385": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 3m"
+        ]
+    ], 
+    "STORM-2870": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 14m"
+        ]
+    ], 
+    "STORM-1388": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 15h 36m"
+        ]
+    ], 
+    "STORM-2876": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 23m"
+        ]
+    ], 
+    "STORM-2000": [
+        [
+            "Open", 
+            "In Progress", 
+            "21m 9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 10h 35m"
+        ]
+    ], 
+    "STORM-3333": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 46m"
+        ]
+    ], 
+    "STORM-1542": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 13h 53m"
+        ]
+    ], 
+    "STORM-1452": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 21h 39m"
+        ]
+    ], 
+    "STORM-1185": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 8h 15m"
+        ]
+    ], 
+    "STORM-1180": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 47m"
+        ]
+    ], 
+    "STORM-1027": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 15h 11m"
+        ]
+    ], 
+    "STORM-1026": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 19h 45m"
+        ]
+    ], 
+    "STORM-1024": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 52m"
+        ]
+    ], 
+    "STORM-1189": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 2m"
+        ]
+    ], 
+    "STORM-1658": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 16h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "17h"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3h 37m"
+        ]
+    ], 
+    "STORM-475": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 16h 24m"
+        ]
+    ], 
+    "STORM-1453": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 31m"
+        ]
+    ], 
+    "STORM-1654": [
+        [
+            "Open", 
+            "In Progress", 
+            "29m 46s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 11m"
+        ]
+    ], 
+    "STORM-1655": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 25m"
+        ]
+    ], 
+    "STORM-2940": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 27m"
+        ]
+    ], 
+    "STORM-1499": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 36m"
+        ]
+    ], 
+    "STORM-2325": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 56s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 5h 35m"
+        ]
+    ], 
+    "STORM-3208": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 10m"
+        ]
+    ], 
+    "STORM-1492": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 16h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "960d 5h 2m"
+        ]
+    ], 
+    "STORM-3207": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 43m"
+        ]
+    ], 
+    "STORM-3206": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 5h 41m"
+        ]
+    ], 
+    "STORM-3201": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 47m"
+        ]
+    ], 
+    "STORM-3200": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 19m"
+        ]
+    ], 
+    "STORM-3203": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 5h 20m"
+        ]
+    ], 
+    "STORM-1114": [
+        [
+            "Open", 
+            "Resolved", 
+            "546d 4h 35m"
+        ]
+    ], 
+    "STORM-2552": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 11h 8m"
+        ]
+    ], 
+    "STORM-2557": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 43m"
+        ]
+    ], 
+    "STORM-2555": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 53s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 3h 34m"
+        ]
+    ], 
+    "STORM-2558": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 15h 26m"
+        ]
+    ], 
+    "STORM-2559": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 2h 3m"
+        ]
+    ], 
+    "STORM-2324": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 9m"
+        ]
+    ], 
+    "STORM-3436": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 21s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "2d 4h 27m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "40d 7h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "36s"
+        ]
+    ], 
+    "STORM-3020": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 17h 26m"
+        ]
+    ], 
+    "STORM-3023": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 52m"
+        ]
+    ], 
+    "STORM-3385": [
+        [
+            "Open", 
+            "In Progress", 
+            "13m 42s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15d 19h 29m"
+        ]
+    ], 
+    "STORM-3381": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 8m"
+        ]
+    ], 
+    "STORM-186": [
+        [
+            "Open", 
+            "Resolved", 
+            "78d 12h 11m"
+        ]
+    ], 
+    "STORM-1110": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 48m"
+        ]
+    ], 
+    "STORM-1117": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 9m"
+        ]
+    ], 
+    "STORM-1115": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 22m"
+        ]
+    ], 
+    "STORM-183": [
+        [
+            "Open", 
+            "Resolved", 
+            "184d 12h 23m"
+        ]
+    ], 
+    "STORM-264": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 6h 34m"
+        ]
+    ], 
+    "STORM-1050": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6m"
+        ]
+    ], 
+    "STORM-1051": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "3s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 14m"
+        ]
+    ], 
+    "STORM-188": [
+        [
+            "Open", 
+            "Resolved", 
+            "456d 15h"
+        ]
+    ], 
+    "STORM-260": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 21h 22m"
+        ]
+    ], 
+    "STORM-1054": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 44m"
+        ]
+    ], 
+    "STORM-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 48m"
+        ]
+    ], 
+    "STORM-342": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 4m"
+        ]
+    ], 
+    "STORM-2526": [
+        [
+            "Open", 
+            "In Progress", 
+            "29m 22s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 26m"
+        ]
+    ], 
+    "STORM-2525": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 1h 45m"
+        ]
+    ], 
+    "STORM-341": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 8h 42m"
+        ]
+    ], 
+    "STORM-610": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 15h 39m"
+        ]
+    ], 
+    "STORM-611": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 15h 1m"
+        ]
+    ], 
+    "STORM-612": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 11h 1m"
+        ]
+    ], 
+    "STORM-2520": [
+        [
+            "Open", 
+            "In Progress", 
+            "12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17h 28m"
+        ]
+    ], 
+    "STORM-951": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 5h 20m"
+        ]
+    ], 
+    "STORM-3021": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 4h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16d 8h 27m"
+        ]
+    ], 
+    "STORM-348": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 20h 42m"
+        ]
+    ], 
+    "STORM-349": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 23h 43m"
+        ]
+    ], 
+    "STORM-627": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 23h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4m 52s"
+        ]
+    ], 
+    "STORM-1872": [
+        [
+            "Open", 
+            "Resolved", 
+            "115d 9h 3m"
+        ]
+    ], 
+    "STORM-2706": [
+        [
+            "Open", 
+            "In Progress", 
+            "54d 8h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 2h 12m"
+        ]
+    ], 
+    "STORM-2705": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 55m"
+        ]
+    ], 
+    "STORM-2251": [
+        [
+            "Open", 
+            "In Progress", 
+            "24m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 3h 56m"
+        ]
+    ], 
+    "STORM-2257": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 54m"
+        ]
+    ], 
+    "STORM-2700": [
+        [
+            "Open", 
+            "In Progress", 
+            "59m 48s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 5h 38m"
+        ]
+    ], 
+    "STORM-3159": [
+        [
+            "Open", 
+            "Resolved", 
+            "42m 49s"
+        ]
+    ], 
+    "STORM-3158": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 16h 24m"
+        ]
+    ], 
+    "STORM-988": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 23m"
+        ]
+    ], 
+    "STORM-2189": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 37m"
+        ]
+    ], 
+    "STORM-2098": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 2h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21s"
+        ]
+    ], 
+    "STORM-2095": [
+        [
+            "Open", 
+            "Resolved", 
+            "110d 22h 18m"
+        ]
+    ], 
+    "STORM-2093": [
+        [
+            "Open", 
+            "Resolved", 
+            "299d 9h 7m"
+        ]
+    ], 
+    "STORM-2900": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 52m"
+        ]
+    ], 
+    "STORM-2903": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 32m"
+        ]
+    ], 
+    "STORM-2906": [
+        [
+            "Open", 
+            "In Progress", 
+            "16s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 9h 53m"
+        ]
+    ], 
+    "STORM-3028": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 9h 57m"
+        ]
+    ], 
+    "STORM-509": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 6h 32m"
+        ]
+    ], 
+    "STORM-461": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 22h 26m"
+        ]
+    ], 
+    "STORM-460": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 17h 53m"
+        ]
+    ], 
+    "STORM-2794": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 21m"
+        ]
+    ], 
+    "STORM-2795": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 34m"
+        ]
+    ], 
+    "STORM-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 34m"
+        ]
+    ], 
+    "STORM-2413": [
+        [
+            "Open", 
+            "Resolved", 
+            "67d 14h 33m"
+        ]
+    ], 
+    "STORM-501": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 6m"
+        ]
+    ], 
+    "STORM-502": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 3h 48m"
+        ]
+    ], 
+    "STORM-468": [
+        [
+            "Open", 
+            "Resolved", 
+            "505d 22h 17m"
+        ]
+    ], 
+    "STORM-504": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 49m"
+        ]
+    ], 
+    "STORM-505": [
+        [
+            "Open", 
+            "Resolved", 
+            "91d 2h 22m"
+        ]
+    ], 
+    "STORM-506": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 14h 45m"
+        ]
+    ], 
+    "STORM-2414": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 4h 46m"
+        ]
+    ], 
+    "STORM-2412": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 58m"
+        ]
+    ], 
+    "STORM-2451": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13m"
+        ]
+    ], 
+    "STORM-1400": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 31m"
+        ]
+    ], 
+    "STORM-711": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 2h 43m"
+        ]
+    ], 
+    "STORM-2171": [
+        [
+            "Open", 
+            "In Progress", 
+            "529d 22h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "30d 2h 59m"
+        ]
+    ], 
+    "STORM-713": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "34d 11h"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "39d 13h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "18s"
+        ]
+    ], 
+    "STORM-715": [
+        [
+            "Open", 
+            "Resolved", 
+            "66d 8h 43m"
+        ]
+    ], 
+    "STORM-1111": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 5h 26m"
+        ]
+    ], 
+    "STORM-2176": [
+        [
+            "Open", 
+            "In Progress", 
+            "69d 12h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13d 17h 4m"
+        ]
+    ], 
+    "STORM-1920": [
+        [
+            "Open", 
+            "In Progress", 
+            "23m 46s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 35m"
+        ]
+    ], 
+    "STORM-625": [
+        [
+            "Open", 
+            "Closed", 
+            "58d 2h 3m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "80d 1h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "28s"
+        ]
+    ], 
+    "STORM-1402": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 49m"
+        ]
+    ], 
+    "STORM-2676": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 47m"
+        ]
+    ], 
+    "STORM-2675": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "40d 13h 29m"
+        ]
+    ], 
+    "STORM-2674": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 16h 57m"
+        ]
+    ], 
+    "STORM-1588": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 21h 15m"
+        ]
+    ], 
+    "STORM-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 2h 11m"
+        ]
+    ], 
+    "ZOOKEEPER-2184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "167d 19h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 21m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "928d 8h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "44d 5h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "38m 37s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 6h 38m"
+        ]
+    ], 
+    "STORM-482": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 1h 38m"
+        ]
+    ], 
+    "STORM-1427": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 6h 9m"
+        ]
+    ], 
+    "STORM-2777": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 12h 24m"
+        ]
+    ], 
+    "STORM-1425": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 14h 45m"
+        ]
+    ], 
+    "STORM-486": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 5h 23m"
+        ]
+    ], 
+    "STORM-837": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 2h 1m"
+        ]
+    ], 
+    "STORM-566": [
+        [
+            "Open", 
+            "Resolved", 
+            "340d 21m"
+        ]
+    ], 
+    "STORM-2387": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 20h 22m"
+        ]
+    ], 
+    "STORM-2386": [
+        [
+            "Open", 
+            "In Progress", 
+            "7s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 23h 24m"
+        ]
+    ], 
+    "STORM-1344": [
+        [
+            "Open", 
+            "Resolved", 
+            "282d 19h 28m"
+        ]
+    ], 
+    "STORM-1596": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 44m"
+        ]
+    ], 
+    "STORM-548": [
+        [
+            "Open", 
+            "Closed", 
+            "40d 19h 51m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "296d 20h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "STORM-1348": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 1h 18m"
+        ]
+    ], 
+    "STORM-1349": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 41s"
+        ]
+    ], 
+    "STORM-620": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h"
+        ]
+    ], 
+    "STORM-2835": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 20h 35m"
+        ]
+    ], 
+    "STORM-2834": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12h 24m"
+        ]
+    ], 
+    "STORM-499": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 3h 4m"
+        ]
+    ], 
+    "STORM-2833": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 6m"
+        ]
+    ], 
+    "STORM-1408": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 23h 51m"
+        ]
+    ], 
+    "STORM-2602": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 15h 47m"
+        ]
+    ], 
+    "STORM-1977": [
+        [
+            "Open", 
+            "In Progress", 
+            "26m 49s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 13h 58m"
+        ]
+    ], 
+    "STORM-1976": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 15h 2m"
+        ]
+    ], 
+    "STORM-760": [
+        [
+            "Open", 
+            "Resolved", 
+            "58d 11m"
+        ]
+    ], 
+    "STORM-267": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 22h 59m"
+        ]
+    ], 
+    "STORM-807": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 5h 21m"
+        ]
+    ], 
+    "STORM-763": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 9h 39m"
+        ]
+    ], 
+    "STORM-294": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 32m"
+        ]
+    ], 
+    "STORM-3275": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 22h 52m"
+        ]
+    ], 
+    "STORM-3276": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 3h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "35d 22h 30m"
+        ]
+    ], 
+    "STORM-3272": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 18h 52m"
+        ]
+    ], 
+    "STORM-3273": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 39m"
+        ]
+    ], 
+    "STORM-3278": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 16h 35m"
+        ]
+    ], 
+    "STORM-3279": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 18h 54m"
+        ]
+    ], 
+    "STORM-3239": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 14h 5m"
+        ]
+    ], 
+    "KAFKA-7044": [
+        [
+            "Open", 
+            "Resolved", 
+            "91d 15h 44m"
+        ]
+    ], 
+    "STORM-730": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 21h 3m"
+        ]
+    ], 
+    "STORM-493": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 7h 38m"
+        ]
+    ], 
+    "STORM-2541": [
+        [
+            "Open", 
+            "In Progress", 
+            "25d 13h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17d 21h 34m"
+        ]
+    ], 
+    "STORM-295": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 4h 5m"
+        ]
+    ], 
+    "STORM-1694": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 48s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "272d 11h 57m"
+        ]
+    ], 
+    "CURATOR-209": [
+        [
+            "Open", 
+            "Resolved", 
+            "275d 3h 34m"
+        ]
+    ], 
+    "STORM-1696": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 20h 9m"
+        ]
+    ], 
+    "STORM-1455": [
+        [
+            "Open", 
+            "In Progress", 
+            "27d 13h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 48m"
+        ]
+    ], 
+    "STORM-1519": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 20h 55m"
+        ]
+    ], 
+    "STORM-1693": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 3h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 10m"
+        ]
+    ], 
+    "STORM-1517": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 56m"
+        ]
+    ], 
+    "STORM-1516": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18d 5h 41m"
+        ]
+    ], 
+    "STORM-1515": [
+        [
+            "Open", 
+            "Resolved", 
+            "1310d 16h 36m"
+        ]
+    ], 
+    "STORM-1510": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 32m"
+        ]
+    ], 
+    "STORM-850": [
+        [
+            "Open", 
+            "In Progress", 
+            "11h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7h 11m"
+        ]
+    ], 
+    "STORM-346": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 19h 44m"
+        ]
+    ], 
+    "STORM-347": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 2h 48m"
+        ]
+    ], 
+    "STORM-254": [
+        [
+            "Open", 
+            "Resolved", 
+            "137d 9h 41m"
+        ]
+    ], 
+    "STORM-344": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 37m"
+        ]
+    ], 
+    "STORM-613": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 7h 41m"
+        ]
+    ], 
+    "STORM-3470": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 5m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "22d 34m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "STORM-1725": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25m 36s"
+        ]
+    ], 
+    "STORM-2021": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 52m"
+        ]
+    ], 
+    "STORM-297": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 9h 55m"
+        ]
+    ], 
+    "STORM-1911": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 14h 40m"
+        ]
+    ], 
+    "STORM-1150": [
+        [
+            "Open", 
+            "In Progress", 
+            "51d 22h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21d 10h 44m"
+        ]
+    ], 
+    "STORM-1017": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 4h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41d 3h 32m"
+        ]
+    ], 
+    "STORM-1587": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h"
+        ]
+    ], 
+    "STORM-1012": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 20h 46m"
+        ]
+    ], 
+    "STORM-1011": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 10h 26m"
+        ]
+    ], 
+    "STORM-1761": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 17m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "15s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 8h 19m"
+        ]
+    ], 
+    "STORM-1764": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 17h 28m"
+        ]
+    ], 
+    "STORM-2389": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 16h 21m"
+        ]
+    ], 
+    "STORM-1602": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 13h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 12h 42m"
+        ]
+    ], 
+    "STORM-1601": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 16m"
+        ]
+    ], 
+    "STORM-856": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 50m"
+        ]
+    ], 
+    "STORM-1606": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 42m"
+        ]
+    ], 
+    "STORM-298": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 21h 4m"
+        ]
+    ], 
+    "STORM-1463": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 17h 58m"
+        ]
+    ], 
+    "STORM-3377": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 5m"
+        ]
+    ], 
+    "STORM-1561": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 17h 47m"
+        ]
+    ], 
+    "STORM-3371": [
+        [
+            "Open", 
+            "In Progress", 
+            "9h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "30d 15h 51m"
+        ]
+    ], 
+    "STORM-1567": [
+        [
+            "Open", 
+            "Resolved", 
+            "213d 15h 30m"
+        ]
+    ], 
+    "STORM-1564": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 26m"
+        ]
+    ], 
+    "STORM-3372": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "116d 9h 24m"
+        ]
+    ], 
+    "STORM-2422": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 39m"
+        ]
+    ], 
+    "STORM-2423": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 2h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22s"
+        ]
+    ], 
+    "STORM-827": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 53m"
+        ]
+    ], 
+    "STORM-2427": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 28m"
+        ]
+    ], 
+    "STORM-537": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 23m"
+        ]
+    ], 
+    "STORM-2357": [
+        [
+            "Open", 
+            "In Progress", 
+            "169d 21h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "60d 19h"
+        ]
+    ], 
+    "STORM-539": [
+        [
+            "Open", 
+            "Resolved", 
+            "140d 19h 2m"
+        ]
+    ], 
+    "STORM-2052": [
+        [
+            "Open", 
+            "In Progress", 
+            "18s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "91d 2h 18m"
+        ]
+    ], 
+    "STORM-285": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 54m"
+        ]
+    ], 
+    "STORM-2429": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 1h 34m"
+        ]
+    ], 
+    "STORM-944": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 21h 14m"
+        ]
+    ], 
+    "STORM-2056": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 25m"
+        ]
+    ], 
+    "STORM-281": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 20h 37m"
+        ]
+    ], 
+    "STORM-280": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 23h"
+        ]
+    ], 
+    "STORM-857": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 4h 39m"
+        ]
+    ], 
+    "STORM-3501": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 3h 47m"
+        ]
+    ], 
+    "STORM-3059": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 5h 24m"
+        ]
+    ], 
+    "STORM-3504": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 1h 58m"
+        ]
+    ], 
+    "STORM-3055": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 12h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16d 3h 14m"
+        ]
+    ], 
+    "STORM-3056": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "67d 8h"
+        ]
+    ], 
+    "STORM-2941": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 36m"
+        ]
+    ], 
+    "STORM-3118": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 39m"
+        ]
+    ], 
+    "STORM-3052": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 46s"
+        ]
+    ], 
+    "STORM-3053": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31d 19h 37m"
+        ]
+    ], 
+    "STORM-2771": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 18h 38m"
+        ]
+    ], 
+    "STORM-790": [
+        [
+            "Open", 
+            "In Progress", 
+            "41m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "45d 15h 35m"
+        ]
+    ], 
+    "STORM-1120": [
+        [
+            "Open", 
+            "In Progress", 
+            "20s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "35d 6h 34m"
+        ]
+    ], 
+    "STORM-1121": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 35m"
+        ]
+    ], 
+    "STORM-1663": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 12h 14m"
+        ]
+    ], 
+    "STORM-2054": [
+        [
+            "Open", 
+            "In Progress", 
+            "22s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 23h 5m"
+        ]
+    ], 
+    "STORM-2457": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 32m"
+        ]
+    ], 
+    "STORM-546": [
+        [
+            "Open", 
+            "Closed", 
+            "238d 7h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "100d 1h 17m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1m 42s"
+        ]
+    ], 
+    "STORM-87": [
+        [
+            "Open", 
+            "Resolved", 
+            "236d 8h 27m"
+        ]
+    ], 
+    "STORM-541": [
+        [
+            "Open", 
+            "In Progress", 
+            "107d 10h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "36d 9h 22m"
+        ]
+    ], 
+    "STORM-2518": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 1h 36m"
+        ]
+    ], 
+    "STORM-2450": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 37m"
+        ]
+    ], 
+    "STORM-2516": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 15h 22m"
+        ]
+    ], 
+    "STORM-2517": [
+        [
+            "Open", 
+            "Resolved", 
+            "104d 33m"
+        ]
+    ], 
+    "STORM-238": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 4h 55m"
+        ]
+    ], 
+    "STORM-239": [
+        [
+            "Open", 
+            "Resolved", 
+            "170d 2h 40m"
+        ]
+    ], 
+    "STORM-3182": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 13h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 13h 48m"
+        ]
+    ], 
+    "STORM-3183": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 14h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 13h 16m"
+        ]
+    ], 
+    "STORM-3180": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 21h 19m"
+        ]
+    ], 
+    "STORM-3181": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 13h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 13h 48m"
+        ]
+    ], 
+    "STORM-1906": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 28m"
+        ]
+    ], 
+    "STORM-1907": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 5h 15m"
+        ]
+    ], 
+    "STORM-751": [
+        [
+            "Open", 
+            "Closed", 
+            "121d 3h 10m"
+        ]
+    ], 
+    "STORM-750": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 37m"
+        ]
+    ], 
+    "STORM-2639": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 52m"
+        ]
+    ], 
+    "STORM-2638": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 36m"
+        ]
+    ], 
+    "STORM-1878": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19h 24m"
+        ]
+    ], 
+    "STORM-2635": [
+        [
+            "Open", 
+            "In Progress", 
+            "44d 19h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 15h 1m"
+        ]
+    ], 
+    "STORM-1909": [
+        [
+            "Open", 
+            "Resolved", 
+            "31d 17h 14m"
+        ]
+    ], 
+    "STORM-1467": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 53m"
+        ]
+    ], 
+    "STORM-1466": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 49m"
+        ]
+    ], 
+    "STORM-2734": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 20h 43m"
+        ]
+    ], 
+    "STORM-2732": [
+        [
+            "Open", 
+            "In Progress", 
+            "10m 24s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 1h 9m"
+        ]
+    ], 
+    "STORM-2733": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 23h"
+        ]
+    ], 
+    "STORM-2228": [
+        [
+            "Open", 
+            "In Progress", 
+            "35d 9h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "27d 18h 28m"
+        ]
+    ], 
+    "STORM-2738": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 34s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 4h 23m"
+        ]
+    ], 
+    "STORM-1468": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 21m"
+        ]
+    ], 
+    "STORM-867": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 15h 29m"
+        ]
+    ], 
+    "STORM-2315": [
+        [
+            "Open", 
+            "Resolved", 
+            "80d 21h 45m"
+        ]
+    ], 
+    "STORM-3116": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 43m"
+        ]
+    ], 
+    "STORM-439": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 22h 42m"
+        ]
+    ], 
+    "STORM-1834": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 18s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "55d 10h 52m"
+        ]
+    ], 
+    "STORM-762": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 35m"
+        ]
+    ], 
+    "STORM-1837": [
+        [
+            "Open", 
+            "Resolved", 
+            "127d 3h 32m"
+        ]
+    ], 
+    "STORM-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 5h 57m"
+        ]
+    ], 
+    "STORM-1423": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 22h 17m"
+        ]
+    ], 
+    "STORM-1472": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 18h 33m"
+        ]
+    ], 
+    "STORM-3184": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 13h 2m"
+        ]
+    ], 
+    "STORM-496": [
+        [
+            "Open", 
+            "Closed", 
+            "151d 19h 8m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "28d 23h 14m"
+        ]
+    ], 
+    "STORM-860": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 17h 24m"
+        ]
+    ], 
+    "STORM-797": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 18h 57m"
+        ]
+    ], 
+    "STORM-2120": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 23m"
+        ]
+    ], 
+    "STORM-1997": [
+        [
+            "Open", 
+            "Resolved", 
+            "355d 14h 52m"
+        ]
+    ], 
+    "STORM-2126": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 10m"
+        ]
+    ], 
+    "STORM-1995": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 15m"
+        ]
+    ], 
+    "STORM-2642": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 59m"
+        ]
+    ], 
+    "STORM-636": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 2h 17m"
+        ]
+    ], 
+    "STORM-1999": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 20h 53m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "12h 23m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "17d 9h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 57m"
+        ]
+    ], 
+    "STORM-2641": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 24m"
+        ]
+    ], 
+    "STORM-1204": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 2h 1m"
+        ]
+    ], 
+    "STORM-130": [
+        [
+            "Open", 
+            "Resolved", 
+            "435d 11h 42m"
+        ]
+    ], 
+    "STORM-1412": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 13h 6m"
+        ]
+    ], 
+    "STORM-1413": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 5h 41m"
+        ]
+    ], 
+    "STORM-1411": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 49m"
+        ]
+    ], 
+    "STORM-1417": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 4h 26m"
+        ]
+    ], 
+    "STORM-497": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 15h 9m"
+        ]
+    ], 
+    "STORM-1418": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 10h 52m"
+        ]
+    ], 
+    "STORM-1419": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 7h 12m"
+        ]
+    ], 
+    "STORM-3110": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 1h 26m"
+        ]
+    ], 
+    "STORM-1395": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 41m"
+        ]
+    ], 
+    "STORM-2454": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 53m"
+        ]
+    ], 
+    "STORM-1397": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 22h 58m"
+        ]
+    ], 
+    "STORM-1666": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 18m"
+        ]
+    ], 
+    "STORM-690": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 23m"
+        ]
+    ], 
+    "STORM-2844": [
+        [
+            "Open", 
+            "In Progress", 
+            "17m 19s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "20d 12h 11m"
+        ]
+    ], 
+    "STORM-2845": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 2h 42m"
+        ]
+    ], 
+    "STORM-2847": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12d 19h 31m"
+        ]
+    ], 
+    "STORM-1399": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 38m"
+        ]
+    ], 
+    "STORM-1398": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 12m"
+        ]
+    ], 
+    "STORM-1756": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "12d 21h 57m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12m 47s"
+        ]
+    ], 
+    "STORM-2843": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 16h 20m"
+        ]
+    ], 
+    "STORM-3307": [
+        [
+            "Open", 
+            "In Progress", 
+            "31s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 6h 9m"
+        ]
+    ], 
+    "STORM-3300": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 1s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 17h 57m"
+        ]
+    ], 
+    "STORM-3301": [
+        [
+            "Open", 
+            "In Progress", 
+            "41m 3s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 20h 55m"
+        ]
+    ], 
+    "STORM-3302": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 48s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 19h 32m"
+        ]
+    ], 
+    "STORM-3303": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 5m"
+        ]
+    ], 
+    "STORM-2361": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 1h 25m"
+        ]
+    ], 
+    "STORM-1191": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 30m"
+        ]
+    ], 
+    "STORM-1190": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 8m"
+        ]
+    ], 
+    "STORM-3309": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "25d 10h 31m"
+        ]
+    ], 
+    "STORM-1544": [
+        [
+            "Open", 
+            "In Progress", 
+            "45d 1h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23d 21h 49m"
+        ]
+    ], 
+    "STORM-1545": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 11h 2m"
+        ]
+    ], 
+    "STORM-1608": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 13h 33m"
+        ]
+    ], 
+    "STORM-2045": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 37m"
+        ]
+    ], 
+    "STORM-1646": [
+        [
+            "Open", 
+            "Resolved", 
+            "162d 8h 27m"
+        ]
+    ], 
+    "STORM-1642": [
+        [
+            "Open", 
+            "Resolved", 
+            "447d 17h 15m"
+        ]
+    ], 
+    "STORM-1668": [
+        [
+            "In Progress", 
+            "Open", 
+            "1m 33s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "18h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 53m"
+        ]
+    ], 
+    "STORM-3230": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 40m"
+        ]
+    ], 
+    "STORM-1488": [
+        [
+            "Open", 
+            "In Progress", 
+            "32d 19h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 11h 20m"
+        ]
+    ], 
+    "STORM-2894": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 11h 47m"
+        ]
+    ], 
+    "STORM-1522": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "15d 18h 42m"
+        ]
+    ], 
+    "STORM-3235": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 4m"
+        ]
+    ], 
+    "STORM-1520": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 4h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 19h 13m"
+        ]
+    ], 
+    "STORM-3237": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 49m"
+        ]
+    ], 
+    "STORM-3238": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 13h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 5m"
+        ]
+    ], 
+    "STORM-3102": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 23h 37m"
+        ]
+    ], 
+    "STORM-1482": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 21h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "36s"
+        ]
+    ], 
+    "STORM-1485": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 42m"
+        ]
+    ], 
+    "STORM-1484": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 49m"
+        ]
+    ], 
+    "STORM-1528": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 20h 24m"
+        ]
+    ], 
+    "STORM-2892": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 53m"
+        ]
+    ], 
+    "STORM-2017": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 4h 41m"
+        ]
+    ], 
+    "STORM-670": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 4h 26m"
+        ]
+    ], 
+    "STORM-2544": [
+        [
+            "Open", 
+            "In Progress", 
+            "23d 10h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17d 9h 20m"
+        ]
+    ], 
+    "STORM-2546": [
+        [
+            "Open", 
+            "In Progress", 
+            "40d 6h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "120d 15h 42m"
+        ]
+    ], 
+    "STORM-2549": [
+        [
+            "Open", 
+            "In Progress", 
+            "37d 20h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "116d 3h 27m"
+        ]
+    ], 
+    "STORM-3012": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 12m"
+        ]
+    ], 
+    "STORM-1203": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 15h 58m"
+        ]
+    ], 
+    "STORM-3390": [
+        [
+            "Open", 
+            "In Progress", 
+            "5s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 3h 19m"
+        ]
+    ], 
+    "STORM-513": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 1h 43m"
+        ]
+    ], 
+    "STORM-2678": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 59s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "34d 13h 44m"
+        ]
+    ], 
+    "STORM-1681": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 1h 42m"
+        ]
+    ], 
+    "STORM-2597": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 23h 44m"
+        ]
+    ], 
+    "STORM-1163": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 27m"
+        ]
+    ], 
+    "STORM-1160": [
+        [
+            "Open", 
+            "In Progress", 
+            "66d 10h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 14h 4m"
+        ]
+    ], 
+    "STORM-1161": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 33m"
+        ]
+    ], 
+    "STORM-274": [
+        [
+            "Open", 
+            "Resolved", 
+            "143d 21h 15m"
+        ]
+    ], 
+    "STORM-1042": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 12m"
+        ]
+    ], 
+    "STORM-933": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 8h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 20h 18m"
+        ]
+    ], 
+    "STORM-1044": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 6h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 37m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "17d 20h 10m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "STORM-1168": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 39m"
+        ]
+    ], 
+    "STORM-1733": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 40m"
+        ]
+    ], 
+    "STORM-694": [
+        [
+            "Open", 
+            "Resolved", 
+            "94d 10h 19m"
+        ]
+    ], 
+    "STORM-1730": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 23h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "9s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "71d 4h 42m"
+        ]
+    ], 
+    "STORM-757": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 32m"
+        ]
+    ], 
+    "STORM-372": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 32m"
+        ]
+    ], 
+    "STORM-1735": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 14m"
+        ]
+    ], 
+    "STORM-695": [
+        [
+            "Open", 
+            "Resolved", 
+            "312d 5h 11m"
+        ]
+    ], 
+    "STORM-2772": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12h 30m"
+        ]
+    ], 
+    "STORM-1531": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 11m"
+        ]
+    ], 
+    "STORM-2599": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 14h 51m"
+        ]
+    ], 
+    "STORM-1636": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 14h 39m"
+        ]
+    ], 
+    "STORM-2037": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 26m"
+        ]
+    ], 
+    "STORM-401": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 17h 22m"
+        ]
+    ], 
+    "STORM-403": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 12h 8m"
+        ]
+    ], 
+    "STORM-402": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h"
+        ]
+    ], 
+    "STORM-2264": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 17h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 8h 13m"
+        ]
+    ], 
+    "STORM-1533": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 12m"
+        ]
+    ], 
+    "STORM-2266": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "50d 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7m 4s"
+        ]
+    ], 
+    "STORM-2267": [
+        [
+            "Open", 
+            "In Progress", 
+            "14s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 5h 40m"
+        ]
+    ], 
+    "STORM-2268": [
+        [
+            "Open", 
+            "In Progress", 
+            "40m 54s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 6m"
+        ]
+    ], 
+    "STORM-2408": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 6h 49m"
+        ]
+    ], 
+    "STORM-155": [
+        [
+            "Open", 
+            "Resolved", 
+            "222d 14h 45m"
+        ]
+    ], 
+    "STORM-873": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 12h 41m"
+        ]
+    ], 
+    "STORM-630": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 58m"
+        ]
+    ], 
+    "STORM-2305": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 50m"
+        ]
+    ], 
+    "STORM-500": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 6h 7m"
+        ]
+    ], 
+    "STORM-1424": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 14h 23m"
+        ]
+    ], 
+    "STORM-3168": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 51m"
+        ]
+    ], 
+    "STORM-3169": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 1h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17h 22m"
+        ]
+    ], 
+    "STORM-2064": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 8m"
+        ]
+    ], 
+    "STORM-976": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 57m"
+        ]
+    ], 
+    "STORM-3164": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 46m"
+        ]
+    ], 
+    "STORM-3166": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 2h 33m"
+        ]
+    ], 
+    "STORM-3167": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 39s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 1h 7m"
+        ]
+    ], 
+    "STORM-1221": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 47m"
+        ]
+    ], 
+    "STORM-3161": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 23h 30m"
+        ]
+    ], 
+    "STORM-3162": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 4h 41m"
+        ]
+    ], 
+    "STORM-2934": [
+        [
+            "Open", 
+            "In Progress", 
+            "23s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 3h 44m"
+        ]
+    ], 
+    "STORM-1540": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 41m"
+        ]
+    ], 
+    "STORM-503": [
+        [
+            "Open", 
+            "Resolved", 
+            "297d 1h 1m"
+        ]
+    ], 
+    "STORM-3498": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 14m"
+        ]
+    ], 
+    "STORM-2932": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 10h 11m"
+        ]
+    ], 
+    "STORM-3491": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 27m"
+        ]
+    ], 
+    "STORM-2787": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 18h 38m"
+        ]
+    ], 
+    "STORM-2786": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 9h 43m"
+        ]
+    ], 
+    "STORM-476": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 40m"
+        ]
+    ], 
+    "STORM-477": [
+        [
+            "Open", 
+            "Resolved", 
+            "303d 2h 2m"
+        ]
+    ], 
+    "STORM-578": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 16h 50m"
+        ]
+    ], 
+    "STORM-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 31m"
+        ]
+    ], 
+    "STORM-2469": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 50m"
+        ]
+    ], 
+    "STORM-2467": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 2m"
+        ]
+    ], 
+    "STORM-577": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 7h 14m"
+        ]
+    ], 
+    "STORM-507": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 5h 11m"
+        ]
+    ], 
+    "STORM-2335": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 6h 31m"
+        ]
+    ], 
+    "STORM-2463": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 18m"
+        ]
+    ], 
+    "STORM-1541": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 30m"
+        ]
+    ], 
+    "STORM-1532": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 7h 53m"
+        ]
+    ], 
+    "STORM-708": [
+        [
+            "Open", 
+            "Resolved", 
+            "76d 22h 3m"
+        ]
+    ], 
+    "STORM-965": [
+        [
+            "Open", 
+            "Resolved", 
+            "44d 4h 6m"
+        ]
+    ], 
+    "STORM-703": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 14h 48m"
+        ]
+    ], 
+    "STORM-2769": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 36m"
+        ]
+    ], 
+    "STORM-2607": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 9h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "108d 5h 23m"
+        ]
+    ], 
+    "STORM-1594": [
+        [
+            "Open", 
+            "Resolved", 
+            "151d 7h 54m"
+        ]
+    ], 
+    "STORM-852": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "147d 36m"
+        ]
+    ], 
+    "STORM-1592": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 33m"
+        ]
+    ], 
+    "STORM-1458": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 58s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 19h 15m"
+        ]
+    ], 
+    "STORM-2784": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 2h 3m"
+        ]
+    ], 
+    "STORM-492": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 15h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 2h 17m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "335d 10h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1d 22h 55m"
+        ]
+    ], 
+    "STORM-1457": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 49m"
+        ]
+    ], 
+    "STORM-490": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 23h 4m"
+        ]
+    ], 
+    "STORM-2762": [
+        [
+            "Open", 
+            "Resolved", 
+            "160d 21h 7m"
+        ]
+    ], 
+    "STORM-2765": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 15h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 25m"
+        ]
+    ], 
+    "STORM-2764": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 15h 42m"
+        ]
+    ], 
+    "STORM-2608": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 2h 17m"
+        ]
+    ], 
+    "STORM-2808": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14m"
+        ]
+    ], 
+    "STORM-2809": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 54m"
+        ]
+    ], 
+    "STORM-641": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 23h 22m"
+        ]
+    ], 
+    "STORM-1359": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 15h 58m"
+        ]
+    ], 
+    "STORM-2803": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 23h 9m"
+        ]
+    ], 
+    "STORM-2804": [
+        [
+            "Open", 
+            "In Progress", 
+            "16m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 40m"
+        ]
+    ], 
+    "STORM-791": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 47m"
+        ]
+    ], 
+    "STORM-1941": [
+        [
+            "Open", 
+            "In Progress", 
+            "42m 28s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 17h 33m"
+        ]
+    ], 
+    "STORM-1942": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 1h 14m"
+        ]
+    ], 
+    "STORM-355": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 52m"
+        ]
+    ], 
+    "STORM-1945": [
+        [
+            "Open", 
+            "In Progress", 
+            "20m 19s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 17h 13m"
+        ]
+    ], 
+    "STORM-1946": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 19m"
+        ]
+    ], 
+    "STORM-796": [
+        [
+            "Open", 
+            "Resolved", 
+            "48d 6h 23m"
+        ]
+    ], 
+    "STORM-1862": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 34s"
+        ]
+    ], 
+    "STORM-1861": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 13h 13m"
+        ]
+    ], 
+    "STORM-2645": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 39m"
+        ]
+    ], 
+    "STORM-1864": [
+        [
+            "Open", 
+            "In Progress", 
+            "13d 22h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "28s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 39m"
+        ]
+    ], 
+    "STORM-2198": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 10m"
+        ]
+    ], 
+    "STORM-1099": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 14m"
+        ]
+    ], 
+    "STORM-1096": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 22m"
+        ]
+    ], 
+    "STORM-1094": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 47m"
+        ]
+    ], 
+    "STORM-2411": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 53m"
+        ]
+    ], 
+    "STORM-1090": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 12h 38m"
+        ]
+    ], 
+    "STORM-2175": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 10h 11m"
+        ]
+    ], 
+    "STORM-3236": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 40m"
+        ]
+    ], 
+    "STORM-2118": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 23h 52m"
+        ]
+    ], 
+    "STORM-2119": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 41m"
+        ]
+    ], 
+    "STORM-651": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 19h 31m"
+        ]
+    ], 
+    "STORM-1683": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13d 13h 25m"
+        ]
+    ], 
+    "STORM-2110": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 50m"
+        ]
+    ], 
+    "STORM-1687": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 19h 28m"
+        ]
+    ], 
+    "STORM-2117": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1d 6h 11m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "33d 22h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "13s"
+        ]
+    ], 
+    "STORM-352": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 49m"
+        ]
+    ], 
+    "STORM-196": [
+        [
+            "Open", 
+            "Resolved", 
+            "85d 23h 46m"
+        ]
+    ], 
+    "STORM-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 1h 42m"
+        ]
+    ], 
+    "STORM-488": [
+        [
+            "Open", 
+            "In Progress", 
+            "26d 22h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 12h 35m"
+        ]
+    ], 
+    "STORM-2283": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 34m"
+        ]
+    ], 
+    "STORM-1750": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 11h 32m"
+        ]
+    ], 
+    "STORM-2281": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 5h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18d 4m"
+        ]
+    ], 
+    "STORM-693": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 23h 22m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6d 17h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "61d 10h 39m"
+        ]
+    ], 
+    "STORM-357": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 42m"
+        ]
+    ], 
+    "STORM-2779": [
+        [
+            "Open", 
+            "In Progress", 
+            "41s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 1h 33m"
+        ]
+    ], 
+    "STORM-1737": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 16h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "77d 37m"
+        ]
+    ]
+}

@@ -1,0 +1,3417 @@
+{
+    "SYNAPSE-998": [
+        [
+            "Open", 
+            "Resolved", 
+            "521d 12h 34m"
+        ]
+    ], 
+    "SYNAPSE-570": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 20m"
+        ]
+    ], 
+    "SYNAPSE-278": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 25m"
+        ]
+    ], 
+    "SYNAPSE-574": [
+        [
+            "Open", 
+            "Resolved", 
+            "184d 9h 37m"
+        ]
+    ], 
+    "SYNAPSE-577": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 5h 51m"
+        ]
+    ], 
+    "SYNAPSE-523": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 15s"
+        ]
+    ], 
+    "SYNAPSE-579": [
+        [
+            "Open", 
+            "Resolved", 
+            "175d 17h 35m"
+        ]
+    ], 
+    "SYNAPSE-273": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 16h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 59m"
+        ]
+    ], 
+    "SYNAPSE-270": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 18h 1m"
+        ]
+    ], 
+    "SYNAPSE-277": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 47m"
+        ]
+    ], 
+    "SYNAPSE-274": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 18h 32m"
+        ]
+    ], 
+    "SYNAPSE-275": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "19d 19h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3d 3h 11m"
+        ]
+    ], 
+    "SYNAPSE-379": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 14m"
+        ]
+    ], 
+    "SYNAPSE-908": [
+        [
+            "Open", 
+            "Resolved", 
+            "321d 3h 20m"
+        ]
+    ], 
+    "SYNAPSE-905": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 18h 22m"
+        ]
+    ], 
+    "SYNAPSE-906": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 57m"
+        ]
+    ], 
+    "SYNAPSE-907": [
+        [
+            "Open", 
+            "Resolved", 
+            "333d 10h 51m"
+        ]
+    ], 
+    "SYNAPSE-901": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 18h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "696d 14h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "812d 14h 13m"
+        ]
+    ], 
+    "SYNAPSE-902": [
+        [
+            "Open", 
+            "Resolved", 
+            "349d 18h 15m"
+        ]
+    ], 
+    "SYNAPSE-903": [
+        [
+            "Open", 
+            "Resolved", 
+            "348d 20h 1m"
+        ]
+    ], 
+    "HTTPCORE-193": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "537d 8h 57m"
+        ]
+    ], 
+    "SYNAPSE-889": [
+        [
+            "Open", 
+            "Resolved", 
+            "369d 23h 2m"
+        ]
+    ], 
+    "SYNAPSE-885": [
+        [
+            "Open", 
+            "Resolved", 
+            "389d 18h 48m"
+        ]
+    ], 
+    "SYNAPSE-887": [
+        [
+            "Open", 
+            "Resolved", 
+            "372d 10h 51m"
+        ]
+    ], 
+    "SYNAPSE-886": [
+        [
+            "Open", 
+            "Resolved", 
+            "392d 11h 32m"
+        ]
+    ], 
+    "SYNAPSE-881": [
+        [
+            "Open", 
+            "Resolved", 
+            "394d 10h 13m"
+        ]
+    ], 
+    "SYNAPSE-880": [
+        [
+            "Open", 
+            "Resolved", 
+            "404d 11h 31m"
+        ]
+    ], 
+    "SYNAPSE-883": [
+        [
+            "Open", 
+            "Resolved", 
+            "389d 6h 16m"
+        ]
+    ], 
+    "SYNAPSE-882": [
+        [
+            "Open", 
+            "Resolved", 
+            "389d 9h 45m"
+        ]
+    ], 
+    "SYNAPSE-286": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 6s"
+        ]
+    ], 
+    "SYNAPSE-285": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "59m 11s"
+        ]
+    ], 
+    "SYNAPSE-281": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 8m"
+        ]
+    ], 
+    "SYNAPSE-280": [
+        [
+            "Open", 
+            "Resolved", 
+            "351d 17h 45m"
+        ]
+    ], 
+    "SYNAPSE-617": [
+        [
+            "Open", 
+            "Resolved", 
+            "195d 21h 46m"
+        ]
+    ], 
+    "SYNAPSE-289": [
+        [
+            "Open", 
+            "Resolved", 
+            "33m 2s"
+        ]
+    ], 
+    "SYNAPSE-288": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 1m"
+        ]
+    ], 
+    "SYNAPSE-1063": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13m 58s"
+        ]
+    ], 
+    "SYNAPSE-1062": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 13h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 23h 27m"
+        ]
+    ], 
+    "SYNAPSE-1061": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 48m"
+        ]
+    ], 
+    "SYNAPSE-1060": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 12h 54m"
+        ]
+    ], 
+    "SYNAPSE-120": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 33m"
+        ]
+    ], 
+    "SYNAPSE-690": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 52m"
+        ]
+    ], 
+    "SYNAPSE-728": [
+        [
+            "Open", 
+            "In Progress", 
+            "316d 2h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17s"
+        ]
+    ], 
+    "SYNAPSE-692": [
+        [
+            "Open", 
+            "In Progress", 
+            "56d 8h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 23m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "24m 19s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "17m 42s"
+        ]
+    ], 
+    "SYNAPSE-693": [
+        [
+            "Open", 
+            "In Progress", 
+            "56d 16h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4m 51s"
+        ]
+    ], 
+    "SYNAPSE-751": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 1m"
+        ]
+    ], 
+    "SYNAPSE-754": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 45m"
+        ]
+    ], 
+    "SYNAPSE-452": [
+        [
+            "Open", 
+            "Resolved", 
+            "185d 15h 31m"
+        ]
+    ], 
+    "SYNAPSE-451": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 9h 10m"
+        ]
+    ], 
+    "SYNAPSE-456": [
+        [
+            "Open", 
+            "Resolved", 
+            "175d 7h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 7m"
+        ]
+    ], 
+    "SYNAPSE-642": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 18m"
+        ]
+    ], 
+    "SYNAPSE-97": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 12m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11m 9s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 20h 34m"
+        ]
+    ], 
+    "SYNAPSE-96": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 51m"
+        ]
+    ], 
+    "SYNAPSE-95": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 17h 18m"
+        ]
+    ], 
+    "SYNAPSE-94": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "180d 20h 35m"
+        ]
+    ], 
+    "SYNAPSE-93": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "371d 21h 22m"
+        ]
+    ], 
+    "SYNAPSE-92": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "369d 20h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 15m"
+        ]
+    ], 
+    "SYNAPSE-724": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 8h 38m"
+        ]
+    ], 
+    "SYNAPSE-150": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 21h 21m"
+        ]
+    ], 
+    "SYNAPSE-157": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 6m"
+        ]
+    ], 
+    "SYNAPSE-156": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 19h 33m"
+        ]
+    ], 
+    "SYNAPSE-725": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 47m"
+        ]
+    ], 
+    "SYNAPSE-1109": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 16m"
+        ]
+    ], 
+    "SYNAPSE-629": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 53m"
+        ]
+    ], 
+    "SYNAPSE-628": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 12s"
+        ]
+    ], 
+    "SYNAPSE-625": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 27m"
+        ]
+    ], 
+    "SYNAPSE-624": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 17h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 18h 17m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10m 26s"
+        ]
+    ], 
+    "SYNAPSE-1042": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13m 39s"
+        ]
+    ], 
+    "SYNAPSE-621": [
+        [
+            "Open", 
+            "Resolved", 
+            "181d 9m"
+        ]
+    ], 
+    "SYNAPSE-620": [
+        [
+            "Open", 
+            "Resolved", 
+            "179d 9h 48m"
+        ]
+    ], 
+    "SYNAPSE-79": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 2h 8m"
+        ]
+    ], 
+    "SYNAPSE-974": [
+        [
+            "Open", 
+            "Resolved", 
+            "1106d 3h 55m"
+        ]
+    ], 
+    "SYNAPSE-977": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 54m"
+        ]
+    ], 
+    "SYNAPSE-976": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 49m"
+        ]
+    ], 
+    "SYNAPSE-71": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 42m"
+        ]
+    ], 
+    "SYNAPSE-978": [
+        [
+            "Open", 
+            "Resolved", 
+            "291d 5h 40m"
+        ]
+    ], 
+    "SYNAPSE-230": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 3h 14m"
+        ]
+    ], 
+    "SYNAPSE-331": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 35s"
+        ]
+    ], 
+    "SYNAPSE-775": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 23h 6m"
+        ]
+    ], 
+    "SYNAPSE-1015": [
+        [
+            "Open", 
+            "Resolved", 
+            "108d 19h 32m"
+        ]
+    ], 
+    "SYNAPSE-770": [
+        [
+            "Open", 
+            "Resolved", 
+            "209d 3h 32m"
+        ]
+    ], 
+    "SYNAPSE-481": [
+        [
+            "Open", 
+            "In Progress", 
+            "106d 9h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5h 6m"
+        ]
+    ], 
+    "SYNAPSE-528": [
+        [
+            "Open", 
+            "Resolved", 
+            "1587d 8h 51m"
+        ]
+    ], 
+    "SYNAPSE-482": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 12m"
+        ]
+    ], 
+    "SYNAPSE-489": [
+        [
+            "Open", 
+            "Resolved", 
+            "156d 13h 17m"
+        ]
+    ], 
+    "SYNAPSE-488": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 24s"
+        ]
+    ], 
+    "SYNAPSE-520": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 48m"
+        ]
+    ], 
+    "SYNAPSE-524": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 13h 14m"
+        ]
+    ], 
+    "SYNAPSE-525": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 11h 21m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "14d 1h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 13h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 22h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21d 13h 32m"
+        ]
+    ], 
+    "SYNAPSE-242": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 18s"
+        ]
+    ], 
+    "SYNAPSE-240": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 5s"
+        ]
+    ], 
+    "SYNAPSE-246": [
+        [
+            "Open", 
+            "Resolved", 
+            "200d 23h"
+        ]
+    ], 
+    "SYNAPSE-245": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 4h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 21h 7m"
+        ]
+    ], 
+    "SYNAPSE-879": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 48m"
+        ]
+    ], 
+    "SYNAPSE-874": [
+        [
+            "Open", 
+            "Resolved", 
+            "436d 8h 11m"
+        ]
+    ], 
+    "SYNAPSE-877": [
+        [
+            "Open", 
+            "Resolved", 
+            "414d 6h 30m"
+        ]
+    ], 
+    "SYNAPSE-870": [
+        [
+            "Open", 
+            "Resolved", 
+            "437d 20h 25m"
+        ]
+    ], 
+    "SYNAPSE-871": [
+        [
+            "Open", 
+            "Resolved", 
+            "439d 2h 13m"
+        ]
+    ], 
+    "SYNAPSE-872": [
+        [
+            "Open", 
+            "Resolved", 
+            "436d 19h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "428d 19h 6m"
+        ]
+    ], 
+    "SYNAPSE-795": [
+        [
+            "Open", 
+            "Resolved", 
+            "112d 5m"
+        ]
+    ], 
+    "SYNAPSE-797": [
+        [
+            "Open", 
+            "In Progress", 
+            "100d 20h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "44s"
+        ]
+    ], 
+    "SYNAPSE-793": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 44m"
+        ]
+    ], 
+    "SYNAPSE-417": [
+        [
+            "Open", 
+            "In Progress", 
+            "55d 18h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "1h 7m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 23m"
+        ]
+    ], 
+    "SYNAPSE-412": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 54m"
+        ]
+    ], 
+    "SYNAPSE-798": [
+        [
+            "Open", 
+            "In Progress", 
+            "95d 19h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16s"
+        ]
+    ], 
+    "SYNAPSE-410": [
+        [
+            "Open", 
+            "Resolved", 
+            "1237d 23h 37m"
+        ]
+    ], 
+    "HTTPCORE-60": [
+        [
+            "Open", 
+            "In Progress", 
+            "45m 10s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "234d 6h 14m"
+        ]
+    ], 
+    "SYNAPSE-1094": [
+        [
+            "Open", 
+            "In Progress", 
+            "786d 2h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "88d 23h 37m"
+        ]
+    ], 
+    "SYNAPSE-250": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 14h 24m"
+        ]
+    ], 
+    "SYNAPSE-418": [
+        [
+            "Open", 
+            "Resolved", 
+            "417d 6h 1m"
+        ]
+    ], 
+    "HTTPCORE-172": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "12d 3h"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9d 17h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 9h 43m"
+        ]
+    ], 
+    "SYNAPSE-660": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 2m"
+        ]
+    ], 
+    "SYNAPSE-662": [
+        [
+            "Open", 
+            "Resolved", 
+            "102d 10h 34m"
+        ]
+    ], 
+    "SYNAPSE-703": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 59m"
+        ]
+    ], 
+    "SYNAPSE-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 3m"
+        ]
+    ], 
+    "SYNAPSE-468": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 3m"
+        ]
+    ], 
+    "SYNAPSE-704": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 20h 37m"
+        ]
+    ], 
+    "SYNAPSE-1023": [
+        [
+            "Open", 
+            "In Progress", 
+            "11d 2h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5h 12m"
+        ]
+    ], 
+    "SYNAPSE-462": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 23m"
+        ]
+    ], 
+    "SYNAPSE-461": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 25m"
+        ]
+    ], 
+    "SYNAPSE-460": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 29m"
+        ]
+    ], 
+    "SYNAPSE-1027": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 32m"
+        ]
+    ], 
+    "SYNAPSE-1026": [
+        [
+            "Open", 
+            "Resolved", 
+            "91d 14h 13m"
+        ]
+    ], 
+    "SYNAPSE-1025": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "12h 53m"
+        ]
+    ], 
+    "SYNAPSE-464": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 8m"
+        ]
+    ], 
+    "SYNAPSE-31": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 58m"
+        ]
+    ], 
+    "SYNAPSE-30": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 18s"
+        ]
+    ], 
+    "SYNAPSE-38": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 13h 31m"
+        ]
+    ], 
+    "SYNAPSE-805": [
+        [
+            "Open", 
+            "Resolved", 
+            "69d 20h 22m"
+        ]
+    ], 
+    "SYNAPSE-804": [
+        [
+            "Open", 
+            "In Progress", 
+            "57d 1h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16m 51s"
+        ]
+    ], 
+    "SYNAPSE-800": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 48s"
+        ]
+    ], 
+    "SYNAPSE-809": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 21h 33m"
+        ]
+    ], 
+    "SYNAPSE-566": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 20h 48m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8h"
+        ]
+    ], 
+    "SYNAPSE-561": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 2h 47m"
+        ]
+    ], 
+    "SYNAPSE-569": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 37m"
+        ]
+    ], 
+    "SYNAPSE-361": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 50m"
+        ]
+    ], 
+    "SYNAPSE-362": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 10h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 28m"
+        ]
+    ], 
+    "SYNAPSE-365": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "258d 5h 1m"
+        ]
+    ], 
+    "SYNAPSE-366": [
+        [
+            "Open", 
+            "Resolved", 
+            "52m"
+        ]
+    ], 
+    "SYNAPSE-369": [
+        [
+            "Open", 
+            "Resolved", 
+            "65d 31m"
+        ]
+    ], 
+    "SYNAPSE-933": [
+        [
+            "Open", 
+            "Resolved", 
+            "458d 19h 54m"
+        ]
+    ], 
+    "SYNAPSE-932": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 21h 5m"
+        ]
+    ], 
+    "SYNAPSE-935": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 22m"
+        ]
+    ], 
+    "SYNAPSE-937": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 3m"
+        ]
+    ], 
+    "SYNAPSE-936": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 27m"
+        ]
+    ], 
+    "SYNAPSE-939": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 54m"
+        ]
+    ], 
+    "SYNAPSE-938": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 32m"
+        ]
+    ], 
+    "SYNAPSE-892": [
+        [
+            "Open", 
+            "Resolved", 
+            "371d 15h 23m"
+        ]
+    ], 
+    "SYNAPSE-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "370d 16h 6m"
+        ]
+    ], 
+    "SYNAPSE-896": [
+        [
+            "Open", 
+            "Resolved", 
+            "375d 9h 58m"
+        ]
+    ], 
+    "SYNAPSE-897": [
+        [
+            "Open", 
+            "Resolved", 
+            "356d 3h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "27d 36m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SYNAPSE-895": [
+        [
+            "Open", 
+            "Resolved", 
+            "357d 7h 38m"
+        ]
+    ], 
+    "SYNAPSE-898": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 13h 45m"
+        ]
+    ], 
+    "SYNAPSE-519": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 12h 30m"
+        ]
+    ], 
+    "SYNAPSE-518": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 54s"
+        ]
+    ], 
+    "SYNAPSE-295": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 42m"
+        ]
+    ], 
+    "SYNAPSE-291": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 21m"
+        ]
+    ], 
+    "SYNAPSE-1058": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 16h 10m"
+        ]
+    ], 
+    "SYNAPSE-258": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 8h 19m"
+        ]
+    ], 
+    "SYNAPSE-743": [
+        [
+            "Open", 
+            "Resolved", 
+            "271d 18h 47m"
+        ]
+    ], 
+    "SYNAPSE-740": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 1h 7m"
+        ]
+    ], 
+    "SYNAPSE-448": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 6h 19m"
+        ]
+    ], 
+    "SYNAPSE-426": [
+        [
+            "Open", 
+            "Resolved", 
+            "75d 22h"
+        ]
+    ], 
+    "SYNAPSE-425": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 17m"
+        ]
+    ], 
+    "SYNAPSE-424": [
+        [
+            "Open", 
+            "Resolved", 
+            "89d 21h 14m"
+        ]
+    ], 
+    "SYNAPSE-423": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 4h 4m"
+        ]
+    ], 
+    "SYNAPSE-422": [
+        [
+            "Open", 
+            "Resolved", 
+            "224d 16h 51m"
+        ]
+    ], 
+    "SYNAPSE-420": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 21h 23m"
+        ]
+    ], 
+    "SYNAPSE-585": [
+        [
+            "Open", 
+            "Resolved", 
+            "812d 2h"
+        ]
+    ], 
+    "SYNAPSE-429": [
+        [
+            "Open", 
+            "Resolved", 
+            "31m 5s"
+        ]
+    ], 
+    "SYNAPSE-587": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "41d 21h 44m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "53m 51s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6d 4h 21m"
+        ]
+    ], 
+    "SYNAPSE-148": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 21h 50m"
+        ]
+    ], 
+    "SYNAPSE-149": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 13m"
+        ]
+    ], 
+    "SYNAPSE-140": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20d 19h 21m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "190d 22h 48m"
+        ]
+    ], 
+    "SYNAPSE-141": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 20h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 5h 19m"
+        ]
+    ], 
+    "SYNAPSE-142": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 12m"
+        ]
+    ], 
+    "SYNAPSE-143": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 51m"
+        ]
+    ], 
+    "SYNAPSE-147": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 23h 57m"
+        ]
+    ], 
+    "SYNAPSE-632": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 32s"
+        ]
+    ], 
+    "SYNAPSE-633": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 51m"
+        ]
+    ], 
+    "SYNAPSE-630": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 25m"
+        ]
+    ], 
+    "SYNAPSE-631": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 1m"
+        ]
+    ], 
+    "SYNAPSE-637": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m"
+        ]
+    ], 
+    "SYNAPSE-634": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 22h 14m"
+        ]
+    ], 
+    "SYNAPSE-733": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 35m"
+        ]
+    ], 
+    "SYNAPSE-1020": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 21h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14s"
+        ]
+    ], 
+    "SYNAPSE-41": [
+        [
+            "Open", 
+            "Resolved", 
+            "11m 24s"
+        ]
+    ], 
+    "SYNAPSE-320": [
+        [
+            "Open", 
+            "In Progress", 
+            "22d 15h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 7h 49m"
+        ]
+    ], 
+    "SYNAPSE-494": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 6s"
+        ]
+    ], 
+    "SYNAPSE-491": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 3h 9m"
+        ]
+    ], 
+    "SYNAPSE-557": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 57m"
+        ]
+    ], 
+    "SYNAPSE-554": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 18m"
+        ]
+    ], 
+    "SYNAPSE-550": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 59s"
+        ]
+    ], 
+    "SYNAPSE-399": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 31s"
+        ]
+    ], 
+    "SYNAPSE-251": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 2h 54m"
+        ]
+    ], 
+    "SYNAPSE-255": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 8h 44m"
+        ]
+    ], 
+    "SYNAPSE-256": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 7h 44m"
+        ]
+    ], 
+    "SYNAPSE-257": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 19h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 1h 8m"
+        ]
+    ], 
+    "SYNAPSE-391": [
+        [
+            "Open", 
+            "Resolved", 
+            "665d 7h 21m"
+        ]
+    ], 
+    "SYNAPSE-393": [
+        [
+            "Open", 
+            "In Progress", 
+            "871d 2h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 16h 8m"
+        ]
+    ], 
+    "SYNAPSE-392": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "27d 6h 21m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17h 45m"
+        ]
+    ], 
+    "SYNAPSE-394": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 34m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9h 9m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 6h 24m"
+        ]
+    ], 
+    "SYNAPSE-1028": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 14h 31m"
+        ]
+    ], 
+    "SYNAPSE-845": [
+        [
+            "Open", 
+            "Resolved", 
+            "949d 10h 57m"
+        ]
+    ], 
+    "SYNAPSE-844": [
+        [
+            "Open", 
+            "Resolved", 
+            "521d 16h 39m"
+        ]
+    ], 
+    "SYNAPSE-847": [
+        [
+            "Open", 
+            "Resolved", 
+            "505d 11h 44m"
+        ]
+    ], 
+    "SYNAPSE-846": [
+        [
+            "Open", 
+            "Resolved", 
+            "510d 11h 22m"
+        ]
+    ], 
+    "SYNAPSE-964": [
+        [
+            "Open", 
+            "Resolved", 
+            "406d 7h 59m"
+        ]
+    ], 
+    "SYNAPSE-850": [
+        [
+            "Open", 
+            "In Progress", 
+            "1542d 12h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2m 41s"
+        ]
+    ], 
+    "SYNAPSE-788": [
+        [
+            "Open", 
+            "Resolved", 
+            "163d 8h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 21h 55m"
+        ]
+    ], 
+    "SYNAPSE-789": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 6h 6m"
+        ]
+    ], 
+    "SYNAPSE-783": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 18m"
+        ]
+    ], 
+    "SYNAPSE-780": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 17h 9m"
+        ]
+    ], 
+    "SYNAPSE-786": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 20h 28m"
+        ]
+    ], 
+    "SYNAPSE-787": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 4m"
+        ]
+    ], 
+    "SYNAPSE-785": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 2h 24m"
+        ]
+    ], 
+    "SYNAPSE-709": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 26s"
+        ]
+    ], 
+    "SYNAPSE-698": [
+        [
+            "Open", 
+            "Resolved", 
+            "1030d 10h 32m"
+        ]
+    ], 
+    "SYNAPSE-1024": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 53s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7m 49s"
+        ]
+    ], 
+    "SYNAPSE-101": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 23h 16m"
+        ]
+    ], 
+    "SYNAPSE-102": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 15m"
+        ]
+    ], 
+    "SYNAPSE-103": [
+        [
+            "Open", 
+            "Resolved", 
+            "331d 21h 47m"
+        ]
+    ], 
+    "SYNAPSE-676": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 50m"
+        ]
+    ], 
+    "SYNAPSE-674": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 3h 36m"
+        ]
+    ], 
+    "SYNAPSE-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 12s"
+        ]
+    ], 
+    "SYNAPSE-109": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 9s"
+        ]
+    ], 
+    "SYNAPSE-671": [
+        [
+            "Open", 
+            "Resolved", 
+            "203d 6h 57m"
+        ]
+    ], 
+    "SYNAPSE-777": [
+        [
+            "Open", 
+            "Resolved", 
+            "775d 21h 15m"
+        ]
+    ], 
+    "SYNAPSE-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 9h 23m"
+        ]
+    ], 
+    "SYNAPSE-1014": [
+        [
+            "Open", 
+            "In Progress", 
+            "217d 16h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 26m"
+        ]
+    ], 
+    "SYNAPSE-774": [
+        [
+            "Open", 
+            "Resolved", 
+            "804d 9h 13m"
+        ]
+    ], 
+    "SYNAPSE-1011": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 3h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19s"
+        ]
+    ], 
+    "SYNAPSE-470": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 2m"
+        ]
+    ], 
+    "SYNAPSE-471": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h"
+        ]
+    ], 
+    "SYNAPSE-472": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h"
+        ]
+    ], 
+    "SYNAPSE-779": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 23h 13m"
+        ]
+    ], 
+    "SYNAPSE-609": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 18h 12m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 23h 20m"
+        ]
+    ], 
+    "SYNAPSE-607": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 13h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5m 29s"
+        ]
+    ], 
+    "SYNAPSE-605": [
+        [
+            "Open", 
+            "In Progress", 
+            "17d 9h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5m 24s"
+        ]
+    ], 
+    "SYNAPSE-951": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 7m"
+        ]
+    ], 
+    "SYNAPSE-950": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 49m"
+        ]
+    ], 
+    "SYNAPSE-218": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 23h 20m"
+        ]
+    ], 
+    "SYNAPSE-219": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 22h 19m"
+        ]
+    ], 
+    "SYNAPSE-215": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 9h 1m"
+        ]
+    ], 
+    "SYNAPSE-216": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 23h 39m"
+        ]
+    ], 
+    "SYNAPSE-359": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 19h 15m"
+        ]
+    ], 
+    "SYNAPSE-926": [
+        [
+            "Open", 
+            "Resolved", 
+            "578d 12h 11m"
+        ]
+    ], 
+    "SYNAPSE-922": [
+        [
+            "Open", 
+            "Resolved", 
+            "168d 15h 32m"
+        ]
+    ], 
+    "SYNAPSE-500": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 1h 18m"
+        ]
+    ], 
+    "SYNAPSE-501": [
+        [
+            "Open", 
+            "Resolved", 
+            "1048d 7h 5m"
+        ]
+    ], 
+    "SYNAPSE-503": [
+        [
+            "Open", 
+            "Resolved", 
+            "39d 14h 14m"
+        ]
+    ], 
+    "SYNAPSE-504": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 46m"
+        ]
+    ], 
+    "SYNAPSE-505": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 46m"
+        ]
+    ], 
+    "SYNAPSE-506": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 45m"
+        ]
+    ], 
+    "SYNAPSE-508": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 49s"
+        ]
+    ], 
+    "SYNAPSE-509": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 6h 28m"
+        ]
+    ], 
+    "SYNAPSE-818": [
+        [
+            "Open", 
+            "Resolved", 
+            "1648d 14h 7m"
+        ]
+    ], 
+    "SYNAPSE-819": [
+        [
+            "Open", 
+            "Resolved", 
+            "32m 16s"
+        ]
+    ], 
+    "SYNAPSE-812": [
+        [
+            "Open", 
+            "Resolved", 
+            "616d 17h 56m"
+        ]
+    ], 
+    "SYNAPSE-815": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 23h 37m"
+        ]
+    ], 
+    "SYNAPSE-437": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 34m"
+        ]
+    ], 
+    "SYNAPSE-431": [
+        [
+            "Open", 
+            "Resolved", 
+            "304d 3h 36m"
+        ]
+    ], 
+    "SYNAPSE-432": [
+        [
+            "Open", 
+            "Resolved", 
+            "105d 4h 12m"
+        ]
+    ], 
+    "SYNAPSE-433": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 6h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "119d 1h 20m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 8m"
+        ]
+    ], 
+    "SYNAPSE-439": [
+        [
+            "Open", 
+            "Resolved", 
+            "173d 3h 35m"
+        ]
+    ], 
+    "SYNAPSE-159": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 5h 54m"
+        ]
+    ], 
+    "SYNAPSE-158": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 25m"
+        ]
+    ], 
+    "SYNAPSE-174": [
+        [
+            "Open", 
+            "Resolved", 
+            "166d 11h 32m"
+        ]
+    ], 
+    "SYNAPSE-173": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 5h"
+        ]
+    ], 
+    "SYNAPSE-647": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 3m"
+        ]
+    ], 
+    "SYNAPSE-643": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11h 31m"
+        ]
+    ], 
+    "SYNAPSE-1048": [
+        [
+            "Open", 
+            "In Progress", 
+            "1082d 11h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10m 11s"
+        ]
+    ], 
+    "SYNAPSE-721": [
+        [
+            "Open", 
+            "Resolved", 
+            "327d 5h 28m"
+        ]
+    ], 
+    "SYNAPSE-722": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 31m"
+        ]
+    ], 
+    "SYNAPSE-723": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 4h 30m"
+        ]
+    ], 
+    "SYNAPSE-1041": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 7h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "29d 20h 28m"
+        ]
+    ], 
+    "SYNAPSE-1040": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 19h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 18m"
+        ]
+    ], 
+    "SYNAPSE-648": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 46m"
+        ]
+    ], 
+    "SYNAPSE-53": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 19m"
+        ]
+    ], 
+    "SYNAPSE-51": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 17m"
+        ]
+    ], 
+    "SYNAPSE-57": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 9h 32m"
+        ]
+    ], 
+    "SYNAPSE-56": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 4m"
+        ]
+    ], 
+    "SYNAPSE-558": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 27m"
+        ]
+    ], 
+    "SYNAPSE-310": [
+        [
+            "Open", 
+            "Resolved", 
+            "720d 23h 50m"
+        ]
+    ], 
+    "SYNAPSE-318": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 57s"
+        ]
+    ], 
+    "SYNAPSE-98": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 31s"
+        ]
+    ], 
+    "SYNAPSE-499": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 10h 33m"
+        ]
+    ], 
+    "SYNAPSE-822": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 24m"
+        ]
+    ], 
+    "SYNAPSE-820": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 36s"
+        ]
+    ], 
+    "SYNAPSE-826": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 17m"
+        ]
+    ], 
+    "SYNAPSE-825": [
+        [
+            "Open", 
+            "In Progress", 
+            "8d 8h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 54m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "3h 46m"
+        ]
+    ], 
+    "SYNAPSE-824": [
+        [
+            "Open", 
+            "In Progress", 
+            "37m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "537d 12h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "80d 4h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 4m"
+        ]
+    ], 
+    "SYNAPSE-829": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 1m"
+        ]
+    ], 
+    "SYNAPSE-985": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h"
+        ]
+    ], 
+    "SYNAPSE-544": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 16s"
+        ]
+    ], 
+    "SYNAPSE-547": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 6s"
+        ]
+    ], 
+    "SYNAPSE-540": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 29m"
+        ]
+    ], 
+    "SYNAPSE-989": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 34s"
+        ]
+    ], 
+    "SYNAPSE-543": [
+        [
+            "Open", 
+            "Resolved", 
+            "34m 25s"
+        ]
+    ], 
+    "SYNAPSE-267": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 10h 55m"
+        ]
+    ], 
+    "SYNAPSE-261": [
+        [
+            "Open", 
+            "In Progress", 
+            "47d 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "23h 37m"
+        ]
+    ], 
+    "SYNAPSE-260": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 19h 29m"
+        ]
+    ], 
+    "SYNAPSE-386": [
+        [
+            "Open", 
+            "Resolved", 
+            "326d 4h 24m"
+        ]
+    ], 
+    "SYNAPSE-269": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 38m"
+        ]
+    ], 
+    "SYNAPSE-857": [
+        [
+            "Open", 
+            "Resolved", 
+            "489d 9h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "28d 21h 7m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "SYNAPSE-853": [
+        [
+            "Open", 
+            "Resolved", 
+            "492d 5h 31m"
+        ]
+    ], 
+    "SYNAPSE-919": [
+        [
+            "Open", 
+            "Resolved", 
+            "185d 18h 7m"
+        ]
+    ], 
+    "SYNAPSE-851": [
+        [
+            "Open", 
+            "Resolved", 
+            "1663d 17h 29m"
+        ]
+    ], 
+    "SYNAPSE-912": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 21h 50m"
+        ]
+    ], 
+    "SYNAPSE-911": [
+        [
+            "Open", 
+            "Resolved", 
+            "304d 19h 30m"
+        ]
+    ], 
+    "SYNAPSE-910": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 50m"
+        ]
+    ], 
+    "SYNAPSE-188": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 1h 50m"
+        ]
+    ], 
+    "SYNAPSE-186": [
+        [
+            "Open", 
+            "Resolved", 
+            "540d 18h 28m"
+        ]
+    ], 
+    "SYNAPSE-182": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 19h 25m"
+        ]
+    ], 
+    "SYNAPSE-200": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 55m"
+        ]
+    ], 
+    "SYNAPSE-1077": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 5m"
+        ]
+    ], 
+    "SYNAPSE-74": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 19h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 5h 40m"
+        ]
+    ], 
+    "SYNAPSE-139": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 18h 52m"
+        ]
+    ], 
+    "SYNAPSE-131": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "189d 6h 35m"
+        ]
+    ], 
+    "SYNAPSE-133": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 20h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 5h"
+        ]
+    ], 
+    "SYNAPSE-132": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20h 48m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21d 3h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "190d 21h 56m"
+        ]
+    ], 
+    "SYNAPSE-135": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17h 22m"
+        ]
+    ], 
+    "SYNAPSE-134": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10h 27m"
+        ]
+    ], 
+    "SYNAPSE-137": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 55m"
+        ]
+    ], 
+    "SYNAPSE-136": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 46m"
+        ]
+    ], 
+    "SYNAPSE-686": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 4h 12m"
+        ]
+    ], 
+    "SYNAPSE-688": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 32m"
+        ]
+    ], 
+    "SYNAPSE-1003": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 1h 25m"
+        ]
+    ], 
+    "SYNAPSE-767": [
+        [
+            "Open", 
+            "In Progress", 
+            "213d 19h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 4s"
+        ]
+    ], 
+    "SYNAPSE-1005": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 19h 34m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "38s"
+        ]
+    ], 
+    "SYNAPSE-761": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 20h 16m"
+        ]
+    ], 
+    "SYNAPSE-1007": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 7h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7m 47s"
+        ]
+    ], 
+    "SYNAPSE-769": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 21h 50m"
+        ]
+    ], 
+    "SYNAPSE-443": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 23h 49m"
+        ]
+    ], 
+    "SYNAPSE-442": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 5m"
+        ]
+    ], 
+    "SYNAPSE-541": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 1m"
+        ]
+    ], 
+    "SYNAPSE-80": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 10m"
+        ]
+    ], 
+    "SYNAPSE-81": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "412d 1h 59m"
+        ]
+    ], 
+    "SYNAPSE-83": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "412d 45m"
+        ]
+    ], 
+    "SYNAPSE-84": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 7h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "26d 20h 30m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 20h 21m"
+        ]
+    ], 
+    "SYNAPSE-85": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "410d 19h 16m"
+        ]
+    ], 
+    "SYNAPSE-88": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 2h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "372d 47m"
+        ]
+    ], 
+    "SYNAPSE-611": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 19m"
+        ]
+    ], 
+    "SYNAPSE-612": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 57m"
+        ]
+    ], 
+    "SYNAPSE-613": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "34s"
+        ]
+    ], 
+    "SYNAPSE-614": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 58m"
+        ]
+    ], 
+    "SYNAPSE-616": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 55s"
+        ]
+    ], 
+    "SYNAPSE-1004": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 9h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "6m 49s"
+        ]
+    ], 
+    "SYNAPSE-940": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 44m"
+        ]
+    ], 
+    "SYNAPSE-941": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 43m"
+        ]
+    ], 
+    "SYNAPSE-942": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 32m"
+        ]
+    ], 
+    "SYNAPSE-943": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 48m"
+        ]
+    ], 
+    "SYNAPSE-945": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 57m"
+        ]
+    ], 
+    "SYNAPSE-946": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 37s"
+        ]
+    ], 
+    "SYNAPSE-949": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 49m"
+        ]
+    ], 
+    "SYNAPSE-66": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 2h 1m"
+        ]
+    ], 
+    "SYNAPSE-221": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 57s"
+        ]
+    ], 
+    "SYNAPSE-222": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 53m"
+        ]
+    ], 
+    "SYNAPSE-225": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 8h 40m"
+        ]
+    ], 
+    "SYNAPSE-341": [
+        [
+            "Open", 
+            "Resolved", 
+            "147d 9h 54m"
+        ]
+    ], 
+    "SYNAPSE-344": [
+        [
+            "Open", 
+            "Resolved", 
+            "146d 16h 15m"
+        ]
+    ], 
+    "SYNAPSE-345": [
+        [
+            "Open", 
+            "Resolved", 
+            "698d 8h 39m"
+        ]
+    ], 
+    "SYNAPSE-536": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 17h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "5h 43m"
+        ]
+    ], 
+    "SYNAPSE-867": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 8m"
+        ]
+    ], 
+    "SYNAPSE-866": [
+        [
+            "Open", 
+            "Resolved", 
+            "446d 9h 45m"
+        ]
+    ], 
+    "SYNAPSE-428": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 17m"
+        ]
+    ], 
+    "SYNAPSE-409": [
+        [
+            "Open", 
+            "Resolved", 
+            "237d 6h 59m"
+        ]
+    ], 
+    "SYNAPSE-400": [
+        [
+            "Open", 
+            "Resolved", 
+            "247d 18h 53m"
+        ]
+    ], 
+    "SYNAPSE-402": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 49m"
+        ]
+    ], 
+    "SYNAPSE-404": [
+        [
+            "Open", 
+            "Resolved", 
+            "77d 5h 48m"
+        ]
+    ], 
+    "SYNAPSE-162": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 59m"
+        ]
+    ], 
+    "SYNAPSE-163": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 42m"
+        ]
+    ], 
+    "SYNAPSE-167": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 19s"
+        ]
+    ], 
+    "SYNAPSE-164": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 40s"
+        ]
+    ], 
+    "SYNAPSE-165": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 22h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 5h 14m"
+        ]
+    ], 
+    "SYNAPSE-168": [
+        [
+            "Open", 
+            "Resolved", 
+            "59d 1h 27m"
+        ]
+    ], 
+    "SYNAPSE-1039": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 40m"
+        ]
+    ], 
+    "SYNAPSE-656": [
+        [
+            "Open", 
+            "Resolved", 
+            "115d 21h 38m"
+        ]
+    ], 
+    "SYNAPSE-652": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 55s"
+        ]
+    ], 
+    "SYNAPSE-659": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h"
+        ]
+    ], 
+    "SYNAPSE-713": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 53m"
+        ]
+    ], 
+    "SYNAPSE-307": [
+        [
+            "Open", 
+            "In Progress", 
+            "28d 17h 19m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8d 2h 11m"
+        ]
+    ], 
+    "SYNAPSE-304": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "14h 13m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "171d 8h 46m"
+        ]
+    ], 
+    "SYNAPSE-308": [
+        [
+            "Open", 
+            "In Progress", 
+            "199d 14h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "2d 21h 41m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "34d 22h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "125d 4h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "12h 4m"
+        ]
+    ], 
+    "SYNAPSE-309": [
+        [
+            "Open", 
+            "In Progress", 
+            "37d 1h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21m 16s"
+        ]
+    ]
+}

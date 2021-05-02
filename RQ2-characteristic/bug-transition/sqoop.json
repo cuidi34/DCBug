@@ -1,0 +1,4804 @@
+{
+    "SQOOP-385": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 7m"
+        ]
+    ], 
+    "SQOOP-959": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 55m"
+        ]
+    ], 
+    "SQOOP-382": [
+        [
+            "Open", 
+            "In Progress", 
+            "396d 4h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "18h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 22m"
+        ]
+    ], 
+    "SQOOP-950": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 15s"
+        ]
+    ], 
+    "SQOOP-1190": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 41m"
+        ]
+    ], 
+    "SQOOP-636": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 15h 29m"
+        ]
+    ], 
+    "SQOOP-1192": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 13h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 3h 38m"
+        ]
+    ], 
+    "SQOOP-3159": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 17m"
+        ]
+    ], 
+    "SQOOP-3157": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 12m"
+        ]
+    ], 
+    "SQOOP-2863": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 53m"
+        ]
+    ], 
+    "SQOOP-1359": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 1h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 27m"
+        ]
+    ], 
+    "SQOOP-3152": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 15h 36m"
+        ]
+    ], 
+    "SQOOP-2864": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 48m"
+        ]
+    ], 
+    "SQOOP-2909": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 53m"
+        ]
+    ], 
+    "SQOOP-2257": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 20h 32m"
+        ]
+    ], 
+    "SQOOP-2254": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 32m"
+        ]
+    ], 
+    "SQOOP-2707": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 13h 54m"
+        ]
+    ], 
+    "MAPREDUCE-1310": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 3h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 19h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 30m"
+        ]
+    ], 
+    "MAPREDUCE-1313": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 18h 37m"
+        ]
+    ], 
+    "SQOOP-3071": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "58m 22s"
+        ]
+    ], 
+    "SQOOP-3072": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13m 52s"
+        ]
+    ], 
+    "SQOOP-3074": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 42m"
+        ]
+    ], 
+    "SQOOP-3378": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 21h 5m"
+        ]
+    ], 
+    "SQOOP-314": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 20h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19m 46s"
+        ]
+    ], 
+    "SQOOP-317": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h"
+        ]
+    ], 
+    "SQOOP-319": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 22h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 19m"
+        ]
+    ], 
+    "SQOOP-706": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 1h 39m"
+        ]
+    ], 
+    "SQOOP-1107": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "63d 22h 26m"
+        ]
+    ], 
+    "SQOOP-3380": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 10s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "17h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 39m"
+        ]
+    ], 
+    "SQOOP-1519": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 43m"
+        ]
+    ], 
+    "SQOOP-1779": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 7m"
+        ]
+    ], 
+    "SQOOP-418": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 8m"
+        ]
+    ], 
+    "SQOOP-414": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 18h 33m"
+        ]
+    ], 
+    "SQOOP-410": [
+        [
+            "Open", 
+            "Patch Available", 
+            "230d 2h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 52m"
+        ]
+    ], 
+    "MAPREDUCE-877": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 26m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "372d 16h 7m"
+        ]
+    ], 
+    "SQOOP-1071": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 8h 29m"
+        ]
+    ], 
+    "SQOOP-1179": [
+        [
+            "Open", 
+            "In Progress", 
+            "15h 57m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "2s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "4h 33m"
+        ]
+    ], 
+    "SQOOP-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 8h 46m"
+        ]
+    ], 
+    "SQOOP-1078": [
+        [
+            "Patch Available", 
+            "Open", 
+            "10s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 4h 22m"
+        ]
+    ], 
+    "SQOOP-2746": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 49m"
+        ]
+    ], 
+    "SQOOP-2454": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 8h 15m"
+        ]
+    ], 
+    "SQOOP-2170": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 18m"
+        ]
+    ], 
+    "SQOOP-539": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 19m"
+        ]
+    ], 
+    "SQOOP-1358": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 1h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 2h"
+        ]
+    ], 
+    "SQOOP-2753": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 7h 17m"
+        ]
+    ], 
+    "SQOOP-859": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 5h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 11m"
+        ]
+    ], 
+    "SQOOP-856": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 20h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 10m"
+        ]
+    ], 
+    "SQOOP-855": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 11m"
+        ]
+    ], 
+    "SQOOP-854": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 5s"
+        ]
+    ], 
+    "SQOOP-853": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 1h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 20m"
+        ]
+    ], 
+    "SQOOP-1250": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 56m"
+        ]
+    ], 
+    "SQOOP-1316": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 22h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8m 18s"
+        ]
+    ], 
+    "SQOOP-1259": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 14h 1m"
+        ]
+    ], 
+    "SQOOP-988": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 26m"
+        ]
+    ], 
+    "SQOOP-981": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 17h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 26m"
+        ]
+    ], 
+    "SQOOP-358": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 5h 29m"
+        ]
+    ], 
+    "SQOOP-359": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 7m"
+        ]
+    ], 
+    "SQOOP-3033": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 1h 25m"
+        ]
+    ], 
+    "SQOOP-3038": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 10h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 17m"
+        ]
+    ], 
+    "SQOOP-352": [
+        [
+            "Open", 
+            "Patch Available", 
+            "158d 6h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 55m"
+        ]
+    ], 
+    "SQOOP-1226": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 6h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "61d 23h 17m"
+        ]
+    ], 
+    "SQOOP-1227": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 39s"
+        ]
+    ], 
+    "SQOOP-1224": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 16m"
+        ]
+    ], 
+    "SQOOP-1228": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9m 11s"
+        ]
+    ], 
+    "SQOOP-2952": [
+        [
+            "Patch Available", 
+            "Open", 
+            "9d 22h 48m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "111d 23h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20s"
+        ]
+    ], 
+    "SQOOP-1387": [
+        [
+            "Open", 
+            "Patch Available", 
+            "59d 14h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 14m"
+        ]
+    ], 
+    "SQOOP-3105": [
+        [
+            "Open", 
+            "In Progress", 
+            "65d 5h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "12h 31m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m 57s"
+        ]
+    ], 
+    "SQOOP-2597": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "58m 50s"
+        ]
+    ], 
+    "SQOOP-2326": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 18m"
+        ]
+    ], 
+    "SQOOP-2324": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34m 51s"
+        ]
+    ], 
+    "SQOOP-3243": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 3h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 23h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "4h"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 11m"
+        ]
+    ], 
+    "SQOOP-3241": [
+        [
+            "Open", 
+            "In Progress", 
+            "69d 20h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "25d 2h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 40m"
+        ]
+    ], 
+    "SQOOP-3321": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 1h 45m"
+        ]
+    ], 
+    "SQOOP-3322": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 47m"
+        ]
+    ], 
+    "SQOOP-3248": [
+        [
+            "Open", 
+            "Resolved", 
+            "12m 54s"
+        ]
+    ], 
+    "SQOOP-329": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 10h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 47m"
+        ]
+    ], 
+    "SQOOP-453": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52d 23h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 46m"
+        ]
+    ], 
+    "SQOOP-323": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 22h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 9h 53m"
+        ]
+    ], 
+    "SQOOP-450": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 30m"
+        ]
+    ], 
+    "SQOOP-325": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 9h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 20h 28m"
+        ]
+    ], 
+    "SQOOP-454": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 13h 34m"
+        ]
+    ], 
+    "SQOOP-599": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 8h 37m"
+        ]
+    ], 
+    "SQOOP-1034": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 19h 38m"
+        ]
+    ], 
+    "SQOOP-1032": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "156d 12h 44m"
+        ]
+    ], 
+    "SQOOP-1031": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 7h 52m"
+        ]
+    ], 
+    "SQOOP-1030": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 11h 17m"
+        ]
+    ], 
+    "SQOOP-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 15h 55m"
+        ]
+    ], 
+    "SQOOP-1423": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 57m"
+        ]
+    ], 
+    "SQOOP-1429": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 36m"
+        ]
+    ], 
+    "SQOOP-1138": [
+        [
+            "Open", 
+            "Patch Available", 
+            "345d 23h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 11h 1m"
+        ]
+    ], 
+    "MAPREDUCE-923": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 3h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 28m"
+        ]
+    ], 
+    "SQOOP-2137": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 9m"
+        ]
+    ], 
+    "SQOOP-2136": [
+        [
+            "Open", 
+            "Patch Available", 
+            "58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "54m 54s"
+        ]
+    ], 
+    "SQOOP-2132": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 45m"
+        ]
+    ], 
+    "MAPREDUCE-673": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 5h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 14m"
+        ]
+    ], 
+    "SQOOP-528": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 31m"
+        ]
+    ], 
+    "SQOOP-526": [
+        [
+            "Patch Available", 
+            "Open", 
+            "36m 8s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "141d 5h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 17m"
+        ]
+    ], 
+    "SQOOP-524": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 8m"
+        ]
+    ], 
+    "SQOOP-521": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 22h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 53m"
+        ]
+    ], 
+    "SQOOP-1008": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 49m"
+        ]
+    ], 
+    "SQOOP-2986": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 23h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "77d 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SQOOP-2983": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "100d 1m"
+        ]
+    ], 
+    "SQOOP-2399": [
+        [
+            "Patch Available", 
+            "Open", 
+            "38d 14h 32m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "51d 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 21h"
+        ]
+    ], 
+    "SQOOP-2780": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59m 54s"
+        ]
+    ], 
+    "SQOOP-2783": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 22m"
+        ]
+    ], 
+    "SQOOP-2787": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 6h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 5h 35m"
+        ]
+    ], 
+    "SQOOP-2145": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 35m"
+        ]
+    ], 
+    "SQOOP-628": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 3s"
+        ]
+    ], 
+    "SQOOP-2400": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 20h 7m"
+        ]
+    ], 
+    "SQOOP-2406": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 3h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 12h 54m"
+        ]
+    ], 
+    "SQOOP-968": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 11s"
+        ]
+    ], 
+    "SQOOP-2767": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 3h 9m"
+        ]
+    ], 
+    "SQOOP-1185": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 45m"
+        ]
+    ], 
+    "SQOOP-1268": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 22h 8m"
+        ]
+    ], 
+    "SQOOP-1260": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 1h 36m"
+        ]
+    ], 
+    "SQOOP-1261": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 34m"
+        ]
+    ], 
+    "SQOOP-1617": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 17h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 9h 42m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "17h 5m"
+        ]
+    ], 
+    "SQOOP-2911": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 23h 32m"
+        ]
+    ], 
+    "SQOOP-741": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 1m"
+        ]
+    ], 
+    "SQOOP-3140": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 14h 7m"
+        ]
+    ], 
+    "SQOOP-2367": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 11h 46m"
+        ]
+    ], 
+    "SQOOP-818": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 41m"
+        ]
+    ], 
+    "SQOOP-2362": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 4h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13h 55m"
+        ]
+    ], 
+    "SQOOP-2363": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 2h 23m"
+        ]
+    ], 
+    "SQOOP-2712": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 11h 38m"
+        ]
+    ], 
+    "SQOOP-3360": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 53m"
+        ]
+    ], 
+    "SQOOP-3362": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 52m"
+        ]
+    ], 
+    "SQOOP-3044": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24s"
+        ]
+    ], 
+    "SQOOP-3042": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 7h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "615d 5h 1m"
+        ]
+    ], 
+    "SQOOP-364": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 5h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 48s"
+        ]
+    ], 
+    "SQOOP-490": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h"
+        ]
+    ], 
+    "SQOOP-1663": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 14h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 6m"
+        ]
+    ], 
+    "SQOOP-2561": [
+        [
+            "Open", 
+            "In Progress", 
+            "174d 13h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 2h 25m"
+        ]
+    ], 
+    "SQOOP-392": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 6h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 7h 44m"
+        ]
+    ], 
+    "SQOOP-393": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 5m"
+        ]
+    ], 
+    "SQOOP-395": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 7h 37m"
+        ]
+    ], 
+    "SQOOP-2567": [
+        [
+            "Open", 
+            "In Progress", 
+            "929d 6h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12d 21h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 21h 22m"
+        ]
+    ], 
+    "SQOOP-2024": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 6h 20m"
+        ]
+    ], 
+    "SQOOP-409": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 8h 38m"
+        ]
+    ], 
+    "SQOOP-1764": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 12h 28m"
+        ]
+    ], 
+    "SQOOP-1006": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "54d 21h 48m"
+        ]
+    ], 
+    "SQOOP-3283": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 3h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 20m"
+        ]
+    ], 
+    "SQOOP-3288": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 46m"
+        ]
+    ], 
+    "SQOOP-1167": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 21h 5m"
+        ]
+    ], 
+    "SQOOP-2191": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 54m"
+        ]
+    ], 
+    "SQOOP-2298": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 32m"
+        ]
+    ], 
+    "SQOOP-2296": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 23h 17m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "19s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 12h 43m"
+        ]
+    ], 
+    "SQOOP-2297": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 18m"
+        ]
+    ], 
+    "SQOOP-2294": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 8h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 11m"
+        ]
+    ], 
+    "SQOOP-2295": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 12h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25d 23h 51m"
+        ]
+    ], 
+    "SQOOP-2290": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 9m"
+        ]
+    ], 
+    "SQOOP-2470": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4h 19m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 5h 15m"
+        ]
+    ], 
+    "SQOOP-1249": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 33m"
+        ]
+    ], 
+    "SQOOP-2103": [
+        [
+            "Open", 
+            "Patch Available", 
+            "123d 11h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 16h 52m"
+        ]
+    ], 
+    "SQOOP-870": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 55m"
+        ]
+    ], 
+    "SQOOP-840": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 28m"
+        ]
+    ], 
+    "SQOOP-2723": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 56m"
+        ]
+    ], 
+    "SQOOP-846": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 4h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 7h 24m"
+        ]
+    ], 
+    "SQOOP-2971": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 2h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 18h 53m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 16h 14m"
+        ]
+    ], 
+    "SQOOP-2810": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 11h 16m"
+        ]
+    ], 
+    "SQOOP-1303": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 4m"
+        ]
+    ], 
+    "SQOOP-2130": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 11m"
+        ]
+    ], 
+    "SQOOP-992": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 17m"
+        ]
+    ], 
+    "SQOOP-2617": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 35m"
+        ]
+    ], 
+    "SQOOP-2531": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 10m"
+        ]
+    ], 
+    "SQOOP-2535": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 6h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 17m"
+        ]
+    ], 
+    "SQOOP-3127": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 1s"
+        ]
+    ], 
+    "SQOOP-2437": [
+        [
+            "Open", 
+            "Resolved", 
+            "46m 3s"
+        ]
+    ], 
+    "SQOOP-615": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 45m"
+        ]
+    ], 
+    "SQOOP-617": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25m 35s"
+        ]
+    ], 
+    "SQOOP-616": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 32s"
+        ]
+    ], 
+    "SQOOP-1540": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 16h 4m"
+        ]
+    ], 
+    "SQOOP-1239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "225d 13h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 14h 19m"
+        ]
+    ], 
+    "SQOOP-1627": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 22h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 52m"
+        ]
+    ], 
+    "SQOOP-1362": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 14h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 6s"
+        ]
+    ], 
+    "SQOOP-2339": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 36m"
+        ]
+    ], 
+    "SQOOP-929": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 11h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 54m"
+        ]
+    ], 
+    "SQOOP-928": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 13h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 51m"
+        ]
+    ], 
+    "SQOOP-3138": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 6m"
+        ]
+    ], 
+    "SQOOP-3139": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "168d 20h 24m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "11d 29m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1m 53s"
+        ]
+    ], 
+    "SQOOP-3255": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "11m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "48d 17h 44m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 38m"
+        ]
+    ], 
+    "MAPREDUCE-1235": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 6h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 6h 55m"
+        ]
+    ], 
+    "MAPREDUCE-1239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10m 18s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "271d 4h 52m"
+        ]
+    ], 
+    "SQOOP-339": [
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 9h 49m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22m 32s"
+        ]
+    ], 
+    "SQOOP-448": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 6h 20m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 16h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4h 56m"
+        ]
+    ], 
+    "SQOOP-332": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 23h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 50m"
+        ]
+    ], 
+    "SQOOP-445": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52d 15h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 10h 21m"
+        ]
+    ], 
+    "SQOOP-330": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 8h 30m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11m"
+        ]
+    ], 
+    "SQOOP-336": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 57m"
+        ]
+    ], 
+    "SQOOP-725": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 14h 8m"
+        ]
+    ], 
+    "SQOOP-721": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 9h 43m"
+        ]
+    ], 
+    "SQOOP-1433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 1h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 9s"
+        ]
+    ], 
+    "SQOOP-1437": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52d 21h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 58m"
+        ]
+    ], 
+    "SQOOP-687": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 14h 40m"
+        ]
+    ], 
+    "SQOOP-1125": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20d 14h 22m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "478d 8h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 15m"
+        ]
+    ], 
+    "SQOOP-1124": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 12h 54m"
+        ]
+    ], 
+    "SQOOP-1826": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 8h 4m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 6m"
+        ]
+    ], 
+    "SQOOP-1539": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 15m"
+        ]
+    ], 
+    "SQOOP-1129": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25m 42s"
+        ]
+    ], 
+    "MAPREDUCE-703": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 22s"
+        ]
+    ], 
+    "SQOOP-536": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 25m"
+        ]
+    ], 
+    "SQOOP-430": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 5h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 35m"
+        ]
+    ], 
+    "SQOOP-433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 51m"
+        ]
+    ], 
+    "SQOOP-437": [
+        [
+            "Open", 
+            "Patch Available", 
+            "201d 15h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11m 55s"
+        ]
+    ], 
+    "SQOOP-2371": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 4h 47m"
+        ]
+    ], 
+    "SQOOP-1053": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 21m"
+        ]
+    ], 
+    "SQOOP-1052": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 7h 28m"
+        ]
+    ], 
+    "SQOOP-1759": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 2m"
+        ]
+    ], 
+    "SQOOP-2999": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 48s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "45m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "9d 5h 38m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 11h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 6h 50m"
+        ]
+    ], 
+    "SQOOP-2995": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 2h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "16h 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 9h 26m"
+        ]
+    ], 
+    "SQOOP-2990": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "104d 23h 46m"
+        ]
+    ], 
+    "MAPREDUCE-1148": [
+        [
+            "Patch Available", 
+            "Open", 
+            "45d 19h 23m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 51m"
+        ]
+    ], 
+    "MAPREDUCE-1146": [
+        [
+            "Patch Available", 
+            "Open", 
+            "42d 4h 48m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 1h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 43m"
+        ]
+    ], 
+    "SQOOP-891": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 21h 21m"
+        ]
+    ], 
+    "SQOOP-2651": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 5h 32m"
+        ]
+    ], 
+    "SQOOP-2779": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25d 4h 56m"
+        ]
+    ], 
+    "SQOOP-796": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 9m"
+        ]
+    ], 
+    "SQOOP-976": [
+        [
+            "Open", 
+            "Patch Available", 
+            "57d 13h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 21h 57m"
+        ]
+    ], 
+    "SQOOP-979": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 58s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 41m"
+        ]
+    ], 
+    "SQOOP-657": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 6h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 50m"
+        ]
+    ], 
+    "SQOOP-651": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 22m"
+        ]
+    ], 
+    "SQOOP-652": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8d 14h 59m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "44d 14h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19m 44s"
+        ]
+    ], 
+    "SQOOP-1279": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 53m"
+        ]
+    ], 
+    "SQOOP-1278": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 13h 57m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "2h 40m"
+        ]
+    ], 
+    "SQOOP-2920": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 46m"
+        ]
+    ], 
+    "SQOOP-1271": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 26m"
+        ]
+    ], 
+    "SQOOP-1273": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 10h 49m"
+        ]
+    ], 
+    "SQOOP-2847": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 23h"
+        ]
+    ], 
+    "SQOOP-2846": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 20h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 20h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 10h 9m"
+        ]
+    ], 
+    "SQOOP-1372": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 9h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 45m"
+        ]
+    ], 
+    "MAPREDUCE-1469": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 3h 49m"
+        ]
+    ], 
+    "SQOOP-808": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 10h 48m"
+        ]
+    ], 
+    "SQOOP-2370": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 7h 45m"
+        ]
+    ], 
+    "SQOOP-2372": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 7m"
+        ]
+    ], 
+    "SQOOP-488": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 22h 12m"
+        ]
+    ], 
+    "SQOOP-489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 21h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 19m"
+        ]
+    ], 
+    "SQOOP-1970": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 48m"
+        ]
+    ], 
+    "SQOOP-480": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 34m"
+        ]
+    ], 
+    "SQOOP-481": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 14h 37m"
+        ]
+    ], 
+    "SQOOP-482": [
+        [
+            "Patch Available", 
+            "Open", 
+            "15s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 41m"
+        ]
+    ], 
+    "SQOOP-373": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 11h 31m"
+        ]
+    ], 
+    "SQOOP-1083": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "52m 17s"
+        ]
+    ], 
+    "SQOOP-1474": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 29m"
+        ]
+    ], 
+    "SQOOP-1472": [
+        [
+            "Open", 
+            "Resolved", 
+            "57d 2h 10m"
+        ]
+    ], 
+    "SQOOP-1490": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 27m"
+        ]
+    ], 
+    "SQOOP-1493": [
+        [
+            "Open", 
+            "Patch Available", 
+            "292d 19h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "218d 15h 12m"
+        ]
+    ], 
+    "SQOOP-1494": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 1h 35m"
+        ]
+    ], 
+    "SQOOP-578": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 10h 28m"
+        ]
+    ], 
+    "SQOOP-571": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 12h 5m"
+        ]
+    ], 
+    "SQOOP-474": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 19h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "SQOOP-476": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55d 17h 3m"
+        ]
+    ], 
+    "SQOOP-473": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 20h 38m"
+        ]
+    ], 
+    "SQOOP-1400": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2m 2s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "47m 28s"
+        ]
+    ], 
+    "SQOOP-1406": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 26m"
+        ]
+    ], 
+    "SQOOP-3350": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 31m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "22h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 1m"
+        ]
+    ], 
+    "SQOOP-3420": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 21h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 8h 33m"
+        ]
+    ], 
+    "SQOOP-3353": [
+        [
+            "Open", 
+            "In Progress", 
+            "4h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 38m"
+        ]
+    ], 
+    "SQOOP-2896": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 2h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 30m"
+        ]
+    ], 
+    "SQOOP-2286": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 55m"
+        ]
+    ], 
+    "SQOOP-2281": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 24m"
+        ]
+    ], 
+    "SQOOP-2283": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 4h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 8m"
+        ]
+    ], 
+    "SQOOP-2282": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 44m"
+        ]
+    ], 
+    "SQOOP-508": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 53m"
+        ]
+    ], 
+    "SQOOP-1298": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 40m"
+        ]
+    ], 
+    "SQOOP-1684": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 20h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 37m"
+        ]
+    ], 
+    "SQOOP-503": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 3h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 56m"
+        ]
+    ], 
+    "SQOOP-505": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 34m"
+        ]
+    ], 
+    "MAPREDUCE-690": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 25m"
+        ]
+    ], 
+    "SQOOP-2055": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 41m"
+        ]
+    ], 
+    "SQOOP-2057": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 14h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 33m"
+        ]
+    ], 
+    "SQOOP-2737": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48d 7h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 8h 13m"
+        ]
+    ], 
+    "SQOOP-830": [
+        [
+            "Open", 
+            "In Progress", 
+            "8d 6h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 4h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 6h 53m"
+        ]
+    ], 
+    "SQOOP-832": [
+        [
+            "Open", 
+            "Resolved", 
+            "536d 13h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "122d 4h 41m"
+        ]
+    ], 
+    "SQOOP-1339": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 38s"
+        ]
+    ], 
+    "MAPREDUCE-1037": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35d 4h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 4h 4m"
+        ]
+    ], 
+    "SQOOP-2607": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 29m"
+        ]
+    ], 
+    "SQOOP-607": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 58m"
+        ]
+    ], 
+    "SQOOP-3081": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 9h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 42m"
+        ]
+    ], 
+    "SQOOP-3082": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "520d 17h 54m"
+        ]
+    ], 
+    "SQOOP-3083": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 12m"
+        ]
+    ], 
+    "SQOOP-3123": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 2h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59d 1h 39m"
+        ]
+    ], 
+    "SQOOP-1631": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 2h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "26d 12h 57m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "14d 1h 53m"
+        ]
+    ], 
+    "SQOOP-1209": [
+        [
+            "Open", 
+            "Patch Available", 
+            "178d 3h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 9m"
+        ]
+    ], 
+    "SQOOP-3124": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 5m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9d 1h 57m"
+        ]
+    ], 
+    "SQOOP-936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 41m"
+        ]
+    ], 
+    "SQOOP-932": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 4h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 24m"
+        ]
+    ], 
+    "SQOOP-3069": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7s"
+        ]
+    ], 
+    "SQOOP-3061": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "82d 9h 45m"
+        ]
+    ], 
+    "MAPREDUCE-1327": [
+        [
+            "Patch Available", 
+            "Open", 
+            "7d 14h 56m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 7h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 6h 49m"
+        ]
+    ], 
+    "SQOOP-3149": [
+        [
+            "Open", 
+            "Resolved", 
+            "234d 5h 3m"
+        ]
+    ], 
+    "SQOOP-308": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 28m"
+        ]
+    ], 
+    "SQOOP-730": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 13h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 8h 55m"
+        ]
+    ], 
+    "SQOOP-1117": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "47s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "317d 18h 9m"
+        ]
+    ], 
+    "SQOOP-1520": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 29m"
+        ]
+    ], 
+    "SQOOP-1297": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 24m"
+        ]
+    ], 
+    "SQOOP-1524": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 34m"
+        ]
+    ], 
+    "SQOOP-3393": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 18h 56m"
+        ]
+    ], 
+    "SQOOP-1682": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h"
+        ]
+    ], 
+    "SQOOP-3014": [
+        [
+            "Open", 
+            "In Progress", 
+            "346d 1h 24m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 6h 39m"
+        ]
+    ], 
+    "SQOOP-3013": [
+        [
+            "Open", 
+            "In Progress", 
+            "23h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "22d 3h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 2h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 22h 40m"
+        ]
+    ], 
+    "SQOOP-1685": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 42m"
+        ]
+    ], 
+    "SQOOP-3010": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 15h 7m"
+        ]
+    ], 
+    "SQOOP-2915": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 46m"
+        ]
+    ], 
+    "MAPREDUCE-1394": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 49m"
+        ]
+    ], 
+    "MAPREDUCE-1395": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 6h 57m"
+        ]
+    ], 
+    "SQOOP-428": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 1h 43m"
+        ]
+    ], 
+    "SQOOP-2017": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "23h"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15h 19m"
+        ]
+    ], 
+    "SQOOP-422": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 7h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 5h 30m"
+        ]
+    ], 
+    "SQOOP-421": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 8h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 22m"
+        ]
+    ], 
+    "SQOOP-426": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 14h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 20m"
+        ]
+    ], 
+    "SQOOP-425": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 46m"
+        ]
+    ], 
+    "SQOOP-3269": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 51s"
+        ]
+    ], 
+    "SQOOP-3267": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "79d 21h 24m"
+        ]
+    ], 
+    "MAPREDUCE-1174": [
+        [
+            "Patch Available", 
+            "Open", 
+            "46d 3h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 50m"
+        ]
+    ], 
+    "SQOOP-883": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 2h 47m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "98d 20h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 19h 20m"
+        ]
+    ], 
+    "SQOOP-2642": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46d 17h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "44d 13h 35m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 12m"
+        ]
+    ], 
+    "SQOOP-2164": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 7h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 7h 20m"
+        ]
+    ], 
+    "SQOOP-907": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 7h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 45m"
+        ]
+    ], 
+    "SQOOP-906": [
+        [
+            "Open", 
+            "Patch Available", 
+            "122d 19h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 4h 14m"
+        ]
+    ], 
+    "SQOOP-901": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 40m"
+        ]
+    ], 
+    "SQOOP-862": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 41m"
+        ]
+    ], 
+    "SQOOP-2745": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 56m"
+        ]
+    ], 
+    "SQOOP-860": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 43m"
+        ]
+    ], 
+    "SQOOP-2747": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 41m"
+        ]
+    ], 
+    "SQOOP-1369": [
+        [
+            "Patch Available", 
+            "Open", 
+            "65d 1h 4m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "323d 3h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 20h 15m"
+        ]
+    ], 
+    "SQOOP-1368": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 23h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 6m"
+        ]
+    ], 
+    "SQOOP-1246": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 26m"
+        ]
+    ], 
+    "SQOOP-2936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "85d 23h 19m"
+        ]
+    ], 
+    "SQOOP-1365": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2h 21m"
+        ]
+    ], 
+    "SQOOP-2349": [
+        [
+            "Open", 
+            "Patch Available", 
+            "546d 18h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 8h 47m"
+        ]
+    ], 
+    "SQOOP-2343": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 17m"
+        ]
+    ], 
+    "SQOOP-2839": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 23h 28m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 10h 7m"
+        ]
+    ], 
+    "SQOOP-2263": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 53m"
+        ]
+    ], 
+    "SQOOP-2264": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 22h 47m"
+        ]
+    ], 
+    "SQOOP-654": [
+        [
+            "Open", 
+            "In Progress", 
+            "97d 29m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 59m"
+        ]
+    ], 
+    "SQOOP-349": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 32m"
+        ]
+    ], 
+    "SQOOP-3021": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 15s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "9h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "MAPREDUCE-1444": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 2h 2m"
+        ]
+    ], 
+    "SQOOP-341": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 3h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 14h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 42m"
+        ]
+    ], 
+    "SQOOP-340": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 9h 39m"
+        ]
+    ], 
+    "SQOOP-346": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "54s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 23h 48m"
+        ]
+    ], 
+    "SQOOP-1097": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 21h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 39m"
+        ]
+    ], 
+    "SQOOP-2949": [
+        [
+            "Open", 
+            "Resolved", 
+            "878d 2h 5m"
+        ]
+    ], 
+    "SQOOP-2582": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 18h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 7h 17m"
+        ]
+    ], 
+    "SQOOP-1398": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 10m"
+        ]
+    ], 
+    "SQOOP-1399": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "52m 11s"
+        ]
+    ], 
+    "SQOOP-3233": [
+        [
+            "Open", 
+            "In Progress", 
+            "91d 1h 38m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 20h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 51m"
+        ]
+    ], 
+    "SQOOP-3330": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44d 1h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 24m"
+        ]
+    ], 
+    "MAPREDUCE-1212": [
+        [
+            "Patch Available", 
+            "Open", 
+            "53d 18h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 5h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "221d 20h 36m"
+        ]
+    ], 
+    "SQOOP-582": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 6h 24m"
+        ]
+    ], 
+    "SQOOP-585": [
+        [
+            "Open", 
+            "Patch Available", 
+            "653d 18h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 5h 47m"
+        ]
+    ], 
+    "SQOOP-1890": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 15h 26m"
+        ]
+    ], 
+    "SQOOP-586": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 44m"
+        ]
+    ], 
+    "SQOOP-1029": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 1h 45m"
+        ]
+    ], 
+    "SQOOP-1370": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 11h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 33m"
+        ]
+    ], 
+    "SQOOP-462": [
+        [
+            "Open", 
+            "Resolved", 
+            "217d 10h 56m"
+        ]
+    ], 
+    "SQOOP-460": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "15h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "104d 10h 34m"
+        ]
+    ], 
+    "SQOOP-468": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 10h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11m"
+        ]
+    ], 
+    "SQOOP-1027": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 7h 49m"
+        ]
+    ], 
+    "SQOOP-1411": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 7h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 4h 38m"
+        ]
+    ], 
+    "SQOOP-1410": [
+        [
+            "Patch Available", 
+            "Open", 
+            "28m 56s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 9m"
+        ]
+    ], 
+    "SQOOP-1412": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 38m"
+        ]
+    ], 
+    "SQOOP-3435": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 6h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 53m"
+        ]
+    ], 
+    "SQOOP-2884": [
+        [
+            "Open", 
+            "Patch Available", 
+            "142d 20h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 10h 56m"
+        ]
+    ], 
+    "SQOOP-2880": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 19h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 17m"
+        ]
+    ], 
+    "SQOOP-2128": [
+        [
+            "Open", 
+            "Resolved", 
+            "36m 34s"
+        ]
+    ], 
+    "MAPREDUCE-685": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 20h 39m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 21m"
+        ]
+    ], 
+    "SQOOP-824": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 1h 56m"
+        ]
+    ], 
+    "SQOOP-825": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 24m"
+        ]
+    ], 
+    "SQOOP-3415": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 8h 54m"
+        ]
+    ], 
+    "SQOOP-821": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h"
+        ]
+    ], 
+    "SQOOP-829": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 14h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45m 37s"
+        ]
+    ], 
+    "SQOOP-1322": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5d 6h 19m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "45d 7h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 14h 30m"
+        ]
+    ], 
+    "SQOOP-1329": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 14h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 43m"
+        ]
+    ], 
+    "SQOOP-2387": [
+        [
+            "Open", 
+            "Patch Available", 
+            "67d 4h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50d 22h 27m"
+        ]
+    ], 
+    "SQOOP-2381": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 26m"
+        ]
+    ]
+}

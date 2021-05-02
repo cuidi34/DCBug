@@ -1,0 +1,6036 @@
+{
+    "TOMAHAWK-1539": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 3h 52m"
+        ]
+    ], 
+    "TOMAHAWK-1531": [
+        [
+            "Open", 
+            "Resolved", 
+            "55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 20h 56m"
+        ]
+    ], 
+    "TOMAHAWK-1439": [
+        [
+            "Open", 
+            "Resolved", 
+            "58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "438d 22h 29m"
+        ]
+    ], 
+    "MYFACES-1273": [
+        [
+            "Open", 
+            "Closed", 
+            "10d 6h"
+        ]
+    ], 
+    "TOMAHAWK-1535": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 17h 43m"
+        ]
+    ], 
+    "TOMAHAWK-1534": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 18h 11m"
+        ]
+    ], 
+    "TOMAHAWK-1537": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 1h 12m"
+        ]
+    ], 
+    "TOMAHAWK-1536": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 10m"
+        ]
+    ], 
+    "TOMAHAWK-726": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "314d 3h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "385d 7h 43m"
+        ]
+    ], 
+    "TOMAHAWK-1287": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 3h 36m"
+        ]
+    ], 
+    "MYFACES-907": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 10h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 15h 40m"
+        ]
+    ], 
+    "TOMAHAWK-1329": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 8h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 11h 44m"
+        ]
+    ], 
+    "TOMAHAWK-1325": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 8s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 11h 24m"
+        ]
+    ], 
+    "TOMAHAWK-1326": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "21h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 16h 46m"
+        ]
+    ], 
+    "TOMAHAWK-1320": [
+        [
+            "Open", 
+            "Resolved", 
+            "284d 10h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 19h 56m"
+        ]
+    ], 
+    "TOMAHAWK-1321": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 15m"
+        ]
+    ], 
+    "TOMAHAWK-1289": [
+        [
+            "Open", 
+            "Closed", 
+            "50m 49s"
+        ]
+    ], 
+    "TOMAHAWK-1447": [
+        [
+            "Open", 
+            "Resolved", 
+            "190d 17h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 17h 11m"
+        ]
+    ], 
+    "TOMAHAWK-262": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "3d 8h 59m"
+        ]
+    ], 
+    "TOMAHAWK-1443": [
+        [
+            "Open", 
+            "Patch Available", 
+            "308d 13h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33d 13h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 4h 36m"
+        ]
+    ], 
+    "MYFACES-308": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 9h 38m"
+        ]
+    ], 
+    "MYFACES-305": [
+        [
+            "Open", 
+            "Closed", 
+            "21d 9h 26m"
+        ]
+    ], 
+    "TOMAHAWK-462": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1848d 14h 10m"
+        ]
+    ], 
+    "TOMAHAWK-468": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "63d 1h 1m"
+        ]
+    ], 
+    "TOMAHAWK-1240": [
+        [
+            "Open", 
+            "Resolved", 
+            "57m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "131d 14h 36m"
+        ]
+    ], 
+    "TOMAHAWK-942": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 5h 42m"
+        ]
+    ], 
+    "TOMAHAWK-1218": [
+        [
+            "Open", 
+            "Resolved", 
+            "32m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "159d 5h 29m"
+        ]
+    ], 
+    "TOMAHAWK-1219": [
+        [
+            "Open", 
+            "Closed", 
+            "80d 5h 9m"
+        ]
+    ], 
+    "TOMAHAWK-1210": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 11s"
+        ]
+    ], 
+    "TOMAHAWK-1211": [
+        [
+            "Open", 
+            "Resolved", 
+            "12m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "175d 18h 28m"
+        ]
+    ], 
+    "TOMAHAWK-1290": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 13h 2m"
+        ]
+    ], 
+    "TOMAHAWK-1198": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 8h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "98d 7h"
+        ]
+    ], 
+    "MYFACES-413": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 4m"
+        ]
+    ], 
+    "TOMAHAWK-215": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "16h 18m"
+        ]
+    ], 
+    "MYFACES-417": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 39m"
+        ]
+    ], 
+    "MYFACES-416": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 13h 26m"
+        ]
+    ], 
+    "MYFACES-415": [
+        [
+            "Open", 
+            "Resolved", 
+            "36m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 6h 50m"
+        ]
+    ], 
+    "TOMAHAWK-592": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1m 34s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 8h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1739d 34m"
+        ]
+    ], 
+    "TOMAHAWK-590": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 4h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "219d 13h 43m"
+        ]
+    ], 
+    "TOMAHAWK-596": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 2h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1028d 23h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 21m"
+        ]
+    ], 
+    "TOMAHAWK-17": [
+        [
+            "Open", 
+            "Resolved", 
+            "424d 23h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 18h 24m"
+        ]
+    ], 
+    "TOMAHAWK-15": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1018d 20h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "75d 11h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "123d 10h 23m"
+        ]
+    ], 
+    "TOMAHAWK-955": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "130d 2h 21m"
+        ]
+    ], 
+    "TOMAHAWK-1064": [
+        [
+            "Open", 
+            "Resolved", 
+            "730d 16h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "371d 19h 11m"
+        ]
+    ], 
+    "TOMAHAWK-898": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 16h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 7h 14m"
+        ]
+    ], 
+    "TOMAHAWK-1266": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 19h 47m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 6h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9d 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 17h 27m"
+        ]
+    ], 
+    "TOMAHAWK-1108": [
+        [
+            "Open", 
+            "Resolved", 
+            "642d 19h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 7h 14m"
+        ]
+    ], 
+    "TOMAHAWK-1260": [
+        [
+            "Open", 
+            "Resolved", 
+            "1661d 2h 29m"
+        ]
+    ], 
+    "TOMAHAWK-322": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 3h 12m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "292d 13h 1m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "139d 12h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 16h 10m"
+        ]
+    ], 
+    "MYFACES-520": [
+        [
+            "Open", 
+            "In Progress", 
+            "16m 30s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "10h 4m"
+        ]
+    ], 
+    "TOMAHAWK-66": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 11h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "180d 8h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "213d 8h 52m"
+        ]
+    ], 
+    "TOMAHAWK-64": [
+        [
+            "Open", 
+            "Patch Available", 
+            "748d 7h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "207d 11h 18m"
+        ]
+    ], 
+    "MYFACES-528": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 17m"
+        ]
+    ], 
+    "TOMAHAWK-764": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "54m 37s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "51m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "141d 18h 34m"
+        ]
+    ], 
+    "TOMAHAWK-765": [
+        [
+            "Open", 
+            "Resolved", 
+            "13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "141d 22h 9m"
+        ]
+    ], 
+    "TOMAHAWK-647": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "203d 11h 9m"
+        ]
+    ], 
+    "TOMAHAWK-644": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 6m"
+        ]
+    ], 
+    "TOMAHAWK-640": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "55m 52s"
+        ]
+    ], 
+    "MYFACES-639": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 3h 5m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "12s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "TOMAHAWK-136": [
+        [
+            "Open", 
+            "In Progress", 
+            "21d 20h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "5m 13s"
+        ]
+    ], 
+    "MYFACES-739": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 16h 20m"
+        ]
+    ], 
+    "MYFACES-636": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "6h 43m"
+        ]
+    ], 
+    "TOMAHAWK-1365": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 2h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 14h 33m"
+        ]
+    ], 
+    "TOMAHAWK-1400": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "505d 15h 26m"
+        ]
+    ], 
+    "TOMAHAWK-1403": [
+        [
+            "Open", 
+            "Resolved", 
+            "275d 4h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "285d 23h 2m"
+        ]
+    ], 
+    "TOMAHAWK-1402": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "74d 14h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 2h 18m"
+        ]
+    ], 
+    "TOMAHAWK-1405": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 9h 51m"
+        ]
+    ], 
+    "TOMAHAWK-1567": [
+        [
+            "Open", 
+            "Resolved", 
+            "42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 17h 27m"
+        ]
+    ], 
+    "TOMAHAWK-429": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "1d 16h 8m"
+        ]
+    ], 
+    "TOMAHAWK-1565": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "83d 16h 57m"
+        ]
+    ], 
+    "TOMAHAWK-1562": [
+        [
+            "Open", 
+            "Resolved", 
+            "53d 3h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 21h 44m"
+        ]
+    ], 
+    "TOMAHAWK-1563": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "136d 7h 21m"
+        ]
+    ], 
+    "TOMAHAWK-1560": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 9h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 18h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "128d 12h 25m"
+        ]
+    ], 
+    "TOMAHAWK-423": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "24d 9h 16m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "116d 13h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1732d 1h 15m"
+        ]
+    ], 
+    "MYFACES-404": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 15h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "6h 49m"
+        ]
+    ], 
+    "TOMAHAWK-390": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 53m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2d 3h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24s"
+        ]
+    ], 
+    "MYFACES-385": [
+        [
+            "Open", 
+            "Closed", 
+            "10h 57m"
+        ]
+    ], 
+    "MYFACES-118": [
+        [
+            "Open", 
+            "Closed", 
+            "80d 16h 47m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "82d 21h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "7d 2h 20m"
+        ]
+    ], 
+    "TOMAHAWK-869": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 19h 10m"
+        ]
+    ], 
+    "TOMAHAWK-161": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "91d 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1837d 16h 46m"
+        ]
+    ], 
+    "TOMAHAWK-258": [
+        [
+            "Open", 
+            "Patch Available", 
+            "315d 21h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 23h 48m"
+        ]
+    ], 
+    "TOMAHAWK-1314": [
+        [
+            "Open", 
+            "Closed", 
+            "10h 4m"
+        ]
+    ], 
+    "MYFACES-592": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 26m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 8h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "4d 1h 44m"
+        ]
+    ], 
+    "MYFACES-458": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 11h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "11d 18h 43m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "209d 19h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "465d 5h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "153d 4h 7m"
+        ]
+    ], 
+    "MYFACES-456": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 5h 10m"
+        ]
+    ], 
+    "TOMAHAWK-253": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "7d 22h 4m"
+        ]
+    ], 
+    "TOMAHAWK-1319": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 35m"
+        ]
+    ], 
+    "TOMAHAWK-554": [
+        [
+            "Open", 
+            "Closed", 
+            "26m 55s"
+        ]
+    ], 
+    "TOMAHAWK-1496": [
+        [
+            "Patch Available", 
+            "Open", 
+            "43s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 17h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "141d 7h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 3h 59m"
+        ]
+    ], 
+    "MYFACES-356": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 19h 30m"
+        ]
+    ], 
+    "TOMAHAWK-497": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 13h 33m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 2h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "8h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8m 4s"
+        ]
+    ], 
+    "TOMAHAWK-494": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 6h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1740d 13h 29m"
+        ]
+    ], 
+    "TOMAHAWK-493": [
+        [
+            "Open", 
+            "Patch Available", 
+            "89d 14h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 9h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1738d 19h 53m"
+        ]
+    ], 
+    "TOMAHAWK-491": [
+        [
+            "Open", 
+            "Patch Available", 
+            "112d 13h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 11h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "158d 14h 21m"
+        ]
+    ], 
+    "MYFACES-654": [
+        [
+            "Open", 
+            "Resolved", 
+            "1133d 4h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "545d 5h 49m"
+        ]
+    ], 
+    "TOMAHAWK-50": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54d 9h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "209d 14h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1737d 22h 57m"
+        ]
+    ], 
+    "TOMAHAWK-695": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 12h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "176d 17h 21m"
+        ]
+    ], 
+    "TOMAHAWK-917": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "548d 5h 7m"
+        ]
+    ], 
+    "TOMAHAWK-916": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 8h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 4h 2m"
+        ]
+    ], 
+    "MYFACES-688": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 2h 7m"
+        ]
+    ], 
+    "TOMAHAWK-914": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 21h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 10h 37m"
+        ]
+    ], 
+    "TOMAHAWK-910": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 2h 54m"
+        ]
+    ], 
+    "TOMAHAWK-1637": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 13h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 20h 3m"
+        ]
+    ], 
+    "TOMAHAWK-1143": [
+        [
+            "Open", 
+            "Resolved", 
+            "232d 6h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "16d 12h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 15h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 5h 22m"
+        ]
+    ], 
+    "TOMAHAWK-1633": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 9h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 54m"
+        ]
+    ], 
+    "TOMAHAWK-1147": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 17h 3m"
+        ]
+    ], 
+    "TOMAHAWK-498": [
+        [
+            "Open", 
+            "Resolved", 
+            "94d 21h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1740d 13h 53m"
+        ]
+    ], 
+    "TOMAHAWK-1388": [
+        [
+            "Open", 
+            "In Progress", 
+            "57m 3s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "13h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 57m"
+        ]
+    ], 
+    "TOMAHAWK-1389": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35d 18h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "707d 7h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 6h 19m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "152d 18h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 1h 13m"
+        ]
+    ], 
+    "TOMAHAWK-1384": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "160d 17h 25m"
+        ]
+    ], 
+    "TOMAHAWK-1383": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 20h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 6h 53m"
+        ]
+    ], 
+    "TOMAHAWK-1381": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "178d 9h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 22h 5m"
+        ]
+    ], 
+    "TOMAHAWK-986": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "477d 14h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1479": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "465d 22h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 1h 43m"
+        ]
+    ], 
+    "TOMAHAWK-1035": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 22h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "385d 7h 15m"
+        ]
+    ], 
+    "TOMAHAWK-605": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "219d 29m"
+        ]
+    ], 
+    "TOMAHAWK-170": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "TOMAHAWK-833": [
+        [
+            "Open", 
+            "Closed", 
+            "15m 41s"
+        ]
+    ], 
+    "TOMAHAWK-172": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "27d 5h 9m"
+        ]
+    ], 
+    "TOMAHAWK-1038": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "431d 21h 44m"
+        ]
+    ], 
+    "TOMAHAWK-176": [
+        [
+            "Open", 
+            "Patch Available", 
+            "95d 1h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "106d 13h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1737d 21h 20m"
+        ]
+    ], 
+    "MYFACES-675": [
+        [
+            "Open", 
+            "Closed", 
+            "26m 35s"
+        ]
+    ], 
+    "TOMAHAWK-1487": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "236d 2h 15m"
+        ]
+    ], 
+    "TOMAHAWK-1520": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 4h 32m"
+        ]
+    ], 
+    "MYFACES-1049": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 3h 11m"
+        ]
+    ], 
+    "TOMAHAWK-181": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 17h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "2d 5h 39m"
+        ]
+    ], 
+    "TOMAHAWK-738": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1d 22h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "156d 15h 55m"
+        ]
+    ], 
+    "TOMAHAWK-1129": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "249d 12h 57m"
+        ]
+    ], 
+    "MYFACES-134": [
+        [
+            "Open", 
+            "Closed", 
+            "102d 5m"
+        ]
+    ], 
+    "TOMAHAWK-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 5h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "TOMAHAWK-104": [
+        [
+            "Open", 
+            "Patch Available", 
+            "87d 1h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "5d 23h 37m"
+        ]
+    ], 
+    "MYFACES-332": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 1h 23m"
+        ]
+    ], 
+    "TOMAHAWK-1359": [
+        [
+            "Open", 
+            "Resolved", 
+            "924d 14h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 19h 30m"
+        ]
+    ], 
+    "TOMAHAWK-1358": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 19s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "392d 13h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "315d 9h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1294": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "28d 5h 1m"
+        ]
+    ], 
+    "MYFACES-330": [
+        [
+            "Open", 
+            "In Progress", 
+            "19d 2h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "17m 20s"
+        ]
+    ], 
+    "TOMAHAWK-1351": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 10h 8m"
+        ]
+    ], 
+    "TOMAHAWK-1355": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 5h 58m"
+        ]
+    ], 
+    "TOMAHAWK-1357": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 6h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 12h 34m"
+        ]
+    ], 
+    "TOMAHAWK-189": [
+        [
+            "Open", 
+            "Resolved", 
+            "44m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "TOMAHAWK-1599": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 3h 22m"
+        ]
+    ], 
+    "TOMAHAWK-1598": [
+        [
+            "Open", 
+            "Resolved", 
+            "50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 19h 52m"
+        ]
+    ], 
+    "TOMAHAWK-1597": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 6h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 3h 17m"
+        ]
+    ], 
+    "TOMAHAWK-1595": [
+        [
+            "Open", 
+            "Resolved", 
+            "552d 1h 18m"
+        ]
+    ], 
+    "TOMAHAWK-1592": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 20h 33m"
+        ]
+    ], 
+    "TOMAHAWK-450": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "5d 12h 16m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "116d 13h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1401d 8h 18m"
+        ]
+    ], 
+    "TOMAHAWK-1188": [
+        [
+            "Open", 
+            "Closed", 
+            "180d 13h 22m"
+        ]
+    ], 
+    "MYFACES-791": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 1h 37m"
+        ]
+    ], 
+    "TOMAHAWK-1184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "5m 3s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "8d 2h 7m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "34s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "208d 15h 30m"
+        ]
+    ], 
+    "TOMAHAWK-1186": [
+        [
+            "Open", 
+            "Resolved", 
+            "39m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "216d 11h 20m"
+        ]
+    ], 
+    "TOMAHAWK-1187": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 16h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "209d 8h 36m"
+        ]
+    ], 
+    "TOMAHAWK-1182": [
+        [
+            "Open", 
+            "Resolved", 
+            "279d 8h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 13h 5m"
+        ]
+    ], 
+    "TOMAHAWK-1183": [
+        [
+            "Open", 
+            "Resolved", 
+            "246d 13h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 11h 12m"
+        ]
+    ], 
+    "TOMAHAWK-813": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "TOMAHAWK-817": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 20h 34m"
+        ]
+    ], 
+    "TOMAHAWK-818": [
+        [
+            "Patch Available", 
+            "Open", 
+            "32s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "37m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "47m 21s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "102d 3h 55m"
+        ]
+    ], 
+    "TOMAHAWK-880": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1269d 5h 44m"
+        ]
+    ], 
+    "MYFACES-206": [
+        [
+            "Open", 
+            "Closed", 
+            "111d 20h 50m"
+        ]
+    ], 
+    "TOMAHAWK-205": [
+        [
+            "Open", 
+            "Patch Available", 
+            "365d 14h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "322d 19h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "903d 13h 20m"
+        ]
+    ], 
+    "TOMAHAWK-203": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 19h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "3h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "10d 7h 34m"
+        ]
+    ], 
+    "TOMAHAWK-1176": [
+        [
+            "Open", 
+            "Closed", 
+            "41d 17h 2m"
+        ]
+    ], 
+    "MYFACES-60": [
+        [
+            "Open", 
+            "Resolved", 
+            "51d 8h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 48m"
+        ]
+    ], 
+    "TOMAHAWK-1639": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 7h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 18h 30m"
+        ]
+    ], 
+    "TOMAHAWK-953": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "522d 7h 7m"
+        ]
+    ], 
+    "TOMAHAWK-1074": [
+        [
+            "Open", 
+            "Resolved", 
+            "27m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 12h 21m"
+        ]
+    ], 
+    "TOMAHAWK-1076": [
+        [
+            "Open", 
+            "Closed", 
+            "146d 19h 45m"
+        ]
+    ], 
+    "TOMAHAWK-1170": [
+        [
+            "Open", 
+            "Resolved", 
+            "275d 3h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 10h 54m"
+        ]
+    ], 
+    "TOMAHAWK-46": [
+        [
+            "Open", 
+            "Patch Available", 
+            "120d 10h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "111d 6h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1738d 50m"
+        ]
+    ], 
+    "TOMAHAWK-886": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 21m"
+        ]
+    ], 
+    "TOMAHAWK-1174": [
+        [
+            "Open", 
+            "Closed", 
+            "4h"
+        ]
+    ], 
+    "TOMAHAWK-882": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "100d 23h 25m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "512d 4h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 12h 12m"
+        ]
+    ], 
+    "TOMAHAWK-1179": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "48d 4h 38m"
+        ]
+    ], 
+    "TOMAHAWK-97": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47d 2h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "190d 22h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1737d 22h 1m"
+        ]
+    ], 
+    "TOMAHAWK-96": [
+        [
+            "Open", 
+            "Resolved", 
+            "1909d 5h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 19h 29m"
+        ]
+    ], 
+    "TOMAHAWK-1631": [
+        [
+            "Open", 
+            "Resolved", 
+            "74d 16h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 19h 53m"
+        ]
+    ], 
+    "MYFACES-531": [
+        [
+            "Open", 
+            "Closed", 
+            "18m 55s"
+        ]
+    ], 
+    "MYFACES-1000": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 17m"
+        ]
+    ], 
+    "TOMAHAWK-1009": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 18h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "454d 15h 28m"
+        ]
+    ], 
+    "TOMAHAWK-1192": [
+        [
+            "Open", 
+            "Resolved", 
+            "10m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "208d 2h 28m"
+        ]
+    ], 
+    "TOMAHAWK-672": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "186d 5h 45m"
+        ]
+    ], 
+    "TOMAHAWK-676": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 4h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1739d 1h 20m"
+        ]
+    ], 
+    "MYFACES-621": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 19m"
+        ]
+    ], 
+    "MYFACES-622": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 21h 24m"
+        ]
+    ], 
+    "TOMAHAWK-1418": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 15h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 22h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1414": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 36s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 14h 9m"
+        ]
+    ], 
+    "TOMAHAWK-1553": [
+        [
+            "Open", 
+            "Resolved", 
+            "37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "225d 19h 11m"
+        ]
+    ], 
+    "TOMAHAWK-1551": [
+        [
+            "Open", 
+            "Resolved", 
+            "155d 14h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 31m"
+        ]
+    ], 
+    "TOMAHAWK-1557": [
+        [
+            "Open", 
+            "Resolved", 
+            "160d 8h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 22h 46m"
+        ]
+    ], 
+    "TOMAHAWK-418": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 6m"
+        ]
+    ], 
+    "TOMAHAWK-870": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 2h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 1h 20m"
+        ]
+    ], 
+    "TOMAHAWK-852": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 4h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 20h 37m"
+        ]
+    ], 
+    "MYFACES-412": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 2h 19m"
+        ]
+    ], 
+    "MYFACES-928": [
+        [
+            "Open", 
+            "Closed", 
+            "50d 3h 36m"
+        ]
+    ], 
+    "TOMAHAWK-1306": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "68d 3h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 13h 47m"
+        ]
+    ], 
+    "TOMAHAWK-1307": [
+        [
+            "Open", 
+            "Patch Available", 
+            "96d 4h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "229d 1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 1h 11m"
+        ]
+    ], 
+    "TOMAHAWK-249": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14s"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "7h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "28s"
+        ]
+    ], 
+    "TOMAHAWK-1302": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "740d 10h 25m"
+        ]
+    ], 
+    "TOMAHAWK-1303": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 16h 53m"
+        ]
+    ], 
+    "TOMAHAWK-1300": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 3h 28m"
+        ]
+    ], 
+    "MYFACES-445": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 22h 57m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 4h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "22d 10h 49m"
+        ]
+    ], 
+    "TOMAHAWK-246": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 9m"
+        ]
+    ], 
+    "TOMAHAWK-245": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24s"
+        ]
+    ], 
+    "TOMAHAWK-1309": [
+        [
+            "Open", 
+            "Closed", 
+            "34d 2h 49m"
+        ]
+    ], 
+    "MYFACES-360": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 3h 35m"
+        ]
+    ], 
+    "TOMAHAWK-565": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "MYFACES-286": [
+        [
+            "Open", 
+            "Closed", 
+            "78d 22h 48m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 32m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "55s"
+        ]
+    ], 
+    "TOMAHAWK-569": [
+        [
+            "Open", 
+            "Resolved", 
+            "54d 13h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1740d 14h 50m"
+        ]
+    ], 
+    "MYFACES-282": [
+        [
+            "Open", 
+            "Closed", 
+            "54d 3h 30m"
+        ]
+    ], 
+    "TOMAHAWK-689": [
+        [
+            "Open", 
+            "Closed", 
+            "444d 15h 12m"
+        ]
+    ], 
+    "TOMAHAWK-47": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 20h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53d 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 21h 54m"
+        ]
+    ], 
+    "TOMAHAWK-41": [
+        [
+            "Open", 
+            "Patch Available", 
+            "200d 21h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "11d 12h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "7m 22s"
+        ]
+    ], 
+    "TOMAHAWK-683": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 7h 38m"
+        ]
+    ], 
+    "TOMAHAWK-682": [
+        [
+            "Patch Available", 
+            "Open", 
+            "5m 10s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "1d 7h 2m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "23h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "176d 21h 21m"
+        ]
+    ], 
+    "TOMAHAWK-685": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "182d 1h 44m"
+        ]
+    ], 
+    "TOMAHAWK-922": [
+        [
+            "Open", 
+            "Patch Available", 
+            "491d 16h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "338d 17h 5m"
+        ]
+    ], 
+    "TOMAHAWK-1609": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 6h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 4h 5m"
+        ]
+    ], 
+    "TOMAHAWK-1608": [
+        [
+            "Open", 
+            "Resolved", 
+            "99d 7h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 4h 29m"
+        ]
+    ], 
+    "MYFACES-423": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 47m"
+        ]
+    ], 
+    "MYFACES-934": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 7h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 18h 49m"
+        ]
+    ], 
+    "TOMAHAWK-928": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 2h 32m"
+        ]
+    ], 
+    "TOMAHAWK-929": [
+        [
+            "Open", 
+            "Patch Available", 
+            "730d 16h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "75d 11h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 7h 14m"
+        ]
+    ], 
+    "TOMAHAWK-1607": [
+        [
+            "Open", 
+            "Resolved", 
+            "346d 16h 12m"
+        ]
+    ], 
+    "TOMAHAWK-1234": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 12h 48m"
+        ]
+    ], 
+    "MYFACES-1876": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 11m"
+        ]
+    ], 
+    "MYFACES-1510": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7h 11m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "61d 21h 34m"
+        ]
+    ], 
+    "TOMAHAWK-3": [
+        [
+            "Open", 
+            "Resolved", 
+            "1248d 3h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 1h 43m"
+        ]
+    ], 
+    "TOMAHAWK-777": [
+        [
+            "Open", 
+            "Resolved", 
+            "240d 16h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "20d 10h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "88d 5h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "313d 13h 18m"
+        ]
+    ], 
+    "TOMAHAWK-6": [
+        [
+            "Open", 
+            "Resolved", 
+            "783d 12h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "279d 13h 31m"
+        ]
+    ], 
+    "TOMAHAWK-5": [
+        [
+            "Open", 
+            "Patch Available", 
+            "117d 8h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "4d 22h 1m"
+        ]
+    ], 
+    "MYFACES-346": [
+        [
+            "Open", 
+            "Closed", 
+            "21m 27s"
+        ]
+    ], 
+    "TOMAHAWK-184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "64d 2h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39d 22h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1830d 18h 7m"
+        ]
+    ], 
+    "TOMAHAWK-187": [
+        [
+            "Patch Available", 
+            "Open", 
+            "37s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 4h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "3d 9h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1044": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14h 9m"
+        ]
+    ], 
+    "TOMAHAWK-1047": [
+        [
+            "Patch Available", 
+            "Open", 
+            "13d 2h 31m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 21h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "385d 7h 27m"
+        ]
+    ], 
+    "TOMAHAWK-1046": [
+        [
+            "Open", 
+            "Closed", 
+            "356d 13h 36m"
+        ]
+    ], 
+    "TOMAHAWK-774": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "134d 18h 31m"
+        ]
+    ], 
+    "TOMAHAWK-1123": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 7h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "339d 11h 17m"
+        ]
+    ], 
+    "TOMAHAWK-349": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 12h 45m"
+        ]
+    ], 
+    "TOMAHAWK-1337": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 10h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 11h 28m"
+        ]
+    ], 
+    "TOMAHAWK-1517": [
+        [
+            "Open", 
+            "Resolved", 
+            "33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "114d 16h 38m"
+        ]
+    ], 
+    "TOMAHAWK-1516": [
+        [
+            "Open", 
+            "Resolved", 
+            "32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "114d 20h 33m"
+        ]
+    ], 
+    "TOMAHAWK-1515": [
+        [
+            "Open", 
+            "Resolved", 
+            "56d 5h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 21h"
+        ]
+    ], 
+    "TOMAHAWK-1510": [
+        [
+            "Open", 
+            "Resolved", 
+            "57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "137d 3h 22m"
+        ]
+    ], 
+    "TOMAHAWK-1519": [
+        [
+            "Open", 
+            "Resolved", 
+            "25m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 5h 23m"
+        ]
+    ], 
+    "TOMAHAWK-803": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 15h 9m"
+        ]
+    ], 
+    "TOMAHAWK-117": [
+        [
+            "Open", 
+            "Patch Available", 
+            "716d 13h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "1h 36m"
+        ]
+    ], 
+    "MYFACES-840": [
+        [
+            "Open", 
+            "Closed", 
+            "72d 8h 14m"
+        ]
+    ], 
+    "TOMAHAWK-1342": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 8h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 11h 22m"
+        ]
+    ], 
+    "TOMAHAWK-1343": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 5h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "637d 5h 15m"
+        ]
+    ], 
+    "TOMAHAWK-1340": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2h"
+        ]
+    ], 
+    "TOMAHAWK-1341": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "4h 39m"
+        ]
+    ], 
+    "TOMAHAWK-1346": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 7h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 14h 3m"
+        ]
+    ], 
+    "TOMAHAWK-1347": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 7h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 11h 57m"
+        ]
+    ], 
+    "TOMAHAWK-1344": [
+        [
+            "Open", 
+            "Resolved", 
+            "612d 6h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 7h 45m"
+        ]
+    ], 
+    "TOMAHAWK-1345": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 11h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 13h 6m"
+        ]
+    ], 
+    "TOMAHAWK-1463": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "308d 10h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 53m"
+        ]
+    ], 
+    "MYFACES-320": [
+        [
+            "Open", 
+            "Closed", 
+            "100d 17h 56m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "44d 5h 18m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "2d 18h 50m"
+        ]
+    ], 
+    "TOMAHAWK-524": [
+        [
+            "Open", 
+            "Resolved", 
+            "14m 53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "TOMAHAWK-1460": [
+        [
+            "Open", 
+            "Resolved", 
+            "328d 1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "14d 10h 22m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "15h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 19h 4m"
+        ]
+    ], 
+    "TOMAHAWK-520": [
+        [
+            "Open", 
+            "Patch Available", 
+            "89d 15h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "176d 11h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "523d 9h 34m"
+        ]
+    ], 
+    "TOMAHAWK-521": [
+        [
+            "Open", 
+            "Patch Available", 
+            "112d 16h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 11h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2m 43s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 16h 11m"
+        ]
+    ], 
+    "MYFACES-329": [
+        [
+            "Open", 
+            "Closed", 
+            "11h 12m"
+        ]
+    ], 
+    "TOMAHAWK-1581": [
+        [
+            "Open", 
+            "Resolved", 
+            "42s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 1h 34m"
+        ]
+    ], 
+    "TOMAHAWK-1469": [
+        [
+            "Open", 
+            "Resolved", 
+            "144d 5h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "148d 19h 52m"
+        ]
+    ], 
+    "TOMAHAWK-1584": [
+        [
+            "Open", 
+            "Resolved", 
+            "45s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 21h 25m"
+        ]
+    ], 
+    "TOMAHAWK-443": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 18h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1739d 22h 48m"
+        ]
+    ], 
+    "MYFACES-323": [
+        [
+            "Open", 
+            "Closed", 
+            "40d 22h 39m"
+        ]
+    ], 
+    "TOMAHAWK-966": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "501d 20h 28m"
+        ]
+    ], 
+    "TOMAHAWK-964": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 16h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "89d 19h 23m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "4d 4h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "379d 15h 48m"
+        ]
+    ], 
+    "TOMAHAWK-962": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "36d 5h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "473d 12h 26m"
+        ]
+    ], 
+    "TOMAHAWK-961": [
+        [
+            "Open", 
+            "Resolved", 
+            "1435d 2h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 19h 51m"
+        ]
+    ], 
+    "TOMAHAWK-804": [
+        [
+            "Open", 
+            "Resolved", 
+            "21m 29s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 18h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1645": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 24s"
+        ]
+    ], 
+    "TOMAHAWK-1644": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 20h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "31m 39s"
+        ]
+    ], 
+    "TOMAHAWK-1643": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 16h 39m"
+        ]
+    ], 
+    "TOMAHAWK-1642": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 3h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 13m"
+        ]
+    ], 
+    "TOMAHAWK-968": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "474d 11h 28m"
+        ]
+    ], 
+    "TOMAHAWK-969": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25d 8h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "471d 13h 49m"
+        ]
+    ], 
+    "MYFACES-2035": [
+        [
+            "Open", 
+            "Closed", 
+            "13d 23h 31m"
+        ]
+    ], 
+    "TOMAHAWK-236": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "122d 1h 24m"
+        ]
+    ], 
+    "MYFACES-432": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 2h 45m"
+        ]
+    ], 
+    "TOMAHAWK-238": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1573d 23h 26m"
+        ]
+    ], 
+    "MYFACES-569": [
+        [
+            "Open", 
+            "Closed", 
+            "26m 22s"
+        ]
+    ], 
+    "TOMAHAWK-36": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 11h 42m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "9h 17m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "100d 11h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "160d 9h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "43d 17h 49m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "139d 20h 30m"
+        ]
+    ], 
+    "TOMAHAWK-33": [
+        [
+            "Open", 
+            "Patch Available", 
+            "426d 10h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "153d 2h 46m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "801d 8h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "TOMAHAWK-1085": [
+        [
+            "Open", 
+            "Closed", 
+            "20m 10s"
+        ]
+    ], 
+    "TOMAHAWK-1087": [
+        [
+            "Open", 
+            "Patch Available", 
+            "66d 8h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "233d 4h 26m"
+        ]
+    ], 
+    "MYFACES-508": [
+        [
+            "Open", 
+            "Closed", 
+            "16m 39s"
+        ]
+    ], 
+    "TOMAHAWK-1167": [
+        [
+            "Open", 
+            "Closed", 
+            "177d 7h 25m"
+        ]
+    ], 
+    "TOMAHAWK-1168": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 47s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "264d 17h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1169": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "102d 8h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 12h 40m"
+        ]
+    ], 
+    "TOMAHAWK-414": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 42m"
+        ]
+    ], 
+    "TOMAHAWK-80": [
+        [
+            "Open", 
+            "In Progress", 
+            "345d 11h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 2h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "188d 6h 29m"
+        ]
+    ], 
+    "TOMAHAWK-412": [
+        [
+            "Open", 
+            "Closed", 
+            "134d 10h 33m"
+        ]
+    ], 
+    "MYFACES-1543": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "535d 11h 59m"
+        ]
+    ], 
+    "TOMAHAWK-1109": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 12h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "338d 16h 36m"
+        ]
+    ], 
+    "TOMAHAWK-1625": [
+        [
+            "Open", 
+            "Resolved", 
+            "44s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 17h 1m"
+        ]
+    ], 
+    "TOMAHAWK-748": [
+        [
+            "Open", 
+            "Resolved", 
+            "26d 10h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 5h 48m"
+        ]
+    ], 
+    "TOMAHAWK-749": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "50d 8h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "103d 17h 12m"
+        ]
+    ], 
+    "TOMAHAWK-745": [
+        [
+            "Open", 
+            "Resolved", 
+            "28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 2h 2m"
+        ]
+    ], 
+    "TOMAHAWK-660": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 20h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "185d 11h 57m"
+        ]
+    ], 
+    "TOMAHAWK-1016": [
+        [
+            "Open", 
+            "Resolved", 
+            "56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "455d 11h 50m"
+        ]
+    ], 
+    "TOMAHAWK-1014": [
+        [
+            "Open", 
+            "Closed", 
+            "390d 5h 22m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1h 41m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "238d 11h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 9h 49m"
+        ]
+    ], 
+    "TOMAHAWK-668": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 22h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1739d 1h 1m"
+        ]
+    ], 
+    "TOMAHAWK-982": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "477d 17h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 8h 58m"
+        ]
+    ], 
+    "TOMAHAWK-152": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "TOMAHAWK-150": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 6h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "15h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "3d 8h 58m"
+        ]
+    ], 
+    "TOMAHAWK-1151": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 49s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 16h 59m"
+        ]
+    ], 
+    "MYFACES-615": [
+        [
+            "Open", 
+            "Closed", 
+            "19h 33m"
+        ]
+    ], 
+    "MYFACES-2744": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 17h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "13d 14h 25m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 12h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18h 3m"
+        ]
+    ], 
+    "TOMAHAWK-1426": [
+        [
+            "Open", 
+            "Resolved", 
+            "376d 13h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "103d 21h 59m"
+        ]
+    ], 
+    "TOMAHAWK-1424": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 10h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 1h 51m"
+        ]
+    ], 
+    "TOMAHAWK-1549": [
+        [
+            "Open", 
+            "Resolved", 
+            "59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 2h 40m"
+        ]
+    ], 
+    "TOMAHAWK-1420": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 20h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 22h 4m"
+        ]
+    ], 
+    "TOMAHAWK-1544": [
+        [
+            "Patch Available", 
+            "Open", 
+            "16s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 4h 4m"
+        ]
+    ], 
+    "TOMAHAWK-1545": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 6h 3m"
+        ]
+    ], 
+    "TOMAHAWK-1540": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 3h 26m"
+        ]
+    ], 
+    "TOMAHAWK-1541": [
+        [
+            "Open", 
+            "Resolved", 
+            "34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 2h 30m"
+        ]
+    ], 
+    "TOMAHAWK-1429": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 53m"
+        ]
+    ], 
+    "TOMAHAWK-1428": [
+        [
+            "Open", 
+            "Resolved", 
+            "56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21h 21m"
+        ]
+    ], 
+    "TOMAHAWK-401": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 2h 54m"
+        ]
+    ], 
+    "TOMAHAWK-405": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 14h 25m"
+        ]
+    ], 
+    "TOMAHAWK-406": [
+        [
+            "Open", 
+            "Closed", 
+            "785d 22h 38m"
+        ]
+    ], 
+    "MYFACES-1065": [
+        [
+            "Open", 
+            "Closed", 
+            "8m 14s"
+        ]
+    ], 
+    "MYFACES-1308": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "TOMAHAWK-834": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 44s"
+        ]
+    ], 
+    "TOMAHAWK-1611": [
+        [
+            "Open", 
+            "Resolved", 
+            "35d 21h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 23h 4m"
+        ]
+    ], 
+    "MYFACES-931": [
+        [
+            "Open", 
+            "Closed", 
+            "8h 58m"
+        ]
+    ], 
+    "TOMAHAWK-845": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 4h 52m"
+        ]
+    ], 
+    "TOMAHAWK-832": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 31s"
+        ]
+    ], 
+    "TOMAHAWK-848": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 20h 29m"
+        ]
+    ], 
+    "TOMAHAWK-1208": [
+        [
+            "Open", 
+            "Resolved", 
+            "460d 4h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 7h 28m"
+        ]
+    ], 
+    "TOMAHAWK-1332": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 7h 43m"
+        ]
+    ], 
+    "TOMAHAWK-1331": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "262d 12h 2m"
+        ]
+    ], 
+    "TOMAHAWK-579": [
+        [
+            "Open", 
+            "Patch Available", 
+            "39d 20h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "58m 40s"
+        ]
+    ], 
+    "TOMAHAWK-1336": [
+        [
+            "Open", 
+            "Resolved", 
+            "37d 9h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 14h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1335": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 5h 47m"
+        ]
+    ], 
+    "TOMAHAWK-1339": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 19h 19m"
+        ]
+    ], 
+    "TOMAHAWK-1338": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 42m"
+        ]
+    ], 
+    "TOMAHAWK-570": [
+        [
+            "Open", 
+            "Resolved", 
+            "560d 21h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "903d 13h 16m"
+        ]
+    ], 
+    "MYFACES-271": [
+        [
+            "Open", 
+            "Closed", 
+            "73d 11h 26m"
+        ]
+    ], 
+    "TOMAHAWK-1648": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 19s"
+        ]
+    ], 
+    "TOMAHAWK-479": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1840d 49m"
+        ]
+    ], 
+    "TOMAHAWK-932": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 1m"
+        ]
+    ], 
+    "TOMAHAWK-1614": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 17m"
+        ]
+    ], 
+    "TOMAHAWK-835": [
+        [
+            "Open", 
+            "Closed", 
+            "2m 14s"
+        ]
+    ], 
+    "TOMAHAWK-1610": [
+        [
+            "Open", 
+            "Resolved", 
+            "84d 2h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 2h 9m"
+        ]
+    ], 
+    "TOMAHAWK-831": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 6s"
+        ]
+    ], 
+    "TOMAHAWK-1209": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 51s"
+        ]
+    ], 
+    "TOMAHAWK-1613": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 4h 43m"
+        ]
+    ], 
+    "TOMAHAWK-1204": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 5s"
+        ]
+    ], 
+    "TOMAHAWK-1200": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 9h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 12h 48m"
+        ]
+    ], 
+    "TOMAHAWK-581": [
+        [
+            "Open", 
+            "Resolved", 
+            "46d 9h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1740d 14h 58m"
+        ]
+    ], 
+    "TOMAHAWK-582": [
+        [
+            "Open", 
+            "Resolved", 
+            "47d 9h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1739d 20m"
+        ]
+    ], 
+    "TOMAHAWK-589": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 1h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "219d 14h 13m"
+        ]
+    ], 
+    "MYFACES-388": [
+        [
+            "Open", 
+            "In Progress", 
+            "14d 13h 1m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "4m 50s"
+        ]
+    ], 
+    "TOMAHAWK-628": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 15h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 27m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "54d 12h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1740d 15h 43m"
+        ]
+    ], 
+    "TOMAHAWK-780": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 19h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1350d 11h 35m"
+        ]
+    ], 
+    "TOMAHAWK-784": [
+        [
+            "Open", 
+            "Resolved", 
+            "186d 22h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "470d 15h 19m"
+        ]
+    ], 
+    "TOMAHAWK-1052": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "415d 12h 14m"
+        ]
+    ], 
+    "TOMAHAWK-1053": [
+        [
+            "Open", 
+            "Closed", 
+            "31d 9h 47m"
+        ]
+    ], 
+    "TOMAHAWK-1050": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35d 5h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "385d 7h 33m"
+        ]
+    ], 
+    "TOMAHAWK-1055": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "415d 8h 45m"
+        ]
+    ], 
+    "MYFACES-1590": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 26s"
+        ]
+    ], 
+    "TOMAHAWK-1111": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 59m"
+        ]
+    ], 
+    "TOMAHAWK-1110": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 4h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "236d 10h 58m"
+        ]
+    ], 
+    "TOMAHAWK-1116": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 23h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "243d 16h 21m"
+        ]
+    ], 
+    "MYFACES-491": [
+        [
+            "Open", 
+            "Closed", 
+            "3m 29s"
+        ]
+    ], 
+    "TOMAHAWK-1509": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "137d 16h 36m"
+        ]
+    ], 
+    "TOMAHAWK-715": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1401d 7h 22m"
+        ]
+    ], 
+    "TOMAHAWK-714": [
+        [
+            "Open", 
+            "Closed", 
+            "8m 10s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "176d 21h 30m"
+        ]
+    ], 
+    "TOMAHAWK-717": [
+        [
+            "Open", 
+            "Closed", 
+            "670d 3h 28m"
+        ]
+    ], 
+    "TOMAHAWK-710": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 10h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "TOMAHAWK-656": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 12h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "TOMAHAWK-650": [
+        [
+            "Open", 
+            "Patch Available", 
+            "58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "TOMAHAWK-651": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 17h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 21h 29m"
+        ]
+    ], 
+    "TOMAHAWK-652": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1m 14s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 17h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 5h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1739d 44m"
+        ]
+    ], 
+    "TOMAHAWK-128": [
+        [
+            "Open", 
+            "Patch Available", 
+            "174d 15h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "62d 11h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1737d 21h 21m"
+        ]
+    ], 
+    "MYFACES-721": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 27m"
+        ]
+    ], 
+    "MYFACES-2895": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 13h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 23h 44m"
+        ]
+    ], 
+    "MYFACES-881": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 12h 17m"
+        ]
+    ], 
+    "TOMAHAWK-1376": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 30s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "199d 1h 25m"
+        ]
+    ], 
+    "TOMAHAWK-1374": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 3h 36m"
+        ]
+    ], 
+    "MYFACES-871": [
+        [
+            "Open", 
+            "Resolved", 
+            "41d 21h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 17h 19m"
+        ]
+    ], 
+    "TOMAHAWK-1372": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 13h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 1h 50m"
+        ]
+    ], 
+    "TOMAHAWK-1371": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 11h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "207d 1h 23m"
+        ]
+    ], 
+    "TOMAHAWK-1475": [
+        [
+            "Open", 
+            "Resolved", 
+            "136d 17h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "148d 19h 51m"
+        ]
+    ], 
+    "TOMAHAWK-1379": [
+        [
+            "Open", 
+            "Resolved", 
+            "72d 18h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 5h 54m"
+        ]
+    ], 
+    "TOMAHAWK-531": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "69d 11h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1740d 14h 20m"
+        ]
+    ], 
+    "TOMAHAWK-530": [
+        [
+            "Patch Available", 
+            "Open", 
+            "28d 8h 20m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "86d 15h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "284d 8h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "385d 7h 51m"
+        ]
+    ], 
+    "TOMAHAWK-1577": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 5h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 20h 28m"
+        ]
+    ], 
+    "TOMAHAWK-1576": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 1h 54m"
+        ]
+    ], 
+    "TOMAHAWK-1571": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 17h 20m"
+        ]
+    ], 
+    "TOMAHAWK-534": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "76d 14h 43m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "22h 47m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1401d 8h 18m"
+        ]
+    ], 
+    "TOMAHAWK-1573": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 2h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 2h 7m"
+        ]
+    ], 
+    "MYFACES-331": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 16h 36m"
+        ]
+    ], 
+    "TOMAHAWK-433": [
+        [
+            "Closed", 
+            "Reopened", 
+            "59m 41s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "3h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "27s"
+        ], 
+        [
+            "Open", 
+            "Closed", 
+            "1h 5m"
+        ]
+    ], 
+    "TOMAHAWK-1578": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 21h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "70d 19h 12m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "249d 10h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 6h 19m"
+        ]
+    ], 
+    "TOMAHAWK-436": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 17h 42m"
+        ]
+    ], 
+    "TOMAHAWK-437": [
+        [
+            "Open", 
+            "In Progress", 
+            "33d 39m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1831d 20h 41m"
+        ]
+    ], 
+    "TOMAHAWK-1279": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "TOMAHAWK-1574": [
+        [
+            "Open", 
+            "Closed", 
+            "31d 1h 25m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "18h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "2d 21h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 4h 10m"
+        ]
+    ], 
+    "TOMAHAWK-971": [
+        [
+            "Open", 
+            "Patch Available", 
+            "85d 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "405d 12h 22m"
+        ]
+    ], 
+    "TOMAHAWK-974": [
+        [
+            "Open", 
+            "Resolved", 
+            "63d 23h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "427d 21h 14m"
+        ]
+    ], 
+    "TOMAHAWK-979": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 16h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "473d 14h 37m"
+        ]
+    ], 
+    "TOMAHAWK-872": [
+        [
+            "Open", 
+            "Resolved", 
+            "106d 5h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "481d 4h 48m"
+        ]
+    ], 
+    "TOMAHAWK-1653": [
+        [
+            "Open", 
+            "Resolved", 
+            "52m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17h 4m"
+        ]
+    ], 
+    "TOMAHAWK-1029": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 8h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "420d 22h 18m"
+        ]
+    ], 
+    "MYFACES-580": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 13h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "30m 7s"
+        ]
+    ], 
+    "MYFACES-429": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 2h 8m"
+        ]
+    ], 
+    "MYFACES-586": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 8m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "2m 53s"
+        ]
+    ], 
+    "MYFACES-588": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 2h 8m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 1h 57m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "1d 22h 12m"
+        ]
+    ], 
+    "TOMAHAWK-220": [
+        [
+            "Open", 
+            "In Progress", 
+            "16d 12h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "34s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "4h 3m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "18h 37m"
+        ]
+    ], 
+    "TOMAHAWK-1480": [
+        [
+            "Open", 
+            "Resolved", 
+            "461d 8h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 20h 40m"
+        ]
+    ], 
+    "TOMAHAWK-1483": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "65d 11h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "172d 21h 11m"
+        ]
+    ], 
+    "MYFACES-340": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 54m"
+        ]
+    ], 
+    "TOMAHAWK-540": [
+        [
+            "Open", 
+            "Resolved", 
+            "68d 2h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1740d 14h 30m"
+        ]
+    ], 
+    "TOMAHAWK-541": [
+        [
+            "Open", 
+            "In Progress", 
+            "26d 10h 40m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "29m 43s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "TOMAHAWK-542": [
+        [
+            "Open", 
+            "Patch Available", 
+            "312d 9h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "464d 13h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 7h 10m"
+        ]
+    ], 
+    "TOMAHAWK-1022": [
+        [
+            "Open", 
+            "Closed", 
+            "358d 6h 26m"
+        ]
+    ], 
+    "MYFACES-347": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 22h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1h 30m"
+        ]
+    ], 
+    "TOMAHAWK-23": [
+        [
+            "Open", 
+            "Patch Available", 
+            "301d 12h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "17m 28s"
+        ]
+    ], 
+    "TOMAHAWK-27": [
+        [
+            "Open", 
+            "Resolved", 
+            "116d 18h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 3h 23m"
+        ]
+    ], 
+    "TOMAHAWK-162": [
+        [
+            "Open", 
+            "Resolved", 
+            "64d 6h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 14h 31m"
+        ]
+    ], 
+    "TOMAHAWK-1451": [
+        [
+            "Open", 
+            "Resolved", 
+            "585d 16h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 3h 16m"
+        ]
+    ], 
+    "TOMAHAWK-1096": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "375d 13h 47m"
+        ]
+    ], 
+    "TOMAHAWK-905": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 8h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 3h 8m"
+        ]
+    ], 
+    "TOMAHAWK-906": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 3h 4m"
+        ]
+    ], 
+    "TOMAHAWK-907": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "84d 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "473d 12h 2m"
+        ]
+    ], 
+    "TOMAHAWK-901": [
+        [
+            "Open", 
+            "Resolved", 
+            "3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "33d 1h 17m"
+        ]
+    ], 
+    "TOMAHAWK-903": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 23h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 1h 53m"
+        ]
+    ], 
+    "TOMAHAWK-1157": [
+        [
+            "Open", 
+            "Closed", 
+            "199d 13h 24m"
+        ]
+    ], 
+    "TOMAHAWK-1156": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 13h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "103d 20h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 12h 29m"
+        ]
+    ], 
+    "TOMAHAWK-1626": [
+        [
+            "Open", 
+            "Resolved", 
+            "219d 5h 54m"
+        ]
+    ], 
+    "TOMAHAWK-909": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 10h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 16h 22m"
+        ]
+    ], 
+    "TOMAHAWK-1623": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 46m"
+        ]
+    ], 
+    "TOMAHAWK-1398": [
+        [
+            "Open", 
+            "Resolved", 
+            "97d 13h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 1h 34m"
+        ]
+    ], 
+    "MYFACES-518": [
+        [
+            "Open", 
+            "Closed", 
+            "7h 25m"
+        ]
+    ], 
+    "TOMAHAWK-1395": [
+        [
+            "Open", 
+            "Resolved", 
+            "96d 4h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 23h 47m"
+        ]
+    ], 
+    "MYFACES-512": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 9h 14m"
+        ]
+    ], 
+    "TOMAHAWK-1390": [
+        [
+            "Open", 
+            "Resolved", 
+            "131d 12h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 1h 53m"
+        ]
+    ], 
+    "TOMAHAWK-1392": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 7h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 3h 43m"
+        ]
+    ], 
+    "TOMAHAWK-1494": [
+        [
+            "Open", 
+            "Patch Available", 
+            "63d 13h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "148d 19h 55m"
+        ]
+    ], 
+    "TOMAHAWK-759": [
+        [
+            "Open", 
+            "In Progress", 
+            "38d 4h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 4h 43m"
+        ]
+    ], 
+    "TOMAHAWK-750": [
+        [
+            "Open", 
+            "Closed", 
+            "603d 23h 51m"
+        ]
+    ], 
+    "TOMAHAWK-752": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 15h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 16h 36m"
+        ]
+    ], 
+    "MYFACES-768": [
+        [
+            "Open", 
+            "Closed", 
+            "11h 10m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "12h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "9d 5h 48m"
+        ]
+    ], 
+    "TOMAHAWK-612": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "1h 26m"
+        ]
+    ], 
+    "TOMAHAWK-1023": [
+        [
+            "Open", 
+            "Closed", 
+            "358d 7h 4m"
+        ]
+    ], 
+    "TOMAHAWK-996": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Closed", 
+            "83d 8h 22m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "10d 20h 54m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "27m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "379d 12h 34m"
+        ]
+    ], 
+    "TOMAHAWK-190": [
+        [
+            "Open", 
+            "Closed", 
+            "48d 18h 14m"
+        ]
+    ], 
+    "TOMAHAWK-1027": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 17h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "432d 20h 32m"
+        ]
+    ], 
+    "TOMAHAWK-1026": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "442d 16h 12m"
+        ]
+    ], 
+    "MYFACES-767": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 32m"
+        ]
+    ], 
+    "TOMAHAWK-990": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "476d 9h 28m"
+        ]
+    ], 
+    "MYFACES-600": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 26m"
+        ]
+    ], 
+    "MYFACES-601": [
+        [
+            "Open", 
+            "Closed", 
+            "11m 29s"
+        ]
+    ], 
+    "MYFACES-606": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 14h 45m"
+        ]
+    ], 
+    "MYFACES-228": [
+        [
+            "Open", 
+            "In Progress", 
+            "20d 4h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "65d 10h 44m"
+        ]
+    ], 
+    "MYFACES-1155": [
+        [
+            "Open", 
+            "Closed", 
+            "29d 18m"
+        ]
+    ], 
+    "MYFACES-565": [
+        [
+            "Open", 
+            "Closed", 
+            "14h 41m"
+        ]
+    ], 
+    "MYFACES-564": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 41s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "11d 22h 10m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "15m 56s"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "38m 48s"
+        ]
+    ]
+}

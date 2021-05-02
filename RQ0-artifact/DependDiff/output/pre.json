@@ -1,0 +1,113 @@
+{
+  "schemaVersion" : "1.0",
+  "name" : "pre-sdsm",
+  "variables" : [ "/home/cuidi/tool/archdiff/output/pre/log4j-api/src/main/java/org/apache/logging/log4j/Logger.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/main/java/org/apache/logging/log4j/core/Layout.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/main/java/org/apache/logging/log4j/core/LoggerContext.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/FileManager.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/main/java/org/apache/logging/log4j/core/config/Configuration.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/main/java/org/apache/logging/log4j/core/util/Constants.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/main/java/org/apache/logging/log4j/core/util/FileUtils.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/RollingAppenderTimeAndSizeTest.java", "/home/cuidi/tool/archdiff/output/pre/log4j-core/src/test/java/org/apache/logging/log4j/junit/LoggerContextRule.java" ],
+  "cells" : [ {
+    "src" : 8,
+    "dest" : 4,
+    "values" : {
+      "Call" : 2.0,
+      "Import" : 1.0,
+      "Return" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 2,
+    "values" : {
+      "Import" : 1.0,
+      "Parameter" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 1,
+    "values" : {
+      "Import" : 1.0,
+      "Use" : 1.0,
+      "Parameter" : 3.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 5,
+    "values" : {
+      "Import" : 1.0,
+      "Use" : 2.0
+    }
+  }, {
+    "src" : 6,
+    "dest" : 0,
+    "values" : {
+      "Call" : 3.0,
+      "Import" : 1.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 8,
+    "dest" : 2,
+    "values" : {
+      "Call" : 7.0,
+      "Import" : 1.0,
+      "Return" : 1.0,
+      "Use" : 1.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 6,
+    "values" : {
+      "Call" : 2.0,
+      "Import" : 1.0,
+      "Use" : 2.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 5,
+    "values" : {
+      "Import" : 1.0,
+      "Use" : 2.0
+    }
+  }, {
+    "src" : 3,
+    "dest" : 4,
+    "values" : {
+      "Import" : 1.0,
+      "Parameter" : 2.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 8,
+    "values" : {
+      "Call" : 3.0,
+      "Import" : 1.0,
+      "Use" : 1.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 7,
+    "dest" : 0,
+    "values" : {
+      "Call" : 1.0,
+      "Import" : 1.0,
+      "Use" : 1.0,
+      "Contain" : 1.0
+    }
+  }, {
+    "src" : 4,
+    "dest" : 2,
+    "values" : {
+      "Import" : 1.0,
+      "Return" : 1.0
+    }
+  }, {
+    "src" : 2,
+    "dest" : 4,
+    "values" : {
+      "Call" : 8.0,
+      "Import" : 1.0,
+      "Return" : 2.0,
+      "Use" : 3.0,
+      "Parameter" : 3.0,
+      "Contain" : 7.0
+    }
+  } ]
+}

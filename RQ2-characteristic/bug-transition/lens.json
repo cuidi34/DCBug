@@ -1,0 +1,7412 @@
+{
+    "LENS-1446": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 27m"
+        ]
+    ], 
+    "LENS-470": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 19h 5m"
+        ]
+    ], 
+    "LENS-326": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 54s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 4h 7m"
+        ]
+    ], 
+    "LENS-1241": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 1h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 1h 18m"
+        ]
+    ], 
+    "LENS-734": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 23h 3m"
+        ]
+    ], 
+    "LENS-1242": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2d 23h"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 18h 45m"
+        ]
+    ], 
+    "LENS-1245": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 5h 39m"
+        ]
+    ], 
+    "LENS-639": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 11m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "23s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 14h 14m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "24d 4h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 34m"
+        ]
+    ], 
+    "LENS-1246": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 18h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 6h 27m"
+        ]
+    ], 
+    "LENS-982": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "154d 22h 1m"
+        ]
+    ], 
+    "LENS-983": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 12h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 3h 38m"
+        ]
+    ], 
+    "LENS-980": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "181d 56m"
+        ]
+    ], 
+    "LENS-637": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 5h 29m"
+        ]
+    ], 
+    "LENS-632": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 19h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 4h 53m"
+        ]
+    ], 
+    "LENS-1338": [
+        [
+            "Resolved", 
+            "Reopened", 
+            "23h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2m 48s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 43s"
+        ]
+    ], 
+    "LENS-937": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 8m"
+        ]
+    ], 
+    "LENS-1334": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 2h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "325d 55m"
+        ]
+    ], 
+    "LENS-62": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 7h 26m"
+        ]
+    ], 
+    "LENS-1336": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "2d 3h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "324d 2h 50m"
+        ]
+    ], 
+    "LENS-1331": [
+        [
+            "Open", 
+            "In Progress", 
+            "22h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 38m"
+        ]
+    ], 
+    "LENS-1239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 1h 13m"
+        ]
+    ], 
+    "LENS-931": [
+        [
+            "Open", 
+            "In Progress", 
+            "16d 15h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8d 3h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 2h 32m"
+        ]
+    ], 
+    "LENS-67": [
+        [
+            "Patch Available", 
+            "Open", 
+            "31m 29s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 5h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 55m"
+        ], 
+        [
+            "Reopened", 
+            "Reopened", 
+            "16h 57m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 11h 5m"
+        ]
+    ], 
+    "LENS-847": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 21h 58m"
+        ]
+    ], 
+    "LENS-180": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 4h 48m"
+        ]
+    ], 
+    "LENS-1149": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 20h 57m"
+        ]
+    ], 
+    "LENS-1418": [
+        [
+            "Open", 
+            "In Progress", 
+            "19m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 2h 18m"
+        ]
+    ], 
+    "LENS-1419": [
+        [
+            "Open", 
+            "Patch Available", 
+            "46m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "36m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 3h 41m"
+        ]
+    ], 
+    "LENS-1414": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 57m"
+        ]
+    ], 
+    "LENS-1143": [
+        [
+            "Resolved", 
+            "Reopened", 
+            "18h 45m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "7d 6h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "14d 20h 58m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 4h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 22h 11m"
+        ]
+    ], 
+    "LENS-1416": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 3h 49m"
+        ]
+    ], 
+    "LENS-1417": [
+        [
+            "Open", 
+            "In Progress", 
+            "59m 38s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 7h 36m"
+        ]
+    ], 
+    "LENS-1411": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 11h 15m"
+        ]
+    ], 
+    "LENS-849": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 51m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "46m 45s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "118d 9h 7m"
+        ]
+    ], 
+    "LENS-1413": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 6h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 33m"
+        ]
+    ], 
+    "LENS-745": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "4d 15h 57m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 1h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 16h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 12h 58m"
+        ]
+    ], 
+    "LENS-1481": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 20m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 5h 7m"
+        ]
+    ], 
+    "LENS-1480": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 24s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "39s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "68d 18h 9m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 2h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "42d 20h 29m"
+        ], 
+        [
+            "Reopened", 
+            "Reopened", 
+            "1d 2h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16s"
+        ]
+    ], 
+    "LENS-1487": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 10m"
+        ]
+    ], 
+    "LENS-1485": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 2h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 33m"
+        ]
+    ], 
+    "LENS-1484": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53d 13h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "LENS-1527": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "LENS-296": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23d 16h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 7h 11m"
+        ]
+    ], 
+    "LENS-1468": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 21s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 26m"
+        ]
+    ], 
+    "LENS-449": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 3h 55m"
+        ]
+    ], 
+    "LENS-115": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 18h 49m"
+        ]
+    ], 
+    "LENS-114": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 16h 12m"
+        ]
+    ], 
+    "LENS-117": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 7h 6m"
+        ]
+    ], 
+    "LENS-1465": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 13s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 53m"
+        ]
+    ], 
+    "LENS-1464": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 10s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5m"
+        ]
+    ], 
+    "LENS-1467": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 54s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 20h 51m"
+        ]
+    ], 
+    "LENS-1466": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 22h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 15m"
+        ]
+    ], 
+    "LENS-599": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 21h 48m"
+        ]
+    ], 
+    "LENS-596": [
+        [
+            "Open", 
+            "In Progress", 
+            "20s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 8h"
+        ]
+    ], 
+    "LENS-181": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17h 29m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 5h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 8h 16m"
+        ]
+    ], 
+    "LENS-368": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 2h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 1h 34m"
+        ]
+    ], 
+    "LENS-369": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "51m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 22h 43m"
+        ]
+    ], 
+    "LENS-362": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 15h"
+        ]
+    ], 
+    "LENS-363": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 14h 33m"
+        ]
+    ], 
+    "LENS-361": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "9h 8m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "4h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 5m"
+        ]
+    ], 
+    "LENS-366": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25d 11h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 8m"
+        ]
+    ], 
+    "LENS-364": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 18h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 23h 38m"
+        ]
+    ], 
+    "LENS-365": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 20h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 22h 1m"
+        ]
+    ], 
+    "LENS-168": [
+        [
+            "Open", 
+            "Patch Available", 
+            "69d 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 23h"
+        ]
+    ], 
+    "LENS-1228": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 5h 4m"
+        ]
+    ], 
+    "LENS-203": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7d 4h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10m 1s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 5h 19m"
+        ]
+    ], 
+    "LENS-202": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 22h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 26s"
+        ]
+    ], 
+    "LENS-206": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 6h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 23h 38m"
+        ]
+    ], 
+    "LENS-161": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 18h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 26s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 23h 29m"
+        ]
+    ], 
+    "LENS-163": [
+        [
+            "Patch Available", 
+            "Open", 
+            "21h 37m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 10h 54m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "15d 2h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 7h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 18h 30m"
+        ]
+    ], 
+    "LENS-946": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 3h 23m"
+        ]
+    ], 
+    "LENS-1361": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 39s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "49s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 41m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 33m"
+        ]
+    ], 
+    "LENS-1369": [
+        [
+            "Patch Available", 
+            "Open", 
+            "38s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 4h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "291d 7h 23m"
+        ]
+    ], 
+    "LENS-1510": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 43m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "LENS-1513": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 5s"
+        ]
+    ], 
+    "LENS-71": [
+        [
+            "Open", 
+            "Patch Available", 
+            "34d 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 13h 17m"
+        ]
+    ], 
+    "LENS-1515": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "LENS-1516": [
+        [
+            "Open", 
+            "In Progress", 
+            "41m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23m 24s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "LENS-1518": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9m 32s"
+        ]
+    ], 
+    "LENS-703": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 18h 47m"
+        ]
+    ], 
+    "LENS-210": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11d 5h 20m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "7d 22h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 14h 12m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "7d 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "169d 22h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 2h 59m"
+        ]
+    ], 
+    "LENS-211": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 5h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 12h 47m"
+        ]
+    ], 
+    "LENS-730": [
+        [
+            "Open", 
+            "In Progress", 
+            "250d 19h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6d 5h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "126d 7h 27m"
+        ]
+    ], 
+    "LENS-70": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 10h 13m"
+        ]
+    ], 
+    "LENS-1199": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 6h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "19d 22h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 20h 26m"
+        ]
+    ], 
+    "LENS-1197": [
+        [
+            "Open", 
+            "Patch Available", 
+            "77d 3h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 3h 1m"
+        ]
+    ], 
+    "LENS-1208": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 22h 6m"
+        ]
+    ], 
+    "LENS-1205": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 23h 35m"
+        ]
+    ], 
+    "LENS-1200": [
+        [
+            "Patch Available", 
+            "Open", 
+            "9m 47s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "7d 1h 2m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 23h 26m"
+        ]
+    ], 
+    "LENS-838": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 11h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 4h 9m"
+        ]
+    ], 
+    "LENS-1033": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 9h 5m"
+        ]
+    ], 
+    "LENS-1030": [
+        [
+            "Open", 
+            "In Progress", 
+            "73d 16h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2d 11h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 11m"
+        ]
+    ], 
+    "LENS-832": [
+        [
+            "Open", 
+            "In Progress", 
+            "31s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5d 22h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "117d 6h 9m"
+        ]
+    ], 
+    "LENS-1034": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 1h 44m"
+        ]
+    ], 
+    "LENS-406": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 20h 28m"
+        ]
+    ], 
+    "LENS-1427": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 35s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 21h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 23h 50m"
+        ]
+    ], 
+    "LENS-1420": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 23h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 2h 49m"
+        ]
+    ], 
+    "LENS-1429": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 4h 13m"
+        ]
+    ], 
+    "LENS-1428": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 4h 47m"
+        ]
+    ], 
+    "LENS-421": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 53m"
+        ]
+    ], 
+    "LENS-795": [
+        [
+            "Open", 
+            "In Progress", 
+            "18h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "20h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 9h 53m"
+        ]
+    ], 
+    "LENS-792": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 1h 43m"
+        ]
+    ], 
+    "LENS-791": [
+        [
+            "Open", 
+            "Patch Available", 
+            "127d 7h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "202d 3h 6m"
+        ]
+    ], 
+    "LENS-881": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 7h 11m"
+        ]
+    ], 
+    "LENS-887": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 22h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 19h 7m"
+        ]
+    ], 
+    "LENS-538": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "40m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 3h 20m"
+        ]
+    ], 
+    "LENS-244": [
+        [
+            "Open", 
+            "Patch Available", 
+            "84d 9h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 4h 56m"
+        ]
+    ], 
+    "LENS-537": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 1h 55m"
+        ]
+    ], 
+    "LENS-534": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 56m"
+        ]
+    ], 
+    "LENS-125": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 15m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "21h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "LENS-126": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 11h 56m"
+        ]
+    ], 
+    "LENS-121": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 31m"
+        ]
+    ], 
+    "LENS-14": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 11h 48m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 17h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 1h 40m"
+        ]
+    ], 
+    "LENS-331": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 23h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "35d 2h 50m"
+        ]
+    ], 
+    "LENS-330": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 15h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 12h 42m"
+        ]
+    ], 
+    "LENS-335": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 17m"
+        ]
+    ], 
+    "LENS-339": [
+        [
+            "Open", 
+            "Patch Available", 
+            "87d 2h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 3h 47m"
+        ]
+    ], 
+    "LENS-234": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 20h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 12h 48m"
+        ]
+    ], 
+    "LENS-1478": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 2m"
+        ]
+    ], 
+    "LENS-236": [
+        [
+            "Open", 
+            "In Progress", 
+            "14h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "9d 7h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "53m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 17h 55m"
+        ]
+    ], 
+    "LENS-1250": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 2h 41m"
+        ]
+    ], 
+    "LENS-1398": [
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 20h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "44s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "38m 17s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "6m 17s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 3h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 5h 1m"
+        ]
+    ], 
+    "LENS-1254": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 7h 16m"
+        ]
+    ], 
+    "LENS-1390": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 39m"
+        ]
+    ], 
+    "LENS-991": [
+        [
+            "Patch Available", 
+            "Open", 
+            "6m 49s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "102d 6h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 17h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "56d 6h 19m"
+        ]
+    ], 
+    "LENS-1396": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 22h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 2h 21m"
+        ]
+    ], 
+    "LENS-993": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "155d 44m"
+        ]
+    ], 
+    "LENS-51": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 14h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 13h 8m"
+        ]
+    ], 
+    "LENS-1476": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 58m"
+        ]
+    ], 
+    "LENS-907": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "61d 23h 54m"
+        ]
+    ], 
+    "LENS-905": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 4h 58m"
+        ]
+    ], 
+    "LENS-1326": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 3h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 10m"
+        ]
+    ], 
+    "LENS-1475": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 21h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 3m"
+        ]
+    ], 
+    "LENS-1323": [
+        [
+            "Open", 
+            "In Progress", 
+            "20m 9s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "35s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "334d 7h 45m"
+        ]
+    ], 
+    "LENS-1321": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 45m"
+        ]
+    ], 
+    "LENS-196": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 53m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "32m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 3h 27m"
+        ]
+    ], 
+    "LENS-191": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 20h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 21h 16m"
+        ]
+    ], 
+    "LENS-190": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 18h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 5h 45m"
+        ]
+    ], 
+    "LENS-1174": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 18h 6m"
+        ]
+    ], 
+    "LENS-1170": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 12s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 8h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 18h 4m"
+        ]
+    ], 
+    "LENS-698": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 55s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 22h 27m"
+        ]
+    ], 
+    "LENS-756": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 3h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 1h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "61d 23h 56m"
+        ]
+    ], 
+    "LENS-61": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 10h 4m"
+        ]
+    ], 
+    "LENS-63": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 9h 30m"
+        ]
+    ], 
+    "LENS-1495": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 28m"
+        ]
+    ], 
+    "LENS-1497": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 22s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "28d 20h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 20m"
+        ]
+    ], 
+    "LENS-1491": [
+        [
+            "Open", 
+            "In Progress", 
+            "45s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 38m"
+        ]
+    ], 
+    "LENS-1492": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18s"
+        ]
+    ], 
+    "LENS-1493": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 1h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28m 3s"
+        ]
+    ], 
+    "LENS-287": [
+        [
+            "Open", 
+            "In Progress", 
+            "13h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 4h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 13h 34m"
+        ]
+    ], 
+    "LENS-576": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 2h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "118d 20h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "20m 36s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 3h 39m"
+        ]
+    ], 
+    "LENS-575": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 4h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8d 18h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 3h 30m"
+        ]
+    ], 
+    "LENS-574": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44d 23h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 3h 23m"
+        ]
+    ], 
+    "LENS-1472": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 52s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 25m"
+        ]
+    ], 
+    "LENS-1473": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 48m"
+        ]
+    ], 
+    "LENS-1471": [
+        [
+            "Open", 
+            "In Progress", 
+            "8m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 12m"
+        ]
+    ], 
+    "LENS-472": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 22h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 21h 31m"
+        ]
+    ], 
+    "LENS-1477": [
+        [
+            "Open", 
+            "Patch Available", 
+            "37m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 28m"
+        ]
+    ], 
+    "LENS-1474": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 29m"
+        ]
+    ], 
+    "LENS-471": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 19h 2m"
+        ]
+    ], 
+    "LENS-870": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 5h 29m"
+        ]
+    ], 
+    "LENS-871": [
+        [
+            "Open", 
+            "In Progress", 
+            "46m 2s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 19h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "90d 6h 44m"
+        ]
+    ], 
+    "LENS-379": [
+        [
+            "Open", 
+            "Patch Available", 
+            "59m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28m 3s"
+        ]
+    ], 
+    "LENS-375": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 1h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 23h 51m"
+        ]
+    ], 
+    "LENS-370": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8s"
+        ]
+    ], 
+    "LENS-275": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 20h 24m"
+        ]
+    ], 
+    "LENS-276": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 11h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 14h 49m"
+        ]
+    ], 
+    "LENS-277": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 4h 58m"
+        ]
+    ], 
+    "LENS-272": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9m 9s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 23h 22m"
+        ]
+    ], 
+    "LENS-273": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 1h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 7h 1m"
+        ]
+    ], 
+    "LENS-173": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 14h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 16h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 3h 1m"
+        ]
+    ], 
+    "LENS-172": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 7h 57m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 16h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "59m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 13h 18m"
+        ]
+    ], 
+    "LENS-278": [
+        [
+            "Open", 
+            "In Progress", 
+            "9m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 1h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 12h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 18h 16m"
+        ]
+    ], 
+    "LENS-1357": [
+        [
+            "Open", 
+            "In Progress", 
+            "29m 10s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "23s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "6d 19h 55m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 4h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 55m"
+        ]
+    ], 
+    "LENS-1355": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 34s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "309d 3h 43m"
+        ]
+    ], 
+    "LENS-1358": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 53m"
+        ]
+    ], 
+    "LENS-308": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 21h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 1h 51m"
+        ]
+    ], 
+    "LENS-309": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 14h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 2h 19m"
+        ]
+    ], 
+    "LENS-91": [
+        [
+            "Patch Available", 
+            "Open", 
+            "18h 18m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 7h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 1h 6m"
+        ]
+    ], 
+    "LENS-92": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 19h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 7h 55m"
+        ]
+    ], 
+    "LENS-94": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 4h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 8h 55m"
+        ]
+    ], 
+    "LENS-306": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 21h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 1h 42m"
+        ]
+    ], 
+    "LENS-1502": [
+        [
+            "Open", 
+            "Patch Available", 
+            "146d 1h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19s"
+        ]
+    ], 
+    "LENS-1500": [
+        [
+            "In Progress", 
+            "Open", 
+            "1h 50m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "18d 21h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 19m"
+        ]
+    ], 
+    "LENS-1501": [
+        [
+            "Open", 
+            "In Progress", 
+            "6s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 56s"
+        ]
+    ], 
+    "LENS-1507": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 59m"
+        ]
+    ], 
+    "LENS-717": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 18h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 2m"
+        ]
+    ], 
+    "LENS-715": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 9h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 1h 14m"
+        ]
+    ], 
+    "LENS-712": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19d 21m"
+        ]
+    ], 
+    "LENS-776": [
+        [
+            "In Progress", 
+            "Open", 
+            "4s"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "2d 23h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 37m"
+        ]
+    ], 
+    "LENS-1182": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 36m"
+        ]
+    ], 
+    "LENS-951": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 23h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 5h 53m"
+        ]
+    ], 
+    "LENS-953": [
+        [
+            "Patch Available", 
+            "Open", 
+            "16h 3m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 12h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 51m"
+        ]
+    ], 
+    "LENS-1215": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 1h 56m"
+        ]
+    ], 
+    "LENS-955": [
+        [
+            "Open", 
+            "In Progress", 
+            "165d 9m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "20m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 22h 32m"
+        ]
+    ], 
+    "LENS-954": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 2h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 20h 55m"
+        ]
+    ], 
+    "LENS-1211": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 23h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 1h 12m"
+        ]
+    ], 
+    "LENS-821": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "126d 49m"
+        ]
+    ], 
+    "LENS-439": [
+        [
+            "Open", 
+            "In Progress", 
+            "7m 50s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "22m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 22m"
+        ]
+    ], 
+    "LENS-825": [
+        [
+            "Open", 
+            "Patch Available", 
+            "193d 1h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "128d 21h 48m"
+        ]
+    ], 
+    "LENS-826": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33d 11h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 4m"
+        ]
+    ], 
+    "LENS-433": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 7h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 16h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 4h 48m"
+        ]
+    ], 
+    "LENS-430": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 9h 11m"
+        ]
+    ], 
+    "LENS-431": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 2h 36m"
+        ]
+    ], 
+    "LENS-436": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 19h 3m"
+        ]
+    ], 
+    "LENS-435": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "34d 10m"
+        ]
+    ], 
+    "LENS-1434": [
+        [
+            "Open", 
+            "In Progress", 
+            "21m 33s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 22h 22m"
+        ]
+    ], 
+    "LENS-1435": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 23h 51m"
+        ]
+    ], 
+    "LENS-1432": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 23h 49m"
+        ]
+    ], 
+    "LENS-1433": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 4h 52m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "4m 16s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 20h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 25m"
+        ]
+    ], 
+    "LENS-1430": [
+        [
+            "Patch Available", 
+            "Open", 
+            "8m 15s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 23h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 51m"
+        ]
+    ], 
+    "LENS-1431": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "LENS-1438": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 2h 39m"
+        ]
+    ], 
+    "LENS-1439": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "61d 1m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "7m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 20h 58m"
+        ]
+    ], 
+    "LENS-484": [
+        [
+            "Open", 
+            "Patch Available", 
+            "59d 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 23h 21m"
+        ]
+    ], 
+    "LENS-480": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 49s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 21h 58m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1d 11h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 6h 30m"
+        ]
+    ], 
+    "LENS-179": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 55m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "13d 20h 48m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7d 7h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 18m"
+        ]
+    ], 
+    "LENS-507": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9d 42m"
+        ]
+    ], 
+    "LENS-500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 42m"
+        ]
+    ], 
+    "LENS-131": [
+        [
+            "Patch Available", 
+            "Open", 
+            "22h 6m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "35d 9h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 18h 54m"
+        ]
+    ], 
+    "LENS-130": [
+        [
+            "Open", 
+            "Patch Available", 
+            "51m 48s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 34m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "56m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2h 13m"
+        ]
+    ], 
+    "LENS-611": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2m 25s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15d 41m"
+        ]
+    ], 
+    "LENS-964": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 19h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6d 2h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "168d 22h 43m"
+        ]
+    ], 
+    "LENS-342": [
+        [
+            "Open", 
+            "In Progress", 
+            "30d 21h 16m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 2h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 7h 4m"
+        ]
+    ], 
+    "LENS-343": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 10m"
+        ]
+    ], 
+    "LENS-223": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 26m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 6h 52m"
+        ]
+    ], 
+    "LENS-241": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 4h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 19h 52m"
+        ]
+    ], 
+    "LENS-227": [
+        [
+            "Open", 
+            "In Progress", 
+            "24m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "22h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 58m"
+        ]
+    ], 
+    "LENS-226": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 5h 35m"
+        ]
+    ], 
+    "LENS-225": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "6d 21h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "2h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 13h 16m"
+        ]
+    ], 
+    "LENS-224": [
+        [
+            "Patch Available", 
+            "Open", 
+            "55m 42s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "249d 3h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7m 18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 22h 16m"
+        ]
+    ], 
+    "LENS-613": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19s"
+        ]
+    ], 
+    "LENS-963": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "193d 5h 41m"
+        ]
+    ], 
+    "LENS-616": [
+        [
+            "Open", 
+            "Patch Available", 
+            "59m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 41m"
+        ]
+    ], 
+    "LENS-617": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 23h 14m"
+        ]
+    ], 
+    "LENS-1264": [
+        [
+            "Open", 
+            "In Progress", 
+            "10m 16s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "378d 6h 22m"
+        ]
+    ], 
+    "LENS-1269": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 23h 46m"
+        ]
+    ], 
+    "LENS-1268": [
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 5h 24m"
+        ]
+    ], 
+    "LENS-46": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11h 12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 9h 56m"
+        ]
+    ], 
+    "LENS-47": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 21h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "70d 8h 48m"
+        ]
+    ], 
+    "LENS-917": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 4h 28m"
+        ]
+    ], 
+    "LENS-916": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 1h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 22h 11m"
+        ]
+    ], 
+    "LENS-913": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 23m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "2d 19h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "34m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 23h 40m"
+        ]
+    ], 
+    "LENS-1319": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "340d 58m"
+        ]
+    ], 
+    "LENS-918": [
+        [
+            "Open", 
+            "Patch Available", 
+            "76d 3h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 23h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "140d 23h 16m"
+        ]
+    ], 
+    "LENS-1160": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 19h 12m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "4d 1h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 5h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 18h 4m"
+        ]
+    ], 
+    "LENS-1164": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 23h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 19h 30m"
+        ]
+    ], 
+    "LENS-1167": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 26s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 7h 3m"
+        ]
+    ], 
+    "LENS-1169": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 48s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "77d 21h 57m"
+        ]
+    ], 
+    "LENS-348": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 10h 23m"
+        ]
+    ], 
+    "LENS-686": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 4h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "27d 9h 23m"
+        ]
+    ], 
+    "LENS-682": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 23h 36m"
+        ]
+    ], 
+    "LENS-446": [
+        [
+            "Open", 
+            "Patch Available", 
+            "196d 20h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "40d 1h 57m"
+        ]
+    ], 
+    "LENS-37": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 8h 39m"
+        ]
+    ], 
+    "LENS-36": [
+        [
+            "Patch Available", 
+            "Open", 
+            "35m 30s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 2h 5m"
+        ]
+    ], 
+    "LENS-35": [
+        [
+            "Open", 
+            "Patch Available", 
+            "72d 2h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 8h 52m"
+        ]
+    ], 
+    "LENS-33": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 9h 1m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 16h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 13h 51m"
+        ]
+    ], 
+    "LENS-32": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 23h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 51m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "40d 21h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22h 10m"
+        ]
+    ], 
+    "LENS-38": [
+        [
+            "Patch Available", 
+            "Open", 
+            "26m 51s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "23d 2h 10m"
+        ]
+    ], 
+    "LENS-1025": [
+        [
+            "Patch Available", 
+            "Open", 
+            "38m 6s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "91d 21h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 2h 6m"
+        ]
+    ], 
+    "LENS-813": [
+        [
+            "Open", 
+            "Patch Available", 
+            "112d 2h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 18h 56m"
+        ]
+    ], 
+    "LENS-816": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 45s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "17h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 17h 30m"
+        ]
+    ], 
+    "LENS-545": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "52d 6h 4m"
+        ]
+    ], 
+    "LENS-463": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 1h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5d 16h 1m"
+        ]
+    ], 
+    "LENS-1448": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "26m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2m 32s"
+        ]
+    ], 
+    "LENS-469": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 4m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 5h 34m"
+        ]
+    ], 
+    "LENS-468": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 20h 42m"
+        ]
+    ], 
+    "LENS-1445": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 48m"
+        ]
+    ], 
+    "LENS-1443": [
+        [
+            "Open", 
+            "In Progress", 
+            "2m 44s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 24m"
+        ]
+    ], 
+    "LENS-1442": [
+        [
+            "Open", 
+            "In Progress", 
+            "36m 20s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48m 26s"
+        ]
+    ], 
+    "LENS-1441": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 55s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 55m"
+        ]
+    ], 
+    "LENS-1450": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "28d 17h 37m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "4d 2h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 20m"
+        ]
+    ], 
+    "LENS-1343": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 21h 23m"
+        ]
+    ], 
+    "LENS-77": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 53s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 7h 17m"
+        ]
+    ], 
+    "LENS-1453": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 38s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 44m"
+        ]
+    ], 
+    "LENS-869": [
+        [
+            "Patch Available", 
+            "Open", 
+            "22h 34m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "3h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 22h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 6m"
+        ]
+    ], 
+    "LENS-865": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5d 18h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "2h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "56m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "91d 2h 20m"
+        ]
+    ], 
+    "LENS-1042": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 14h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "62d 23h 44m"
+        ]
+    ], 
+    "LENS-1041": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "98d 1h 58m"
+        ]
+    ], 
+    "LENS-1040": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 20h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "105d 2h 51m"
+        ]
+    ], 
+    "LENS-1159": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 59s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 23h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "85d 21h 4m"
+        ]
+    ], 
+    "LENS-1456": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 7h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 21h 33m"
+        ]
+    ], 
+    "LENS-1457": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 35m"
+        ]
+    ], 
+    "LENS-380": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 57m"
+        ]
+    ], 
+    "LENS-381": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 16h 57m"
+        ]
+    ], 
+    "LENS-382": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 18m"
+        ]
+    ], 
+    "LENS-386": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 6m"
+        ]
+    ], 
+    "LENS-267": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 22h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 5h 36m"
+        ]
+    ], 
+    "LENS-852": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 16h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 11h 16m"
+        ]
+    ], 
+    "LENS-148": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 5h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 9h 37m"
+        ]
+    ], 
+    "LENS-149": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 1h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24d 10h 44m"
+        ]
+    ], 
+    "LENS-146": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "58d 6h 14m"
+        ]
+    ], 
+    "LENS-144": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 56m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 19h 31m"
+        ]
+    ], 
+    "LENS-145": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 3h 33m"
+        ]
+    ], 
+    "LENS-142": [
+        [
+            "Open", 
+            "Resolved", 
+            "23m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 23h 10m"
+        ]
+    ], 
+    "LENS-143": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "42d 13h 38m"
+        ]
+    ], 
+    "LENS-269": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 6h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "74d 23h 14m"
+        ]
+    ], 
+    "LENS-141": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 2h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57d 19h 16m"
+        ]
+    ], 
+    "LENS-1155": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "84d 20h 27m"
+        ]
+    ], 
+    "LENS-420": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 21h 53m"
+        ]
+    ], 
+    "LENS-87": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 13h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 8h 30m"
+        ]
+    ], 
+    "LENS-84": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 15h 33m"
+        ]
+    ], 
+    "LENS-82": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 2h 27m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 14h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 6h 10m"
+        ]
+    ], 
+    "LENS-80": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 4h 2m"
+        ]
+    ], 
+    "LENS-89": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6d 11h 32m"
+        ]
+    ], 
+    "LENS-300": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 14h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 12h 27m"
+        ]
+    ], 
+    "LENS-648": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 16h 59m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 5h 26m"
+        ]
+    ], 
+    "LENS-721": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 21h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "22h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 23h 33m"
+        ]
+    ], 
+    "LENS-645": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 18m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 47m"
+        ]
+    ], 
+    "LENS-647": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 4h 53m"
+        ]
+    ], 
+    "LENS-646": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 3h 41m"
+        ]
+    ], 
+    "LENS-78": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 20h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "77d 3h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "69d 3h 12m"
+        ]
+    ], 
+    "LENS-928": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 5m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 1h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 2h 16m"
+        ]
+    ], 
+    "LENS-924": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 16h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 6h 34m"
+        ]
+    ], 
+    "LENS-1342": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14d 6h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 2h 2m"
+        ]
+    ], 
+    "LENS-927": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 22h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 1h 59m"
+        ]
+    ], 
+    "LENS-920": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 21h 2m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "14d 1h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 23h 59m"
+        ]
+    ], 
+    "LENS-1345": [
+        [
+            "Open", 
+            "In Progress", 
+            "11m 19s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 6h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 57m"
+        ]
+    ], 
+    "LENS-1346": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 20h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 9h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "327d 19h 37m"
+        ]
+    ], 
+    "LENS-854": [
+        [
+            "Patch Available", 
+            "Open", 
+            "37m 33s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 20h 8m"
+        ]
+    ], 
+    "LENS-1158": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 32m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "81d 53m"
+        ]
+    ], 
+    "LENS-856": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 20h 8m"
+        ]
+    ], 
+    "LENS-926": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 47m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 18h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 44m"
+        ]
+    ], 
+    "LENS-429": [
+        [
+            "Open", 
+            "In Progress", 
+            "30m 47s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "36d 8m"
+        ]
+    ], 
+    "LENS-428": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 22h 53m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7d 21h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 21h 36m"
+        ]
+    ], 
+    "LENS-1016": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 39m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 25s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 22h 23m"
+        ]
+    ], 
+    "LENS-853": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 3h 22m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "123d 6h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "180d 7h 26m"
+        ]
+    ], 
+    "LENS-424": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 1h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "31d 48m"
+        ]
+    ], 
+    "LENS-427": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 3m"
+        ]
+    ], 
+    "LENS-858": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5d 18h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 40m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 19h 11m"
+        ]
+    ], 
+    "LENS-859": [
+        [
+            "Open", 
+            "In Progress", 
+            "56m 38s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5d 18h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "120d 20h 9m"
+        ]
+    ], 
+    "LENS-1156": [
+        [
+            "Open", 
+            "Patch Available", 
+            "62d 23h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20d 4h 37m"
+        ]
+    ], 
+    "LENS-102": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 7h 52m"
+        ]
+    ], 
+    "LENS-101": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 8h 19m"
+        ]
+    ], 
+    "LENS-455": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 4h 37m"
+        ]
+    ], 
+    "LENS-105": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 56s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 7h 11m"
+        ]
+    ], 
+    "LENS-350": [
+        [
+            "Open", 
+            "In Progress", 
+            "116d 19h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "10d 23h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 31m"
+        ]
+    ], 
+    "LENS-212": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28d 15h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 10m"
+        ]
+    ], 
+    "LENS-213": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 19h 13m"
+        ]
+    ], 
+    "LENS-359": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 8h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 14h 22m"
+        ]
+    ], 
+    "LENS-358": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "49m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 2h 16m"
+        ]
+    ], 
+    "LENS-605": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 20m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5d 19h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 21h 41m"
+        ]
+    ], 
+    "LENS-1370": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 44s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "40d 21h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "35d 3h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 45m"
+        ]
+    ], 
+    "LENS-971": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 9h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17h 23m"
+        ]
+    ], 
+    "LENS-606": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 15h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16d 6h 54m"
+        ]
+    ], 
+    "LENS-977": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "183d 17h 34m"
+        ]
+    ], 
+    "LENS-1379": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25d 3h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 41m"
+        ]
+    ], 
+    "LENS-1378": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "54d 5h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "258d 23h 3m"
+        ]
+    ], 
+    "LENS-1306": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 12h 55m"
+        ]
+    ], 
+    "LENS-1307": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 16h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "343d 5h 40m"
+        ]
+    ], 
+    "LENS-1300": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 56s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "21h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 20h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "339d 6h 30m"
+        ]
+    ], 
+    "LENS-526": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 17h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 16h 15m"
+        ]
+    ], 
+    "LENS-1308": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "16d 21h 26m"
+        ], 
+        [
+            "Open", 
+            "In Progress", 
+            "9d 1h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 2h 44m"
+        ]
+    ], 
+    "LENS-771": [
+        [
+            "Open", 
+            "Patch Available", 
+            "244d 6h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "112d 22h 45m"
+        ]
+    ], 
+    "LENS-773": [
+        [
+            "Open", 
+            "Patch Available", 
+            "500d 19h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 22h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "248d 35m"
+        ]
+    ], 
+    "LENS-775": [
+        [
+            "Open", 
+            "In Progress", 
+            "6h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "42s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 44m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "60d 22h 6m"
+        ]
+    ], 
+    "LENS-777": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 33m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "21h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "8m 13s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "43d 5h 51m"
+        ]
+    ], 
+    "LENS-990": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "150d 1h 20m"
+        ]
+    ], 
+    "LENS-621": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 3h 50m"
+        ]
+    ], 
+    "LENS-1282": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2d 22h 37m"
+        ]
+    ], 
+    "LENS-1289": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "360d 34m"
+        ]
+    ], 
+    "LENS-1288": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 18h 8m"
+        ]
+    ], 
+    "LENS-1278": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11d 1h 11m"
+        ]
+    ], 
+    "LENS-22": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 1h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "54s"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "1h 30m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 17h 10m"
+        ]
+    ], 
+    "LENS-1272": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7d 22h 51m"
+        ]
+    ], 
+    "LENS-1274": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 31s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 18h 17m"
+        ]
+    ], 
+    "LENS-1275": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11d 1h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 3h 11m"
+        ]
+    ], 
+    "LENS-1029": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 52m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 20h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 30m"
+        ]
+    ], 
+    "LENS-807": [
+        [
+            "Open", 
+            "In Progress", 
+            "23m 42s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "4d 20h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 4m"
+        ], 
+        [
+            "Closed", 
+            "Resolved", 
+            "1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 10h 3m"
+        ]
+    ], 
+    "LENS-414": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 4h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "76d 19h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 7h 21m"
+        ]
+    ], 
+    "LENS-1451": [
+        [
+            "Open", 
+            "In Progress", 
+            "38m 27s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 51m"
+        ]
+    ], 
+    "LENS-416": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 20h 54m"
+        ]
+    ], 
+    "LENS-417": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 1h 40m"
+        ]
+    ], 
+    "LENS-1454": [
+        [
+            "Open", 
+            "In Progress", 
+            "1m 25s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 45m"
+        ]
+    ], 
+    "LENS-1455": [
+        [
+            "Open", 
+            "In Progress", 
+            "59s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 34m"
+        ]
+    ], 
+    "LENS-412": [
+        [
+            "Patch Available", 
+            "Open", 
+            "20h 21m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 2h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 45m"
+        ], 
+        [
+            "Reopened", 
+            "Reopened", 
+            "10h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "16h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 17h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17d 6h 6m"
+        ]
+    ], 
+    "LENS-413": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 17h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 20h 50m"
+        ]
+    ], 
+    "LENS-1458": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 7m"
+        ]
+    ], 
+    "LENS-1459": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "LENS-107": [
+        [
+            "Open", 
+            "In Progress", 
+            "17h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 7h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9h 5m"
+        ]
+    ], 
+    "LENS-891": [
+        [
+            "Open", 
+            "In Progress", 
+            "12m 11s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1d 1h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 5h 51m"
+        ]
+    ], 
+    "LENS-896": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2h 9m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 9h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "49d 2h 26m"
+        ]
+    ], 
+    "LENS-393": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 2h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 12m"
+        ]
+    ], 
+    "LENS-391": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 23h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m 4s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 23h 9m"
+        ]
+    ], 
+    "LENS-544": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "51d 23h 34m"
+        ]
+    ], 
+    "LENS-394": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 22h 7m"
+        ]
+    ], 
+    "LENS-521": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 55m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "59m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 3h 16m"
+        ]
+    ], 
+    "LENS-522": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 23h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4h 9m"
+        ]
+    ], 
+    "LENS-524": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 3h 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 4h 47m"
+        ]
+    ], 
+    "LENS-1214": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 19h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 1h 25m"
+        ]
+    ], 
+    "LENS-254": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 2h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "40m 35s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 7h 11m"
+        ]
+    ], 
+    "LENS-527": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 22h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59d 21h 18m"
+        ]
+    ], 
+    "LENS-151": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 9h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 12h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24m 5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 7h 38m"
+        ]
+    ], 
+    "LENS-154": [
+        [
+            "Open", 
+            "Resolved", 
+            "90d 23h 26m"
+        ]
+    ], 
+    "LENS-156": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 19h 22m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "17d 4h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 21h 39m"
+        ]
+    ]
+}

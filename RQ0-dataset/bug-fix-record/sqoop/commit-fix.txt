@@ -1,0 +1,1162 @@
+{
+    "dc256843181831e3916860f4fe530ea260d6f0c3": [
+        "SQOOP-2909", 
+        "SQOOP-2737"
+    ], 
+    "a87e225891b47f1427d956dd32954c2e6a223c95": [
+        "MAPREDUCE-877"
+    ], 
+    "ce5d28539718c5a82cc3615ed401bcb0a124e932": [
+        "SQOOP-319"
+    ], 
+    "ab4bfb9a8281d714b6549ba9d394d39e5c9c4d4a": [
+        "SQOOP-1124"
+    ], 
+    "d4d262591c342c863c02a9330e8e48b4be8cdf4b": [
+        "SQOOP-870"
+    ], 
+    "ec75e134cf08b797175225b9761d61ccf421e232": [
+        "SQOOP-582"
+    ], 
+    "7ef6a8013a99738e38a41b20f1f0edccc927a9b8": [
+        "SQOOP-3241"
+    ], 
+    "be36da39280dcaecb49fe367c60de92e9a35a57e": [
+        "SQOOP-410"
+    ], 
+    "24d08185c502e416265f1fa78300347ad02a4e1f": [
+        "SQOOP-3061"
+    ], 
+    "55d8b4a7b0dc1a1e0c93fce0ded37481710cd8da": [
+        "SQOOP-2767"
+    ], 
+    "820a10fb576513867651124985891d8672b25a0d": [
+        "SQOOP-1539"
+    ], 
+    "2312eeff5a56f63f7576196a588e621f8fb6c599": [
+        "MAPREDUCE-1239"
+    ], 
+    "98c5ccb80f8039dd5e1f9451c43443bb01dfd973": [
+        "SQOOP-3127"
+    ], 
+    "0ef6974ce605d850f75c46977f50ac1ebaee4024": [
+        "SQOOP-330"
+    ], 
+    "f47a4fc25c68e5d68fe7affc0ca36089aae0142e": [
+        "SQOOP-1433"
+    ], 
+    "7f25e88e8d1549481f786909f27944a861bf687d": [
+        "SQOOP-2367"
+    ], 
+    "78d107f171c1a9c2470411df3fe19b97a8a6c1e6": [
+        "SQOOP-503"
+    ], 
+    "c3b9a87d6007b6ee424d0637710561afe0a70666": [
+        "SQOOP-1239"
+    ], 
+    "95098af0e0c62826f469ea6ed1b7420d2cf55abb": [
+        "SQOOP-657"
+    ], 
+    "9147967eee4c72997fa858e2bbc8b9b7a58b994c": [
+        "SQOOP-2372"
+    ], 
+    "34bdf07bc847a727a9508fd0ed071635d644721e": [
+        "SQOOP-928"
+    ], 
+    "01a029949a5dc15ea0e0db22a09dc74551a8e22c": [
+        "SQOOP-317"
+    ], 
+    "e1c6e4a7317cc5893d1e930663c92a05ec424603": [
+        "SQOOP-1627"
+    ], 
+    "0c3db09ef9b6d908425c7d69130cc501a7e10416": [
+        "SQOOP-2132"
+    ], 
+    "fdcbaf5c5356af0f86f35894ab87e26c2a6419b1": [
+        "SQOOP-2399"
+    ], 
+    "33a7a81412d789371a235323ac15f875e1870894": [
+        "SQOOP-725"
+    ], 
+    "e57ae6aa9e9f04fb9047fb4521fca08f2245a918": [
+        "SQOOP-617"
+    ], 
+    "e247f76bfa1a58e5b39dda686c43e884a49bfadc": [
+        "SQOOP-1423"
+    ], 
+    "63d1fc2214be75cbb1bd3bc0acdb71b1bbb2eeb6": [
+        "SQOOP-1682"
+    ], 
+    "7e8a6fd894a268151da42d99fb32ab1a67e46577": [
+        "SQOOP-1490"
+    ], 
+    "ae9ab0fa37efb405b349e2c91050479ef4355526": [
+        "SQOOP-2582"
+    ], 
+    "0cfbf56713f7574568ea3754f6854e82f5540954": [
+        "SQOOP-3042"
+    ], 
+    "d0645bed54b28bb7a5a3563e563c941ce241f050": [
+        "SQOOP-651"
+    ], 
+    "e76ee6eea5aa3afcfe496967a6280540576e9420": [
+        "SQOOP-1029"
+    ], 
+    "3aed0316760fcfa97553fbffc61dcaf506040a34": [
+        "SQOOP-628"
+    ], 
+    "6f44c87140c2dab82103428ab2bab67dedf5b5df": [
+        "MAPREDUCE-673"
+    ], 
+    "c6627c04cdbc048a193d271c6e94023f921db4e3": [
+        "SQOOP-2370"
+    ], 
+    "a0b730c77e297a62909063289ef37a2b993ff5e1": [
+        "SQOOP-2880"
+    ], 
+    "b0de5ca47c63a9ff9cd62e8b1ec0499567a9790b": [
+        "SQOOP-490"
+    ], 
+    "3fc4ff714427df4cc0da7cd9fdb451703f8686c1": [
+        "SQOOP-2983"
+    ], 
+    "ad12695b59e7f0af09e27da8dca08e9a2be9b6a2": [
+        "SQOOP-1273"
+    ], 
+    "c081094e5ab3c9496a416b0fe816fa0c81a09023": [
+        "SQOOP-2437"
+    ], 
+    "7783f85f805d54f8377a438aebffb06593aec858": [
+        "SQOOP-3083", 
+        "SQOOP-2983"
+    ], 
+    "c109f671700ea601e5f3d83f61a04b02dc8f4828": [
+        "SQOOP-2296"
+    ], 
+    "4e0149b3ed8355cf290d82e33a977be5ee536faf": [
+        "SQOOP-2737"
+    ], 
+    "595bf13670b06d0261cf91560e056a3dcf1970b7": [
+        "MAPREDUCE-685"
+    ], 
+    "d01117f7b9d069ac50a737e1a817b4ba6cc49c6b": [
+        "SQOOP-336"
+    ], 
+    "2ca85527fd9f927add9127f91f3f3ef0c98fed6e": [
+        "SQOOP-3322"
+    ], 
+    "0d65247f2abfe432815709102c26021baedbbd33": [
+        "SQOOP-586"
+    ], 
+    "199d5eb37e9a2b579d5e9420b96daff99d3cba75": [
+        "SQOOP-445"
+    ], 
+    "9a3fd1484f7ff713a323f5687cb9681fc0c524da": [
+        "SQOOP-824"
+    ], 
+    "8711e293bdd9c29f9daa0fa28eacd5456a665231": [
+        "SQOOP-359"
+    ], 
+    "c8f9beec1d15df76e44ae99107a631454fb80d86": [
+        "SQOOP-2884"
+    ], 
+    "c0a370d57f8ea4226cb7190909751c66105a66f0": [
+        "SQOOP-687"
+    ], 
+    "f05b4413a4ceae45fbc444aed7cd11ac6abb62ba": [
+        "SQOOP-1368"
+    ], 
+    "926d92bac13ff8171d503aa0f7b429e030284e2f": [
+        "SQOOP-2783"
+    ], 
+    "d2bdef49669c400691d35158562dab9adc12a527": [
+        "SQOOP-3139"
+    ], 
+    "817195ebb0bd54c9a81f1f1960858f0b495e63bd": [
+        "SQOOP-382"
+    ], 
+    "6e555218fbe189b1cfe84f59200b8835f7ba39b1": [
+        "SQOOP-2024"
+    ], 
+    "2e4de0469db1eb346580f7afe9d0b2b92d2636cc": [
+        "SQOOP-2371"
+    ], 
+    "144d31e62a4ca94b4db0cfefaabd736fbe13c1cf": [
+        "SQOOP-854"
+    ], 
+    "803edc27925ec6ee950b2e7fa2ffea5727248fa6": [
+        "SQOOP-3152"
+    ], 
+    "67847bd071ca1b795126a152ea33ff90ee564519": [
+        "SQOOP-476"
+    ], 
+    "a1e45de8e9c85f0911c5c6c7c3bb7acfa76190e0": [
+        "SQOOP-1226"
+    ], 
+    "e280b47eacc3428040669df5f91cedccd5be7e46": [
+        "SQOOP-3123"
+    ], 
+    "a06f2f3a8305b7a58b35e27f1fa6aea820dda5aa": [
+        "SQOOP-3353"
+    ], 
+    "d3ef140fe8aa6bea4db7c168b8ae534016cc8ab9": [
+        "SQOOP-453"
+    ], 
+    "eceff4c8f42df5a4f13ea5bf69eb33c3020f12a3": [
+        "SQOOP-1764"
+    ], 
+    "653668f0f6c74225c66e100989717a5152253188": [
+        "SQOOP-2130"
+    ], 
+    "292fd08b7e1f64756fd132f790e11605bfea9ea1": [
+        "SQOOP-2290"
+    ], 
+    "6d8a670d3246ad1d1ab95720f26297d2b4e52d27": [
+        "SQOOP-3105"
+    ], 
+    "a0a03d7f313c11472ebc6c6acd2d97cde36f8417": [
+        "SQOOP-932"
+    ], 
+    "4505205588a13460d1e1183dfebeec56d4f66511": [
+        "SQOOP-489"
+    ], 
+    "b84ebf1e8475946dad2e9e2a83d58280d715ef1c": [
+        "SQOOP-2787"
+    ], 
+    "7567315de6056117755c2dd78fc02480ae12c884": [
+        "SQOOP-988"
+    ], 
+    "1d2454d4830756b6c321cacfb35e0026ba38ea3c": [
+        "SQOOP-1359"
+    ], 
+    "4aa174abee0fc2b8bfb407a4fc5829e22b746413": [
+        "SQOOP-856"
+    ], 
+    "c0831f20c0f8a43df95b85efa6f1a7a6fffd01cc": [
+        "SQOOP-1362"
+    ], 
+    "edf0ce2fee78583bd3f09ca2751d4b4d011a1dd7": [
+        "SQOOP-571", 
+        "SQOOP-524"
+    ], 
+    "b0b7b4779c13101930f402fe3c7d832ea0a503f2": [
+        "SQOOP-2349"
+    ], 
+    "a6bedca4b272173292ab3aeadedea7283aacd16e": [
+        "SQOOP-3330"
+    ], 
+    "21841614493bdbf69200f51ff0711e123726a61b": [
+        "SQOOP-2362"
+    ], 
+    "2d3341488f979d19da5dee71982a1c915170e149": [
+        "SQOOP-981"
+    ], 
+    "8c3c78b11cb5c2330e31cbf867d32974a011f268": [
+        "SQOOP-901"
+    ], 
+    "c51e0333a54f5180bbc7a9c97a84356a50d97016": [
+        "SQOOP-508"
+    ], 
+    "0488503a3a1af4fc7b7679e3f3457bf988c18701": [
+        "SQOOP-855"
+    ], 
+    "f31f577f08242ba44369d77e76f9952815dc30f4": [
+        "SQOOP-393"
+    ], 
+    "8b483c6dedc222a6ff0e8a706bbc9bfbabbbb333": [
+        "MAPREDUCE-1146"
+    ], 
+    "9aac957b9c0e9f6c644df5cb529d5cd1a118dff8": [
+        "SQOOP-1370"
+    ], 
+    "3153c3610da7e5db388bfb14f3681d308e9e89c6": [
+        "SQOOP-3283"
+    ], 
+    "dcd5d843c2f866035e4246eb6c593b37685bfda0": [
+        "SQOOP-1437"
+    ], 
+    "3fee25eb8fa51362f3ec6ff220d223a4f62c69be": [
+        "SQOOP-599"
+    ], 
+    "34e4efd0d7a6d34b3b89a7d43271ebb5aa8193a9": [
+        "SQOOP-1138"
+    ], 
+    "7808c6bc3e7116534fb2bf83472c8fa8d2d8a0f4": [
+        "SQOOP-2971"
+    ], 
+    "4992ce7515d6662f0b3be1c9103d81f9cd09f6e8": [
+        "SQOOP-332"
+    ], 
+    "465c2751f7cc69b9808b55f8d1fbf93b666e25a5": [
+        "SQOOP-616"
+    ], 
+    "0bd1e8935333156297f917f37787c62e0b9357d8": [
+        "SQOOP-1034"
+    ], 
+    "1e310ad9f5608c08d0d1850c6f63aa9aff4c4239": [
+        "SQOOP-2780"
+    ], 
+    "5d767e796d70830657496558514c349074fbb3eb": [
+        "SQOOP-1071"
+    ], 
+    "82c117c4f1411f158d211af660abc77924cc23f6": [
+        "SQOOP-818"
+    ], 
+    "da0b7921a91c8b2a5a8b6096fa5fe88f1d600b20": [
+        "SQOOP-437"
+    ], 
+    "6a215d0fbc03da30055f7fa96fca90b17bad8f29": [
+        "MAPREDUCE-1469"
+    ], 
+    "3c1fb870e20bf2d0316a7eb0aa524e437499ab05": [
+        "SQOOP-3393"
+    ], 
+    "0d35911416ad3bfab7a93311bea8aa697279b60c": [
+        "SQOOP-1472"
+    ], 
+    "d4767e9f61ffba74a6948eae7b9d03d5c03d6899": [
+        "SQOOP-615"
+    ], 
+    "35ad630d7724ba17be1ef6af5aee7c3bceba904f": [
+        "SQOOP-2057"
+    ], 
+    "d96f867bc9f5206e0d14be282501bd4311644687": [
+        "SQOOP-3243"
+    ], 
+    "8c15e07cd011ce69e9c02b319aa64b7f93fb051b": [
+        "SQOOP-1406"
+    ], 
+    "56b5a372841a5ae132e65151b4dae7832cd9b9e2": [
+        "SQOOP-1190"
+    ], 
+    "75f2b707b60a3540a19e675e8a583c16d3f2db75": [
+        "SQOOP-607"
+    ], 
+    "be30a344ee28ae60fcce9e9e45a0ec73c93209a7": [
+        "SQOOP-3074"
+    ], 
+    "a80e2d9331dd0e6b4c18601bd4e0f0671bbb41a7": [
+        "SQOOP-454"
+    ], 
+    "43319f1d71058973f285d6a3ab95a53395793b58": [
+        "SQOOP-2753"
+    ], 
+    "1b32a53e669a3ed0745df2f2c8fe5f302e052f28": [
+        "SQOOP-2454"
+    ], 
+    "df3a81b50fe8d2b3c501706fd5d2937804cad170": [
+        "SQOOP-2295"
+    ], 
+    "6523ebb176a8780eb88ba4f6556a7904c1e622ff": [
+        "SQOOP-1249"
+    ], 
+    "79b71726946f1bc792e034a32ee10835c58d5033": [
+        "SQOOP-1387"
+    ], 
+    "bae5604a3c2dcfa4c908b5370cb55bb4dc54235b": [
+        "SQOOP-853"
+    ], 
+    "40f0b74c012da917c6750a0fcce1f0ae13bd5f46": [
+        "SQOOP-3378"
+    ], 
+    "6dd6a4fc863074d570919b183fdf5c20e86c5e0b": [
+        "SQOOP-2949"
+    ], 
+    "5771a2da5fc071ca8f80f222e8468a29419e845e": [
+        "SQOOP-3074"
+    ], 
+    "9c539163caee11d8ddfa0da60973dd132726e90c": [
+        "SQOOP-474"
+    ], 
+    "e1d04689114c656d54fbe9b73bc9cbd77aa042ba": [
+        "SQOOP-1540"
+    ], 
+    "a803f27ddefc800cd1173002b92939bed613504b": [
+        "SQOOP-1316"
+    ], 
+    "8e0ce98551d2436828d4deb6dd7a8b22fbed6824": [
+        "SQOOP-358"
+    ], 
+    "14754342d3a9bd6e146b9628b2e103ff30f310d8": [
+        "SQOOP-2986"
+    ], 
+    "0e8a7dc73e4b8fa64a8c222384fe0027045b8a17": [
+        "SQOOP-652"
+    ], 
+    "389187058f0386a807ead767f5b9e11ef5b51b4b": [
+        "SQOOP-992"
+    ], 
+    "797530882078e35a5a60c7e950361c58b7eba4e2": [
+        "SQOOP-448"
+    ], 
+    "2576ca2f03a7929f7ff1d4b10867fdee382e8856": [
+        "SQOOP-2191"
+    ], 
+    "39feebff2a12bc9b7c903073c7be8b605baa9d48": [
+        "SQOOP-2779"
+    ], 
+    "e90e244396ecffeb332633c89e641357adcf8eda": [
+        "SQOOP-3435"
+    ], 
+    "1014f4b54a599f14340369b9437930a8367d79d5": [
+        "SQOOP-308"
+    ], 
+    "933e71ef303f5330c541a6e8f3c5641f368d8105": [
+        "SQOOP-1685"
+    ], 
+    "97f272a4ba808a8630e4bd37d902a29d8a2b5402": [
+        "SQOOP-462"
+    ], 
+    "666d5499a2343c3489590deed3ef839e5532281d": [
+        "SQOOP-860"
+    ], 
+    "2a27bf28fb4bffc06ed07b28349e1dd11fa8320b": [
+        "SQOOP-473"
+    ], 
+    "032bc54c86c79f2f032211ce6505ff9c9fbce31e": [
+        "SQOOP-2281"
+    ], 
+    "412bc4fd8c5ad74ab97c63666b37894a0af93696": [
+        "SQOOP-1631"
+    ], 
+    "4373a338bace6a38d7d220d04ff60e919fb6c3d7": [
+        "SQOOP-468"
+    ], 
+    "a220ae46948bd388da728b3816d817b3cae31ce4": [
+        "SQOOP-654"
+    ], 
+    "1dd50cfb2ae327b0df8393dd96d1adb86bb2f65f": [
+        "SQOOP-2561"
+    ], 
+    "22ed175b762a7de5430eedc01052a60a217047f5": [
+        "SQOOP-385"
+    ], 
+    "78e2c2e297e2ef21f215528c6b6f03228bb4ce54": [
+        "SQOOP-430"
+    ], 
+    "695666acdbef7b979d2cd64dd96d1808d7241fc0": [
+        "SQOOP-636"
+    ], 
+    "b4b9920c4ffb8980b285538186fc90ae689cee2e": [
+        "SQOOP-929"
+    ], 
+    "b763c5724896822504108cb9ca3adc485ec7fb0d": [
+        "SQOOP-426"
+    ], 
+    "1d9339d2a4495a09b923d0051b723db26232148f": [
+        "SQOOP-859"
+    ], 
+    "127d2ddec1c35aed5211f2729083bcc8987b4ec5": [
+        "SQOOP-1185"
+    ], 
+    "010042dd47296e0132944cba146c077754b15195": [
+        "SQOOP-3255"
+    ], 
+    "92e94b911d203fafbd4f3784badd29431aa5bf78": [
+        "SQOOP-1078"
+    ], 
+    "afd6a8610e8ac4291e52c2c167fe7b8d6f706be8": [
+        "SQOOP-3159"
+    ], 
+    "fa4e90365024b7aa0b07591a873b07d87c75e071": [
+        "SQOOP-2339"
+    ], 
+    "bbc2c17a77cb17b195f465d9ab15d45f2b39c6b1": [
+        "SQOOP-1227"
+    ], 
+    "07cc3b3fad2b0ce67f22bbb18673a8d1f1a35636": [
+        "SQOOP-1228"
+    ], 
+    "2b70666b04822ade910326b9665061e0a7f0eebe": [
+        "SQOOP-3140"
+    ], 
+    "fd4f25baa499ffd4cafd4963f7676e83eda3b784": [
+        "MAPREDUCE-923"
+    ], 
+    "1d0ebc27308609a21f3762a64019098b4ae36e6e": [
+        "SQOOP-936"
+    ], 
+    "d25eb2e1907ff4f8acc03eeb7fc982e61438ffce": [
+        "SQOOP-1493"
+    ], 
+    "c2351511e618d1abb3cce78eab85545247a233c0": [
+        "SQOOP-2847"
+    ], 
+    "72e3bfdd6677f8630678d8aa94da7a8652692033": [
+        "SQOOP-1117"
+    ], 
+    "a840f41fc76688de6ab0d61e2cba3af32b2a9a96": [
+        "SQOOP-721"
+    ], 
+    "bcefb92277444aab49ee229dd6db542e7f914a3b": [
+        "SQOOP-1759"
+    ], 
+    "658c15848f466e020975d91114120900dd0f9cbf": [
+        "SQOOP-976"
+    ], 
+    "d3758915bb8b265ec157cd4bc21a7e17d922458e": [
+        "SQOOP-1278"
+    ], 
+    "90d15511d515323ce68bf31a451282b8b446b6f7": [
+        "SQOOP-528"
+    ], 
+    "feddf1d6af0cf1366fcba1c43b16c2fd56d61118": [
+        "SQOOP-578"
+    ], 
+    "3e5bab49ea3b48626abe3b6316820159fe4bed41": [
+        "SQOOP-2737"
+    ], 
+    "d902d2449f60584de58a101fd128626944d6cd53": [
+        "SQOOP-1329"
+    ], 
+    "5f6dd35e8e1856ca5cbde35945f243639090ef03": [
+        "SQOOP-480"
+    ], 
+    "967f0eb0f3977c0fae4cdc1a80b37b282ad0042e": [
+        "SQOOP-2597"
+    ], 
+    "5ab5190304d0e13d1c5eaa56d1f486f3106529d3": [
+        "SQOOP-3420"
+    ], 
+    "420fc3d53f1db62710710b93b9801cff5e4d1b53": [
+        "SQOOP-2055"
+    ], 
+    "391091768651178126e93e52b198ed19ebedf220": [
+        "SQOOP-1684"
+    ], 
+    "7d6667ddb65ff1e5c5ff2c4b764a8b3996016bf1": [
+        "SQOOP-2990"
+    ], 
+    "8fd98dbe1fcc0462dfa7b89c9bdfcc5adff2c24f": [
+        "SQOOP-448"
+    ], 
+    "fea72de6e6f61f5849d991b385009e730a3d0694": [
+        "SQOOP-821"
+    ], 
+    "a7f5e0d298ffbf8e674bd35ee10f2accc1da5453": [
+        "SQOOP-3288"
+    ], 
+    "06183f7abae012e961f2431dbb62282a0bf2bbf0": [
+        "SQOOP-1167"
+    ], 
+    "ddb81e185be72c7530498c379e6ad45e6d54a2d6": [
+        "SQOOP-1032"
+    ], 
+    "b66a4656bdfac47d33dec920002347f34400f117": [
+        "SQOOP-950"
+    ], 
+    "e7a8e519f352ffca1fd1e91aaeb6eac2f554f3f5": [
+        "MAPREDUCE-1327"
+    ], 
+    "8e5006084924f99270ee8ef435d392f1a7a41b00": [
+        "SQOOP-3013"
+    ], 
+    "5d8152eac846c30a87e327ec401c9403020620a5": [
+        "SQOOP-2607"
+    ], 
+    "64fd3d2d32b4ef21f72c92db152c4e6fbfe61d15": [
+        "SQOOP-3038"
+    ], 
+    "729e681f106d58d4048e002a00b1112cec3a0a5b": [
+        "SQOOP-2896"
+    ], 
+    "0f13c474bf91f6609b9bdd7a1aa25b250f07e398": [
+        "SQOOP-3021"
+    ], 
+    "d1e6c5f52f8913a619cfe77c87970d7938c84844": [
+        "SQOOP-3081"
+    ], 
+    "e48b1ec5f64cd3f614e2c5a34f6301e5c58fdfda": [
+        "SQOOP-2137"
+    ], 
+    "00d09b7b252ff889069883960e007513422c24d4": [
+        "SQOOP-979"
+    ], 
+    "40856655c33f39e67d449f138163e57e7f3d626a": [
+        "SQOOP-428"
+    ], 
+    "122d1c0b27c0f5e4532f7a23ce016a5c5756321a": [
+        "SQOOP-3415"
+    ], 
+    "642b41a9e843d33bfd00f42a70160fab21cc289a": [
+        "SQOOP-3072"
+    ], 
+    "03a895c5881b6dc9f748480b7d0562377d3cc978": [
+        "SQOOP-3321"
+    ], 
+    "1ffda71a2d00476dd57e72b785de8d9bb5085771": [
+        "SQOOP-2400"
+    ], 
+    "974b886c4a51a0c116caefaaad94edcfb54de162": [
+        "SQOOP-2363"
+    ], 
+    "b4afcf4179b13c25b5e9bd182d75cab5d2e6c8d1": [
+        "SQOOP-2952"
+    ], 
+    "f3783284217a75b5313e91b73bd183df4cdddff4": [
+        "SQOOP-3014"
+    ], 
+    "28af5122ea8778b5fcd6341a492d64283c706b08": [
+        "SQOOP-1031"
+    ], 
+    "8f3989d9ad32167a2d259377f5634b2ee32ee6ed": [
+        "SQOOP-3010"
+    ], 
+    "8d3454dc60661162c1daa510c52fd60c483e3d16": [
+        "SQOOP-1250"
+    ], 
+    "9bde3ec5df84aa8e1db221df98147cc2c1132e49": [
+        "SQOOP-392"
+    ], 
+    "fd3634dc3c6568c5d1f3515e8f47b474805b5809": [
+        "SQOOP-341"
+    ], 
+    "0d5f73ad8dccd4630e4762361513b1583b2b1a2f": [
+        "SQOOP-846"
+    ], 
+    "00bc001fb9e263c1910b994309d8e3445472f029": [
+        "SQOOP-1129"
+    ], 
+    "64c5fc3755bb26b48f515e1c2da6c5c5249e2b76": [
+        "SQOOP-2282"
+    ], 
+    "f19e2a523579db8c28a96febfd3cf35a5d58adc6": [
+        "SQOOP-2747"
+    ], 
+    "7a2079e7425bd6b115656c023cfe0e610a3ed39c": [
+        "SQOOP-1006"
+    ], 
+    "92d363da65b8b4e0ba52695ebff049a9253cb52b": [
+        "SQOOP-1372"
+    ], 
+    "49c0bf9b2e654eb36a4dabd989c470788c7e9ed8": [
+        "SQOOP-1260"
+    ], 
+    "28f5aa03ba182a40e1609a02f389d490f9108147": [
+        "SQOOP-1400"
+    ], 
+    "075efe50a08a33c6c921a2452581d1e352797be3": [
+        "SQOOP-414"
+    ], 
+    "3a475c9694e208fd64e81441a8942ad8381de522": [
+        "SQOOP-2170"
+    ], 
+    "e92daf2e5e3baa5d9f3cc75b0d904c88ec3e68b9": [
+        "SQOOP-2136"
+    ], 
+    "ead68ad37e1f7ecf03cba4718acbde8282887c9b": [
+        "SQOOP-1053"
+    ], 
+    "b79c4b9e85e21d041cc9bc0b16d2f87456775224": [
+        "SQOOP-526"
+    ], 
+    "6987d290fed6c5b6abed27ea13db258cde2565dd": [
+        "SQOOP-2387"
+    ], 
+    "0cef53257f66b437890c8aed9c7a0fab23e9d980": [
+        "SQOOP-539"
+    ], 
+    "c3e868ce904f54e243e7ef27ffa16f1d1ea559c6": [
+        "SQOOP-3044"
+    ], 
+    "7d775935b6c0d19a5c99b5a7769b0740d4b1dca5": [
+        "SQOOP-571", 
+        "SQOOP-524"
+    ], 
+    "3ee6739c9550ce08876d22fdf04228f8a8343a0d": [
+        "SQOOP-3248"
+    ], 
+    "cad898768b7803b63ac76b96a09343ac91437530": [
+        "SQOOP-340"
+    ], 
+    "ad53e4e334885980bf4fcefc0e85336c458dba7b": [
+        "SQOOP-1519"
+    ], 
+    "69463f0b3ed3af28581202ef59079b9df7bc0bad": [
+        "SQOOP-3267"
+    ], 
+    "7d2939b3a100ce533fd70355bb34562465f20487": [
+        "SQOOP-323"
+    ], 
+    "d21699e2ab00829a90ffaf5ada1b87da69683157": [
+        "SQOOP-2863"
+    ], 
+    "c51c7daeeda1704375ceacb97fc5d5793a6b9f71": [
+        "SQOOP-2264"
+    ], 
+    "b37e0c6053b92f2d7a56026e7fde5637b7f70588": [
+        "SQOOP-3380"
+    ], 
+    "9de589e83cc23314df215d5713848c95b6ebaf1a": [
+        "SQOOP-840"
+    ], 
+    "5f888fefdd7d0ab93dfb8ceab38131c0346be35c": [
+        "SQOOP-481"
+    ], 
+    "c9c3f6a3a294ff495c05c62bdd4286b0f16b28c7": [
+        "SQOOP-2642"
+    ], 
+    "83f0c1a40b96d7aab8262fae527066770dba097d": [
+        "SQOOP-2911", 
+        "SQOOP-2863"
+    ], 
+    "688f6169fa884197a32947aab8d0199e893d01b8": [
+        "SQOOP-409"
+    ], 
+    "b666fe1bb6ad37d298838afa5f4436f42d575e9c": [
+        "SQOOP-706"
+    ], 
+    "f4d5ed5375a7c4f94646ae0faa815b63ad641343": [
+        "SQOOP-907"
+    ], 
+    "7dfa96268ba97efd836b301fda75c426cec07c2c": [
+        "SQOOP-314"
+    ], 
+    "ad7d046ef1d68b46aacdf6e124056f5901e95e5c": [
+        "SQOOP-3082"
+    ], 
+    "b60aef1ffbb294bc64eb2c13ab797689a4e21288": [
+        "SQOOP-3033"
+    ], 
+    "334632e92945bf2c4fe061c6293964cabf74a99d": [
+        "SQOOP-395"
+    ], 
+    "1a6a83607d7e725c60a72573587827bd615f248a": [
+        "SQOOP-2263"
+    ], 
+    "855c56fef8ab833e63587f17f70030e2c7764f4a": [
+        "SQOOP-3233"
+    ], 
+    "de6fa8279d8125afb4fd2d7f1e8c7e731d70451d": [
+        "SQOOP-2470"
+    ], 
+    "1bc8b6bfda95f0a6c5cecdf1d2b874e4e22c23ee": [
+        "SQOOP-1365"
+    ], 
+    "55c5f27f9eb3965ef35640c1bbee8df382aac3f0": [
+        "SQOOP-1268"
+    ], 
+    "d8c4b3ccdd06c5e300e4552b962e97c714651797": [
+        "SQOOP-3138"
+    ], 
+    "403f0aece216ae066ebee957c88a19e06d265df0": [
+        "SQOOP-1027"
+    ], 
+    "e98075976bf53d3e13fa31047b7274b899b37ae5": [
+        "SQOOP-1246"
+    ], 
+    "c65b56f6f2a1c1bd75818c5ca2fb4b14eb958be3": [
+        "SQOOP-1322"
+    ], 
+    "ddd454b9b67bd32c12cbd1230c02d2a20c27d917": [
+        "SQOOP-1209"
+    ], 
+    "da5ab302e974b566eb06c895161fbeb777dbc10a": [
+        "SQOOP-1271"
+    ], 
+    "314dfa0433b36bef25ed81c6a9b7526101c00110": [
+        "SQOOP-1520"
+    ], 
+    "d54dddf0b81d1d196788b4e6422b14b88c2a05ac": [
+        "SQOOP-2326"
+    ], 
+    "7bbaf99683761e0d11a024f4d1d76ee6d2cd8330": [
+        "SQOOP-2298"
+    ], 
+    "1c3d0efe2f77b08fab5d1ea0a06e1b4ae2d95d14": [
+        "SQOOP-2128"
+    ], 
+    "28f415ff2f20f63e19b3c52a0e53ca566d03bac5": [
+        "SQOOP-1261"
+    ], 
+    "d2c062b202a5d44bf5b2c35f98734f9a01cc9b74": [
+        "SQOOP-2406"
+    ], 
+    "8b7bde6f3525cb19dd73a015ba10bb17137d05e5": [
+        "MAPREDUCE-703"
+    ], 
+    "ac217a032c0755edac713ff53b3f55b7f2f46706": [
+        "SQOOP-2920", 
+        "SQOOP-2920"
+    ], 
+    "2b0456d6ce4b1e20bdd292c992efe231965372ae": [
+        "SQOOP-829"
+    ], 
+    "2b4e4d9bf04e1b5686dbe54c467a816bf4a11a3e": [
+        "SQOOP-1125"
+    ], 
+    "184fdefac5697bb164ef646b2e77a8fa841a0d5f": [
+        "SQOOP-3248"
+    ], 
+    "7c1754270ff21f533088b946c873321f890da791": [
+        "SQOOP-2999"
+    ], 
+    "5bfd84e137e8460408775e4c62bdf052bc262337": [
+        "SQOOP-883"
+    ], 
+    "c66c3ff93a34842bc0d8f2b919dcb92ad442d9d3": [
+        "SQOOP-346"
+    ], 
+    "b74084196fce51859753f782f667c0b43d2599c7": [
+        "MAPREDUCE-1235"
+    ], 
+    "005e5d6af82679b64a9683366aa5ae67e216f18d": [
+        "SQOOP-3362"
+    ], 
+    "84020d18a11a716644e72aad303bc0705f6a9ad9": [
+        "SQOOP-3269"
+    ], 
+    "ae54a2dd91face4269b3af5ada579e69f4c39c64": [
+        "SQOOP-2324"
+    ], 
+    "db8c2470002563441c376fa75e05ea1eaad51f22": [
+        "SQOOP-2915"
+    ], 
+    "21040519b09634b0c4d7ac9a43ef033d48ba199b": [
+        "SQOOP-339"
+    ], 
+    "fee80ac017b0bbe4120bbdfa75423c370dca342c": [
+        "SQOOP-2535"
+    ], 
+    "3bd2952a9b70724f2c180a4b7450043c5de24552": [
+        "SQOOP-2995"
+    ], 
+    "8b6eb33f1720f9b25732903a5519d91587e31c39": [
+        "SQOOP-1970"
+    ], 
+    "ae8d1c767403bf1a708c1de4cb5e633c3f951c19": [
+        "SQOOP-450"
+    ], 
+    "69f04fff8b9489330b300a987c834ba08acbc9b4": [
+        "MAPREDUCE-1395"
+    ], 
+    "3a67d2a1f49201b0a818dee597b4ff7103f0eb05": [
+        "MAPREDUCE-690"
+    ], 
+    "1213b7725a65e561d8db071141e04944c85d1f94": [
+        "SQOOP-3350"
+    ], 
+    "e2d6499da8567888989908ddcd078f046e859679": [
+        "SQOOP-585"
+    ], 
+    "69203028b2f22213978352746dffaefff6d572c8": [
+        "SQOOP-1663"
+    ], 
+    "6174268d28ff0c0638fa8db39fb1a1e943daa285": [
+        "MAPREDUCE-1313"
+    ], 
+    "4180d50c74713fbe635660572759b2cdb8603f80": [
+        "SQOOP-2294"
+    ], 
+    "166b12965d5e21b240321c16ad2790b2a2ea7676": [
+        "SQOOP-352"
+    ], 
+    "03ed21b4f1958a4aeba33ace2a3f06ac34626f9d": [
+        "SQOOP-2531"
+    ], 
+    "56b4b3db944eccbe6ca97ef8d535c597918d3446": [
+        "SQOOP-325"
+    ], 
+    "5fc7a680f854c4a03e9a581079172d453d1a059c": [
+        "SQOOP-1369"
+    ], 
+    "916983e137ef9c382f8ab0c1873b423b297d9e64": [
+        "SQOOP-364"
+    ], 
+    "fe67a0a5c0a6875e3cd3e87feb3df1a73939be57": [
+        "SQOOP-3071"
+    ], 
+    "666fc48609da5527fbf42109f0a2b6d67eb31242": [
+        "SQOOP-421"
+    ], 
+    "52604b1661a8e4e32dec759343f6c72b8546766e": [
+        "SQOOP-1779"
+    ], 
+    "144cdff2127edc3fa9f0e903671e5f4f8feccc27": [
+        "SQOOP-1410"
+    ], 
+    "71638a355a95e634b8797cddf2bd94b68a80eee9": [
+        "SQOOP-1224"
+    ], 
+    "47f1ef75ab848ee95f5360eca3e6c74eb81ebd2d": [
+        "SQOOP-524"
+    ], 
+    "408358930d6fad9ee5b4c75887dda9cedc0ff61d": [
+        "SQOOP-2617"
+    ], 
+    "6f92225b84682c56b824d4261d5f573afbb0e451": [
+        "SQOOP-505"
+    ], 
+    "ec18e6f47ebe4308495052afb4a2fd6f9ad0102d": [
+        "SQOOP-3360"
+    ], 
+    "e077f9978343a68833e16e0fb044a687fa208aad": [
+        "SQOOP-2712"
+    ], 
+    "8e0be7cc592fd5095b45ad00330830c860166f8d": [
+        "SQOOP-521"
+    ], 
+    "e4f12a99bfd01d25666e32c9a753b4ff42aef583": [
+        "SQOOP-2746"
+    ], 
+    "9dafccda0d69a7ca831a4f279f08a55b48a8302d": [
+        "SQOOP-2810"
+    ], 
+    "fa40fcabea1dc8bc83bf273cbe49c43da26c83e2": [
+        "SQOOP-1179"
+    ], 
+    "462bd9170c0ce7831a6338cffaca50ab24eb201c": [
+        "SQOOP-1339"
+    ], 
+    "79f941b7e14df9b555084a7eee05980221d05f9e": [
+        "SQOOP-796"
+    ], 
+    "fd0143b5ae3d6a616d76d50c0df212a0291e4e41": [
+        "SQOOP-825"
+    ], 
+    "84adbeea26000ce23426b4c1582654450c980fc2": [
+        "MAPREDUCE-1037"
+    ], 
+    "db4a8fc2fe3873a8ff5560c325265f5239ce38ac": [
+        "SQOOP-2920"
+    ], 
+    "40da832916da99035c8bfcdb70125f710b955296": [
+        "MAPREDUCE-1394"
+    ], 
+    "a1f79e13893619d0537885579779d042e86000ac": [
+        "SQOOP-2297"
+    ], 
+    "e0590385e3c35fc54ee4473b7c565fb1a8f3af14": [
+        "SQOOP-488"
+    ], 
+    "4686e0fee777cea8557bf76bd50b711f5cd81413": [
+        "MAPREDUCE-1148"
+    ], 
+    "0c3cd62fca7df775b0795334e29088c09b4e77a7": [
+        "SQOOP-730"
+    ], 
+    "41d8ca2721a86d7f99ee4e39d94b8762967c756a": [
+        "SQOOP-2017"
+    ], 
+    "74ec89452b574f29fb0ef3615c18184c86a559cc": [
+        "SQOOP-1429"
+    ], 
+    "fc656273d494eff26a1d18adab0bfbd32222cb56": [
+        "SQOOP-373"
+    ], 
+    "84071181265f98959ffdfc41425022f8251d2429": [
+        "SQOOP-1192"
+    ], 
+    "2de5c850ec4a3ce07ccdfe932ceac7171af7351a": [
+        "SQOOP-1617", 
+        "SQOOP-1400"
+    ], 
+    "c688915e8e88f48563181f5c47826e1a026c2374": [
+        "SQOOP-1259"
+    ], 
+    "7e14e380f7dbc57543fbd5bdef00c135401abb29": [
+        "SQOOP-1524"
+    ], 
+    "91b698ab120863b6bc60ad5c0223141355e2e3bb": [
+        "SQOOP-1298"
+    ], 
+    "f6761e6d74d9022d7e3f3a103a7874e4f356ffcc": [
+        "SQOOP-460"
+    ], 
+    "9c7638d74180cc607ef509b9dd9e6a45ff60c041": [
+        "SQOOP-2745"
+    ], 
+    "c7f64e4f8cd15b4f8a71b40d474c29fb2676492d": [
+        "MAPREDUCE-1212"
+    ], 
+    "1e2bc6e72b4f9393b6816dedb29e4544fbaeb254": [
+        "SQOOP-1358"
+    ], 
+    "71956cad3f18b385845fbb2d803612766f269590": [
+        "SQOOP-2103"
+    ], 
+    "203d6b7267e399c282ed9b645b77012879c987bc": [
+        "SQOOP-2723"
+    ], 
+    "7fb097829f27b1c78248b632852c948898165366": [
+        "SQOOP-1303"
+    ], 
+    "77021d2a61b155f47734f1047403ab1eb4281e65": [
+        "SQOOP-2651"
+    ], 
+    "fca329b326df75121f6be6411dcd31b3886249cc": [
+        "SQOOP-2164"
+    ], 
+    "7c5b46fb2860e7401e84542a01a61ef415cbe519": [
+        "SQOOP-830"
+    ], 
+    "309cf45e7e90b450db7e9d719bec2dc1a7ff96a3": [
+        "SQOOP-1474"
+    ], 
+    "1b503426123652bb1b577000b9fad2e4894b095e": [
+        "SQOOP-418"
+    ], 
+    "fd756a0c403e2d3c982096b165e53c2fefe8f31f": [
+        "SQOOP-891"
+    ], 
+    "d32137f15c06827dea50b293f4d422481cb374cd": [
+        "SQOOP-2283"
+    ], 
+    "02f45c4161dffeca5253e21967628ec27562b796": [
+        "SQOOP-536"
+    ], 
+    "fa8b733e4804c15a40b3eee7af635fb48bdbe9f5": [
+        "SQOOP-2381"
+    ], 
+    "b07906a2a2fc9c5d2808cb53acf1e855cfef0314": [
+        "SQOOP-1052"
+    ], 
+    "11b1c917398517568451c1923f4116a0a446ee3a": [
+        "SQOOP-1412"
+    ], 
+    "159e924d4f34357d776ec9a5030e141c665ab347": [
+        "SQOOP-1399"
+    ], 
+    "e23d1571bd24d79583b832d22658fe2d557de65f": [
+        "SQOOP-1494"
+    ], 
+    "cfe503744b885defa0998462b4210bee12dec518": [
+        "SQOOP-1411"
+    ], 
+    "c5c613cb9260d21af6789f3e8c98a620f245844a": [
+        "MAPREDUCE-1444"
+    ], 
+    "ba058ac3326aed16eca30c42faa7f0cb391fb299": [
+        "SQOOP-3149"
+    ], 
+    "267ff3fb048d78606cbe0be1ef8e271fa1b19a9f": [
+        "SQOOP-2707"
+    ], 
+    "3aa442d57556fecee42c2ee0c431668b1f517e35": [
+        "SQOOP-349"
+    ], 
+    "c913f77f284cb27ce5aa43fd433b59a52d3032b3": [
+        "SQOOP-1279"
+    ], 
+    "230c687d8824191ef8a536c9ad6c0ccfdc285a2a": [
+        "SQOOP-329"
+    ], 
+    "1eca8219cc4468bacfaebbf735968721b50ef4e0": [
+        "SQOOP-1890"
+    ], 
+    "5495113781286de00473eb3d8c535f4288454082": [
+        "SQOOP-906"
+    ], 
+    "7c830c8186aacdfe3a2b9f73ec6a6f35e8e70fc6": [
+        "SQOOP-968"
+    ], 
+    "44ac3012f19e479dd8ceb487bf029f0bc09c393b": [
+        "SQOOP-2567"
+    ], 
+    "24aa26915c6ff57d9ee1d67b0183a74458f6a889": [
+        "SQOOP-425"
+    ], 
+    "73cc549d9d70d407ed7f95bc25e623381b75c52d": [
+        "SQOOP-1097"
+    ], 
+    "bd51d987b81582692e300b99548365ff5d85bbaa": [
+        "SQOOP-3069"
+    ], 
+    "fa8518998f527653587c8f74ebf9990c22842dbb": [
+        "SQOOP-2257"
+    ], 
+    "15ae44016d94bcb4eb1c9e965d8424d395b3b959": [
+        "SQOOP-1107"
+    ], 
+    "20b16fd4bd0b045a11006d81ddd1bcc8bccd01db": [
+        "SQOOP-862"
+    ], 
+    "c32010f440f139b37840df6a3433f875898136d5": [
+        "SQOOP-1826"
+    ], 
+    "4f490b47a3548059018f5f447b2b6e8c9cedb546": [
+        "SQOOP-422"
+    ], 
+    "cfa7927c2a3c129d140da7fa13ec9c97e17566dd": [
+        "SQOOP-2839"
+    ], 
+    "e93ec9f39f9c0893e58f61f17fa031af4b54c35e": [
+        "SQOOP-959"
+    ], 
+    "81624ddf3c8ca5834ab015ebafc8b8649ac36ab7": [
+        "SQOOP-1398"
+    ], 
+    "32a9d56eadc0f6e32d3c9cee0707287c90541cb7": [
+        "SQOOP-482"
+    ], 
+    "2c5127213dd15c95349f49f9a10bf9a2894db333": [
+        "SQOOP-433"
+    ], 
+    "d408252086d4351eac211cfc2203dc15c660ad31": [
+        "SQOOP-2145"
+    ], 
+    "681461461a7ddbd55ca4997760f36f3dd6410b38": [
+        "MAPREDUCE-1174"
+    ], 
+    "6905415332c0061ada2e66405ea06cadf23dd7a0": [
+        "SQOOP-3157", 
+        "SQOOP-3152"
+    ], 
+    "62bf442a8c417cc39bab04a770370c41cc81c853": [
+        "SQOOP-1297"
+    ], 
+    "0c8b1054818d2aab0089499a46a8281b69b1bfd2": [
+        "SQOOP-2846"
+    ], 
+    "05774d49bef891ba8552ed717cf2945161a75352": [
+        "SQOOP-741"
+    ], 
+    "9110142436e51e7cf5c7faaf9d9836414bd6d3a2": [
+        "SQOOP-2132"
+    ], 
+    "28bbe4d4614d55f834e58b07285e32a97522e329": [
+        "SQOOP-2920"
+    ], 
+    "dc4b60dc8a817fc91630baed99578a85d23ee506": [
+        "SQOOP-1422"
+    ], 
+    "1b41c9a6d25e8bbe2a9c35c5ed3deb4530a67f28": [
+        "SQOOP-1170"
+    ], 
+    "89366b49b3d7227180b35726c5c7919a7c94e736": [
+        "SQOOP-2343"
+    ], 
+    "b2d3a682adae553902897466555e2766ae665619": [
+        "SQOOP-1030"
+    ], 
+    "bbfa59a61cf7835034823d153817ecc5ab472e3c": [
+        "SQOOP-2254"
+    ], 
+    "7573450e18a577a0c6c61b2eae40ff47aa17c572": [
+        "SQOOP-808"
+    ], 
+    "d46833b64682be32ae860a05bd19ba9d33da0142": [
+        "SQOOP-832"
+    ], 
+    "05929a73e5740e57f836ad6fd933b39470770db1": [
+        "MAPREDUCE-1310"
+    ], 
+    "931da2b126276d227c22b874ea65cda3a9059124": [
+        "SQOOP-1083"
+    ], 
+    "aa6813e36d3b35ecacbce914a163567b19dd03af": [
+        "SQOOP-1008"
+    ], 
+    "152fe93002253b8b3e433d4193ad1e9d1c1591ba": [
+        "SQOOP-2864"
+    ], 
+    "baf51351281842bd660572fcc05c89d6407913c5": [
+        "SQOOP-2286"
+    ], 
+    "d0f99c01c7afa8fade70c4429899e36d3b29cc39": [
+        "SQOOP-3124"
+    ], 
+    "b9794f98e397065771fb99a30e5c85ac7b84bdd0": [
+        "SQOOP-2936"
+    ]
+}

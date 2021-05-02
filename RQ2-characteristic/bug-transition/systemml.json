@@ -1,0 +1,4319 @@
+{
+    "SYSTEMML-1186": [
+        [
+            "Open", 
+            "Resolved", 
+            "43d 17h 32m"
+        ]
+    ], 
+    "SYSTEMML-1627": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 4h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "SYSTEMML-1626": [
+        [
+            "Open", 
+            "Closed", 
+            "358d 4h 36m"
+        ]
+    ], 
+    "SYSTEMML-1624": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 3h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "78d 19h 48m"
+        ]
+    ], 
+    "SYSTEMML-1623": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-833": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 15h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1621": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12d 13h 29m"
+        ]
+    ], 
+    "SYSTEMML-2377": [
+        [
+            "Open", 
+            "Closed", 
+            "40m 26s"
+        ]
+    ], 
+    "SYSTEMML-2370": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 19h 4m"
+        ]
+    ], 
+    "SYSTEMML-1749": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2275": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 4h 32m"
+        ]
+    ], 
+    "SYSTEMML-1698": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-331": [
+        [
+            "Open", 
+            "Resolved", 
+            "98d 23h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "2h 35m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "1d 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-330": [
+        [
+            "Open", 
+            "In Progress", 
+            "17m 1s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "97d 3h 33m"
+        ]
+    ], 
+    "SYSTEMML-884": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SYSTEMML-1386": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-830": [
+        [
+            "Open", 
+            "In Progress", 
+            "5m 38s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3m 11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-1131": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "SYSTEMML-905": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 5h 49m"
+        ]
+    ], 
+    "SYSTEMML-1840": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-2383": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 4m"
+        ]
+    ], 
+    "SYSTEMML-1876": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2388": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 4h 44m"
+        ]
+    ], 
+    "SYSTEMML-1875": [
+        [
+            "Open", 
+            "Closed", 
+            "35d 23h 41m"
+        ]
+    ], 
+    "SYSTEMML-1891": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 53m"
+        ]
+    ], 
+    "SYSTEMML-1870": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 28s"
+        ]
+    ], 
+    "SYSTEMML-2028": [
+        [
+            "Open", 
+            "Closed", 
+            "17h 54m"
+        ]
+    ], 
+    "SYSTEMML-2029": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 24m"
+        ]
+    ], 
+    "SYSTEMML-2180": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 50m"
+        ]
+    ], 
+    "SYSTEMML-2020": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 21h 44m"
+        ]
+    ], 
+    "SYSTEMML-2021": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 19h 10m"
+        ]
+    ], 
+    "SYSTEMML-2022": [
+        [
+            "Open", 
+            "Closed", 
+            "9h 4m"
+        ]
+    ], 
+    "SYSTEMML-2023": [
+        [
+            "Open", 
+            "Closed", 
+            "20m 56s"
+        ]
+    ], 
+    "SYSTEMML-2024": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 22h 41m"
+        ]
+    ], 
+    "SYSTEMML-2026": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 17h 55m"
+        ]
+    ], 
+    "SYSTEMML-2027": [
+        [
+            "Open", 
+            "Closed", 
+            "21h 20m"
+        ]
+    ], 
+    "SYSTEMML-1243": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 20h 22m"
+        ]
+    ], 
+    "SYSTEMML-1005": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1002": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 21h 2m"
+        ]
+    ], 
+    "SYSTEMML-1553": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 23h 24m"
+        ]
+    ], 
+    "SYSTEMML-1008": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-2058": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 20h 58m"
+        ]
+    ], 
+    "SYSTEMML-2051": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 21h 5m"
+        ]
+    ], 
+    "SYSTEMML-2050": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 9m"
+        ]
+    ], 
+    "SYSTEMML-2053": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 4h 26m"
+        ]
+    ], 
+    "SYSTEMML-2052": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 20h 22m"
+        ]
+    ], 
+    "SYSTEMML-1520": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-513": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 2h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "SYSTEMML-512": [
+        [
+            "Open", 
+            "Resolved", 
+            "93d 1h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 21h 29m"
+        ]
+    ], 
+    "SYSTEMML-1525": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-517": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 20h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20s"
+        ]
+    ], 
+    "SYSTEMML-300": [
+        [
+            "Open", 
+            "Resolved", 
+            "122d 4h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1702": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1251": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 3h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1704": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1257": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 8h 24m"
+        ]
+    ], 
+    "SYSTEMML-261": [
+        [
+            "Open", 
+            "Resolved", 
+            "136d 20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "20s"
+        ]
+    ], 
+    "SYSTEMML-2338": [
+        [
+            "Open", 
+            "Closed", 
+            "10m 47s"
+        ]
+    ], 
+    "SYSTEMML-1906": [
+        [
+            "Open", 
+            "Closed", 
+            "77d 22h 34m"
+        ]
+    ], 
+    "SYSTEMML-1902": [
+        [
+            "Open", 
+            "Closed", 
+            "79d 22h"
+        ]
+    ], 
+    "SYSTEMML-1903": [
+        [
+            "Open", 
+            "Closed", 
+            "45d 1h 49m"
+        ]
+    ], 
+    "SYSTEMML-1901": [
+        [
+            "Open", 
+            "Closed", 
+            "82d 1h 11m"
+        ]
+    ], 
+    "SYSTEMML-1908": [
+        [
+            "Open", 
+            "Closed", 
+            "41d 23h 8m"
+        ]
+    ], 
+    "SYSTEMML-762": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 24m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "8d 19h 24m"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "40d 21h 13m"
+        ]
+    ], 
+    "SYSTEMML-1792": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1790": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-605": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 56m"
+        ]
+    ], 
+    "SYSTEMML-604": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 2h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "SYSTEMML-607": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 2h 2m"
+        ]
+    ], 
+    "SYSTEMML-768": [
+        [
+            "Open", 
+            "Resolved", 
+            "162d 17h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "SYSTEMML-769": [
+        [
+            "Open", 
+            "Resolved", 
+            "242d 2h 21m"
+        ]
+    ], 
+    "SYSTEMML-948": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 19h 55m"
+        ]
+    ], 
+    "SYSTEMML-946": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 5h 42m"
+        ]
+    ], 
+    "SYSTEMML-658": [
+        [
+            "Open", 
+            "Resolved", 
+            "673d 23h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1175": [
+        [
+            "Open", 
+            "Closed", 
+            "368d 39m"
+        ]
+    ], 
+    "SYSTEMML-864": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 10h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2428": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 44m"
+        ]
+    ], 
+    "SYSTEMML-2429": [
+        [
+            "Open", 
+            "Closed", 
+            "15m 19s"
+        ]
+    ], 
+    "SYSTEMML-863": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "SYSTEMML-2425": [
+        [
+            "Open", 
+            "Closed", 
+            "12d 15h 33m"
+        ]
+    ], 
+    "SYSTEMML-869": [
+        [
+            "Open", 
+            "In Progress", 
+            "17d 31m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "27s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "1d 4h 39m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "16d 16h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13m 34s"
+        ]
+    ], 
+    "SYSTEMML-1772": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2347": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 23h"
+        ]
+    ], 
+    "SYSTEMML-1387": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1381": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2343": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 23h 25m"
+        ]
+    ], 
+    "SYSTEMML-2340": [
+        [
+            "Open", 
+            "Closed", 
+            "26d 21h 33m"
+        ]
+    ], 
+    "SYSTEMML-1388": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1833": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "SYSTEMML-1884": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 17h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1836": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 17h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 8h 56m"
+        ]
+    ], 
+    "SYSTEMML-1837": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 4h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-461": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 31m"
+        ]
+    ], 
+    "SYSTEMML-1838": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1839": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2511": [
+        [
+            "Open", 
+            "Closed", 
+            "26d 5h 10m"
+        ]
+    ], 
+    "SYSTEMML-1899": [
+        [
+            "Open", 
+            "Closed", 
+            "80d 20h 14m"
+        ]
+    ], 
+    "SYSTEMML-1078": [
+        [
+            "Open", 
+            "Closed", 
+            "480d 11h 4m"
+        ]
+    ], 
+    "SYSTEMML-1023": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-1148": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 22h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-2158": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 12m"
+        ]
+    ], 
+    "SYSTEMML-2150": [
+        [
+            "Open", 
+            "Closed", 
+            "22h 1m"
+        ]
+    ], 
+    "SYSTEMML-2151": [
+        [
+            "Open", 
+            "Closed", 
+            "20h 28m"
+        ]
+    ], 
+    "SYSTEMML-2152": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 56m"
+        ]
+    ], 
+    "SYSTEMML-2153": [
+        [
+            "Open", 
+            "Closed", 
+            "39m 57s"
+        ]
+    ], 
+    "SYSTEMML-2154": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 12h 2m"
+        ]
+    ], 
+    "SYSTEMML-2157": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 1h 59m"
+        ]
+    ], 
+    "SYSTEMML-2013": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-2017": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 14h 10m"
+        ]
+    ], 
+    "SYSTEMML-2019": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 23h 58m"
+        ]
+    ], 
+    "SYSTEMML-1425": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 22h 42m"
+        ]
+    ], 
+    "SYSTEMML-635": [
+        [
+            "Open", 
+            "In Progress", 
+            "24s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 20h 28m"
+        ]
+    ], 
+    "SYSTEMML-1427": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1423": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-576": [
+        [
+            "Open", 
+            "Closed", 
+            "14h 48m"
+        ]
+    ], 
+    "SYSTEMML-638": [
+        [
+            "Open", 
+            "Closed", 
+            "45d 14h 45m"
+        ]
+    ], 
+    "SYSTEMML-639": [
+        [
+            "Open", 
+            "Resolved", 
+            "29d 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "SYSTEMML-1358": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1949": [
+        [
+            "Open", 
+            "Closed", 
+            "51d 19h 58m"
+        ]
+    ], 
+    "SYSTEMML-1588": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "SYSTEMML-1941": [
+        [
+            "Open", 
+            "Closed", 
+            "60d 23h 57m"
+        ]
+    ], 
+    "SYSTEMML-1946": [
+        [
+            "Open", 
+            "Closed", 
+            "53d 22h 52m"
+        ]
+    ], 
+    "SYSTEMML-1947": [
+        [
+            "Open", 
+            "Closed", 
+            "52d 19h 28m"
+        ]
+    ], 
+    "SYSTEMML-1518": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 24m"
+        ]
+    ], 
+    "SYSTEMML-643": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 53m"
+        ]
+    ], 
+    "SYSTEMML-645": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "SYSTEMML-1456": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-1458": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1510": [
+        [
+            "Open", 
+            "Resolved", 
+            "30d 15h 52m"
+        ]
+    ], 
+    "SYSTEMML-1514": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1638": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1639": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-454": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 9m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 14m"
+        ]
+    ], 
+    "SYSTEMML-1630": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 48m"
+        ]
+    ], 
+    "SYSTEMML-823": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21s"
+        ]
+    ], 
+    "SYSTEMML-1635": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-1222": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "SYSTEMML-1733": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1737": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 22h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15m 28s"
+        ]
+    ], 
+    "SYSTEMML-2469": [
+        [
+            "Open", 
+            "In Progress", 
+            "13h 59m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 5h 36m"
+        ]
+    ], 
+    "SYSTEMML-1228": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 28m"
+        ]
+    ], 
+    "SYSTEMML-2305": [
+        [
+            "Open", 
+            "Closed", 
+            "15d 16h"
+        ]
+    ], 
+    "SYSTEMML-2264": [
+        [
+            "Open", 
+            "Closed", 
+            "31d 18h 5m"
+        ]
+    ], 
+    "SYSTEMML-2265": [
+        [
+            "Open", 
+            "Closed", 
+            "31d 16h 47m"
+        ]
+    ], 
+    "SYSTEMML-1668": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-915": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 3h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21s"
+        ]
+    ], 
+    "SYSTEMML-1125": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 1h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1126": [
+        [
+            "Open", 
+            "Resolved", 
+            "94d 19h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 23h 47m"
+        ]
+    ], 
+    "SYSTEMML-1127": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 16h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SYSTEMML-911": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-859": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-912": [
+        [
+            "Open", 
+            "In Progress", 
+            "12m 4s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1644": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 7h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1641": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1640": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "SYSTEMML-1643": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "14d 14h 53m"
+        ]
+    ], 
+    "SYSTEMML-2413": [
+        [
+            "Open", 
+            "In Progress", 
+            "19h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 17h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-1848": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-2397": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 7h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "1d 11h 1m"
+        ]
+    ], 
+    "SYSTEMML-1843": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1842": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1841": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-2399": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 33m"
+        ]
+    ], 
+    "SYSTEMML-1846": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 18h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1845": [
+        [
+            "Open", 
+            "Resolved", 
+            "17d 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1844": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 15s"
+        ]
+    ], 
+    "SYSTEMML-1877": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2487": [
+        [
+            "Open", 
+            "Closed", 
+            "17m 50s"
+        ]
+    ], 
+    "SYSTEMML-2484": [
+        [
+            "Open", 
+            "Closed", 
+            "37m 3s"
+        ]
+    ], 
+    "SYSTEMML-2483": [
+        [
+            "Open", 
+            "Closed", 
+            "18m 20s"
+        ]
+    ], 
+    "SYSTEMML-2480": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 2h 10m"
+        ]
+    ], 
+    "SYSTEMML-1546": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1011": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1545": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1014": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1543": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-571": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 45s"
+        ]
+    ], 
+    "SYSTEMML-1018": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1019": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-809": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 15h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-2161": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 14h 49m"
+        ]
+    ], 
+    "SYSTEMML-2163": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 1h 14m"
+        ]
+    ], 
+    "SYSTEMML-2162": [
+        [
+            "Open", 
+            "Closed", 
+            "1h 42m"
+        ]
+    ], 
+    "SYSTEMML-2166": [
+        [
+            "Open", 
+            "Closed", 
+            "36m 29s"
+        ]
+    ], 
+    "SYSTEMML-2040": [
+        [
+            "Open", 
+            "Closed", 
+            "22h 29m"
+        ]
+    ], 
+    "SYSTEMML-705": [
+        [
+            "Open", 
+            "Closed", 
+            "59s"
+        ]
+    ], 
+    "SYSTEMML-1265": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h"
+        ]
+    ], 
+    "SYSTEMML-707": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 10h 25m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 56m"
+        ]
+    ], 
+    "SYSTEMML-1826": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2225": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 59m"
+        ]
+    ], 
+    "SYSTEMML-1932": [
+        [
+            "Open", 
+            "Closed", 
+            "68d 21h 50m"
+        ]
+    ], 
+    "SYSTEMML-1934": [
+        [
+            "Open", 
+            "Closed", 
+            "32d 2h 18m"
+        ]
+    ], 
+    "SYSTEMML-774": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 21h 42m"
+        ]
+    ], 
+    "SYSTEMML-670": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d 21h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1m 10s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-778": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SYSTEMML-672": [
+        [
+            "Open", 
+            "In Progress", 
+            "18s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 19h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "SYSTEMML-673": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 22h"
+        ]
+    ], 
+    "SYSTEMML-674": [
+        [
+            "Open", 
+            "Closed", 
+            "1m 50s"
+        ]
+    ], 
+    "SYSTEMML-1464": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1467": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 24m"
+        ]
+    ], 
+    "SYSTEMML-677": [
+        [
+            "Open", 
+            "In Progress", 
+            "4m 25s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16h 34m"
+        ]
+    ], 
+    "SYSTEMML-1162": [
+        [
+            "Open", 
+            "Resolved", 
+            "50d 5h 7m"
+        ]
+    ], 
+    "SYSTEMML-1164": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SYSTEMML-706": [
+        [
+            "Open", 
+            "Closed", 
+            "38s"
+        ]
+    ], 
+    "SYSTEMML-957": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 18h 10m"
+        ]
+    ], 
+    "SYSTEMML-1167": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 17h 13m"
+        ]
+    ], 
+    "SYSTEMML-1601": [
+        [
+            "Open", 
+            "Resolved", 
+            "13m 57s"
+        ]
+    ], 
+    "SYSTEMML-1767": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1764": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1762": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13h 10m"
+        ]
+    ], 
+    "SYSTEMML-1763": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-2353": [
+        [
+            "Open", 
+            "Closed", 
+            "17d 22h 25m"
+        ]
+    ], 
+    "SYSTEMML-2350": [
+        [
+            "Open", 
+            "Closed", 
+            "9h 3m"
+        ]
+    ], 
+    "SYSTEMML-2297": [
+        [
+            "Open", 
+            "Closed", 
+            "18d 17h 58m"
+        ]
+    ], 
+    "SYSTEMML-1806": [
+        [
+            "Open", 
+            "Closed", 
+            "19h 50m"
+        ]
+    ], 
+    "SYSTEMML-2294": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 17h 46m"
+        ]
+    ], 
+    "SYSTEMML-2293": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 32m"
+        ]
+    ], 
+    "SYSTEMML-1802": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 25m"
+        ]
+    ], 
+    "SYSTEMML-1801": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 10h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-490": [
+        [
+            "Open", 
+            "In Progress", 
+            "125d 13h 58m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "63d 6h 44m"
+        ]
+    ], 
+    "SYSTEMML-695": [
+        [
+            "Open", 
+            "Resolved", 
+            "20d 6h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2098": [
+        [
+            "Open", 
+            "Closed", 
+            "8d 23h 34m"
+        ]
+    ], 
+    "SYSTEMML-1119": [
+        [
+            "Open", 
+            "Resolved", 
+            "29m 38s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18s"
+        ]
+    ], 
+    "SYSTEMML-927": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 23m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3d 11h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9d 2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SYSTEMML-921": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 21h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1357": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2008": [
+        [
+            "Open", 
+            "Closed", 
+            "22d 18h 48m"
+        ]
+    ], 
+    "SYSTEMML-2009": [
+        [
+            "Open", 
+            "Closed", 
+            "20d 17h 27m"
+        ]
+    ], 
+    "SYSTEMML-1029": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 12h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-626": [
+        [
+            "Open", 
+            "Resolved", 
+            "49d 22h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "24s"
+        ]
+    ], 
+    "SYSTEMML-1433": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1431": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 38m"
+        ]
+    ], 
+    "SYSTEMML-586": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 3h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-584": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44s"
+        ]
+    ], 
+    "SYSTEMML-585": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1025": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "SYSTEMML-1024": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1428": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 20h 57m"
+        ]
+    ], 
+    "SYSTEMML-1977": [
+        [
+            "Open", 
+            "Closed", 
+            "33d 16h 12m"
+        ]
+    ], 
+    "SYSTEMML-1976": [
+        [
+            "Open", 
+            "Closed", 
+            "25d 18h 33m"
+        ]
+    ], 
+    "SYSTEMML-1972": [
+        [
+            "Open", 
+            "Closed", 
+            "37d 16h 20m"
+        ]
+    ], 
+    "SYSTEMML-1979": [
+        [
+            "Open", 
+            "Closed", 
+            "23d 19h 52m"
+        ]
+    ], 
+    "SYSTEMML-2139": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 34m"
+        ]
+    ], 
+    "SYSTEMML-2136": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 9h 2m"
+        ]
+    ], 
+    "SYSTEMML-2132": [
+        [
+            "Open", 
+            "Closed", 
+            "18h 30m"
+        ]
+    ], 
+    "SYSTEMML-533": [
+        [
+            "Open", 
+            "In Progress", 
+            "36d 10h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 13h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 20h 40m"
+        ]
+    ], 
+    "SYSTEMML-1506": [
+        [
+            "Open", 
+            "Resolved", 
+            "104d 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1238": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 20h 9m"
+        ]
+    ], 
+    "SYSTEMML-1722": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1337": [
+        [
+            "Open", 
+            "Resolved", 
+            "15h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1721": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "12s"
+        ]
+    ], 
+    "SYSTEMML-1727": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55s"
+        ]
+    ], 
+    "SYSTEMML-1550": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1589": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 12m"
+        ]
+    ], 
+    "SYSTEMML-2254": [
+        [
+            "Open", 
+            "Closed", 
+            "7m 8s"
+        ]
+    ], 
+    "SYSTEMML-749": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "10h 14m"
+        ]
+    ], 
+    "SYSTEMML-747": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 38m"
+        ]
+    ], 
+    "SYSTEMML-1150": [
+        [
+            "Open", 
+            "Resolved", 
+            "62d 16h 20m"
+        ]
+    ], 
+    "SYSTEMML-963": [
+        [
+            "Open", 
+            "In Progress", 
+            "13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 53s"
+        ]
+    ], 
+    "SYSTEMML-964": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 16h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "SYSTEMML-1154": [
+        [
+            "Open", 
+            "Resolved", 
+            "15m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-1156": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 23h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "SYSTEMML-1656": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "SYSTEMML-1655": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2404": [
+        [
+            "Open", 
+            "Closed", 
+            "32m 55s"
+        ]
+    ], 
+    "SYSTEMML-2403": [
+        [
+            "Open", 
+            "In Progress", 
+            "13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "27d 9h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-2400": [
+        [
+            "Open", 
+            "Closed", 
+            "22m 45s"
+        ]
+    ], 
+    "SYSTEMML-961": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-2408": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 21h 10m"
+        ]
+    ], 
+    "SYSTEMML-675": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 58m"
+        ]
+    ], 
+    "SYSTEMML-1854": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 19h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1857": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 2h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1850": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 20h"
+        ]
+    ], 
+    "SYSTEMML-1851": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 19h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1852": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 18h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 23h 12m"
+        ]
+    ], 
+    "SYSTEMML-1853": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 17h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-995": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29s"
+        ]
+    ], 
+    "SYSTEMML-994": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 6h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "57s"
+        ]
+    ], 
+    "SYSTEMML-996": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 3h 57m"
+        ]
+    ], 
+    "SYSTEMML-1859": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1370": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 10h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 23h 10m"
+        ]
+    ], 
+    "SYSTEMML-968": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-640": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 15h 39m"
+        ]
+    ], 
+    "SYSTEMML-953": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "2m 1s"
+        ], 
+        [
+            "Reopened", 
+            "Closed", 
+            "31s"
+        ]
+    ], 
+    "SYSTEMML-1575": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 10m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 1h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1574": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-955": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 6h 12m"
+        ]
+    ], 
+    "SYSTEMML-954": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 1h 20m"
+        ]
+    ], 
+    "SYSTEMML-1166": [
+        [
+            "Open", 
+            "Resolved", 
+            "33d 19h 34m"
+        ]
+    ], 
+    "SYSTEMML-1459": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-956": [
+        [
+            "Open", 
+            "In Progress", 
+            "21h 37m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-146": [
+        [
+            "Open", 
+            "Resolved", 
+            "149d 1h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-2170": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 13h 21m"
+        ]
+    ], 
+    "SYSTEMML-2073": [
+        [
+            "Open", 
+            "Closed", 
+            "18h 41m"
+        ]
+    ], 
+    "SYSTEMML-2072": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 20h 34m"
+        ]
+    ], 
+    "SYSTEMML-2071": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 20h 43m"
+        ]
+    ], 
+    "SYSTEMML-2075": [
+        [
+            "Open", 
+            "Closed", 
+            "30d 6h 55m"
+        ]
+    ], 
+    "SYSTEMML-2074": [
+        [
+            "Open", 
+            "Closed", 
+            "6h 54m"
+        ]
+    ], 
+    "SYSTEMML-829": [
+        [
+            "Open", 
+            "In Progress", 
+            "18m 39s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-714": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 1h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1275": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 58m"
+        ]
+    ], 
+    "SYSTEMML-1277": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1279": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26s"
+        ]
+    ], 
+    "SYSTEMML-1076": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 47m"
+        ]
+    ], 
+    "SYSTEMML-1077": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 8m"
+        ]
+    ], 
+    "SYSTEMML-1885": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 12h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1075": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 35m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "3h 44m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30s"
+        ]
+    ], 
+    "SYSTEMML-1073": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32s"
+        ]
+    ], 
+    "SYSTEMML-1925": [
+        [
+            "Open", 
+            "Closed", 
+            "70d 17h 22m"
+        ]
+    ], 
+    "SYSTEMML-1921": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1922": [
+        [
+            "Open", 
+            "Closed", 
+            "71d 35m"
+        ]
+    ], 
+    "SYSTEMML-2454": [
+        [
+            "Open", 
+            "Closed", 
+            "3h 36m"
+        ]
+    ], 
+    "SYSTEMML-668": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h 42m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 1h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1473": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1470": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 2h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-666": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 2h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "SYSTEMML-1474": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 9h 5m"
+        ]
+    ], 
+    "SYSTEMML-1475": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1197": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "SYSTEMML-1196": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 50m"
+        ]
+    ], 
+    "SYSTEMML-1198": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "19h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2m 31s"
+        ]
+    ], 
+    "SYSTEMML-1616": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 53m"
+        ]
+    ], 
+    "SYSTEMML-1614": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "SYSTEMML-1753": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-155": [
+        [
+            "Open", 
+            "Resolved", 
+            "145d 1h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-2440": [
+        [
+            "Open", 
+            "Closed", 
+            "5d 6h 42m"
+        ]
+    ], 
+    "SYSTEMML-2441": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 20m"
+        ]
+    ], 
+    "SYSTEMML-1756": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 14m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1755": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 13h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1818": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-2362": [
+        [
+            "Open", 
+            "Closed", 
+            "23h 51m"
+        ]
+    ], 
+    "SYSTEMML-2361": [
+        [
+            "Open", 
+            "Closed", 
+            "24m 47s"
+        ]
+    ], 
+    "SYSTEMML-1730": [
+        [
+            "Open", 
+            "Resolved", 
+            "45m 33s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2369": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 20h 43m"
+        ]
+    ], 
+    "SYSTEMML-2283": [
+        [
+            "Open", 
+            "Closed", 
+            "2d 15h 15m"
+        ]
+    ], 
+    "SYSTEMML-1816": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 8h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1817": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 38m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-482": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 20h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-890": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1682": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1686": [
+        [
+            "Open", 
+            "In Progress", 
+            "16h 17m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 1h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1109": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "17s"
+        ]
+    ], 
+    "SYSTEMML-1862": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2039": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 20h 55m"
+        ]
+    ], 
+    "SYSTEMML-2037": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 22h 26m"
+        ]
+    ], 
+    "SYSTEMML-2036": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 23h 13m"
+        ]
+    ], 
+    "SYSTEMML-2035": [
+        [
+            "Open", 
+            "Closed", 
+            "21h"
+        ]
+    ], 
+    "SYSTEMML-2034": [
+        [
+            "Open", 
+            "Closed", 
+            "1d 14h 42m"
+        ]
+    ], 
+    "SYSTEMML-2033": [
+        [
+            "Open", 
+            "Closed", 
+            "6m 58s"
+        ]
+    ], 
+    "SYSTEMML-2032": [
+        [
+            "Open", 
+            "Closed", 
+            "32m 42s"
+        ]
+    ], 
+    "SYSTEMML-2031": [
+        [
+            "Open", 
+            "Closed", 
+            "18h 17m"
+        ]
+    ], 
+    "SYSTEMML-2030": [
+        [
+            "Open", 
+            "Closed", 
+            "22h 25m"
+        ]
+    ], 
+    "SYSTEMML-1403": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 15h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "45d 22h 3m"
+        ]
+    ], 
+    "SYSTEMML-1032": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 8h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-1030": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4m 57s"
+        ]
+    ], 
+    "SYSTEMML-619": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30s"
+        ]
+    ], 
+    "SYSTEMML-1963": [
+        [
+            "Open", 
+            "Closed", 
+            "11d 4h 40m"
+        ]
+    ], 
+    "SYSTEMML-1966": [
+        [
+            "Open", 
+            "Closed", 
+            "9d 1h 54m"
+        ]
+    ], 
+    "SYSTEMML-1967": [
+        [
+            "Open", 
+            "Closed", 
+            "43d 16h 13m"
+        ]
+    ], 
+    "SYSTEMML-2101": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 16h 1m"
+        ]
+    ], 
+    "SYSTEMML-2100": [
+        [
+            "Open", 
+            "Closed", 
+            "6d 18h 9m"
+        ]
+    ], 
+    "SYSTEMML-1537": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 8h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-504": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 6h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "SYSTEMML-1248": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 21m"
+        ]
+    ], 
+    "SYSTEMML-376": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5h 40m"
+        ]
+    ], 
+    "SYSTEMML-1718": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1241": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1716": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1715": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1244": [
+        [
+            "Open", 
+            "In Progress", 
+            "4d 5h 49m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "11s"
+        ]
+    ], 
+    "SYSTEMML-1246": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 8h 50m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 5h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2m 27s"
+        ]
+    ], 
+    "SYSTEMML-2326": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 15h"
+        ]
+    ], 
+    "SYSTEMML-2325": [
+        [
+            "Open", 
+            "Closed", 
+            "7d 17h 6m"
+        ]
+    ], 
+    "SYSTEMML-681": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 4h 47m"
+        ]
+    ], 
+    "SYSTEMML-680": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 23h 24m"
+        ]
+    ], 
+    "SYSTEMML-2244": [
+        [
+            "Open", 
+            "Closed", 
+            "20m 32s"
+        ]
+    ], 
+    "SYSTEMML-2245": [
+        [
+            "Open", 
+            "Closed", 
+            "64d 20h 41m"
+        ]
+    ], 
+    "SYSTEMML-2247": [
+        [
+            "Open", 
+            "Closed", 
+            "34d 19h 9m"
+        ]
+    ], 
+    "SYSTEMML-2240": [
+        [
+            "Open", 
+            "Closed", 
+            "15m 32s"
+        ]
+    ], 
+    "SYSTEMML-1081": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 33m"
+        ]
+    ], 
+    "SYSTEMML-1042": [
+        [
+            "Open", 
+            "Resolved", 
+            "9m 6s"
+        ]
+    ], 
+    "SYSTEMML-1918": [
+        [
+            "Open", 
+            "Closed", 
+            "75d 13h 54m"
+        ]
+    ], 
+    "SYSTEMML-928": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "SYSTEMML-612": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 2h 40m"
+        ]
+    ], 
+    "SYSTEMML-1897": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-1140": [
+        [
+            "Open", 
+            "Closed", 
+            "444d 17h 41m"
+        ]
+    ], 
+    "SYSTEMML-970": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1144": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "SYSTEMML-1145": [
+        [
+            "Open", 
+            "In Progress", 
+            "13s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "65d 9h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "59s"
+        ]
+    ], 
+    "SYSTEMML-1661": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18d 5h 31m"
+        ]
+    ], 
+    "SYSTEMML-1664": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-2431": [
+        [
+            "Open", 
+            "Closed", 
+            "19h 50m"
+        ]
+    ], 
+    "SYSTEMML-1392": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 21h 4m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-2439": [
+        [
+            "Open", 
+            "Closed", 
+            "58m 48s"
+        ]
+    ], 
+    "SYSTEMML-2438": [
+        [
+            "Open", 
+            "Closed", 
+            "16h 45m"
+        ]
+    ], 
+    "SYSTEMML-1395": [
+        [
+            "Open", 
+            "Resolved", 
+            "55d 21h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1823": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 23h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1824": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1989": [
+        [
+            "Open", 
+            "Closed", 
+            "24d 21h 2m"
+        ]
+    ], 
+    "SYSTEMML-1987": [
+        [
+            "Open", 
+            "Closed", 
+            "24d 23h 33m"
+        ]
+    ], 
+    "SYSTEMML-1982": [
+        [
+            "Open", 
+            "Closed", 
+            "28d 17h 43m"
+        ]
+    ], 
+    "SYSTEMML-1980": [
+        [
+            "Open", 
+            "Closed", 
+            "31d 23h 49m"
+        ]
+    ], 
+    "SYSTEMML-1981": [
+        [
+            "Open", 
+            "Closed", 
+            "28d 18h 18m"
+        ]
+    ], 
+    "SYSTEMML-609": [
+        [
+            "Open", 
+            "Resolved", 
+            "20h 50m"
+        ]
+    ], 
+    "SYSTEMML-603": [
+        [
+            "Open", 
+            "In Progress", 
+            "3m 43s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "22h 48m"
+        ]
+    ], 
+    "SYSTEMML-608": [
+        [
+            "Open", 
+            "Resolved", 
+            "38d 17h 2m"
+        ]
+    ], 
+    "SYSTEMML-2147": [
+        [
+            "Open", 
+            "Closed", 
+            "3d 20h 13m"
+        ]
+    ], 
+    "SYSTEMML-2145": [
+        [
+            "Open", 
+            "Closed", 
+            "4h 19m"
+        ]
+    ], 
+    "SYSTEMML-2144": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 24m"
+        ]
+    ], 
+    "SYSTEMML-2143": [
+        [
+            "Open", 
+            "Closed", 
+            "5h 25m"
+        ]
+    ], 
+    "SYSTEMML-2140": [
+        [
+            "Open", 
+            "Closed", 
+            "14d 10h 29m"
+        ]
+    ], 
+    "SYSTEMML-2060": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 2h 32m"
+        ]
+    ], 
+    "SYSTEMML-919": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 2h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13s"
+        ]
+    ], 
+    "SYSTEMML-2069": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 20h 34m"
+        ]
+    ], 
+    "SYSTEMML-944": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "SYSTEMML-1590": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3s"
+        ]
+    ], 
+    "SYSTEMML-1593": [
+        [
+            "Open", 
+            "Resolved", 
+            "67d 4h 32m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "SYSTEMML-1595": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "SYSTEMML-1044": [
+        [
+            "Open", 
+            "Resolved", 
+            "129d 14h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "11s"
+        ]
+    ], 
+    "SYSTEMML-1950": [
+        [
+            "Open", 
+            "Closed", 
+            "16d 8h 39m"
+        ]
+    ], 
+    "SYSTEMML-656": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 22h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 20h 42m"
+        ]
+    ], 
+    "SYSTEMML-655": [
+        [
+            "Open", 
+            "In Progress", 
+            "5h 36m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "50m 20s"
+        ]
+    ], 
+    "SYSTEMML-652": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13d 2h 14m"
+        ]
+    ], 
+    "SYSTEMML-1442": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 1m"
+        ]
+    ], 
+    "SYSTEMML-651": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 1h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "18s"
+        ]
+    ], 
+    "SYSTEMML-1449": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1m 5s"
+        ]
+    ]
+}

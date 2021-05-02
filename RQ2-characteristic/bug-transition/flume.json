@@ -1,0 +1,9704 @@
+{
+    "FLUME-759": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 1h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 9m"
+        ]
+    ], 
+    "FLUME-758": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 16h 8m"
+        ]
+    ], 
+    "FLUME-697": [
+        [
+            "Open", 
+            "Blocked", 
+            "2h 29m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 16h 45m"
+        ]
+    ], 
+    "FLUME-1671": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 30m"
+        ]
+    ], 
+    "FLUME-1673": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 49m"
+        ]
+    ], 
+    "FLUME-1676": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 1h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39d 22h 43m"
+        ]
+    ], 
+    "FLUME-2786": [
+        [
+            "Open", 
+            "Resolved", 
+            "912d 20h 28m"
+        ]
+    ], 
+    "FLUME-1679": [
+        [
+            "Open", 
+            "Patch Available", 
+            "403d 16h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 57m"
+        ]
+    ], 
+    "FLUME-593": [
+        [
+            "Open", 
+            "Blocked", 
+            "2d 5h 24m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "15d 15h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 10h 8m"
+        ]
+    ], 
+    "FLUME-2023": [
+        [
+            "Open", 
+            "Patch Available", 
+            "49m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 27m"
+        ]
+    ], 
+    "FLUME-2024": [
+        [
+            "Open", 
+            "Patch Available", 
+            "234d 12h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "179d 20h 13m"
+        ]
+    ], 
+    "FLUME-2025": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "48d 19h"
+        ]
+    ], 
+    "FLUME-1175": [
+        [
+            "Open", 
+            "Patch Available", 
+            "214d 12h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 21m"
+        ]
+    ], 
+    "FLUME-2027": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 12h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 19h 57m"
+        ]
+    ], 
+    "FLUME-2142": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 11h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 31m"
+        ]
+    ], 
+    "FLUME-1070": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 3h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 14m"
+        ]
+    ], 
+    "FLUME-1620": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 54m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 20h 49m"
+        ]
+    ], 
+    "FLUME-1074": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 18h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 30m"
+        ]
+    ], 
+    "FLUME-1075": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 21h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 16m"
+        ]
+    ], 
+    "FLUME-2148": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "615d 23h 47m"
+        ]
+    ], 
+    "FLUME-94": [
+        [
+            "Open", 
+            "Blocked", 
+            "8d 17h 28m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "8h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "128d 12h 31m"
+        ]
+    ], 
+    "FLUME-1374": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 44m"
+        ]
+    ], 
+    "FLUME-224": [
+        [
+            "Blocked", 
+            "Open", 
+            "22h 57m"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "16h 50m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "11d 15h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 8h 15m"
+        ]
+    ], 
+    "FLUME-99": [
+        [
+            "Open", 
+            "Blocked", 
+            "149d 19h 52m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 8h 5m"
+        ]
+    ], 
+    "FLUME-53": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 8h 46m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "13h 17m"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "13d 1h 41m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "7d 1h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "129d 19h 3m"
+        ]
+    ], 
+    "FLUME-1824": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 58m"
+        ]
+    ], 
+    "FLUME-1820": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 29m"
+        ]
+    ], 
+    "FLUME-1823": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "120d 19h 45m"
+        ]
+    ], 
+    "FLUME-1822": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "66d 6h 38m"
+        ]
+    ], 
+    "FLUME-55": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 5h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "13h 14m"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "4d 7h 9m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 23h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 15h 31m"
+        ]
+    ], 
+    "FLUME-624": [
+        [
+            "Open", 
+            "Blocked", 
+            "1d 18h 25m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "11s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "95d 5h 18m"
+        ]
+    ], 
+    "FLUME-623": [
+        [
+            "Open", 
+            "Blocked", 
+            "8m 48s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 18h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "95d 5h 20m"
+        ]
+    ], 
+    "FLUME-1828": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 9h 55m"
+        ]
+    ], 
+    "FLUME-620": [
+        [
+            "Open", 
+            "Blocked", 
+            "46d 22h 47m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "11d 12h 41m"
+        ]
+    ], 
+    "FLUME-2738": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "344d 22h 11m"
+        ]
+    ], 
+    "FLUME-2734": [
+        [
+            "Open", 
+            "Patch Available", 
+            "26d 2h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "61d 21h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "262d 58m"
+        ]
+    ], 
+    "FLUME-883": [
+        [
+            "Open", 
+            "Resolved", 
+            "6h 36m"
+        ]
+    ], 
+    "FLUME-2732": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 2h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "346d 12h 48m"
+        ]
+    ], 
+    "FLUME-1184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45m 3s"
+        ]
+    ], 
+    "FLUME-1182": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2m 27s"
+        ]
+    ], 
+    "FLUME-1180": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 24m"
+        ]
+    ], 
+    "FLUME-1181": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 10h 1m"
+        ]
+    ], 
+    "FLUME-302": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 20h 44m"
+        ]
+    ], 
+    "FLUME-347": [
+        [
+            "Open", 
+            "Blocked", 
+            "5m 55s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2h 15m"
+        ]
+    ], 
+    "FLUME-1188": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h"
+        ]
+    ], 
+    "FLUME-2325": [
+        [
+            "Open", 
+            "Resolved", 
+            "13h 37m"
+        ]
+    ], 
+    "FLUME-2324": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 3h 30m"
+        ]
+    ], 
+    "FLUME-2323": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 23h 45m"
+        ]
+    ], 
+    "FLUME-2320": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 16h 22m"
+        ]
+    ], 
+    "FLUME-1128": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 21h 53m"
+        ]
+    ], 
+    "FLUME-2329": [
+        [
+            "Open", 
+            "Patch Available", 
+            "25m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 39m"
+        ]
+    ], 
+    "FLUME-2328": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 10m"
+        ]
+    ], 
+    "FLUME-3131": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 7h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 18h 55m"
+        ]
+    ], 
+    "FLUME-1958": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 2h 57m"
+        ]
+    ], 
+    "FLUME-3133": [
+        [
+            "Open", 
+            "In Progress", 
+            "475d 1h 33m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 2h 9m"
+        ]
+    ], 
+    "FLUME-3132": [
+        [
+            "Open", 
+            "Resolved", 
+            "36d 2h 21m"
+        ]
+    ], 
+    "FLUME-3135": [
+        [
+            "Open", 
+            "Resolved", 
+            "5h 49m"
+        ]
+    ], 
+    "FLUME-2556": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 15h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 25m"
+        ]
+    ], 
+    "FLUME-2557": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 41m"
+        ]
+    ], 
+    "FLUME-2652": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 2h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 21h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "429d 11h 33m"
+        ]
+    ], 
+    "FLUME-2657": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 11m"
+        ]
+    ], 
+    "FLUME-1389": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 23h 35m"
+        ]
+    ], 
+    "FLUME-1221": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 16h 32m"
+        ]
+    ], 
+    "FLUME-2654": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 20h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 38m"
+        ]
+    ], 
+    "FLUME-807": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-806": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-805": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24d 15h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "FLUME-1595": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39m"
+        ]
+    ], 
+    "FLUME-1428": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 8h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 57m"
+        ]
+    ], 
+    "FLUME-1177": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 19h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 1m"
+        ]
+    ], 
+    "FLUME-311": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "39d 39m"
+        ]
+    ], 
+    "FLUME-809": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 19s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-1751": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 25s"
+        ]
+    ], 
+    "FLUME-1750": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 1s"
+        ]
+    ], 
+    "FLUME-2026": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "57d 16h 13m"
+        ]
+    ], 
+    "FLUME-1755": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 12h 14m"
+        ]
+    ], 
+    "FLUME-222": [
+        [
+            "Open", 
+            "Blocked", 
+            "9d 9h 47m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "4d 6h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 7h 40m"
+        ]
+    ], 
+    "FLUME-1690": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 31m"
+        ]
+    ], 
+    "FLUME-2191": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 23h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 6h 46m"
+        ]
+    ], 
+    "FLUME-2192": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41d 7h 2m"
+        ]
+    ], 
+    "FLUME-152": [
+        [
+            "Open", 
+            "Blocked", 
+            "10d 6h 25m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3d 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "108d 13h 45m"
+        ]
+    ], 
+    "FLUME-1204": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41d 7h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h"
+        ]
+    ], 
+    "FLUME-2198": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 21h 46m"
+        ]
+    ], 
+    "FLUME-248": [
+        [
+            "Open", 
+            "Blocked", 
+            "24d 3h 15m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "13d 3h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 17h 36m"
+        ]
+    ], 
+    "FLUME-2210": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 6h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 1h 32m"
+        ]
+    ], 
+    "FLUME-2673": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 6s"
+        ]
+    ], 
+    "FLUME-2215": [
+        [
+            "Open", 
+            "Patch Available", 
+            "75d 8h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "513d 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "388d 23m"
+        ]
+    ], 
+    "FLUME-2214": [
+        [
+            "Open", 
+            "Patch Available", 
+            "460d 10h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "31d 15h 22m"
+        ]
+    ], 
+    "FLUME-2350": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 35m"
+        ]
+    ], 
+    "FLUME-822": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 8h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 11h 33m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 5h 58m"
+        ]
+    ], 
+    "FLUME-2357": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 1h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 29m"
+        ]
+    ], 
+    "FLUME-827": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 20h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "FLUME-2425": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 8h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 57m"
+        ]
+    ], 
+    "FLUME-1310": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 2h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9s"
+        ]
+    ], 
+    "FLUME-2420": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "63d 14h 38m"
+        ]
+    ], 
+    "FLUME-1316": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 10h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23m 29s"
+        ]
+    ], 
+    "FLUME-1315": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 21h 26m"
+        ]
+    ], 
+    "FLUME-3222": [
+        [
+            "Open", 
+            "Resolved", 
+            "90d 1h 57m"
+        ]
+    ], 
+    "FLUME-1253": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 2h 54m"
+        ]
+    ], 
+    "FLUME-1319": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 11m"
+        ]
+    ], 
+    "FLUME-70": [
+        [
+            "Open", 
+            "Blocked", 
+            "16d 22h 26m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "12h 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "128d 12h 44m"
+        ]
+    ], 
+    "FLUME-1254": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 46m"
+        ]
+    ], 
+    "FLUME-2812": [
+        [
+            "Open", 
+            "Resolved", 
+            "387d 9h"
+        ]
+    ], 
+    "FLUME-234": [
+        [
+            "Open", 
+            "Blocked", 
+            "4d 9h 18m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 21h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "76d 16h 23m"
+        ]
+    ], 
+    "FLUME-891": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-2950": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 35m"
+        ]
+    ], 
+    "FLUME-2952": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 22h 21m"
+        ]
+    ], 
+    "FLUME-1524": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11m 4s"
+        ]
+    ], 
+    "FLUME-1525": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22m 15s"
+        ]
+    ], 
+    "FLUME-337": [
+        [
+            "Open", 
+            "Blocked", 
+            "4d 2h 41m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "11h 55m"
+        ]
+    ], 
+    "FLUME-336": [
+        [
+            "Open", 
+            "Blocked", 
+            "7d 1h 18m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "16h 6m"
+        ]
+    ], 
+    "FLUME-333": [
+        [
+            "Open", 
+            "Blocked", 
+            "10m 37s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 16h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "30d 14h 44m"
+        ]
+    ], 
+    "FLUME-3101": [
+        [
+            "Patch Available", 
+            "Open", 
+            "17s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "538d 11h 5m"
+        ]
+    ], 
+    "FLUME-1079": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 9m"
+        ]
+    ], 
+    "FLUME-416": [
+        [
+            "Open", 
+            "Blocked", 
+            "4d 5h 32m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3d 23h 8m"
+        ]
+    ], 
+    "FLUME-411": [
+        [
+            "Open", 
+            "Blocked", 
+            "26m 27s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 20h 3m"
+        ]
+    ], 
+    "FLUME-2626": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 21h 10m"
+        ]
+    ], 
+    "FLUME-1135": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 13m"
+        ]
+    ], 
+    "FLUME-2109": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 11h 55m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "34d 19h 4m"
+        ]
+    ], 
+    "FLUME-1965": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 27m"
+        ]
+    ], 
+    "FLUME-1036": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 20h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "59m 28s"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "32m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 42m"
+        ]
+    ], 
+    "FLUME-1037": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 14h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39m 25s"
+        ]
+    ], 
+    "FLUME-600": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 14h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "88d 6h 18m"
+        ]
+    ], 
+    "FLUME-1031": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 38m"
+        ]
+    ], 
+    "FLUME-483": [
+        [
+            "Open", 
+            "Blocked", 
+            "11d 16h 3m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3d 1h 6m"
+        ]
+    ], 
+    "FLUME-482": [
+        [
+            "Open", 
+            "Blocked", 
+            "2m 18s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "35d 11h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "161d 17h 25m"
+        ]
+    ], 
+    "FLUME-2620": [
+        [
+            "Open", 
+            "Patch Available", 
+            "449d 3h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "445d 20h 35m"
+        ]
+    ], 
+    "FLUME-523": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 16h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "141d 21h 11m"
+        ]
+    ], 
+    "FLUME-669": [
+        [
+            "Open", 
+            "Blocked", 
+            "13m 29s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 2h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 17h 46m"
+        ]
+    ], 
+    "FLUME-662": [
+        [
+            "Open", 
+            "Blocked", 
+            "8h 19m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 1h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 7h 35m"
+        ]
+    ], 
+    "FLUME-661": [
+        [
+            "Open", 
+            "Blocked", 
+            "3m 42s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 15h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 7h 34m"
+        ]
+    ], 
+    "FLUME-667": [
+        [
+            "Open", 
+            "Blocked", 
+            "1h 33m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 23h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "46d 5h 44m"
+        ]
+    ], 
+    "FLUME-666": [
+        [
+            "Open", 
+            "Blocked", 
+            "11d 13h 21m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "12s"
+        ]
+    ], 
+    "FLUME-1784": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 16m"
+        ]
+    ], 
+    "FLUME-1785": [
+        [
+            "Open", 
+            "Patch Available", 
+            "68d 20h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 13m"
+        ]
+    ], 
+    "FLUME-706": [
+        [
+            "Open", 
+            "Patch Available", 
+            "31d 6h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 8h 24m"
+        ]
+    ], 
+    "FLUME-1787": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 4h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "92d 7h 28m"
+        ]
+    ], 
+    "FLUME-1788": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 9m"
+        ]
+    ], 
+    "FLUME-1789": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 2m"
+        ]
+    ], 
+    "FLUME-2773": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 10h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "267d 11h 49m"
+        ]
+    ], 
+    "FLUME-466": [
+        [
+            "Open", 
+            "Blocked", 
+            "42s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "18d 10h 29m"
+        ]
+    ], 
+    "FLUME-1142": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 19m"
+        ]
+    ], 
+    "FLUME-2072": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 25m"
+        ]
+    ], 
+    "FLUME-2172": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 22h 55m"
+        ]
+    ], 
+    "FLUME-1148": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 27m"
+        ]
+    ], 
+    "FLUME-1149": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 59m"
+        ]
+    ], 
+    "FLUME-2174": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 8m"
+        ]
+    ], 
+    "FLUME-3175": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 15h 14m"
+        ]
+    ], 
+    "FLUME-3173": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 7m"
+        ]
+    ], 
+    "FLUME-960": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 10h 23m"
+        ]
+    ], 
+    "FLUME-1916": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 6h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 7m"
+        ]
+    ], 
+    "FLUME-1911": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 23h 33m"
+        ]
+    ], 
+    "FLUME-1854": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 19h 58m"
+        ]
+    ], 
+    "FLUME-963": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 22h 55m"
+        ]
+    ], 
+    "FLUME-1918": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23m 25s"
+        ]
+    ], 
+    "FLUME-1852": [
+        [
+            "Open", 
+            "In Progress", 
+            "1h 11m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 1h 30m"
+        ]
+    ], 
+    "FLUME-848": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 17s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-1719": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 1h 9m"
+        ]
+    ], 
+    "FLUME-1498": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 9m"
+        ]
+    ], 
+    "FLUME-1712": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "FLUME-1711": [
+        [
+            "Open", 
+            "Resolved", 
+            "21h 50m"
+        ]
+    ], 
+    "FLUME-2619": [
+        [
+            "Open", 
+            "Patch Available", 
+            "61d 10h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "483d 3h 45m"
+        ]
+    ], 
+    "FLUME-1986": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 1h 22m"
+        ]
+    ], 
+    "FLUME-1980": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 23h 45m"
+        ]
+    ], 
+    "FLUME-1981": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 5h 56m"
+        ]
+    ], 
+    "FLUME-362": [
+        [
+            "Open", 
+            "Blocked", 
+            "3h 4m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 20h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 8h 45m"
+        ]
+    ], 
+    "FLUME-2255": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 20h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 2h 35m"
+        ]
+    ], 
+    "FLUME-2252": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "105d 15h 42m"
+        ]
+    ], 
+    "FLUME-2318": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "919d 23h 30m"
+        ]
+    ], 
+    "FLUME-365": [
+        [
+            "Blocked", 
+            "Open", 
+            "2s"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "37d 1h 7m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 19h 41m"
+        ]
+    ], 
+    "FLUME-2314": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17h 40m"
+        ]
+    ], 
+    "FLUME-2312": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 21h 15m"
+        ]
+    ], 
+    "FLUME-2259": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 7h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37d 14h 53m"
+        ]
+    ], 
+    "FLUME-2311": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 16h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 32m"
+        ]
+    ], 
+    "FLUME-2464": [
+        [
+            "Open", 
+            "In Progress", 
+            "1529d 13h 27m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 28m"
+        ]
+    ], 
+    "FLUME-2466": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 23h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 46m"
+        ]
+    ], 
+    "FLUME-1356": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 57m"
+        ]
+    ], 
+    "FLUME-1355": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 24m"
+        ]
+    ], 
+    "FLUME-2500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 14h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 1h 37m"
+        ]
+    ], 
+    "FLUME-1352": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 13s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41m 54s"
+        ]
+    ], 
+    "FLUME-2505": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 41s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 13h 50m"
+        ]
+    ], 
+    "FLUME-1216": [
+        [
+            "Open", 
+            "In Progress", 
+            "19d 7h 44m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 34m"
+        ]
+    ], 
+    "FLUME-1217": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 1h 58m"
+        ]
+    ], 
+    "FLUME-2660": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "5d 14h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "5m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "107d 1h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "324d 19h 19m"
+        ]
+    ], 
+    "FLUME-2913": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "21d 21h 54m"
+        ]
+    ], 
+    "FLUME-2915": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 21h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 3h 40m"
+        ]
+    ], 
+    "FLUME-2664": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8m 27s"
+        ]
+    ], 
+    "FLUME-2665": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 15h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 50m"
+        ]
+    ], 
+    "FLUME-1562": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 13m"
+        ]
+    ], 
+    "FLUME-1565": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "35s"
+        ]
+    ], 
+    "FLUME-1567": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 11h 51m"
+        ]
+    ], 
+    "FLUME-1401": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 17h 29m"
+        ]
+    ], 
+    "FLUME-1763": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 5h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 22m"
+        ]
+    ], 
+    "FLUME-1761": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 13h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 1h 2m"
+        ]
+    ], 
+    "FLUME-1766": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 13m"
+        ]
+    ], 
+    "FLUME-936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 21h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 22h 26m"
+        ]
+    ], 
+    "FLUME-513": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 11h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 11h 46m"
+        ]
+    ], 
+    "FLUME-512": [
+        [
+            "Open", 
+            "Blocked", 
+            "132d 2h 16m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "9d 16h 9m"
+        ]
+    ], 
+    "FLUME-515": [
+        [
+            "Open", 
+            "Blocked", 
+            "6h 48m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 4h 22m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "174d 17h 47m"
+        ]
+    ], 
+    "FLUME-516": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 10h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "174d 5h 42m"
+        ]
+    ], 
+    "FLUME-2229": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33d 22h 19m"
+        ]
+    ], 
+    "FLUME-3314": [
+        [
+            "Open", 
+            "In Progress", 
+            "34s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 2h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h"
+        ]
+    ], 
+    "FLUME-3316": [
+        [
+            "Open", 
+            "In Progress", 
+            "9s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "2h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "FLUME-3311": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 13h 7m"
+        ]
+    ], 
+    "FLUME-198": [
+        [
+            "Open", 
+            "Blocked", 
+            "47d 12h 30m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "12d 9h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 14h 19m"
+        ]
+    ], 
+    "FLUME-1322": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "FLUME-1323": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 50m"
+        ]
+    ], 
+    "FLUME-1320": [
+        [
+            "Open", 
+            "Patch Available", 
+            "49m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 5m"
+        ]
+    ], 
+    "FLUME-2389": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 26m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 21h 7m"
+        ]
+    ], 
+    "FLUME-1327": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 4m"
+        ]
+    ], 
+    "FLUME-1324": [
+        [
+            "Open", 
+            "Patch Available", 
+            "42m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18m 49s"
+        ]
+    ], 
+    "FLUME-192": [
+        [
+            "Open", 
+            "Blocked", 
+            "55d 21h 56m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "5d 4h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 14h 35m"
+        ]
+    ], 
+    "FLUME-564": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 58m"
+        ]
+    ], 
+    "FLUME-2841": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "213d 1h 44m"
+        ]
+    ], 
+    "FLUME-2989": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 22h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "779d 2h 53m"
+        ]
+    ], 
+    "FLUME-2988": [
+        [
+            "Open", 
+            "Resolved", 
+            "805d 22h 11m"
+        ]
+    ], 
+    "FLUME-205": [
+        [
+            "Open", 
+            "Blocked", 
+            "46d 6m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "13d 3h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 17h 36m"
+        ]
+    ], 
+    "FLUME-207": [
+        [
+            "Blocked", 
+            "Open", 
+            "4s"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "1m 18s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "5d 22h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "89d 9h 22m"
+        ]
+    ], 
+    "FLUME-2983": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 21m"
+        ]
+    ], 
+    "FLUME-200": [
+        [
+            "Open", 
+            "Blocked", 
+            "3s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "5h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 14h 6m"
+        ]
+    ], 
+    "FLUME-548": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "154d 9h 45m"
+        ]
+    ], 
+    "FLUME-745": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 17h 52m"
+        ]
+    ], 
+    "FLUME-746": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 28s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 6m"
+        ]
+    ], 
+    "FLUME-742": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 18h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 14h 50m"
+        ]
+    ], 
+    "FLUME-1666": [
+        [
+            "Open", 
+            "Patch Available", 
+            "14m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "350d 16h 16m"
+        ]
+    ], 
+    "FLUME-1664": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 5h 36m"
+        ]
+    ], 
+    "FLUME-1662": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 18m"
+        ]
+    ], 
+    "FLUME-1108": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 9h 40m"
+        ]
+    ], 
+    "FLUME-1109": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 24m"
+        ]
+    ], 
+    "FLUME-2036": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 24s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 2h 26m"
+        ]
+    ], 
+    "FLUME-580": [
+        [
+            "Open", 
+            "Patch Available", 
+            "179d 2h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 15h 50m"
+        ]
+    ], 
+    "FLUME-1102": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46m 47s"
+        ]
+    ], 
+    "FLUME-2032": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 16h 50m"
+        ]
+    ], 
+    "FLUME-658": [
+        [
+            "Open", 
+            "Blocked", 
+            "13h 13m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "13d 17h 6m"
+        ]
+    ], 
+    "FLUME-25": [
+        [
+            "Open", 
+            "Blocked", 
+            "27d 19h 2m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "19h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "130d 22h 8m"
+        ]
+    ], 
+    "FLUME-2134": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 21h 22m"
+        ]
+    ], 
+    "FLUME-2488": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 6h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 9h 58m"
+        ]
+    ], 
+    "FLUME-2489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 20h 20m"
+        ]
+    ], 
+    "FLUME-540": [
+        [
+            "Open", 
+            "Blocked", 
+            "20d 2h 33m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "33m 57s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "142d 2h 53m"
+        ]
+    ], 
+    "FLUME-2482": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 10h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 23m"
+        ]
+    ], 
+    "FLUME-2480": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 4h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 13h 59m"
+        ]
+    ], 
+    "FLUME-2481": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18h 47m"
+        ]
+    ], 
+    "FLUME-2486": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 21h 45m"
+        ]
+    ], 
+    "FLUME-2487": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 5h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27d 13h 56m"
+        ]
+    ], 
+    "FLUME-2485": [
+        [
+            "Open", 
+            "Resolved", 
+            "307d 16h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "318d 2h 16m"
+        ]
+    ], 
+    "FLUME-1818": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 20h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 40m"
+        ]
+    ], 
+    "FLUME-1819": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "111d 13h 30m"
+        ]
+    ], 
+    "FLUME-439": [
+        [
+            "Open", 
+            "Blocked", 
+            "20h 19m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "6d 22h 44m"
+        ]
+    ], 
+    "FLUME-630": [
+        [
+            "Open", 
+            "Blocked", 
+            "1h 17m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "15d 2h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "72d 2h 49m"
+        ]
+    ], 
+    "FLUME-927": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 20h 25m"
+        ]
+    ], 
+    "FLUME-920": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 3h 28m"
+        ]
+    ], 
+    "FLUME-734": [
+        [
+            "Open", 
+            "In Progress", 
+            "7h 15m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "51d 6h 31m"
+        ]
+    ], 
+    "FLUME-1613": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9m 28s"
+        ]
+    ], 
+    "FLUME-1610": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "39m 3s"
+        ]
+    ], 
+    "FLUME-1611": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "FLUME-1616": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 23m"
+        ]
+    ], 
+    "FLUME-2725": [
+        [
+            "Open", 
+            "Patch Available", 
+            "374d 17h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 8h 6m"
+        ]
+    ], 
+    "FLUME-2042": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 39m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 18m"
+        ]
+    ], 
+    "FLUME-2043": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 3m"
+        ]
+    ], 
+    "FLUME-2044": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 40m"
+        ]
+    ], 
+    "FLUME-1194": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 4h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 16h 22m"
+        ]
+    ], 
+    "FLUME-1190": [
+        [
+            "Open", 
+            "Resolved", 
+            "10h 38m"
+        ]
+    ], 
+    "FLUME-1280": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 3h 31m"
+        ]
+    ], 
+    "FLUME-1398": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 13m"
+        ]
+    ], 
+    "FLUME-218": [
+        [
+            "Open", 
+            "Blocked", 
+            "1h 39m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "23d 6h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "67d 8h 23m"
+        ]
+    ], 
+    "FLUME-1248": [
+        [
+            "Patch Available", 
+            "Open", 
+            "2d 23h 18m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 6h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 24m"
+        ]
+    ], 
+    "FLUME-1392": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "FLUME-1391": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 9h 45m"
+        ]
+    ], 
+    "FLUME-1364": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 51m"
+        ]
+    ], 
+    "FLUME-818": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 7s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "13m 6s"
+        ]
+    ], 
+    "FLUME-1969": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 22m"
+        ]
+    ], 
+    "FLUME-1964": [
+        [
+            "Open", 
+            "Patch Available", 
+            "55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 8m"
+        ]
+    ], 
+    "FLUME-811": [
+        [
+            "Open", 
+            "Resolved", 
+            "7m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-2624": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16d 20h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 4h 59m"
+        ]
+    ], 
+    "FLUME-815": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 32s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-816": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32d 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 22h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 5h 55m"
+        ]
+    ], 
+    "FLUME-817": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 1h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 22h 31m"
+        ]
+    ], 
+    "FLUME-955": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m 43s"
+        ]
+    ], 
+    "FLUME-957": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 3h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6m 29s"
+        ]
+    ], 
+    "FLUME-1688": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 8s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "182d 5h 19m"
+        ]
+    ], 
+    "FLUME-1723": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11m 37s"
+        ]
+    ], 
+    "FLUME-1720": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 18m"
+        ]
+    ], 
+    "FLUME-47": [
+        [
+            "Open", 
+            "Blocked", 
+            "13d 20h 24m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "137d 20h 29m"
+        ]
+    ], 
+    "FLUME-1683": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 20s"
+        ]
+    ], 
+    "FLUME-44": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 8h 54m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "13h 33m"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "4d 7h 9m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 22h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 15h 54m"
+        ]
+    ], 
+    "FLUME-2184": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 46m"
+        ]
+    ], 
+    "FLUME-2182": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 19h 44m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 32m"
+        ]
+    ], 
+    "FLUME-254": [
+        [
+            "Blocked", 
+            "Open", 
+            "11s"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "25d 2h 5m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "15d 22h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "32d 16h 30m"
+        ]
+    ], 
+    "FLUME-2266": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 23h 53m"
+        ]
+    ], 
+    "FLUME-2060": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 5h 44m"
+        ]
+    ], 
+    "FLUME-2264": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 52s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 7h 22m"
+        ]
+    ], 
+    "FLUME-2265": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 17h 5m"
+        ]
+    ], 
+    "FLUME-2262": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 58s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "58m 10s"
+        ]
+    ], 
+    "FLUME-2263": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 7h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "72d 8h 52m"
+        ]
+    ], 
+    "FLUME-395": [
+        [
+            "Open", 
+            "Blocked", 
+            "12d 15h 20m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 9h 9m"
+        ]
+    ], 
+    "FLUME-43": [
+        [
+            "Open", 
+            "In Progress", 
+            "10h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "2d 17h 8m"
+        ]
+    ], 
+    "FLUME-3218": [
+        [
+            "Open", 
+            "Resolved", 
+            "26m 3s"
+        ]
+    ], 
+    "FLUME-2438": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "In Progress", 
+            "2d 33m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 20h 37m"
+        ]
+    ], 
+    "FLUME-2345": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 3h 12m"
+        ]
+    ], 
+    "FLUME-2347": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 19h 28m"
+        ]
+    ], 
+    "FLUME-2346": [
+        [
+            "Open", 
+            "Patch Available", 
+            "209d 3h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 1h 4m"
+        ]
+    ], 
+    "FLUME-2432": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 32m"
+        ]
+    ], 
+    "FLUME-1369": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 8h 25m"
+        ]
+    ], 
+    "FLUME-2533": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 1h 9m"
+        ]
+    ], 
+    "FLUME-2949": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 19m"
+        ]
+    ], 
+    "FLUME-2948": [
+        [
+            "Open", 
+            "Resolved", 
+            "14h 41m"
+        ]
+    ], 
+    "FLUME-1362": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 16h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7h 55m"
+        ]
+    ], 
+    "FLUME-1363": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 7m"
+        ]
+    ], 
+    "FLUME-1241": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 8h 26m"
+        ]
+    ], 
+    "FLUME-1240": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29d 7h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 15m"
+        ]
+    ], 
+    "FLUME-2538": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 22h 13m"
+        ]
+    ], 
+    "FLUME-45": [
+        [
+            "Open", 
+            "Blocked", 
+            "37d 23h 30m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "22h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "113d 21h 58m"
+        ]
+    ], 
+    "FLUME-1245": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 30m"
+        ]
+    ], 
+    "FLUME-1244": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 9h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 14m"
+        ]
+    ], 
+    "FLUME-1368": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 21h 4m"
+        ]
+    ], 
+    "FLUME-1246": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 21h 51m"
+        ]
+    ], 
+    "FLUME-1532": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-1534": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-1432": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 29m"
+        ]
+    ], 
+    "FLUME-322": [
+        [
+            "Open", 
+            "Blocked", 
+            "5d 16h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1455d 8h 6m"
+        ]
+    ], 
+    "FLUME-1437": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 19h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 12h 36m"
+        ]
+    ], 
+    "FLUME-320": [
+        [
+            "Blocked", 
+            "Open", 
+            "1m 25s"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "83d 23h 45m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3d 9h 28m"
+        ]
+    ], 
+    "FLUME-36": [
+        [
+            "Blocked", 
+            "Open", 
+            "7s"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "17d 20h 30m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "21h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "138d 20h 23m"
+        ]
+    ], 
+    "FLUME-176": [
+        [
+            "Open", 
+            "Blocked", 
+            "2h 45m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "19h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "109d 22h 6m"
+        ]
+    ], 
+    "FLUME-1583": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 41m"
+        ]
+    ], 
+    "FLUME-1027": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22h 18m"
+        ]
+    ], 
+    "FLUME-1026": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 12h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 43m"
+        ]
+    ], 
+    "FLUME-1213": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 11h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 7m"
+        ]
+    ], 
+    "FLUME-1638": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 19h 52m"
+        ]
+    ], 
+    "FLUME-1088": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 37s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 1h 5m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1d 1h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "30d 23h 42m"
+        ]
+    ], 
+    "FLUME-496": [
+        [
+            "Open", 
+            "Blocked", 
+            "6d 17h 13m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "18h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "177d 21h 4m"
+        ]
+    ], 
+    "FLUME-2658": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 4h 23m"
+        ]
+    ], 
+    "FLUME-1380": [
+        [
+            "Open", 
+            "In Progress", 
+            "2h"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "37m 39s"
+        ]
+    ], 
+    "FLUME-67": [
+        [
+            "Open", 
+            "Blocked", 
+            "51s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 9h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 15h 24m"
+        ]
+    ], 
+    "FLUME-1229": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 20h 35m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46m 2s"
+        ]
+    ], 
+    "FLUME-1797": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "52m 4s"
+        ]
+    ], 
+    "FLUME-1795": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "52m 17s"
+        ]
+    ], 
+    "FLUME-1793": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "576d 8h 3m"
+        ]
+    ], 
+    "FLUME-770": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 18h 52m"
+        ]
+    ], 
+    "FLUME-1791": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 20m"
+        ]
+    ], 
+    "FLUME-1226": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 20h 28m"
+        ]
+    ], 
+    "FLUME-1656": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "22d 2m"
+        ]
+    ], 
+    "FLUME-1655": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 4h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 2h 51m"
+        ]
+    ], 
+    "FLUME-2763": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 20h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "303d 2h 16m"
+        ]
+    ], 
+    "FLUME-1653": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 51m"
+        ]
+    ], 
+    "FLUME-1799": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 4s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 35m"
+        ]
+    ], 
+    "FLUME-1651": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 24s"
+        ]
+    ], 
+    "FLUME-1098": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 20h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 18m"
+        ]
+    ], 
+    "FLUME-2007": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 23h 24m"
+        ]
+    ], 
+    "FLUME-1153": [
+        [
+            "Open", 
+            "Resolved", 
+            "193d 23h 26m"
+        ]
+    ], 
+    "FLUME-2002": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15d 6h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 4h 5m"
+        ]
+    ], 
+    "FLUME-1154": [
+        [
+            "Open", 
+            "Patch Available", 
+            "51d 1h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 1h 14m"
+        ]
+    ], 
+    "FLUME-1156": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 40m"
+        ]
+    ], 
+    "FLUME-2161": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38m 46s"
+        ]
+    ], 
+    "FLUME-1955": [
+        [
+            "Open", 
+            "Patch Available", 
+            "50m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55m 34s"
+        ]
+    ], 
+    "FLUME-1094": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10m 1s"
+        ]
+    ], 
+    "FLUME-1096": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 22h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 2h 35m"
+        ]
+    ], 
+    "FLUME-788": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 23h 52m"
+        ]
+    ], 
+    "FLUME-1220": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16m 21s"
+        ]
+    ], 
+    "FLUME-784": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "9s"
+        ]
+    ], 
+    "FLUME-1929": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 20h 47m"
+        ]
+    ], 
+    "FLUME-1354": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 12h 35m"
+        ]
+    ], 
+    "FLUME-1296": [
+        [
+            "Open", 
+            "Patch Available", 
+            "172d 20h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 17m"
+        ]
+    ], 
+    "FLUME-1297": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 11h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 41m"
+        ]
+    ], 
+    "FLUME-1922": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 2h 31m"
+        ]
+    ], 
+    "FLUME-1924": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "119d 16h 12m"
+        ]
+    ], 
+    "FLUME-1925": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 16h 56m"
+        ]
+    ], 
+    "FLUME-1290": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 49m"
+        ]
+    ], 
+    "FLUME-609": [
+        [
+            "Open", 
+            "Blocked", 
+            "47d 17h 50m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "5d 7h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 2h 34m"
+        ]
+    ], 
+    "FLUME-1842": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 57m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21h 59m"
+        ]
+    ], 
+    "FLUME-1489": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 1h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 6m"
+        ]
+    ], 
+    "FLUME-857": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 21h 5m"
+        ]
+    ], 
+    "FLUME-1845": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 8h 48m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 33m"
+        ]
+    ], 
+    "FLUME-1844": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 42m"
+        ]
+    ], 
+    "FLUME-915": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 6s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 13m"
+        ]
+    ], 
+    "FLUME-803": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 4h 54m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19s"
+        ]
+    ], 
+    "FLUME-1849": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 13m"
+        ]
+    ], 
+    "FLUME-916": [
+        [
+            "Open", 
+            "Resolved", 
+            "16m 31s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 13m"
+        ]
+    ], 
+    "FLUME-911": [
+        [
+            "Open", 
+            "Resolved", 
+            "22m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "FLUME-910": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-607": [
+        [
+            "Open", 
+            "Blocked", 
+            "1d 10h 16m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "11h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 5h 43m"
+        ]
+    ], 
+    "FLUME-912": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "FLUME-2712": [
+        [
+            "Open", 
+            "Patch Available", 
+            "130d 5h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24d 20h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "231d 17h 49m"
+        ]
+    ], 
+    "FLUME-1993": [
+        [
+            "Open", 
+            "Patch Available", 
+            "24m 27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 21h 52m"
+        ]
+    ], 
+    "FLUME-82": [
+        [
+            "Open", 
+            "Blocked", 
+            "6d 8h 27m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 12h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "130d 19h 40m"
+        ]
+    ], 
+    "FLUME-350": [
+        [
+            "Open", 
+            "Resolved", 
+            "25d 8h 8m"
+        ]
+    ], 
+    "FLUME-2305": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33m 42s"
+        ]
+    ], 
+    "FLUME-2304": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 45s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10m 15s"
+        ]
+    ], 
+    "FLUME-2307": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "FLUME-2301": [
+        [
+            "Open", 
+            "Resolved", 
+            "54m 15s"
+        ]
+    ], 
+    "FLUME-2303": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15m 18s"
+        ]
+    ], 
+    "FLUME-2302": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 4h 38m"
+        ]
+    ], 
+    "FLUME-2475": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 4h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 1h 4m"
+        ]
+    ], 
+    "FLUME-2472": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 9s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17d 13h 46m"
+        ]
+    ], 
+    "FLUME-2578": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 19h 2m"
+        ]
+    ], 
+    "FLUME-2470": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 6m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 3h 34m"
+        ]
+    ], 
+    "FLUME-2479": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 20h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 9m"
+        ]
+    ], 
+    "FLUME-1288": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 6h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 22m"
+        ]
+    ], 
+    "FLUME-1205": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 18h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 6h 3m"
+        ]
+    ], 
+    "FLUME-2670": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 14m"
+        ]
+    ], 
+    "FLUME-823": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27d 1h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "3d 6h 3m"
+        ]
+    ], 
+    "FLUME-2672": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 6h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "152d 5h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "276d 15h 48m"
+        ]
+    ], 
+    "FLUME-825": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8s"
+        ]
+    ], 
+    "FLUME-1200": [
+        [
+            "Open", 
+            "Patch Available", 
+            "36d 11h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 18h 19m"
+        ]
+    ], 
+    "FLUME-2901": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "112d 20h 39m"
+        ]
+    ], 
+    "FLUME-1578": [
+        [
+            "Open", 
+            "Resolved", 
+            "37m 9s"
+        ]
+    ], 
+    "FLUME-2679": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 21m"
+        ]
+    ], 
+    "FLUME-2678": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 26m"
+        ]
+    ], 
+    "FLUME-1572": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 31m"
+        ]
+    ], 
+    "FLUME-2908": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13m 33s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "51m 23s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "44d 56m"
+        ]
+    ], 
+    "FLUME-1778": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 18h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20m 8s"
+        ]
+    ], 
+    "FLUME-870": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "6s"
+        ]
+    ], 
+    "FLUME-1470": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 8m"
+        ]
+    ], 
+    "FLUME-1773": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5m"
+        ]
+    ], 
+    "FLUME-1772": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 8h 17m"
+        ]
+    ], 
+    "FLUME-1775": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 51m"
+        ]
+    ], 
+    "FLUME-1774": [
+        [
+            "Open", 
+            "Patch Available", 
+            "57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42m 53s"
+        ]
+    ], 
+    "FLUME-1776": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21m 31s"
+        ]
+    ], 
+    "FLUME-2886": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 1h 1m"
+        ]
+    ], 
+    "FLUME-38": [
+        [
+            "Open", 
+            "In Progress", 
+            "14h 20m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "6d 11h 25m"
+        ]
+    ], 
+    "FLUME-2881": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 6h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "121d 18h 50m"
+        ]
+    ], 
+    "FLUME-508": [
+        [
+            "Open", 
+            "Blocked", 
+            "8h 11m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2h 48m"
+        ]
+    ], 
+    "FLUME-2889": [
+        [
+            "Open", 
+            "Patch Available", 
+            "43m 52s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "11h 53m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "14d 23m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "46d 9h 56m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "53d 20h 44m"
+        ]
+    ], 
+    "FLUME-3328": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "29d 11h 10m"
+        ]
+    ], 
+    "FLUME-2233": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 15h 20m"
+        ]
+    ], 
+    "FLUME-2235": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 1s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 3h 50m"
+        ]
+    ], 
+    "FLUME-2239": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23d 18h 11m"
+        ]
+    ], 
+    "FLUME-2238": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 8h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 4h 26m"
+        ]
+    ], 
+    "FLUME-2400": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 11h 26m"
+        ]
+    ], 
+    "FLUME-2404": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "18d 13h 39m"
+        ]
+    ], 
+    "FLUME-1331": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 22h 14m"
+        ]
+    ], 
+    "FLUME-1333": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 14m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 6m"
+        ]
+    ], 
+    "FLUME-183": [
+        [
+            "Open", 
+            "Blocked", 
+            "14m 39s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "3d 10h 27m"
+        ], 
+        [
+            "Reopened", 
+            "Blocked", 
+            "2d 5h 29m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3m 22s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "102d 15h 44m"
+        ]
+    ], 
+    "FLUME-2972": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 15s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 2h 4m"
+        ]
+    ], 
+    "FLUME-2973": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "784d 23h 16m"
+        ]
+    ], 
+    "FLUME-2976": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20d 21h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "624d 6h 50m"
+        ]
+    ], 
+    "FLUME-2974": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 11h 36m"
+        ]
+    ], 
+    "FLUME-1500": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 31m"
+        ]
+    ], 
+    "FLUME-1506": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 7m"
+        ]
+    ], 
+    "FLUME-1504": [
+        [
+            "Open", 
+            "Resolved", 
+            "17h 53m"
+        ]
+    ], 
+    "FLUME-435": [
+        [
+            "Open", 
+            "Blocked", 
+            "21h 1m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "7d 4h 22m"
+        ]
+    ], 
+    "FLUME-1119": [
+        [
+            "Open", 
+            "Patch Available", 
+            "47m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 40m"
+        ]
+    ], 
+    "FLUME-433": [
+        [
+            "Open", 
+            "Blocked", 
+            "21d 6h 32m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "17d 10h 36m"
+        ]
+    ], 
+    "FLUME-430": [
+        [
+            "Open", 
+            "Blocked", 
+            "2d 9h 2m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "7d 21m"
+        ]
+    ], 
+    "FLUME-1219": [
+        [
+            "Open", 
+            "In Progress", 
+            "21m 44s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "8h 59m"
+        ]
+    ], 
+    "FLUME-1114": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12m 24s"
+        ]
+    ], 
+    "FLUME-1116": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 9h 57m"
+        ]
+    ], 
+    "FLUME-1112": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 2s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 4h 20m"
+        ]
+    ], 
+    "FLUME-2124": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 39m"
+        ]
+    ], 
+    "FLUME-2126": [
+        [
+            "Open", 
+            "Patch Available", 
+            "451d 10h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 23h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "119d 21h 13m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "28d 1h 51m"
+        ]
+    ], 
+    "FLUME-2121": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 22s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 23h 39m"
+        ]
+    ], 
+    "FLUME-2289": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 40s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 44m"
+        ]
+    ], 
+    "FLUME-3253": [
+        [
+            "Open", 
+            "In Progress", 
+            "133d 3h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "1h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 14m"
+        ]
+    ], 
+    "FLUME-2283": [
+        [
+            "Open", 
+            "Resolved", 
+            "67d 4h 18m"
+        ]
+    ], 
+    "FLUME-2492": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 19m"
+        ]
+    ], 
+    "FLUME-2495": [
+        [
+            "Open", 
+            "Patch Available", 
+            "48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 41m"
+        ]
+    ], 
+    "FLUME-2497": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 2h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 9m"
+        ]
+    ], 
+    "FLUME-3027": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 14h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 15h 24m"
+        ]
+    ], 
+    "FLUME-1805": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "33m 1s"
+        ]
+    ], 
+    "FLUME-1804": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "41m 17s"
+        ]
+    ], 
+    "FLUME-1803": [
+        [
+            "Open", 
+            "Patch Available", 
+            "32m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "FLUME-1802": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 25m"
+        ]
+    ], 
+    "FLUME-1329": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 59m"
+        ]
+    ], 
+    "FLUME-642": [
+        [
+            "Open", 
+            "Blocked", 
+            "6m 9s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "16h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "71d 1h 49m"
+        ]
+    ], 
+    "FLUME-722": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 15h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 14h 59m"
+        ]
+    ], 
+    "FLUME-2381": [
+        [
+            "Open", 
+            "Resolved", 
+            "18m 8s"
+        ]
+    ], 
+    "FLUME-720": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 5h 12m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 18h 23m"
+        ]
+    ], 
+    "FLUME-721": [
+        [
+            "Open", 
+            "In Progress", 
+            "2d 7h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 4h 4m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 5h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 23h 31m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "7d 23h 16m"
+        ]
+    ], 
+    "FLUME-1314": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 8h 6m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "27s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h"
+        ]
+    ], 
+    "FLUME-2754": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 21h 42m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "297d 15h 52m"
+        ]
+    ], 
+    "FLUME-2752": [
+        [
+            "Open", 
+            "Resolved", 
+            "701d 9h 15m"
+        ]
+    ], 
+    "FLUME-2753": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "316d 20h 36m"
+        ]
+    ], 
+    "FLUME-2751": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "63d 19h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "262d 1h 12m"
+        ]
+    ], 
+    "FLUME-2051": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28d 16h 24m"
+        ]
+    ], 
+    "FLUME-2054": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 9m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9h 4m"
+        ]
+    ], 
+    "FLUME-2057": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17m 12s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19d 21h 59m"
+        ]
+    ], 
+    "FLUME-1890": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14s"
+        ]
+    ], 
+    "FLUME-1891": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 18m"
+        ]
+    ], 
+    "FLUME-1892": [
+        [
+            "Open", 
+            "Patch Available", 
+            "268d 14h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "91d 19h 27m"
+        ]
+    ], 
+    "FLUME-646": [
+        [
+            "Open", 
+            "Blocked", 
+            "3m 7s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "5d 17h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 21h 20m"
+        ]
+    ], 
+    "FLUME-3294": [
+        [
+            "Open", 
+            "In Progress", 
+            "6m 32s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "5h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 9m"
+        ]
+    ], 
+    "FLUME-3298": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 5h 7m"
+        ]
+    ], 
+    "FLUME-3299": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 20h 16m"
+        ]
+    ], 
+    "FLUME-3117": [
+        [
+            "Open", 
+            "Resolved", 
+            "245d 1h 36m"
+        ]
+    ], 
+    "FLUME-1879": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 59m"
+        ]
+    ], 
+    "FLUME-869": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 3h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "14d 4h 1m"
+        ]
+    ], 
+    "FLUME-2408": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 58s"
+        ]
+    ], 
+    "FLUME-1975": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "73d 17h 22m"
+        ]
+    ], 
+    "FLUME-1974": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "23h 11m"
+        ]
+    ], 
+    "FLUME-1872": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9m 57s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h"
+        ]
+    ], 
+    "FLUME-1870": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 51m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13s"
+        ]
+    ], 
+    "FLUME-1325": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 12h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 27m"
+        ]
+    ], 
+    "FLUME-2633": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 38m"
+        ]
+    ], 
+    "FLUME-2632": [
+        [
+            "Open", 
+            "Patch Available", 
+            "19d 7h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "220d 14h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "240d 19h 2m"
+        ]
+    ], 
+    "FLUME-1482": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 28m"
+        ]
+    ], 
+    "FLUME-1231": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 17h 27m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 41m"
+        ]
+    ], 
+    "FLUME-1732": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "147d 16h 6m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "1539d 15h 19m"
+        ]
+    ], 
+    "FLUME-1606": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 25m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 10m"
+        ]
+    ], 
+    "FLUME-267": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 16h 17m"
+        ]
+    ], 
+    "FLUME-264": [
+        [
+            "Open", 
+            "Blocked", 
+            "18d 2h 55m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 4h 48m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 14h 34m"
+        ]
+    ], 
+    "FLUME-263": [
+        [
+            "Blocked", 
+            "Open", 
+            "7d 23h 8m"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "2h 16m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3d 4h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 20h 44m"
+        ]
+    ], 
+    "FLUME-1312": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 20m"
+        ]
+    ], 
+    "FLUME-2270": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 25s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 20h 35m"
+        ]
+    ], 
+    "FLUME-382": [
+        [
+            "Open", 
+            "Blocked", 
+            "4d 5h 53m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "23d 7h 19m"
+        ]
+    ], 
+    "FLUME-268": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 35m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "65d 16h 17m"
+        ]
+    ], 
+    "FLUME-1317": [
+        [
+            "Open", 
+            "Patch Available", 
+            "28m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 5h 16m"
+        ]
+    ], 
+    "FLUME-3201": [
+        [
+            "Open", 
+            "Resolved", 
+            "19h 13m"
+        ]
+    ], 
+    "FLUME-2441": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 11h 1m"
+        ]
+    ], 
+    "FLUME-2520": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 9m"
+        ]
+    ], 
+    "FLUME-1377": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45m 14s"
+        ]
+    ], 
+    "FLUME-1376": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 5s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 47m"
+        ]
+    ], 
+    "FLUME-2525": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 34m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 20h 27m"
+        ]
+    ], 
+    "FLUME-54": [
+        [
+            "Open", 
+            "Blocked", 
+            "19d 10h"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 12h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "130d 19h 40m"
+        ]
+    ], 
+    "FLUME-1373": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 2h 19m"
+        ]
+    ], 
+    "FLUME-2939": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 22h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "7d 11h 49m"
+        ]
+    ], 
+    "FLUME-2936": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 46s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d 12h 45m"
+        ]
+    ], 
+    "FLUME-1276": [
+        [
+            "Open", 
+            "Resolved", 
+            "27d 10h 28m"
+        ]
+    ], 
+    "FLUME-1277": [
+        [
+            "Patch Available", 
+            "Open", 
+            "16s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "134d 14h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 3h 44m"
+        ]
+    ], 
+    "FLUME-1270": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 2h 50m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "10h 32m"
+        ]
+    ], 
+    "FLUME-1271": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 19m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 10m"
+        ]
+    ], 
+    "FLUME-1547": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Open", 
+            "40d 8h 55m"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "20s"
+        ]
+    ], 
+    "FLUME-1544": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 5m"
+        ]
+    ], 
+    "FLUME-1545": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 26m"
+        ]
+    ], 
+    "FLUME-1541": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "28m 50s"
+        ]
+    ], 
+    "FLUME-1421": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 7s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "27m 59s"
+        ]
+    ], 
+    "FLUME-1422": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 6m"
+        ]
+    ], 
+    "FLUME-71": [
+        [
+            "Open", 
+            "Blocked", 
+            "4h 42m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 15h 41m"
+        ]
+    ], 
+    "FLUME-160": [
+        [
+            "Open", 
+            "Blocked", 
+            "1h 26m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 4h 27m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16s"
+        ]
+    ], 
+    "FLUME-163": [
+        [
+            "Open", 
+            "Blocked", 
+            "18h 4m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "18h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 20h 33m"
+        ]
+    ], 
+    "FLUME-773": [
+        [
+            "Open", 
+            "Patch Available", 
+            "13d 11h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 15h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 22h 19m"
+        ]
+    ], 
+    "FLUME-2088": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11d 4h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 17m"
+        ]
+    ], 
+    "FLUME-1659": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10d 12m"
+        ]
+    ], 
+    "FLUME-2082": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 3h 27m"
+        ]
+    ], 
+    "FLUME-2083": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 15h 10m"
+        ]
+    ], 
+    "FLUME-2081": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 3h 18m"
+        ]
+    ], 
+    "FLUME-75": [
+        [
+            "Open", 
+            "Blocked", 
+            "72d 2h 3m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 12h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "68d 23h 33m"
+        ]
+    ], 
+    "FLUME-1017": [
+        [
+            "Open", 
+            "Patch Available", 
+            "33d 16h 11m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "25m 24s"
+        ]
+    ], 
+    "FLUME-1018": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7d 16h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13m 3s"
+        ]
+    ], 
+    "FLUME-3278": [
+        [
+            "Open", 
+            "In Progress", 
+            "21s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 50m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 8h 44m"
+        ]
+    ], 
+    "FLUME-1104": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 7m"
+        ]
+    ], 
+    "FLUME-3270": [
+        [
+            "Open", 
+            "In Progress", 
+            "1d 18h 7m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 20h 59m"
+        ]
+    ], 
+    "FLUME-1893": [
+        [
+            "Open", 
+            "Patch Available", 
+            "53m 20s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "95d 20h 10m"
+        ]
+    ], 
+    "FLUME-1650": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 8m"
+        ]
+    ], 
+    "FLUME-2844": [
+        [
+            "Open", 
+            "Patch Available", 
+            "247d 4h 42m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 10h"
+        ]
+    ], 
+    "FLUME-549": [
+        [
+            "Open", 
+            "Resolved", 
+            "9h 47m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "154d 9h 50m"
+        ]
+    ], 
+    "FLUME-2594": [
+        [
+            "Open", 
+            "Resolved", 
+            "50m 58s"
+        ]
+    ], 
+    "FLUME-2595": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 19h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "76d 57m"
+        ]
+    ], 
+    "FLUME-2592": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 13h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "21d 8h 3m"
+        ]
+    ], 
+    "FLUME-2593": [
+        [
+            "Open", 
+            "Resolved", 
+            "274d 17h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "239d 15h 47m"
+        ]
+    ], 
+    "FLUME-681": [
+        [
+            "Open", 
+            "Blocked", 
+            "3m 15s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "6d 19h 11m"
+        ]
+    ], 
+    "FLUME-682": [
+        [
+            "Open", 
+            "Blocked", 
+            "58m 37s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "4d 3h 4m"
+        ]
+    ], 
+    "FLUME-232": [
+        [
+            "Open", 
+            "Blocked", 
+            "39d 1h 1m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "7d 22h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "38d 17h 36m"
+        ]
+    ], 
+    "FLUME-1099": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 39s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 39m"
+        ]
+    ], 
+    "FLUME-766": [
+        [
+            "Open", 
+            "Patch Available", 
+            "11m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 32m"
+        ]
+    ], 
+    "FLUME-898": [
+        [
+            "Open", 
+            "Resolved", 
+            "53m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 8h 44m"
+        ]
+    ], 
+    "FLUME-765": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 42m"
+        ]
+    ], 
+    "FLUME-2797": [
+        [
+            "Open", 
+            "Patch Available", 
+            "313d 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42d 5h 30m"
+        ]
+    ], 
+    "FLUME-833": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52d 11h 58m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 4h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-2798": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 2h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 18h 17m"
+        ]
+    ], 
+    "FLUME-768": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 21h 4m"
+        ]
+    ], 
+    "FLUME-769": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 1h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "FLUME-1164": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9d 21h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 15m"
+        ]
+    ], 
+    "FLUME-2014": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 29m"
+        ]
+    ], 
+    "FLUME-2011": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 13h 26m"
+        ]
+    ], 
+    "FLUME-2159": [
+        [
+            "Patch Available", 
+            "Open", 
+            "23h 47m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "61d 22h 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42m 1s"
+        ]
+    ], 
+    "FLUME-2012": [
+        [
+            "Open", 
+            "Patch Available", 
+            "52m 31s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 12h 45m"
+        ]
+    ], 
+    "FLUME-1087": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 18m"
+        ]
+    ], 
+    "FLUME-2156": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30m 48s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 6h 15m"
+        ]
+    ], 
+    "FLUME-2157": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 22m"
+        ]
+    ], 
+    "FLUME-1083": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 26m"
+        ]
+    ], 
+    "FLUME-2151": [
+        [
+            "Patch Available", 
+            "Open", 
+            "12m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "19h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "216d 19h 39m"
+        ]
+    ], 
+    "FLUME-1080": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 27m"
+        ]
+    ], 
+    "FLUME-2568": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43d 22h 59m"
+        ]
+    ], 
+    "FLUME-3157": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 17h 21m"
+        ]
+    ], 
+    "FLUME-3155": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 50m"
+        ]
+    ], 
+    "FLUME-3152": [
+        [
+            "Open", 
+            "In Progress", 
+            "20h 56m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 7h 9m"
+        ]
+    ], 
+    "FLUME-1939": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 16h 18m"
+        ]
+    ], 
+    "FLUME-1285": [
+        [
+            "Open", 
+            "In Progress", 
+            "315d 17h 45m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55d 15h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "472d 8h 38m"
+        ]
+    ], 
+    "FLUME-1934": [
+        [
+            "Open", 
+            "Resolved", 
+            "157d 18h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "598d 19h 26m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "1m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 7h 30m"
+        ]
+    ], 
+    "FLUME-1932": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 30s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 1h 45m"
+        ]
+    ], 
+    "FLUME-1931": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 1m"
+        ]
+    ], 
+    "FLUME-1930": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14d 11h 3m"
+        ]
+    ], 
+    "FLUME-2905": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6d 18h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "417d 17h 44m"
+        ]
+    ], 
+    "FLUME-1834": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 6h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 17h 29m"
+        ]
+    ], 
+    "FLUME-1835": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 6h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11d 15h 35m"
+        ]
+    ], 
+    "FLUME-908": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "32m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "15s"
+        ]
+    ], 
+    "FLUME-909": [
+        [
+            "Open", 
+            "Resolved", 
+            "38m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1d 5h 19m"
+        ]
+    ], 
+    "FLUME-906": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 31m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 23m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-907": [
+        [
+            "Open", 
+            "Patch Available", 
+            "17h 36m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-905": [
+        [
+            "Patch Available", 
+            "Open", 
+            "22s"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "40m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55m 50s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-902": [
+        [
+            "Open", 
+            "Patch Available", 
+            "29m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 19h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-903": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 18h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-614": [
+        [
+            "Open", 
+            "Blocked", 
+            "11h 5m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "11h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 5h 44m"
+        ]
+    ], 
+    "FLUME-304": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 11h 46m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 21h 58m"
+        ]
+    ], 
+    "FLUME-1937": [
+        [
+            "Open", 
+            "Resolved", 
+            "49m 44s"
+        ]
+    ], 
+    "FLUME-586": [
+        [
+            "Open", 
+            "Blocked", 
+            "5h 40m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "18d 7h 5m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 18h 49m"
+        ]
+    ], 
+    "FLUME-1": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 11h 22m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "7d 2h 26m"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "20d 21h 8m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 11h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 13h 48m"
+        ]
+    ], 
+    "FLUME-2": [
+        [
+            "Open", 
+            "Blocked", 
+            "45d 23h 13m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "6d 17h 13m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "113d 22h 40m"
+        ]
+    ], 
+    "FLUME-4": [
+        [
+            "Open", 
+            "In Progress", 
+            "5d 17h 21m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 4h 8m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 9h 34m"
+        ]
+    ], 
+    "FLUME-7": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 22h 23m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "7d 6h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "153d 7h 7m"
+        ]
+    ], 
+    "FLUME-3112": [
+        [
+            "Open", 
+            "Patch Available", 
+            "30d 8h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 45m"
+        ]
+    ], 
+    "FLUME-9": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 8h 30m"
+        ], 
+        [
+            "In Progress", 
+            "Closed", 
+            "10d 4h 30m"
+        ]
+    ], 
+    "FLUME-8": [
+        [
+            "Open", 
+            "In Progress", 
+            "3d 22h 4m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3d 4h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "157d 9h 32m"
+        ]
+    ], 
+    "FLUME-1582": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 23h 1m"
+        ]
+    ], 
+    "FLUME-2334": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 18m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 39m"
+        ]
+    ], 
+    "FLUME-2335": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5m 23s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13h 48m"
+        ]
+    ], 
+    "FLUME-2336": [
+        [
+            "Open", 
+            "Patch Available", 
+            "27m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 44m"
+        ]
+    ], 
+    "FLUME-2337": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "194d 19h 49m"
+        ]
+    ], 
+    "FLUME-2338": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 5h 8m"
+        ]
+    ], 
+    "FLUME-1232": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21d 23h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 7h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "80d 15h 59m"
+        ]
+    ], 
+    "FLUME-303": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 12h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 21h 59m"
+        ]
+    ], 
+    "FLUME-1948": [
+        [
+            "Open", 
+            "In Progress", 
+            "32d 1h 14m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "6s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 50m"
+        ]
+    ], 
+    "FLUME-1949": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 29s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 15m"
+        ]
+    ], 
+    "FLUME-3127": [
+        [
+            "Open", 
+            "In Progress", 
+            "15d 2h 35m"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "33d 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 19h 39m"
+        ]
+    ], 
+    "FLUME-1230": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 9h 32m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "40s"
+        ]
+    ], 
+    "FLUME-1943": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 18h 25m"
+        ]
+    ], 
+    "FLUME-2567": [
+        [
+            "Open", 
+            "Resolved", 
+            "572d 4h 11m"
+        ]
+    ], 
+    "FLUME-1234": [
+        [
+            "Open", 
+            "Patch Available", 
+            "15h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 18h 23m"
+        ]
+    ], 
+    "FLUME-2560": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7m 43s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "42m 11s"
+        ]
+    ], 
+    "FLUME-1236": [
+        [
+            "Open", 
+            "Patch Available", 
+            "44m 3s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h"
+        ]
+    ], 
+    "FLUME-3085": [
+        [
+            "Open", 
+            "Resolved", 
+            "24d 23h 57m"
+        ]
+    ], 
+    "FLUME-2645": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 17h 37m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "26d 17h 16m"
+        ]
+    ], 
+    "FLUME-831": [
+        [
+            "Open", 
+            "Patch Available", 
+            "12d 16h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 12m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "41d 10h"
+        ]
+    ], 
+    "FLUME-1136": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11h 55m"
+        ]
+    ], 
+    "FLUME-2649": [
+        [
+            "Open", 
+            "Resolved", 
+            "21d 6h 25m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4d 6h 6m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 6h 2m"
+        ]
+    ], 
+    "FLUME-1748": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 3h 47m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19m"
+        ]
+    ], 
+    "FLUME-2639": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 39m"
+        ]
+    ], 
+    "FLUME-1741": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 3h 45m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "185d 12h 11m"
+        ]
+    ], 
+    "FLUME-868": [
+        [
+            "Open", 
+            "Resolved", 
+            "20m 40s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FLUME-2894": [
+        [
+            "Open", 
+            "Patch Available", 
+            "280d 2h 33m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "492d 22h 57m"
+        ]
+    ], 
+    "FLUME-2897": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 53m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "81d 2h 6m"
+        ]
+    ], 
+    "FLUME-2891": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "100d 22h 12m"
+        ]
+    ], 
+    "FLUME-3141": [
+        [
+            "Open", 
+            "Resolved", 
+            "22h 9m"
+        ]
+    ], 
+    "FLUME-3056": [
+        [
+            "Open", 
+            "Resolved", 
+            "381d 21h 42m"
+        ]
+    ], 
+    "FLUME-1130": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54m 51s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "4h 46m"
+        ], 
+        [
+            "Reopened", 
+            "Patch Available", 
+            "19h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 12m"
+        ]
+    ], 
+    "FLUME-2200": [
+        [
+            "Open", 
+            "Patch Available", 
+            "9h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "9d 5h 10m"
+        ]
+    ], 
+    "FLUME-2208": [
+        [
+            "Open", 
+            "Patch Available", 
+            "54m 56s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 30m"
+        ]
+    ], 
+    "FLUME-2209": [
+        [
+            "Open", 
+            "Patch Available", 
+            "56d 15h 16m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 2h 7m"
+        ]
+    ], 
+    "FLUME-68": [
+        [
+            "Open", 
+            "Blocked", 
+            "10h 19m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "143d 14h 29m"
+        ]
+    ], 
+    "FLUME-3237": [
+        [
+            "Open", 
+            "In Progress", 
+            "14m 26s"
+        ], 
+        [
+            "In Progress", 
+            "Patch Available", 
+            "3d 2h 38m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "36d 23h 37m"
+        ]
+    ], 
+    "FLUME-1035": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 20h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 19m"
+        ]
+    ], 
+    "FLUME-894": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 20h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "51m 34s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10s"
+        ]
+    ], 
+    "FLUME-2416": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 16s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 53m"
+        ]
+    ], 
+    "FLUME-2806": [
+        [
+            "Open", 
+            "Resolved", 
+            "88d 1h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "171d 20h 18m"
+        ]
+    ], 
+    "FLUME-61": [
+        [
+            "Open", 
+            "Blocked", 
+            "21d 3h 20m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 8h 50m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 9h 25m"
+        ]
+    ], 
+    "FLUME-2804": [
+        [
+            "Open", 
+            "Resolved", 
+            "3d 1h 17m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "262d 19h 25m"
+        ]
+    ], 
+    "FLUME-275": [
+        [
+            "Open", 
+            "Blocked", 
+            "4d 14h 13m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "30m 27s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 19h 53m"
+        ]
+    ], 
+    "FLUME-1301": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16h 9m"
+        ]
+    ], 
+    "FLUME-1303": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 34s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 16m"
+        ]
+    ], 
+    "FLUME-348": [
+        [
+            "Open", 
+            "Blocked", 
+            "50m 4s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "18h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "25d 17h 4m"
+        ]
+    ], 
+    "FLUME-349": [
+        [
+            "Open", 
+            "Blocked", 
+            "4h 2m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "16h 5m"
+        ]
+    ], 
+    "FLUME-863": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3m 51s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "24d 7h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "10d 8h 46m"
+        ]
+    ], 
+    "FLUME-2966": [
+        [
+            "Patch Available", 
+            "Open", 
+            "1d 1h 16m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "32d 5h 5m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20d 11h 46m"
+        ]
+    ], 
+    "FLUME-887": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 7h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-229": [
+        [
+            "Open", 
+            "Blocked", 
+            "6d 20h 44m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "4d 23h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "75d 15h 57m"
+        ]
+    ], 
+    "FLUME-1512": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35m 18s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "10h 10m"
+        ]
+    ], 
+    "FLUME-1515": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 42s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "52d 17h 47m"
+        ]
+    ], 
+    "FLUME-345": [
+        [
+            "Open", 
+            "Blocked", 
+            "1d 24m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 10h 43m"
+        ]
+    ], 
+    "FLUME-1622": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 13m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12d 11h 58m"
+        ]
+    ], 
+    "FLUME-880": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 13h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "7s"
+        ]
+    ], 
+    "FLUME-159": [
+        [
+            "Open", 
+            "Blocked", 
+            "6d 14h 21m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "64d 17h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "47d 14h 14m"
+        ]
+    ], 
+    "FLUME-158": [
+        [
+            "Open", 
+            "Blocked", 
+            "7h 24m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2d 22h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 15h 52m"
+        ]
+    ], 
+    "FLUME-151": [
+        [
+            "Open", 
+            "Blocked", 
+            "35d 11h 3m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "10h 49m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "86d 20h 10m"
+        ]
+    ], 
+    "FLUME-153": [
+        [
+            "Blocked", 
+            "Open", 
+            "34m 27s"
+        ], 
+        [
+            "Open", 
+            "Blocked", 
+            "4d 2h 7m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3d 2h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "114d 14h 28m"
+        ]
+    ], 
+    "FLUME-474": [
+        [
+            "Open", 
+            "Blocked", 
+            "8m 46s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "36d 20h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "163d 9h 46m"
+        ]
+    ], 
+    "FLUME-154": [
+        [
+            "Open", 
+            "Blocked", 
+            "2d 22h 41m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 21h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "116d 17h 11m"
+        ]
+    ], 
+    "FLUME-1121": [
+        [
+            "Open", 
+            "Patch Available", 
+            "10d 19h 59m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8d 8h 6m"
+        ]
+    ], 
+    "FLUME-1124": [
+        [
+            "Patch Available", 
+            "Open", 
+            "11h 56m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 4h 21m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 3m"
+        ]
+    ], 
+    "FLUME-1125": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 12m"
+        ]
+    ], 
+    "FLUME-2110": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 21h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "11m 4s"
+        ]
+    ], 
+    "FLUME-1129": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5h 7m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 59m"
+        ]
+    ], 
+    "FLUME-1041": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 10h 41m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 21m"
+        ]
+    ], 
+    "FLUME-1040": [
+        [
+            "Open", 
+            "Patch Available", 
+            "5d 22h 56m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 9h 47m"
+        ]
+    ], 
+    "FLUME-1047": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 17m"
+        ]
+    ], 
+    "FLUME-1046": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 38s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "38m 33s"
+        ]
+    ], 
+    "FLUME-608": [
+        [
+            "Open", 
+            "Blocked", 
+            "54d 21h 12m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1m 46s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "19s"
+        ]
+    ], 
+    "ZOOKEEPER-499": [
+        [
+            "Patch Available", 
+            "Open", 
+            "3d 3h 10m"
+        ], 
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 18h 22m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 10m"
+        ]
+    ], 
+    "FLUME-2835": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 50s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3d 22h 24m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "227d 20h 14m"
+        ]
+    ], 
+    "FLUME-1743": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 17m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "19h 40m"
+        ]
+    ], 
+    "FLUME-280": [
+        [
+            "Open", 
+            "Blocked", 
+            "44d 10h 33m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "23h 8m"
+        ]
+    ], 
+    "FLUME-3031": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h 10m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 22h 37m"
+        ]
+    ], 
+    "FLUME-1511": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2d 21h 46m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "199d 22h 52m"
+        ]
+    ], 
+    "FLUME-656": [
+        [
+            "Open", 
+            "Blocked", 
+            "1d 10h 34m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "13d 20h 50m"
+        ]
+    ], 
+    "FLUME-719": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 10h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5d 11h 45m"
+        ]
+    ], 
+    "FLUME-718": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6d 22h 56m"
+        ]
+    ], 
+    "FLUME-3057": [
+        [
+            "Open", 
+            "Patch Available", 
+            "22d 1m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "161d 8h 31m"
+        ]
+    ], 
+    "FLUME-602": [
+        [
+            "Open", 
+            "Blocked", 
+            "5d 4h 48m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1m 15s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "107d 19h 46m"
+        ]
+    ], 
+    "FLUME-339": [
+        [
+            "Open", 
+            "Blocked", 
+            "6d 22h 8m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "16h 8m"
+        ]
+    ], 
+    "FLUME-2761": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "344d 21h 29m"
+        ]
+    ], 
+    "FLUME-858": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 17s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "13d 6h 34m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "22d 5h 5m"
+        ]
+    ], 
+    "FLUME-2749": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 43m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "326d 12h 51m"
+        ]
+    ], 
+    "FLUME-622": [
+        [
+            "Open", 
+            "Blocked", 
+            "56m 18s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "19h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "97d 2h 19m"
+        ]
+    ], 
+    "FLUME-1882": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 11s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "45d 3h 59m"
+        ]
+    ], 
+    "FLUME-1880": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 32s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 21m"
+        ]
+    ], 
+    "FLUME-606": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 28s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "106d 17h 34m"
+        ]
+    ], 
+    "FLUME-1513": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 14s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 20h 8m"
+        ]
+    ], 
+    "FLUME-1869": [
+        [
+            "Open", 
+            "Resolved", 
+            "18h 30m"
+        ]
+    ], 
+    "FLUME-1868": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3h 28m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15h 58m"
+        ]
+    ], 
+    "FLUME-3046": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 19h 40m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "231d 12h 40m"
+        ]
+    ], 
+    "FLUME-3049": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 3h 52m"
+        ]
+    ], 
+    "FLUME-1863": [
+        [
+            "Open", 
+            "Patch Available", 
+            "49s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 49m"
+        ]
+    ], 
+    "FLUME-1862": [
+        [
+            "Open", 
+            "Patch Available", 
+            "7h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 42m"
+        ]
+    ], 
+    "FLUME-1865": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 1h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 43m"
+        ]
+    ], 
+    "FLUME-1867": [
+        [
+            "Open", 
+            "Patch Available", 
+            "88d 17h 2m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "16d 41m"
+        ]
+    ], 
+    "FLUME-1866": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 47s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "71d 19h 20m"
+        ]
+    ], 
+    "FLUME-1709": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 21h 19m"
+        ]
+    ], 
+    "FLUME-913": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 43m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FLUME-1570": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 24m"
+        ]
+    ], 
+    "FLUME-1705": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8h 53m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 18m"
+        ]
+    ], 
+    "FLUME-1707": [
+        [
+            "Open", 
+            "Patch Available", 
+            "16h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "14h 25m"
+        ]
+    ], 
+    "FLUME-2245": [
+        [
+            "Open", 
+            "Resolved", 
+            "173d 18h 23m"
+        ]
+    ], 
+    "FLUME-376": [
+        [
+            "Open", 
+            "Blocked", 
+            "2d 2h 7m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "19d 15h 12m"
+        ]
+    ], 
+    "FLUME-2366": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 23h 35m"
+        ]
+    ], 
+    "FLUME-595": [
+        [
+            "Open", 
+            "Blocked", 
+            "2d 1h 18m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "15d 15h 20m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 10h 7m"
+        ]
+    ], 
+    "FLUME-1348": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "20h 52m"
+        ]
+    ], 
+    "FLUME-1349": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1h"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 44m"
+        ]
+    ], 
+    "FLUME-1341": [
+        [
+            "Open", 
+            "Patch Available", 
+            "6h 20m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "6h 56m"
+        ]
+    ], 
+    "FLUME-1344": [
+        [
+            "Open", 
+            "Patch Available", 
+            "38m 19s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "3h 18m"
+        ]
+    ], 
+    "FLUME-2450": [
+        [
+            "Open", 
+            "Patch Available", 
+            "23h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2d 19h 5m"
+        ]
+    ], 
+    "FLUME-1346": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1m 37s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "5h 18m"
+        ]
+    ], 
+    "FLUME-1347": [
+        [
+            "Open", 
+            "Patch Available", 
+            "41m 59s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 17m"
+        ]
+    ], 
+    "FLUME-2514": [
+        [
+            "Open", 
+            "Patch Available", 
+            "201d 8h 24m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "437d 9h 18m"
+        ]
+    ], 
+    "FLUME-1262": [
+        [
+            "Open", 
+            "Patch Available", 
+            "229d 6h 3m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "83d 21h 52m"
+        ]
+    ], 
+    "FLUME-2517": [
+        [
+            "Open", 
+            "Patch Available", 
+            "35m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4d 23h 17m"
+        ]
+    ], 
+    "FLUME-260": [
+        [
+            "Open", 
+            "Blocked", 
+            "1d 23h 51m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1m 14s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "66d 15h 54m"
+        ]
+    ], 
+    "FLUME-2920": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "8d 3h 20m"
+        ]
+    ], 
+    "FLUME-2923": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 14h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "16h 54m"
+        ]
+    ], 
+    "FLUME-2922": [
+        [
+            "Open", 
+            "Resolved", 
+            "40d 9h 2m"
+        ]
+    ], 
+    "FLUME-1555": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 56m"
+        ]
+    ], 
+    "FLUME-305": [
+        [
+            "Open", 
+            "Blocked", 
+            "180d 6h 50m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 18h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "95d 5h 20m"
+        ]
+    ], 
+    "FLUME-1557": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 2h 21m"
+        ]
+    ], 
+    "FLUME-1553": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4m 44s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "8h 36m"
+        ]
+    ], 
+    "FLUME-1552": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18m 10s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 50m"
+        ]
+    ], 
+    "FLUME-1414": [
+        [
+            "Open", 
+            "Patch Available", 
+            "21m 21s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "55m 19s"
+        ]
+    ], 
+    "FLUME-1416": [
+        [
+            "Open", 
+            "Resolved", 
+            "12h 6m"
+        ]
+    ], 
+    "FLUME-1417": [
+        [
+            "Open", 
+            "Patch Available", 
+            "3d 16h 49m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 22m"
+        ]
+    ], 
+    "FLUME-1412": [
+        [
+            "Open", 
+            "Patch Available", 
+            "20m 55s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "4m 12s"
+        ]
+    ], 
+    "FLUME-117": [
+        [
+            "Open", 
+            "Blocked", 
+            "34m 23s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "7h 57m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "130d 8h 59m"
+        ]
+    ], 
+    "FLUME-116": [
+        [
+            "Open", 
+            "Blocked", 
+            "1h 14m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "3d 7h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 9h 31m"
+        ]
+    ], 
+    "FLUME-111": [
+        [
+            "Open", 
+            "Blocked", 
+            "3d 1h 11m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "2h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "128d 12h 44m"
+        ]
+    ], 
+    "FLUME-2098": [
+        [
+            "Open", 
+            "Patch Available", 
+            "1d 23h 52m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "2h 12m"
+        ]
+    ], 
+    "FLUME-113": [
+        [
+            "Open", 
+            "Blocked", 
+            "3d 21h 44m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "5h 59m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "127d 5h 57m"
+        ]
+    ], 
+    "FLUME-597": [
+        [
+            "Open", 
+            "Blocked", 
+            "2d 1h 5m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "15d 15h 19m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "104d 10h 7m"
+        ]
+    ], 
+    "FLUME-119": [
+        [
+            "Open", 
+            "Blocked", 
+            "11h 31m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "4d 1h 37m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "125d 18h 24m"
+        ]
+    ], 
+    "FLUME-284": [
+        [
+            "Open", 
+            "Blocked", 
+            "3d 3h 31m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "53s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "50d 21h 37m"
+        ]
+    ], 
+    "FLUME-1005": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 35s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1h 33m"
+        ]
+    ], 
+    "FLUME-286": [
+        [
+            "Open", 
+            "Blocked", 
+            "14d 4h 36m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1d 13h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "37d 22h 3m"
+        ]
+    ], 
+    "FLUME-1002": [
+        [
+            "Open", 
+            "Patch Available", 
+            "8d 7h 30m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "15d"
+        ]
+    ], 
+    "FLUME-1009": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 51m"
+        ]
+    ], 
+    "FLUME-1309": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2m 36s"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "43m 37s"
+        ]
+    ], 
+    "FLUME-2397": [
+        [
+            "Open", 
+            "Patch Available", 
+            "2h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "17h 48m"
+        ]
+    ], 
+    "FLUME-14": [
+        [
+            "Open", 
+            "In Progress", 
+            "9d"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "3h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "153d 7h 6m"
+        ]
+    ], 
+    "FLUME-2399": [
+        [
+            "Open", 
+            "Resolved", 
+            "774d 2h 37m"
+        ]
+    ], 
+    "FLUME-1304": [
+        [
+            "Open", 
+            "Patch Available", 
+            "4d 3h 15m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "12h 9m"
+        ]
+    ], 
+    "FLUME-571": [
+        [
+            "Open", 
+            "Blocked", 
+            "14m 56s"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "4h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "141d 3h 55m"
+        ]
+    ], 
+    "FLUME-2586": [
+        [
+            "Open", 
+            "Patch Available", 
+            "18d 2h 29m"
+        ], 
+        [
+            "Patch Available", 
+            "Resolved", 
+            "1d 19h 5m"
+        ]
+    ], 
+    "FLUME-2857": [
+        [
+            "Open", 
+            "Resolved", 
+            "317d 21m"
+        ]
+    ], 
+    "FLUME-270": [
+        [
+            "Open", 
+            "Blocked", 
+            "3h 24m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "1h 36m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "64d 11h 44m"
+        ]
+    ], 
+    "FLUME-272": [
+        [
+            "Open", 
+            "Blocked", 
+            "8h 53m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "9d 6h 15m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "54d 11h 37m"
+        ]
+    ], 
+    "FLUME-1306": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h 33m"
+        ]
+    ], 
+    "FLUME-276": [
+        [
+            "Open", 
+            "Blocked", 
+            "3d 22m"
+        ], 
+        [
+            "Blocked", 
+            "Resolved", 
+            "30m 59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "55d 19h 53m"
+        ]
+    ]
+}

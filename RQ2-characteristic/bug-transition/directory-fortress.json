@@ -1,0 +1,504 @@
+{
+    "FC-94": [
+        [
+            "Open", 
+            "Closed", 
+            "789d 6h 58m"
+        ]
+    ], 
+    "FC-38": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "1d 16h 16m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "491d 23h 13m"
+        ]
+    ], 
+    "FC-39": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 12s"
+        ]
+    ], 
+    "FC-37": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 52m"
+        ]
+    ], 
+    "FC-33": [
+        [
+            "Open", 
+            "Closed", 
+            "27d 1h 39m"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "147d 8h 14m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "264d 12h 46m"
+        ]
+    ], 
+    "FC-110": [
+        [
+            "Open", 
+            "Resolved", 
+            "56m 33s"
+        ]
+    ], 
+    "FC-237": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 18h 22m"
+        ]
+    ], 
+    "FC-236": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 20h 32m"
+        ]
+    ], 
+    "FC-98": [
+        [
+            "Open", 
+            "Resolved", 
+            "9d 4h 36m"
+        ]
+    ], 
+    "FC-118": [
+        [
+            "Open", 
+            "Resolved", 
+            "3h 6m"
+        ]
+    ], 
+    "FC-165": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 23m"
+        ]
+    ], 
+    "FC-259": [
+        [
+            "Open", 
+            "Resolved", 
+            "152d 19h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FC-95": [
+        [
+            "Open", 
+            "Resolved", 
+            "12d 18h 23m"
+        ]
+    ], 
+    "FC-201": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 12h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "161d 59m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "51m 58s"
+        ]
+    ], 
+    "FC-90": [
+        [
+            "Open", 
+            "Resolved", 
+            "22d 17h 49m"
+        ]
+    ], 
+    "FC-92": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 19h 18m"
+        ]
+    ], 
+    "FC-182": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 53s"
+        ]
+    ], 
+    "FC-105": [
+        [
+            "Open", 
+            "Resolved", 
+            "237d 23h 36m"
+        ]
+    ], 
+    "FC-107": [
+        [
+            "Open", 
+            "Resolved", 
+            "236d 7h 3m"
+        ]
+    ], 
+    "FC-219": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 18h 3m"
+        ]
+    ], 
+    "FC-100": [
+        [
+            "Open", 
+            "Closed", 
+            "5m 38s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "19s"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "6d 21h 20m"
+        ]
+    ], 
+    "FC-102": [
+        [
+            "Open", 
+            "Resolved", 
+            "800d 7h 31m"
+        ]
+    ], 
+    "FC-141": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 15m"
+        ]
+    ], 
+    "FC-140": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 5h 18m"
+        ]
+    ], 
+    "FC-4": [
+        [
+            "Open", 
+            "Resolved", 
+            "32d 2h 16m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "5s"
+        ]
+    ], 
+    "FC-142": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 4h 15m"
+        ]
+    ], 
+    "FC-121": [
+        [
+            "Open", 
+            "Resolved", 
+            "77d 13h 2m"
+        ]
+    ], 
+    "FC-120": [
+        [
+            "Open", 
+            "Closed", 
+            "607d 19h"
+        ]
+    ], 
+    "FC-61": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 29s"
+        ]
+    ], 
+    "FC-60": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 12s"
+        ]
+    ], 
+    "FC-63": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 32m"
+        ]
+    ], 
+    "FC-65": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 42s"
+        ]
+    ], 
+    "FC-64": [
+        [
+            "Open", 
+            "Resolved", 
+            "1h 36m"
+        ]
+    ], 
+    "FC-67": [
+        [
+            "Open", 
+            "Resolved", 
+            "7d 23h 17m"
+        ]
+    ], 
+    "FC-47": [
+        [
+            "Open", 
+            "Resolved", 
+            "11h 45m"
+        ]
+    ], 
+    "FC-93": [
+        [
+            "Open", 
+            "Resolved", 
+            "18d 12h 18m"
+        ]
+    ], 
+    "FC-29": [
+        [
+            "Open", 
+            "Resolved", 
+            "52d 23h 22m"
+        ]
+    ], 
+    "FC-12": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 14m"
+        ]
+    ], 
+    "FC-117": [
+        [
+            "Open", 
+            "Closed", 
+            "2h 35m"
+        ]
+    ], 
+    "FC-80": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 50s"
+        ]
+    ], 
+    "FC-246": [
+        [
+            "Open", 
+            "Resolved", 
+            "23d 22h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4s"
+        ]
+    ], 
+    "FC-86": [
+        [
+            "Open", 
+            "Resolved", 
+            "282d 13h"
+        ]
+    ], 
+    "FC-112": [
+        [
+            "Open", 
+            "Resolved", 
+            "28d 3h 58m"
+        ]
+    ], 
+    "FC-192": [
+        [
+            "Open", 
+            "Resolved", 
+            "15d 16h 47m"
+        ]
+    ], 
+    "FC-113": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 33m"
+        ]
+    ], 
+    "FC-229": [
+        [
+            "Open", 
+            "Resolved", 
+            "2h 55m"
+        ]
+    ], 
+    "FC-114": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 3h 32m"
+        ]
+    ], 
+    "FC-134": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 54s"
+        ]
+    ], 
+    "FC-136": [
+        [
+            "Open", 
+            "Resolved", 
+            "54m 18s"
+        ]
+    ], 
+    "FC-208": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 3h 32m"
+        ]
+    ], 
+    "FC-209": [
+        [
+            "Open", 
+            "Closed", 
+            "4d 3h 39m"
+        ]
+    ], 
+    "FC-204": [
+        [
+            "Open", 
+            "Resolved", 
+            "125d 5m"
+        ]
+    ], 
+    "FC-151": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 35m"
+        ]
+    ], 
+    "FC-226": [
+        [
+            "Open", 
+            "Resolved", 
+            "292d 9h 24m"
+        ]
+    ], 
+    "FC-227": [
+        [
+            "Open", 
+            "Resolved", 
+            "292d 9h 22m"
+        ]
+    ], 
+    "FC-73": [
+        [
+            "Open", 
+            "Resolved", 
+            "2m 13s"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "10d 6h 56m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "315d 15h 36m"
+        ]
+    ], 
+    "FC-70": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 18s"
+        ]
+    ], 
+    "FC-76": [
+        [
+            "Open", 
+            "Resolved", 
+            "373d 15h 48m"
+        ]
+    ], 
+    "FC-74": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 6m"
+        ]
+    ], 
+    "FC-54": [
+        [
+            "Open", 
+            "Resolved", 
+            "61d 22h 52m"
+        ]
+    ], 
+    "FC-57": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 7h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Reopened", 
+            "36d 21h 33m"
+        ], 
+        [
+            "Reopened", 
+            "Resolved", 
+            "9m 26s"
+        ]
+    ]
+}

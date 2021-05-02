@@ -1,0 +1,628 @@
+{
+    "ETCH-80": [
+        [
+            "Open", 
+            "In Progress", 
+            "186d 19h 31m"
+        ], 
+        [
+            "In Progress", 
+            "Open", 
+            "23m 18s"
+        ], 
+        [
+            "Open", 
+            "Resolved", 
+            "18s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "2m 17s"
+        ]
+    ], 
+    "ETCH-164": [
+        [
+            "Open", 
+            "Resolved", 
+            "2d 5h 40m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "152d 11m"
+        ]
+    ], 
+    "ETCH-165": [
+        [
+            "Open", 
+            "Closed", 
+            "43m 23s"
+        ], 
+        [
+            "Closed", 
+            "Reopened", 
+            "6d 18h 43m"
+        ], 
+        [
+            "Reopened", 
+            "In Progress", 
+            "64d 16h 29m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "47d 4h 31m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 20h 20m"
+        ]
+    ], 
+    "ETCH-210": [
+        [
+            "Open", 
+            "Resolved", 
+            "4h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "607d 19h 25m"
+        ]
+    ], 
+    "ETCH-160": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 1h 2m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "232d 22h 14m"
+        ]
+    ], 
+    "ETCH-161": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 16h 10m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "201d 4h"
+        ]
+    ], 
+    "ETCH-276": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 4m"
+        ]
+    ], 
+    "ETCH-277": [
+        [
+            "Open", 
+            "In Progress", 
+            "7d 17h 51m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "5d 1h 1m"
+        ]
+    ], 
+    "ETCH-275": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 20h 7m"
+        ]
+    ], 
+    "ETCH-272": [
+        [
+            "Open", 
+            "In Progress", 
+            "9m 29s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "58m 58s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "133d 23h 59m"
+        ]
+    ], 
+    "ETCH-273": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "54d 21h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "28d 19h 53m"
+        ]
+    ], 
+    "ETCH-270": [
+        [
+            "Open", 
+            "In Progress", 
+            "8s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "104d 4h 29m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 18h 47m"
+        ]
+    ], 
+    "ETCH-23": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 41s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1759d 12h 31m"
+        ]
+    ], 
+    "ETCH-26": [
+        [
+            "Open", 
+            "In Progress", 
+            "1009d 4h 3m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "47d 5h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 19h 23m"
+        ]
+    ], 
+    "ETCH-27": [
+        [
+            "Open", 
+            "Resolved", 
+            "5d 19h 39m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1703d 14h 35m"
+        ]
+    ], 
+    "ETCH-24": [
+        [
+            "Open", 
+            "Resolved", 
+            "45d 52m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1707d 13h 57m"
+        ]
+    ], 
+    "ETCH-25": [
+        [
+            "Open", 
+            "Resolved", 
+            "6d 7h 58m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1709d 9h 6m"
+        ]
+    ], 
+    "ETCH-28": [
+        [
+            "Open", 
+            "In Progress", 
+            "13m 46s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "4d 19h 7m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1703d 14h 42m"
+        ]
+    ], 
+    "ETCH-189": [
+        [
+            "Open", 
+            "Resolved", 
+            "34d 20h 3m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "26d 18h 53m"
+        ]
+    ], 
+    "ETCH-278": [
+        [
+            "Open", 
+            "In Progress", 
+            "109d 23h 28m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 20h"
+        ]
+    ], 
+    "ETCH-69": [
+        [
+            "Open", 
+            "Resolved", 
+            "10d 21h 6m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1603d 11h 49m"
+        ]
+    ], 
+    "ETCH-287": [
+        [
+            "Open", 
+            "In Progress", 
+            "19s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "32d 22h 31m"
+        ]
+    ], 
+    "ETCH-280": [
+        [
+            "Open", 
+            "In Progress", 
+            "11s"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "2d 18h 7m"
+        ]
+    ], 
+    "ETCH-119": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 2h 30m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "391d 23h 23m"
+        ]
+    ], 
+    "ETCH-171": [
+        [
+            "Open", 
+            "Resolved", 
+            "5m 16s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "115d 15h 24m"
+        ]
+    ], 
+    "ETCH-116": [
+        [
+            "Open", 
+            "Resolved", 
+            "1m 20s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "413d 20h 36m"
+        ]
+    ], 
+    "ETCH-114": [
+        [
+            "Open", 
+            "Resolved", 
+            "19d 22h 51m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "400d 1h 56m"
+        ]
+    ], 
+    "ETCH-6": [
+        [
+            "Open", 
+            "Resolved", 
+            "14d 7h 41m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1759d 10h 59m"
+        ]
+    ], 
+    "ETCH-262": [
+        [
+            "Open", 
+            "In Progress", 
+            "6d 22h 47m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "149d 23h 9m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 18h 49m"
+        ]
+    ], 
+    "ETCH-156": [
+        [
+            "Open", 
+            "Resolved", 
+            "16h 21m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 6h 51m"
+        ]
+    ], 
+    "ETCH-155": [
+        [
+            "Open", 
+            "Resolved", 
+            "6m 3s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "311d 15h 14m"
+        ]
+    ], 
+    "ETCH-267": [
+        [
+            "Open", 
+            "In Progress", 
+            "111d 8h 13m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "41d 8h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "29d 17h 23m"
+        ]
+    ], 
+    "ETCH-209": [
+        [
+            "Open", 
+            "Resolved", 
+            "566d 19h 26m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "48d 19h 4m"
+        ]
+    ], 
+    "ETCH-117": [
+        [
+            "Open", 
+            "Resolved", 
+            "4m 2s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "413d 20h 30m"
+        ]
+    ], 
+    "ETCH-31": [
+        [
+            "Open", 
+            "Resolved", 
+            "23h 28m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1702d 15h 1m"
+        ]
+    ], 
+    "ETCH-8": [
+        [
+            "Open", 
+            "Resolved", 
+            "8d 5h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1765d 12h 44m"
+        ]
+    ], 
+    "ETCH-57": [
+        [
+            "Open", 
+            "Resolved", 
+            "59s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1694d 10h 52m"
+        ]
+    ], 
+    "ETCH-56": [
+        [
+            "Open", 
+            "Resolved", 
+            "8m 12s"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1694d 11h 14m"
+        ]
+    ], 
+    "ETCH-18": [
+        [
+            "Open", 
+            "Resolved", 
+            "11d 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1759d 15h 57m"
+        ]
+    ], 
+    "ETCH-77": [
+        [
+            "Open", 
+            "Resolved", 
+            "7h 11m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 13h 34m"
+        ]
+    ], 
+    "ETCH-76": [
+        [
+            "Open", 
+            "Resolved", 
+            "8h 1m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "4d 13h 34m"
+        ]
+    ], 
+    "ETCH-11": [
+        [
+            "Open", 
+            "Resolved", 
+            "16d 3h 55m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "1757d 12h 49m"
+        ]
+    ], 
+    "ETCH-290": [
+        [
+            "Open", 
+            "In Progress", 
+            "12d 55m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "1d 18h 21m"
+        ]
+    ], 
+    "ETCH-291": [
+        [
+            "Open", 
+            "Resolved", 
+            "1d 17h 58m"
+        ]
+    ], 
+    "ETCH-108": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 6h 44m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "432d 22h 39m"
+        ]
+    ], 
+    "ETCH-109": [
+        [
+            "Open", 
+            "In Progress", 
+            "10d 4h 41m"
+        ], 
+        [
+            "In Progress", 
+            "Resolved", 
+            "164d 1h 18m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "259d 22h 11m"
+        ]
+    ], 
+    "ETCH-106": [
+        [
+            "Open", 
+            "Resolved", 
+            "13d 6h 45m"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "432d 22h 41m"
+        ]
+    ], 
+    "ETCH-107": [
+        [
+            "Open", 
+            "Resolved", 
+            "4d 23h"
+        ], 
+        [
+            "Resolved", 
+            "Closed", 
+            "441d 6h 25m"
+        ]
+    ]
+}
