@@ -19,7 +19,6 @@
     *   patch-file：data about the cost of patched files.
     *   all-dep： data about all dependencies.
     *   dc-patch-dep: data about dependencies in dc bugs.
-    *   patch-dep: data about dependencies among patched files.
     *   pattern-instance: data about deteted patterns. 
     *   pattern-file: data about file in detected patterns.  
 6. Data-Summary: part of our originial data and experiemnt results.
